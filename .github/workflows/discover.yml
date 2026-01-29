@@ -5,6 +5,11 @@ on:
     - cron: '0 */6 * * *'  # Every 6 hours
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   discover:
     runs-on: ubuntu-latest
@@ -20,6 +25,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/fetch-packages.js
       
+      - name: Build static site
+        run: node scripts/build-site.js
+      
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -27,3 +35,25 @@ jobs:
           git add -A
           git diff --staged --quiet || git commit -m "chore: update packages $(date -u +%Y-%m-%d)"
           git push
+
+  deploy:
+    needs: discover
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      
+      - run: git pull origin main
+      
+      - uses: actions/configure-pages@v4
+      
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      
+      - id: deployment
+        uses: actions/deploy-pages@v4

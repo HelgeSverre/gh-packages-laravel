@@ -34,7 +34,13 @@
     "description": "A conlang dictionary Laravel package - the luxurious way to build, track, and browse your conlang's lexical data",
     "stars": 1,
     "updated": "yesterday",
-    "topics": ["laravel", "laravel-package", "languages", "authoring", "dictionary-tools"]
+    "topics": [
+      "laravel",
+      "laravel-package",
+      "languages",
+      "authoring",
+      "dictionary-tools"
+    ]
   },
   {
     "name": "DevKandil/notifire",
@@ -137,7 +143,13 @@
     "description": "Laravel package for Microsoft Graph API (Microsoft365)",
     "stars": 164,
     "updated": "5 days ago",
-    "topics": ["package", "laravel", "office365", "microsoft-graph-api", "microsoft365"]
+    "topics": [
+      "package",
+      "laravel",
+      "office365",
+      "microsoft-graph-api",
+      "microsoft365"
+    ]
   },
   {
     "name": "squareetlabs/LaravelSimplePermissions",
@@ -324,7 +336,13 @@
     "description": "A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories",
     "stars": 136,
     "updated": "6 days ago",
-    "topics": ["php", "laravel", "cookies", "laravel-framework", "laravel-package"]
+    "topics": [
+      "php",
+      "laravel",
+      "cookies",
+      "laravel-framework",
+      "laravel-package"
+    ]
   },
   {
     "name": "kolossal-io/laravel-multiplex",
@@ -347,7 +365,12 @@
     "description": "A package to easily make use of Bootstrap Icons in your Laravel Blade views",
     "stars": 71,
     "updated": "7 days ago",
-    "topics": ["svg-icons", "bootstrap-icons", "blade-icons", "laravel-blade-views"]
+    "topics": [
+      "svg-icons",
+      "bootstrap-icons",
+      "blade-icons",
+      "laravel-blade-views"
+    ]
   },
   {
     "name": "kingflamez/laravelrave",
@@ -355,7 +378,12 @@
     "description": "A Laravel Package for Flutterwave",
     "stars": 153,
     "updated": "7 days ago",
-    "topics": ["laravel", "laravel-package", "laravel-rave", "laravel-flutterwave"]
+    "topics": [
+      "laravel",
+      "laravel-package",
+      "laravel-rave",
+      "laravel-flutterwave"
+    ]
   },
   {
     "name": "AmrLotfy/laravel-app-center",
@@ -504,7 +532,13 @@
     "description": "The best package for saving system settings",
     "stars": 6,
     "updated": "8 days ago",
-    "topics": ["package", "settings", "laravel", "laravel-package", "laravel-settings-package"]
+    "topics": [
+      "package",
+      "settings",
+      "laravel",
+      "laravel-package",
+      "laravel-settings-package"
+    ]
   },
   {
     "name": "ultraviolettes/filament-jobs-monitor",

@@ -1,8 +1,8 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
-const PACKAGES_FILE = path.join(__dirname, '..', 'data', 'packages.json');
-const STATS_FILE = path.join(__dirname, '..', 'data', 'stats.json');
+const PACKAGES_FILE = path.join(__dirname, "..", "data", "packages.json");
+const STATS_FILE = path.join(__dirname, "..", "data", "stats.json");
 
 // Minimum stars to include (filter out empty repos)
 const MIN_STARS = 0;
@@ -13,15 +13,15 @@ const PAGES_TO_FETCH = 10;
 
 async function fetchPage(page) {
   const url = `https://api.github.com/search/repositories?q=laravel+package+language:PHP&sort=updated&order=desc&per_page=100&page=${page}`;
-  
+
   const response = await fetch(url, {
     headers: {
-      'Accept': 'application/vnd.github.v3+json',
-      'User-Agent': 'laravel-package-discovery',
+      Accept: "application/vnd.github.v3+json",
+      "User-Agent": "laravel-package-discovery",
       ...(process.env.GITHUB_TOKEN && {
-        'Authorization': `token ${process.env.GITHUB_TOKEN}`
-      })
-    }
+        Authorization: `token ${process.env.GITHUB_TOKEN}`,
+      }),
+    },
   });
 
   if (!response.ok) {
@@ -37,7 +37,7 @@ function transformRepo(repo) {
   return {
     name: repo.full_name,
     url: repo.html_url,
-    description: repo.description || '',
+    description: repo.description || "",
     stars: repo.stargazers_count,
     forks: repo.forks_count,
     topics: repo.topics || [],
@@ -53,10 +53,10 @@ function transformRepo(repo) {
 function loadExisting() {
   try {
     if (fs.existsSync(PACKAGES_FILE)) {
-      return JSON.parse(fs.readFileSync(PACKAGES_FILE, 'utf8'));
+      return JSON.parse(fs.readFileSync(PACKAGES_FILE, "utf8"));
     }
   } catch (e) {
-    console.error('Error loading existing packages:', e.message);
+    console.error("Error loading existing packages:", e.message);
   }
   return {};
 }
@@ -64,16 +64,16 @@ function loadExisting() {
 function loadStats() {
   try {
     if (fs.existsSync(STATS_FILE)) {
-      return JSON.parse(fs.readFileSync(STATS_FILE, 'utf8'));
+      return JSON.parse(fs.readFileSync(STATS_FILE, "utf8"));
     }
   } catch (e) {
-    console.error('Error loading stats:', e.message);
+    console.error("Error loading stats:", e.message);
   }
   return { runs: [], total_discovered: 0 };
 }
 
 async function main() {
-  console.log('🔍 Fetching Laravel packages from GitHub...\n');
+  console.log("🔍 Fetching Laravel packages from GitHub...\n");
 
   // Load existing data
   const existing = loadExisting();
@@ -88,7 +88,7 @@ async function main() {
       const repos = await fetchPage(page);
       allRepos = allRepos.concat(repos);
       // Small delay to avoid rate limiting
-      await new Promise(r => setTimeout(r, 500));
+      await new Promise((r) => setTimeout(r, 500));
     } catch (e) {
       console.error(`  Error on page ${page}:`, e.message);
       break;
@@ -98,14 +98,17 @@ async function main() {
   console.log(`\n📥 Fetched ${allRepos.length} repositories`);
 
   // Filter and transform
-  const filtered = allRepos.filter(repo => 
-    repo.stargazers_count >= MIN_STARS && 
-    repo.stargazers_count <= MAX_STARS &&
-    !repo.fork &&
-    !repo.archived
+  const filtered = allRepos.filter(
+    (repo) =>
+      repo.stargazers_count >= MIN_STARS &&
+      repo.stargazers_count <= MAX_STARS &&
+      !repo.fork &&
+      !repo.archived,
   );
 
-  console.log(`✅ After filtering (${MIN_STARS}-${MAX_STARS} stars, no forks/archived): ${filtered.length}`);
+  console.log(
+    `✅ After filtering (${MIN_STARS}-${MAX_STARS} stars, no forks/archived): ${filtered.length}`,
+  );
 
   // Merge with existing (existing data preserved, new data added)
   let newCount = 0;
@@ -147,7 +150,7 @@ async function main() {
     fetched: allRepos.length,
     new: newCount,
     updated: updatedCount,
-    total: Object.keys(existing).length
+    total: Object.keys(existing).length,
   });
   // Keep only last 100 runs
   stats.runs = stats.runs.slice(-100);
@@ -163,16 +166,14 @@ async function main() {
 
 function generateReadme(packages, stats) {
   const pkgList = Object.values(packages);
-  
+
   // Sort by discovered_at desc for "new" section
   const recentlyDiscovered = [...pkgList]
     .sort((a, b) => new Date(b.discovered_at) - new Date(a.discovered_at))
     .slice(0, 50);
 
   // Sort by stars for "popular undiscovered" section
-  const byStars = [...pkgList]
-    .sort((a, b) => b.stars - a.stars)
-    .slice(0, 30);
+  const byStars = [...pkgList].sort((a, b) => b.stars - a.stars).slice(0, 30);
 
   // Sort by updated_at for "recently active"
   const recentlyActive = [...pkgList]
@@ -190,25 +191,37 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-${recentlyDiscovered.slice(0, 20).map(p => 
-  `| [${p.name}](${p.url}) | ${p.stars} | ${(p.description || '').slice(0, 80)}${p.description?.length > 80 ? '...' : ''} |`
-).join('\n')}
+${recentlyDiscovered
+  .slice(0, 20)
+  .map(
+    (p) =>
+      `| [${p.name}](${p.url}) | ${p.stars} | ${(p.description || "").slice(0, 80)}${p.description?.length > 80 ? "..." : ""} |`,
+  )
+  .join("\n")}
 
 ## 🌟 Top Starred (Under ${MAX_STARS})
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-${byStars.slice(0, 20).map(p => 
-  `| [${p.name}](${p.url}) | ${p.stars} | ${(p.description || '').slice(0, 80)}${p.description?.length > 80 ? '...' : ''} |`
-).join('\n')}
+${byStars
+  .slice(0, 20)
+  .map(
+    (p) =>
+      `| [${p.name}](${p.url}) | ${p.stars} | ${(p.description || "").slice(0, 80)}${p.description?.length > 80 ? "..." : ""} |`,
+  )
+  .join("\n")}
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-${recentlyActive.slice(0, 20).map(p => 
-  `| [${p.name}](${p.url}) | ${p.stars} | ${p.pushed_at?.slice(0, 10)} | ${(p.description || '').slice(0, 60)}${p.description?.length > 60 ? '...' : ''} |`
-).join('\n')}
+${recentlyActive
+  .slice(0, 20)
+  .map(
+    (p) =>
+      `| [${p.name}](${p.url}) | ${p.stars} | ${p.pushed_at?.slice(0, 10)} | ${(p.description || "").slice(0, 60)}${p.description?.length > 60 ? "..." : ""} |`,
+  )
+  .join("\n")}
 
 ---
 
@@ -216,20 +229,25 @@ ${recentlyActive.slice(0, 20).map(p =>
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
-${stats.runs.slice(-10).reverse().map(r => 
-  `| ${r.timestamp.slice(0, 16)} | ${r.new} | ${r.updated} | ${r.total} |`
-).join('\n')}
+${stats.runs
+  .slice(-10)
+  .reverse()
+  .map(
+    (r) =>
+      `| ${r.timestamp.slice(0, 16)} | ${r.new} | ${r.updated} | ${r.total} |`,
+  )
+  .join("\n")}
 
 ---
 
 *Data stored in \`data/packages.json\`. Run \`node scripts/fetch-packages.js\` locally to update.*
 `;
 
-  fs.writeFileSync(path.join(__dirname, '..', 'README.md'), md);
-  console.log('📝 README.md generated');
+  fs.writeFileSync(path.join(__dirname, "..", "README.md"), md);
+  console.log("📝 README.md generated");
 }
 
-main().catch(e => {
-  console.error('Fatal error:', e);
+main().catch((e) => {
+  console.error("Fatal error:", e);
   process.exit(1);
 });

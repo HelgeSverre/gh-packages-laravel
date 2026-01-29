@@ -3,3 +3,5 @@ node_modules/
 .astro/
 website/node_modules/
 website/.astro/
+
+.idea/

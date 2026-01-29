@@ -194,8 +194,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-08T11:47:08Z",
-    "updated_at": "2026-01-29T00:25:48Z",
-    "pushed_at": "2026-01-29T00:25:45Z",
+    "updated_at": "2026-01-29T01:58:22Z",
+    "pushed_at": "2026-01-29T01:58:19Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "dante9581/laravel-elevenlabs": {
@@ -227,8 +227,8 @@
     "language": "PHP",
     "license": "Apache-2.0",
     "created_at": "2025-12-09T23:32:07Z",
-    "updated_at": "2026-01-29T00:17:08Z",
-    "pushed_at": "2026-01-29T00:17:05Z",
+    "updated_at": "2026-01-29T01:49:46Z",
+    "pushed_at": "2026-01-29T01:49:43Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "alfan129/aidagateway": {
@@ -254,8 +254,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-29T18:47:56Z",
-    "updated_at": "2026-01-29T00:14:19Z",
-    "pushed_at": "2026-01-29T00:14:12Z",
+    "updated_at": "2026-01-29T01:46:55Z",
+    "pushed_at": "2026-01-29T01:46:52Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "yamatekudashai/phind": {
@@ -287,8 +287,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-01T21:14:46Z",
-    "updated_at": "2026-01-29T00:13:57Z",
-    "pushed_at": "2026-01-29T00:13:54Z",
+    "updated_at": "2026-01-29T01:46:40Z",
+    "pushed_at": "2026-01-29T01:46:37Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "georgieselflocking582/laravel-translate": {
@@ -320,8 +320,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-20T20:47:10Z",
-    "updated_at": "2026-01-29T00:09:17Z",
-    "pushed_at": "2026-01-29T00:09:14Z",
+    "updated_at": "2026-01-29T01:42:10Z",
+    "pushed_at": "2026-01-29T01:42:07Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "thanhdt716/filament-shield": {
@@ -353,8 +353,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-09-13T08:32:59Z",
-    "updated_at": "2026-01-28T23:51:52Z",
-    "pushed_at": "2026-01-28T23:51:48Z",
+    "updated_at": "2026-01-29T01:25:22Z",
+    "pushed_at": "2026-01-29T01:25:16Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "romeran14/laravel-quotes-package": {
@@ -429,8 +429,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-26T16:12:07Z",
-    "updated_at": "2026-01-28T21:58:43Z",
-    "pushed_at": "2026-01-28T21:58:39Z",
+    "updated_at": "2026-01-29T01:45:21Z",
+    "pushed_at": "2026-01-29T01:45:17Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "njoguamos/laravel-pesapal": {
@@ -1431,7 +1431,7 @@
     "license": null,
     "created_at": "2025-08-20T19:04:41Z",
     "updated_at": "2026-01-27T22:05:05Z",
-    "pushed_at": "2026-01-27T22:28:42Z",
+    "pushed_at": "2026-01-29T01:48:56Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "sowailem/fieldguard": {
@@ -2720,8 +2720,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-01-16T02:19:00Z",
-    "updated_at": "2026-01-26T03:48:25Z",
-    "pushed_at": "2026-01-26T03:49:18Z",
+    "updated_at": "2026-01-29T02:01:46Z",
+    "pushed_at": "2026-01-29T02:01:42Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "vlados/laravel-legal-documents": {
@@ -2772,7 +2772,7 @@
     "license": "NOASSERTION",
     "created_at": "2022-10-01T23:21:23Z",
     "updated_at": "2026-01-26T02:05:46Z",
-    "pushed_at": "2026-01-28T10:52:53Z",
+    "pushed_at": "2026-01-29T01:33:44Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "paulund/package-template": {
@@ -6667,7 +6667,7 @@
     "license": "MIT",
     "created_at": "2022-08-16T20:36:44Z",
     "updated_at": "2026-01-16T02:26:28Z",
-    "pushed_at": "2026-01-28T02:35:43Z",
+    "pushed_at": "2026-01-29T01:23:21Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "yorcreative/laravel-argonaut-dto": {

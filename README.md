@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 980  
-**Last updated:** 2026-01-29T05:28:49.160Z
+**Last updated:** 2026-01-29T05:38:14.953Z
 
 ## 📦 Recently Discovered
 
@@ -59,6 +59,11 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-29 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-29 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-29 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-29 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-29 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
 | [jiten14/lstarter](https://github.com/jiten14/lstarter) | 0 | 2026-01-29 | A starter Package for laravel to build applications |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-01-29 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-29 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
@@ -68,11 +73,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-01-29 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-29 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-29 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-29 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-29 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-29 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-29 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-29 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
 | [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-01-29 | ShieldCI Laravel Package - Open-source static analysis and s... |
 | [OlegMarko/ddd-generator](https://github.com/OlegMarko/ddd-generator) | 1 | 2026-01-29 | Laravel package that automates the creation of DDD modules |
 | [TheBrightLabs/laravel-qicard-gateway](https://github.com/TheBrightLabs/laravel-qicard-gateway) | 4 | 2026-01-29 | A simple, secure Laravel package for integrating the Qi Card... |
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-01-29T05:38 | 0 | 978 | 980 |
 | 2026-01-29T05:28 | 2 | 976 | 980 |
 | 2026-01-29T01:22 | 978 | 0 | 978 |
 

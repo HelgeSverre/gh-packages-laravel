@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 986  
-**Last updated:** 2026-01-29T12:11:54.948Z
+**Total packages tracked:** 990  
+**Last updated:** 2026-01-29T18:13:09.108Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [CreativeCrafts/laravel-ai-assistant](https://github.com/CreativeCrafts/laravel-ai-assistant) | 13 | A handy package to interact with openai chatgpt |
+| [akramzaitout/laravel-katex](https://github.com/akramzaitout/laravel-katex) | 0 | A comprehensive, production-ready Laravel package for rendering beautiful mathem... |
+| [iRaziul/kotha](https://github.com/iRaziul/kotha) | 1 | Kotha is a Laravel package designed to integrate popular Bangladeshi SMS gateway... |
+| [devlabsza/error-vault_laravel](https://github.com/devlabsza/error-vault_laravel) | 0 | Laravel package for connecting to Error-vault. |
 | [ueberdosis/laravel-docker-health-check](https://github.com/ueberdosis/laravel-docker-health-check) | 6 | A simple package that makes it easier to work with Laravel and Docker in product... |
 | [bkhim/laravel-geolocation](https://github.com/bkhim/laravel-geolocation) | 1 | Modern Laravel geolocation package with 5+ drivers (IpInfo, MaxMind, IPStack, IP... |
 | [gbuckingham89/laraflash](https://github.com/gbuckingham89/laraflash) | 0 | A package for handling flash messages / notifications in Laravel. |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [hybridly/laravel](https://github.com/hybridly/laravel) | 4 | [READ ONLY] Subtree split of the Laravel package from the Hybridly repository |
 | [kayrunm/replay](https://github.com/kayrunm/replay) | 5 | A simple package for idempotent requests in Laravel. |
 | [gowelle/google-moderator](https://github.com/gowelle/google-moderator) | 0 | Laravel package for text and image moderation using Google AI APIs |
-| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | A Laravel package for syncing database tables and data between different connect... |
-| [Info-Esportes/messaging-rabbitmq](https://github.com/Info-Esportes/messaging-rabbitmq) | 0 | Universal messaging package for RabbitMQ (Laravel & CodeIgniter) |
-| [Info-Esportes/messaging-laravel](https://github.com/Info-Esportes/messaging-laravel) | 0 | Universal message package through RabbitMQ  |
-| [iSerter/laravel-uniformed-ai](https://github.com/iSerter/laravel-uniformed-ai) | 3 | A Laravel package that exposes a single, uniform API over multiple AI providers ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -53,32 +53,32 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mhmiton/laravel-modules-livewire](https://github.com/mhmiton/laravel-modules-livewire) | 231 | Using Laravel Livewire in Laravel Modules package with automatically registered ... |
 | [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 230 | Queue Monitoring Package for Filament  |
 | [milwad-dev/laravel-attributes](https://github.com/milwad-dev/laravel-attributes) | 228 | The package allows add and manage custom attributes on Eloquent models easily |
-| [houdaslassi/vantage](https://github.com/houdaslassi/vantage) | 220 | Vantage : Advanced Laravel Queue Monitoring & Insights package |
+| [houdaslassi/vantage](https://github.com/houdaslassi/vantage) | 221 | Vantage : Advanced Laravel Queue Monitoring & Insights package |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ueberdosis/laravel-docker-health-check](https://github.com/ueberdosis/laravel-docker-health-check) | 6 | 2026-01-29 | A simple package that makes it easier to work with Laravel a... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-29 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [andreiio/blade-remix-icon](https://github.com/andreiio/blade-remix-icon) | 17 | 2026-01-29 | A package to easily make use of Remix Icon in your Laravel B... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-29 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-29 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-29 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [iSerter/laravel-uniformed-ai](https://github.com/iSerter/laravel-uniformed-ai) | 3 | 2026-01-29 | A Laravel package that exposes a single, uniform API over mu... |
-| [foxws/laravel-av1](https://github.com/foxws/laravel-av1) | 1 | 2026-01-29 | AV1 Video Packaging & Streaming for Laravel |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-29 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [laravel/roster](https://github.com/laravel/roster) | 143 | 2026-01-29 | Detect packages & approaches in use within a Laravel project |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-01-29 | ShieldCI Laravel Package - Open-source static analysis and s... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-01-29 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 150 | 2026-01-29 | The Moox Project - Packages for Filament and Laravel |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-29 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [OlegMarko/ddd-generator](https://github.com/OlegMarko/ddd-generator) | 1 | 2026-01-29 | Laravel package that automates the creation of DDD modules |
+| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 0 | 2026-01-29 | LaraWebhook is an open-source Laravel package for securely a... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-01-29 | 💳 Streamline payment processing with this PHP package that ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-01-29 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-01-29 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
 | [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 165 | 2026-01-29 | The Laravel Filament Flexible Content Blocks package helps y... |
-| [bkhim/laravel-geolocation](https://github.com/bkhim/laravel-geolocation) | 1 | 2026-01-29 | Modern Laravel geolocation package with 5+ drivers (IpInfo, ... |
-| [gbuckingham89/laraflash](https://github.com/gbuckingham89/laraflash) | 0 | 2026-01-29 | A package for handling flash messages / notifications in Lar... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-29 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [iquesters/user-management](https://github.com/iquesters/user-management) | 0 | 2026-01-29 | A modular and extendable Laravel package that provides user ... |
+| [foxws/laravel-av1](https://github.com/foxws/laravel-av1) | 1 | 2026-01-29 | AV1 Video Packaging & Streaming for Laravel |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-29 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [akramzaitout/laravel-katex](https://github.com/akramzaitout/laravel-katex) | 0 | 2026-01-29 | A comprehensive, production-ready Laravel package for render... |
+| [iquesters/organisation](https://github.com/iquesters/organisation) | 0 | 2026-01-29 | The Organisation Package provides a structured way to manage... |
+| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-01-29 | A foundational package providing base classes and utilities ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-01-29T18:13 | 4 | 971 | 990 |
 | 2026-01-29T12:11 | 6 | 970 | 986 |
 | 2026-01-29T06:16 | 0 | 978 | 980 |
 | 2026-01-29T05:38 | 0 | 978 | 980 |

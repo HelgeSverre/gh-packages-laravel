@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 980  
-**Last updated:** 2026-01-29T06:16:17.326Z
+**Total packages tracked:** 986  
+**Last updated:** 2026-01-29T12:11:54.948Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ueberdosis/laravel-docker-health-check](https://github.com/ueberdosis/laravel-docker-health-check) | 6 | A simple package that makes it easier to work with Laravel and Docker in product... |
+| [bkhim/laravel-geolocation](https://github.com/bkhim/laravel-geolocation) | 1 | Modern Laravel geolocation package with 5+ drivers (IpInfo, MaxMind, IPStack, IP... |
+| [gbuckingham89/laraflash](https://github.com/gbuckingham89/laraflash) | 0 | A package for handling flash messages / notifications in Laravel. |
+| [BurtDS/laravel-vatnumber-checker](https://github.com/BurtDS/laravel-vatnumber-checker) | 63 | A small laravel package that allows you to easily retrieve information associate... |
+| [zirvu/api](https://github.com/zirvu/api) | 0 | Modular Laravel service package for scalable API development — includes dynamic ... |
+| [syastrebov/laravel-circuit-breaker](https://github.com/syastrebov/laravel-circuit-breaker) | 0 | Laravel package for https://github.com/syastrebov/circuit-breaker |
 | [pristavu/laravel-anaf](https://github.com/pristavu/laravel-anaf) | 2 | This package makes it easy to work with ANAF services in Laravel applications. |
 | [jiten14/lstarter](https://github.com/jiten14/lstarter) | 0 | A starter Package for laravel to build applications |
 | [secretwebmaster/laravel-cloudflare](https://github.com/secretwebmaster/laravel-cloudflare) | 0 | This package allows you to manage your cloudflare domains with your laravel appl... |
@@ -23,19 +29,13 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Info-Esportes/messaging-rabbitmq](https://github.com/Info-Esportes/messaging-rabbitmq) | 0 | Universal messaging package for RabbitMQ (Laravel & CodeIgniter) |
 | [Info-Esportes/messaging-laravel](https://github.com/Info-Esportes/messaging-laravel) | 0 | Universal message package through RabbitMQ  |
 | [iSerter/laravel-uniformed-ai](https://github.com/iSerter/laravel-uniformed-ai) | 3 | A Laravel package that exposes a single, uniform API over multiple AI providers ... |
-| [kakaprodo/message-brokers](https://github.com/kakaprodo/message-brokers) | 0 | A php and laravel package that simplifies rabbitmq, kafka  api integration. |
-| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | [READ ONLY] Subtree split of the Backstage CMS package - Laravel Permanent Cache |
-| [aymanalhattami/filament-slim-scrollbar](https://github.com/aymanalhattami/filament-slim-scrollbar) | 51 | Simple package to make the application's scrollbars slim. |
-| [blocs/admin](https://github.com/blocs/admin) | 2 | Laravel BLOCS admin panel package |
-| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 420 | A simple package to help integrate Cloudflare Turnstile. |
-| [LastDragon-ru/lara-asp-documentator](https://github.com/LastDragon-ru/lara-asp-documentator) | 1 | This package provides various utilities for documentation generation. |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
-| [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 439 | A package to handle multilingual routes in your Laravel application. |
+| [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 440 | A package to handle multilingual routes in your Laravel application. |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 432 | A package to keep track of your pages & understand your audience |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 420 | A simple package to help integrate Cloudflare Turnstile. |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 414 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-29 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-29 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [ueberdosis/laravel-docker-health-check](https://github.com/ueberdosis/laravel-docker-health-check) | 6 | 2026-01-29 | A simple package that makes it easier to work with Laravel a... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-29 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [andreiio/blade-remix-icon](https://github.com/andreiio/blade-remix-icon) | 17 | 2026-01-29 | A package to easily make use of Remix Icon in your Laravel B... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-29 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-29 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-29 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [iSerter/laravel-uniformed-ai](https://github.com/iSerter/laravel-uniformed-ai) | 3 | 2026-01-29 | A Laravel package that exposes a single, uniform API over mu... |
+| [foxws/laravel-av1](https://github.com/foxws/laravel-av1) | 1 | 2026-01-29 | AV1 Video Packaging & Streaming for Laravel |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-29 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [jiten14/lstarter](https://github.com/jiten14/lstarter) | 0 | 2026-01-29 | A starter Package for laravel to build applications |
+| [laravel/roster](https://github.com/laravel/roster) | 143 | 2026-01-29 | Detect packages & approaches in use within a Laravel project |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-01-29 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 150 | 2026-01-29 | The Moox Project - Packages for Filament and Laravel |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-29 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [OlegMarko/ddd-generator](https://github.com/OlegMarko/ddd-generator) | 1 | 2026-01-29 | Laravel package that automates the creation of DDD modules |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-01-29 | 💳 Streamline payment processing with this PHP package that ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-01-29 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [ramonov/tingtingapi](https://github.com/ramonov/tingtingapi) | 0 | 2026-01-29 | A Laravel package for TingTing API integration. |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-01-29 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-01-29 | ShieldCI Laravel Package - Open-source static analysis and s... |
-| [OlegMarko/ddd-generator](https://github.com/OlegMarko/ddd-generator) | 1 | 2026-01-29 | Laravel package that automates the creation of DDD modules |
-| [TheBrightLabs/laravel-qicard-gateway](https://github.com/TheBrightLabs/laravel-qicard-gateway) | 4 | 2026-01-29 | A simple, secure Laravel package for integrating the Qi Card... |
-| [omnifyjp/omnify-client-laravel-sso](https://github.com/omnifyjp/omnify-client-laravel-sso) | 0 | 2026-01-29 | Laravel SSO Client Package - Role, Permission, Team manageme... |
-| [waterholeforum/core](https://github.com/waterholeforum/core) | 216 | 2026-01-29 | The core Waterhole package. |
-| [YorCreative/Laravel-Scrubber](https://github.com/YorCreative/Laravel-Scrubber) | 149 | 2026-01-29 | A Laravel package to scrub sensitive information that breaks... |
+| [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 165 | 2026-01-29 | The Laravel Filament Flexible Content Blocks package helps y... |
+| [bkhim/laravel-geolocation](https://github.com/bkhim/laravel-geolocation) | 1 | 2026-01-29 | Modern Laravel geolocation package with 5+ drivers (IpInfo, ... |
+| [gbuckingham89/laraflash](https://github.com/gbuckingham89/laraflash) | 0 | 2026-01-29 | A package for handling flash messages / notifications in Lar... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-01-29T12:11 | 6 | 970 | 986 |
 | 2026-01-29T06:16 | 0 | 978 | 980 |
 | 2026-01-29T05:38 | 0 | 978 | 980 |
 | 2026-01-29T05:28 | 2 | 976 | 980 |

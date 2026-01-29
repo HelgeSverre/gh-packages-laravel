@@ -6,8 +6,15 @@
       "new": 978,
       "updated": 0,
       "total": 978
+    },
+    {
+      "timestamp": "2026-01-29T05:28:49.160Z",
+      "fetched": 1000,
+      "new": 2,
+      "updated": 976,
+      "total": 980
     }
   ],
-  "total_discovered": 978,
-  "last_run": "2026-01-29T01:22:25.337Z"
+  "total_discovered": 980,
+  "last_run": "2026-01-29T05:28:49.160Z"
 }

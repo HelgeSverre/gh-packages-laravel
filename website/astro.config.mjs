@@ -3,6 +3,8 @@ import svelte from "@astrojs/svelte";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
+  site: "https://helgesverre.github.io",
+  base: "/gh-packages-laravel",
   integrations: [svelte()],
   vite: {
     plugins: [tailwindcss()],

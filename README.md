@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 997  
-**Last updated:** 2026-01-30T06:16:53.932Z
+**Total packages tracked:** 999  
+**Last updated:** 2026-01-30T12:10:50.653Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [DamichiXL/import](https://github.com/DamichiXL/import) | 0 | A Laravel package for importing large amounts of information |
+| [Balerka/Yandex-Direct-Helper](https://github.com/Balerka/Yandex-Direct-Helper) | 0 | Laravel Yandex Direct Helper is a package for automatically updating advertising... |
 | [birdcar/laravel-label-tree](https://github.com/birdcar/laravel-label-tree) | 0 | A Laravel package for hierarchical labels stored as a DAG with materialized path... |
 | [ligoo/zammad-laravel](https://github.com/ligoo/zammad-laravel) | 1 | Laravel package for Zammad ticketing system integration with contact form |
 | [Aqwel-AI/larai](https://github.com/Aqwel-AI/larai) | 0 | LarAI - AI integration package for Laravel developed by Aqwel AI |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [zirvu/api](https://github.com/zirvu/api) | 0 | Modular Laravel service package for scalable API development — includes dynamic ... |
 | [syastrebov/laravel-circuit-breaker](https://github.com/syastrebov/laravel-circuit-breaker) | 0 | Laravel package for https://github.com/syastrebov/circuit-breaker |
 | [pristavu/laravel-anaf](https://github.com/pristavu/laravel-anaf) | 2 | This package makes it easy to work with ANAF services in Laravel applications. |
-| [jiten14/lstarter](https://github.com/jiten14/lstarter) | 0 | A starter Package for laravel to build applications |
-| [secretwebmaster/laravel-cloudflare](https://github.com/secretwebmaster/laravel-cloudflare) | 0 | This package allows you to manage your cloudflare domains with your laravel appl... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -50,8 +50,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kolossal-io/laravel-multiplex](https://github.com/kolossal-io/laravel-multiplex) | 291 | A Laravel package to attach time-sliced meta data to Eloquent models. |
 | [cjmellor/browser-sessions](https://github.com/cjmellor/browser-sessions) | 269 | A Laravel package to enable users to manage and monitor their active browser ses... |
 | [tonysm/tailwindcss-laravel](https://github.com/tonysm/tailwindcss-laravel) | 265 | This package wraps up the standalone executable version of the Tailwind CSS fram... |
+| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 232 | Queue Monitoring Package for Filament  |
 | [mhmiton/laravel-modules-livewire](https://github.com/mhmiton/laravel-modules-livewire) | 231 | Using Laravel Livewire in Laravel Modules package with automatically registered ... |
-| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 231 | Queue Monitoring Package for Filament  |
 | [milwad-dev/laravel-attributes](https://github.com/milwad-dev/laravel-attributes) | 228 | The package allows add and manage custom attributes on Eloquent models easily |
 | [houdaslassi/vantage](https://github.com/houdaslassi/vantage) | 221 | Vantage : Advanced Laravel Queue Monitoring & Insights package |
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [syastrebov/laravel-circuit-breaker](https://github.com/syastrebov/laravel-circuit-breaker) | 0 | 2026-01-30 | Laravel package for https://github.com/syastrebov/circuit-br... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-30 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [amondar-libs/repository-pattern](https://github.com/amondar-libs/repository-pattern) | 1 | 2026-01-30 | Laravel package to implement the repository pattern |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-30 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-30 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-30 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-30 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-30 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-30 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-01-30 | A foundational package providing base classes and utilities ... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 150 | 2026-01-30 | The Moox Project - Packages for Filament and Laravel |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-01-30 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 339 | 2026-01-30 | The official Laravel Nightwatch package. |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-30 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-01-30 | A package to create datatables using alpinejs, tailwind, liv... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-01-30 | 💳 Streamline payment processing with this PHP package that ... |
+| [Oskarpok/web_dev_ulp](https://github.com/Oskarpok/web_dev_ulp) | 0 | 2026-01-30 | Laravel's universal packages are a collection of related mod... |
+| [amdad121/guard-laravel](https://github.com/amdad121/guard-laravel) | 12 | 2026-01-30 | Guard is Role and Permission management system for Laravel |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-01-30 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-01-30 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [HELMAB/chhankitek](https://github.com/HELMAB/chhankitek) | 10 | 2026-01-30 | A Laravel package to convert dates to Lunar (Chhankitek) for... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-01-30 | ShieldCI Laravel Package - Open-source static analysis and s... |
-| [romeran14/laravel-quotes-package](https://github.com/romeran14/laravel-quotes-package) | 0 | 2026-01-30 |  |
-| [faustbrian/cloak](https://github.com/faustbrian/cloak) | 0 | 2026-01-30 | Cloak is a security-focused Laravel package that prevents se... |
+| [syastrebov/laravel-circuit-breaker](https://github.com/syastrebov/laravel-circuit-breaker) | 0 | 2026-01-30 | Laravel package for https://github.com/syastrebov/circuit-br... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-30 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-30 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [gwleuverink/asset-injector](https://github.com/gwleuverink/asset-injector) | 6 | 2026-01-30 | Streamline Laravel package development by automatically inse... |
+| [DamichiXL/import](https://github.com/DamichiXL/import) | 0 | 2026-01-30 | A Laravel package for importing large amounts of information |
+| [waterholeforum/core](https://github.com/waterholeforum/core) | 216 | 2026-01-30 | The core Waterhole package. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-01-30T12:10 | 2 | 971 | 999 |
 | 2026-01-30T06:16 | 1 | 973 | 997 |
 | 2026-01-30T00:21 | 6 | 968 | 996 |
 | 2026-01-29T18:13 | 4 | 971 | 990 |

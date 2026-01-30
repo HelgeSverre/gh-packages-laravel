@@ -20,8 +20,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-17T22:25:34Z",
-    "updated_at": "2026-01-30T11:23:01Z",
-    "pushed_at": "2026-01-30T11:22:56Z",
+    "updated_at": "2026-01-30T16:00:39Z",
+    "pushed_at": "2026-01-30T16:00:27Z",
     "discovered_at": "2026-01-29T01:22:25.331Z"
   },
   "dgf1969/payment-gateway": {
@@ -53,8 +53,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-08-04T14:23:55Z",
-    "updated_at": "2026-01-30T11:20:34Z",
-    "pushed_at": "2026-01-30T11:20:31Z",
+    "updated_at": "2026-01-30T15:57:47Z",
+    "pushed_at": "2026-01-30T15:57:44Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "dubey-anuj/ecommerce.cart": {
@@ -86,8 +86,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-05-22T07:29:48Z",
-    "updated_at": "2026-01-30T11:13:12Z",
-    "pushed_at": "2026-01-30T11:13:09Z",
+    "updated_at": "2026-01-30T15:50:35Z",
+    "pushed_at": "2026-01-30T15:50:31Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "astrr3/laravel-argonaut-dto": {
@@ -115,8 +115,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-04-26T00:48:43Z",
-    "updated_at": "2026-01-30T11:08:36Z",
-    "pushed_at": "2026-01-30T11:08:32Z",
+    "updated_at": "2026-01-30T15:45:39Z",
+    "pushed_at": "2026-01-30T15:45:15Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "vivek80801/command-pack": {
@@ -161,8 +161,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2021-08-15T13:08:44Z",
-    "updated_at": "2026-01-30T10:45:14Z",
-    "pushed_at": "2026-01-30T10:45:10Z",
+    "updated_at": "2026-01-30T17:13:39Z",
+    "pushed_at": "2026-01-30T17:13:35Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "pedezim362/filemanager": {
@@ -194,8 +194,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-08T11:47:08Z",
-    "updated_at": "2026-01-30T10:22:44Z",
-    "pushed_at": "2026-01-30T10:22:41Z",
+    "updated_at": "2026-01-30T16:50:29Z",
+    "pushed_at": "2026-01-30T16:50:14Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "dante9581/laravel-elevenlabs": {
@@ -227,8 +227,8 @@
     "language": "PHP",
     "license": "Apache-2.0",
     "created_at": "2025-12-09T23:32:07Z",
-    "updated_at": "2026-01-30T12:02:32Z",
-    "pushed_at": "2026-01-30T12:02:29Z",
+    "updated_at": "2026-01-30T16:39:54Z",
+    "pushed_at": "2026-01-30T16:39:50Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "alfan129/aidagateway": {
@@ -254,8 +254,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-29T18:47:56Z",
-    "updated_at": "2026-01-30T11:58:29Z",
-    "pushed_at": "2026-01-30T11:58:26Z",
+    "updated_at": "2026-01-30T16:36:24Z",
+    "pushed_at": "2026-01-30T16:36:20Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "yamatekudashai/phind": {
@@ -287,8 +287,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-01T21:14:46Z",
-    "updated_at": "2026-01-30T11:58:02Z",
-    "pushed_at": "2026-01-30T11:57:58Z",
+    "updated_at": "2026-01-30T16:36:02Z",
+    "pushed_at": "2026-01-30T16:35:58Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "georgieselflocking582/laravel-translate": {
@@ -320,8 +320,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-20T20:47:10Z",
-    "updated_at": "2026-01-30T11:52:21Z",
-    "pushed_at": "2026-01-30T11:52:18Z",
+    "updated_at": "2026-01-30T16:30:29Z",
+    "pushed_at": "2026-01-30T16:30:25Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "thanhdt716/filament-shield": {
@@ -353,8 +353,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-09-13T08:32:59Z",
-    "updated_at": "2026-01-30T11:33:17Z",
-    "pushed_at": "2026-01-30T11:33:13Z",
+    "updated_at": "2026-01-30T16:10:16Z",
+    "pushed_at": "2026-01-30T16:10:10Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "romeran14/laravel-quotes-package": {
@@ -367,8 +367,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-01-28T23:39:07Z",
-    "updated_at": "2026-01-30T04:16:05Z",
-    "pushed_at": "2026-01-30T04:16:01Z",
+    "updated_at": "2026-01-30T16:48:10Z",
+    "pushed_at": "2026-01-30T16:48:06Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "laravel/nightwatch": {
@@ -429,8 +429,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-26T16:12:07Z",
-    "updated_at": "2026-01-30T11:56:27Z",
-    "pushed_at": "2026-01-30T11:56:23Z",
+    "updated_at": "2026-01-30T16:34:29Z",
+    "pushed_at": "2026-01-30T16:34:25Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "njoguamos/laravel-pesapal": {
@@ -663,8 +663,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-25T16:23:50Z",
-    "updated_at": "2026-01-29T17:26:57Z",
-    "pushed_at": "2026-01-29T22:03:41Z",
+    "updated_at": "2026-01-30T17:50:30Z",
+    "pushed_at": "2026-01-30T17:50:45Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "nadamohamedabdallah8/laravel-report-package": {
@@ -971,7 +971,7 @@
     "name": "mooxphp/moox",
     "url": "https://github.com/mooxphp/moox",
     "description": "The Moox Project - Packages for Filament and Laravel",
-    "stars": 150,
+    "stars": 151,
     "forks": 15,
     "topics": [
       "alpine-js",
@@ -986,7 +986,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-04-21T10:37:51Z",
-    "updated_at": "2026-01-29T10:46:53Z",
+    "updated_at": "2026-01-30T13:33:23Z",
     "pushed_at": "2026-01-30T11:50:39Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -1083,7 +1083,7 @@
     "name": "Grazulex/laravel-turbomaker",
     "url": "https://github.com/Grazulex/laravel-turbomaker",
     "description": "⚡ Laravel TurboMaker is a productivity-focused package designed to supercharge your Laravel development workflow. With a single command, you can scaffold complete modules (models, migrations, controllers, routes, tests, views, and more) following best practices. It saves hours of repetitive setup work, so you can focus on building features faster.",
-    "stars": 10,
+    "stars": 18,
     "forks": 0,
     "topics": [
       "artisan-command",
@@ -1095,7 +1095,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-07-30T18:42:38Z",
-    "updated_at": "2026-01-28T09:18:10Z",
+    "updated_at": "2026-01-30T18:11:16Z",
     "pushed_at": "2026-01-28T09:19:55Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -1109,8 +1109,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-10-07T07:13:35Z",
-    "updated_at": "2026-01-29T13:04:00Z",
-    "pushed_at": "2026-01-29T22:39:16Z",
+    "updated_at": "2026-01-30T13:45:16Z",
+    "pushed_at": "2026-01-30T13:45:35Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "team-nifty-gmbh/tall-datatables": {
@@ -1360,7 +1360,7 @@
     "name": "moe-mizrak/laravel-openrouter",
     "url": "https://github.com/moe-mizrak/laravel-openrouter",
     "description": "Laravel package for OpenRouter (A unified interface for LLMs)",
-    "stars": 148,
+    "stars": 149,
     "forks": 22,
     "topics": [
       "ai",
@@ -1377,7 +1377,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-05-12T10:23:01Z",
-    "updated_at": "2026-01-28T16:14:20Z",
+    "updated_at": "2026-01-30T17:52:02Z",
     "pushed_at": "2026-01-27T22:49:13Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -1438,13 +1438,13 @@
     "name": "sowailem/FieldGuard",
     "url": "https://github.com/sowailem/FieldGuard",
     "description": "FieldGuard is a Laravel package that enforces field-level security on Eloquent models, allowing fine-grained control over who can view or modify specific attributes—perfect for role-based data protection without altering your core models.",
-    "stars": 29,
+    "stars": 30,
     "forks": 1,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-27T07:21:35Z",
-    "updated_at": "2026-01-30T10:08:26Z",
+    "updated_at": "2026-01-30T17:24:46Z",
     "pushed_at": "2026-01-29T06:43:58Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -1830,7 +1830,7 @@
     "name": "andreiio/blade-remix-icon",
     "url": "https://github.com/andreiio/blade-remix-icon",
     "description": "A package to easily make use of Remix Icon in your Laravel Blade views.",
-    "stars": 17,
+    "stars": 18,
     "forks": 1,
     "topics": [
       "blade",
@@ -1842,7 +1842,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2021-05-09T17:59:01Z",
-    "updated_at": "2026-01-29T12:19:53Z",
+    "updated_at": "2026-01-30T15:13:22Z",
     "pushed_at": "2026-01-29T12:20:11Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -2825,8 +2825,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-01-20T17:45:39Z",
-    "updated_at": "2026-01-25T19:16:50Z",
-    "pushed_at": "2026-01-25T19:19:45Z",
+    "updated_at": "2026-01-30T18:06:44Z",
+    "pushed_at": "2026-01-30T18:08:50Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "jobmetric/laravel-package-core": {
@@ -3972,13 +3972,13 @@
     "name": "ryangjchandler/laravel-cloudflare-turnstile",
     "url": "https://github.com/ryangjchandler/laravel-cloudflare-turnstile",
     "description": "A simple package to help integrate Cloudflare Turnstile.",
-    "stars": 420,
+    "stars": 421,
     "forks": 26,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-09-30T08:48:53Z",
-    "updated_at": "2026-01-28T14:50:58Z",
+    "updated_at": "2026-01-30T12:44:27Z",
     "pushed_at": "2026-01-23T13:26:10Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -4355,7 +4355,7 @@
     "license": null,
     "created_at": "2025-10-19T10:03:17Z",
     "updated_at": "2026-01-22T17:21:56Z",
-    "pushed_at": "2026-01-30T11:19:00Z",
+    "pushed_at": "2026-01-30T12:39:25Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "tomshaw/electricgrid": {
@@ -5066,7 +5066,7 @@
     "name": "ultraviolettes/filament-jobs-monitor",
     "url": "https://github.com/ultraviolettes/filament-jobs-monitor",
     "description": "Queue Monitoring Package for Filament ",
-    "stars": 232,
+    "stars": 234,
     "forks": 58,
     "topics": [
       "filamentphp",
@@ -5075,7 +5075,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-03-27T08:17:08Z",
-    "updated_at": "2026-01-30T11:50:49Z",
+    "updated_at": "2026-01-30T15:22:54Z",
     "pushed_at": "2026-01-20T19:11:43Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -5875,13 +5875,13 @@
     "name": "fitri-hy/AutoSEO",
     "url": "https://github.com/fitri-hy/AutoSEO",
     "description": "AutoSEO is a Laravel package for modern SEO automation.",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-19T05:29:32Z",
-    "updated_at": "2026-01-19T17:01:22Z",
+    "updated_at": "2026-01-30T18:02:13Z",
     "pushed_at": "2026-01-19T05:30:55Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -6360,8 +6360,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-07-21T11:24:14Z",
-    "updated_at": "2026-01-24T10:15:19Z",
-    "pushed_at": "2026-01-17T12:14:04Z",
+    "updated_at": "2026-01-30T17:52:33Z",
+    "pushed_at": "2026-01-30T17:52:29Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "rodrigogalura/tuner": {
@@ -6796,7 +6796,7 @@
     "license": "MIT",
     "created_at": "2025-11-07T00:01:09Z",
     "updated_at": "2026-01-15T21:19:05Z",
-    "pushed_at": "2026-01-30T07:08:33Z",
+    "pushed_at": "2026-01-30T16:03:55Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "yuges-code/laravel-ownable": {
@@ -11196,8 +11196,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-06-24T09:39:01Z",
-    "updated_at": "2026-01-12T08:14:30Z",
-    "pushed_at": "2026-01-12T08:14:33Z",
+    "updated_at": "2026-01-30T16:16:23Z",
+    "pushed_at": "2026-01-30T16:16:20Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "mohd-ghayas-ashraf/laravel-example": {
@@ -13396,7 +13396,7 @@
     "license": "MIT",
     "created_at": "2022-02-16T13:28:28Z",
     "updated_at": "2026-01-12T00:21:57Z",
-    "pushed_at": "2026-01-12T00:22:00Z",
+    "pushed_at": "2026-01-30T16:18:19Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "jeffersongoncalves/filament-plausible": {
@@ -14644,7 +14644,7 @@
     "name": "vildanbina/laravel-auto-translation",
     "url": "https://github.com/vildanbina/laravel-auto-translation",
     "description": "Laravel Auto Translation simplifies language localization by automating the translation of JSON and PHP files. It supports drivers like OpenAI, Google Translate, and DeepL. With commands to scan and translate, this package streamlines workflows, making application internationalization efficient and hassle-free.",
-    "stars": 92,
+    "stars": 91,
     "forks": 15,
     "topics": [
       "internationalization",
@@ -14655,7 +14655,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-12-14T16:19:26Z",
-    "updated_at": "2026-01-21T00:48:02Z",
+    "updated_at": "2026-01-30T14:13:30Z",
     "pushed_at": "2026-01-08T10:57:45Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -15540,15 +15540,15 @@
   "mohammadzarifiyan/laravel-sitemap-manager": {
     "name": "MohammadZarifiyan/Laravel-Sitemap-Manager",
     "url": "https://github.com/MohammadZarifiyan/Laravel-Sitemap-Manager",
-    "description": "A Laravel package for managing sitemaps, built on top of spatie/laravel-sitemap.",
+    "description": "A Laravel package for managing sitemaps.",
     "stars": 0,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "NOASSERTION",
-    "created_at": "2026-01-03T22:00:46Z",
-    "updated_at": "2026-01-29T16:00:41Z",
-    "pushed_at": "2026-01-29T16:00:37Z",
+    "created_at": "2026-01-30T14:00:32Z",
+    "updated_at": "2026-01-30T16:40:42Z",
+    "pushed_at": "2026-01-30T16:40:38Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "m9nx/laravel-runtime-guard": {
@@ -16411,7 +16411,7 @@
     "name": "akramzaitout/laravel-katex",
     "url": "https://github.com/akramzaitout/laravel-katex",
     "description": "A comprehensive, production-ready Laravel package for rendering beautiful mathematical expressions using KaTeX.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "blade",
@@ -16426,8 +16426,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-28T13:54:07Z",
-    "updated_at": "2026-01-29T22:01:44Z",
-    "pushed_at": "2026-01-29T22:01:41Z",
+    "updated_at": "2026-01-30T16:45:58Z",
+    "pushed_at": "2026-01-30T16:45:55Z",
     "discovered_at": "2026-01-29T18:13:09.098Z"
   },
   "iraziul/kotha": {
@@ -16454,8 +16454,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-01-29T12:32:44Z",
-    "updated_at": "2026-01-29T12:34:19Z",
-    "pushed_at": "2026-01-29T12:34:12Z",
+    "updated_at": "2026-01-30T14:17:48Z",
+    "pushed_at": "2026-01-30T14:17:45Z",
     "discovered_at": "2026-01-29T18:13:09.098Z"
   },
   "creativecrafts/laravel-ai-assistant": {
@@ -16619,5 +16619,109 @@
     "updated_at": "2026-01-30T06:29:52Z",
     "pushed_at": "2026-01-30T06:31:11Z",
     "discovered_at": "2026-01-30T12:10:50.645Z"
+  },
+  "koeker/laravel-discord-notification": {
+    "name": "KOeker/laravel-discord-notification",
+    "url": "https://github.com/KOeker/laravel-discord-notification",
+    "description": "A Laravel package for sending notifications to Discord channels via webhooks",
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-06-27T11:31:52Z",
+    "updated_at": "2026-01-30T16:49:47Z",
+    "pushed_at": "2026-01-30T16:49:30Z",
+    "discovered_at": "2026-01-30T18:11:52.457Z"
+  },
+  "little-green-man/earhart": {
+    "name": "little-green-man/earhart",
+    "url": "https://github.com/little-green-man/earhart",
+    "description": "A package to use PropelAuth with Laravel",
+    "stars": 3,
+    "forks": 1,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-11-09T04:17:03Z",
+    "updated_at": "2026-01-30T16:49:22Z",
+    "pushed_at": "2026-01-30T16:49:16Z",
+    "discovered_at": "2026-01-30T18:11:52.457Z"
+  },
+  "cocomedia-nl/laravel-directadmin-deploy": {
+    "name": "cocomedia-nl/laravel-directadmin-deploy",
+    "url": "https://github.com/cocomedia-nl/laravel-directadmin-deploy",
+    "description": "Laravel package for automated deployment to DirectAdmin shared hosting with GitHub Actions support.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "NOASSERTION",
+    "created_at": "2025-11-27T13:07:30Z",
+    "updated_at": "2026-01-30T15:41:03Z",
+    "pushed_at": "2026-01-30T15:47:17Z",
+    "discovered_at": "2026-01-30T18:11:52.457Z"
+  },
+  "mohammadzarifiyan/laravel-telegram-bot": {
+    "name": "MohammadZarifiyan/Laravel-Telegram-Bot",
+    "url": "https://github.com/MohammadZarifiyan/Laravel-Telegram-Bot",
+    "description": "A Laravel package that helps you to easily create scalable Telegram bots and send notifications through Telegram.",
+    "stars": 6,
+    "forks": 0,
+    "topics": [
+      "api",
+      "laravel",
+      "php",
+      "telegram",
+      "telegram-bot",
+      "telegram-bot-api"
+    ],
+    "language": "PHP",
+    "license": "NOASSERTION",
+    "created_at": "2022-02-16T12:21:45Z",
+    "updated_at": "2026-01-30T13:55:17Z",
+    "pushed_at": "2026-01-30T13:55:16Z",
+    "discovered_at": "2026-01-30T18:11:52.457Z"
+  },
+  "palachx/laravel-omnidesk": {
+    "name": "palachX/laravel-omnidesk",
+    "url": "https://github.com/palachX/laravel-omnidesk",
+    "description": "Omnidesk Laravel is a Laravel package for start fast integration your service with [Omnidesk](https://omnidesk.ru).",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-01-30T12:41:29Z",
+    "updated_at": "2026-01-30T12:48:13Z",
+    "pushed_at": "2026-01-30T12:48:25Z",
+    "discovered_at": "2026-01-30T18:11:52.457Z"
+  },
+  "aurorawebsoftware/aauth": {
+    "name": "AuroraWebSoftware/AAuth",
+    "url": "https://github.com/AuroraWebSoftware/AAuth",
+    "description": "Hierarchical Rol-Permission Based Laravel Auth Package with Limitless Hierarchical Level of Organizations",
+    "stars": 41,
+    "forks": 7,
+    "topics": [
+      "abac",
+      "access-control",
+      "access-management",
+      "auth",
+      "authentication",
+      "authorization",
+      "laravel",
+      "laravel-framework",
+      "laravel-package",
+      "permissions",
+      "php",
+      "php8"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2022-06-15T14:09:40Z",
+    "updated_at": "2026-01-30T12:29:15Z",
+    "pushed_at": "2026-01-30T12:45:21Z",
+    "discovered_at": "2026-01-30T18:11:52.457Z"
   }
 }

@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 996  
-**Last updated:** 2026-01-30T00:21:51.550Z
+**Total packages tracked:** 997  
+**Last updated:** 2026-01-30T06:16:53.932Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [birdcar/laravel-label-tree](https://github.com/birdcar/laravel-label-tree) | 0 | A Laravel package for hierarchical labels stored as a DAG with materialized path... |
 | [ligoo/zammad-laravel](https://github.com/ligoo/zammad-laravel) | 1 | Laravel package for Zammad ticketing system integration with contact form |
 | [Aqwel-AI/larai](https://github.com/Aqwel-AI/larai) | 0 | LarAI - AI integration package for Laravel developed by Aqwel AI |
 | [0xmergen/lmad](https://github.com/0xmergen/lmad) | 2 | A Laravel 12 MCP (Model Context Protocol) package that provides AI agents with c... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [pristavu/laravel-anaf](https://github.com/pristavu/laravel-anaf) | 2 | This package makes it easy to work with ANAF services in Laravel applications. |
 | [jiten14/lstarter](https://github.com/jiten14/lstarter) | 0 | A starter Package for laravel to build applications |
 | [secretwebmaster/laravel-cloudflare](https://github.com/secretwebmaster/laravel-cloudflare) | 0 | This package allows you to manage your cloudflare domains with your laravel appl... |
-| [SimplePark-BV/laravel-invoices](https://github.com/SimplePark-BV/laravel-invoices) | 1 | A modern Laravel package for creating, customizing, and exporting PDF invoices. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AlizHarb/filament-modular-luncher](https://github.com/AlizHarb/filament-modular-luncher) | 0 | 2026-01-30 | The ultimate module management solution for Filament and Lar... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 317 | 2026-01-29 | Laravel SMS Gateway Integration Package |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-29 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-29 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-29 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-01-29 | Laravel Package to access AI CAD |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-29 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-29 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-29 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-29 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-01-29 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 0 | 2026-01-29 | LaraWebhook is an open-source Laravel package for securely a... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-29 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [akramzaitout/laravel-katex](https://github.com/akramzaitout/laravel-katex) | 0 | 2026-01-29 | A comprehensive, production-ready Laravel package for render... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-01-29 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-01-29 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-01-29 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [ligoo/zammad-laravel](https://github.com/ligoo/zammad-laravel) | 1 | 2026-01-29 | Laravel package for Zammad ticketing system integration with... |
-| [Aqwel-AI/larai](https://github.com/Aqwel-AI/larai) | 0 | 2026-01-29 | LarAI - AI integration package for Laravel developed by Aqwe... |
-| [0xmergen/lmad](https://github.com/0xmergen/lmad) | 2 | 2026-01-29 | A Laravel 12 MCP (Model Context Protocol) package that provi... |
+| [syastrebov/laravel-circuit-breaker](https://github.com/syastrebov/laravel-circuit-breaker) | 0 | 2026-01-30 | Laravel package for https://github.com/syastrebov/circuit-br... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-30 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [amondar-libs/repository-pattern](https://github.com/amondar-libs/repository-pattern) | 1 | 2026-01-30 | Laravel package to implement the repository pattern |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-30 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-30 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-30 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-30 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-30 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-30 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-01-30 | A foundational package providing base classes and utilities ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-01-30 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 339 | 2026-01-30 | The official Laravel Nightwatch package. |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-30 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-01-30 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-01-30 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-01-30 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [HELMAB/chhankitek](https://github.com/HELMAB/chhankitek) | 10 | 2026-01-30 | A Laravel package to convert dates to Lunar (Chhankitek) for... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-01-30 | ShieldCI Laravel Package - Open-source static analysis and s... |
+| [romeran14/laravel-quotes-package](https://github.com/romeran14/laravel-quotes-package) | 0 | 2026-01-30 |  |
+| [faustbrian/cloak](https://github.com/faustbrian/cloak) | 0 | 2026-01-30 | Cloak is a security-focused Laravel package that prevents se... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-01-30T06:16 | 1 | 973 | 997 |
 | 2026-01-30T00:21 | 6 | 968 | 996 |
 | 2026-01-29T18:13 | 4 | 971 | 990 |
 | 2026-01-29T12:11 | 6 | 970 | 986 |

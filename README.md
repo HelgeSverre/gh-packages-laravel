@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1005  
-**Last updated:** 2026-01-30T18:11:52.465Z
+**Total packages tracked:** 1010  
+**Last updated:** 2026-01-31T00:21:25.715Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Grazulex/laravel-apiroute](https://github.com/Grazulex/laravel-apiroute) | 99 | Complete API versioning lifecycle management for Laravel |
+| [mahertizeeni/laravel-api-responder](https://github.com/mahertizeeni/laravel-api-responder) | 0 | laravel-api-responder package |
+| [kvangundy/laravel-claude-connector](https://github.com/kvangundy/laravel-claude-connector) | 0 | Laravel package and MCP server for interacting with the Laravel Cloud API with C... |
+| [minvws/nl-rdo-laravel-logging](https://github.com/minvws/nl-rdo-laravel-logging) | 0 | This package extends the minvws/audit-logger package and provides a generic logg... |
+| [overtrue/laravel-keycloak-admin](https://github.com/overtrue/laravel-keycloak-admin) | 4 | Package which adds some wrappers for Laravel on top of the [Keycloak Admin](http... |
 | [KOeker/laravel-discord-notification](https://github.com/KOeker/laravel-discord-notification) | 1 | A Laravel package for sending notifications to Discord channels via webhooks |
 | [little-green-man/earhart](https://github.com/little-green-man/earhart) | 3 | A package to use PropelAuth with Laravel |
 | [cocomedia-nl/laravel-directadmin-deploy](https://github.com/cocomedia-nl/laravel-directadmin-deploy) | 0 | Laravel package for automated deployment to DirectAdmin shared hosting with GitH... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [sotaiga/Poliglot](https://github.com/sotaiga/Poliglot) | 0 | Package per a Laravel per a poder desenvolupar espais web multi-idioma |
 | [sarkis-sh/spray-media](https://github.com/sarkis-sh/spray-media) | 2 | Secure uploads, signed URLs, and flexible media delivery for Laravel. |
 | [AlizHarb/filament-modular-luncher](https://github.com/AlizHarb/filament-modular-luncher) | 0 | The ultimate module management solution for Filament and Laravel Modular. Instal... |
-| [CreativeCrafts/laravel-ai-assistant](https://github.com/CreativeCrafts/laravel-ai-assistant) | 13 | A handy package to interact with openai chatgpt |
-| [akramzaitout/laravel-katex](https://github.com/akramzaitout/laravel-katex) | 1 | A comprehensive, production-ready Laravel package for rendering beautiful mathem... |
-| [iRaziul/kotha](https://github.com/iRaziul/kotha) | 1 | Kotha is a Laravel package designed to integrate popular Bangladeshi SMS gateway... |
-| [devlabsza/error-vault_laravel](https://github.com/devlabsza/error-vault_laravel) | 0 | Laravel package for connecting to Error-vault. |
-| [ueberdosis/laravel-docker-health-check](https://github.com/ueberdosis/laravel-docker-health-check) | 6 | A simple package that makes it easier to work with Laravel and Docker in product... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -50,7 +50,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kolossal-io/laravel-multiplex](https://github.com/kolossal-io/laravel-multiplex) | 291 | A Laravel package to attach time-sliced meta data to Eloquent models. |
 | [cjmellor/browser-sessions](https://github.com/cjmellor/browser-sessions) | 269 | A Laravel package to enable users to manage and monitor their active browser ses... |
 | [tonysm/tailwindcss-laravel](https://github.com/tonysm/tailwindcss-laravel) | 265 | This package wraps up the standalone executable version of the Tailwind CSS fram... |
-| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 234 | Queue Monitoring Package for Filament  |
+| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 235 | Queue Monitoring Package for Filament  |
 | [mhmiton/laravel-modules-livewire](https://github.com/mhmiton/laravel-modules-livewire) | 231 | Using Laravel Livewire in Laravel Modules package with automatically registered ... |
 | [milwad-dev/laravel-attributes](https://github.com/milwad-dev/laravel-attributes) | 228 | The package allows add and manage custom attributes on Eloquent models easily |
 | [houdaslassi/vantage](https://github.com/houdaslassi/vantage) | 221 | Vantage : Advanced Laravel Queue Monitoring & Insights package |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Dinithoshan/racelab](https://github.com/Dinithoshan/racelab) | 0 | 2026-01-30 | RaceLab is a Laravel debugging package that captures and vis... |
-| [achyutkneupane/filament-log-viewer](https://github.com/achyutkneupane/filament-log-viewer) | 40 | 2026-01-30 | A Filament package to view and manage Laravel logs. |
-| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 0 | 2026-01-30 | LaraWebhook is an open-source Laravel package for securely a... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-30 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-30 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [KOeker/laravel-discord-notification](https://github.com/KOeker/laravel-discord-notification) | 1 | 2026-01-30 | A Laravel package for sending notifications to Discord chann... |
-| [little-green-man/earhart](https://github.com/little-green-man/earhart) | 3 | 2026-01-30 | A package to use PropelAuth with Laravel |
-| [romeran14/laravel-quotes-package](https://github.com/romeran14/laravel-quotes-package) | 0 | 2026-01-30 |  |
-| [akramzaitout/laravel-katex](https://github.com/akramzaitout/laravel-katex) | 1 | 2026-01-30 | A comprehensive, production-ready Laravel package for render... |
-| [MohammadZarifiyan/Laravel-Sitemap-Manager](https://github.com/MohammadZarifiyan/Laravel-Sitemap-Manager) | 0 | 2026-01-30 | A Laravel package for managing sitemaps. |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-30 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-30 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-30 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-30 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-30 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [xiaoxuan6/laravel-package-skeleton](https://github.com/xiaoxuan6/laravel-package-skeleton) | 2 | 2026-01-30 | Laravel package template |
-| [ZaimeaLabs/charts](https://github.com/ZaimeaLabs/charts) | 4 | 2026-01-30 | Charts is a Laravel package that provides a simple, elegant ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-01-30 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [overtrue/laravel-keycloak-admin](https://github.com/overtrue/laravel-keycloak-admin) | 4 | 2026-01-31 | Package which adds some wrappers for Laravel on top of the [... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-31 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-01-31 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-01-31 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [cleaniquecoders/profile](https://github.com/cleaniquecoders/profile) | 14 | 2026-01-31 | Basic Profile Information using Polymorph |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-01-31 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-01-30 | The Laravel Quick Start package covers the basics of connect... |
+| [tzsk/sms](https://github.com/tzsk/sms) | 317 | 2026-01-30 | Laravel SMS Gateway Integration Package |
 | [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-01-30 | ShieldCI Laravel Package - Open-source static analysis and s... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-30 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [preprio/laravel-complete-starter](https://github.com/preprio/laravel-complete-starter) | 0 | 2026-01-30 | The Complete Laravel Starter package offers a sample project... |
+| [jeandormehl/laracache](https://github.com/jeandormehl/laracache) | 13 | 2026-01-30 | Laravel package providing InterSystems Cache as a data sourc... |
+| [chandan07cse/robi-sms](https://github.com/chandan07cse/robi-sms) | 0 | 2026-01-30 | New Robi SMS Package for Laravel |
+| [tomshaw/electricgrid](https://github.com/tomshaw/electricgrid) | 11 | 2026-01-30 | A feature-rich Livewire package designed for projects that r... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-30 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 7 | 2026-01-30 | Laravel Pesapal is a Laravel package designed to facilitate ... |
+| [TirFramework/crud](https://github.com/TirFramework/crud) | 2 | 2026-01-30 | crud package for tir framework based on laravel |
+| [ziffmedia/laravel-mysql-snapshots](https://github.com/ziffmedia/laravel-mysql-snapshots) | 3 | 2026-01-30 | Laravel package for creating MySQL Snapshots with command li... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-30 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [juniorfontenele/laravel-package-skeleton](https://github.com/juniorfontenele/laravel-package-skeleton) | 0 | 2026-01-30 | A skeleton for creating Laravel Packages |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-30 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-01-31T00:21 | 5 | 968 | 1010 |
 | 2026-01-30T18:11 | 6 | 966 | 1005 |
 | 2026-01-30T12:10 | 2 | 971 | 999 |
 | 2026-01-30T06:16 | 1 | 973 | 997 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-01-29T06:16 | 0 | 978 | 980 |
 | 2026-01-29T05:38 | 0 | 978 | 980 |
 | 2026-01-29T05:28 | 2 | 976 | 980 |
-| 2026-01-29T01:22 | 978 | 0 | 978 |
 
 ---
 

@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1022  
-**Last updated:** 2026-01-31T12:08:10.261Z
+**Total packages tracked:** 1023  
+**Last updated:** 2026-01-31T18:07:10.417Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [artryazanov/yt-cover-gen](https://github.com/artryazanov/yt-cover-gen) | 1 | YouTube AI Cover Generator is a framework-agnostic PHP package designed to autom... |
 | [emrahyldz93/laravel-entra-id](https://github.com/emrahyldz93/laravel-entra-id) | 1 | A Laravel package for seamless Microsoft Entra ID (Azure AD) authentication inte... |
 | [simone-bianco/laravel-dedup-media](https://github.com/simone-bianco/laravel-dedup-media) | 0 | Package to handle media storage without duplicated files |
 | [spatie/workshop-laravel-package](https://github.com/spatie/workshop-laravel-package) | 2 | A package created for the package workshop |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [overtrue/laravel-keycloak-admin](https://github.com/overtrue/laravel-keycloak-admin) | 4 | Package which adds some wrappers for Laravel on top of the [Keycloak Admin](http... |
 | [KOeker/laravel-discord-notification](https://github.com/KOeker/laravel-discord-notification) | 1 | A Laravel package for sending notifications to Discord channels via webhooks |
 | [little-green-man/earhart](https://github.com/little-green-man/earhart) | 3 | A package to use PropelAuth with Laravel |
-| [cocomedia-nl/laravel-directadmin-deploy](https://github.com/cocomedia-nl/laravel-directadmin-deploy) | 0 | Laravel package for automated deployment to DirectAdmin shared hosting with GitH... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [hos1992/laravel-model-actions](https://github.com/hos1992/laravel-model-actions) | 0 | 2026-01-31 | A Laravel package for generating action classes for Eloquent... |
+| [artryazanov/yt-cover-gen](https://github.com/artryazanov/yt-cover-gen) | 1 | 2026-01-31 | YouTube AI Cover Generator is a framework-agnostic PHP packa... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-31 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-31 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [webteractive/make-action](https://github.com/webteractive/make-action) | 1 | 2026-01-31 | This Laravel package provides a php artisan make:action comm... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-01-31 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-31 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-31 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [iquesters/integration](https://github.com/iquesters/integration) | 0 | 2026-01-31 | A Laravel package for managing third-party integrations (e.g... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-31 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-31 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [chandan07cse/robi-sms](https://github.com/chandan07cse/robi-sms) | 0 | 2026-01-31 | New Robi SMS Package for Laravel |
-| [simone-bianco/laravel-dedup-media](https://github.com/simone-bianco/laravel-dedup-media) | 0 | 2026-01-31 | Package to handle media storage without duplicated files |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-01-31 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-31 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-01-31 | 💳 Streamline payment processing with this PHP package that ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-01-31 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 4 | 2026-01-31 | A package for laravel to enable High-performance bulk seedin... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-01-31 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [parthokar90/feature-flag](https://github.com/parthokar90/feature-flag) | 0 | 2026-01-31 | A reusable Laravel package for feature flags and dynamic con... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-31 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [spatie/workshop-laravel-package](https://github.com/spatie/workshop-laravel-package) | 2 | 2026-01-31 | A package created for the package workshop |
-| [spatie/skeleton-nova-tool](https://github.com/spatie/skeleton-nova-tool) | 202 | 2026-01-31 | A skeleton repository for Spatie's Nova Packages |
+| [ringkubd/kiosk-attendance-laravel-backend-package](https://github.com/ringkubd/kiosk-attendance-laravel-backend-package) | 0 | 2026-01-31 |  |
+| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-01-31 | A laravel based E Commerce Package Developed using PHP |
+| [offload-project/laravel-navigation](https://github.com/offload-project/laravel-navigation) | 3 | 2026-01-31 | Configurable navigation package for Laravel with breadcrumb ... |
+| [TheBootstrapParadox/Keystone](https://github.com/TheBootstrapParadox/Keystone) | 0 | 2026-01-31 | Production-ready authentication package for Laravel 12 |
+| [little-green-man/earhart](https://github.com/little-green-man/earhart) | 3 | 2026-01-31 | A package to use PropelAuth with Laravel |
+| [faustbrian/cloak](https://github.com/faustbrian/cloak) | 0 | 2026-01-31 | Cloak is a security-focused Laravel package that prevents se... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-01-31T18:07 | 1 | 970 | 1023 |
 | 2026-01-31T12:08 | 11 | 962 | 1022 |
 | 2026-01-31T06:11 | 1 | 972 | 1011 |
 | 2026-01-31T00:21 | 5 | 968 | 1010 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-01-30T00:21 | 6 | 968 | 996 |
 | 2026-01-29T18:13 | 4 | 971 | 990 |
 | 2026-01-29T12:11 | 6 | 970 | 986 |
-| 2026-01-29T06:16 | 0 | 978 | 980 |
 
 ---
 

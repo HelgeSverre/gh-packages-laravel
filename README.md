@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1032  
-**Last updated:** 2026-02-01T12:08:39.021Z
+**Total packages tracked:** 1039  
+**Last updated:** 2026-02-01T18:07:51.357Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mrgarest/echo-api](https://github.com/mrgarest/echo-api) | 0 | A simple package for generating API responses in Laravel |
+| [nidhalkratos/laravel-coconut-v2](https://github.com/nidhalkratos/laravel-coconut-v2) | 0 | A Laravel wrapper package for coconut transcoding library |
+| [pratiksh404/nepalidate](https://github.com/pratiksh404/nepalidate) | 26 | Laravel package to convert AD to BS that can work with carbon. |
+| [aledaas/packages](https://github.com/aledaas/packages) | 0 | Reusable Laravel & PHP packages by Alejandro Daas. Infrastructure adapters, SDKs... |
+| [NyonCode/laravel-package-toolkit](https://github.com/NyonCode/laravel-package-toolkit) | 0 | Laravel Package Builder is a powerful tool designed to streamline the process of... |
+| [ItsMurumba/laravel-hostpinnacle](https://github.com/ItsMurumba/laravel-hostpinnacle) | 3 | Laravel 5, 6, 7, 8, 9, 10, 11, 12 Package for Hostpinnacle SMS API |
+| [gmgarrison/laravel-base](https://github.com/gmgarrison/laravel-base) | 0 | Base of packages and code to include with Laravel packages |
 | [farayaz/larapay](https://github.com/farayaz/larapay) | 20 |  Larapay is a Laravel package for integrating Iranian payment gateways.  |
 | [abdulmuinnurdin/Laravel10BaseProject](https://github.com/abdulmuinnurdin/Laravel10BaseProject) | 0 | ini adalah aplikasi base project saya yang berisi package yang dibutuhkan |
 | [elgiborsolution/laravel-whatsapp](https://github.com/elgiborsolution/laravel-whatsapp) | 1 | Package to integrate laravel with Meta Whatsapp Business Cloud API |
@@ -17,18 +24,11 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [zackAJ/laravel-debounce](https://github.com/zackAJ/laravel-debounce) | 146 | a laravel package that gives you a debounce effect on jobs, notifications and ar... |
 | [host-uk/core-template](https://github.com/host-uk/core-template) | 0 | type:template lang:php,blade,js,css framework:laravel | Starter template for new... |
 | [shammaa/laravel-seo](https://github.com/shammaa/laravel-seo) | 7 | Professional SEO package for Laravel with comprehensive support for OpenGraph, T... |
-| [iRaziul/barta](https://github.com/iRaziul/barta) | 40 | Barta is a Laravel package designed to integrate popular Bangladeshi SMS gateway... |
+| [iRaziul/barta](https://github.com/iRaziul/barta) | 42 | Barta is a Laravel package designed to integrate popular Bangladeshi SMS gateway... |
 | [artryazanov/yt-cover-gen](https://github.com/artryazanov/yt-cover-gen) | 1 | YouTube AI Cover Generator is a framework-agnostic PHP package designed to autom... |
 | [emrahyldz93/laravel-entra-id](https://github.com/emrahyldz93/laravel-entra-id) | 1 | A Laravel package for seamless Microsoft Entra ID (Azure AD) authentication inte... |
 | [simone-bianco/laravel-dedup-media](https://github.com/simone-bianco/laravel-dedup-media) | 0 | Package to handle media storage without duplicated files |
 | [spatie/workshop-laravel-package](https://github.com/spatie/workshop-laravel-package) | 2 | A package created for the package workshop |
-| [spatie/skeleton-nova-tool](https://github.com/spatie/skeleton-nova-tool) | 202 | A skeleton repository for Spatie's Nova Packages |
-| [spatie/laravel-example](https://github.com/spatie/laravel-example) | 3 | My first Laravel package (not) |
-| [spatie/laravel-event-projector-demo-app](https://github.com/spatie/laravel-event-projector-demo-app) | 40 | A demo of the laravel-event-projector package |
-| [spatie/laravel-dashboard-skeleton-tile](https://github.com/spatie/laravel-dashboard-skeleton-tile) | 27 | A skeleton you can use to package up a tile for laravel-dashboard |
-| [iperamuna/laravel-caddy-metrics](https://github.com/iperamuna/laravel-caddy-metrics) | 0 | A Laravel package for visualizing Caddy server metrics with a beautiful dashboar... |
-| [syeedalireza/laravel-commerce-engine](https://github.com/syeedalireza/laravel-commerce-engine) | 0 | Production-ready Laravel e-commerce package with cart, checkout, multi-gateway p... |
-| [hos1992/laravel-model-actions](https://github.com/hos1992/laravel-model-actions) | 0 | A Laravel package for generating action classes for Eloquent models with built-i... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -39,7 +39,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 432 | A package to keep track of your pages & understand your audience |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 421 | A simple package to help integrate Cloudflare Turnstile. |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 414 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 382 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 381 | Open Source Laravel CRM Package |
 | [sprout-laravel/sprout](https://github.com/sprout-laravel/sprout) | 360 | A flexible, seamless and easy to use multitenancy solution for Laravel |
 | [Laravel-Backpack/demo](https://github.com/Laravel-Backpack/demo) | 345 | A working demo of Laravel with all Backpack packages installed. |
 | [laravel/nightwatch](https://github.com/laravel/nightwatch) | 340 | The official Laravel Nightwatch package. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [mrgarest/echo-api](https://github.com/mrgarest/echo-api) | 0 | 2026-02-01 | A simple package for generating API responses in Laravel |
+| [amdad121/guard-laravel](https://github.com/amdad121/guard-laravel) | 12 | 2026-02-01 | Guard is Role and Permission management system for Laravel |
+| [nidhalkratos/laravel-coconut-v2](https://github.com/nidhalkratos/laravel-coconut-v2) | 0 | 2026-02-01 | A Laravel wrapper package for coconut transcoding library |
+| [Navinchinnasamy/exception-notifier](https://github.com/Navinchinnasamy/exception-notifier) | 0 | 2026-02-01 | Exception Notifier package for Laravel and Lumen application... |
+| [chandan07cse/robi-sms](https://github.com/chandan07cse/robi-sms) | 0 | 2026-02-01 | New Robi SMS Package for Laravel |
+| [pratiksh404/nepalidate](https://github.com/pratiksh404/nepalidate) | 26 | 2026-02-01 | Laravel package to convert AD to BS that can work with carbo... |
+| [aledaas/packages](https://github.com/aledaas/packages) | 0 | 2026-02-01 | Reusable Laravel & PHP packages by Alejandro Daas. Infrastru... |
+| [fuelviews/laravel-forms](https://github.com/fuelviews/laravel-forms) | 0 | 2026-02-01 | Forms Package |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 0 | 2026-02-01 | A Laravel package that adds NATS messaging support to Larave... |
-| [farayaz/larapay](https://github.com/farayaz/larapay) | 20 | 2026-02-01 |  Larapay is a Laravel package for integrating Iranian paymen... |
-| [Oskarpok/web_dev_ulp](https://github.com/Oskarpok/web_dev_ulp) | 0 | 2026-02-01 | Laravel's universal packages are a collection of related mod... |
-| [fuelviews/laravel-parameter-tagging](https://github.com/fuelviews/laravel-parameter-tagging) | 0 | 2026-02-01 | Parameter Tagging Package |
+| [ArtWorksIT/starter](https://github.com/ArtWorksIT/starter) | 0 | 2026-02-01 | This repo will serve a package to scaffold development of we... |
+| [fuelviews/laravel-redirect-if-not-found](https://github.com/fuelviews/laravel-redirect-if-not-found) | 0 | 2026-02-01 | Laravel redirect if not found package |
+| [lemukarram/vector-search](https://github.com/lemukarram/vector-search) | 1 | 2026-02-01 | A powerful, driver-based RAG (Retrieval-Augmented Generation... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-01 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-01 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-01 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-01 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-01 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-01 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [fuelviews/laravel-robots-txt](https://github.com/fuelviews/laravel-robots-txt) | 1 | 2026-02-01 | Robots Txt Package |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-01 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [cletuskingdom/laravel-paystack](https://github.com/cletuskingdom/laravel-paystack) | 0 | 2026-02-01 | ✌️ 💳 💰 Laravel 12 Package for Paystack |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-01 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-01 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-01 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [iperamuna/laravel-caddy-metrics](https://github.com/iperamuna/laravel-caddy-metrics) | 0 | 2026-02-01 | A Laravel package for visualizing Caddy server metrics with ... |
-| [fuelviews/laravel-sabhero-articles](https://github.com/fuelviews/laravel-sabhero-articles) | 0 | 2026-02-01 | SAB Hero Articles Package |
-| [abdulmuinnurdin/Laravel10BaseProject](https://github.com/abdulmuinnurdin/Laravel10BaseProject) | 0 | 2026-02-01 | ini adalah aplikasi base project saya yang berisi package ya... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-01T18:07 | 7 | 965 | 1039 |
 | 2026-02-01T12:08 | 4 | 966 | 1032 |
 | 2026-02-01T06:18 | 1 | 969 | 1028 |
 | 2026-02-01T00:25 | 4 | 966 | 1027 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-01-31T00:21 | 5 | 968 | 1010 |
 | 2026-01-30T18:11 | 6 | 966 | 1005 |
 | 2026-01-30T12:10 | 2 | 971 | 999 |
-| 2026-01-30T06:16 | 1 | 973 | 997 |
 
 ---
 

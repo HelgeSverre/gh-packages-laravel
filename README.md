@@ -2,17 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1027  
-**Last updated:** 2026-02-01T00:25:51.261Z
+**Total packages tracked:** 1028  
+**Last updated:** 2026-02-01T06:18:52.961Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [cletuskingdom/laravel-paystack](https://github.com/cletuskingdom/laravel-paystack) | 0 | ✌️ 💳 💰 Laravel 12 Package for Paystack |
 | [zackAJ/laravel-debounce](https://github.com/zackAJ/laravel-debounce) | 146 | a laravel package that gives you a debounce effect on jobs, notifications and ar... |
 | [host-uk/core-template](https://github.com/host-uk/core-template) | 0 | type:template lang:php,blade,js,css framework:laravel | Starter template for new... |
 | [shammaa/laravel-seo](https://github.com/shammaa/laravel-seo) | 7 | Professional SEO package for Laravel with comprehensive support for OpenGraph, T... |
-| [iRaziul/barta](https://github.com/iRaziul/barta) | 31 | Kotha is a Laravel package designed to integrate popular Bangladeshi SMS gateway... |
+| [iRaziul/barta](https://github.com/iRaziul/barta) | 37 | Kotha is a Laravel package designed to integrate popular Bangladeshi SMS gateway... |
 | [artryazanov/yt-cover-gen](https://github.com/artryazanov/yt-cover-gen) | 1 | YouTube AI Cover Generator is a framework-agnostic PHP package designed to autom... |
 | [emrahyldz93/laravel-entra-id](https://github.com/emrahyldz93/laravel-entra-id) | 1 | A Laravel package for seamless Microsoft Entra ID (Azure AD) authentication inte... |
 | [simone-bianco/laravel-dedup-media](https://github.com/simone-bianco/laravel-dedup-media) | 0 | Package to handle media storage without duplicated files |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [parthokar90/feature-flag](https://github.com/parthokar90/feature-flag) | 0 | A reusable Laravel package for feature flags and dynamic configuration managemen... |
 | [Grazulex/laravel-apiroute](https://github.com/Grazulex/laravel-apiroute) | 99 | Complete API versioning lifecycle management for Laravel |
 | [mahertizeeni/laravel-api-responder](https://github.com/mahertizeeni/laravel-api-responder) | 0 | laravel-api-responder package |
-| [kvangundy/laravel-claude-connector](https://github.com/kvangundy/laravel-claude-connector) | 0 | Laravel package and MCP server for interacting with the Laravel Cloud API with C... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [zackAJ/laravel-debounce](https://github.com/zackAJ/laravel-debounce) | 146 | 2026-02-01 | a laravel package that gives you a debounce effect on jobs, ... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-01 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-02-01 | A laravel based E Commerce Package Developed using PHP |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-01 | 💳 Streamline payment processing with this PHP package that ... |
 | [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-01 | ShieldCI Laravel Package - Open-source static analysis and s... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-01 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [fuelviews/laravel-cloudflare-cache](https://github.com/fuelviews/laravel-cloudflare-cache) | 1 | 2026-02-01 | Cloudflare Cache Package |
 | [TheBootstrapParadox/Keystone](https://github.com/TheBootstrapParadox/Keystone) | 0 | 2026-02-01 | Production-ready authentication package for Laravel 12 |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-01 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-01 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-01-31 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-01-31 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-01-31 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-01-31 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [host-uk/core-template](https://github.com/host-uk/core-template) | 0 | 2026-01-31 | type:template lang:php,blade,js,css framework:laravel | Star... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-01-31 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-01-31 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-01-31 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-01-31 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-01-31 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [shammaa/laravel-seo](https://github.com/shammaa/laravel-seo) | 7 | 2026-01-31 | Professional SEO package for Laravel with comprehensive supp... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-01-31 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-01-31 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [jobmetric/laravel-location](https://github.com/jobmetric/laravel-location) | 7 | 2026-01-31 | This is a package for managing countries, provinces, cities ... |
-| [iRaziul/barta](https://github.com/iRaziul/barta) | 31 | 2026-01-31 | Kotha is a Laravel package designed to integrate popular Ban... |
-| [jobmetric/laravel-package-core](https://github.com/jobmetric/laravel-package-core) | 9 | 2026-01-31 | It is a standard package of different components of Laravel ... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-01 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-01 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-01 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-01 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-02-01 | This project collects the most commonly used Laravel extensi... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-01 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [devsarfo/laraprunable](https://github.com/devsarfo/laraprunable) | 0 | 2026-02-01 | Laravel Prunable Package that supports SoftDeletes trait |
+| [faustbrian/sequencer](https://github.com/faustbrian/sequencer) | 0 | 2026-02-01 | A powerful Laravel package that orchestrates sequential exec... |
+| [cletuskingdom/laravel-paystack](https://github.com/cletuskingdom/laravel-paystack) | 0 | 2026-02-01 | ✌️ 💳 💰 Laravel 12 Package for Paystack |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-01T06:18 | 1 | 969 | 1028 |
 | 2026-02-01T00:25 | 4 | 966 | 1027 |
 | 2026-01-31T18:07 | 1 | 970 | 1023 |
 | 2026-01-31T12:08 | 11 | 962 | 1022 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-01-30T12:10 | 2 | 971 | 999 |
 | 2026-01-30T06:16 | 1 | 973 | 997 |
 | 2026-01-30T00:21 | 6 | 968 | 996 |
-| 2026-01-29T18:13 | 4 | 971 | 990 |
 
 ---
 

@@ -20,8 +20,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-17T22:25:34Z",
-    "updated_at": "2026-02-01T23:50:42Z",
-    "pushed_at": "2026-02-01T23:50:35Z",
+    "updated_at": "2026-02-02T04:59:45Z",
+    "pushed_at": "2026-02-02T04:59:42Z",
     "discovered_at": "2026-01-29T01:22:25.331Z"
   },
   "dgf1969/payment-gateway": {
@@ -53,8 +53,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-08-04T14:23:55Z",
-    "updated_at": "2026-02-01T23:48:06Z",
-    "pushed_at": "2026-02-01T23:48:04Z",
+    "updated_at": "2026-02-02T04:57:01Z",
+    "pushed_at": "2026-02-02T04:56:58Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "dubey-anuj/ecommerce.cart": {
@@ -86,8 +86,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-05-22T07:29:48Z",
-    "updated_at": "2026-02-01T23:39:22Z",
-    "pushed_at": "2026-02-01T23:39:18Z",
+    "updated_at": "2026-02-02T04:49:47Z",
+    "pushed_at": "2026-02-02T04:49:43Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "astrr3/laravel-argonaut-dto": {
@@ -115,8 +115,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-04-26T00:48:43Z",
-    "updated_at": "2026-02-01T23:34:42Z",
-    "pushed_at": "2026-02-01T23:34:39Z",
+    "updated_at": "2026-02-02T04:44:24Z",
+    "pushed_at": "2026-02-02T04:44:21Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "vivek80801/command-pack": {
@@ -161,8 +161,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2021-08-15T13:08:44Z",
-    "updated_at": "2026-02-01T22:05:00Z",
-    "pushed_at": "2026-02-01T22:04:56Z",
+    "updated_at": "2026-02-02T06:15:39Z",
+    "pushed_at": "2026-02-02T06:15:36Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "pedezim362/filemanager": {
@@ -194,8 +194,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-08T11:47:08Z",
-    "updated_at": "2026-02-01T21:40:04Z",
-    "pushed_at": "2026-02-01T21:40:01Z",
+    "updated_at": "2026-02-02T05:51:16Z",
+    "pushed_at": "2026-02-02T05:51:12Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "dante9581/laravel-elevenlabs": {
@@ -227,8 +227,8 @@
     "language": "PHP",
     "license": "Apache-2.0",
     "created_at": "2025-12-09T23:32:07Z",
-    "updated_at": "2026-02-01T21:29:06Z",
-    "pushed_at": "2026-02-01T21:29:03Z",
+    "updated_at": "2026-02-02T05:40:50Z",
+    "pushed_at": "2026-02-02T05:40:47Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "alfan129/aidagateway": {
@@ -254,8 +254,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-29T18:47:56Z",
-    "updated_at": "2026-02-01T21:25:30Z",
-    "pushed_at": "2026-02-01T21:25:27Z",
+    "updated_at": "2026-02-02T05:37:10Z",
+    "pushed_at": "2026-02-02T05:37:07Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "yamatekudashai/phind": {
@@ -287,8 +287,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-01T21:14:46Z",
-    "updated_at": "2026-02-01T21:25:15Z",
-    "pushed_at": "2026-02-01T21:25:12Z",
+    "updated_at": "2026-02-02T05:36:50Z",
+    "pushed_at": "2026-02-02T05:36:46Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "georgieselflocking582/laravel-translate": {
@@ -320,8 +320,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-20T20:47:10Z",
-    "updated_at": "2026-02-01T21:19:03Z",
-    "pushed_at": "2026-02-01T21:19:00Z",
+    "updated_at": "2026-02-02T05:31:03Z",
+    "pushed_at": "2026-02-02T05:31:00Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "thanhdt716/filament-shield": {
@@ -353,8 +353,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-09-13T08:32:59Z",
-    "updated_at": "2026-02-02T00:02:01Z",
-    "pushed_at": "2026-02-02T00:01:57Z",
+    "updated_at": "2026-02-02T05:10:13Z",
+    "pushed_at": "2026-02-02T05:10:10Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "romeran14/laravel-quotes-package": {
@@ -429,8 +429,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-26T16:12:07Z",
-    "updated_at": "2026-02-01T21:23:30Z",
-    "pushed_at": "2026-02-01T21:23:26Z",
+    "updated_at": "2026-02-02T05:35:47Z",
+    "pushed_at": "2026-02-02T05:35:44Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "njoguamos/laravel-pesapal": {
@@ -448,8 +448,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-03-12T14:10:04Z",
-    "updated_at": "2026-01-31T08:17:13Z",
-    "pushed_at": "2026-01-31T08:17:10Z",
+    "updated_at": "2026-02-02T06:12:15Z",
+    "pushed_at": "2026-02-02T06:12:41Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "gnarhard/zipper": {
@@ -542,7 +542,7 @@
     "license": "MIT",
     "created_at": "2025-06-19T08:33:50Z",
     "updated_at": "2026-01-28T20:40:45Z",
-    "pushed_at": "2026-01-28T20:40:47Z",
+    "pushed_at": "2026-02-02T05:57:37Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "lava83/laravel-ddd": {
@@ -1000,8 +1000,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-05T17:41:15Z",
-    "updated_at": "2026-01-28T10:30:43Z",
-    "pushed_at": "2026-01-28T10:30:38Z",
+    "updated_at": "2026-02-02T05:13:49Z",
+    "pushed_at": "2026-02-02T06:11:44Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "yangusik/laravel-balanced-queue": {
@@ -1353,7 +1353,7 @@
     "license": "MIT",
     "created_at": "2026-01-26T17:39:14Z",
     "updated_at": "2026-01-28T00:20:57Z",
-    "pushed_at": "2026-01-28T00:20:58Z",
+    "pushed_at": "2026-02-02T00:59:08Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "moe-mizrak/laravel-openrouter": {
@@ -1886,13 +1886,13 @@
     "name": "devcbh/laravel-ai-provider",
     "url": "https://github.com/devcbh/laravel-ai-provider",
     "description": "A Laravel AI wrapper package with multiple provider drivers.",
-    "stars": 1,
+    "stars": 3,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2026-01-23T12:10:49Z",
-    "updated_at": "2026-01-29T08:27:04Z",
+    "updated_at": "2026-02-02T03:10:19Z",
     "pushed_at": "2026-01-29T08:27:42Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -2731,7 +2731,7 @@
     "name": "vlados/laravel-legal-documents",
     "url": "https://github.com/vlados/laravel-legal-documents",
     "description": "Laravel package for tracking legal document versions and user acceptances with Filament integration",
-    "stars": 12,
+    "stars": 13,
     "forks": 1,
     "topics": [
       "filamentphp",
@@ -2741,7 +2741,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-14T11:35:36Z",
-    "updated_at": "2026-02-01T06:00:53Z",
+    "updated_at": "2026-02-02T02:44:46Z",
     "pushed_at": "2026-01-26T02:21:35Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -2792,8 +2792,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-09-20T12:46:04Z",
-    "updated_at": "2026-01-26T00:38:32Z",
-    "pushed_at": "2026-01-26T00:38:31Z",
+    "updated_at": "2026-02-02T00:37:05Z",
+    "pushed_at": "2026-02-02T00:37:05Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "internetguru/laravel-translatable": {
@@ -3575,8 +3575,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2022-08-14T23:20:31Z",
-    "updated_at": "2026-01-24T00:57:04Z",
-    "pushed_at": "2026-01-24T00:57:00Z",
+    "updated_at": "2026-02-02T01:10:36Z",
+    "pushed_at": "2026-02-02T01:10:33Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "tooinfinity/lingua": {
@@ -5398,8 +5398,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-02T01:09:24Z",
-    "updated_at": "2026-01-20T07:34:53Z",
-    "pushed_at": "2026-01-20T07:35:51Z",
+    "updated_at": "2026-02-02T05:01:23Z",
+    "pushed_at": "2026-02-02T05:06:11Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "faustbrian/toggl": {
@@ -5412,8 +5412,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-11-10T04:59:01Z",
-    "updated_at": "2026-01-30T03:24:50Z",
-    "pushed_at": "2026-01-30T03:25:34Z",
+    "updated_at": "2026-02-02T04:59:12Z",
+    "pushed_at": "2026-02-02T05:00:12Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "diviky/bright": {
@@ -5904,8 +5904,8 @@
     "language": "PHP",
     "license": "Apache-2.0",
     "created_at": "2020-10-09T18:32:35Z",
-    "updated_at": "2026-01-19T03:13:00Z",
-    "pushed_at": "2026-01-19T03:13:04Z",
+    "updated_at": "2026-02-02T03:03:22Z",
+    "pushed_at": "2026-02-02T03:03:22Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "starsnet-internal/project-super_template-laravel-package_12_api": {
@@ -6796,7 +6796,7 @@
     "license": "MIT",
     "created_at": "2025-11-07T00:01:09Z",
     "updated_at": "2026-02-01T07:05:00Z",
-    "pushed_at": "2026-02-01T07:14:23Z",
+    "pushed_at": "2026-02-02T03:44:20Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "yuges-code/laravel-ownable": {
@@ -9256,7 +9256,7 @@
     "name": "MusahMusah/laravel-multipayment-gateways",
     "url": "https://github.com/MusahMusah/laravel-multipayment-gateways",
     "description": "A Laravel Package that makes implementation of multiple payment Gateways such as Paystack, Flutterwave and Stripe endpoints and webhooks seamless. ",
-    "stars": 83,
+    "stars": 82,
     "forks": 11,
     "topics": [
       "flutterwave",
@@ -9278,7 +9278,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-12-18T22:50:38Z",
-    "updated_at": "2026-01-12T18:09:41Z",
+    "updated_at": "2026-02-02T00:43:16Z",
     "pushed_at": "2026-01-12T18:09:43Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -12626,7 +12626,7 @@
     "license": "MIT",
     "created_at": "2024-05-29T23:06:19Z",
     "updated_at": "2026-01-12T02:49:08Z",
-    "pushed_at": "2026-01-26T02:44:42Z",
+    "pushed_at": "2026-02-02T02:47:00Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "swisnl/laravel-date-range": {
@@ -16407,8 +16407,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-01-28T09:51:04Z",
-    "updated_at": "2026-01-30T10:51:12Z",
-    "pushed_at": "2026-01-30T10:53:50Z",
+    "updated_at": "2026-02-02T06:22:38Z",
+    "pushed_at": "2026-02-02T06:22:34Z",
     "discovered_at": "2026-01-29T12:11:54.941Z"
   },
   "akramzaitout/laravel-katex": {
@@ -16649,7 +16649,7 @@
     "license": "MIT",
     "created_at": "2025-11-09T04:17:03Z",
     "updated_at": "2026-01-31T13:05:42Z",
-    "pushed_at": "2026-01-31T13:11:47Z",
+    "pushed_at": "2026-02-02T04:22:24Z",
     "discovered_at": "2026-01-30T18:11:52.457Z"
   },
   "cocomedia-nl/laravel-directadmin-deploy": {
@@ -16879,7 +16879,7 @@
     "url": "https://github.com/spatie/skeleton-nova-tool",
     "description": "A skeleton repository for Spatie's Nova Packages",
     "stars": 202,
-    "forks": 21,
+    "forks": 22,
     "topics": [
       "laravel",
       "nova",
@@ -17085,13 +17085,13 @@
     "name": "iRaziul/barta",
     "url": "https://github.com/iRaziul/barta",
     "description": "Barta is a Laravel package designed to integrate popular Bangladeshi SMS gateways seamlessly.",
-    "stars": 44,
+    "stars": 47,
     "forks": 6,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-28T20:58:20Z",
-    "updated_at": "2026-02-01T23:11:21Z",
+    "updated_at": "2026-02-02T06:07:31Z",
     "pushed_at": "2026-02-01T08:37:49Z",
     "discovered_at": "2026-02-01T00:25:51.253Z"
   },
@@ -17158,8 +17158,8 @@
     "language": "PHP",
     "license": "Apache-2.0",
     "created_at": "2025-08-24T01:27:02Z",
-    "updated_at": "2026-02-01T09:22:10Z",
-    "pushed_at": "2026-02-01T09:22:07Z",
+    "updated_at": "2026-02-02T04:59:48Z",
+    "pushed_at": "2026-02-02T05:01:18Z",
     "discovered_at": "2026-02-01T12:08:39.013Z"
   },
   "salfade/laravel-login-tracker": {
@@ -17245,8 +17245,8 @@
     "language": "PHP",
     "license": "Apache-2.0",
     "created_at": "2026-02-01T16:22:17Z",
-    "updated_at": "2026-02-01T17:35:23Z",
-    "pushed_at": "2026-02-01T17:35:20Z",
+    "updated_at": "2026-02-02T01:06:50Z",
+    "pushed_at": "2026-02-02T01:06:46Z",
     "discovered_at": "2026-02-01T18:07:51.349Z"
   },
   "nyoncode/laravel-package-toolkit": {
@@ -17302,12 +17302,20 @@
     "description": "Build inclusive and compliant web applications with essential tools that empower you to create experiences usable by everyone, seamlessly integrated into your Laravel projects. This package provides accessibility tools and features designed to help developers create web applications that are inclusive and compliant with accessibility standards.",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "a11y",
+      "accessibility",
+      "aria",
+      "laravel",
+      "laravel-package",
+      "php",
+      "wcag"
+    ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T22:51:43Z",
-    "updated_at": "2026-02-01T23:50:31Z",
-    "pushed_at": "2026-02-02T00:20:32Z",
+    "updated_at": "2026-02-02T02:30:07Z",
+    "pushed_at": "2026-02-02T02:16:31Z",
     "discovered_at": "2026-02-02T00:23:09.415Z"
   },
   "artisanpack-ui/seo": {
@@ -17316,12 +17324,21 @@
     "description": "A comprehensive SEO management package for Laravel applications built on Livewire 3 & 4, enabling developers to manage search engine optimization through a visual interface. It provides meta tag and schema control with 14 JSON-LD schema types, Open Graph and Twitter Card generation for social sharing, multi-language SEO with hreflang tags and more.",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "laravel",
+      "laravel-package",
+      "meta-tags",
+      "opengraph",
+      "php",
+      "schema-markup",
+      "seo",
+      "sitemap"
+    ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T23:10:24Z",
-    "updated_at": "2026-02-01T23:44:46Z",
-    "pushed_at": "2026-02-02T00:20:49Z",
+    "updated_at": "2026-02-02T02:59:38Z",
+    "pushed_at": "2026-02-02T02:16:51Z",
     "discovered_at": "2026-02-02T00:23:09.415Z"
   },
   "artisanpack-ui/privacy": {
@@ -17330,12 +17347,20 @@
     "description": "Build privacy-conscious applications with tools designed for compliance and user trust. This package provides privacy management features to help developers implement GDPR-compliant data handling, consent management, and user data rights within their Laravel applications.",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "compliance",
+      "cookie-consent",
+      "gdpr",
+      "laravel",
+      "laravel-package",
+      "php",
+      "privacy"
+    ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T23:07:58Z",
-    "updated_at": "2026-02-01T23:44:40Z",
-    "pushed_at": "2026-02-01T23:44:35Z",
+    "updated_at": "2026-02-02T02:59:36Z",
+    "pushed_at": "2026-02-02T02:16:49Z",
     "discovered_at": "2026-02-02T00:23:09.415Z"
   },
   "artisanpack-ui/performance": {
@@ -17344,12 +17369,20 @@
     "description": "Optimize your Laravel application's speed and efficiency with a toolkit designed to identify and resolve performance bottlenecks. This package provides performance monitoring and optimization utilities to help developers build faster, more responsive applications.",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "caching",
+      "laravel",
+      "laravel-package",
+      "optimization",
+      "performance",
+      "php",
+      "speed"
+    ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T23:07:22Z",
-    "updated_at": "2026-02-01T23:44:38Z",
-    "pushed_at": "2026-02-01T23:44:34Z",
+    "updated_at": "2026-02-02T02:59:26Z",
+    "pushed_at": "2026-02-02T02:16:48Z",
     "discovered_at": "2026-02-02T00:23:09.415Z"
   },
   "artisanpack-ui/forms": {
@@ -17358,12 +17391,20 @@
     "description": "A comprehensive form builder and management package for Laravel applications, able to create sophisticated forms through visual interfaces with drag-and-drop form construction, over 20 field types, submission tracking, automated email notifications and so much more.",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "form-builder",
+      "form-validation",
+      "forms",
+      "laravel",
+      "laravel-package",
+      "livewire",
+      "php"
+    ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T23:00:42Z",
-    "updated_at": "2026-02-01T23:44:04Z",
-    "pushed_at": "2026-02-02T00:20:40Z",
+    "updated_at": "2026-02-02T02:59:21Z",
+    "pushed_at": "2026-02-02T02:16:41Z",
     "discovered_at": "2026-02-02T00:23:09.415Z"
   },
   "artisanpack-ui/code-style-pint": {
@@ -17372,12 +17413,20 @@
     "description": "A Laravel Pint preset that implements the coding standards defined in the artisanpack-ui/code-style PHPCS package. This package provides a pre-configured pint.json file to enforce consistent code formatting with Laravel Pint, including rules for array syntax, spacing, brace positioning, import ordering, and strict type declarations.",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "code-formatting",
+      "code-style",
+      "laravel",
+      "laravel-package",
+      "laravel-pint",
+      "linting",
+      "php"
+    ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T22:58:37Z",
-    "updated_at": "2026-02-01T23:42:45Z",
-    "pushed_at": "2026-02-02T00:20:38Z",
+    "updated_at": "2026-02-02T02:59:24Z",
+    "pushed_at": "2026-02-02T02:16:37Z",
     "discovered_at": "2026-02-02T00:23:09.415Z"
   },
   "artisanpack-ui/analytics": {
@@ -17386,12 +17435,20 @@
     "description": "A privacy-first analytics package for Laravel applications, providing local database storage for complete data ownership, GDPR-compliant consent management, real-time dashboards, multi-tenant support, and optional integration with Google Analytics 4 and Plausible.",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "analytics",
+      "dashboard",
+      "google-analytics",
+      "laravel",
+      "laravel-package",
+      "php",
+      "tracking"
+    ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T22:54:18Z",
-    "updated_at": "2026-02-01T23:42:17Z",
-    "pushed_at": "2026-02-02T00:20:33Z",
+    "updated_at": "2026-02-02T02:45:06Z",
+    "pushed_at": "2026-02-02T02:16:32Z",
     "discovered_at": "2026-02-02T00:23:09.415Z"
   },
   "cloudstudio/ollama-laravel": {
@@ -17489,5 +17546,161 @@
     "updated_at": "2026-02-01T19:19:03Z",
     "pushed_at": "2026-02-01T19:19:05Z",
     "discovered_at": "2026-02-02T00:23:09.416Z"
+  },
+  "artisanpack-ui/media-library": {
+    "name": "ArtisanPack-UI/media-library",
+    "url": "https://github.com/ArtisanPack-UI/media-library",
+    "description": "Effortlessly manage your application's media with a powerful, intuitive library. This package provides developers with a comprehensive solution for integrating media management capabilities into applications, streamlining the processes of uploading files, organizing assets, and establishing media associations.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "file-upload",
+      "image-management",
+      "laravel",
+      "laravel-package",
+      "livewire",
+      "media-library",
+      "media-manager",
+      "php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-02-01T23:06:49Z",
+    "updated_at": "2026-02-02T02:59:37Z",
+    "pushed_at": "2026-02-02T02:16:47Z",
+    "discovered_at": "2026-02-02T06:25:35.022Z"
+  },
+  "artisanpack-ui/icons": {
+    "name": "ArtisanPack-UI/icons",
+    "url": "https://github.com/ArtisanPack-UI/icons",
+    "description": "An extensibility layer for Blade Icons that enables flexible registration of custom SVG icon sets via config or events. This package extends Blade Icons by providing developers with flexible mechanisms to register and manage custom SVG icon collections, supporting both configuration-based and event-driven registration approaches.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "blade-components",
+      "icon-library",
+      "icons",
+      "laravel",
+      "laravel-package",
+      "php",
+      "svg-icons"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-02-01T23:02:10Z",
+    "updated_at": "2026-02-02T02:59:38Z",
+    "pushed_at": "2026-02-02T02:16:43Z",
+    "discovered_at": "2026-02-02T06:25:35.022Z"
+  },
+  "artisanpack-ui/hooks": {
+    "name": "ArtisanPack-UI/hooks",
+    "url": "https://github.com/ArtisanPack-UI/hooks",
+    "description": "This package provides a flexible hook system for extending and customizing functionality throughout your application. It enables developers to tap into various points of the application lifecycle and add custom behavior without modifying core code.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "actions",
+      "events",
+      "filters",
+      "hooks",
+      "laravel",
+      "laravel-package",
+      "php",
+      "wordpress-style"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-02-01T23:01:14Z",
+    "updated_at": "2026-02-02T02:59:23Z",
+    "pushed_at": "2026-02-02T02:16:42Z",
+    "discovered_at": "2026-02-02T06:25:35.022Z"
+  },
+  "artisanpack-ui/core": {
+    "name": "ArtisanPack-UI/core",
+    "url": "https://github.com/ArtisanPack-UI/core",
+    "description": "The essential, foundational package that powers the entire ecosystem. It provides a suite of helpers and utilities designed to make your development workflow smoother and more efficient. This package serves as a core foundation for the ArtisanPack UI ecosystem, offering development helpers and utility functions to streamline developer workflows.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "assets",
+      "helpers",
+      "laravel",
+      "laravel-package",
+      "php",
+      "utilities"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-02-01T22:59:10Z",
+    "updated_at": "2026-02-02T02:59:27Z",
+    "pushed_at": "2026-02-02T02:16:40Z",
+    "discovered_at": "2026-02-02T06:25:35.022Z"
+  },
+  "artisanpack-ui/code-style": {
+    "name": "ArtisanPack-UI/code-style",
+    "url": "https://github.com/ArtisanPack-UI/code-style",
+    "description": "Enforce a clean and consistent code style across your entire project automatically. Spend less time debating formatting and more time writing incredible code that's readable for everyone. This package automates formatting consistency across projects, reducing time spent on style discussions while improving code readability across teams.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "code-style",
+      "coding-standards",
+      "laravel",
+      "laravel-package",
+      "linting",
+      "php",
+      "php-cs-fixer"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-02-01T22:56:18Z",
+    "updated_at": "2026-02-02T02:59:39Z",
+    "pushed_at": "2026-02-02T02:16:39Z",
+    "discovered_at": "2026-02-02T06:25:35.022Z"
+  },
+  "artisanpack-ui/visual-editor": {
+    "name": "ArtisanPack-UI/visual-editor",
+    "url": "https://github.com/ArtisanPack-UI/visual-editor",
+    "description": "Empower your users with a modern, intuitive visual editor. This package provides a complete block-based editing experience, allowing for the creation of dynamic, beautiful content. Visual editors are becoming a crucial part of any content management system, enabling website owners to see how the page looks as they are creating it.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "block-editor",
+      "laravel",
+      "laravel-package",
+      "livewire",
+      "page-builder",
+      "php",
+      "visual-editor",
+      "wysiwyg"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-02-01T23:11:21Z",
+    "updated_at": "2026-02-02T02:59:25Z",
+    "pushed_at": "2026-02-02T02:14:39Z",
+    "discovered_at": "2026-02-02T06:25:35.022Z"
+  },
+  "artisanpack-ui/security": {
+    "name": "ArtisanPack-UI/security",
+    "url": "https://github.com/ArtisanPack-UI/security",
+    "description": "A straightforward, powerful toolkit for securing your application. This package focuses on application security by offering data escaping and sanitization utilities designed to help developers implement protection mechanisms across their codebase.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "authentication",
+      "authorization",
+      "csrf",
+      "laravel",
+      "laravel-package",
+      "php",
+      "security"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-02-01T23:08:46Z",
+    "updated_at": "2026-02-02T02:59:35Z",
+    "pushed_at": "2026-02-02T01:46:02Z",
+    "discovered_at": "2026-02-02T06:25:35.022Z"
   }
 }

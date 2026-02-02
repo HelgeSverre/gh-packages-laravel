@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1052  
-**Last updated:** 2026-02-02T00:23:09.427Z
+**Total packages tracked:** 1059  
+**Last updated:** 2026-02-02T06:25:35.034Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ArtisanPack-UI/media-library](https://github.com/ArtisanPack-UI/media-library) | 0 | Effortlessly manage your application's media with a powerful, intuitive library.... |
+| [ArtisanPack-UI/icons](https://github.com/ArtisanPack-UI/icons) | 0 | An extensibility layer for Blade Icons that enables flexible registration of cus... |
+| [ArtisanPack-UI/hooks](https://github.com/ArtisanPack-UI/hooks) | 0 | This package provides a flexible hook system for extending and customizing funct... |
+| [ArtisanPack-UI/core](https://github.com/ArtisanPack-UI/core) | 0 | The essential, foundational package that powers the entire ecosystem. It provide... |
+| [ArtisanPack-UI/code-style](https://github.com/ArtisanPack-UI/code-style) | 0 | Enforce a clean and consistent code style across your entire project automatical... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | Empower your users with a modern, intuitive visual editor. This package provides... |
+| [ArtisanPack-UI/security](https://github.com/ArtisanPack-UI/security) | 0 | A straightforward, powerful toolkit for securing your application. This package ... |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 458 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [MatanYadaev/laravel-eloquent-spatial](https://github.com/MatanYadaev/laravel-eloquent-spatial) | 394 | Laravel Eloquent spatial package. |
 | [BurtDS/cash-converter](https://github.com/BurtDS/cash-converter) | 15 | A small & simple laravel package, but takes away the pain of communicating with ... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ArtisanPack-UI/forms](https://github.com/ArtisanPack-UI/forms) | 0 | A comprehensive form builder and management package for Laravel applications, ab... |
 | [ArtisanPack-UI/code-style-pint](https://github.com/ArtisanPack-UI/code-style-pint) | 0 | A Laravel Pint preset that implements the coding standards defined in the artisa... |
 | [ArtisanPack-UI/analytics](https://github.com/ArtisanPack-UI/analytics) | 0 | A privacy-first analytics package for Laravel applications, providing local data... |
-| [mrgarest/echo-api](https://github.com/mrgarest/echo-api) | 0 | A simple package for generating API responses in Laravel |
-| [nidhalkratos/laravel-coconut-v2](https://github.com/nidhalkratos/laravel-coconut-v2) | 0 | A Laravel wrapper package for coconut transcoding library |
-| [pratiksh404/nepalidate](https://github.com/pratiksh404/nepalidate) | 26 | Laravel package to convert AD to BS that can work with carbon. |
-| [aledaas/packages](https://github.com/aledaas/packages) | 0 | Reusable Laravel & PHP packages by Alejandro Daas. Infrastructure adapters, SDKs... |
-| [NyonCode/laravel-package-toolkit](https://github.com/NyonCode/laravel-package-toolkit) | 0 | Laravel Package Builder is a powerful tool designed to streamline the process of... |
-| [ItsMurumba/laravel-hostpinnacle](https://github.com/ItsMurumba/laravel-hostpinnacle) | 3 | Laravel 5, 6, 7, 8, 9, 10, 11, 12 Package for Hostpinnacle SMS API |
-| [gmgarrison/laravel-base](https://github.com/gmgarrison/laravel-base) | 0 | Base of packages and code to include with Laravel packages |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-02-02 | A comprehensive SEO management package for Laravel applicati... |
-| [ArtisanPack-UI/forms](https://github.com/ArtisanPack-UI/forms) | 0 | 2026-02-02 | A comprehensive form builder and management package for Lara... |
-| [ArtisanPack-UI/code-style-pint](https://github.com/ArtisanPack-UI/code-style-pint) | 0 | 2026-02-02 | A Laravel Pint preset that implements the coding standards d... |
-| [ArtisanPack-UI/analytics](https://github.com/ArtisanPack-UI/analytics) | 0 | 2026-02-02 | A privacy-first analytics package for Laravel applications, ... |
-| [ArtisanPack-UI/accessibility](https://github.com/ArtisanPack-UI/accessibility) | 0 | 2026-02-02 | Build inclusive and compliant web applications with essentia... |
-| [imanghafoori1/laravel-microscope-tester](https://github.com/imanghafoori1/laravel-microscope-tester) | 0 | 2026-02-02 | This Laravel app is intended to provide a realistic environm... |
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-02-02 | Laravel Package to access AI CAD |
-| [jobmetric/laravel-location](https://github.com/jobmetric/laravel-location) | 7 | 2026-02-02 | This is a package for managing countries, provinces, cities ... |
+| [syastrebov/laravel-circuit-breaker](https://github.com/syastrebov/laravel-circuit-breaker) | 0 | 2026-02-02 | Laravel package for https://github.com/syastrebov/circuit-br... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-02 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 7 | 2026-02-02 | Laravel Pesapal is a Laravel package designed to facilitate ... |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 2 | 2026-02-02 | Laravel package for interacting with Traccar api |
+| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-02-02 | A Laravel Package providing seamless integration for the wun... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-02 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-02 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-02 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-02 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-02 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-02 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-02 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-01 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [gowelle/flutterwave-php](https://github.com/gowelle/flutterwave-php) | 0 | 2026-02-01 | Modern Laravel package for Flutterwave v4 API integration |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-01 | 💳 Streamline payment processing with this PHP package that ... |
-| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-02-01 | Build privacy-conscious applications with tools designed for... |
-| [ArtisanPack-UI/performance](https://github.com/ArtisanPack-UI/performance) | 0 | 2026-02-01 | Optimize your Laravel application's speed and efficiency wit... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-01 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [goodcat-dev/laravel-l10n](https://github.com/goodcat-dev/laravel-l10n) | 6 | 2026-02-01 | An opinionated Laravel package for app localization. |
-| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 458 | 2026-02-01 | Ollama-Laravel is a Laravel package providing seamless integ... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-01 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [ericariyanto/laravel-geonode-client](https://github.com/ericariyanto/laravel-geonode-client) | 0 | 2026-02-02 | This Library provides a clean, modern Laravel package for in... |
+| [elgiborsolution/laravel-whatsapp](https://github.com/elgiborsolution/laravel-whatsapp) | 1 | 2026-02-02 | Package to integrate laravel with Meta Whatsapp Business Clo... |
+| [faustbrian/toggl](https://github.com/faustbrian/toggl) | 0 | 2026-02-02 | A powerful Laravel feature flag package with conductor-based... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-02 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-02 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-02 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-02 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [little-green-man/earhart](https://github.com/little-green-man/earhart) | 3 | 2026-02-02 | A package to use PropelAuth with Laravel |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-02T06:25 | 7 | 965 | 1059 |
 | 2026-02-02T00:23 | 13 | 959 | 1052 |
 | 2026-02-01T18:07 | 7 | 965 | 1039 |
 | 2026-02-01T12:08 | 4 | 966 | 1032 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-01-31T12:08 | 11 | 962 | 1022 |
 | 2026-01-31T06:11 | 1 | 972 | 1011 |
 | 2026-01-31T00:21 | 5 | 968 | 1010 |
-| 2026-01-30T18:11 | 6 | 966 | 1005 |
 
 ---
 

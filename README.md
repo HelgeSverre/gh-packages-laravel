@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1076  
-**Last updated:** 2026-02-02T18:13:21.466Z
+**Total packages tracked:** 1077  
+**Last updated:** 2026-02-03T00:23:53.927Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [golchha21/ReSmushIt](https://github.com/golchha21/ReSmushIt) | 7 | A Laravel package for the popular image optimization web service reSmush.it |
 | [kreatifIT/laravel-queue-watchdog](https://github.com/kreatifIT/laravel-queue-watchdog) | 0 | Laravel package to monitor queue failures and send notifications based on thresh... |
 | [kreatifIT/laravel-codice-fiscale](https://github.com/kreatifIT/laravel-codice-fiscale) | 0 | Laravel package for Italian Codice Fiscale (Tax Code) |
 | [chieftools/pkgtrends](https://github.com/chieftools/pkgtrends) | 11 | A quick way to compare package downloads across languages. |
@@ -16,7 +17,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Jaikumar0101/laravel-repo-facade-builder](https://github.com/Jaikumar0101/laravel-repo-facade-builder) | 0 | This is laravel package to build repository and facade in the application |
 | [M-Media-Group/Laravel-SPA](https://github.com/M-Media-Group/Laravel-SPA) | 4 | Helper package for using Fortify + Sanctum on subdomain-separated SPAs |
 | [James-Kabz/laravel_packages](https://github.com/James-Kabz/laravel_packages) | 0 |  |
-| [thejano/laravel-qicard-payment](https://github.com/thejano/laravel-qicard-payment) | 0 | A Laravel package for seamless QiCard Payment Gateway integration with support f... |
+| [thejano/laravel-qicard-payment](https://github.com/thejano/laravel-qicard-payment) | 1 | A Laravel package for seamless QiCard Payment Gateway integration with support f... |
 | [artryazanov/laravel-steam-apps-db](https://github.com/artryazanov/laravel-steam-apps-db) | 1 | A Laravel package for managing Steam application data in your database. This pac... |
 | [samuele-apiudigital/filament-excel-bridge](https://github.com/samuele-apiudigital/filament-excel-bridge) | 0 | Package for use Laravel Excel in Filament Panels with notification and link for ... |
 | [Androlax2/laravel-model-typed-settings](https://github.com/Androlax2/laravel-model-typed-settings) | 1 | A Laravel package that adds type-safe settings attributes to Eloquent models wit... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [sayedportfolio/jwt-authentication](https://github.com/sayedportfolio/jwt-authentication) | 0 | Authentication code with Laravel JWT package.  |
 | [ArtisanPack-UI/media-library](https://github.com/ArtisanPack-UI/media-library) | 0 | Effortlessly manage your application's media with a powerful, intuitive library.... |
 | [ArtisanPack-UI/icons](https://github.com/ArtisanPack-UI/icons) | 0 | An extensibility layer for Blade Icons that enables flexible registration of cus... |
-| [ArtisanPack-UI/hooks](https://github.com/ArtisanPack-UI/hooks) | 0 | This package provides a flexible hook system for extending and customizing funct... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [thejano/laravel-qicard-payment](https://github.com/thejano/laravel-qicard-payment) | 0 | 2026-02-02 | A Laravel package for seamless QiCard Payment Gateway integr... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-03 | ShieldCI Laravel Package - Open-source static analysis and s... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-03 | Empower your users with a modern, intuitive visual editor. T... |
+| [ArtisanPack-UI/media-library](https://github.com/ArtisanPack-UI/media-library) | 0 | 2026-02-03 | Effortlessly manage your application's media with a powerful... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-02-02 | The Moox Project - Packages for Filament and Laravel |
+| [TheBootstrapParadox/Keystone](https://github.com/TheBootstrapParadox/Keystone) | 0 | 2026-02-02 | Production-ready authentication package for Laravel 12 |
+| [GoodM4ven/PACKAGE_LARAVEL_tailwind-merge](https://github.com/GoodM4ven/PACKAGE_LARAVEL_tailwind-merge) | 2 | 2026-02-02 | Resolves TailwindCSS class conflicts in between Laravel Blad... |
+| [tomshaw/electricgrid](https://github.com/tomshaw/electricgrid) | 11 | 2026-02-02 | A feature-rich Livewire package designed for projects that r... |
+| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-02 | A conlang dictionary Laravel package - the luxurious way to ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-02 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-02 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 0 | 2026-02-02 | A Laravel package that adds NATS messaging support to Larave... |
-| [kreatifIT/laravel-queue-watchdog](https://github.com/kreatifIT/laravel-queue-watchdog) | 0 | 2026-02-02 | Laravel package to monitor queue failures and send notificat... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-02 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-02 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-02 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-02 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [hybridgram/tgbot-laravel](https://github.com/hybridgram/tgbot-laravel) | 0 | 2026-02-02 | Super fast and easy to use package for Laravel to build Tele... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-02 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [ArtisanPack-UI/code-style](https://github.com/ArtisanPack-UI/code-style) | 0 | 2026-02-02 | Enforce a clean and consistent code style across your entire... |
-| [aledaas/packages](https://github.com/aledaas/packages) | 0 | 2026-02-02 | Reusable Laravel & PHP packages by Alejandro Daas. Infrastru... |
-| [samuele-apiudigital/filament-excel-bridge](https://github.com/samuele-apiudigital/filament-excel-bridge) | 0 | 2026-02-02 | Package for use Laravel Excel in Filament Panels with notifi... |
-| [ArtisanPack-UI/security](https://github.com/ArtisanPack-UI/security) | 0 | 2026-02-02 | A straightforward, powerful toolkit for securing your applic... |
-| [ArtisanPack-UI/accessibility](https://github.com/ArtisanPack-UI/accessibility) | 0 | 2026-02-02 | Build inclusive and compliant web applications with essentia... |
-| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-02-02 | A comprehensive SEO management package for Laravel applicati... |
-| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-02-02 | Build privacy-conscious applications with tools designed for... |
-| [ArtisanPack-UI/performance](https://github.com/ArtisanPack-UI/performance) | 0 | 2026-02-02 | Optimize your Laravel application's speed and efficiency wit... |
-| [ArtisanPack-UI/media-library](https://github.com/ArtisanPack-UI/media-library) | 0 | 2026-02-02 | Effortlessly manage your application's media with a powerful... |
-| [ArtisanPack-UI/icons](https://github.com/ArtisanPack-UI/icons) | 0 | 2026-02-02 | An extensibility layer for Blade Icons that enables flexible... |
+| [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 165 | 2026-02-02 | The Laravel Filament Flexible Content Blocks package helps y... |
+| [edstevo/laravel-shopify-graph](https://github.com/edstevo/laravel-shopify-graph) | 0 | 2026-02-02 | Package for Laravel integrating with Shopify Graph API |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-02 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-02 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-02 | 💳 Streamline payment processing with this PHP package that ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-03T00:23 | 1 | 971 | 1077 |
 | 2026-02-02T18:13 | 8 | 964 | 1076 |
 | 2026-02-02T12:12 | 9 | 963 | 1068 |
 | 2026-02-02T06:25 | 7 | 965 | 1059 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-01T06:18 | 1 | 969 | 1028 |
 | 2026-02-01T00:25 | 4 | 966 | 1027 |
 | 2026-01-31T18:07 | 1 | 970 | 1023 |
-| 2026-01-31T12:08 | 11 | 962 | 1022 |
 
 ---
 

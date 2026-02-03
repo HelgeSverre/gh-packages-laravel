@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1089  
-**Last updated:** 2026-02-03T12:12:17.607Z
+**Total packages tracked:** 1099  
+**Last updated:** 2026-02-03T18:20:13.010Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mpietrucha/laravel-package](https://github.com/mpietrucha/laravel-package) | 0 |  |
+| [birdcar/laravel-label-graph](https://github.com/birdcar/laravel-label-graph) | 1 | A Laravel package for hierarchical labels stored as a DAG with materialized path... |
+| [b-ambitions/mx-acts](https://github.com/b-ambitions/mx-acts) | 0 | Laravel package for generating Russian storage acts MX-1 and MX- |
+| [chuckbe/dokapi-laravel-sdk](https://github.com/chuckbe/dokapi-laravel-sdk) | 0 | A Laravel package to consume the Dokapi API. |
+| [hyperlinkgroup/linguist-package](https://github.com/hyperlinkgroup/linguist-package) | 2 | Linguist Connector for Laravel |
+| [ermradulsharma/nanophp-framework](https://github.com/ermradulsharma/nanophp-framework) | 0 | The engine behind the NanoPHP ecosystem. This package provides the core function... |
+| [CreativeCrafts/laravel-openid-connect](https://github.com/CreativeCrafts/laravel-openid-connect) | 2 | A simple package to provide fluent interaction with open id connect |
+| [hmsoft20000/laravel-cms](https://github.com/hmsoft20000/laravel-cms) | 0 | my packages |
+| [paulhibbert/features](https://github.com/paulhibbert/features) | 0 | Simple feature flags package for Laravel |
+| [initiumlv/laravel-translatable](https://github.com/initiumlv/laravel-translatable) | 0 | A Laravel package that provides easy multi-language (i18n) support for Eloquent ... |
 | [xentixar/workflow-manager](https://github.com/xentixar/workflow-manager) | 9 | A powerful workflow management package for Laravel Filament that allows you to d... |
 | [hwkdo/ms-graph-laravel](https://github.com/hwkdo/ms-graph-laravel) | 0 | My Package to use ms-graph api in laravel |
 | [barsch123/activity](https://github.com/barsch123/activity) | 3 | Logger is a lightweight, opinionated activity logging package for Laravel that a... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [khody2012/LaravelAmiToolkit](https://github.com/khody2012/LaravelAmiToolkit) | 0 | Laravel AMI Toolkit is a powerful, developer-friendly Laravel package for seamle... |
 | [JoDeveloper/upload-file-scanner](https://github.com/JoDeveloper/upload-file-scanner) | 0 | A Laravel package for scanning uploaded files using ClamAV |
 | [laranex/better-laravel](https://github.com/laranex/better-laravel) | 3 | A package which allows you to build scalable Laravel Application |
-| [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification) | 0 | A Filament plugin for swipe-to-close notifications |
-| [Dev-Toolbelt/laravel-eloquent-plus](https://github.com/Dev-Toolbelt/laravel-eloquent-plus) | 0 | an opinionated package that extends Eloquent with a reusable base model, custom ... |
-| [golchha21/ReSmushIt](https://github.com/golchha21/ReSmushIt) | 7 | A Laravel package for the popular image optimization web service reSmush.it |
-| [kreatifIT/laravel-queue-watchdog](https://github.com/kreatifIT/laravel-queue-watchdog) | 0 | Laravel package to monitor queue failures and send notifications based on thresh... |
-| [kreatifIT/laravel-codice-fiscale](https://github.com/kreatifIT/laravel-codice-fiscale) | 0 | Laravel package for Italian Codice Fiscale (Tax Code) |
-| [chieftools/pkgtrends](https://github.com/chieftools/pkgtrends) | 11 | A quick way to compare package downloads across languages. |
-| [rapideinternet/bakku-client](https://github.com/rapideinternet/bakku-client) | 0 | Composer package for Bakku CMS |
-| [Jaikumar0101/laravel-repo-facade-builder](https://github.com/Jaikumar0101/laravel-repo-facade-builder) | 0 | This is laravel package to build repository and facade in the application |
-| [M-Media-Group/Laravel-SPA](https://github.com/M-Media-Group/Laravel-SPA) | 4 | Helper package for using Fortify + Sanctum on subdomain-separated SPAs |
-| [James-Kabz/laravel_packages](https://github.com/James-Kabz/laravel_packages) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -41,7 +41,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 421 | A simple package to help integrate Cloudflare Turnstile. |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 414 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
 | [MatanYadaev/laravel-eloquent-spatial](https://github.com/MatanYadaev/laravel-eloquent-spatial) | 394 | Laravel Eloquent spatial package. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 381 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 382 | Open Source Laravel CRM Package |
 | [sprout-laravel/sprout](https://github.com/sprout-laravel/sprout) | 360 | A flexible, seamless and easy to use multitenancy solution for Laravel |
 | [Laravel-Backpack/demo](https://github.com/Laravel-Backpack/demo) | 345 | A working demo of Laravel with all Backpack packages installed. |
 | [laravel/nightwatch](https://github.com/laravel/nightwatch) | 340 | The official Laravel Nightwatch package. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-03 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-03 | 💳 Streamline payment processing with this PHP package that ... |
-| [ItsMurumba/laravel-hostpinnacle](https://github.com/ItsMurumba/laravel-hostpinnacle) | 3 | 2026-02-03 | Laravel 5, 6, 7, 8, 9, 10, 11, 12 Package for Hostpinnacle S... |
-| [iRaziul/barta](https://github.com/iRaziul/barta) | 50 | 2026-02-03 | Barta is a Laravel package designed to integrate popular Ban... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-02-03 | The Moox Project - Packages for Filament and Laravel |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-03 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [xentixar/workflow-manager](https://github.com/xentixar/workflow-manager) | 9 | 2026-02-03 | A powerful workflow management package for Laravel Filament ... |
-| [hwkdo/ms-graph-laravel](https://github.com/hwkdo/ms-graph-laravel) | 0 | 2026-02-03 | My Package to use ms-graph api in laravel |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-03 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [ayangzy/laravel-sales-commission](https://github.com/ayangzy/laravel-sales-commission) | 3 | 2026-02-03 | A comprehensive sales commission calculation and management ... |
-| [stefro/laravel-lang-country](https://github.com/stefro/laravel-lang-country) | 299 | 2026-02-03 | Setting the locale is not enough most of the time, some coun... |
-| [barsch123/activity](https://github.com/barsch123/activity) | 3 | 2026-02-03 | Logger is a lightweight, opinionated activity logging packag... |
-| [mindtwo/laravel-auto-translatable](https://github.com/mindtwo/laravel-auto-translatable) | 0 | 2026-02-03 | AI-powered translation package for Laravel with smart markdo... |
+| [kreatifIT/laravel-queue-watchdog](https://github.com/kreatifIT/laravel-queue-watchdog) | 0 | 2026-02-03 | Laravel package to monitor queue failures and send notificat... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-03 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [achyutkneupane/laravel-seo](https://github.com/achyutkneupane/laravel-seo) | 2 | 2026-02-03 | An opinionated Laravel package to manage SEO on Eloquent mod... |
+| [mpietrucha/laravel-package](https://github.com/mpietrucha/laravel-package) | 0 | 2026-02-03 |  |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-03 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-03 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-03 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-03 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [birdcar/laravel-label-graph](https://github.com/birdcar/laravel-label-graph) | 1 | 2026-02-03 | A Laravel package for hierarchical labels stored as a DAG wi... |
+| [chandan07cse/robi-sms](https://github.com/chandan07cse/robi-sms) | 0 | 2026-02-03 | New Robi SMS Package for Laravel |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-03 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [ericariyanto/laravel-geonode-client](https://github.com/ericariyanto/laravel-geonode-client) | 0 | 2026-02-03 | This Library provides a clean, modern Laravel package for in... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-03 | A simple content page management system with a flexible cont... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-03 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-03 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-03 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [cassarco/markdown-tools](https://github.com/cassarco/markdown-tools) | 0 | 2026-02-03 | A package for Laravel that lets you run Laravel Validation a... |
+| [b-ambitions/mx-acts](https://github.com/b-ambitions/mx-acts) | 0 | 2026-02-03 | Laravel package for generating Russian storage acts MX-1 and... |
+| [blockshiftnetwork/sapb1-client-laravel](https://github.com/blockshiftnetwork/sapb1-client-laravel) | 2 | 2026-02-03 | A robust, production-grade Laravel package for SAP Business ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-03T18:20 | 10 | 961 | 1099 |
 | 2026-02-03T12:12 | 8 | 964 | 1089 |
 | 2026-02-03T06:18 | 4 | 968 | 1081 |
 | 2026-02-03T00:23 | 1 | 971 | 1077 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-02T00:23 | 13 | 959 | 1052 |
 | 2026-02-01T18:07 | 7 | 965 | 1039 |
 | 2026-02-01T12:08 | 4 | 966 | 1032 |
-| 2026-02-01T06:18 | 1 | 969 | 1028 |
 
 ---
 

@@ -174,8 +174,15 @@
       "new": 8,
       "updated": 964,
       "total": 1089
+    },
+    {
+      "timestamp": "2026-02-03T18:20:13.010Z",
+      "fetched": 1000,
+      "new": 10,
+      "updated": 961,
+      "total": 1099
     }
   ],
-  "total_discovered": 1089,
-  "last_run": "2026-02-03T12:12:17.607Z"
+  "total_discovered": 1099,
+  "last_run": "2026-02-03T18:20:13.010Z"
 }

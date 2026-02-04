@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1099  
-**Last updated:** 2026-02-03T18:20:13.010Z
+**Total packages tracked:** 1103  
+**Last updated:** 2026-02-04T00:20:35.265Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [pstoute/laravel-keywords-database](https://github.com/pstoute/laravel-keywords-database) | 0 | Laravel package for centralized keyword database architecture across multiple ap... |
+| [adeildo-jr/laravel-runner](https://github.com/adeildo-jr/laravel-runner) | 0 | Laravel Runner is a package to run one-time actions in your CI/CD pipeline painl... |
+| [niladam/laravel-sendsms](https://github.com/niladam/laravel-sendsms) | 2 | Laravel Send SMS - a package that allows you to send SMS via https://sendsms.ro |
+| [sarfraznawaz2005/backupmanager](https://github.com/sarfraznawaz2005/backupmanager) | 31 | Simple laravel package to backup/restore files and database. |
 | [mpietrucha/laravel-package](https://github.com/mpietrucha/laravel-package) | 0 |  |
 | [birdcar/laravel-label-graph](https://github.com/birdcar/laravel-label-graph) | 1 | A Laravel package for hierarchical labels stored as a DAG with materialized path... |
 | [b-ambitions/mx-acts](https://github.com/b-ambitions/mx-acts) | 0 | Laravel package for generating Russian storage acts MX-1 and MX- |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mindtwo/laravel-auto-translatable](https://github.com/mindtwo/laravel-auto-translatable) | 0 | AI-powered translation package for Laravel with smart markdown chunking and exte... |
 | [smashed-egg/laravel-look-ahead-pagination](https://github.com/smashed-egg/laravel-look-ahead-pagination) | 0 | Laravel Look-ahead Pagination Package |
 | [Murtaza1904/roles-permissions](https://github.com/Murtaza1904/roles-permissions) | 1 | A simple and lightweight Laravel package for role & permission management. Easil... |
-| [Murtaza1904/avatar-generator](https://github.com/Murtaza1904/avatar-generator) | 1 | A simple Laravel package to generate avatar images from name initials. Perfect f... |
-| [khody2012/LaravelAmiToolkit](https://github.com/khody2012/LaravelAmiToolkit) | 0 | Laravel AMI Toolkit is a powerful, developer-friendly Laravel package for seamle... |
-| [JoDeveloper/upload-file-scanner](https://github.com/JoDeveloper/upload-file-scanner) | 0 | A Laravel package for scanning uploaded files using ClamAV |
-| [laranex/better-laravel](https://github.com/laranex/better-laravel) | 3 | A package which allows you to build scalable Laravel Application |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [kreatifIT/laravel-queue-watchdog](https://github.com/kreatifIT/laravel-queue-watchdog) | 0 | 2026-02-03 | Laravel package to monitor queue failures and send notificat... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-04 | Empower your users with a modern, intuitive visual editor. T... |
+| [fuelviews/laravel-sabhero-estimator](https://github.com/fuelviews/laravel-sabhero-estimator) | 0 | 2026-02-03 | SAB Hero Estimator Package |
+| [pstoute/laravel-keywords-database](https://github.com/pstoute/laravel-keywords-database) | 0 | 2026-02-03 | Laravel package for centralized keyword database architectur... |
+| [tzsk/sms](https://github.com/tzsk/sms) | 317 | 2026-02-03 | Laravel SMS Gateway Integration Package |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-03 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-03 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [mpietrucha/laravel-package](https://github.com/mpietrucha/laravel-package) | 0 | 2026-02-03 |  |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-03 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-03 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-03 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-03 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [birdcar/laravel-label-graph](https://github.com/birdcar/laravel-label-graph) | 1 | 2026-02-03 | A Laravel package for hierarchical labels stored as a DAG wi... |
-| [chandan07cse/robi-sms](https://github.com/chandan07cse/robi-sms) | 0 | 2026-02-03 | New Robi SMS Package for Laravel |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-03 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [ericariyanto/laravel-geonode-client](https://github.com/ericariyanto/laravel-geonode-client) | 0 | 2026-02-03 | This Library provides a clean, modern Laravel package for in... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-03 | A simple content page management system with a flexible cont... |
+| [edstevo/laravel-shopify-graph](https://github.com/edstevo/laravel-shopify-graph) | 0 | 2026-02-03 | Package for Laravel integrating with Shopify Graph API |
+| [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 165 | 2026-02-03 | The Laravel Filament Flexible Content Blocks package helps y... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-03 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [eleazarbr/redae-core](https://github.com/eleazarbr/redae-core) | 0 | 2026-02-03 | It provides a small, stable and reusable core with essential... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-03 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-03 | 💳 Streamline payment processing with this PHP package that ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-03 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [cassarco/markdown-tools](https://github.com/cassarco/markdown-tools) | 0 | 2026-02-03 | A package for Laravel that lets you run Laravel Validation a... |
-| [b-ambitions/mx-acts](https://github.com/b-ambitions/mx-acts) | 0 | 2026-02-03 | Laravel package for generating Russian storage acts MX-1 and... |
-| [blockshiftnetwork/sapb1-client-laravel](https://github.com/blockshiftnetwork/sapb1-client-laravel) | 2 | 2026-02-03 | A robust, production-grade Laravel package for SAP Business ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-04T00:20 | 4 | 967 | 1103 |
 | 2026-02-03T18:20 | 10 | 961 | 1099 |
 | 2026-02-03T12:12 | 8 | 964 | 1089 |
 | 2026-02-03T06:18 | 4 | 968 | 1081 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-02T06:25 | 7 | 965 | 1059 |
 | 2026-02-02T00:23 | 13 | 959 | 1052 |
 | 2026-02-01T18:07 | 7 | 965 | 1039 |
-| 2026-02-01T12:08 | 4 | 966 | 1032 |
 
 ---
 

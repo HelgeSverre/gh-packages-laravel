@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1110  
-**Last updated:** 2026-02-04T06:18:31.046Z
+**Total packages tracked:** 1114  
+**Last updated:** 2026-02-04T12:12:04.685Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [WMBH/laravel-fibery](https://github.com/WMBH/laravel-fibery) | 0 | A Laravel package for interacting with the Fibery API |
+| [designmynight/laravel-mongodb-passport](https://github.com/designmynight/laravel-mongodb-passport) | 67 | A package to get Laravel Passport working with MongoDB |
+| [provydon/laravel-pgsearch](https://github.com/provydon/laravel-pgsearch) | 1 | A smart full-text search package for Laravel, optimized for PostgreSQL with text... |
+| [lucabecchetti/laravel-postgresql-partition](https://github.com/lucabecchetti/laravel-postgresql-partition) | 0 | Useful Laravel package to easily work with PostgreSQL Partition |
 | [naykel76/authit](https://github.com/naykel76/authit) | 0 | Auth package for NayKel Laravel applications |
 | [mzaman/laravel-api-response](https://github.com/mzaman/laravel-api-response) | 0 | A flexible and scalable API response handling package for Laravel, designed to p... |
 | [CreativeCrafts/laravel-domain-driven-design-lite](https://github.com/CreativeCrafts/laravel-domain-driven-design-lite) | 1 | Domain‑Driven Design (DDD)‑lite scaffolding for Laravel. This package generates ... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [b-ambitions/mx-acts](https://github.com/b-ambitions/mx-acts) | 0 | Laravel package for generating Russian storage acts MX-1 and MX- |
 | [chuckbe/dokapi-laravel-sdk](https://github.com/chuckbe/dokapi-laravel-sdk) | 0 | A Laravel package to consume the Dokapi API. |
 | [hyperlinkgroup/linguist-package](https://github.com/hyperlinkgroup/linguist-package) | 2 | Linguist Connector for Laravel |
-| [ermradulsharma/nanophp-framework](https://github.com/ermradulsharma/nanophp-framework) | 0 | The engine behind the NanoPHP ecosystem. This package provides the core function... |
-| [CreativeCrafts/laravel-openid-connect](https://github.com/CreativeCrafts/laravel-openid-connect) | 2 | A simple package to provide fluent interaction with open id connect |
-| [hmsoft20000/laravel-cms](https://github.com/hmsoft20000/laravel-cms) | 0 | my packages |
-| [paulhibbert/features](https://github.com/paulhibbert/features) | 0 | Simple feature flags package for Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-04 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [orange-soft/laravel-starter-kit](https://github.com/orange-soft/laravel-starter-kit) | 0 | 2026-02-04 | [25D] Laravel v12 starter kit composer package |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-04 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [CreativeCrafts/laravel-domain-driven-design-lite](https://github.com/CreativeCrafts/laravel-domain-driven-design-lite) | 1 | 2026-02-04 | Domain‑Driven Design (DDD)‑lite scaffolding for Laravel. Thi... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-04 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-04 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-04 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-04 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [jeddsaliba-webeelabs/azure-blob-url-generator](https://github.com/jeddsaliba-webeelabs/azure-blob-url-generator) | 0 | 2026-02-04 | A Laravel package that provides Azure Blob Storage URL gener... |
-| [alex-kassel/package-skeleton-laravel](https://github.com/alex-kassel/package-skeleton-laravel) | 0 | 2026-02-04 |  |
 | [Born-MT/azure-blob-url-generator](https://github.com/Born-MT/azure-blob-url-generator) | 0 | 2026-02-04 | A Laravel package that provides Azure Blob Storage URL gener... |
-| [nickklein/habits](https://github.com/nickklein/habits) | 0 | 2026-02-04 | Laravel package for personal habits + stats |
+| [mzaman/laravel-api-response](https://github.com/mzaman/laravel-api-response) | 0 | 2026-02-04 | A flexible and scalable API response handling package for La... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [pawan1793/shopify-rest-to-graphql](https://github.com/pawan1793/shopify-rest-to-graphql) | 4 | 2026-02-04 | Shopify REST to GraphQL Processor is a Laravel package that ... |
+| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-04 | A simple content page management system with a flexible cont... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-04 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-04 | Empower your users with a modern, intuitive visual editor. T... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-02-04 | This project collects the most commonly used Laravel extensi... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-04 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-04 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-04 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-04 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-04 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 3 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
+| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/fields](https://github.com/backstagephp/fields) | 4 | 2026-02-04 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
+| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/media](https://github.com/backstagephp/media) | 4 | 2026-02-04 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
+| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-02-04 | A laravel based E Commerce Package Developed using PHP |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-04T12:12 | 4 | 966 | 1114 |
 | 2026-02-04T06:18 | 7 | 963 | 1110 |
 | 2026-02-04T00:20 | 4 | 967 | 1103 |
 | 2026-02-03T18:20 | 10 | 961 | 1099 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-02T18:13 | 8 | 964 | 1076 |
 | 2026-02-02T12:12 | 9 | 963 | 1068 |
 | 2026-02-02T06:25 | 7 | 965 | 1059 |
-| 2026-02-02T00:23 | 13 | 959 | 1052 |
 
 ---
 

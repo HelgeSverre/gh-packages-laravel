@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1114  
-**Last updated:** 2026-02-04T12:12:04.685Z
+**Total packages tracked:** 1124  
+**Last updated:** 2026-02-04T18:17:25.557Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [SAM2904/laravisor](https://github.com/SAM2904/laravisor) | 3 | Laravisor is a Laravel-native error monitoring package with instant email alerts... |
+| [tigusigalpa/ebay-php](https://github.com/tigusigalpa/ebay-php) | 0 | Modern PHP 8.1+ package for eBay API integration with full OAuth 2.0 support. Fe... |
+| [eramitgupta/laravel-lang-sync-inertia](https://github.com/eramitgupta/laravel-lang-sync-inertia) | 29 | Laravel package for syncing translations with Inertia.js in Vue and React apps. |
+| [paytabscom/paytabs-php-laravel-package](https://github.com/paytabscom/paytabs-php-laravel-package) | 24 |  |
+| [marshmallow-packages/seoable](https://github.com/marshmallow-packages/seoable) | 5 | 🥇Handle the SEO on your Laravel Resources to the max. Add a title, description ... |
+| [cdsmths/laravel-ocr-space](https://github.com/cdsmths/laravel-ocr-space) | 115 | A Laravel package for interaction with the https://ocr.space API |
+| [Magnificent-Big-J/payfast-payment](https://github.com/Magnificent-Big-J/payfast-payment) | 0 | This is a PHP package for integrating with the PayFast.co.za payment gateway. It... |
+| [JK-SWE-2026/spatie__package-skeleton-laravel.f2dd48dc](https://github.com/JK-SWE-2026/spatie__package-skeleton-laravel.f2dd48dc) | 0 |  |
+| [eXolnet/skeleton-laravel](https://github.com/eXolnet/skeleton-laravel) | 3 | A skeleton repository for eXolnet's Laravel packages. |
+| [umbrellio/event-tracker](https://github.com/umbrellio/event-tracker) | 2 | Package for tracking any custom events and logging them to influxdb or prometheu... |
 | [WMBH/laravel-fibery](https://github.com/WMBH/laravel-fibery) | 0 | A Laravel package for interacting with the Fibery API |
 | [designmynight/laravel-mongodb-passport](https://github.com/designmynight/laravel-mongodb-passport) | 67 | A package to get Laravel Passport working with MongoDB |
 | [provydon/laravel-pgsearch](https://github.com/provydon/laravel-pgsearch) | 1 | A smart full-text search package for Laravel, optimized for PostgreSQL with text... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeddsaliba-webeelabs/azure-blob-url-generator](https://github.com/jeddsaliba-webeelabs/azure-blob-url-generator) | 0 | A Laravel package that provides Azure Blob Storage URL generation with SAS (Shar... |
 | [alex-kassel/package-skeleton-laravel](https://github.com/alex-kassel/package-skeleton-laravel) | 0 |  |
 | [Born-MT/azure-blob-url-generator](https://github.com/Born-MT/azure-blob-url-generator) | 0 | A Laravel package that provides Azure Blob Storage URL generation with SAS (Shar... |
-| [nickklein/habits](https://github.com/nickklein/habits) | 0 | Laravel package for personal habits + stats |
-| [pstoute/laravel-keywords-database](https://github.com/pstoute/laravel-keywords-database) | 0 | Laravel package for centralized keyword database architecture across multiple ap... |
-| [adeildo-jr/laravel-runner](https://github.com/adeildo-jr/laravel-runner) | 0 | Laravel Runner is a package to run one-time actions in your CI/CD pipeline painl... |
-| [niladam/laravel-sendsms](https://github.com/niladam/laravel-sendsms) | 2 | Laravel Send SMS - a package that allows you to send SMS via https://sendsms.ro |
-| [sarfraznawaz2005/backupmanager](https://github.com/sarfraznawaz2005/backupmanager) | 31 | Simple laravel package to backup/restore files and database. |
-| [mpietrucha/laravel-package](https://github.com/mpietrucha/laravel-package) | 0 |  |
-| [birdcar/laravel-label-graph](https://github.com/birdcar/laravel-label-graph) | 1 | A Laravel package for hierarchical labels stored as a DAG with materialized path... |
-| [b-ambitions/mx-acts](https://github.com/b-ambitions/mx-acts) | 0 | Laravel package for generating Russian storage acts MX-1 and MX- |
-| [chuckbe/dokapi-laravel-sdk](https://github.com/chuckbe/dokapi-laravel-sdk) | 0 | A Laravel package to consume the Dokapi API. |
-| [hyperlinkgroup/linguist-package](https://github.com/hyperlinkgroup/linguist-package) | 2 | Linguist Connector for Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Born-MT/azure-blob-url-generator](https://github.com/Born-MT/azure-blob-url-generator) | 0 | 2026-02-04 | A Laravel package that provides Azure Blob Storage URL gener... |
-| [mzaman/laravel-api-response](https://github.com/mzaman/laravel-api-response) | 0 | 2026-02-04 | A flexible and scalable API response handling package for La... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [pawan1793/shopify-rest-to-graphql](https://github.com/pawan1793/shopify-rest-to-graphql) | 4 | 2026-02-04 | Shopify REST to GraphQL Processor is a Laravel package that ... |
-| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-04 | A simple content page management system with a flexible cont... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-04 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-04 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-04 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [tigusigalpa/ebay-php](https://github.com/tigusigalpa/ebay-php) | 0 | 2026-02-04 | Modern PHP 8.1+ package for eBay API integration with full O... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-04 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-04 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-04 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-04 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 3 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
-| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/fields](https://github.com/backstagephp/fields) | 4 | 2026-02-04 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
-| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/media](https://github.com/backstagephp/media) | 4 | 2026-02-04 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
-| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-02-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-02-04 | A laravel based E Commerce Package Developed using PHP |
+| [mpietrucha/laravel-package](https://github.com/mpietrucha/laravel-package) | 0 | 2026-02-04 |  |
+| [eramitgupta/laravel-lang-sync-inertia](https://github.com/eramitgupta/laravel-lang-sync-inertia) | 29 | 2026-02-04 | Laravel package for syncing translations with Inertia.js in ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-04 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-04 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [hybridgram/tgbot-laravel](https://github.com/hybridgram/tgbot-laravel) | 0 | 2026-02-04 | Super fast and easy to use package for Laravel to build Tele... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-04 | 💳 Streamline payment processing with this PHP package that ... |
+| [paytabscom/paytabs-php-laravel-package](https://github.com/paytabscom/paytabs-php-laravel-package) | 24 | 2026-02-04 |  |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-04 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-04 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-04 | A simple content page management system with a flexible cont... |
+| [Dev-Toolbelt/laravel-eloquent-plus](https://github.com/Dev-Toolbelt/laravel-eloquent-plus) | 0 | 2026-02-04 | An opinionated package that extends Eloquent with a reusable... |
+| [devanoxltd/core](https://github.com/devanoxltd/core) | 0 | 2026-02-04 | Core package for Laravel projects providing module support, ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [Soyhuce/laravel-somake](https://github.com/Soyhuce/laravel-somake) | 2 | 2026-02-04 | An opinionated package to generate classes in your Laravel p... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-04T18:17 | 10 | 960 | 1124 |
 | 2026-02-04T12:12 | 4 | 966 | 1114 |
 | 2026-02-04T06:18 | 7 | 963 | 1110 |
 | 2026-02-04T00:20 | 4 | 967 | 1103 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-03T00:23 | 1 | 971 | 1077 |
 | 2026-02-02T18:13 | 8 | 964 | 1076 |
 | 2026-02-02T12:12 | 9 | 963 | 1068 |
-| 2026-02-02T06:25 | 7 | 965 | 1059 |
 
 ---
 

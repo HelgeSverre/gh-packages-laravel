@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1103  
-**Last updated:** 2026-02-04T00:20:35.265Z
+**Total packages tracked:** 1110  
+**Last updated:** 2026-02-04T06:18:31.046Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [naykel76/authit](https://github.com/naykel76/authit) | 0 | Auth package for NayKel Laravel applications |
+| [mzaman/laravel-api-response](https://github.com/mzaman/laravel-api-response) | 0 | A flexible and scalable API response handling package for Laravel, designed to p... |
+| [CreativeCrafts/laravel-domain-driven-design-lite](https://github.com/CreativeCrafts/laravel-domain-driven-design-lite) | 1 | Domain‑Driven Design (DDD)‑lite scaffolding for Laravel. This package generates ... |
+| [jeddsaliba-webeelabs/azure-blob-url-generator](https://github.com/jeddsaliba-webeelabs/azure-blob-url-generator) | 0 | A Laravel package that provides Azure Blob Storage URL generation with SAS (Shar... |
+| [alex-kassel/package-skeleton-laravel](https://github.com/alex-kassel/package-skeleton-laravel) | 0 |  |
+| [Born-MT/azure-blob-url-generator](https://github.com/Born-MT/azure-blob-url-generator) | 0 | A Laravel package that provides Azure Blob Storage URL generation with SAS (Shar... |
+| [nickklein/habits](https://github.com/nickklein/habits) | 0 | Laravel package for personal habits + stats |
 | [pstoute/laravel-keywords-database](https://github.com/pstoute/laravel-keywords-database) | 0 | Laravel package for centralized keyword database architecture across multiple ap... |
 | [adeildo-jr/laravel-runner](https://github.com/adeildo-jr/laravel-runner) | 0 | Laravel Runner is a package to run one-time actions in your CI/CD pipeline painl... |
 | [niladam/laravel-sendsms](https://github.com/niladam/laravel-sendsms) | 2 | Laravel Send SMS - a package that allows you to send SMS via https://sendsms.ro |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [CreativeCrafts/laravel-openid-connect](https://github.com/CreativeCrafts/laravel-openid-connect) | 2 | A simple package to provide fluent interaction with open id connect |
 | [hmsoft20000/laravel-cms](https://github.com/hmsoft20000/laravel-cms) | 0 | my packages |
 | [paulhibbert/features](https://github.com/paulhibbert/features) | 0 | Simple feature flags package for Laravel |
-| [initiumlv/laravel-translatable](https://github.com/initiumlv/laravel-translatable) | 0 | A Laravel package that provides easy multi-language (i18n) support for Eloquent ... |
-| [xentixar/workflow-manager](https://github.com/xentixar/workflow-manager) | 9 | A powerful workflow management package for Laravel Filament that allows you to d... |
-| [hwkdo/ms-graph-laravel](https://github.com/hwkdo/ms-graph-laravel) | 0 | My Package to use ms-graph api in laravel |
-| [barsch123/activity](https://github.com/barsch123/activity) | 3 | Logger is a lightweight, opinionated activity logging package for Laravel that a... |
-| [mindtwo/laravel-auto-translatable](https://github.com/mindtwo/laravel-auto-translatable) | 0 | AI-powered translation package for Laravel with smart markdown chunking and exte... |
-| [smashed-egg/laravel-look-ahead-pagination](https://github.com/smashed-egg/laravel-look-ahead-pagination) | 0 | Laravel Look-ahead Pagination Package |
-| [Murtaza1904/roles-permissions](https://github.com/Murtaza1904/roles-permissions) | 1 | A simple and lightweight Laravel package for role & permission management. Easil... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-04 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [orange-soft/laravel-starter-kit](https://github.com/orange-soft/laravel-starter-kit) | 0 | 2026-02-04 | [25D] Laravel v12 starter kit composer package |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-04 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [CreativeCrafts/laravel-domain-driven-design-lite](https://github.com/CreativeCrafts/laravel-domain-driven-design-lite) | 1 | 2026-02-04 | Domain‑Driven Design (DDD)‑lite scaffolding for Laravel. Thi... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-04 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-04 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-04 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-04 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [jeddsaliba-webeelabs/azure-blob-url-generator](https://github.com/jeddsaliba-webeelabs/azure-blob-url-generator) | 0 | 2026-02-04 | A Laravel package that provides Azure Blob Storage URL gener... |
+| [alex-kassel/package-skeleton-laravel](https://github.com/alex-kassel/package-skeleton-laravel) | 0 | 2026-02-04 |  |
+| [Born-MT/azure-blob-url-generator](https://github.com/Born-MT/azure-blob-url-generator) | 0 | 2026-02-04 | A Laravel package that provides Azure Blob Storage URL gener... |
+| [nickklein/habits](https://github.com/nickklein/habits) | 0 | 2026-02-04 | Laravel package for personal habits + stats |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-04 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-04 | Empower your users with a modern, intuitive visual editor. T... |
-| [fuelviews/laravel-sabhero-estimator](https://github.com/fuelviews/laravel-sabhero-estimator) | 0 | 2026-02-03 | SAB Hero Estimator Package |
-| [pstoute/laravel-keywords-database](https://github.com/pstoute/laravel-keywords-database) | 0 | 2026-02-03 | Laravel package for centralized keyword database architectur... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 317 | 2026-02-03 | Laravel SMS Gateway Integration Package |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-03 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-03 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-03 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-03 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-03 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-03 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-03 | A simple content page management system with a flexible cont... |
-| [edstevo/laravel-shopify-graph](https://github.com/edstevo/laravel-shopify-graph) | 0 | 2026-02-03 | Package for Laravel integrating with Shopify Graph API |
-| [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 165 | 2026-02-03 | The Laravel Filament Flexible Content Blocks package helps y... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-03 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [eleazarbr/redae-core](https://github.com/eleazarbr/redae-core) | 0 | 2026-02-03 | It provides a small, stable and reusable core with essential... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-03 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-03 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-03 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-02-04 | This project collects the most commonly used Laravel extensi... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-04 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-04 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-04 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-04 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-04T06:18 | 7 | 963 | 1110 |
 | 2026-02-04T00:20 | 4 | 967 | 1103 |
 | 2026-02-03T18:20 | 10 | 961 | 1099 |
 | 2026-02-03T12:12 | 8 | 964 | 1089 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-02T12:12 | 9 | 963 | 1068 |
 | 2026-02-02T06:25 | 7 | 965 | 1059 |
 | 2026-02-02T00:23 | 13 | 959 | 1052 |
-| 2026-02-01T18:07 | 7 | 965 | 1039 |
 
 ---
 

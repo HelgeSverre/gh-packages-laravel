@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1144  
-**Last updated:** 2026-02-05T12:13:05.237Z
+**Total packages tracked:** 1151  
+**Last updated:** 2026-02-05T18:19:09.007Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [arif98741/laravelbdsms](https://github.com/arif98741/laravelbdsms) | 149 | Xenon\LaravelBDSms is a laravel based multi sms gateway package for sending text... |
+| [RaiolaNetworks/atlas](https://github.com/RaiolaNetworks/atlas) | 3 | Atlas is a PHP package that allows you to create new tables in your database and... |
+| [Pijler/laravel-common](https://github.com/Pijler/laravel-common) | 0 | Simple package with several common features in Laravel applications. |
+| [XVE-BV/laravel-db-export](https://github.com/XVE-BV/laravel-db-export) | 0 | A Laravel package for database exports with profile-based exclusions, anonymizat... |
+| [makowskid/dcfparser](https://github.com/makowskid/dcfparser) | 0 | Debian Control Files (DCF) parser for PHP & Laravel package |
+| [cybex-gmbh/laravel-protector](https://github.com/cybex-gmbh/laravel-protector) | 5 | Laravel package to provide and receive database dumps in a secure manner. |
+| [Benefits-me/php-api-auth](https://github.com/Benefits-me/php-api-auth) | 0 | Laravel package for checking the API token. |
 | [abdmuinnurdin/Laravel10BaseProject](https://github.com/abdmuinnurdin/Laravel10BaseProject) | 0 | ini adalah aplikasi base project saya yang berisi package yang dibutuhkan |
 | [anuzpandey/laravel-nepali-date](https://github.com/anuzpandey/laravel-nepali-date) | 16 | A Laravel Package to convert English Date (A.D.) to Nepali Date (B.S.) and vice-... |
 | [slavaWins/formbuilder](https://github.com/slavaWins/formbuilder) | 0 | Laravel package |
@@ -17,18 +24,11 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [b-ambitions/datanewton-laravel](https://github.com/b-ambitions/datanewton-laravel) | 0 | Laravel package for Datanewton API integration |
 | [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 119 | AWS Cognito package (with MFA Feature) using the AWS SDK for PHP/Laravel |
 | [midnite81/core](https://github.com/midnite81/core) | 0 | A package for core activity within laravel projects |
-| [hesamzakerirad/laravel-sql-logger](https://github.com/hesamzakerirad/laravel-sql-logger) | 0 | A lightweight package to log SQL queries in your Laravel application |
+| [hesamzakerirad/laravel-sql-logger](https://github.com/hesamzakerirad/laravel-sql-logger) | 1 | A lightweight package to log SQL queries in your Laravel application |
 | [JorisvanW/deepl-laravel](https://github.com/JorisvanW/deepl-laravel) | 2 | The DeepL Laravel package |
 | [shippulse/laravel-bosta](https://github.com/shippulse/laravel-bosta) | 3 | This package provides a Laravel integration for the Bosta shipping API, enabling... |
 | [TanDuy03/cloudflare-d1-database](https://github.com/TanDuy03/cloudflare-d1-database) | 18 | Add package and setup integration for Cloudflare D1 database - TanDuy03 |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
-| [iankibet/laravel-streamline](https://github.com/iankibet/laravel-streamline) | 1 | A package that allows front end to interact with backend without the need for ro... |
-| [overworks/laravel-openobserve](https://github.com/overworks/laravel-openobserve) | 0 | Laravel package for OpenObserve |
-| [fajriyan/box-cms](https://github.com/fajriyan/box-cms) | 5 | cms project using laravel, this time I used the statamic package as the core of ... |
-| [offload-project/laravel-toggle](https://github.com/offload-project/laravel-toggle) | 0 | A simple and flexible feature toggle (feature flag) package for Laravel |
-| [softlogic-gt/neopay-laravel](https://github.com/softlogic-gt/neopay-laravel) | 0 | Neopay Laravel Payment Package |
-| [rse-sa/delivra](https://github.com/rse-sa/delivra) | 0 | multichannel Laravel notification package |
-| [virgilhawkins00/fiberflow](https://github.com/virgilhawkins00/fiberflow) | 1 | 🚀 Revolutionary Laravel queue package leveraging PHP 8.1+ Fibers for 10-50x thr... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -53,32 +53,32 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kolossal-io/laravel-multiplex](https://github.com/kolossal-io/laravel-multiplex) | 291 | A Laravel package to attach time-sliced meta data to Eloquent models. |
 | [cjmellor/browser-sessions](https://github.com/cjmellor/browser-sessions) | 269 | A Laravel package to enable users to manage and monitor their active browser ses... |
 | [tonysm/tailwindcss-laravel](https://github.com/tonysm/tailwindcss-laravel) | 265 | This package wraps up the standalone executable version of the Tailwind CSS fram... |
-| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 236 | Queue Monitoring Package for Filament  |
+| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 237 | Queue Monitoring Package for Filament  |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AuroraWebSoftware/AAuth](https://github.com/AuroraWebSoftware/AAuth) | 41 | 2026-02-05 | Hierarchical Rol-Permission Based Laravel Auth Package with ... |
-| [anuzpandey/laravel-nepali-date](https://github.com/anuzpandey/laravel-nepali-date) | 16 | 2026-02-05 | A Laravel Package to convert English Date (A.D.) to Nepali D... |
-| [slavaWins/formbuilder](https://github.com/slavaWins/formbuilder) | 0 | 2026-02-05 | Laravel package |
-| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-05 | A simple content page management system with a flexible cont... |
-| [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 165 | 2026-02-05 | The Laravel Filament Flexible Content Blocks package helps y... |
-| [Fekharmensour/otp-mailer](https://github.com/Fekharmensour/otp-mailer) | 0 | 2026-02-05 | A lightweight, secure Laravel package to generate, send, and... |
-| [umbrellio/event-tracker](https://github.com/umbrellio/event-tracker) | 2 | 2026-02-05 | Package for tracking any custom events and logging them to i... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [turndale/smsonline](https://github.com/turndale/smsonline) | 0 | 2026-02-05 | A Laravel package for sending SMS using https://www.smsonlin... |
-| [laravel-json-api/core](https://github.com/laravel-json-api/core) | 10 | 2026-02-05 | Contracts and support classes for Laravel JSON API packages. |
+| [RaiolaNetworks/atlas](https://github.com/RaiolaNetworks/atlas) | 3 | 2026-02-05 | Atlas is a PHP package that allows you to create new tables ... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-05 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-05 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-05 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-05 | A conlang dictionary Laravel package - the luxurious way to ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-05 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [blockshiftnetwork/sapb1-client-laravel](https://github.com/blockshiftnetwork/sapb1-client-laravel) | 2 | 2026-02-05 | A robust, production-grade Laravel package for SAP Business ... |
+| [JoDeveloper/upload-file-scanner](https://github.com/JoDeveloper/upload-file-scanner) | 0 | 2026-02-05 | A Laravel package for scanning uploaded files using ClamAV |
+| [mrfrkayvaz/impono](https://github.com/mrfrkayvaz/impono) | 0 | 2026-02-05 | ☁️ Laravel package to upload anything — files, data, or link... |
+| [bhaidar/laravel-checkeeper](https://github.com/bhaidar/laravel-checkeeper) | 0 | 2026-02-05 |  Laravel package for Checkeeper API v3 - check mailing & PDF... |
+| [virgilhawkins00/fiberflow](https://github.com/virgilhawkins00/fiberflow) | 2 | 2026-02-05 | 🚀 Revolutionary Laravel queue package leveraging PHP 8.1+ F... |
+| [chandan07cse/robi-sms](https://github.com/chandan07cse/robi-sms) | 0 | 2026-02-05 | New Robi SMS Package for Laravel |
+| [Dinithoshan/racelab](https://github.com/Dinithoshan/racelab) | 0 | 2026-02-05 | RaceLab is a Laravel debugging package that captures and vis... |
+| [edstevo/laravel-shopify-graph](https://github.com/edstevo/laravel-shopify-graph) | 0 | 2026-02-05 | Package for Laravel integrating with Shopify Graph API |
+| [Pijler/laravel-common](https://github.com/Pijler/laravel-common) | 0 | 2026-02-05 | Simple package with several common features in Laravel appli... |
 | [Dev-Toolbelt/laravel-eloquent-plus](https://github.com/Dev-Toolbelt/laravel-eloquent-plus) | 0 | 2026-02-05 | An opinionated package that extends Eloquent with a reusable... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-02-05 | The Moox Project - Packages for Filament and Laravel |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-05 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [syastrebov/laravel-circuit-breaker](https://github.com/syastrebov/laravel-circuit-breaker) | 0 | 2026-02-05 | Laravel package for https://github.com/syastrebov/circuit-br... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-05 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-05 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-05 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-05 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-05 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [b-ambitions/datanewton-laravel](https://github.com/b-ambitions/datanewton-laravel) | 0 | 2026-02-05 | Laravel package for Datanewton API integration |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-02-05 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/fields](https://github.com/backstagephp/fields) | 4 | 2026-02-05 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
+| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-02-05 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-05T18:19 | 7 | 963 | 1151 |
 | 2026-02-05T12:13 | 13 | 957 | 1144 |
 | 2026-02-05T06:22 | 3 | 967 | 1131 |
 | 2026-02-05T00:23 | 4 | 966 | 1128 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-04T00:20 | 4 | 967 | 1103 |
 | 2026-02-03T18:20 | 10 | 961 | 1099 |
 | 2026-02-03T12:12 | 8 | 964 | 1089 |
-| 2026-02-03T06:18 | 4 | 968 | 1081 |
 
 ---
 

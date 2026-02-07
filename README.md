@@ -2,19 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1177  
-**Last updated:** 2026-02-07T06:13:58.009Z
+**Total packages tracked:** 1179  
+**Last updated:** 2026-02-07T12:08:30.312Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [socialdept/atp-support](https://github.com/socialdept/atp-support) | 0 | Foundational utilities for AT Protocol packages in Laravel |
+| [Nembie/iban-rule](https://github.com/Nembie/iban-rule) | 8 | IBAN Rule is a Laravel package that provides a validation rule for IBANs |
 | [verseles/Possession](https://github.com/verseles/Possession) | 2 | Laravel user impersonation package with Sanctum compatibility |
 | [verseles/progressable](https://github.com/verseles/progressable) | 10 | A Laravel (not only) package to track and manage progress for different tasks or... |
 | [toniel/laravel-enum-to-typescript](https://github.com/toniel/laravel-enum-to-typescript) | 0 | A simple Laravel package to convert your PHP enums into TypeScript enums, helpin... |
 | [jeffersongoncalves/laravel-service-desk](https://github.com/jeffersongoncalves/laravel-service-desk) | 1 | A complete, headless Service Desk package for Laravel featuring ticket managemen... |
 | [paulo-hortelan/requests-graph-pulse](https://github.com/paulo-hortelan/requests-graph-pulse) | 23 | A Laravel Pulse package that allows you to view the requests over time in a grap... |
-| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | Laravel package skeleton 🧰 |
+| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | Laravel package skeleton ⚙️ |
 | [rodrigocoliveira/laravel-whatsapp-cloud-api](https://github.com/rodrigocoliveira/laravel-whatsapp-cloud-api) | 2 | Laravel Package to Easily connect laravel framework to WhatsApp Cloud API |
 | [advicepharmagroup/laravel-mailup](https://github.com/advicepharmagroup/laravel-mailup) | 0 | A Laravel Package for sending emails using the MailUP service API |
 | [eXolnet/laravel-status](https://github.com/eXolnet/laravel-status) | 0 | The eXolnet Laravel Status package extends the base features available in Larave... |
@@ -25,10 +27,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [juankno/laravel-repository](https://github.com/juankno/laravel-repository) | 3 | This package provides functionalities to work with the Repository pattern in Lar... |
 | [wefabric/klantenvertellen](https://github.com/wefabric/klantenvertellen) | 0 | A Laravel package to easily integrate and fetch reviews from Klantenvertellen.nl... |
 | [burakdalyanda/cipher-weave](https://github.com/burakdalyanda/cipher-weave) | 3 | CipherWeave is a Laravel middleware package designed to encrypt outgoing respons... |
-| [Al-Waleed-IT/walu-php](https://github.com/Al-Waleed-IT/walu-php) | 0 | Walu is a lightweight PHP framework inspired by Laravel, built for developers wh... |
+| [Al-Waleed-IT/walu-php](https://github.com/Al-Waleed-IT/walu-php) | 1 | Walu is a lightweight PHP framework inspired by Laravel, built for developers wh... |
 | [hwkdo/hwk-admin-laravel](https://github.com/hwkdo/hwk-admin-laravel) | 0 | package to use hwk-admin in laravel apps |
-| [zingimmick/package-skeleton-laravel](https://github.com/zingimmick/package-skeleton-laravel) | 6 | A skeleton repository for Laravel Packages |
-| [ethantechnology/laravel-query-watcher](https://github.com/ethantechnology/laravel-query-watcher) | 2 | Package for watch Laravel queries |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [socialdept/atp-support](https://github.com/socialdept/atp-support) | 0 | 2026-02-07 | Foundational utilities for AT Protocol packages in Laravel |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-07 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-07 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-02-07 | A Laravel package for syncing database tables and data betwe... |
+| [ashwinmram/mcp-pusher](https://github.com/ashwinmram/mcp-pusher) | 0 | 2026-02-07 | Laravel package to push lessons learned to MCP server |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-07 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-07 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-07 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-07 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [syastrebov/laravel-circuit-breaker](https://github.com/syastrebov/laravel-circuit-breaker) | 0 | 2026-02-07 | PHP Circuit Breaker implementation for microservices and API... |
+| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-02-07 | Laravel package skeleton ⚙️ |
+| [ovidiurosu90/laravel-package-myfinance2](https://github.com/ovidiurosu90/laravel-package-myfinance2) | 0 | 2026-02-07 | Laravel package for managing my finances |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-07 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 3 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
+| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/media](https://github.com/backstagephp/media) | 4 | 2026-02-07 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
+| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/fields](https://github.com/backstagephp/fields) | 4 | 2026-02-07 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
+| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
 | [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 119 | 2026-02-07 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-07 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-07 | ShieldCI Laravel Package - Open-source static analysis and s... |
-| [faustbrian/postal-code](https://github.com/faustbrian/postal-code) | 0 | 2026-02-07 | Postal Code is a Laravel package for validating and formatti... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-07 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-07 | 💳 Streamline payment processing with this PHP package that ... |
-| [ermradulsharma/laravel-toolkit](https://github.com/ermradulsharma/laravel-toolkit) | 0 | 2026-02-07 | A comprehensive toolkit for Laravel package and application ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-07 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-07 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-07 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [YorCreative/Laravel-Scrubber](https://github.com/YorCreative/Laravel-Scrubber) | 151 | 2026-02-07 | A Laravel package to scrub sensitive information that breaks... |
-| [verseles/Possession](https://github.com/verseles/Possession) | 2 | 2026-02-07 | Laravel user impersonation package with Sanctum compatibilit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-07T12:08 | 2 | 967 | 1179 |
 | 2026-02-07T06:13 | 4 | 965 | 1177 |
 | 2026-02-07T00:22 | 2 | 967 | 1173 |
 | 2026-02-06T18:16 | 8 | 961 | 1171 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-05T18:19 | 7 | 963 | 1151 |
 | 2026-02-05T12:13 | 13 | 957 | 1144 |
 | 2026-02-05T06:22 | 3 | 967 | 1131 |
-| 2026-02-05T00:23 | 4 | 966 | 1128 |
 
 ---
 

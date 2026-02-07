@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1179  
-**Last updated:** 2026-02-07T12:08:30.312Z
+**Total packages tracked:** 1188  
+**Last updated:** 2026-02-07T18:08:11.606Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [samuelterra22/laravel-users-online](https://github.com/samuelterra22/laravel-users-online) | 1 | A lightweight, high-performance package for tracking and managing online users i... |
+| [samuelterra22/laravel-telegram-notifications](https://github.com/samuelterra22/laravel-telegram-notifications) | 0 | A complete Laravel package for integrating the Telegram Bot API with Laravel app... |
+| [shaanid/paypal-package](https://github.com/shaanid/paypal-package) | 0 | A plug-and-play Laravel PayPal package supporting orders, capture, webhooks, and... |
+| [aitaddihamza/status-auditor](https://github.com/aitaddihamza/status-auditor) | 0 | laravel package developpement demo  |
+| [leek/laravel-docs-index](https://github.com/leek/laravel-docs-index) | 0 | Download package docs locally and inject a compressed index into agent guideline... |
+| [keyurbhimani/xss-shield](https://github.com/keyurbhimani/xss-shield) | 0 | Comprehensive XSS prevention package for Laravel with context-aware sanitization... |
+| [ComusBala96/framework](https://github.com/ComusBala96/framework) | 0 | Laravel package framework |
+| [samuelterra22/laravel-report-generator](https://github.com/samuelterra22/laravel-report-generator) | 11 | Rapidly Generate Simple Pdf & Excel Report Package on Laravel  |
+| [0xmergen/zai-laravel-sdk](https://github.com/0xmergen/zai-laravel-sdk) | 0 | ZAI Laravel SDK - Advanced AI integration package for Laravel 12 |
 | [socialdept/atp-support](https://github.com/socialdept/atp-support) | 0 | Foundational utilities for AT Protocol packages in Laravel |
 | [Nembie/iban-rule](https://github.com/Nembie/iban-rule) | 8 | IBAN Rule is a Laravel package that provides a validation rule for IBANs |
 | [verseles/Possession](https://github.com/verseles/Possession) | 2 | Laravel user impersonation package with Sanctum compatibility |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rodrigocoliveira/laravel-whatsapp-cloud-api](https://github.com/rodrigocoliveira/laravel-whatsapp-cloud-api) | 2 | Laravel Package to Easily connect laravel framework to WhatsApp Cloud API |
 | [advicepharmagroup/laravel-mailup](https://github.com/advicepharmagroup/laravel-mailup) | 0 | A Laravel Package for sending emails using the MailUP service API |
 | [eXolnet/laravel-status](https://github.com/eXolnet/laravel-status) | 0 | The eXolnet Laravel Status package extends the base features available in Larave... |
-| [cego/request-log](https://github.com/cego/request-log) | 0 | Package for laravel that facilitates the logging of each request |
-| [keapgeek/laravel-keap](https://github.com/keapgeek/laravel-keap) | 3 | Laravel Package for Keap REST API (v1/2)  |
-| [akhelij/larabase-notification](https://github.com/akhelij/larabase-notification) | 5 | Larabase Notification is a powerful Laravel package for handling push notificati... |
-| [brainstudnl/json-api-resource](https://github.com/brainstudnl/json-api-resource) | 0 | Make your Laravel API JSON:API compliant with the brainstud/json-api-resource pa... |
-| [juankno/laravel-repository](https://github.com/juankno/laravel-repository) | 3 | This package provides functionalities to work with the Repository pattern in Lar... |
-| [wefabric/klantenvertellen](https://github.com/wefabric/klantenvertellen) | 0 | A Laravel package to easily integrate and fetch reviews from Klantenvertellen.nl... |
-| [burakdalyanda/cipher-weave](https://github.com/burakdalyanda/cipher-weave) | 3 | CipherWeave is a Laravel middleware package designed to encrypt outgoing respons... |
-| [Al-Waleed-IT/walu-php](https://github.com/Al-Waleed-IT/walu-php) | 1 | Walu is a lightweight PHP framework inspired by Laravel, built for developers wh... |
-| [hwkdo/hwk-admin-laravel](https://github.com/hwkdo/hwk-admin-laravel) | 0 | package to use hwk-admin in laravel apps |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [socialdept/atp-support](https://github.com/socialdept/atp-support) | 0 | 2026-02-07 | Foundational utilities for AT Protocol packages in Laravel |
+| [goodcat-dev/laravel-l10n](https://github.com/goodcat-dev/laravel-l10n) | 6 | 2026-02-07 | An opinionated Laravel package for app localization. |
+| [shaanid/paypal-package](https://github.com/shaanid/paypal-package) | 0 | 2026-02-07 | A plug-and-play Laravel PayPal package supporting orders, ca... |
+| [EscuelaIt/laravel-api-kit](https://github.com/EscuelaIt/laravel-api-kit) | 0 | 2026-02-07 | Utilities to create consistent APIs in Laravel. |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-07 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-02-07 | A comprehensive toolkit providing foundational building bloc... |
+| [aitaddihamza/status-auditor](https://github.com/aitaddihamza/status-auditor) | 0 | 2026-02-07 | laravel package developpement demo  |
+| [statikbe/laravel-cookie-consent](https://github.com/statikbe/laravel-cookie-consent) | 209 | 2026-02-07 | The package includes a script & styling for a cookie banner ... |
+| [TheBootstrapParadox/Keystone](https://github.com/TheBootstrapParadox/Keystone) | 0 | 2026-02-07 | Production-ready authentication package for Laravel 12 |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-07 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [ashwinmram/mcp-pusher](https://github.com/ashwinmram/mcp-pusher) | 0 | 2026-02-07 | Laravel package to push lessons learned to MCP server |
+| [chieftools/pkgtrends](https://github.com/chieftools/pkgtrends) | 11 | 2026-02-07 | A quick way to compare package downloads across languages. |
+| [santwer/Exporter](https://github.com/santwer/Exporter) | 1 | 2026-02-07 | Package for easy Word exports in Laravel on given Templates. |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-07 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-07 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [sarkis-sh/spray-media](https://github.com/sarkis-sh/spray-media) | 2 | 2026-02-07 | Secure uploads, signed URLs, and flexible media delivery for... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-07 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-07 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-02-07 | Laravel package skeleton ⚙️ |
-| [ovidiurosu90/laravel-package-myfinance2](https://github.com/ovidiurosu90/laravel-package-myfinance2) | 0 | 2026-02-07 | Laravel package for managing my finances |
+| [leek/laravel-docs-index](https://github.com/leek/laravel-docs-index) | 0 | 2026-02-07 | Download package docs locally and inject a compressed index ... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-07 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 3 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
-| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/media](https://github.com/backstagephp/media) | 4 | 2026-02-07 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
-| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/fields](https://github.com/backstagephp/fields) | 4 | 2026-02-07 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
-| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-07 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 119 | 2026-02-07 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-07 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-07 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-07T18:08 | 9 | 960 | 1188 |
 | 2026-02-07T12:08 | 2 | 967 | 1179 |
 | 2026-02-07T06:13 | 4 | 965 | 1177 |
 | 2026-02-07T00:22 | 2 | 967 | 1173 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-06T00:21 | 5 | 965 | 1156 |
 | 2026-02-05T18:19 | 7 | 963 | 1151 |
 | 2026-02-05T12:13 | 13 | 957 | 1144 |
-| 2026-02-05T06:22 | 3 | 967 | 1131 |
 
 ---
 

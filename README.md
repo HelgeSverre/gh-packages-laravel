@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1194  
-**Last updated:** 2026-02-08T12:08:58.512Z
+**Total packages tracked:** 1202  
+**Last updated:** 2026-02-08T18:08:26.760Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [MBDevelopment-pty-ltd/payfast-core](https://github.com/MBDevelopment-pty-ltd/payfast-core) | 2 | This Laravel package provides an easy and secure way for applications to process... |
+| [rachid-aachich/laravel-amqp-broker](https://github.com/rachid-aachich/laravel-amqp-broker) | 0 | Laravel package for AMQP message broker abstraction. Easily switch between Rabbi... |
+| [vemcogroup/laravel-weather](https://github.com/vemcogroup/laravel-weather) | 54 | Weather package for Laravel to use different providers to get weather info |
+| [flesh404/laravel-kaspa-address](https://github.com/flesh404/laravel-kaspa-address) | 0 | Laravel package for validating and analyzing Kaspa addresses |
+| [KaziSTM/algeria-geo](https://github.com/KaziSTM/algeria-geo) | 0 | Algerian Cities (Wilayas) and Communes data package for Laravel. |
+| [billyranario/protstarter-kit](https://github.com/billyranario/protstarter-kit) | 0 | `ProstarterKit` is a Laravel package designed to expedite the initial setup and ... |
+| [kidiatoliny/sisp-core](https://github.com/kidiatoliny/sisp-core) | 1 | Is a headless, framework-agnostic Laravel 12+ package for integrating the SISP (... |
+| [skywalker-labs/laravel-toolkit](https://github.com/skywalker-labs/laravel-toolkit) | 1 | A comprehensive toolkit for Laravel package and application development. |
 | [nthndnn/laravel-state-history](https://github.com/nthndnn/laravel-state-history) | 0 | Laravel package for managing enum-based model states with enforced transitions a... |
 | [LarsWiegers/laravel-maps](https://github.com/LarsWiegers/laravel-maps) | 358 | Your laravel maps libary. |
 | [osaru07m/laravel-package-skeleton](https://github.com/osaru07m/laravel-package-skeleton) | 0 |  |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [aitaddihamza/status-auditor](https://github.com/aitaddihamza/status-auditor) | 0 | laravel package developpement demo  |
 | [leek/laravel-docs-index](https://github.com/leek/laravel-docs-index) | 0 | Download package docs locally and inject a compressed index into agent guideline... |
 | [keyurbhimani/xss-shield](https://github.com/keyurbhimani/xss-shield) | 0 | Comprehensive XSS prevention package for Laravel with context-aware sanitization... |
-| [ComusBala96/framework](https://github.com/ComusBala96/framework) | 0 | Laravel package framework |
-| [samuelterra22/laravel-report-generator](https://github.com/samuelterra22/laravel-report-generator) | 11 | Rapidly Generate Simple Pdf & Excel Report Package on Laravel  |
-| [0xmergen/zai-laravel-sdk](https://github.com/0xmergen/zai-laravel-sdk) | 0 | ZAI Laravel SDK - Advanced AI integration package for Laravel 12 |
-| [socialdept/atp-support](https://github.com/socialdept/atp-support) | 0 | Foundational utilities for AT Protocol packages in Laravel |
-| [Nembie/iban-rule](https://github.com/Nembie/iban-rule) | 8 | IBAN Rule is a Laravel package that provides a validation rule for IBANs |
-| [verseles/Possession](https://github.com/verseles/Possession) | 2 | Laravel user impersonation package with Sanctum compatibility |
-| [verseles/progressable](https://github.com/verseles/progressable) | 10 | A Laravel (not only) package to track and manage progress for different tasks or... |
-| [toniel/laravel-enum-to-typescript](https://github.com/toniel/laravel-enum-to-typescript) | 0 | A simple Laravel package to convert your PHP enums into TypeScript enums, helpin... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [nthndnn/laravel-state-history](https://github.com/nthndnn/laravel-state-history) | 0 | 2026-02-08 | Laravel package for managing enum-based model states with en... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-08 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-08 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [khody2012/LaravelAmiToolkit](https://github.com/khody2012/LaravelAmiToolkit) | 0 | 2026-02-08 | Laravel AMI Toolkit is a powerful, developer-friendly Larave... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-08 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [chandan07cse/robi-sms](https://github.com/chandan07cse/robi-sms) | 0 | 2026-02-08 | New Robi SMS Package for Laravel |
-| [salaheldeen911/Laravel-Custom-Fields-Test-App](https://github.com/salaheldeen911/Laravel-Custom-Fields-Test-App) | 0 | 2026-02-08 | Testing Laraval-Custom-Fields Package |
-| [simone-bianco/laravel-dedup-media](https://github.com/simone-bianco/laravel-dedup-media) | 0 | 2026-02-08 | Package to handle media storage without duplicated files |
-| [jobmetric/laravel-translation](https://github.com/jobmetric/laravel-translation) | 10 | 2026-02-08 |  |
-| [BespredeL/encryption-form](https://github.com/BespredeL/encryption-form) | 0 | 2026-02-08 | A Laravel package to securely encrypt form fields on the cli... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-08 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [MohammadZarifiyan/Laravel-Telegram-Bot](https://github.com/MohammadZarifiyan/Laravel-Telegram-Bot) | 6 | 2026-02-08 | A Laravel package that helps you to easily create scalable T... |
+| [verseles/Possession](https://github.com/verseles/Possession) | 2 | 2026-02-08 | Laravel user impersonation package with Sanctum compatibilit... |
+| [MBDevelopment-pty-ltd/payfast-core](https://github.com/MBDevelopment-pty-ltd/payfast-core) | 2 | 2026-02-08 | This Laravel package provides an easy and secure way for app... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-08 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [abetwothree/laravel-iconify-api](https://github.com/abetwothree/laravel-iconify-api) | 3 | 2026-02-08 | A package to create a local API for the dynamic Iconify icon... |
-| [LarsWiegers/laravel-maps](https://github.com/LarsWiegers/laravel-maps) | 358 | 2026-02-08 | Your laravel maps libary. |
+| [albertoarena/codemetry](https://github.com/albertoarena/codemetry) | 0 | 2026-02-08 | Laravel-first Composer package that analyses a Git repositor... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-08 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-08 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-08 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-08 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [salaheldeen911/Laravel-Custom-Fields-Test-App](https://github.com/salaheldeen911/Laravel-Custom-Fields-Test-App) | 0 | 2026-02-08 | Testing Laraval-Custom-Fields Package |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-08 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-08 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [jobmetric/laravel-location](https://github.com/jobmetric/laravel-location) | 7 | 2026-02-08 | This is a package for managing countries, provinces, cities ... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-08 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [akramzaitout/laravel-katex](https://github.com/akramzaitout/laravel-katex) | 1 | 2026-02-08 | A comprehensive, production-ready Laravel package for render... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-08 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-08 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-08 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-08 | Empower your users with a modern, intuitive visual editor. T... |
+| [EscuelaIt/laravel-api-kit](https://github.com/EscuelaIt/laravel-api-kit) | 0 | 2026-02-08 | Utilities to create consistent APIs in Laravel. |
+| [rachid-aachich/laravel-amqp-broker](https://github.com/rachid-aachich/laravel-amqp-broker) | 0 | 2026-02-08 | Laravel package for AMQP message broker abstraction. Easily ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-08T18:08 | 8 | 961 | 1202 |
 | 2026-02-08T12:08 | 3 | 966 | 1194 |
 | 2026-02-08T06:19 | 1 | 968 | 1191 |
 | 2026-02-08T00:29 | 2 | 967 | 1190 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-07T00:22 | 2 | 967 | 1173 |
 | 2026-02-06T18:16 | 8 | 961 | 1171 |
 | 2026-02-06T12:12 | 4 | 966 | 1163 |
-| 2026-02-06T06:19 | 3 | 967 | 1159 |
 
 ---
 

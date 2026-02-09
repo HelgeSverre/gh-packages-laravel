@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1210  
-**Last updated:** 2026-02-09T06:26:38.158Z
+**Total packages tracked:** 1211  
+**Last updated:** 2026-02-09T12:17:31.864Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [PROMETA-at/laravel-reports](https://github.com/PROMETA-at/laravel-reports) | 1 | Flexible Laravel package for asynchronous report generation with job-based proce... |
 | [devtnextpay-cmd/TnextPay-PHP-packagist](https://github.com/devtnextpay-cmd/TnextPay-PHP-packagist) | 0 | A modern, well-tested PHP package for integrating TechnonextPay Payment Gateway ... |
 | [EPS-PG/EPS_Laravel](https://github.com/EPS-PG/EPS_Laravel) | 0 | Official Laravel package for EPSPG (Easy Payment System) Payment Gateway integra... |
 | [saeedvir/laravel-permissions](https://github.com/saeedvir/laravel-permissions) | 10 | A highly optimized role and permission package for Laravel 11/12 with caching, m... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [nthndnn/laravel-state-history](https://github.com/nthndnn/laravel-state-history) | 0 | Laravel package for managing enum-based model states with enforced transitions a... |
 | [LarsWiegers/laravel-maps](https://github.com/LarsWiegers/laravel-maps) | 358 | Your laravel maps libary. |
 | [osaru07m/laravel-package-skeleton](https://github.com/osaru07m/laravel-package-skeleton) | 0 |  |
-| [laravel-doctrine/migrations](https://github.com/laravel-doctrine/migrations) | 77 | Integration with Doctrine2's migrations package for Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [devtnextpay-cmd/TnextPay-PHP-packagist](https://github.com/devtnextpay-cmd/TnextPay-PHP-packagist) | 0 | 2026-02-09 | A modern, well-tested PHP package for integrating Technonext... |
-| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 7 | 2026-02-09 | Laravel Pesapal is a Laravel package designed to facilitate ... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-09 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-09 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-09 | A conlang dictionary Laravel package - the luxurious way to ... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-09 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-09 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-09 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-09 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [waterholeforum/core](https://github.com/waterholeforum/core) | 216 | 2026-02-09 | The core Waterhole package. |
-| [EPS-PG/EPS_Laravel](https://github.com/EPS-PG/EPS_Laravel) | 0 | 2026-02-09 | Official Laravel package for EPSPG (Easy Payment System) Pay... |
+| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-09 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-09 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [LastDragon-ru/lara-asp-documentator](https://github.com/LastDragon-ru/lara-asp-documentator) | 1 | 2026-02-09 | This package provides various utilities for documentation ge... |
-| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 15 | 2026-02-09 |  |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-09 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-02-09 | A laravel based E Commerce Package Developed using PHP |
+| [statikbe/laravel-filament-flexible-blocks-asset-manager](https://github.com/statikbe/laravel-filament-flexible-blocks-asset-manager) | 1 | 2026-02-09 | A simple document and image manager for the Filament Flexibl... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-09 | 💳 Streamline payment processing with this PHP package that ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-09 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-09 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [backstagephp/fields](https://github.com/backstagephp/fields) | 4 | 2026-02-09 | [READ ONLY] Subtree split of the Backage Filament Fields pac... |
+| [elgiborsolution/laravel-whatsapp](https://github.com/elgiborsolution/laravel-whatsapp) | 1 | 2026-02-09 | Package to integrate laravel with Meta Whatsapp Business Clo... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-09 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [jonesrussell/northcloud-laravel](https://github.com/jonesrussell/northcloud-laravel) | 0 | 2026-02-09 | Shared Laravel package for North Cloud article ingestion via... |
+| [samuelterra22/laravel-report-generator](https://github.com/samuelterra22/laravel-report-generator) | 11 | 2026-02-09 | Rapidly Generate Simple Pdf & Excel Report Package on Larave... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-09 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-09 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-09 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-09 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-09 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [The-3Labs-Team/laravel-ads-post-parser](https://github.com/The-3Labs-Team/laravel-ads-post-parser) | 2 | 2026-02-09 | 🫰 Monetize your posts in Laravel software with this ads pac... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-09 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [faustbrian/sequencer](https://github.com/faustbrian/sequencer) | 0 | 2026-02-09 | A powerful Laravel package that orchestrates sequential exec... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-09T12:17 | 1 | 968 | 1211 |
 | 2026-02-09T06:26 | 3 | 966 | 1210 |
 | 2026-02-09T00:24 | 5 | 964 | 1207 |
 | 2026-02-08T18:08 | 8 | 961 | 1202 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-07T18:08 | 9 | 960 | 1188 |
 | 2026-02-07T12:08 | 2 | 967 | 1179 |
 | 2026-02-07T06:13 | 4 | 965 | 1177 |
-| 2026-02-07T00:22 | 2 | 967 | 1173 |
 
 ---
 

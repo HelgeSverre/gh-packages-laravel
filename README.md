@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1225  
-**Last updated:** 2026-02-10T12:19:10.273Z
+**Total packages tracked:** 1234  
+**Last updated:** 2026-02-10T18:24:22.666Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [cirlmcesc/laravel-hashids](https://github.com/cirlmcesc/laravel-hashids) | 1 | Package for laravel, automatically generate short, unique, non-sequential ids (l... |
+| [devmohy/creem-laravel-package](https://github.com/devmohy/creem-laravel-package) | 0 |  |
+| [fogeto/laravel-server-orchestrator](https://github.com/fogeto/laravel-server-orchestrator) | 1 | Laravel Prometheus monitoring package for multi-project server orchestration. Co... |
+| [moneo/laravel-reacher](https://github.com/moneo/laravel-reacher) | 1 | Laravel package for check-if-email-exists (Reacher) - Check if an email address ... |
+| [velmphp/velm](https://github.com/velmphp/velm) | 0 | Velm is a runtime composition framework for Laravel that lets you build logical ... |
+| [shervintehrani/Payment-Module-Laravel](https://github.com/shervintehrani/Payment-Module-Laravel) | 0 | Laravel package for managing payments with Shetabit Multipay |
+| [abordage/laravel-html-min](https://github.com/abordage/laravel-html-min) | 25 | HtmlMin is very simple (and very fast) html compression package for Laravel |
+| [debjyotikar001/asset-optimise](https://github.com/debjyotikar001/asset-optimise) | 1 | Asset Optimise is a powerful and lightweight Laravel package designed to enhance... |
+| [mohamedmahmoudkamel/auditable](https://github.com/mohamedmahmoudkamel/auditable) | 0 | A lightweight Laravel package that provides automatic auditing for Eloquent mode... |
 | [Jaikumar0101/laravel-base-filter](https://github.com/Jaikumar0101/laravel-base-filter) | 0 | This is laravel package to simplify the filter process faster for eloquent query... |
 | [BrightCreations/money-converter](https://github.com/BrightCreations/money-converter) | 0 | A Laravel package for converting currencies using exchange rates. |
-| [NETipar/szamlazzhu](https://github.com/NETipar/szamlazzhu) | 0 | Modern Laravel package for the szamlazz.hu Hungarian invoicing API — generate in... |
+| [NETipar/szamlazzhu](https://github.com/NETipar/szamlazzhu) | 1 | Modern Laravel package for the szamlazz.hu Hungarian invoicing API — generate in... |
 | [AmondiMedia/laravel-evatr](https://github.com/AmondiMedia/laravel-evatr) | 0 | Laravel package for validating German and EU VAT identification numbers using th... |
-| [leandrocfe/filament-ptbr-form-fields](https://github.com/leandrocfe/filament-ptbr-form-fields) | 139 | This package provides custom form fields for Filament (>=v2.17.28) that are comm... |
+| [leandrocfe/filament-ptbr-form-fields](https://github.com/leandrocfe/filament-ptbr-form-fields) | 141 | This package provides custom form fields for Filament (>=v2.17.28) that are comm... |
 | [tasmir/sidebar-manager](https://github.com/tasmir/sidebar-manager) | 0 | A flexible, dynamic sidebar management package for Laravel applications. This pa... |
 | [michaeldrennen/Geonames](https://github.com/michaeldrennen/Geonames) | 93 | A Laravel (php) package to interface with the geo-location services at geonames.... |
 | [mahmoud-almalah/laravel-api-helpers](https://github.com/mahmoud-almalah/laravel-api-helpers) | 1 | A clean and elegant Laravel package that provides a consistent and customizable ... |
 | [emmadonjo/laravel-filter](https://github.com/emmadonjo/laravel-filter) | 2 | Laravel Filter is a laravel package to easily add filtering to your eloquent que... |
 | [c3t4r4/google-alerts](https://github.com/c3t4r4/google-alerts) | 0 | Laravel package for managing Google Alerts with OAuth authentication |
-| [steelants/Livewire-DataTable](https://github.com/steelants/Livewire-DataTable) | 2 | Laravlel Packager for creation of simple Livewire data tables |
-| [jobmetric/laravel-package-tester](https://github.com/jobmetric/laravel-package-tester) | 1 | This package is used to quickly test a package with all its components installed... |
-| [jobmetric/package-tester-composer-plugin](https://github.com/jobmetric/package-tester-composer-plugin) | 0 | Composer plugin for use in laravel package tester |
-| [salahhusa9/laravel-updater](https://github.com/salahhusa9/laravel-updater) | 218 | Laravel Updater is a simple yet powerful package for updater your Laravel applic... |
-| [PROMETA-at/laravel-reports](https://github.com/PROMETA-at/laravel-reports) | 1 | Flexible Laravel package for asynchronous report generation with job-based proce... |
-| [devtnextpay-cmd/TnextPay-PHP-packagist](https://github.com/devtnextpay-cmd/TnextPay-PHP-packagist) | 0 | A modern, well-tested PHP package for integrating TechnonextPay Payment Gateway ... |
-| [EPS-PG/EPS_Laravel](https://github.com/EPS-PG/EPS_Laravel) | 0 | Official Laravel package for EPSPG (Easy Payment System) Payment Gateway integra... |
-| [saeedvir/laravel-permissions](https://github.com/saeedvir/laravel-permissions) | 10 | A highly optimized role and permission package for Laravel 11/12 with caching, m... |
-| [mapo-89/laravel-qr-decoder](https://github.com/mapo-89/laravel-qr-decoder) | 0 | Laravel package for decoding QR codes from PNG images using Python |
-| [nodus-it/livewire-datatables](https://github.com/nodus-it/livewire-datatables) | 5 | A awesome package for easy dynamic datatables with Laravel Livewire and Bootstra... |
+| [steelants/Livewire-DataTable](https://github.com/steelants/Livewire-DataTable) | 2 | Laravel Package for creating simple Livewire data tables |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-10 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [bkhim/laravel-geolocation](https://github.com/bkhim/laravel-geolocation) | 1 | 2026-02-10 | Modern Laravel geolocation package with 5+ drivers (IpInfo, ... |
+| [shervintehrani/Payment-Module-Laravel](https://github.com/shervintehrani/Payment-Module-Laravel) | 0 | 2026-02-10 | Laravel package for managing payments with Shetabit Multipay |
+| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-02-10 | A Laravel package for syncing database tables and data betwe... |
+| [abordage/laravel-html-min](https://github.com/abordage/laravel-html-min) | 25 | 2026-02-10 | HtmlMin is very simple (and very fast) html compression pack... |
+| [debjyotikar001/asset-optimise](https://github.com/debjyotikar001/asset-optimise) | 1 | 2026-02-10 | Asset Optimise is a powerful and lightweight Laravel package... |
+| [mohamedmahmoudkamel/auditable](https://github.com/mohamedmahmoudkamel/auditable) | 0 | 2026-02-10 | A lightweight Laravel package that provides automatic auditi... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-10 | ShieldCI Laravel Package - Open-source static analysis and s... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-10 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [Jaikumar0101/laravel-base-filter](https://github.com/Jaikumar0101/laravel-base-filter) | 0 | 2026-02-10 | This is laravel package to simplify the filter process faste... |
-| [ArvidDeJong/ubl-peppol](https://github.com/ArvidDeJong/ubl-peppol) | 7 | 2026-02-10 | Welcome to the comprehensive documentation for the UBL-PEPPO... |
-| [BrightCreations/money-converter](https://github.com/BrightCreations/money-converter) | 0 | 2026-02-10 | A Laravel package for converting currencies using exchange r... |
-| [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) | 114 | 2026-02-10 | Commentions is a drop-in package for Filament that allows yo... |
+| [kidiatoliny/laravel-pdf-invoices](https://github.com/kidiatoliny/laravel-pdf-invoices) | 34 | 2026-02-10 | A modern, strictly typed, and extensible invoice generator f... |
+| [ziffmedia/laravel-mysql-snapshots](https://github.com/ziffmedia/laravel-mysql-snapshots) | 3 | 2026-02-10 | Laravel package for creating MySQL Snapshots with command li... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-10 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [kreatifIT/laravel-codice-fiscale](https://github.com/kreatifIT/laravel-codice-fiscale) | 0 | 2026-02-10 | Laravel package for Italian Codice Fiscale (Tax Code) |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-10 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-10 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-10 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-10 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-10 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [cirlmcesc/laravel-hashids](https://github.com/cirlmcesc/laravel-hashids) | 1 | 2026-02-10 | Package for laravel, automatically generate short, unique, n... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-10 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-10 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-10 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-02-10 | Laravel Paystack is a Laravel package that integrates the Pa... |
-| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-02-10 | A Laravel package for syncing database tables and data betwe... |
-| [NETipar/szamlazzhu](https://github.com/NETipar/szamlazzhu) | 0 | 2026-02-10 | Modern Laravel package for the szamlazz.hu Hungarian invoici... |
+| [devmohy/creem-laravel-package](https://github.com/devmohy/creem-laravel-package) | 0 | 2026-02-10 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-10T18:24 | 9 | 959 | 1234 |
 | 2026-02-10T12:19 | 5 | 963 | 1225 |
 | 2026-02-10T06:27 | 1 | 967 | 1220 |
 | 2026-02-10T00:28 | 6 | 962 | 1219 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-09T00:24 | 5 | 964 | 1207 |
 | 2026-02-08T18:08 | 8 | 961 | 1202 |
 | 2026-02-08T12:08 | 3 | 966 | 1194 |
-| 2026-02-08T06:19 | 1 | 968 | 1191 |
 
 ---
 

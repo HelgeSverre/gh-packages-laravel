@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1220  
-**Last updated:** 2026-02-10T06:27:02.764Z
+**Total packages tracked:** 1225  
+**Last updated:** 2026-02-10T12:19:10.273Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Jaikumar0101/laravel-base-filter](https://github.com/Jaikumar0101/laravel-base-filter) | 0 | This is laravel package to simplify the filter process faster for eloquent query... |
+| [BrightCreations/money-converter](https://github.com/BrightCreations/money-converter) | 0 | A Laravel package for converting currencies using exchange rates. |
+| [NETipar/szamlazzhu](https://github.com/NETipar/szamlazzhu) | 0 | Modern Laravel package for the szamlazz.hu Hungarian invoicing API — generate in... |
+| [AmondiMedia/laravel-evatr](https://github.com/AmondiMedia/laravel-evatr) | 0 | Laravel package for validating German and EU VAT identification numbers using th... |
+| [leandrocfe/filament-ptbr-form-fields](https://github.com/leandrocfe/filament-ptbr-form-fields) | 139 | This package provides custom form fields for Filament (>=v2.17.28) that are comm... |
 | [tasmir/sidebar-manager](https://github.com/tasmir/sidebar-manager) | 0 | A flexible, dynamic sidebar management package for Laravel applications. This pa... |
 | [michaeldrennen/Geonames](https://github.com/michaeldrennen/Geonames) | 93 | A Laravel (php) package to interface with the geo-location services at geonames.... |
 | [mahmoud-almalah/laravel-api-helpers](https://github.com/mahmoud-almalah/laravel-api-helpers) | 1 | A clean and elegant Laravel package that provides a consistent and customizable ... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [saeedvir/laravel-permissions](https://github.com/saeedvir/laravel-permissions) | 10 | A highly optimized role and permission package for Laravel 11/12 with caching, m... |
 | [mapo-89/laravel-qr-decoder](https://github.com/mapo-89/laravel-qr-decoder) | 0 | Laravel package for decoding QR codes from PNG images using Python |
 | [nodus-it/livewire-datatables](https://github.com/nodus-it/livewire-datatables) | 5 | A awesome package for easy dynamic datatables with Laravel Livewire and Bootstra... |
-| [nodus-it/livewire-forms](https://github.com/nodus-it/livewire-forms) | 8 | A awesome package for easy dynamic forms with Laravel Livewire and Bootstrap v4 |
-| [nodus-it/livewire-core](https://github.com/nodus-it/livewire-core) | 0 | The core package for all Laravel Livewire packages from Nodus-IT. |
-| [jonesrussell/northcloud-laravel](https://github.com/jonesrussell/northcloud-laravel) | 0 | Shared Laravel package for North Cloud article ingestion via Redis pub/sub |
-| [MBDevelopment-pty-ltd/payfast-core](https://github.com/MBDevelopment-pty-ltd/payfast-core) | 2 | This Laravel package provides an easy and secure way for applications to process... |
-| [rachid-aachich/laravel-amqp-broker](https://github.com/rachid-aachich/laravel-amqp-broker) | 0 | Laravel package for AMQP message broker abstraction. Easily switch between Rabbi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-10 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [xentral/laravel-api](https://github.com/xentral/laravel-api) | 3 | 2026-02-10 |  A laravel package which contains a sophisticated API workfl... |
-| [hybridgram/tgbot-laravel](https://github.com/hybridgram/tgbot-laravel) | 0 | 2026-02-10 | Super fast and easy to use package for Laravel to build Tele... |
-| [waterholeforum/core](https://github.com/waterholeforum/core) | 216 | 2026-02-10 | The core Waterhole package. |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-10 | ShieldCI Laravel Package - Open-source static analysis and s... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-10 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [Jaikumar0101/laravel-base-filter](https://github.com/Jaikumar0101/laravel-base-filter) | 0 | 2026-02-10 | This is laravel package to simplify the filter process faste... |
+| [ArvidDeJong/ubl-peppol](https://github.com/ArvidDeJong/ubl-peppol) | 7 | 2026-02-10 | Welcome to the comprehensive documentation for the UBL-PEPPO... |
+| [BrightCreations/money-converter](https://github.com/BrightCreations/money-converter) | 0 | 2026-02-10 | A Laravel package for converting currencies using exchange r... |
+| [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) | 114 | 2026-02-10 | Commentions is a drop-in package for Filament that allows yo... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-10 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [kreatifIT/laravel-codice-fiscale](https://github.com/kreatifIT/laravel-codice-fiscale) | 0 | 2026-02-10 | Laravel package for Italian Codice Fiscale (Tax Code) |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-10 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-10 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-10 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-10 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-10 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-10 | A conlang dictionary Laravel package - the luxurious way to ... |
-| [tasmir/sidebar-manager](https://github.com/tasmir/sidebar-manager) | 0 | 2026-02-10 | A flexible, dynamic sidebar management package for Laravel a... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-10 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-10 | 💳 Streamline payment processing with this PHP package that ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [verseles/Possession](https://github.com/verseles/Possession) | 2 | 2026-02-10 | Laravel user impersonation package with Sanctum compatibilit... |
-| [verseles/progressable](https://github.com/verseles/progressable) | 10 | 2026-02-10 | A Laravel (not only) package to track and manage progress fo... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-10 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-02-10 | Laravel Paystack is a Laravel package that integrates the Pa... |
+| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-02-10 | A Laravel package for syncing database tables and data betwe... |
+| [NETipar/szamlazzhu](https://github.com/NETipar/szamlazzhu) | 0 | 2026-02-10 | Modern Laravel package for the szamlazz.hu Hungarian invoici... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-10T12:19 | 5 | 963 | 1225 |
 | 2026-02-10T06:27 | 1 | 967 | 1220 |
 | 2026-02-10T00:28 | 6 | 962 | 1219 |
 | 2026-02-09T18:19 | 2 | 966 | 1213 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-08T18:08 | 8 | 961 | 1202 |
 | 2026-02-08T12:08 | 3 | 966 | 1194 |
 | 2026-02-08T06:19 | 1 | 968 | 1191 |
-| 2026-02-08T00:29 | 2 | 967 | 1190 |
 
 ---
 

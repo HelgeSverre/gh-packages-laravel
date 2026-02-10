@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1213  
-**Last updated:** 2026-02-09T18:19:27.906Z
+**Total packages tracked:** 1219  
+**Last updated:** 2026-02-10T00:28:59.646Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [michaeldrennen/Geonames](https://github.com/michaeldrennen/Geonames) | 93 | A Laravel (php) package to interface with the geo-location services at geonames.... |
+| [mahmoud-almalah/laravel-api-helpers](https://github.com/mahmoud-almalah/laravel-api-helpers) | 1 | A clean and elegant Laravel package that provides a consistent and customizable ... |
+| [emmadonjo/laravel-filter](https://github.com/emmadonjo/laravel-filter) | 2 | Laravel Filter is a laravel package to easily add filtering to your eloquent que... |
+| [c3t4r4/google-alerts](https://github.com/c3t4r4/google-alerts) | 0 | Laravel package for managing Google Alerts with OAuth authentication |
+| [steelants/Livewire-DataTable](https://github.com/steelants/Livewire-DataTable) | 2 | Laravlel Packager for creation of simple Livewire data tables |
+| [jobmetric/laravel-package-tester](https://github.com/jobmetric/laravel-package-tester) | 1 | This package is used to quickly test a package with all its components installed... |
 | [jobmetric/package-tester-composer-plugin](https://github.com/jobmetric/package-tester-composer-plugin) | 0 | Composer plugin for use in laravel package tester |
 | [salahhusa9/laravel-updater](https://github.com/salahhusa9/laravel-updater) | 218 | Laravel Updater is a simple yet powerful package for updater your Laravel applic... |
 | [PROMETA-at/laravel-reports](https://github.com/PROMETA-at/laravel-reports) | 1 | Flexible Laravel package for asynchronous report generation with job-based proce... |
@@ -23,18 +29,12 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [MBDevelopment-pty-ltd/payfast-core](https://github.com/MBDevelopment-pty-ltd/payfast-core) | 2 | This Laravel package provides an easy and secure way for applications to process... |
 | [rachid-aachich/laravel-amqp-broker](https://github.com/rachid-aachich/laravel-amqp-broker) | 0 | Laravel package for AMQP message broker abstraction. Easily switch between Rabbi... |
 | [vemcogroup/laravel-weather](https://github.com/vemcogroup/laravel-weather) | 54 | Weather package for Laravel to use different providers to get weather info |
-| [flesh404/laravel-kaspa-address](https://github.com/flesh404/laravel-kaspa-address) | 0 | Laravel package for validating and analyzing Kaspa addresses |
-| [KaziSTM/algeria-geo](https://github.com/KaziSTM/algeria-geo) | 0 | Algerian Cities (Wilayas) and Communes data package for Laravel. |
-| [billyranario/protstarter-kit](https://github.com/billyranario/protstarter-kit) | 0 | `ProstarterKit` is a Laravel package designed to expedite the initial setup and ... |
-| [kidiatoliny/sisp-core](https://github.com/kidiatoliny/sisp-core) | 1 | Is a headless, framework-agnostic Laravel 12+ package for integrating the SISP (... |
-| [skywalker-labs/laravel-toolkit](https://github.com/skywalker-labs/laravel-toolkit) | 1 | A comprehensive toolkit for Laravel package and application development. |
-| [nthndnn/laravel-state-history](https://github.com/nthndnn/laravel-state-history) | 0 | Laravel package for managing enum-based model states with enforced transitions a... |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 457 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
+| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 458 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 440 | A package to handle multilingual routes in your Laravel application. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jobmetric/package-tester-composer-plugin](https://github.com/jobmetric/package-tester-composer-plugin) | 0 | 2026-02-09 | Composer plugin for use in laravel package tester |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-10 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-10 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [michaeldrennen/Geonames](https://github.com/michaeldrennen/Geonames) | 93 | 2026-02-09 | A Laravel (php) package to interface with the geo-location s... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-09 | Empower your users with a modern, intuitive visual editor. T... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-09 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-09 | A conlang dictionary Laravel package - the luxurious way to ... |
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 136 | 2026-02-09 | A Laravel package that provides a Cookies consent floating w... |
-| [SynergiTech/laravel-magic-enums](https://github.com/SynergiTech/laravel-magic-enums) | 9 | 2026-02-09 | A Laravel package that adds extra power to your PHP enums, a... |
+| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-09 | A simple content page management system with a flexible cont... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-09 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-02-09 | An event sourcing laravel package, complete with all the ess... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-09 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-09 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-09 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-09 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-09 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-09 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [creopse/laravel-package](https://github.com/creopse/laravel-package) | 0 | 2026-02-09 | Creopse laravel package. |
+| [OpenCompanyApp/integration-core](https://github.com/OpenCompanyApp/integration-core) | 0 | 2026-02-09 | Core framework for OpenCompany AI tool packages — ToolProvid... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 0 | 2026-02-09 | ShieldCI Analyzer Core - Shared foundation for building stat... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-09 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-09 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-09 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-09 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-09 | A simple content page management system with a flexible cont... |
-| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-02-09 | A Laravel package for syncing database tables and data betwe... |
+| [mahmoud-almalah/laravel-api-helpers](https://github.com/mahmoud-almalah/laravel-api-helpers) | 1 | 2026-02-09 | A clean and elegant Laravel package that provides a consiste... |
+| [timo-de-winter/filament-modifiable-plugins](https://github.com/timo-de-winter/filament-modifiable-plugins) | 1 | 2026-02-09 | This package aims to make it easier to create filament plugi... |
+| [emmadonjo/laravel-filter](https://github.com/emmadonjo/laravel-filter) | 2 | 2026-02-09 | Laravel Filter is a laravel package to easily add filtering ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-10T00:28 | 6 | 962 | 1219 |
 | 2026-02-09T18:19 | 2 | 966 | 1213 |
 | 2026-02-09T12:17 | 1 | 968 | 1211 |
 | 2026-02-09T06:26 | 3 | 966 | 1210 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-08T06:19 | 1 | 968 | 1191 |
 | 2026-02-08T00:29 | 2 | 967 | 1190 |
 | 2026-02-07T18:08 | 9 | 960 | 1188 |
-| 2026-02-07T12:08 | 2 | 967 | 1179 |
 
 ---
 

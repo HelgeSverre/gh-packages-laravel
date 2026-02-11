@@ -1511,8 +1511,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-28T03:06:40Z",
-    "updated_at": "2026-02-11T00:05:01Z",
-    "pushed_at": "2026-02-11T00:05:39Z",
+    "updated_at": "2026-02-11T01:25:57Z",
+    "pushed_at": "2026-02-11T01:26:01Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "escuelait/laravel-api-kit": {
@@ -1545,8 +1545,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-01-24T14:44:14Z",
-    "updated_at": "2026-02-09T17:06:12Z",
-    "pushed_at": "2026-02-09T17:06:08Z",
+    "updated_at": "2026-02-11T06:25:16Z",
+    "pushed_at": "2026-02-11T06:25:12Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "zaeem2396/laravel-nats": {
@@ -1716,7 +1716,7 @@
     "license": "MIT",
     "created_at": "2025-12-09T00:30:48Z",
     "updated_at": "2026-01-27T14:42:19Z",
-    "pushed_at": "2026-01-27T14:42:15Z",
+    "pushed_at": "2026-02-11T00:49:49Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "stumason/laravel-coolify": {
@@ -3616,7 +3616,7 @@
     "name": "tzsk/sms",
     "url": "https://github.com/tzsk/sms",
     "description": "Laravel SMS Gateway Integration Package",
-    "stars": 317,
+    "stars": 318,
     "forks": 79,
     "topics": [
       "aws-sns",
@@ -3639,7 +3639,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2016-12-18T07:54:24Z",
-    "updated_at": "2026-01-25T12:19:58Z",
+    "updated_at": "2026-02-11T02:56:39Z",
     "pushed_at": "2026-02-10T23:32:46Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -3756,7 +3756,7 @@
     "license": "LGPL-2.1",
     "created_at": "2023-03-01T05:46:34Z",
     "updated_at": "2026-01-23T18:04:04Z",
-    "pushed_at": "2026-02-10T20:55:14Z",
+    "pushed_at": "2026-02-11T04:22:41Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "x-wms/xwms-docs": {
@@ -4676,8 +4676,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-08-18T21:09:02Z",
-    "updated_at": "2026-02-06T11:23:36Z",
-    "pushed_at": "2026-02-10T06:27:50Z",
+    "updated_at": "2026-02-11T05:10:24Z",
+    "pushed_at": "2026-02-11T05:12:02Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "modelesque/laravel-api-token-manager": {
@@ -4953,8 +4953,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-06T08:04:55Z",
-    "updated_at": "2026-02-09T12:32:05Z",
-    "pushed_at": "2026-02-09T12:33:10Z",
+    "updated_at": "2026-02-11T05:47:45Z",
+    "pushed_at": "2026-02-11T05:47:42Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "amritadhikari/ai_prompts": {
@@ -5441,8 +5441,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-02-17T10:33:11Z",
-    "updated_at": "2026-01-20T03:07:50Z",
-    "pushed_at": "2026-01-20T03:07:46Z",
+    "updated_at": "2026-02-11T05:40:24Z",
+    "pushed_at": "2026-02-11T06:14:07Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "wazzac/laravel-db-encryption": {
@@ -6797,7 +6797,7 @@
     "license": "MIT",
     "created_at": "2025-11-07T00:01:09Z",
     "updated_at": "2026-02-10T06:04:08Z",
-    "pushed_at": "2026-02-11T00:16:52Z",
+    "pushed_at": "2026-02-11T03:26:19Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "yuges-code/laravel-ownable": {
@@ -7325,8 +7325,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-11-09T09:05:01Z",
-    "updated_at": "2026-01-27T02:01:25Z",
-    "pushed_at": "2026-01-14T09:28:11Z",
+    "updated_at": "2026-02-11T06:23:05Z",
+    "pushed_at": "2026-02-11T06:23:01Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "itxshakil/laravel-fast2sms": {
@@ -9257,8 +9257,8 @@
     "name": "MusahMusah/laravel-multipayment-gateways",
     "url": "https://github.com/MusahMusah/laravel-multipayment-gateways",
     "description": "A Laravel Package that makes implementation of multiple payment Gateways such as Paystack, Flutterwave and Stripe endpoints and webhooks seamless. ",
-    "stars": 83,
-    "forks": 11,
+    "stars": 84,
+    "forks": 12,
     "topics": [
       "flutterwave",
       "laravel",
@@ -9279,7 +9279,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-12-18T22:50:38Z",
-    "updated_at": "2026-02-10T01:04:12Z",
+    "updated_at": "2026-02-11T05:09:17Z",
     "pushed_at": "2026-01-12T18:09:43Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -18087,13 +18087,13 @@
     "name": "xentixar/workflow-manager",
     "url": "https://github.com/xentixar/workflow-manager",
     "description": "A powerful workflow management package for Laravel Filament that allows you to define and manage state transitions for your Laravel models.",
-    "stars": 9,
+    "stars": 10,
     "forks": 4,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-04-21T06:19:55Z",
-    "updated_at": "2026-02-03T11:50:40Z",
+    "updated_at": "2026-02-11T03:46:29Z",
     "pushed_at": "2026-02-03T11:50:36Z",
     "discovered_at": "2026-02-03T12:12:17.598Z"
   },
@@ -18785,8 +18785,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-02-04T21:56:25Z",
-    "updated_at": "2026-02-10T23:55:10Z",
-    "pushed_at": "2026-02-11T00:27:13Z",
+    "updated_at": "2026-02-11T00:34:43Z",
+    "pushed_at": "2026-02-11T00:34:44Z",
     "discovered_at": "2026-02-05T00:23:44.729Z"
   },
   "rse-sa/delivra": {
@@ -19573,7 +19573,7 @@
     "license": "MIT",
     "created_at": "2025-02-07T20:59:25Z",
     "updated_at": "2026-02-08T18:04:54Z",
-    "pushed_at": "2026-02-10T03:42:18Z",
+    "pushed_at": "2026-02-11T06:25:42Z",
     "discovered_at": "2026-02-07T06:13:57.999Z"
   },
   "verseles/progressable": {
@@ -19587,7 +19587,7 @@
     "license": "MIT",
     "created_at": "2024-03-05T07:48:48Z",
     "updated_at": "2026-02-07T03:27:19Z",
-    "pushed_at": "2026-02-10T03:24:34Z",
+    "pushed_at": "2026-02-11T05:52:03Z",
     "discovered_at": "2026-02-07T06:13:57.999Z"
   },
   "toniel/laravel-enum-to-typescript": {
@@ -20194,7 +20194,7 @@
     "license": "MIT",
     "created_at": "2023-10-18T10:02:05Z",
     "updated_at": "2026-02-09T15:37:32Z",
-    "pushed_at": "2026-02-09T19:35:44Z",
+    "pushed_at": "2026-02-11T06:14:41Z",
     "discovered_at": "2026-02-09T18:19:27.897Z"
   },
   "michaeldrennen/geonames": {
@@ -20518,8 +20518,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-23T13:53:37Z",
-    "updated_at": "2026-02-10T12:18:19Z",
-    "pushed_at": "2026-02-10T08:53:46Z",
+    "updated_at": "2026-02-11T01:06:04Z",
+    "pushed_at": "2026-02-11T06:06:00Z",
     "discovered_at": "2026-02-10T18:24:22.658Z"
   },
   "kiamars-mirzaee/laravel-business-events": {
@@ -20549,5 +20549,33 @@
     "updated_at": "2026-02-10T20:28:33Z",
     "pushed_at": "2026-02-10T20:28:29Z",
     "discovered_at": "2026-02-11T00:28:06.325Z"
+  },
+  "codeplugtech/creem-payments": {
+    "name": "codeplugtech/creem-payments",
+    "url": "https://github.com/codeplugtech/creem-payments",
+    "description": "Creem.io Laravel package",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-02-11T04:52:08Z",
+    "updated_at": "2026-02-11T05:43:49Z",
+    "pushed_at": "2026-02-11T05:43:46Z",
+    "discovered_at": "2026-02-11T06:26:24.704Z"
+  },
+  "laraditz/whatsapp": {
+    "name": "laraditz/whatsapp",
+    "url": "https://github.com/laraditz/whatsapp",
+    "description": "A comprehensive Laravel package for seamless integration with the Official Whatsapp Cloud API.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-02-11T03:38:17Z",
+    "updated_at": "2026-02-11T03:39:47Z",
+    "pushed_at": "2026-02-11T03:39:44Z",
+    "discovered_at": "2026-02-11T06:26:24.704Z"
   }
 }

@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1245  
-**Last updated:** 2026-02-11T12:17:57.867Z
+**Total packages tracked:** 1248  
+**Last updated:** 2026-02-11T18:22:06.113Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [parthokar90/admin-core](https://github.com/parthokar90/admin-core) | 0 | Admin Core is a Laravel-based admin panel package with built-in authentication, ... |
+| [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 0 | A Laravel package that compiles Markdown files and OpenAPI 3.x YAML specificatio... |
+| [s80programmeomega/test-package](https://github.com/s80programmeomega/test-package) | 0 | A test package for laravel 10 |
 | [omisai-tech/laravel-vies-rest](https://github.com/omisai-tech/laravel-vies-rest) | 1 | A Laravel adapter for the VIES REST API package, utilizing Laravel's HTTP client... |
 | [ChrisThompsonTLDR/laravel-rng](https://github.com/ChrisThompsonTLDR/laravel-rng) | 0 | A Laravel package for random number generation. |
 | [chargebee/cashier-chargebee](https://github.com/chargebee/cashier-chargebee) | 60 | This repo manages the codebase of Laravel Cashier for Chargebee package |
@@ -21,20 +24,17 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kiamars-mirzaee/laravel-business-events](https://github.com/kiamars-mirzaee/laravel-business-events) | 0 | A powerful Laravel package for handling business events with priority-based queu... |
 | [awaisjameel/laravel-cpanel-hosting](https://github.com/awaisjameel/laravel-cpanel-hosting) | 0 | A robust, secure, and production-ready Laravel package that makes deploying Lara... |
 | [cirlmcesc/laravel-hashids](https://github.com/cirlmcesc/laravel-hashids) | 1 | Package for laravel, automatically generate short, unique, non-sequential ids (l... |
-| [devmohy/creem-laravel-package](https://github.com/devmohy/creem-laravel-package) | 0 |  |
+| [devmohy/creem-laravel-package](https://github.com/devmohy/creem-laravel-package) | 1 |  |
 | [fogeto/laravel-server-orchestrator](https://github.com/fogeto/laravel-server-orchestrator) | 1 | Laravel Prometheus monitoring package for multi-project server orchestration. Co... |
 | [moneo/laravel-reacher](https://github.com/moneo/laravel-reacher) | 2 | Laravel package for check-if-email-exists (Reacher) - Check if an email address ... |
 | [velmphp/velm](https://github.com/velmphp/velm) | 0 | Velm is a runtime composition framework for Laravel that lets you build logical ... |
 | [shervintehrani/Payment-Module-Laravel](https://github.com/shervintehrani/Payment-Module-Laravel) | 0 | Laravel package for managing payments with Shetabit Multipay |
-| [abordage/laravel-html-min](https://github.com/abordage/laravel-html-min) | 25 | HtmlMin is very simple (and very fast) html compression package for Laravel |
-| [debjyotikar001/asset-optimise](https://github.com/debjyotikar001/asset-optimise) | 1 | Asset Optimise is a powerful and lightweight Laravel package designed to enhance... |
-| [mohamedmahmoudkamel/auditable](https://github.com/mohamedmahmoudkamel/auditable) | 0 | A lightweight Laravel package that provides automatic auditing for Eloquent mode... |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 458 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
+| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 459 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 440 | A package to handle multilingual routes in your Laravel application. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [devmohy/creem-laravel-package](https://github.com/devmohy/creem-laravel-package) | 0 | 2026-02-11 |  |
-| [BrightCreations/money-converter](https://github.com/BrightCreations/money-converter) | 0 | 2026-02-11 | A Laravel package for converting currencies using exchange r... |
-| [velmphp/velm](https://github.com/velmphp/velm) | 0 | 2026-02-11 | Velm is a runtime composition framework for Laravel that let... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-02-11 | The Moox Project - Packages for Filament and Laravel |
-| [fogeto/laravel-server-orchestrator](https://github.com/fogeto/laravel-server-orchestrator) | 1 | 2026-02-11 | Laravel Prometheus monitoring package for multi-project serv... |
-| [ramonov/tingtingapi](https://github.com/ramonov/tingtingapi) | 0 | 2026-02-11 | A Laravel package for TingTing API integration. |
-| [creopse/laravel-package](https://github.com/creopse/laravel-package) | 0 | 2026-02-11 | Creopse laravel package. |
-| [diviky/bright](https://github.com/diviky/bright) | 1 | 2026-02-11 | Laravel package |
-| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-02-11 | A Laravel package for syncing database tables and data betwe... |
-| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-02-11 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-11 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-02-11 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-02-11 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-02-11 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 3 | 2026-02-11 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-11 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [omisai-tech/laravel-vies-rest](https://github.com/omisai-tech/laravel-vies-rest) | 1 | 2026-02-11 | A Laravel adapter for the VIES REST API package, utilizing L... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-11 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-11 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [ChrisThompsonTLDR/laravel-rng](https://github.com/ChrisThompsonTLDR/laravel-rng) | 0 | 2026-02-11 | A Laravel package for random number generation. |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-11 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-11 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-11 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-11 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [simone-bianco/laravel-dedup-media](https://github.com/simone-bianco/laravel-dedup-media) | 0 | 2026-02-11 | Package to handle media storage without duplicated files |
+| [laravel/roster](https://github.com/laravel/roster) | 148 | 2026-02-11 | Detect packages & approaches in use within a Laravel project |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-02-11 | A package to create datatables using alpinejs, tailwind, liv... |
+| [velmphp/velm](https://github.com/velmphp/velm) | 0 | 2026-02-11 | Velm is a runtime composition framework for Laravel that let... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-11 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-11 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-11 | 💳 Streamline payment processing with this PHP package that ... |
+| [blockshiftnetwork/sapb1-client-laravel](https://github.com/blockshiftnetwork/sapb1-client-laravel) | 2 | 2026-02-11 | A robust, production-grade Laravel package for SAP Business ... |
+| [laraditz/whatsapp](https://github.com/laraditz/whatsapp) | 0 | 2026-02-11 | A comprehensive Laravel package for seamless integration wit... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-11 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [parthokar90/admin-core](https://github.com/parthokar90/admin-core) | 0 | 2026-02-11 | Admin Core is a Laravel-based admin panel package with built... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-11 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-11 | ShieldCI Laravel Package - Open-source static analysis and s... |
+| [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 0 | 2026-02-11 | A Laravel package that compiles Markdown files and OpenAPI 3... |
+| [s80programmeomega/test-package](https://github.com/s80programmeomega/test-package) | 0 | 2026-02-11 | A test package for laravel 10 |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-11T18:22 | 3 | 965 | 1248 |
 | 2026-02-11T12:17 | 7 | 961 | 1245 |
 | 2026-02-11T06:26 | 2 | 966 | 1238 |
 | 2026-02-11T00:28 | 2 | 966 | 1236 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-10T00:28 | 6 | 962 | 1219 |
 | 2026-02-09T18:19 | 2 | 966 | 1213 |
 | 2026-02-09T12:17 | 1 | 968 | 1211 |
-| 2026-02-09T06:26 | 3 | 966 | 1210 |
 
 ---
 

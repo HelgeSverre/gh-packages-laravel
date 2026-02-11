@@ -377,8 +377,15 @@
       "new": 9,
       "updated": 959,
       "total": 1234
+    },
+    {
+      "timestamp": "2026-02-11T00:28:06.338Z",
+      "fetched": 1000,
+      "new": 2,
+      "updated": 966,
+      "total": 1236
     }
   ],
-  "total_discovered": 1234,
-  "last_run": "2026-02-10T18:24:22.666Z"
+  "total_discovered": 1236,
+  "last_run": "2026-02-11T00:28:06.338Z"
 }

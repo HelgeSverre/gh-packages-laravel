@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1234  
-**Last updated:** 2026-02-10T18:24:22.666Z
+**Total packages tracked:** 1236  
+**Last updated:** 2026-02-11T00:28:06.338Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [kiamars-mirzaee/laravel-business-events](https://github.com/kiamars-mirzaee/laravel-business-events) | 0 | A powerful Laravel package for handling business events with priority-based queu... |
+| [awaisjameel/laravel-cpanel-hosting](https://github.com/awaisjameel/laravel-cpanel-hosting) | 0 | A robust, secure, and production-ready Laravel package that makes deploying Lara... |
 | [cirlmcesc/laravel-hashids](https://github.com/cirlmcesc/laravel-hashids) | 1 | Package for laravel, automatically generate short, unique, non-sequential ids (l... |
 | [devmohy/creem-laravel-package](https://github.com/devmohy/creem-laravel-package) | 0 |  |
 | [fogeto/laravel-server-orchestrator](https://github.com/fogeto/laravel-server-orchestrator) | 1 | Laravel Prometheus monitoring package for multi-project server orchestration. Co... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [michaeldrennen/Geonames](https://github.com/michaeldrennen/Geonames) | 93 | A Laravel (php) package to interface with the geo-location services at geonames.... |
 | [mahmoud-almalah/laravel-api-helpers](https://github.com/mahmoud-almalah/laravel-api-helpers) | 1 | A clean and elegant Laravel package that provides a consistent and customizable ... |
 | [emmadonjo/laravel-filter](https://github.com/emmadonjo/laravel-filter) | 2 | Laravel Filter is a laravel package to easily add filtering to your eloquent que... |
-| [c3t4r4/google-alerts](https://github.com/c3t4r4/google-alerts) | 0 | Laravel package for managing Google Alerts with OAuth authentication |
-| [steelants/Livewire-DataTable](https://github.com/steelants/Livewire-DataTable) | 2 | Laravel Package for creating simple Livewire data tables |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-10 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [bkhim/laravel-geolocation](https://github.com/bkhim/laravel-geolocation) | 1 | 2026-02-10 | Modern Laravel geolocation package with 5+ drivers (IpInfo, ... |
-| [shervintehrani/Payment-Module-Laravel](https://github.com/shervintehrani/Payment-Module-Laravel) | 0 | 2026-02-10 | Laravel package for managing payments with Shetabit Multipay |
+| [softlogic-gt/neopay-laravel](https://github.com/softlogic-gt/neopay-laravel) | 0 | 2026-02-11 | Neopay Laravel Payment Package |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-11 | ShieldCI Laravel Package - Open-source static analysis and s... |
+| [amondar-libs/repository-pattern](https://github.com/amondar-libs/repository-pattern) | 1 | 2026-02-11 | Laravel package to implement the repository pattern |
+| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-02-10 | Laravel package skeleton ⚙️ |
+| [tzsk/sms](https://github.com/tzsk/sms) | 317 | 2026-02-10 | Laravel SMS Gateway Integration Package |
 | [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-02-10 | A Laravel package for syncing database tables and data betwe... |
-| [abordage/laravel-html-min](https://github.com/abordage/laravel-html-min) | 25 | 2026-02-10 | HtmlMin is very simple (and very fast) html compression pack... |
-| [debjyotikar001/asset-optimise](https://github.com/debjyotikar001/asset-optimise) | 1 | 2026-02-10 | Asset Optimise is a powerful and lightweight Laravel package... |
-| [mohamedmahmoudkamel/auditable](https://github.com/mohamedmahmoudkamel/auditable) | 0 | 2026-02-10 | A lightweight Laravel package that provides automatic auditi... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-10 | ShieldCI Laravel Package - Open-source static analysis and s... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-10 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [kiamars-mirzaee/laravel-business-events](https://github.com/kiamars-mirzaee/laravel-business-events) | 0 | 2026-02-10 | A powerful Laravel package for handling business events with... |
+| [Oskarpok/web_dev_ulp](https://github.com/Oskarpok/web_dev_ulp) | 0 | 2026-02-10 | Laravel's universal packages are a collection of related mod... |
+| [jobmetric/laravel-package-tester](https://github.com/jobmetric/laravel-package-tester) | 1 | 2026-02-10 | This package is used to quickly test a package with all its ... |
+| [jobmetric/package-tester-composer-plugin](https://github.com/jobmetric/package-tester-composer-plugin) | 0 | 2026-02-10 | Composer plugin for use in laravel package tester |
+| [omdasoft/laravel-webauthn](https://github.com/omdasoft/laravel-webauthn) | 0 | 2026-02-10 | web authn laravel package |
 | [kidiatoliny/laravel-pdf-invoices](https://github.com/kidiatoliny/laravel-pdf-invoices) | 34 | 2026-02-10 | A modern, strictly typed, and extensible invoice generator f... |
-| [ziffmedia/laravel-mysql-snapshots](https://github.com/ziffmedia/laravel-mysql-snapshots) | 3 | 2026-02-10 | Laravel package for creating MySQL Snapshots with command li... |
+| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-10 | A conlang dictionary Laravel package - the luxurious way to ... |
+| [kidiatoliny/sisp-core](https://github.com/kidiatoliny/sisp-core) | 1 | 2026-02-10 | Is a headless, framework-agnostic Laravel 12+ package for in... |
+| [awaisjameel/laravel-cpanel-hosting](https://github.com/awaisjameel/laravel-cpanel-hosting) | 0 | 2026-02-10 | A robust, secure, and production-ready Laravel package that ... |
+| [ComusBala96/framework](https://github.com/ComusBala96/framework) | 0 | 2026-02-10 | Laravel package framework |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-10 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-10 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [naykel76/authit](https://github.com/naykel76/authit) | 0 | 2026-02-10 | Auth package for NayKel Laravel applications |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-10 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-10 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-10 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-10 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [cirlmcesc/laravel-hashids](https://github.com/cirlmcesc/laravel-hashids) | 1 | 2026-02-10 | Package for laravel, automatically generate short, unique, n... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [devmohy/creem-laravel-package](https://github.com/devmohy/creem-laravel-package) | 0 | 2026-02-10 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-11T00:28 | 2 | 966 | 1236 |
 | 2026-02-10T18:24 | 9 | 959 | 1234 |
 | 2026-02-10T12:19 | 5 | 963 | 1225 |
 | 2026-02-10T06:27 | 1 | 967 | 1220 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-09T06:26 | 3 | 966 | 1210 |
 | 2026-02-09T00:24 | 5 | 964 | 1207 |
 | 2026-02-08T18:08 | 8 | 961 | 1202 |
-| 2026-02-08T12:08 | 3 | 966 | 1194 |
 
 ---
 

@@ -426,8 +426,15 @@
       "new": 10,
       "updated": 959,
       "total": 1265
+    },
+    {
+      "timestamp": "2026-02-12T18:21:06.611Z",
+      "fetched": 1000,
+      "new": 8,
+      "updated": 961,
+      "total": 1273
     }
   ],
-  "total_discovered": 1265,
-  "last_run": "2026-02-12T12:15:53.162Z"
+  "total_discovered": 1273,
+  "last_run": "2026-02-12T18:21:06.611Z"
 }

@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1255  
-**Last updated:** 2026-02-12T06:26:32.750Z
+**Total packages tracked:** 1265  
+**Last updated:** 2026-02-12T12:15:53.162Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [diepxuan/laravel-scavenger](https://github.com/diepxuan/laravel-scavenger) | 1 | The integrated web scraper package for Laravel. |
+| [diepxuan/laravel-currency](https://github.com/diepxuan/laravel-currency) | 0 | A Laravel package for formatting currency in Blade. |
+| [diepxuan/laravel-support](https://github.com/diepxuan/laravel-support) | 0 | This package provides additional support and utilities for Laravel applications ... |
+| [gr8shivam/laravel-sms-api](https://github.com/gr8shivam/laravel-sms-api) | 100 | Laravel package to provide SMS API integration. |
+| [binkode/laravel-paystack](https://github.com/binkode/laravel-paystack) | 10 | Welcome to the Laravel Paystack Developer Package – your ultimate tool for creat... |
+| [taiwanleaftea/tlt-verifactu](https://github.com/taiwanleaftea/tlt-verifactu) | 0 | A Laravel package for EU VAT validation and VERIFACTU support. |
+| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | An opinionated Laravel package for handling payments, batteries included  ⚡🔋 |
+| [Slick-Pay-Algeria/slickpay-laravel](https://github.com/Slick-Pay-Algeria/slickpay-laravel) | 6 | Laravel package for Slick-Pay API implementation. |
+| [laraplus/form](https://github.com/laraplus/form) | 4 | A powerful package for building forms in Laravel |
+| [ArtemYurov/laravel-incremental-db-sync](https://github.com/ArtemYurov/laravel-incremental-db-sync) | 0 | Laravel package for synchronizing PostgreSQL databases from remote servers via S... |
 | [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 📈 Access real-time cryptocurrency data easily with this PHP package for CoinMar... |
 | [mrshanebarron/laraveldesign-package](https://github.com/mrshanebarron/laraveldesign-package) | 0 | WordPress-like CMS for Laravel with a Wix-style visual page builder. Posts, page... |
 | [wucdbm/sphinx-query-builder](https://github.com/wucdbm/sphinx-query-builder) | 0 | A Sphinx Query Builder extension for the Laravel Database package |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [parthokar90/admin-core](https://github.com/parthokar90/admin-core) | 0 | Admin Core is a Laravel-based admin panel package with built-in authentication, ... |
 | [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 0 | A Laravel package that compiles Markdown files and OpenAPI 3.x YAML specificatio... |
 | [s80programmeomega/test-package](https://github.com/s80programmeomega/test-package) | 0 | A test package for laravel 10 |
-| [omisai-tech/laravel-vies-rest](https://github.com/omisai-tech/laravel-vies-rest) | 1 | A Laravel adapter for the VIES REST API package, utilizing Laravel's HTTP client... |
-| [ChrisThompsonTLDR/laravel-rng](https://github.com/ChrisThompsonTLDR/laravel-rng) | 0 | A Laravel package for random number generation. |
-| [chargebee/cashier-chargebee](https://github.com/chargebee/cashier-chargebee) | 61 | This repo manages the codebase of Laravel Cashier for Chargebee package |
-| [Kulunu1317/Package-Create-Managment-system](https://github.com/Kulunu1317/Package-Create-Managment-system) | 0 | Developed a full-stack Job Advertisement System using Laravel and MySQL. Feature... |
-| [owenvoke/blade-fontawesome](https://github.com/owenvoke/blade-fontawesome) | 206 | A package to easily make use of Font Awesome in your Laravel Blade views. |
-| [regmibipin13/starter-kit-multi-dashboard](https://github.com/regmibipin13/starter-kit-multi-dashboard) | 0 | Laravel 12 Starter kit Using Bootstrap, Laravel UI Package, Vue Integration and ... |
-| [pratikkuikel/ncm-laravel](https://github.com/pratikkuikel/ncm-laravel) | 0 | Ncm api integration package for laravel |
-| [codeplugtech/creem-payments](https://github.com/codeplugtech/creem-payments) | 0 | Creem.io Laravel package |
-| [laraditz/whatsapp](https://github.com/laraditz/whatsapp) | 0 | A comprehensive Laravel package for seamless integration with the Official Whats... |
-| [kiamars-mirzaee/laravel-business-events](https://github.com/kiamars-mirzaee/laravel-business-events) | 0 | A powerful Laravel package for handling business events with priority-based queu... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [velmphp/velm](https://github.com/velmphp/velm) | 0 | 2026-02-12 | Velm is a runtime composition framework for Laravel that let... |
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-12 | A conlang dictionary Laravel package - the luxurious way to ... |
-| [naykel76/authit](https://github.com/naykel76/authit) | 0 | 2026-02-12 | Auth package for NayKel Laravel applications |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-12 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [Aqwel-AI/larai](https://github.com/Aqwel-AI/larai) | 0 | 2026-02-12 | LarAI - AI integration package for Laravel developed by Aqwe... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-12 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-12 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-12 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-12 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-12 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-12 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-12 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-12 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [anilkumarthakur60/fast-api-crud](https://github.com/anilkumarthakur60/fast-api-crud) | 9 | 2026-02-12 | The GitHub repository "Fast-Api-Crud" is a package that prov... |
+| [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 0 | 2026-02-12 | A Laravel package that compiles Markdown files and OpenAPI 3... |
+| [diepxuan/laravel-scavenger](https://github.com/diepxuan/laravel-scavenger) | 1 | 2026-02-12 | The integrated web scraper package for Laravel. |
+| [diepxuan/laravel-currency](https://github.com/diepxuan/laravel-currency) | 0 | 2026-02-12 | A Laravel package for formatting currency in Blade. |
+| [diepxuan/laravel-support](https://github.com/diepxuan/laravel-support) | 0 | 2026-02-12 | This package provides additional support and utilities for L... |
+| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 0 | 2026-02-12 | A package for using and generating unique urls for each Eloq... |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-02-12 | Laravel Package to access AI CAD |
 | [Kulunu1317/Package-Create-Managment-system](https://github.com/Kulunu1317/Package-Create-Managment-system) | 0 | 2026-02-12 | Developed a full-stack Job Advertisement System using Larave... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-12 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-12 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-12 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-12 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-12 | ShieldCI Laravel Package - Open-source static analysis and s... |
-| [verseles/progressable](https://github.com/verseles/progressable) | 10 | 2026-02-12 | A Laravel (not only) package to track and manage progress fo... |
+| [gr8shivam/laravel-sms-api](https://github.com/gr8shivam/laravel-sms-api) | 100 | 2026-02-12 | Laravel package to provide SMS API integration. |
+| [velmphp/velm](https://github.com/velmphp/velm) | 0 | 2026-02-12 | Velm is a runtime composition framework for Laravel that let... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-12 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [binkode/laravel-paystack](https://github.com/binkode/laravel-paystack) | 10 | 2026-02-12 | Welcome to the Laravel Paystack Developer Package – your ult... |
+| [taiwanleaftea/tlt-verifactu](https://github.com/taiwanleaftea/tlt-verifactu) | 0 | 2026-02-12 | A Laravel package for EU VAT validation and VERIFACTU suppor... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-12 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | 2026-02-12 | An opinionated Laravel package for handling payments, batter... |
+| [BrightCreations/money-converter](https://github.com/BrightCreations/money-converter) | 0 | 2026-02-12 | A Laravel package for converting currencies using exchange r... |
+| [Oskarpok/web_dev_ulp](https://github.com/Oskarpok/web_dev_ulp) | 0 | 2026-02-12 | Laravel's universal packages are a collection of related mod... |
+| [lucabecchetti/laravel-postgresql-partition](https://github.com/lucabecchetti/laravel-postgresql-partition) | 0 | 2026-02-12 | Useful Laravel package to easily work with PostgreSQL Partit... |
+| [michael-lurquin/feature-limiter](https://github.com/michael-lurquin/feature-limiter) | 1 | 2026-02-12 | A Laravel package to manage SaaS features, quotas and usage.... |
+| [Slick-Pay-Algeria/slickpay-laravel](https://github.com/Slick-Pay-Algeria/slickpay-laravel) | 6 | 2026-02-12 | Laravel package for Slick-Pay API implementation. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-12T12:15 | 10 | 959 | 1265 |
 | 2026-02-12T06:26 | 3 | 965 | 1255 |
 | 2026-02-12T00:23 | 4 | 964 | 1252 |
 | 2026-02-11T18:22 | 3 | 965 | 1248 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-10T18:24 | 9 | 959 | 1234 |
 | 2026-02-10T12:19 | 5 | 963 | 1225 |
 | 2026-02-10T06:27 | 1 | 967 | 1220 |
-| 2026-02-10T00:28 | 6 | 962 | 1219 |
 
 ---
 

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1276  
-**Last updated:** 2026-02-13T06:23:32.849Z
+**Total packages tracked:** 1281  
+**Last updated:** 2026-02-13T12:11:39.804Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [gladehq/laravel-event-lens](https://github.com/gladehq/laravel-event-lens) | 0 | Laravel Event Lens provides deep observability for Laravel Events and Listeners ... |
+| [Jurager/tracker](https://github.com/Jurager/tracker) | 1 | Laravel package allows you to record and store request metadata to database, suc... |
+| [danihidayatx/tenancy-starterkit](https://github.com/danihidayatx/tenancy-starterkit) | 0 | An opinionated starter kit for building multi-tenant SaaS applications with Lara... |
+| [syftnex/laravel-security](https://github.com/syftnex/laravel-security) | 0 | Comprehensive Laravel security package protecting against SQL injection, XSS, an... |
+| [stijnvanouplines/blade-country-flags](https://github.com/stijnvanouplines/blade-country-flags) | 25 | A package to easily make use of country flags in your Laravel Blade views. |
 | [Error-Tag/ErrorTag-laravel](https://github.com/Error-Tag/ErrorTag-laravel) | 0 | ErrorTag is an error monitoring and observability platform. This package is the ... |
 | [amarneche/pinterest-laravel](https://github.com/amarneche/pinterest-laravel) | 0 | A Laravel Package that allows using Pinterest Api easily |
 | [AMI-Praha-a-s/ai-text-tool](https://github.com/AMI-Praha-a-s/ai-text-tool) | 0 | Laravel package for AI-powered text operations backed by the Laravel AI SDK. |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [diepxuan/laravel-currency](https://github.com/diepxuan/laravel-currency) | 0 | A Laravel package for formatting currency in Blade. |
 | [diepxuan/laravel-support](https://github.com/diepxuan/laravel-support) | 0 | This package provides additional support and utilities for Laravel applications ... |
 | [gr8shivam/laravel-sms-api](https://github.com/gr8shivam/laravel-sms-api) | 100 | Laravel package to provide SMS API integration. |
-| [binkode/laravel-paystack](https://github.com/binkode/laravel-paystack) | 10 | Welcome to the Laravel Paystack Developer Package – your ultimate tool for creat... |
-| [taiwanleaftea/tlt-verifactu](https://github.com/taiwanleaftea/tlt-verifactu) | 0 | A Laravel package for EU VAT validation and VERIFACTU support. |
-| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | An opinionated Laravel package for handling payments, batteries included  ⚡🔋 |
-| [Slick-Pay-Algeria/slickpay-laravel](https://github.com/Slick-Pay-Algeria/slickpay-laravel) | 6 | Laravel package for Slick-Pay API implementation. |
-| [laraplus/form](https://github.com/laraplus/form) | 4 | A powerful package for building forms in Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-13 | A conlang dictionary Laravel package - the luxurious way to ... |
-| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 0 | 2026-02-13 | A package for using and generating unique urls for each Eloq... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-02-13 | This project collects the most commonly used Laravel extensi... |
+| [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 0 | 2026-02-13 | A Laravel package that compiles Markdown files and OpenAPI 3... |
+| [gladehq/laravel-event-lens](https://github.com/gladehq/laravel-event-lens) | 0 | 2026-02-13 | Laravel Event Lens provides deep observability for Laravel E... |
 | [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-13 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 3 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-13 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [Magnificent-Big-J/payfast-payment](https://github.com/Magnificent-Big-J/payfast-payment) | 0 | 2026-02-13 | This is a PHP package for integrating with the PayFast.co.za... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-13 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [Jurager/tracker](https://github.com/Jurager/tracker) | 1 | 2026-02-13 | Laravel package allows you to record and store request metad... |
+| [laravel/roster](https://github.com/laravel/roster) | 150 | 2026-02-13 | Detect packages & approaches in use within a Laravel project |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-13 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-13 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-13 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-13 | A simple content page management system with a flexible cont... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-13 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-13 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-13 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-13 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-13 | 💳 Streamline payment processing with this PHP package that ... |
-| [amondar-libs/repository-pattern](https://github.com/amondar-libs/repository-pattern) | 1 | 2026-02-13 | Laravel package to implement the repository pattern |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-13 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-13 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [r2luna/brain](https://github.com/r2luna/brain) | 54 | 2026-02-13 | Brain is an elegant Laravel Package that helps you organize ... |
-| [abetwothree/laravel-iconify-api](https://github.com/abetwothree/laravel-iconify-api) | 3 | 2026-02-13 | A package to create a local API for the dynamic Iconify icon... |
-| [verseles/progressable](https://github.com/verseles/progressable) | 10 | 2026-02-13 | A Laravel (not only) package to track and manage progress fo... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-13T12:11 | 5 | 963 | 1281 |
 | 2026-02-13T06:23 | 1 | 967 | 1276 |
 | 2026-02-13T00:25 | 2 | 966 | 1275 |
 | 2026-02-12T18:21 | 8 | 961 | 1273 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-11T18:22 | 3 | 965 | 1248 |
 | 2026-02-11T12:17 | 7 | 961 | 1245 |
 | 2026-02-11T06:26 | 2 | 966 | 1238 |
-| 2026-02-11T00:28 | 2 | 966 | 1236 |
 
 ---
 

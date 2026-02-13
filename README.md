@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1281  
-**Last updated:** 2026-02-13T12:11:39.804Z
+**Total packages tracked:** 1282  
+**Last updated:** 2026-02-13T18:15:04.353Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [bureaupartners/laravel-loki-logging](https://github.com/bureaupartners/laravel-loki-logging) | 0 | Package for logging with Loki |
 | [gladehq/laravel-event-lens](https://github.com/gladehq/laravel-event-lens) | 0 | Laravel Event Lens provides deep observability for Laravel Events and Listeners ... |
 | [Jurager/tracker](https://github.com/Jurager/tracker) | 1 | Laravel package allows you to record and store request metadata to database, suc... |
 | [danihidayatx/tenancy-starterkit](https://github.com/danihidayatx/tenancy-starterkit) | 0 | An opinionated starter kit for building multi-tenant SaaS applications with Lara... |
@@ -28,13 +29,12 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [diepxuan/laravel-scavenger](https://github.com/diepxuan/laravel-scavenger) | 1 | The integrated web scraper package for Laravel. |
 | [diepxuan/laravel-currency](https://github.com/diepxuan/laravel-currency) | 0 | A Laravel package for formatting currency in Blade. |
 | [diepxuan/laravel-support](https://github.com/diepxuan/laravel-support) | 0 | This package provides additional support and utilities for Laravel applications ... |
-| [gr8shivam/laravel-sms-api](https://github.com/gr8shivam/laravel-sms-api) | 100 | Laravel package to provide SMS API integration. |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 459 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
+| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 460 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 440 | A package to handle multilingual routes in your Laravel application. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 0 | 2026-02-13 | A Laravel package that compiles Markdown files and OpenAPI 3... |
-| [gladehq/laravel-event-lens](https://github.com/gladehq/laravel-event-lens) | 0 | 2026-02-13 | Laravel Event Lens provides deep observability for Laravel E... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 119 | 2026-02-13 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
 | [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-13 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 3 | 2026-02-13 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
+| [Oskarpok/web_dev_ulp](https://github.com/Oskarpok/web_dev_ulp) | 0 | 2026-02-13 | Laravel's universal packages are a collection of related mod... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-13 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [Magnificent-Big-J/payfast-payment](https://github.com/Magnificent-Big-J/payfast-payment) | 0 | 2026-02-13 | This is a PHP package for integrating with the PayFast.co.za... |
+| [Blaspsoft/blasp](https://github.com/Blaspsoft/blasp) | 311 | 2026-02-13 | 🤬 🚫 Blasp is a profanity filter package for Laravel that h... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-13 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [Jurager/tracker](https://github.com/Jurager/tracker) | 1 | 2026-02-13 | Laravel package allows you to record and store request metad... |
-| [laravel/roster](https://github.com/laravel/roster) | 150 | 2026-02-13 | Detect packages & approaches in use within a Laravel project |
+| [elyerrlabs/laravel-runtime](https://github.com/elyerrlabs/laravel-runtime) | 0 | 2026-02-13 | Laravel Runtime is a lightweight runtime control layer built... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-13 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-13 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-13 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 6 | 2026-02-13 | A simple content page management system with a flexible cont... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-13 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-13 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-13 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-02-13 | A Laravel package for syncing database tables and data betwe... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-13 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-13 | 💳 Streamline payment processing with this PHP package that ... |
+| [gowelle/google-moderator](https://github.com/gowelle/google-moderator) | 0 | 2026-02-13 | Laravel package for text and image moderation using Google A... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-13 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-13 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [bureaupartners/laravel-loki-logging](https://github.com/bureaupartners/laravel-loki-logging) | 0 | 2026-02-13 | Package for logging with Loki |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-13T18:15 | 1 | 967 | 1282 |
 | 2026-02-13T12:11 | 5 | 963 | 1281 |
 | 2026-02-13T06:23 | 1 | 967 | 1276 |
 | 2026-02-13T00:25 | 2 | 966 | 1275 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-12T00:23 | 4 | 964 | 1252 |
 | 2026-02-11T18:22 | 3 | 965 | 1248 |
 | 2026-02-11T12:17 | 7 | 961 | 1245 |
-| 2026-02-11T06:26 | 2 | 966 | 1238 |
 
 ---
 

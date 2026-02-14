@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1294  
-**Last updated:** 2026-02-14T12:08:14.047Z
+**Total packages tracked:** 1299  
+**Last updated:** 2026-02-14T18:07:08.710Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [rconfig/laravel-netbox-api](https://github.com/rconfig/laravel-netbox-api) | 0 | Laravel Package for the Netbox API by rConfig |
+| [x-multibyte/laravel-package](https://github.com/x-multibyte/laravel-package) | 0 |  |
+| [laratusk/larasvg](https://github.com/laratusk/larasvg) | 7 | A modern Laravel package for SVG conversion with multiple provider support. Conv... |
+| [imranwpsi/laravel-tags](https://github.com/imranwpsi/laravel-tags) | 1 | Laravel Tags Package |
+| [aftandilmmd/larapoll](https://github.com/aftandilmmd/larapoll) | 0 | Larapoll is a lightweight and flexible poll and voting package for Laravel, desi... |
 | [Jurager/passport](https://github.com/Jurager/passport) | 1 | Laravel package that simplifies single sign-on integration. |
 | [hiba-S/laravel-model-translations](https://github.com/hiba-S/laravel-model-translations) | 0 | A Laravel package that adds database-driven model translations using separate tr... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 🎨 Create eye-catching YouTube thumbnails effortlessly with this AI-driven PHP p... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [bureaupartners/laravel-loki-logging](https://github.com/bureaupartners/laravel-loki-logging) | 0 | Package for logging with Loki |
 | [gladehq/laravel-event-lens](https://github.com/gladehq/laravel-event-lens) | 0 | Laravel Event Lens provides deep observability for Laravel Events and Listeners ... |
 | [Jurager/tracker](https://github.com/Jurager/tracker) | 1 | Laravel package allows you to record and store request metadata to database, suc... |
-| [danihidayatx/tenancy-starterkit](https://github.com/danihidayatx/tenancy-starterkit) | 0 | An opinionated starter kit for building multi-tenant SaaS applications with Lara... |
-| [syftnex/laravel-security](https://github.com/syftnex/laravel-security) | 0 | Comprehensive Laravel security package protecting against SQL injection, XSS, an... |
-| [stijnvanouplines/blade-country-flags](https://github.com/stijnvanouplines/blade-country-flags) | 25 | A package to easily make use of country flags in your Laravel Blade views. |
-| [Error-Tag/ErrorTag-laravel](https://github.com/Error-Tag/ErrorTag-laravel) | 0 | ErrorTag is an error monitoring and observability platform. This package is the ... |
-| [amarneche/pinterest-laravel](https://github.com/amarneche/pinterest-laravel) | 0 | A Laravel Package that allows using Pinterest Api easily |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-14 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-14 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-14 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-14 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-14 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [aftandilmmd/larapoll](https://github.com/aftandilmmd/larapoll) | 0 | 2026-02-14 | Larapoll is a lightweight and flexible poll and voting packa... |
+| [sebastienheyd/boilerplate](https://github.com/sebastienheyd/boilerplate) | 283 | 2026-02-14 | Laravel AdminLTE 3 Boilerplate package with blade components... |
 | [Jurager/passport](https://github.com/Jurager/passport) | 1 | 2026-02-14 | Laravel package that simplifies single sign-on integration. |
-| [hiba-S/laravel-model-translations](https://github.com/hiba-S/laravel-model-translations) | 0 | 2026-02-14 | A Laravel package that adds database-driven model translatio... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-14 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [indiesystems/laravel-api-debugger](https://github.com/indiesystems/laravel-api-debugger) | 0 | 2026-02-14 | A laravel package to easily debug API requests in UI using s... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-14 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-14 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [rconfig/laravel-netbox-api](https://github.com/rconfig/laravel-netbox-api) | 0 | 2026-02-14 | Laravel Package for the Netbox API by rConfig |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-14 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-14 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-14 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-14 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-14 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [eleazarbr/redae-core](https://github.com/eleazarbr/redae-core) | 0 | 2026-02-14 | It provides a small, stable and reusable core with essential... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 0 | 2026-02-14 | Package para Laravel y facturacion |
+| [x-multibyte/laravel-package](https://github.com/x-multibyte/laravel-package) | 0 | 2026-02-14 |  |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-14 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [zfhassaan/payfast](https://github.com/zfhassaan/payfast) | 6 | 2026-02-14 | Integrate Payfast payments into your Laravel 9 | 10 | 11 | 1... |
-| [LastDragon-ru/lara-asp-documentator](https://github.com/LastDragon-ru/lara-asp-documentator) | 1 | 2026-02-14 | This package provides various utilities for documentation ge... |
-| [LastDragon-ru/lara-asp-graphql](https://github.com/LastDragon-ru/lara-asp-graphql) | 5 | 2026-02-14 | This package provides highly powerful `@searchBy` and `@sort... |
+| [laratusk/larasvg](https://github.com/laratusk/larasvg) | 7 | 2026-02-14 | A modern Laravel package for SVG conversion with multiple pr... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-14 | 💳 Streamline payment processing with this PHP package that ... |
+| [amarneche/pinterest-laravel](https://github.com/amarneche/pinterest-laravel) | 0 | 2026-02-14 | A Laravel Package that allows using Pinterest Api easily |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-14 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-14 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-14 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-14 | 📈 Access real-time cryptocurrency data easily with this PHP... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-14T18:07 | 5 | 962 | 1299 |
 | 2026-02-14T12:08 | 10 | 957 | 1294 |
 | 2026-02-14T06:15 | 1 | 967 | 1284 |
 | 2026-02-14T00:23 | 1 | 967 | 1283 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-13T00:25 | 2 | 966 | 1275 |
 | 2026-02-12T18:21 | 8 | 961 | 1273 |
 | 2026-02-12T12:15 | 10 | 959 | 1265 |
-| 2026-02-12T06:26 | 3 | 965 | 1255 |
 
 ---
 

@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1284  
-**Last updated:** 2026-02-14T06:15:34.101Z
+**Total packages tracked:** 1294  
+**Last updated:** 2026-02-14T12:08:14.047Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Jurager/passport](https://github.com/Jurager/passport) | 1 | Laravel package that simplifies single sign-on integration. |
+| [hiba-S/laravel-model-translations](https://github.com/hiba-S/laravel-model-translations) | 0 | A Laravel package that adds database-driven model translations using separate tr... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 🎨 Create eye-catching YouTube thumbnails effortlessly with this AI-driven PHP p... |
+| [zfhassaan/payfast](https://github.com/zfhassaan/payfast) | 6 | Integrate Payfast payments into your Laravel 9 | 10 | 11 | 12  app with ease usi... |
+| [sebastienheyd/boilerplate](https://github.com/sebastienheyd/boilerplate) | 283 | Laravel AdminLTE 3 Boilerplate package with blade components, users, roles and p... |
+| [x-multibyte/around](https://github.com/x-multibyte/around) | 0 | UI Package for Laravel Framework. |
+| [Safemood/discountify](https://github.com/Safemood/discountify) | 230 | Laravel package for dynamic discounts with custom conditions. |
+| [marshmallow-packages/products](https://github.com/marshmallow-packages/products) | 1 | 🎽This package handles everything that's needs to be handle when you are using p... |
+| [Mohammad1745/graphsql-laravel](https://github.com/Mohammad1745/graphsql-laravel) | 3 | PHP composer package for laravel to read data with graphql like syntax |
+| [masmaleki/laravel-nexar-graphql](https://github.com/masmaleki/laravel-nexar-graphql) | 0 | A Laravel package to interact with Nexar API using GraphQL |
 | [realodix/relax](https://github.com/realodix/relax) | 3 | 🔧 Use the same php-cs-fixer configuration across all of your projects, with pre... |
 | [Accrossan/laravel-ratchet-realtime](https://github.com/Accrossan/laravel-ratchet-realtime) | 0 | A Laravel package for websocket management. |
 | [bureaupartners/laravel-loki-logging](https://github.com/bureaupartners/laravel-loki-logging) | 0 | Package for logging with Loki |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [stijnvanouplines/blade-country-flags](https://github.com/stijnvanouplines/blade-country-flags) | 25 | A package to easily make use of country flags in your Laravel Blade views. |
 | [Error-Tag/ErrorTag-laravel](https://github.com/Error-Tag/ErrorTag-laravel) | 0 | ErrorTag is an error monitoring and observability platform. This package is the ... |
 | [amarneche/pinterest-laravel](https://github.com/amarneche/pinterest-laravel) | 0 | A Laravel Package that allows using Pinterest Api easily |
-| [AMI-Praha-a-s/ai-text-tool](https://github.com/AMI-Praha-a-s/ai-text-tool) | 0 | Laravel package for AI-powered text operations backed by the Laravel AI SDK. |
-| [akira-io/laravel-licence-api](https://github.com/akira-io/laravel-licence-api) | 3 | RESTful API package for laravel-license-core. Provides complete API endpoints fo... |
-| [mahmoodbarzegar/laravel-visitor-analytics](https://github.com/mahmoodbarzegar/laravel-visitor-analytics) | 0 | A lightweight, self-hosted, and privacy-focused visitor tracking package for Lar... |
-| [kakaprodo/payment-subscription](https://github.com/kakaprodo/payment-subscription) | 1 | A Laravel package for managing both fixed and pay-as-you-go subscription plans |
-| [Pijler/laravel-modules](https://github.com/Pijler/laravel-modules) | 3 | Simple package for organizing Laravel projects using modules. |
-| [aslnbxrz/simple-exception](https://github.com/aslnbxrz/simple-exception) | 1 | A comprehensive exception handling package for Laravel |
-| [goedemiddag/request-response-log](https://github.com/goedemiddag/request-response-log) | 1 | Package for logging (external) requests and the responses in laravel |
-| [akira-io/laravel-pdf-invoices](https://github.com/akira-io/laravel-pdf-invoices) | 34 | A modern, strictly typed, and extensible invoice generator for Laravel 12+ built... |
-| [akira-io/sisp-core](https://github.com/akira-io/sisp-core) | 1 | Is a headless, framework-agnostic Laravel 12+ package for integrating the SISP (... |
-| [diepxuan/laravel-scavenger](https://github.com/diepxuan/laravel-scavenger) | 1 | The integrated web scraper package for Laravel. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -52,33 +52,33 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Blaspsoft/blasp](https://github.com/Blaspsoft/blasp) | 311 | 🤬 🚫 Blasp is a profanity filter package for Laravel that helps detect and mask... |
 | [stefro/laravel-lang-country](https://github.com/stefro/laravel-lang-country) | 299 | Setting the locale is not enough most of the time, some countries use more than ... |
 | [kolossal-io/laravel-multiplex](https://github.com/kolossal-io/laravel-multiplex) | 291 | A Laravel package to attach time-sliced meta data to Eloquent models. |
+| [sebastienheyd/boilerplate](https://github.com/sebastienheyd/boilerplate) | 283 | Laravel AdminLTE 3 Boilerplate package with blade components, users, roles and p... |
 | [cjmellor/browser-sessions](https://github.com/cjmellor/browser-sessions) | 269 | A Laravel package to enable users to manage and monitor their active browser ses... |
-| [tonysm/tailwindcss-laravel](https://github.com/tonysm/tailwindcss-laravel) | 265 | This package wraps up the standalone executable version of the Tailwind CSS fram... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-14 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 0 | 2026-02-14 | 💳 Streamline payment processing with this PHP package that ... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-14 | 💳 Streamline payment processing with this PHP package that ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-14 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [r2luna/brain](https://github.com/r2luna/brain) | 55 | 2026-02-14 | Brain is an elegant Laravel Package that helps you organize ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-14 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [realodix/relax](https://github.com/realodix/relax) | 3 | 2026-02-14 | 🔧 Use the same php-cs-fixer configuration across all of you... |
 | [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-14 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-14 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [Jurager/passport](https://github.com/Jurager/passport) | 1 | 2026-02-14 | Laravel package that simplifies single sign-on integration. |
+| [hiba-S/laravel-model-translations](https://github.com/hiba-S/laravel-model-translations) | 0 | 2026-02-14 | A Laravel package that adds database-driven model translatio... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-14 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-14 | ShieldCI Laravel Package - Open-source static analysis and s... |
+| [indiesystems/laravel-api-debugger](https://github.com/indiesystems/laravel-api-debugger) | 0 | 2026-02-14 | A laravel package to easily debug API requests in UI using s... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-14 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-14 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-14 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-14 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-14 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-14 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-14 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-14 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-02-14 | The Moox Project - Packages for Filament and Laravel |
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-14 | A conlang dictionary Laravel package - the luxurious way to ... |
-| [verseles/progressable](https://github.com/verseles/progressable) | 10 | 2026-02-14 | A Laravel (not only) package to track and manage progress fo... |
-| [verseles/Possession](https://github.com/verseles/Possession) | 2 | 2026-02-14 | Laravel user impersonation package with Sanctum compatibilit... |
+| [zfhassaan/payfast](https://github.com/zfhassaan/payfast) | 6 | 2026-02-14 | Integrate Payfast payments into your Laravel 9 | 10 | 11 | 1... |
+| [LastDragon-ru/lara-asp-documentator](https://github.com/LastDragon-ru/lara-asp-documentator) | 1 | 2026-02-14 | This package provides various utilities for documentation ge... |
+| [LastDragon-ru/lara-asp-graphql](https://github.com/LastDragon-ru/lara-asp-graphql) | 5 | 2026-02-14 | This package provides highly powerful `@searchBy` and `@sort... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-14T12:08 | 10 | 957 | 1294 |
 | 2026-02-14T06:15 | 1 | 967 | 1284 |
 | 2026-02-14T00:23 | 1 | 967 | 1283 |
 | 2026-02-13T18:15 | 1 | 967 | 1282 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-12T18:21 | 8 | 961 | 1273 |
 | 2026-02-12T12:15 | 10 | 959 | 1265 |
 | 2026-02-12T06:26 | 3 | 965 | 1255 |
-| 2026-02-12T00:23 | 4 | 964 | 1252 |
 
 ---
 

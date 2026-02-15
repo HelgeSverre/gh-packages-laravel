@@ -2,16 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1299  
-**Last updated:** 2026-02-14T18:07:08.710Z
+**Total packages tracked:** 1304  
+**Last updated:** 2026-02-15T00:24:26.882Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Jord-JD/PhantomJS-Laravel-Testing](https://github.com/Jord-JD/PhantomJS-Laravel-Testing) | 4 | The PhantomJS Laravel Testing package allows you to easily test your Laravel app... |
+| [Jord-JD/laravel-multiple-choice](https://github.com/Jord-JD/laravel-multiple-choice) | 12 | Package that provides multiple choice questions and answers |
+| [zappzerapp/AI-Benchmark-Laravel-Package-Generation](https://github.com/zappzerapp/AI-Benchmark-Laravel-Package-Generation) | 0 |  |
+| [wyxos/laravel-mail-provision](https://github.com/wyxos/laravel-mail-provision) | 0 | Laravel package to provision SparkPost sending/tracking domains and Cloudflare D... |
+| [aftandilmmd/larapoll1](https://github.com/aftandilmmd/larapoll1) | 0 | Larapoll is a lightweight and flexible poll and voting package for Laravel, desi... |
 | [rconfig/laravel-netbox-api](https://github.com/rconfig/laravel-netbox-api) | 0 | Laravel Package for the Netbox API by rConfig |
 | [x-multibyte/laravel-package](https://github.com/x-multibyte/laravel-package) | 0 |  |
-| [laratusk/larasvg](https://github.com/laratusk/larasvg) | 7 | A modern Laravel package for SVG conversion with multiple provider support. Conv... |
+| [laratusk/larasvg](https://github.com/laratusk/larasvg) | 9 | A modern Laravel package for SVG conversion with multiple provider support. Conv... |
 | [imranwpsi/laravel-tags](https://github.com/imranwpsi/laravel-tags) | 1 | Laravel Tags Package |
 | [aftandilmmd/larapoll](https://github.com/aftandilmmd/larapoll) | 0 | Larapoll is a lightweight and flexible poll and voting package for Laravel, desi... |
 | [Jurager/passport](https://github.com/Jurager/passport) | 1 | Laravel package that simplifies single sign-on integration. |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [marshmallow-packages/products](https://github.com/marshmallow-packages/products) | 1 | 🎽This package handles everything that's needs to be handle when you are using p... |
 | [Mohammad1745/graphsql-laravel](https://github.com/Mohammad1745/graphsql-laravel) | 3 | PHP composer package for laravel to read data with graphql like syntax |
 | [masmaleki/laravel-nexar-graphql](https://github.com/masmaleki/laravel-nexar-graphql) | 0 | A Laravel package to interact with Nexar API using GraphQL |
-| [realodix/relax](https://github.com/realodix/relax) | 3 | 🔧 Use the same php-cs-fixer configuration across all of your projects, with pre... |
-| [Accrossan/laravel-ratchet-realtime](https://github.com/Accrossan/laravel-ratchet-realtime) | 0 | A Laravel package for websocket management. |
-| [bureaupartners/laravel-loki-logging](https://github.com/bureaupartners/laravel-loki-logging) | 0 | Package for logging with Loki |
-| [gladehq/laravel-event-lens](https://github.com/gladehq/laravel-event-lens) | 0 | Laravel Event Lens provides deep observability for Laravel Events and Listeners ... |
-| [Jurager/tracker](https://github.com/Jurager/tracker) | 1 | Laravel package allows you to record and store request metadata to database, suc... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [aftandilmmd/larapoll](https://github.com/aftandilmmd/larapoll) | 0 | 2026-02-14 | Larapoll is a lightweight and flexible poll and voting packa... |
-| [sebastienheyd/boilerplate](https://github.com/sebastienheyd/boilerplate) | 283 | 2026-02-14 | Laravel AdminLTE 3 Boilerplate package with blade components... |
-| [Jurager/passport](https://github.com/Jurager/passport) | 1 | 2026-02-14 | Laravel package that simplifies single sign-on integration. |
+| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | 2026-02-15 | An opinionated Laravel package for handling payments, batter... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-14 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-14 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-14 | A conlang dictionary Laravel package - the luxurious way to ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-14 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [Jord-JD/PhantomJS-Laravel-Testing](https://github.com/Jord-JD/PhantomJS-Laravel-Testing) | 4 | 2026-02-14 | The PhantomJS Laravel Testing package allows you to easily t... |
+| [Jord-JD/laravel-multiple-choice](https://github.com/Jord-JD/laravel-multiple-choice) | 12 | 2026-02-14 | Package that provides multiple choice questions and answers |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-14 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-14 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [rconfig/laravel-netbox-api](https://github.com/rconfig/laravel-netbox-api) | 0 | 2026-02-14 | Laravel Package for the Netbox API by rConfig |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-14 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-14 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-14 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-14 | Empower your users with a modern, intuitive visual editor. T... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-14 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [eleazarbr/redae-core](https://github.com/eleazarbr/redae-core) | 0 | 2026-02-14 | It provides a small, stable and reusable core with essential... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 0 | 2026-02-14 | Package para Laravel y facturacion |
-| [x-multibyte/laravel-package](https://github.com/x-multibyte/laravel-package) | 0 | 2026-02-14 |  |
+| [laratusk/larasvg](https://github.com/laratusk/larasvg) | 9 | 2026-02-14 | A modern Laravel package for SVG conversion with multiple pr... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-14 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [laratusk/larasvg](https://github.com/laratusk/larasvg) | 7 | 2026-02-14 | A modern Laravel package for SVG conversion with multiple pr... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-14 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-14 | 💳 Streamline payment processing with this PHP package that ... |
-| [amarneche/pinterest-laravel](https://github.com/amarneche/pinterest-laravel) | 0 | 2026-02-14 | A Laravel Package that allows using Pinterest Api easily |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-14 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-14 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-14 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-14 | 📈 Access real-time cryptocurrency data easily with this PHP... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-15T00:24 | 5 | 962 | 1304 |
 | 2026-02-14T18:07 | 5 | 962 | 1299 |
 | 2026-02-14T12:08 | 10 | 957 | 1294 |
 | 2026-02-14T06:15 | 1 | 967 | 1284 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-13T06:23 | 1 | 967 | 1276 |
 | 2026-02-13T00:25 | 2 | 966 | 1275 |
 | 2026-02-12T18:21 | 8 | 961 | 1273 |
-| 2026-02-12T12:15 | 10 | 959 | 1265 |
 
 ---
 

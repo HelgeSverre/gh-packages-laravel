@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1317  
-**Last updated:** 2026-02-16T06:25:33.349Z
+**Total packages tracked:** 1324  
+**Last updated:** 2026-02-16T12:13:58.432Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [omarchouman/lara-util-x](https://github.com/omarchouman/lara-util-x) | 165 | Lightweight Laravel utility package that provides helpful tools and shortcuts to... |
+| [almani007/laravel-xero](https://github.com/almani007/laravel-xero) | 0 | Laravel package to integrate Xero Accounting API |
+| [classiebit/eventmie-pro-docs](https://github.com/classiebit/eventmie-pro-docs) | 18 | Eventmie Pro - PHP Script – Self-hosted multi-organization (multi-vendor)  event... |
+| [cdoebler/laravel-user-switcher](https://github.com/cdoebler/laravel-user-switcher) | 0 | Laravel package for fast user switching based on the generic user switcher packa... |
+| [Uzziahlukeka/maisha-pay](https://github.com/Uzziahlukeka/maisha-pay) | 0 | This is a package allowing easy integration of maishapay.net gateway payment |
+| [sattip/sweat24-laravel-backend](https://github.com/sattip/sweat24-laravel-backend) | 0 | SWEAT24 Gym Management System - Laravel Backend API with Sanctum Authentication,... |
+| [frolaxhq/laravel-payments](https://github.com/frolaxhq/laravel-payments) | 0 | A comprehensive payment processing package for Laravel, supporting multiple gate... |
 | [vaslv/laravel-settings](https://github.com/vaslv/laravel-settings) | 0 | Reusable Laravel package for storing typed settings in the database with caching... |
 | [tasmir/activity-tracker](https://github.com/tasmir/activity-tracker) | 0 | A powerful, standalone Laravel package to automatically track and log user activ... |
 | [jobmetric/laravel-extension](https://github.com/jobmetric/laravel-extension) | 6 | This is a plugins management package for Laravel that you can use in your projec... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rohitshakyaa/repository-generator](https://github.com/rohitshakyaa/repository-generator) | 3 | Laravel package to generate repositories with automatic interface and service pr... |
 | [BohudurOne/LaravelSDK](https://github.com/BohudurOne/LaravelSDK) | 0 | Integrate Bohudur in your Laravel website using our Laravel Package easily. |
 | [Jaikumar0101/laravel-livewire-editor-input](https://github.com/Jaikumar0101/laravel-livewire-editor-input) | 1 | This package is used to build the editor inputs that can be used in your forms o... |
-| [Jord-JD/PhantomJS-Laravel-Testing](https://github.com/Jord-JD/PhantomJS-Laravel-Testing) | 4 | The PhantomJS Laravel Testing package allows you to easily test your Laravel app... |
-| [Jord-JD/laravel-multiple-choice](https://github.com/Jord-JD/laravel-multiple-choice) | 12 | Package that provides multiple choice questions and answers |
-| [zappzerapp/AI-Benchmark-Laravel-Package-Generation](https://github.com/zappzerapp/AI-Benchmark-Laravel-Package-Generation) | 0 |  |
-| [wyxos/laravel-mail-provision](https://github.com/wyxos/laravel-mail-provision) | 0 | Laravel package to provision SparkPost sending/tracking domains and Cloudflare D... |
-| [aftandilmmd/larapoll1](https://github.com/aftandilmmd/larapoll1) | 0 | Larapoll is a lightweight and flexible poll and voting package for Laravel, desi... |
-| [rconfig/laravel-netbox-api](https://github.com/rconfig/laravel-netbox-api) | 0 | Laravel Package for the Netbox API by rConfig |
-| [x-multibyte/laravel-package](https://github.com/x-multibyte/laravel-package) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-16 | A conlang dictionary Laravel package - the luxurious way to ... |
-| [laratusk/larasvg](https://github.com/laratusk/larasvg) | 23 | 2026-02-16 | A modern Laravel package for SVG conversion with multiple pr... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-16 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-16 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 7 | 2026-02-16 | Laravel Pesapal is a Laravel package designed to facilitate ... |
-| [vaslv/laravel-settings](https://github.com/vaslv/laravel-settings) | 0 | 2026-02-16 | Reusable Laravel package for storing typed settings in the d... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-16 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-02-16 | A Laravel Package providing seamless integration for the wun... |
-| [mzaman/laravel-api-response](https://github.com/mzaman/laravel-api-response) | 0 | 2026-02-16 | A flexible and scalable API response handling package for La... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-16 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 0 | 2026-02-16 | Package para Laravel y facturacion |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-16 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-02-16 | A foundational package providing base classes and utilities ... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-16 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-16 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-16 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [sowailem/Ownable](https://github.com/sowailem/Ownable) | 70 | 2026-02-16 | A powerful Laravel package to handle ownership relationships... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-16 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [laraditz/whatsapp](https://github.com/laraditz/whatsapp) | 0 | 2026-02-16 | A comprehensive Laravel package for seamless integration wit... |
+| [KalimeroMK/RssFeed](https://github.com/KalimeroMK/RssFeed) | 3 | 2026-02-16 | This package provides an easy way to parse RSS feeds and sav... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-16 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-02-16 | An event sourcing laravel package, complete with all the ess... |
-| [salaheldeen911/Laravel-Custom-Fields-Test-App](https://github.com/salaheldeen911/Laravel-Custom-Fields-Test-App) | 0 | 2026-02-16 | Testing Laraval-Custom-Fields Package |
+| [irabbi360/laravel-api-inspector](https://github.com/irabbi360/laravel-api-inspector) | 23 | 2026-02-16 | A Laravel package to enable auto API documentation generate ... |
+| [almani007/laravel-xero](https://github.com/almani007/laravel-xero) | 0 | 2026-02-16 | Laravel package to integrate Xero Accounting API |
+| [EscuelaIt/laravel-api-kit](https://github.com/EscuelaIt/laravel-api-kit) | 0 | 2026-02-16 | Utilities to create consistent APIs in Laravel. |
+| [hybridgram/tgbot-laravel](https://github.com/hybridgram/tgbot-laravel) | 4 | 2026-02-16 | Super fast and easy to use package for Laravel to build Tele... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-16 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [tasmir/activity-tracker](https://github.com/tasmir/activity-tracker) | 0 | 2026-02-16 | A powerful, standalone Laravel package to automatically trac... |
+| [Jurager/tracker](https://github.com/Jurager/tracker) | 1 | 2026-02-16 | Laravel package allows you to record and store request metad... |
+| [classiebit/eventmie-pro-docs](https://github.com/classiebit/eventmie-pro-docs) | 18 | 2026-02-16 | Eventmie Pro - PHP Script – Self-hosted multi-organization (... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-16 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-16 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-16 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Oskarpok/web_dev_ulp](https://github.com/Oskarpok/web_dev_ulp) | 0 | 2026-02-16 | Laravel's universal packages are a collection of related mod... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-16T12:13 | 7 | 959 | 1324 |
 | 2026-02-16T06:25 | 2 | 964 | 1317 |
 | 2026-02-16T00:23 | 2 | 965 | 1315 |
 | 2026-02-15T18:08 | 1 | 966 | 1313 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-14T18:07 | 5 | 962 | 1299 |
 | 2026-02-14T12:08 | 10 | 957 | 1294 |
 | 2026-02-14T06:15 | 1 | 967 | 1284 |
-| 2026-02-14T00:23 | 1 | 967 | 1283 |
 
 ---
 

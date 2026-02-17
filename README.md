@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1332  
-**Last updated:** 2026-02-16T18:13:00.861Z
+**Total packages tracked:** 1337  
+**Last updated:** 2026-02-17T00:24:27.081Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Williamug/laravel-permitted](https://github.com/Williamug/laravel-permitted) | 0 | A powerful, flexible Laravel package for managing roles and permissions with bui... |
+| [efrainpb/laravel-rabbitmq-event-driven](https://github.com/efrainpb/laravel-rabbitmq-event-driven) | 0 | A Laravel package for event-driven messaging with RabbitMQ using topic exchanges... |
+| [blemli/blade-blemlicons](https://github.com/blemli/blade-blemlicons) | 0 | A package to easily make use of [Blemlicons](https://github.com/blemli/blemlicon... |
+| [naykel76/contactit](https://github.com/naykel76/contactit) | 0 | Simple contact package for NayKel Laravel Applications |
+| [Tor2r/laravel-poweroffice-api](https://github.com/Tor2r/laravel-poweroffice-api) | 0 | Laravel package for PowerOffice API |
 | [jeffersongoncalves/laravel-satis](https://github.com/jeffersongoncalves/laravel-satis) | 1 | A Laravel package for managing private Composer repositories powered by Satis. |
 | [aswathisuma/laravel-contact-form-package](https://github.com/aswathisuma/laravel-contact-form-package) | 0 | Reusable Laravel package providing contact form with JWT authentication, admin d... |
 | [jeffersongoncalves/filament-matomo](https://github.com/jeffersongoncalves/filament-matomo) | 3 | A simple and elegant Laravel package that seamlessly integrates Matomo Analytics... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Uzziahlukeka/maisha-pay](https://github.com/Uzziahlukeka/maisha-pay) | 0 | This is a package allowing easy integration of maishapay.net gateway payment |
 | [sattip/sweat24-laravel-backend](https://github.com/sattip/sweat24-laravel-backend) | 0 | SWEAT24 Gym Management System - Laravel Backend API with Sanctum Authentication,... |
 | [frolaxhq/laravel-payments](https://github.com/frolaxhq/laravel-payments) | 0 | A comprehensive payment processing package for Laravel, supporting multiple gate... |
-| [vaslv/laravel-settings](https://github.com/vaslv/laravel-settings) | 0 | Reusable Laravel package for storing typed settings in the database with caching... |
-| [tasmir/activity-tracker](https://github.com/tasmir/activity-tracker) | 0 | A powerful, standalone Laravel package to automatically track and log user activ... |
-| [jobmetric/laravel-extension](https://github.com/jobmetric/laravel-extension) | 6 | This is a plugins management package for Laravel that you can use in your projec... |
-| [cc-consulting-nv/laravel-cc-blog](https://github.com/cc-consulting-nv/laravel-cc-blog) | 0 | Reusable Laravel package for CC Platform blog integration with Filament admin, T... |
-| [sowailem/Ownable](https://github.com/sowailem/Ownable) | 70 | A powerful Laravel package to handle ownership relationships between Eloquent mo... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -49,7 +49,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [laravel/nightwatch](https://github.com/laravel/nightwatch) | 343 | The official Laravel Nightwatch package. |
 | [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server) | 329 | A Laravel package for implementing secure Model Context Protocol servers using S... |
 | [tzsk/sms](https://github.com/tzsk/sms) | 318 | Laravel SMS Gateway Integration Package |
-| [Blaspsoft/blasp](https://github.com/Blaspsoft/blasp) | 311 | 🤬 🚫 Blasp is a profanity filter package for Laravel that helps detect and mask... |
+| [Blaspsoft/blasp](https://github.com/Blaspsoft/blasp) | 312 | 🤬 🚫 Blasp is a profanity filter package for Laravel that helps detect and mask... |
 | [stefro/laravel-lang-country](https://github.com/stefro/laravel-lang-country) | 299 | Setting the locale is not enough most of the time, some countries use more than ... |
 | [kolossal-io/laravel-multiplex](https://github.com/kolossal-io/laravel-multiplex) | 291 | A Laravel package to attach time-sliced meta data to Eloquent models. |
 | [sebastienheyd/boilerplate](https://github.com/sebastienheyd/boilerplate) | 284 | Laravel AdminLTE 3 Boilerplate package with blade components, users, roles and p... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/laravel-satis](https://github.com/jeffersongoncalves/laravel-satis) | 1 | 2026-02-16 | A Laravel package for managing private Composer repositories... |
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-16 | A conlang dictionary Laravel package - the luxurious way to ... |
+| [imanghafoori1/laravel-microscope-tester](https://github.com/imanghafoori1/laravel-microscope-tester) | 0 | 2026-02-17 | This Laravel app is intended to provide a realistic environm... |
+| [Oskarpok/web_dev_ulp](https://github.com/Oskarpok/web_dev_ulp) | 0 | 2026-02-17 | Laravel's universal packages are a collection of related mod... |
+| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-02-16 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-16 | Empower your users with a modern, intuitive visual editor. T... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-16 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-16 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 343 | 2026-02-16 | The official Laravel Nightwatch package. |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-16 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [monkeysoftnl/laravel-sitesmonkey](https://github.com/monkeysoftnl/laravel-sitesmonkey) | 0 | 2026-02-16 | Laravel Package for SitesMonkey monitoring |
-| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-02-16 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [cc-consulting-nv/laravel-cc-blog](https://github.com/cc-consulting-nv/laravel-cc-blog) | 0 | 2026-02-16 | Reusable Laravel package for CC Platform blog integration wi... |
+| [tzsk/sms](https://github.com/tzsk/sms) | 318 | 2026-02-16 | Laravel SMS Gateway Integration Package |
+| [simone-bianco/laravel-dedup-media](https://github.com/simone-bianco/laravel-dedup-media) | 0 | 2026-02-16 | Package to handle media storage without duplicated files |
+| [verseles/progressable](https://github.com/verseles/progressable) | 12 | 2026-02-16 | A Laravel (not only) package to track and manage progress fo... |
+| [verseles/Possession](https://github.com/verseles/Possession) | 4 | 2026-02-16 | Laravel user impersonation package with Sanctum compatibilit... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-16 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-02-16 | Laravel Paystack is a Laravel package that integrates the Pa... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-16 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-16 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-16 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-16 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-16 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-16 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-16 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-16 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-16 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [vaslv/laravel-settings](https://github.com/vaslv/laravel-settings) | 0 | 2026-02-16 | Reusable Laravel package for storing typed settings in the d... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-16 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [sowailem/Ownable](https://github.com/sowailem/Ownable) | 70 | 2026-02-16 | A powerful Laravel package to handle ownership relationships... |
-| [aswathisuma/laravel-contact-form-package](https://github.com/aswathisuma/laravel-contact-form-package) | 0 | 2026-02-16 | Reusable Laravel package providing contact form with JWT aut... |
+| [Williamug/laravel-permitted](https://github.com/Williamug/laravel-permitted) | 0 | 2026-02-16 | A powerful, flexible Laravel package for managing roles and ... |
+| [statikbe/laravel-filament-flexible-blocks-asset-manager](https://github.com/statikbe/laravel-filament-flexible-blocks-asset-manager) | 1 | 2026-02-16 | A simple document and image manager for the Filament Flexibl... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-17T00:24 | 5 | 960 | 1337 |
 | 2026-02-16T18:13 | 8 | 957 | 1332 |
 | 2026-02-16T12:13 | 7 | 959 | 1324 |
 | 2026-02-16T06:25 | 2 | 964 | 1317 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-15T06:19 | 4 | 963 | 1308 |
 | 2026-02-15T00:24 | 5 | 962 | 1304 |
 | 2026-02-14T18:07 | 5 | 962 | 1299 |
-| 2026-02-14T12:08 | 10 | 957 | 1294 |
 
 ---
 

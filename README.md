@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 1355  
-**Last updated:** 2026-02-18T00:24:06.102Z
+**Total packages tracked:** 1360  
+**Last updated:** 2026-02-18T06:24:54.379Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [avto-dev/extended-laravel-validator](https://github.com/avto-dev/extended-laravel-validator) | 3 | Extended validation rules for Laravel applications |
+| [TamirRental/laravel-text-extractor](https://github.com/TamirRental/laravel-text-extractor) | 0 | Laravel package for extracting text from documents and images (OCR) using plugga... |
+| [xcopy/laravel-contacts](https://github.com/xcopy/laravel-contacts) | 0 | A simple Laravel package for managing polymorphic contact information for any El... |
+| [tlyshortener/t.ly-laravel-url-shortener-api](https://github.com/tlyshortener/t.ly-laravel-url-shortener-api) | 0 | T.LY URL Shortener Package for Laravel |
+| [jeffersongoncalves/laravel-knowledge-base](https://github.com/jeffersongoncalves/laravel-knowledge-base) | 3 | A Laravel package for building knowledge bases with articles, categories, versio... |
 | [Turtlebytes-LLC/contact-form](https://github.com/Turtlebytes-LLC/contact-form) | 0 | Laravel contact form package with spam scoring, status workflows, and optional F... |
 | [henryejemuta/laravel-vtpass](https://github.com/henryejemuta/laravel-vtpass) | 4 | Laravel Package for the VTpass API; A bills payment platform for Nigerians. |
 | [Turtlebytes-LLC/spam-guard](https://github.com/Turtlebytes-LLC/spam-guard) | 0 | Laravel spam detection package with scoring, learned patterns, and extensible ru... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [foxws/laravel-ab-av1](https://github.com/foxws/laravel-ab-av1) | 1 | A Laravel package for encoding videos to AV1 format using ab-av1. |
 | [akikadigital/laravel-momo](https://github.com/akikadigital/laravel-momo) | 0 | Laravel package for  MTN Mobile Money platform (MoMo) |
 | [Schoolees/schoolees-psgc.package](https://github.com/Schoolees/schoolees-psgc.package) | 0 | A Laravel package for handling Philippine Standard Geographic Code (PSGC) data i... |
-| [dotsplatform/glovo-laas-api-sdk-laravel](https://github.com/dotsplatform/glovo-laas-api-sdk-laravel) | 0 | This a laravel package for Glovo Laas API - https://logistics-docs.glovoapp.com/... |
-| [TheCapybaRalph/laravel-tripwire](https://github.com/TheCapybaRalph/laravel-tripwire) | 0 | A lightweight Laravel package that monitors critical files for unexpected change... |
-| [Kbeaud11/laravel-cloud-tracker](https://github.com/Kbeaud11/laravel-cloud-tracker) | 0 | A Laravel package for tracking usage-based infrastructure costs per model in Lar... |
-| [Williamug/laravel-permitted](https://github.com/Williamug/laravel-permitted) | 0 | A powerful, flexible Laravel package for managing roles and permissions with bui... |
-| [efrainpb/laravel-rabbitmq-event-driven](https://github.com/efrainpb/laravel-rabbitmq-event-driven) | 0 | A Laravel package for event-driven messaging with RabbitMQ using topic exchanges... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 84 | 2026-02-18 | A package to easily make use of Lucide Icons in your Laravel... |
-| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 2 | 2026-02-18 | Laravel package for interacting with Traccar api |
+| [xentral/laravel-api](https://github.com/xentral/laravel-api) | 3 | 2026-02-18 |  A laravel package which contains a sophisticated API workfl... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-18 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [TamirRental/laravel-text-extractor](https://github.com/TamirRental/laravel-text-extractor) | 0 | 2026-02-18 | Laravel package for extracting text from documents and image... |
+| [jonesrussell/northcloud-laravel](https://github.com/jonesrussell/northcloud-laravel) | 0 | 2026-02-18 | Shared Laravel package for North Cloud article ingestion via... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-18 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-18 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-18 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-18 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-18 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [avto-dev/extended-laravel-validator](https://github.com/avto-dev/extended-laravel-validator) | 3 | 2026-02-18 | Extended validation rules for Laravel applications |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 0 | 2026-02-18 | ShieldCI Laravel Package - Open-source static analysis and s... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [Uzziahlukeka/maisha-pay](https://github.com/Uzziahlukeka/maisha-pay) | 0 | 2026-02-18 | This is a package allowing easy integration of maishapay.net... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-18 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-18 | 💳 Streamline payment processing with this PHP package that ... |
-| [devuni-cz/notifier-package](https://github.com/devuni-cz/notifier-package) | 2 | 2026-02-18 | A Laravel 12 package for automated database backups and noti... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-17 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-17 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [jeffersongoncalves/laravel-satis](https://github.com/jeffersongoncalves/laravel-satis) | 1 | 2026-02-17 | A Laravel package for managing private Composer repositories... |
-| [Turtlebytes-LLC/contact-form](https://github.com/Turtlebytes-LLC/contact-form) | 0 | 2026-02-17 | Laravel contact form package with spam scoring, status workf... |
-| [Turtlebytes-LLC/spam-guard](https://github.com/Turtlebytes-LLC/spam-guard) | 0 | 2026-02-17 | Laravel spam detection package with scoring, learned pattern... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-17 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-17 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 318 | 2026-02-17 | Laravel SMS Gateway Integration Package |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-17 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-17 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 343 | 2026-02-17 | The official Laravel Nightwatch package. |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-17 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-17 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-18 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-18 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-18 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [nickklein/habits](https://github.com/nickklein/habits) | 0 | 2026-02-18 | Laravel package for personal habits + stats |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-18 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-18T06:24 | 5 | 960 | 1360 |
 | 2026-02-18T00:24 | 7 | 958 | 1355 |
 | 2026-02-17T18:20 | 3 | 962 | 1348 |
 | 2026-02-17T12:13 | 6 | 959 | 1345 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-16T12:13 | 7 | 959 | 1324 |
 | 2026-02-16T06:25 | 2 | 964 | 1317 |
 | 2026-02-16T00:23 | 2 | 965 | 1315 |
-| 2026-02-15T18:08 | 1 | 966 | 1313 |
 
 ---
 

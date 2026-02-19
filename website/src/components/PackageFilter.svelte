@@ -81,7 +81,7 @@
                 <span class="w-3 h-3 rounded-full bg-red-500"></span>
                 <span class="w-3 h-3 rounded-full bg-yellow-500"></span>
                 <span class="w-3 h-3 rounded-full bg-green-500"></span>
-                <span class="ml-2 text-zinc-500 text-xs">package-finder</span>
+                <span class="ml-2 text-zinc-400 text-xs">package-finder</span>
                 <a
                         aria-label="GitHub Repository"
                         href="https://github.com/HelgeSverre/gh-packages-laravel"
@@ -100,10 +100,10 @@
             >
                 <span class="text-green-400">$</span>
                 <span class="text-yellow-300">find</span>
-                <span class="text-zinc-500">packages</span>
+                <span class="text-zinc-400">packages</span>
                 <span class="text-pink-400">--sort</span><span class="text-zinc-400"
             >=</span
-            ><select bind:value={sort} class="cmd-select">
+            ><select bind:value={sort} class="cmd-select" aria-label="Sort order">
                 <option value="discovered">discovered</option>
                 <option value="stars">stars</option>
                 <option value="updated">updated</option>
@@ -115,6 +115,7 @@
                     type="number"
                     bind:value={minStars}
                     class="cmd-input w-12"
+                    aria-label="Minimum stars"
             />
                 <span class="text-pink-400">--max-stars</span><span class="text-zinc-400"
             >=</span
@@ -122,6 +123,7 @@
                     type="number"
                     bind:value={maxStars}
                     class="cmd-input w-12"
+                    aria-label="Maximum stars"
             />
                 <span class="text-pink-400">--search</span><span class="text-zinc-400"
             >=</span
@@ -130,6 +132,7 @@
                     bind:value={search}
                     placeholder="search..."
                     class="cmd-input w-32"
+                    aria-label="Search packages"
             /><span class="text-cyan-300">"</span>
             </div>
         </div>
@@ -148,13 +151,13 @@
                     class="group flex flex-col p-5 bg-white rounded-xl shadow-sm  hover:shadow-md transition-shadow border border-zinc-200  overflow-hidden"
             >
                 <div class="flex items-start justify-between gap-2">
-                    <h3
-                            class="font-semibold text-zinc-900 group-hover:text-yellow-600 transition truncate"
+                    <h2
+                            class="font-semibold text-zinc-900 group-hover:text-yellow-600 transition truncate text-base"
                     >
                         {pkg.name}
-                    </h3>
+                    </h2>
                     <span
-                            class="flex items-center gap-1 text-sm text-zinc-400 whitespace-nowrap"
+                            class="flex items-center gap-1 text-sm text-zinc-500 whitespace-nowrap"
                     >
             <svg
                     class="w-4 h-4 text-yellow-400"
@@ -172,7 +175,7 @@
                     {#if pkg.description}
                         {pkg.description}
                     {:else}
-                        <span class="italic text-zinc-400">No description</span>
+                        <span class="italic text-zinc-500">No description</span>
                     {/if}
                 </p>
                 <div class="mt-3 flex flex-wrap gap-1">
@@ -183,7 +186,7 @@
             >
                     {/each}
                 </div>
-                <div class="mt-3 text-xs text-zinc-400">
+                <div class="mt-3 text-xs text-zinc-500">
                     Updated {timeAgo(pkg.pushed_at)}
                 </div>
             </a>

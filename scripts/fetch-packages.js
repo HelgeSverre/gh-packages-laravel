@@ -3,16 +3,30 @@ const path = require("path");
 
 const PACKAGES_FILE = path.join(__dirname, "..", "data", "packages.json");
 const STATS_FILE = path.join(__dirname, "..", "data", "stats.json");
+const ARCHIVED_FILE = path.join(__dirname, "..", "data", "archived.json");
 
 // Minimum stars to include (filter out empty repos)
 const MIN_STARS = 0;
 // Maximum stars (we want undiscovered gems, not already-popular ones)
 const MAX_STARS = 500;
-// Pages to fetch (100 per page, 10 pages = 1000 repos)
-const PAGES_TO_FETCH = 10;
+// Stale package archiving
+const STALE_THRESHOLD_DAYS = 365;
+const MAX_ARCHIVE_PER_RUN = 10;
 
-async function fetchPage(page) {
-  const url = `https://api.github.com/search/repositories?q=laravel+package+language:PHP&sort=updated&order=desc&per_page=100&page=${page}`;
+// Multiple search queries for broader coverage
+const SEARCH_QUERIES = [
+  // Original broad query
+  { q: "laravel+package+language:PHP", pages: 10 },
+  // Topic-based discovery (catches well-tagged repos the keyword search misses)
+  { q: "topic:laravel-package+language:PHP", pages: 5 },
+  // Filament ecosystem
+  { q: "topic:filament-plugin+language:PHP", pages: 2 },
+  // Livewire ecosystem
+  { q: "topic:livewire+language:PHP", pages: 3 },
+];
+
+async function fetchPage(query, page) {
+  const url = `https://api.github.com/search/repositories?q=${query}&sort=updated&order=desc&per_page=100&page=${page}`;
 
   const response = await fetch(url, {
     headers: {
@@ -31,6 +45,22 @@ async function fetchPage(page) {
 
   const data = await response.json();
   return data.items || [];
+}
+
+async function fetchPagesInParallel(query, totalPages, concurrency = 3) {
+  let allRepos = [];
+  for (let i = 0; i < totalPages; i += concurrency) {
+    const chunk = [];
+    for (let j = i; j < Math.min(i + concurrency, totalPages); j++) {
+      chunk.push(fetchPage(query, j + 1));
+    }
+    const results = await Promise.all(chunk);
+    allRepos = allRepos.concat(results.flat());
+    if (i + concurrency < totalPages) {
+      await new Promise((r) => setTimeout(r, 1000));
+    }
+  }
+  return allRepos;
 }
 
 function transformRepo(repo) {
@@ -61,6 +91,17 @@ function loadExisting() {
   return {};
 }
 
+function loadArchived() {
+  try {
+    if (fs.existsSync(ARCHIVED_FILE)) {
+      return JSON.parse(fs.readFileSync(ARCHIVED_FILE, "utf8"));
+    }
+  } catch (e) {
+    console.error("Error loading archived packages:", e.message);
+  }
+  return {};
+}
+
 function loadStats() {
   try {
     if (fs.existsSync(STATS_FILE)) {
@@ -80,25 +121,40 @@ async function main() {
   const existingCount = Object.keys(existing).length;
   console.log(`📦 Existing packages: ${existingCount}`);
 
-  // Fetch new packages
+  // Fetch from all search queries
   let allRepos = [];
-  for (let page = 1; page <= PAGES_TO_FETCH; page++) {
-    console.log(`  Fetching page ${page}/${PAGES_TO_FETCH}...`);
+  const queryResults = {};
+
+  for (const { q, pages } of SEARCH_QUERIES) {
+    console.log(`\n🔎 Query: ${q} (${pages} pages)`);
     try {
-      const repos = await fetchPage(page);
+      const repos = await fetchPagesInParallel(q, pages);
+      queryResults[q] = repos.length;
       allRepos = allRepos.concat(repos);
-      // Small delay to avoid rate limiting
-      await new Promise((r) => setTimeout(r, 500));
+      console.log(`   ✅ Got ${repos.length} results`);
+      // Delay between queries to avoid rate limiting
+      await new Promise((r) => setTimeout(r, 1000));
     } catch (e) {
-      console.error(`  Error on page ${page}:`, e.message);
-      break;
+      console.error(`   ❌ Error: ${e.message}`);
+      queryResults[q] = 0;
     }
   }
 
-  console.log(`\n📥 Fetched ${allRepos.length} repositories`);
+  // Deduplicate by full_name (case-insensitive)
+  const seen = new Set();
+  const dedupedRepos = [];
+  for (const repo of allRepos) {
+    const key = repo.full_name.toLowerCase();
+    if (!seen.has(key)) {
+      seen.add(key);
+      dedupedRepos.push(repo);
+    }
+  }
+
+  console.log(`\n📥 Fetched ${allRepos.length} total results (${dedupedRepos.length} unique)`);
 
   // Filter and transform
-  const filtered = allRepos.filter(
+  const filtered = dedupedRepos.filter(
     (repo) =>
       repo.stargazers_count >= MIN_STARS &&
       repo.stargazers_count <= MAX_STARS &&
@@ -109,6 +165,9 @@ async function main() {
   console.log(
     `✅ After filtering (${MIN_STARS}-${MAX_STARS} stars, no forks/archived): ${filtered.length}`,
   );
+
+  // Track which packages were seen in this fetch
+  const fetchedKeys = new Set(filtered.map((repo) => repo.full_name.toLowerCase()));
 
   // Merge with existing (existing data preserved, new data added)
   let newCount = 0;
@@ -129,8 +188,40 @@ async function main() {
     }
   }
 
+  // Archive stale packages
+  const now = new Date();
+  const archived = loadArchived();
+  let archivedCount = 0;
+  const keysToArchive = [];
+
+  for (const [key, pkg] of Object.entries(existing)) {
+    if (fetchedKeys.has(key)) continue;
+    if (!pkg.pushed_at) continue;
+
+    const pushedAt = new Date(pkg.pushed_at);
+    const daysSincePush = (now - pushedAt) / (1000 * 60 * 60 * 24);
+
+    if (daysSincePush > STALE_THRESHOLD_DAYS) {
+      keysToArchive.push(key);
+      if (keysToArchive.length >= MAX_ARCHIVE_PER_RUN) break;
+    }
+  }
+
+  for (const key of keysToArchive) {
+    archived[key] = {
+      ...existing[key],
+      archived_at: now.toISOString(),
+      archive_reason: `Stale: not seen in search results and last pushed ${Math.floor((now - new Date(existing[key].pushed_at)) / (1000 * 60 * 60 * 24))} days ago`,
+    };
+    delete existing[key];
+    archivedCount++;
+  }
+
   console.log(`\n🆕 New packages: ${newCount}`);
   console.log(`🔄 Updated packages: ${updatedCount}`);
+  if (archivedCount > 0) {
+    console.log(`🗃️  Archived packages: ${archivedCount}`);
+  }
   console.log(`📊 Total packages: ${Object.keys(existing).length}`);
 
   // Ensure data directory exists
@@ -143,14 +234,23 @@ async function main() {
   fs.writeFileSync(PACKAGES_FILE, JSON.stringify(existing, null, 2));
   console.log(`\n💾 Saved to ${PACKAGES_FILE}`);
 
+  // Save archived
+  if (archivedCount > 0) {
+    fs.writeFileSync(ARCHIVED_FILE, JSON.stringify(archived, null, 2));
+    console.log(`🗃️  Archived saved to ${ARCHIVED_FILE}`);
+  }
+
   // Update stats
   const stats = loadStats();
   stats.runs.push({
     timestamp: new Date().toISOString(),
     fetched: allRepos.length,
+    unique: dedupedRepos.length,
     new: newCount,
     updated: updatedCount,
+    archived: archivedCount,
     total: Object.keys(existing).length,
+    queries: queryResults,
   });
   // Keep only last 100 runs
   stats.runs = stats.runs.slice(-100);

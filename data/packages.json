@@ -254,8 +254,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-29T18:47:56Z",
-    "updated_at": "2026-02-18T21:23:21Z",
-    "pushed_at": "2026-02-18T21:23:18Z",
+    "updated_at": "2026-02-19T01:08:49Z",
+    "pushed_at": "2026-02-19T01:08:46Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "yamatekudashai/phind": {
@@ -287,8 +287,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-01T21:14:46Z",
-    "updated_at": "2026-02-18T21:23:43Z",
-    "pushed_at": "2026-02-18T21:23:39Z",
+    "updated_at": "2026-02-19T01:08:19Z",
+    "pushed_at": "2026-02-19T01:08:15Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "georgieselflocking582/laravel-translate": {
@@ -320,8 +320,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-20T20:47:10Z",
-    "updated_at": "2026-02-18T21:16:17Z",
-    "pushed_at": "2026-02-18T21:16:10Z",
+    "updated_at": "2026-02-19T01:00:04Z",
+    "pushed_at": "2026-02-19T01:00:00Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "thanhdt716/filament-shield": {
@@ -429,8 +429,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-26T16:12:07Z",
-    "updated_at": "2026-02-18T21:21:37Z",
-    "pushed_at": "2026-02-18T21:21:33Z",
+    "updated_at": "2026-02-19T01:06:07Z",
+    "pushed_at": "2026-02-19T01:06:01Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "njoguamos/laravel-pesapal": {
@@ -23025,8 +23025,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-26T16:56:42Z",
-    "updated_at": "2026-02-18T21:21:10Z",
-    "pushed_at": "2026-02-18T21:21:06Z",
+    "updated_at": "2026-02-19T01:06:12Z",
+    "pushed_at": "2026-02-19T01:06:08Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "e-segments/modular-architecture": {
@@ -32814,7 +32814,7 @@
     "name": "jeffersongoncalves/teamkitv5",
     "url": "https://github.com/jeffersongoncalves/teamkitv5",
     "description": "TeamKit is a robust starter kit built on Laravel 12.x and Filament 5.x, designed to accelerate the development of modern web applications with a ready-to-use multi-panel structure.",
-    "stars": 5,
+    "stars": 6,
     "forks": 0,
     "topics": [
       "filament",
@@ -32826,7 +32826,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-02T22:12:32Z",
-    "updated_at": "2026-02-18T23:35:55Z",
+    "updated_at": "2026-02-19T00:57:17Z",
     "pushed_at": "2026-02-18T23:35:58Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -32944,8 +32944,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-26T13:33:54Z",
-    "updated_at": "2026-02-18T21:03:57Z",
-    "pushed_at": "2026-02-18T21:03:53Z",
+    "updated_at": "2026-02-19T00:45:25Z",
+    "pushed_at": "2026-02-19T00:45:22Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "liberusoftware/boilerplate-laravel": {
@@ -32983,7 +32983,7 @@
     "name": "jeffersongoncalves/evolutionkitv4",
     "url": "https://github.com/jeffersongoncalves/evolutionkitv4",
     "description": "EvolutionKit is a robust starter kit built on Laravel 12.x and Filament 4.x, designed to accelerate the development of modern web applications with a ready-to-use multi-panel structure.",
-    "stars": 9,
+    "stars": 10,
     "forks": 2,
     "topics": [
       "alpinejs",
@@ -32996,7 +32996,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-07T23:56:27Z",
-    "updated_at": "2026-02-18T19:57:26Z",
+    "updated_at": "2026-02-19T00:57:50Z",
     "pushed_at": "2026-02-18T19:57:29Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -33057,7 +33057,7 @@
     "name": "jeffersongoncalves/filakitv4",
     "url": "https://github.com/jeffersongoncalves/filakitv4",
     "description": "FilaKit is a robust starter kit built on Laravel 12.x and Filament 4.x, designed to accelerate the development of modern web applications with a ready-to-use multi-panel structure.",
-    "stars": 8,
+    "stars": 9,
     "forks": 1,
     "topics": [
       "alpinejs",
@@ -33071,7 +33071,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-05T16:03:12Z",
-    "updated_at": "2026-02-18T18:15:25Z",
+    "updated_at": "2026-02-19T00:57:29Z",
     "pushed_at": "2026-02-18T18:14:59Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -33109,7 +33109,7 @@
     "name": "jeffersongoncalves/nativekitv5",
     "url": "https://github.com/jeffersongoncalves/nativekitv5",
     "description": "NativeKit is a robust starter kit built on Laravel 12.x, Filament 5.x and Native 1.x, designed to accelerate the development of modern web applications with a ready-to-use multi-panel structure.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "filament",
@@ -33121,7 +33121,7 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-10-31T13:11:44Z",
-    "updated_at": "2026-02-18T23:29:39Z",
+    "updated_at": "2026-02-19T00:57:04Z",
     "pushed_at": "2026-02-18T16:55:56Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -33129,7 +33129,7 @@
     "name": "jeffersongoncalves/filakit",
     "url": "https://github.com/jeffersongoncalves/filakit",
     "description": "FilaKit is a robust starter kit built on Laravel 12.x and Filament 3.x, designed to accelerate the development of modern web applications with a ready-to-use multi-panel structure.",
-    "stars": 7,
+    "stars": 8,
     "forks": 2,
     "topics": [
       "alpinejs",
@@ -33144,7 +33144,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-20T14:18:04Z",
-    "updated_at": "2026-02-18T15:13:11Z",
+    "updated_at": "2026-02-19T00:58:09Z",
     "pushed_at": "2026-02-18T15:09:41Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -33238,7 +33238,7 @@
     "name": "jeffersongoncalves/mobilekitv5",
     "url": "https://github.com/jeffersongoncalves/mobilekitv5",
     "description": "MobileKit is a robust starter kit built on Laravel 12.x, Filament 5.x and NativePHP 1.x, designed to accelerate the development of modern native desktop and mobile applications with a ready-to-use multi-panel structure. Build native iOS and Android applications using PHP, alongside desktop applications for Windows, macOS, and Linux.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "filament",
@@ -33252,7 +33252,7 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-10-31T13:12:03Z",
-    "updated_at": "2026-02-18T10:37:13Z",
+    "updated_at": "2026-02-19T00:57:10Z",
     "pushed_at": "2026-02-18T10:37:17Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -33260,7 +33260,7 @@
     "name": "jeffersongoncalves/filakitv5",
     "url": "https://github.com/jeffersongoncalves/filakitv5",
     "description": "FilaKit is a robust starter kit built on Laravel 12.x and Filament 5.x, designed to accelerate the development of modern web applications with a ready-to-use multi-panel structure.",
-    "stars": 4,
+    "stars": 5,
     "forks": 2,
     "topics": [
       "filament",
@@ -33271,7 +33271,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-31T13:11:20Z",
-    "updated_at": "2026-02-18T08:13:11Z",
+    "updated_at": "2026-02-19T00:56:58Z",
     "pushed_at": "2026-02-18T08:13:14Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },

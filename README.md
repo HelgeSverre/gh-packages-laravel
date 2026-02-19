@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 2088  
-**Last updated:** 2026-02-19T00:44:48.884Z
+**Last updated:** 2026-02-19T01:11:00.828Z
 
 ## 📦 Recently Discovered
 
@@ -59,6 +59,12 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-19 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-19 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-02-19 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-19 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-19 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-02-19 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-02-19 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
 | [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-02-19 | 🚀 Simplify database interactions with this lightweight PHP ... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 0 | 2026-02-19 | 🛒 Build and manage your online store effortlessly with Shop... |
@@ -73,12 +79,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [softlogic-gt/neopay-laravel](https://github.com/softlogic-gt/neopay-laravel) | 0 | 2026-02-19 | Neopay Laravel Payment Package |
 | [saade/filament-autograph](https://github.com/saade/filament-autograph) | 79 | 2026-02-18 | A Filament package to collect signatures. |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 5 | 2026-02-18 | TeamKit is a robust starter kit built on Laravel 12.x and Fi... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-18 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-02-18 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 318 | 2026-02-18 | Laravel SMS Gateway Integration Package |
-| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 2 | 2026-02-18 | Laravel package for interacting with Traccar api |
-| [jeffersongoncalves/laravel-satis](https://github.com/jeffersongoncalves/laravel-satis) | 1 | 2026-02-18 | A Laravel package for managing private Composer repositories... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-19T01:11 | 0 | 1719 | 2088 |
 | 2026-02-19T00:44 | 714 | 1005 | 2088 |
 | 2026-02-19T00:24 | 0 | 965 | 1374 |
 | 2026-02-18T18:17 | 5 | 960 | 1374 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-17T18:20 | 3 | 962 | 1348 |
 | 2026-02-17T12:13 | 6 | 959 | 1345 |
 | 2026-02-17T06:22 | 2 | 963 | 1339 |
-| 2026-02-17T00:24 | 5 | 960 | 1337 |
 
 ---
 

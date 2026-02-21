@@ -743,8 +743,23 @@
         "topic:filament-plugin+language:PHP": 161,
         "topic:livewire+language:PHP": 300
       }
+    },
+    {
+      "timestamp": "2026-02-21T00:22:47.317Z",
+      "fetched": 1961,
+      "unique": 1786,
+      "new": 6,
+      "updated": 1705,
+      "archived": 0,
+      "total": 2157,
+      "queries": {
+        "laravel+package+language:PHP": 1000,
+        "topic:laravel-package+language:PHP": 500,
+        "topic:filament-plugin+language:PHP": 161,
+        "topic:livewire+language:PHP": 300
+      }
     }
   ],
-  "total_discovered": 2151,
-  "last_run": "2026-02-20T18:14:02.860Z"
+  "total_discovered": 2157,
+  "last_run": "2026-02-21T00:22:47.317Z"
 }

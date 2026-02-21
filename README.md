@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2166  
-**Last updated:** 2026-02-21T12:08:15.017Z
+**Total packages tracked:** 2169  
+**Last updated:** 2026-02-21T18:07:52.116Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [subhashladumor1/laravel-ai-docs](https://github.com/subhashladumor1/laravel-ai-docs) | 0 | Laravel AI Document Intelligence & OCR package for Laravel 12 AI SDK. Convert PD... |
+| [kingw1/thai-address](https://github.com/kingw1/thai-address) | 0 | Laravel Package สำหรับจัดการข้อมูลที่อยู่ไทย (ตำบล / อำเภอ / จังหวัด / รหัสไปรษณ... |
+| [prwnr/laravel-streamer](https://github.com/prwnr/laravel-streamer) | 109 | Events streaming package for Laravel based on Redis Streams |
 | [MariaTagliente/Presto.it](https://github.com/MariaTagliente/Presto.it) | 0 | Creazione piattaforma annunci.  |
 | [sharpapi/nova-ai-translator](https://github.com/sharpapi/nova-ai-translator) | 4 | Laravel Nova 4 AI-powered translation Action with SharpAPI.com |
 | [STICKnoLOGIC/laravel-ui-lockout](https://github.com/STICKnoLOGIC/laravel-ui-lockout) | 0 | A simple Laravel package that shows a lockout screen to block users from accessi... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [alidaaer/laravel-ai-agent](https://github.com/alidaaer/laravel-ai-agent) | 1 | The Laravel AI Agent Package |
 | [GiorgiGrdzelidze/fina-sdk-laravel](https://github.com/GiorgiGrdzelidze/fina-sdk-laravel) | 0 | Laravel SDK for the FINA Web API (v6.0) — auth, operations, reporting, typed DTO... |
 | [mooxphp/jobs](https://github.com/mooxphp/jobs) | 64 | [READ-ONLY] Filament plugin for managing job queues, failed jobs and batches |
-| [mrbohem/larasync](https://github.com/mrbohem/larasync) | 1 | Larasync is a Laravel package that lets you compare and sync data between two da... |
-| [Nameless0l/laravel-api-generator](https://github.com/Nameless0l/laravel-api-generator) | 17 | A powerful Laravel package that generates a complete API structure including Mod... |
-| [mooxphp/packages](https://github.com/mooxphp/packages) | 5 | [READ-ONLY] Package Management for Laravel and Filament |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 416 | A modern PostGIS toolbox for Laravel |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 414 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
 | [protonemedia/laravel-verify-new-email](https://github.com/protonemedia/laravel-verify-new-email) | 414 | This package adds support for verifying new email addresses: when a user updates... |
-| [spatie/laravel-livewire-wizard](https://github.com/spatie/laravel-livewire-wizard) | 406 | Headless Livewire components to build wizards |
+| [spatie/laravel-livewire-wizard](https://github.com/spatie/laravel-livewire-wizard) | 407 | Headless Livewire components to build wizards |
 | [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor) | 398 | A Rich Text Editor plugin for Filament Forms. |
 | [MatanYadaev/laravel-eloquent-spatial](https://github.com/MatanYadaev/laravel-eloquent-spatial) | 395 | Laravel Eloquent spatial package. |
 | [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 386 | Worldwide postal code validation for Laravel and Lumen |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ADMIN-INTELLIGENCE-GmbH/laravel-log-shipper](https://github.com/ADMIN-INTELLIGENCE-GmbH/laravel-log-shipper) | 0 | 2026-02-21 | A Laravel package that ships your application logs to a cent... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-02-21 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [akikadigital/laravel-momo](https://github.com/akikadigital/laravel-momo) | 0 | 2026-02-21 | Laravel package for  MTN Mobile Money platform (MoMo) |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-21 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-21 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-21 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-02-21 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-21 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [Truelist-io-Email-Validation/truelist-laravel](https://github.com/Truelist-io-Email-Validation/truelist-laravel) | 0 | 2026-02-21 | Laravel validation rule for Truelist email validation |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-21 | Empower your users with a modern, intuitive visual editor. T... |
+| [subhashladumor1/laravel-ai-docs](https://github.com/subhashladumor1/laravel-ai-docs) | 0 | 2026-02-21 | Laravel AI Document Intelligence & OCR package for Laravel 1... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 0 | 2026-02-21 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
 | [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-21 | 📈 Access real-time cryptocurrency data easily with this PHP... |
 | [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-02-21 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [TaffoVelikoff/hotCoffee](https://github.com/TaffoVelikoff/hotCoffee) | 1 | 2026-02-21 | Laravel admin package. |
-| [MariaTagliente/Presto.it](https://github.com/MariaTagliente/Presto.it) | 0 | 2026-02-21 | Creazione piattaforma annunci.  |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-02-21 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-21 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 | [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-02-21 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-02-21 | Laravel Core package that provides essential core functional... |
-| [CodeWithDennis/filament-select-tree](https://github.com/CodeWithDennis/filament-select-tree) | 316 | 2026-02-21 | The multi-level select field lets you pick one or multiple o... |
-| [alemian95/LaravelDatatable](https://github.com/alemian95/LaravelDatatable) | 0 | 2026-02-21 | Laravel package to render simple but functional datatables |
 | [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-02-21 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [csarcrr/invoicing-integration](https://github.com/csarcrr/invoicing-integration) | 3 | 2026-02-21 | Don't vendor lock your business to one invoicing software. I... |
+| [MariaTagliente/Presto.it](https://github.com/MariaTagliente/Presto.it) | 0 | 2026-02-21 | Creazione piattaforma annunci.  |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-21 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-02-21 | This project collects the most commonly used Laravel extensi... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-02-21 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-21 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-21T18:07 | 3 | 1699 | 2169 |
 | 2026-02-21T12:08 | 7 | 1698 | 2166 |
 | 2026-02-21T06:13 | 2 | 1704 | 2159 |
 | 2026-02-21T00:22 | 6 | 1705 | 2157 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-20T00:20 | 4 | 1709 | 2128 |
 | 2026-02-19T18:19 | 13 | 1699 | 2124 |
 | 2026-02-19T12:14 | 20 | 1693 | 2111 |
-| 2026-02-19T06:24 | 3 | 1717 | 2091 |
 
 ---
 

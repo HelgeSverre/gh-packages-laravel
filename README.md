@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2180  
-**Last updated:** 2026-02-22T06:16:58.113Z
+**Total packages tracked:** 2182  
+**Last updated:** 2026-02-22T12:08:20.445Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 🔒 Extend Laravel Passport with full OpenID Connect support, including discovery... |
+| [moham7dreza/corekit-laravel](https://github.com/moham7dreza/corekit-laravel) | 1 | laravel starter kit with React.js and Filament admin panel with required package... |
 | [yahongie2014/LMS-Task](https://github.com/yahongie2014/LMS-Task) | 0 |  core foundation of a scalable Mini-LMS |
 | [H33T589/creem-laravel](https://github.com/H33T589/creem-laravel) | 0 | Official Laravel package for CREEM payment integration |
 | [vichonehq/thai-address](https://github.com/vichonehq/thai-address) | 0 | Laravel Package สำหรับจัดการข้อมูลที่อยู่ไทย (ตำบล / อำเภอ / จังหวัด / รหัสไปรษณ... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [sharpapi/nova-ai-translator](https://github.com/sharpapi/nova-ai-translator) | 4 | Laravel Nova 4 AI-powered translation Action with SharpAPI.com |
 | [STICKnoLOGIC/laravel-ui-lockout](https://github.com/STICKnoLOGIC/laravel-ui-lockout) | 0 | A simple Laravel package that shows a lockout screen to block users from accessi... |
 | [farayaz/laravel-spy](https://github.com/farayaz/laravel-spy) | 205 | Laravel Spy is a lightweight package to track and log outgoing HTTP requests |
-| [Shivella/laravel-bitly](https://github.com/Shivella/laravel-bitly) | 75 | Laravel package for generating bitly url |
-| [ADMIN-INTELLIGENCE-GmbH/laravel-log-shipper](https://github.com/ADMIN-INTELLIGENCE-GmbH/laravel-log-shipper) | 0 | A Laravel package that ships your application logs to a central server. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 7 | 2026-02-22 | Kompass A Laravel CMS |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-02-22 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 0 | 2026-02-22 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-02-22 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-02-22 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [simone-bianco/laravel-simple-tags](https://github.com/simone-bianco/laravel-simple-tags) | 0 | 2026-02-22 | Package that implements tags similar to spatie-laravel-tags ... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-22 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-02-22 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-22 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [creopse/laravel-package](https://github.com/creopse/laravel-package) | 0 | 2026-02-22 | Creopse laravel package. |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-22 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-22 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-02-22 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-22 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [arman-telemedicall/laravel-epic-fhir](https://github.com/arman-telemedicall/laravel-epic-fhir) | 0 | 2026-02-22 | Laravel package for epic API |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-22 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [GoneTone/laravel-boost-windsurf-extension](https://github.com/GoneTone/laravel-boost-windsurf-extension) | 18 | 2026-02-22 | Laravel Boost extension package that provides Windsurf edito... |
-| [mrbohem/larasync](https://github.com/mrbohem/larasync) | 1 | 2026-02-22 | Larasync is a Laravel package that lets you compare and sync... |
-| [alemian95/LaravelDatatable](https://github.com/alemian95/LaravelDatatable) | 0 | 2026-02-22 | Laravel package to render simple but functional datatables |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-02-22 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-02-22 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [MichaelBarrows/Portfolio](https://github.com/MichaelBarrows/Portfolio) | 1 | 2026-02-22 | Portfolio built with Livewire & Filament |
 | [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-02-22 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [reasnov/internara](https://github.com/reasnov/internara) | 2 | 2026-02-22 | An internship management system built with Laravel Modular M... |
-| [malikad778/laravel-nexus](https://github.com/malikad778/laravel-nexus) | 3 | 2026-02-22 | The ultimate Laravel package for multi-channel inventory syn... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 0 | 2026-02-22 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-22 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-02-22 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-22 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [H33T589/creem-laravel](https://github.com/H33T589/creem-laravel) | 0 | 2026-02-22 | Official Laravel package for CREEM payment integration |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-22 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-22 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-02-22 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-22 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-22T12:08 | 2 | 1698 | 2182 |
 | 2026-02-22T06:16 | 3 | 1698 | 2180 |
 | 2026-02-22T00:23 | 8 | 1693 | 2177 |
 | 2026-02-21T18:07 | 3 | 1699 | 2169 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-20T18:14 | 17 | 1694 | 2151 |
 | 2026-02-20T12:12 | 4 | 1709 | 2134 |
 | 2026-02-20T06:20 | 2 | 1711 | 2130 |
-| 2026-02-20T00:20 | 4 | 1709 | 2128 |
 
 ---
 

@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2198  
-**Last updated:** 2026-02-23T06:25:59.084Z
+**Total packages tracked:** 2204  
+**Last updated:** 2026-02-23T12:14:23.458Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ekosuprianto96/laravel-visual-migrator](https://github.com/ekosuprianto96/laravel-visual-migrator) | 3 | Laravel Visual Migrator – A visual database migration builder for Laravel develo... |
+| [rivalex/lingua](https://github.com/rivalex/lingua) | 1 | Multilingual package for Laravel with translation support |
+| [Javaabu/package-skeleton](https://github.com/Javaabu/package-skeleton) | 0 | Boiler plate for Laravel packages |
+| [Mstfam21/membership-project-spatie](https://github.com/Mstfam21/membership-project-spatie) | 0 | api based membership laravel project using spatie permission package |
+| [brunocfalcao/paddle-billing](https://github.com/brunocfalcao/paddle-billing) | 0 | Reusable Paddle billing package for Laravel — checkout helpers, webhook handling... |
+| [Mstfam21/membership-project-raw](https://github.com/Mstfam21/membership-project-raw) | 0 | api base membership laravel project. no package used. |
 | [tonsoo/task-tracker](https://github.com/tonsoo/task-tracker) | 0 | Convert natural language text into structured tasks using AI and pluggable drive... |
 | [jeffersongoncalves/filament-mixpanel](https://github.com/jeffersongoncalves/filament-mixpanel) | 1 | Filament plugin for Mixpanel analytics — tracking script injection and Settings ... |
 | [dilumsadeepa/DEV-SMS-Gateway-Laravel-package](https://github.com/dilumsadeepa/DEV-SMS-Gateway-Laravel-package) | 0 | Laravel package for dev sms gateway |
@@ -18,17 +24,11 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mirzahaseebbaig/laravel-zatca-invoice](https://github.com/mirzahaseebbaig/laravel-zatca-invoice) | 1 | KSA Invoicing system ZATCA package. |
 | [Spacebib/laravel-event-sourcing-saga](https://github.com/Spacebib/laravel-event-sourcing-saga) | 3 | Saga for Laravel Event Sourcing Package |
 | [v1nk0/laravel-postat](https://github.com/v1nk0/laravel-postat) | 0 | Laravel package for communication with PostAT (Austrian Post) |
-| [malikad778/Laravel-migration-guard](https://github.com/malikad778/Laravel-migration-guard) | 3 | Catch dangerous Laravel migrations before they reach production. Static analysis... |
+| [malikad778/Laravel-migration-guard](https://github.com/malikad778/Laravel-migration-guard) | 7 | Catch dangerous Laravel migrations before they reach production. Static analysis... |
 | [feroz49/TravelWorld](https://github.com/feroz49/TravelWorld) | 0 | TravelWorld is a comprehensive travel management system built with PHP Laravel. ... |
 | [sky337/secure-api](https://github.com/sky337/secure-api) | 0 | A professional, scalable package for Laravel applications providing JWT Authenti... |
 | [jeffersongoncalves/laravel-matomo](https://github.com/jeffersongoncalves/laravel-matomo) | 2 | A Laravel package that integrates Matomo Analytics tracking into Blade views wit... |
 | [filastudio/laravel-vigil](https://github.com/filastudio/laravel-vigil) | 1 | A comprehensive security audit package for Laravel 11+ with 15 built-in checks a... |
-| [akikadigital/laravel-mwaloni](https://github.com/akikadigital/laravel-mwaloni) | 1 | A single-tenant Laravel package for integrating Mpesa, Equity Jenga API,s and NC... |
-| [mohamedkaram400/rewards-system](https://github.com/mohamedkaram400/rewards-system) | 1 | A scalable and modular Laravel-based reward/credit system that allows users to p... |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 🔒 Extend Laravel Passport with full OpenID Connect support, including discovery... |
-| [moham7dreza/corekit-laravel](https://github.com/moham7dreza/corekit-laravel) | 1 | laravel starter kit with React.js and Filament admin panel with required package... |
-| [yahongie2014/LMS-Task](https://github.com/yahongie2014/LMS-Task) | 0 | core foundation of a scalable Mini-LMS |
-| [H33T589/creem-laravel](https://github.com/H33T589/creem-laravel) | 0 | Official Laravel package for CREEM payment integration |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [tonsoo/task-tracker](https://github.com/tonsoo/task-tracker) | 0 | 2026-02-23 | Convert natural language text into structured tasks using AI... |
+| [tursodatabase/turso-driver-laravel](https://github.com/tursodatabase/turso-driver-laravel) | 96 | 2026-02-23 | Turso Driver for Laravel with Native libSQL - Community SDK |
+| [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 1 | 2026-02-23 | A Laravel package that compiles Markdown files and OpenAPI 3... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-23 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-23 | A conlang dictionary Laravel package - the luxurious way to ... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 12 | 2026-02-23 | A package to create datatables using alpinejs, tailwind, liv... |
+| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-02-23 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-02-23 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [malikad778/Laravel-migration-guard](https://github.com/malikad778/Laravel-migration-guard) | 3 | 2026-02-23 | Catch dangerous Laravel migrations before they reach product... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 344 | 2026-02-23 | The official Laravel Nightwatch package. |
+| [Mstfam21/membership-project-spatie](https://github.com/Mstfam21/membership-project-spatie) | 0 | 2026-02-23 | api based membership laravel project using spatie permission... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-23 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [brunocfalcao/paddle-billing](https://github.com/brunocfalcao/paddle-billing) | 0 | 2026-02-23 | Reusable Paddle billing package for Laravel — checkout helpe... |
+| [Mstfam21/membership-project-raw](https://github.com/Mstfam21/membership-project-raw) | 0 | 2026-02-23 | api base membership laravel project. no package used. |
+| [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) | 116 | 2026-02-23 | Commentions is a drop-in package for Filament that allows yo... |
+| [reasnov/internara](https://github.com/reasnov/internara) | 2 | 2026-02-23 | An internship management system built with Laravel Modular M... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-23 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-23 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-02-23 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-23 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-23 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 7 | 2026-02-23 | Laravel Pesapal is a Laravel package designed to facilitate ... |
-| [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server) | 329 | 2026-02-23 | A Laravel package for implementing secure Model Context Prot... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-02-23 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-02-23 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-02-23 | A Laravel Package providing seamless integration for the wun... |
-| [diepxuan/laravel-support](https://github.com/diepxuan/laravel-support) | 0 | 2026-02-23 | This package provides additional support and utilities for L... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-02-23 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-23 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [jeffersongoncalves/mobilekitv5](https://github.com/jeffersongoncalves/mobilekitv5) | 2 | 2026-02-23 | MobileKit is a robust starter kit built on Laravel 12.x, Fil... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-23T12:14 | 6 | 1699 | 2204 |
 | 2026-02-23T06:25 | 5 | 1700 | 2198 |
 | 2026-02-23T00:23 | 4 | 1700 | 2193 |
 | 2026-02-22T18:08 | 7 | 1693 | 2189 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-21T18:07 | 3 | 1699 | 2169 |
 | 2026-02-21T12:08 | 7 | 1698 | 2166 |
 | 2026-02-21T06:13 | 2 | 1704 | 2159 |
-| 2026-02-21T00:22 | 6 | 1705 | 2157 |
 
 ---
 

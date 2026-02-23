@@ -2,18 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2189  
-**Last updated:** 2026-02-22T18:08:02.974Z
+**Total packages tracked:** 2193  
+**Last updated:** 2026-02-23T00:23:43.665Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [malikad778/Laravel-migration-guard](https://github.com/malikad778/Laravel-migration-guard) | 0 | Catch dangerous Laravel migrations before they reach production. Static analysis... |
+| [mohamed-ashraf-elsaed/claude-agent-sdk-laravel](https://github.com/mohamed-ashraf-elsaed/claude-agent-sdk-laravel) | 4 | Laravel SDK for Claude Code CLI — Build AI agents with file ops, bash, code edit... |
+| [mirzahaseebbaig/laravel-zatca-invoice](https://github.com/mirzahaseebbaig/laravel-zatca-invoice) | 1 | KSA Invoicing system ZATCA package. |
+| [Spacebib/laravel-event-sourcing-saga](https://github.com/Spacebib/laravel-event-sourcing-saga) | 3 | Saga for Laravel Event Sourcing Package |
+| [v1nk0/laravel-postat](https://github.com/v1nk0/laravel-postat) | 0 | Laravel package for communication with PostAT (Austrian Post) |
+| [malikad778/Laravel-migration-guard](https://github.com/malikad778/Laravel-migration-guard) | 2 | Catch dangerous Laravel migrations before they reach production. Static analysis... |
 | [feroz49/TravelWorld](https://github.com/feroz49/TravelWorld) | 0 | TravelWorld is a comprehensive travel management system built with PHP Laravel. ... |
 | [sky337/secure-api](https://github.com/sky337/secure-api) | 0 | A professional, scalable package for Laravel applications providing JWT Authenti... |
 | [jeffersongoncalves/laravel-matomo](https://github.com/jeffersongoncalves/laravel-matomo) | 2 | A Laravel package that integrates Matomo Analytics tracking into Blade views wit... |
-| [filastudio/laravel-vigil](https://github.com/filastudio/laravel-vigil) | 0 | A comprehensive security audit package for Laravel 11+ with 15 built-in checks a... |
+| [filastudio/laravel-vigil](https://github.com/filastudio/laravel-vigil) | 1 | A comprehensive security audit package for Laravel 11+ with 15 built-in checks a... |
 | [akikadigital/laravel-mwaloni](https://github.com/akikadigital/laravel-mwaloni) | 1 | A single-tenant Laravel package for integrating Mpesa, Equity Jenga API,s and NC... |
 | [mohamedkaram400/rewards-system](https://github.com/mohamedkaram400/rewards-system) | 1 | A scalable and modular Laravel-based reward/credit system that allows users to p... |
 | [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 🔒 Extend Laravel Passport with full OpenID Connect support, including discovery... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 🧠 Manage AI agent memory in Laravel for seamless context retention and personal... |
 | [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 0 | An opinionated Laravel package for interacting with WAHA API |
 | [DeveloperAbod/laravel-contact-exporter](https://github.com/DeveloperAbod/laravel-contact-exporter) | 1 | Laravel package to export database contacts as vCard (.vcf) files — clean, profe... |
-| [XternalSoft/laravel-patrowl](https://github.com/XternalSoft/laravel-patrowl) | 0 | A clean, fluent, and developer-friendly PHP wrapper for the Patrowl API, specifi... |
-| [mubseoul/laravel-llm-observability](https://github.com/mubseoul/laravel-llm-observability) | 0 | 🔍 Laravel package for LLM observability: Track costs, enforce quotas, monitor p... |
-| [arman-telemedicall/laravel-epic-fhir](https://github.com/arman-telemedicall/laravel-epic-fhir) | 0 | Laravel package for epic API |
-| [Crumbls/subscriptions](https://github.com/Crumbls/subscriptions) | 0 | A subscriptions package for Laravel 11+ |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-02-22 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-22 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 0 | 2026-02-22 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-02-22 | A laravel based E Commerce Package Developed using PHP |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-02-22 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-22 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-22 | 💳 Streamline payment processing with this PHP package that ... |
-| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-02-22 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [laravelui5/core](https://github.com/laravelui5/core) | 2 | 2026-02-22 | Integrate SAP Fiori Micro Frontends into any Laravel SaaS pr... |
-| [feroz49/TravelWorld](https://github.com/feroz49/TravelWorld) | 0 | 2026-02-22 | TravelWorld is a comprehensive travel management system buil... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-22 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [jeffersongoncalves/laravel-umami](https://github.com/jeffersongoncalves/laravel-umami) | 3 | 2026-02-22 | Laravel package to integrate Umami analytics into Blade temp... |
-| [sky337/secure-api](https://github.com/sky337/secure-api) | 0 | 2026-02-22 | A professional, scalable package for Laravel applications pr... |
-| [jeffersongoncalves/laravel-matomo](https://github.com/jeffersongoncalves/laravel-matomo) | 2 | 2026-02-22 | A Laravel package that integrates Matomo Analytics tracking ... |
-| [jeffersongoncalves/laravel-plausible](https://github.com/jeffersongoncalves/laravel-plausible) | 2 | 2026-02-22 | A lightweight Laravel package that integrates Plausible Anal... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-02-22 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [malikad778/Laravel-migration-guard](https://github.com/malikad778/Laravel-migration-guard) | 0 | 2026-02-22 | Catch dangerous Laravel migrations before they reach product... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-22 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [akikadigital/laravel-momo](https://github.com/akikadigital/laravel-momo) | 0 | 2026-02-22 | Laravel package for  MTN Mobile Money platform (MoMo) |
+| [jeffersongoncalves/filament-gtm](https://github.com/jeffersongoncalves/filament-gtm) | 3 | 2026-02-23 | Filament plugin for Google Tag Manager with settings page po... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-23 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [outatime-io/ensemble-calendar](https://github.com/outatime-io/ensemble-calendar) | 0 | 2026-02-23 | Modern, GDPR‑compliant rehearsal calendar for musical ensemb... |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-02-23 | Laravel OTP is a Laravel package that enables developers to ... |
+| [jeffersongoncalves/filament-fathom](https://github.com/jeffersongoncalves/filament-fathom) | 3 | 2026-02-22 | Filament plugin for Fathom analytics with a built-in setting... |
+| [jeffersongoncalves/filament-gtag](https://github.com/jeffersongoncalves/filament-gtag) | 4 | 2026-02-22 | Filament plugin for managing Google Analytics (Gtag) setting... |
+| [jeffersongoncalves/filament-pixel](https://github.com/jeffersongoncalves/filament-pixel) | 2 | 2026-02-22 | Filament plugin to manage Meta (Facebook) Pixel settings fro... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-22 | Empower your users with a modern, intuitive visual editor. T... |
 | [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-02-22 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-02-22 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-02-22 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-22 | A conlang dictionary Laravel package - the luxurious way to ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-22 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-02-22 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [jeffersongoncalves/laravel-gtag](https://github.com/jeffersongoncalves/laravel-gtag) | 2 | 2026-02-22 | Laravel package for Google Analytics (Gtag) with database-ba... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 344 | 2026-02-22 | The official Laravel Nightwatch package. |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-02-22 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-02-22 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-02-22 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-02-22 | 🌍 Validate Turkish identity numbers and addresses efficient... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-23T00:23 | 4 | 1700 | 2193 |
 | 2026-02-22T18:08 | 7 | 1693 | 2189 |
 | 2026-02-22T12:08 | 2 | 1698 | 2182 |
 | 2026-02-22T06:16 | 3 | 1698 | 2180 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-21T06:13 | 2 | 1704 | 2159 |
 | 2026-02-21T00:22 | 6 | 1705 | 2157 |
 | 2026-02-20T18:14 | 17 | 1694 | 2151 |
-| 2026-02-20T12:12 | 4 | 1709 | 2134 |
 
 ---
 

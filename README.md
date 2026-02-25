@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2267  
-**Last updated:** 2026-02-25T12:15:06.992Z
+**Total packages tracked:** 2272  
+**Last updated:** 2026-02-25T18:24:20.497Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [OctopyID/LaraPersonate](https://github.com/OctopyID/LaraPersonate) | 323 | Login as a different user quickly for Laravel |
+| [ojbaeza/station](https://github.com/ojbaeza/station) | 5 | A Laravel Horizon alternative with RabbitMQ support, multi-driver architecture, ... |
+| [roots/acorn-ai](https://github.com/roots/acorn-ai) | 3 | Acorn package that wraps laravel/ai and adds first-class integration with the Wo... |
+| [TitasGailius/nova-search-relations](https://github.com/TitasGailius/nova-search-relations) | 358 |  This package allow you to include relationship columns into Laravel Nova search... |
+| [syastrebov/laravel-jwks-decoder](https://github.com/syastrebov/laravel-jwks-decoder) | 0 | Laravel JWKS Decoder is a package for decoding and validating JSON Web Tokens (J... |
 | [bjuppa/laravel-blog](https://github.com/bjuppa/laravel-blog) | 47 | Flexible blog functionality for your Laravel project |
 | [RumenDamyanov/php-chatbot](https://github.com/RumenDamyanov/php-chatbot) | 9 | A modern, framework-agnostic PHP package for adding customizable, AI-powered cha... |
 | [RumenDamyanov/php-seo](https://github.com/RumenDamyanov/php-seo) | 8 | AI-powered, framework-agnostic PHP package for automated SEO optimization. It in... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [gabrielravelo/telegram-notifier](https://github.com/gabrielravelo/telegram-notifier) | 0 | A lightweight, decoupled Laravel package for sending Telegram notifications usin... |
 | [jonytonet/ptah](https://github.com/jonytonet/ptah) | 0 | Ptah — Laravel package that forges complete module structures from a database ta... |
 | [datalogix/laravel-utils](https://github.com/datalogix/laravel-utils) | 2 | Laravel Utils is a package that configure simple things, which we usually forget... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 4 | ServiceDeskKit is a robust starter kit built on Laravel 12.x and Filament 5.x, d... |
-| [jeffersongoncalves/nativekitv4](https://github.com/jeffersongoncalves/nativekitv4) | 2 | NativeKit is a robust starter kit built on Laravel 12.x, Filament 4.x and Native... |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | NativeKit is a robust starter kit built on Laravel 12.x, Filament 3.x and Native... |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 4 | MobileKit is a robust starter kit built on Laravel 12.x, Filament 3.x and Native... |
-| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 8 | MFAKit is a robust starter kit built on Laravel 12.x and Filament 4.x, designed ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -39,7 +39,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 441 | A package to handle multilingual routes in your Laravel application. |
-| [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 434 | A package to keep track of your pages & understand your audience |
+| [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 435 | A package to keep track of your pages & understand your audience |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 427 | A media picker plugin for Filament Panels. |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 424 | A simple package to help integrate Cloudflare Turnstile. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 416 | A modern PostGIS toolbox for Laravel |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dominservice/conversations](https://github.com/dominservice/conversations) | 0 | 2026-02-25 | This package will allow you to add a full user messaging sys... |
-| [XVE-BV/laravel-db-export](https://github.com/XVE-BV/laravel-db-export) | 0 | 2026-02-25 | A Laravel package for database exports with profile-based ex... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-25 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [ffhs/filament-package_ffhs_approvals](https://github.com/ffhs/filament-package_ffhs_approvals) | 6 | 2026-02-25 | This package allows you to easily implement approval workflo... |
-| [vizra-ai/vizra-adk](https://github.com/vizra-ai/vizra-adk) | 286 | 2026-02-25 | Build, test, and deploy intelligent AI agents the Laravel wa... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-02-25 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-02-25 | A developer-friendly package for creating advanced Wordpress... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-25 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 8 | 2026-02-25 | FilaKit is a robust starter kit built on Laravel 12.x and Fi... |
+| [OctopyID/LaraPersonate](https://github.com/OctopyID/LaraPersonate) | 323 | 2026-02-25 | Login as a different user quickly for Laravel |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-25 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-25 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-02-25 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-25 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [lerouse/laravel-change-control](https://github.com/lerouse/laravel-change-control) | 3 | 2026-02-25 | Laravel change control/version management package. |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-25 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 3 | 2026-02-25 | A Laravel package that adds NATS messaging support to Larave... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-02-25 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-02-25 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [frolaxhq/laravel-payments](https://github.com/frolaxhq/laravel-payments) | 0 | 2026-02-25 | A comprehensive payment processing package for Laravel, supp... |
-| [paulhibbert/settings](https://github.com/paulhibbert/settings) | 0 | 2026-02-25 | Simple Settings package for Laravel |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-02-25 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 7 | 2026-02-25 | TeamKit is a robust starter kit built on Laravel 12.x and Fi... |
+| [jeffersongoncalves/teamkitv4](https://github.com/jeffersongoncalves/teamkitv4) | 5 | 2026-02-25 | TeamKit is a robust starter kit built on Laravel 12.x and Fi... |
+| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-02-25 | Teamkit is a robust starter kit built on Laravel 12.x and Fi... |
+| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 4 | 2026-02-25 | ServiceDeskKit is a robust starter kit built on Laravel 12.x... |
+| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-02-25 | NativeKit is a robust starter kit built on Laravel 12.x, Fil... |
+| [jeffersongoncalves/nativekitv4](https://github.com/jeffersongoncalves/nativekitv4) | 2 | 2026-02-25 | NativeKit is a robust starter kit built on Laravel 12.x, Fil... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-02-25 | NativeKit is a robust starter kit built on Laravel 12.x, Fil... |
+| [jeffersongoncalves/mobilekitv5](https://github.com/jeffersongoncalves/mobilekitv5) | 2 | 2026-02-25 | MobileKit is a robust starter kit built on Laravel 12.x, Fil... |
+| [jeffersongoncalves/mobilekitv4](https://github.com/jeffersongoncalves/mobilekitv4) | 10 | 2026-02-25 | MobileKit is a robust starter kit built on Laravel 12.x, Fil... |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 4 | 2026-02-25 | MobileKit is a robust starter kit built on Laravel 12.x, Fil... |
+| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 8 | 2026-02-25 | MFAKit is a robust starter kit built on Laravel 12.x and Fil... |
+| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 6 | 2026-02-25 | FilaKit is a robust starter kit built on Laravel 12.x and Fi... |
+| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 8 | 2026-02-25 | FilaKit is a robust starter kit built on Laravel 12.x and Fi... |
+| [jeffersongoncalves/evolutionkitv4](https://github.com/jeffersongoncalves/evolutionkitv4) | 10 | 2026-02-25 | EvolutionKit is a robust starter kit built on Laravel 12.x a... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-25T18:24 | 5 | 1700 | 2272 |
 | 2026-02-25T12:15 | 6 | 1699 | 2267 |
 | 2026-02-25T06:25 | 5 | 1700 | 2261 |
 | 2026-02-25T00:25 | 4 | 1699 | 2256 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-24T00:23 | 7 | 1700 | 2223 |
 | 2026-02-23T18:22 | 12 | 1694 | 2216 |
 | 2026-02-23T12:14 | 6 | 1699 | 2204 |
-| 2026-02-23T06:25 | 5 | 1700 | 2198 |
 
 ---
 

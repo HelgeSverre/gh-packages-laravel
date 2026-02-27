@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2316  
-**Last updated:** 2026-02-27T12:12:01.623Z
+**Total packages tracked:** 2323  
+**Last updated:** 2026-02-27T18:12:32.851Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [raul3k/disposable-email-blocker-laravel](https://github.com/raul3k/disposable-email-blocker-laravel) | 1 | Laravel integration for disposable/temporary email detection — validation rule, ... |
+| [bjuppa/laravel-blog-admin](https://github.com/bjuppa/laravel-blog-admin) | 2 | Optional admin interface for bjuppa/laravel-blog |
+| [SpykApp/passwordless-login](https://github.com/SpykApp/passwordless-login) | 0 | A highly customizable, multilingual magic link authentication package for Larave... |
+| [irazasyed/docgen](https://github.com/irazasyed/docgen) | 23 | 📖 Streamline your Laravel package development with automatic facade documentati... |
+| [freezer278/laravel-log-traces](https://github.com/freezer278/laravel-log-traces) | 0 | Composer package for laravel app for generating and aplying trace and span ids t... |
+| [codescreen-in/laravel-rest-api](https://github.com/codescreen-in/laravel-rest-api) | 0 | Mirrored independent package: laravel-rest-api |
+| [codescreen-in/laravel-installer](https://github.com/codescreen-in/laravel-installer) | 0 | Mirrored independent package: laravel-installer |
 | [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 7 | Laravel package providing client-side validation with Alpine.js integration and ... |
 | [digitaldev-lx/log-hole](https://github.com/digitaldev-lx/log-hole) | 2 | LogHole is a Laravel package for flexible logging, supporting database drivers. ... |
 | [RingierIMU/sdc-experiments-package](https://github.com/RingierIMU/sdc-experiments-package) | 2 | A laravel package for running web experiments |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [PabloNVP/GP2-CRM](https://github.com/PabloNVP/GP2-CRM) | 0 | Repositorio de aplicación web que permite gestionar y administrar el negocio de ... |
 | [holyframe/TSMS](https://github.com/holyframe/TSMS) | 0 |  |
 | [Gabriel1777/laravel-odata](https://github.com/Gabriel1777/laravel-odata) | 1 | laravel odata package |
-| [holyframe/Telephone-Staffing-Manager](https://github.com/holyframe/Telephone-Staffing-Manager) | 0 |  |
-| [mikebarlow/bluewing](https://github.com/mikebarlow/bluewing) | 1 | Open Source Bluesky and X scheduling tool |
-| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 17 | Event-driven state machines for Laravel with event sourcing, type-safe context, ... |
-| [searsandrew/series-wiki](https://github.com/searsandrew/series-wiki) | 0 | A Laravel package for spoiler-safe, timeline-aware, variant-aware wiki content u... |
-| [danestves/laravel-polar](https://github.com/danestves/laravel-polar) | 73 | A package to easily integrate your Laravel application with Polar.sh. |
-| [aqsahmedtech-design/Newsletters-master](https://github.com/aqsahmedtech-design/Newsletters-master) | 0 | laravel newsletters package |
-| [feroz49/Travel-World](https://github.com/feroz49/Travel-World) | 0 | TravelWorld is a comprehensive travel management system built with PHP Laravel. ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [joaquimlopespena/package-laravel-dynamodb](https://github.com/joaquimlopespena/package-laravel-dynamodb) | 1 | 2026-02-27 |  |
+| [dgtlss/warden](https://github.com/dgtlss/warden) | 85 | 2026-02-27 | A Laravel package that proactively monitors your dependencie... |
+| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-02-27 | A foundational package providing base classes and utilities ... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 344 | 2026-02-27 | The official Laravel Nightwatch package. |
+| [dystcz/dystore](https://github.com/dystcz/dystore) | 12 | 2026-02-27 | Collection of ecommerce packages built on top of Lunar and L... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-02-27 | An event sourcing laravel package, complete with all the ess... |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-02-27 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-02-27 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-02-27 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-27 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [raul3k/disposable-email-blocker-laravel](https://github.com/raul3k/disposable-email-blocker-laravel) | 1 | 2026-02-27 | Laravel integration for disposable/temporary email detection... |
+| [irazasyed/docgen](https://github.com/irazasyed/docgen) | 23 | 2026-02-27 | 📖 Streamline your Laravel package development with automati... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-02-27 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-02-27 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-02-27 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-02-27 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-02-27 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter) | 123 | 2026-02-27 | A opponiated Laravel 12 Livewire Components Starter Kit, wit... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-27 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-02-27 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [bjuppa/laravel-blog](https://github.com/bjuppa/laravel-blog) | 47 | 2026-02-27 | Flexible blog functionality for your Laravel project |
-| [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 7 | 2026-02-27 | Laravel package providing client-side validation with Alpine... |
-| [digitaldev-lx/log-hole](https://github.com/digitaldev-lx/log-hole) | 2 | 2026-02-27 | LogHole is a Laravel package for flexible logging, supportin... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-02-27 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-02-27 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-02-27 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-02-27 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-02-27 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [RingierIMU/sdc-experiments-package](https://github.com/RingierIMU/sdc-experiments-package) | 2 | 2026-02-27 | A laravel package for running web experiments |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-02-27 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [InnoGE/laravel-rclone](https://github.com/InnoGE/laravel-rclone) | 15 | 2026-02-27 | A sleek Laravel package that wraps rclone with an elegant, f... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 59 | 2026-02-27 | [READ ONLY] API Platform for Laravel |
-| [InnoGE/laravel-mcp](https://github.com/InnoGE/laravel-mcp) | 17 | 2026-02-27 | A package for developing MCP Servers with Laravel. |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-02-27 | 💰 Simplify your financial management with Finova, an open-s... |
-| [ginkida/laravel-agent-runner](https://github.com/ginkida/laravel-agent-runner) | 2 | 2026-02-27 | Laravel SDK for Agent Runner — fluent API for AI agent orche... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-02-27 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-02-27 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-27 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-02-27 | ✨ Build robust Laravel applications with the Filament Starte... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-27T18:12 | 7 | 1699 | 2323 |
 | 2026-02-27T12:12 | 10 | 1696 | 2316 |
 | 2026-02-27T06:19 | 3 | 1702 | 2306 |
 | 2026-02-27T00:24 | 7 | 1698 | 2303 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-26T00:21 | 5 | 1701 | 2277 |
 | 2026-02-25T18:24 | 5 | 1700 | 2272 |
 | 2026-02-25T12:15 | 6 | 1699 | 2267 |
-| 2026-02-25T06:25 | 5 | 1700 | 2261 |
 
 ---
 

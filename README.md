@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2303  
-**Last updated:** 2026-02-27T00:24:03.470Z
+**Total packages tracked:** 2306  
+**Last updated:** 2026-02-27T06:19:08.740Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [PabloNVP/GP2-CRM](https://github.com/PabloNVP/GP2-CRM) | 0 | Repositorio de aplicación web que permite gestionar y administrar el negocio de ... |
+| [holyframe/TSMS](https://github.com/holyframe/TSMS) | 0 |  |
+| [Gabriel1777/laravel-odata](https://github.com/Gabriel1777/laravel-odata) | 1 | laravel odata package |
 | [holyframe/Telephone-Staffing-Manager](https://github.com/holyframe/Telephone-Staffing-Manager) | 0 |  |
 | [mikebarlow/bluewing](https://github.com/mikebarlow/bluewing) | 0 | Open Source Bluesky and X scheduling tool |
 | [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 17 | Event-driven state machines for Laravel with event sourcing, type-safe context, ... |
@@ -26,15 +29,12 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rboschin/simple-tenant](https://github.com/rboschin/simple-tenant) | 0 | SimpleTenant is a lightweight multi-tenancy package for Laravel that allows you ... |
 | [ginkida/laravel-agent-runner](https://github.com/ginkida/laravel-agent-runner) | 2 | Laravel SDK for Agent Runner — fluent API for AI agent orchestration with tool-c... |
 | [outer-web/localization](https://github.com/outer-web/localization) | 2 | Package - Laravel localization features |
-| [deegitalbe/laravel-trustup-model-broadcast](https://github.com/deegitalbe/laravel-trustup-model-broadcast) | 0 | Package used to broadcast our models |
-| [Shankar-Tom/laravel-basic-setting](https://github.com/Shankar-Tom/laravel-basic-setting) | 0 | Laravel Basic Setting Package with middleware, traits, and validation rules. |
-| [Team-Nifty-GmbH/tall-calendar](https://github.com/Team-Nifty-GmbH/tall-calendar) | 0 | A Calendar package using FullCalendar, tailwind, alpinejs, laravel and livewire. |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 461 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
+| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 462 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 453 | Add kanban boards to your Filament pages |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-02-27 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 0 | 2026-02-27 | A package for using and generating unique urls for each Eloq... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-27 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-27 | 💳 Streamline payment processing with this PHP package that ... |
-| [holyframe/Telephone-Staffing-Manager](https://github.com/holyframe/Telephone-Staffing-Manager) | 0 | 2026-02-27 |  |
-| [RileyGWeb/to-do.ninja](https://github.com/RileyGWeb/to-do.ninja) | 0 | 2026-02-27 | Full-stack Laravel app (TALL stack), practice project! |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-02-27 | ShieldCI Laravel Package - Open-source AI-powered code quali... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-27 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [mikebarlow/bluewing](https://github.com/mikebarlow/bluewing) | 0 | 2026-02-27 | Open Source Bluesky and X scheduling tool |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-02-27 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-27 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 3 | 2026-02-26 | Base starter kit built on Laravel 12.x and Filament 4.x with... |
-| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 17 | 2026-02-26 | Event-driven state machines for Laravel with event sourcing,... |
-| [MatanYadaev/laravel-eloquent-spatial](https://github.com/MatanYadaev/laravel-eloquent-spatial) | 396 | 2026-02-26 | Laravel Eloquent spatial package. |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 7 | 2026-02-26 | TeamKit is a robust starter kit built on Laravel 12.x and Fi... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 318 | 2026-02-26 | Laravel SMS Gateway Integration Package |
-| [alemian95/LaravelDatatable](https://github.com/alemian95/LaravelDatatable) | 0 | 2026-02-26 | Laravel package to render simple but functional datatables |
-| [abranher/incident-os](https://github.com/abranher/incident-os) | 0 | 2026-02-26 | Sistema de Gestión de Incidencias para Soporte Técnico Organ... |
-| [csarcrr/invoicing-integration](https://github.com/csarcrr/invoicing-integration) | 3 | 2026-02-26 | Don't vendor lock your business to one invoicing software. I... |
-| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-02-26 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-02-26 | Empower your users with a modern, intuitive visual editor. T... |
-| [rboschin/simple-tenant](https://github.com/rboschin/simple-tenant) | 0 | 2026-02-26 | SimpleTenant is a lightweight multi-tenancy package for Lara... |
-| [goodcat-dev/laravel-l10n](https://github.com/goodcat-dev/laravel-l10n) | 6 | 2026-02-26 | An opinionated Laravel package for app localization. |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-02-26 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [naykel76/contactit](https://github.com/naykel76/contactit) | 0 | 2026-02-27 | Simple contact package for NayKel Laravel Applications |
+| [naykel76/authit](https://github.com/naykel76/authit) | 0 | 2026-02-27 | Auth package for NayKel Laravel applications |
+| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-02-27 | A conlang dictionary Laravel package - the luxurious way to ... |
+| [delickate/module-generator](https://github.com/delickate/module-generator) | 0 | 2026-02-27 | laravel package to generate modules |
+| [jonesrussell/northcloud-laravel](https://github.com/jonesrussell/northcloud-laravel) | 0 | 2026-02-27 | Shared Laravel package for North Cloud article ingestion via... |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-02-27 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-02-27 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-02-27 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-02-27 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-27 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 3 | 2026-02-27 | Laravel package for interacting with Traccar api |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-02-27 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-27T06:19 | 3 | 1702 | 2306 |
 | 2026-02-27T00:24 | 7 | 1698 | 2303 |
 | 2026-02-26T18:17 | 8 | 1697 | 2296 |
 | 2026-02-26T12:15 | 9 | 1696 | 2288 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-25T12:15 | 6 | 1699 | 2267 |
 | 2026-02-25T06:25 | 5 | 1700 | 2261 |
 | 2026-02-25T00:25 | 4 | 1699 | 2256 |
-| 2026-02-24T18:21 | 18 | 1685 | 2252 |
 
 ---
 

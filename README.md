@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2336  
-**Last updated:** 2026-02-28T12:08:10.082Z
+**Total packages tracked:** 2340  
+**Last updated:** 2026-02-28T18:06:48.366Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [onecentlin/laravel-adminer](https://github.com/onecentlin/laravel-adminer) | 258 | Adminer database manager for Laravel 5+ |
+| [habibtalib/laravel-securepay](https://github.com/habibtalib/laravel-securepay) | 0 | Laravel package for SecurePay Malaysia payment gateway (FPX, DuitNow, Direct Deb... |
+| [sendkitdev/sendkit-laravel](https://github.com/sendkitdev/sendkit-laravel) | 1 | Sendkit Laravel Package |
+| [patrikjak/utils](https://github.com/patrikjak/utils) | 0 | A simple utility package for Laravel |
 | [josemontano1996/laravel-localization-suite](https://github.com/josemontano1996/laravel-localization-suite) | 1 | A comprehensive, runtime-safe localization suite for Laravel 12+, with first-cla... |
 | [protonemedia/laravel-paddle](https://github.com/protonemedia/laravel-paddle) | 202 | Paddle.com API integration for Laravel with support for webhooks/events |
 | [aestheticraza/laravel-globe](https://github.com/aestheticraza/laravel-globe) | 2 | Developed By Ali Raza |
@@ -18,17 +22,13 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [DigitalCoreHub/laravel-toon](https://github.com/DigitalCoreHub/laravel-toon) | 1 | A friendly JSON transformer for Laravel — Convert JSON ↔ TOON, an ultra-minimal,... |
 | [DigitalCoreHub/laravel-ai-translator](https://github.com/DigitalCoreHub/laravel-ai-translator) | 1 | Laravel 12 için yapay zekâ destekli otomatik çeviri paketi | AI-powered Laravel ... |
 | [nssivanitesh/react-ubiquitous-composer](https://github.com/nssivanitesh/react-ubiquitous-composer) | 0 | React ubiquitous Laravel / Composer package  |
-| [jeffersongoncalves/laravel-github-stats](https://github.com/jeffersongoncalves/laravel-github-stats) | 1 | Self-hosted Laravel package that serves dynamic SVG cards with your GitHub stati... |
+| [jeffersongoncalves/laravel-github-stats](https://github.com/jeffersongoncalves/laravel-github-stats) | 3 | Self-hosted Laravel package that serves dynamic SVG cards with your GitHub stati... |
 | [izzatrazab/exporter-collection](https://github.com/izzatrazab/exporter-collection) | 0 | Clean boilerplate for barryvdh/laravel-snappy package. |
 | [smartgeomatics/laravel-deferred-batch](https://github.com/smartgeomatics/laravel-deferred-batch) | 1 | Deferred batch construction for Laravel job chains |
 | [kolaybi/request-tracer](https://github.com/kolaybi/request-tracer) | 0 | Standalone request tracing package for Laravel. Captures outgoing HTTP and SOAP ... |
 | [raul3k/disposable-email-blocker-laravel](https://github.com/raul3k/disposable-email-blocker-laravel) | 1 | Laravel integration for disposable/temporary email detection — validation rule, ... |
 | [bjuppa/laravel-blog-admin](https://github.com/bjuppa/laravel-blog-admin) | 2 | Optional admin interface for bjuppa/laravel-blog |
 | [SpykApp/passwordless-login](https://github.com/SpykApp/passwordless-login) | 0 | A highly customizable, multilingual magic link authentication package for Larave... |
-| [irazasyed/docgen](https://github.com/irazasyed/docgen) | 23 | 📖 Streamline your Laravel package development with automatic facade documentati... |
-| [freezer278/laravel-log-traces](https://github.com/freezer278/laravel-log-traces) | 0 | Composer package for laravel app for generating and aplying trace and span ids t... |
-| [codescreen-in/laravel-rest-api](https://github.com/codescreen-in/laravel-rest-api) | 0 | Mirrored independent package: laravel-rest-api |
-| [codescreen-in/laravel-installer](https://github.com/codescreen-in/laravel-installer) | 0 | Mirrored independent package: laravel-installer |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Fyennyi/async-cache-bridge-laravel](https://github.com/Fyennyi/async-cache-bridge-laravel) | 0 | 2026-02-28 | A Laravel bridge that integrates Fyennyi AsyncCache with Lar... |
-| [ramonrietdijk/livewire-tables](https://github.com/ramonrietdijk/livewire-tables) | 212 | 2026-02-28 | Dynamic tables for models with Laravel Livewire |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-02-28 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-02-28 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [rboschin/simple-tenant](https://github.com/rboschin/simple-tenant) | 0 | 2026-02-28 | SimpleTenant is a lightweight multi-tenancy package for Lara... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-02-28 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-02-28 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-02-28 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-02-28 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 136 | 2026-02-28 | A Laravel package that provides a Cookies consent floating w... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-02-28 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 3 | 2026-02-28 | A Laravel package that adds NATS messaging support to Larave... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-02-28 | 💳 Streamline payment processing with this PHP package that ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-02-28 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-02-28 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-02-28 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [juzaweb/dev-tool](https://github.com/juzaweb/dev-tool) | 1 | 2026-02-28 | Tool support for Developer |
-| [josemontano1996/laravel-localization-suite](https://github.com/josemontano1996/laravel-localization-suite) | 1 | 2026-02-28 | A comprehensive, runtime-safe localization suite for Laravel... |
-| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-02-28 | A foundational package providing base classes and utilities ... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-02-28 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 377 | 2026-02-28 | Laravel Kanban boards with intelligent pagination, drag-and-... |
+| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 7 | 2026-02-28 | Kompass A Laravel CMS |
+| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 0 | 2026-02-28 | A package for using and generating unique urls for each Eloq... |
+| [onecentlin/laravel-adminer](https://github.com/onecentlin/laravel-adminer) | 258 | 2026-02-28 | Adminer database manager for Laravel 5+ |
+| [feroz49/Travel-World](https://github.com/feroz49/Travel-World) | 0 | 2026-02-28 | TravelWorld is a comprehensive travel management system buil... |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-02-28 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-02-28 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-02-28 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-02-28 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-02-28 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-02-28 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-02-28 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-02-28 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-02-28 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [habibtalib/laravel-securepay](https://github.com/habibtalib/laravel-securepay) | 0 | 2026-02-28 | Laravel package for SecurePay Malaysia payment gateway (FPX,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-02-28T18:06 | 4 | 1694 | 2340 |
 | 2026-02-28T12:08 | 8 | 1690 | 2336 |
 | 2026-02-28T06:09 | 3 | 1698 | 2328 |
 | 2026-02-28T00:20 | 2 | 1703 | 2325 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-27T00:24 | 7 | 1698 | 2303 |
 | 2026-02-26T18:17 | 8 | 1697 | 2296 |
 | 2026-02-26T12:15 | 9 | 1696 | 2288 |
-| 2026-02-26T06:22 | 2 | 1703 | 2279 |
 
 ---
 

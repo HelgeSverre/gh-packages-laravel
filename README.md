@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2353  
-**Last updated:** 2026-03-01T12:08:26.249Z
+**Total packages tracked:** 2359  
+**Last updated:** 2026-03-01T18:07:17.981Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | ServiceDeskKit starter kit built on Laravel 12.x and Filament 3.x for service de... |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | ServiceDeskKit starter kit built on Laravel 12.x and Filament 4.x for service de... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 1 | EvolutionKit starter kit built on Laravel 12.x and Filament 5.x with a ready-to-... |
+| [kontenta/kontour](https://github.com/kontenta/kontour) | 2 | Admin page manager for Laravel |
+| [ishah300/Aurix](https://github.com/ishah300/Aurix) | 0 | Auth and Permissions package for Laravel. |
+| [netmexmedia/Netmex-Laravel-Attributes-Route](https://github.com/netmexmedia/Netmex-Laravel-Attributes-Route) | 0 | A Laravel package to define routes using attributes |
 | [YasserElgammal/tasks-management](https://github.com/YasserElgammal/tasks-management) | 5 |  Task management application built with Laravel and Livewire |
 | [whoami15/laravel-payrex](https://github.com/whoami15/laravel-payrex) | 0 | An unofficial Laravel package for integrating PayRex payment processing into you... |
 | [cybercog/laravel-optimus](https://github.com/cybercog/laravel-optimus) | 192 | Transform your internal id's to obfuscated integers based on Knuth's integer has... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ibaiicb/laravel-make-action](https://github.com/ibaiicb/laravel-make-action) | 0 | A Laravel package that adds a make:action Artisan command to generate Action cla... |
 | [mhrshuvo/journey-log](https://github.com/mhrshuvo/journey-log) | 0 | 🛤️ Laravel package for tracking user journeys with organized JSON logs and buil... |
 | [onecentlin/laravel-adminer](https://github.com/onecentlin/laravel-adminer) | 258 | Adminer database manager for Laravel 5+ |
-| [habibtalib/laravel-securepay](https://github.com/habibtalib/laravel-securepay) | 0 | Laravel package for SecurePay Malaysia payment gateway (FPX, DuitNow, Direct Deb... |
-| [sendkitdev/sendkit-laravel](https://github.com/sendkitdev/sendkit-laravel) | 1 | Sendkit Laravel Package |
-| [patrikjak/utils](https://github.com/patrikjak/utils) | 0 | A simple utility package for Laravel |
-| [josemontano1996/laravel-localization-suite](https://github.com/josemontano1996/laravel-localization-suite) | 1 | A comprehensive, runtime-safe localization suite for Laravel 12+, with first-cla... |
-| [protonemedia/laravel-paddle](https://github.com/protonemedia/laravel-paddle) | 202 | Paddle.com API integration for Laravel with support for webhooks/events |
-| [aestheticraza/laravel-globe](https://github.com/aestheticraza/laravel-globe) | 2 | Developed By Ali Raza |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 7 | 2026-03-01 | Kompass A Laravel CMS |
-| [reasnov/internara](https://github.com/reasnov/internara) | 2 | 2026-03-01 | An internship management system built with Laravel Modular M... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-01 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-03-01 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-03-01 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-03-01 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [e4se/telegram-message](https://github.com/e4se/telegram-message) | 0 | 2026-03-01 | Laravel package for creating telegram message |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-03-01 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-03-01 | ServiceDeskKit starter kit built on Laravel 12.x and Filamen... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-03-01 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [ishah300/Aurix](https://github.com/ishah300/Aurix) | 0 | 2026-03-01 | Auth and Permissions package for Laravel. |
+| [winavin/permissions](https://github.com/winavin/permissions) | 3 | 2026-03-01 | A lightweight, Enum-driven Roles & Permissions package for L... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-03-01 | 💰 Simplify your financial management with Finova, an open-s... |
+| [BenSampo/laravel-embed](https://github.com/BenSampo/laravel-embed) | 142 | 2026-03-01 | Effortless responsive embeds for videos, slideshows and more... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-03-01 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [sebdesign/laravel-viva-payments](https://github.com/sebdesign/laravel-viva-payments) | 48 | 2026-03-01 | A Laravel package for integrating the Viva Payments gateway |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-03-01 | ServiceDeskKit starter kit built on Laravel 12.x and Filamen... |
+| [vormiaphp/vormia](https://github.com/vormiaphp/vormia) | 1 | 2026-03-01 | A comprehensive Laravel development package that streamlines... |
 | [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-01 | 🚀 Simplify database interactions with this lightweight PHP ... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-01 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-03-01 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 59 | 2026-03-01 | [READ ONLY] API Platform for Laravel |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 383 | 2026-03-01 | Open Source Laravel CRM Package |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-03-01 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-03-01 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 377 | 2026-03-01 | Laravel Kanban boards with intelligent pagination, drag-and-... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-01 | 💳 Streamline payment processing with this PHP package that ... |
-| [whoami15/laravel-payrex](https://github.com/whoami15/laravel-payrex) | 0 | 2026-03-01 | An unofficial Laravel package for integrating PayRex payment... |
-| [genta-bahana-nagari/sija-kerja](https://github.com/genta-bahana-nagari/sija-kerja) | 3 | 2026-03-01 | Repository of practical exams in vocational schools. Creatin... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 40 | 2026-03-01 | This is a Filament v4 Starter Kit for Laravel 12, designed t... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-01 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-01 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [sebdesign/laravel-viva-payments](https://github.com/sebdesign/laravel-viva-payments) | 48 | 2026-03-01 | A Laravel package for integrating the Viva Payments gateway |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-01T18:07 | 6 | 1687 | 2359 |
 | 2026-03-01T12:08 | 5 | 1692 | 2353 |
 | 2026-03-01T06:16 | 2 | 1696 | 2348 |
 | 2026-03-01T00:25 | 6 | 1692 | 2346 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-02-28T00:20 | 2 | 1703 | 2325 |
 | 2026-02-27T18:12 | 7 | 1699 | 2323 |
 | 2026-02-27T12:12 | 10 | 1696 | 2316 |
-| 2026-02-27T06:19 | 3 | 1702 | 2306 |
 
 ---
 

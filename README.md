@@ -2,14 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2408  
-**Last updated:** 2026-03-03T12:12:31.688Z
+**Total packages tracked:** 2418  
+**Last updated:** 2026-03-03T18:16:26.165Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [jay123anta/laravel-honeypot](https://github.com/jay123anta/laravel-honeypot) | 0 | Laravel Middleware for Security Threat Detection |
+| [ArtemYurov/moonshine-db-joblog](https://github.com/ArtemYurov/moonshine-db-joblog) | 0 | Job queue logging with MoonShine admin panel for Laravel |
+| [ArtemYurov/laravel-autossh-tunnel](https://github.com/ArtemYurov/laravel-autossh-tunnel) | 0 | Modern SSH Tunnel Manager for Laravel with autossh support and automatic lifecyc... |
+| [beliven-fabrizio-gortani/laravel-i18n](https://github.com/beliven-fabrizio-gortani/laravel-i18n) | 0 | A small package for scan/import/export translations |
+| [teofanis/hook-press](https://github.com/teofanis/hook-press) | 6 | HookPress is a Laravel package that uses Composer hooks to automatically discove... |
+| [amjadiqbal/laralink](https://github.com/amjadiqbal/laralink) | 0 | "Local-First Package Manager" for Laravel. |
+| [cslant/github-project-php](https://github.com/cslant/github-project-php) | 8 | Provides a simple and easy-to-use webhooks system to get the GitHub project's ac... |
+| [HELMAB/laravel-bakong](https://github.com/HELMAB/laravel-bakong) | 0 | Laravel package for the Bakong Open API (National Bank of Cambodia). |
+| [patrikjak/auth](https://github.com/patrikjak/auth) | 0 | Simple auth package for Laravel apps. |
+| [arnaldo-tomo/rotabonita](https://github.com/arnaldo-tomo/rotabonita) | 0 | Zero-configuration Laravel package that replaces numeric route IDs with YouTube-... |
+| [beliven-it/laravel-i18n](https://github.com/beliven-it/laravel-i18n) | 0 | A small package for scan / import / export translations inside project |
+| [jay123anta/laravel-honeypot](https://github.com/jay123anta/laravel-honeypot) | 1 | Real-time threat detection middleware for Laravel. Detects SQL injection, XSS, R... |
 | [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 0 |  |
 | [shaffe-fr/laravel-dkim](https://github.com/shaffe-fr/laravel-dkim) | 0 | Laravel package to add DKIM signatures to outgoing emails |
 | [lt-25/geocode](https://github.com/lt-25/geocode) | 1 | A powerful and elegant Laravel package for geocoding and reverse geocoding using... |
@@ -18,17 +28,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Javaabu/passport](https://github.com/Javaabu/passport) | 0 | Modifications brought upon laravel/passport |
 | [jeffersongoncalves/filament-metrics-fathom](https://github.com/jeffersongoncalves/filament-metrics-fathom) | 1 | Filament plugin for Fathom Analytics metrics - dashboard widgets for pageviews, ... |
 | [ryoogenmedia/absensi-sekolah-qrcode](https://github.com/ryoogenmedia/absensi-sekolah-qrcode) | 0 | Sistem aplikasi sekolah berbasis qr code dengan menggunakan notifikasi whatsapp ... |
-| [jeffersongoncalves/filament-metrics-matomo](https://github.com/jeffersongoncalves/filament-metrics-matomo) | 1 | Filament plugin for Matomo Analytics — Settings Page & Dashboard Widgets (Live C... |
-| [jeffersongoncalves/laravel-metrics-matomo](https://github.com/jeffersongoncalves/laravel-metrics-matomo) | 2 | Laravel package to interact with Matomo Analytics Reporting API - fetch visits, ... |
-| [pringgojs/laravel-itop](https://github.com/pringgojs/laravel-itop) | 0 | This package is a very small, database‑centric wrapper around iTop for Laravel p... |
-| [JaromirKapitan/retro-service](https://github.com/JaromirKapitan/retro-service) | 0 | An information system for managing maintenance and records of vintage vehicles a... |
-| [deligoez/laravel-model-hashid](https://github.com/deligoez/laravel-model-hashid) | 164 | #️⃣  Generate, Save, and Route Stripe/Youtube-like Hash IDs for Laravel Eloquent... |
-| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 2 | The Laravel Lobster |
-| [AbiruzzamanMolla/Fraud-Checker-BD-Courier](https://github.com/AbiruzzamanMolla/Fraud-Checker-BD-Courier) | 0 | A fraud detection tool for e-commerce platforms to analyze customer order behavi... |
-| [NietThijmen/laravel-tracer](https://github.com/NietThijmen/laravel-tracer) | 1 | A package to log request of authenticated users by bundling and qualifying route... |
-| [kolaybi/mail-checker](https://github.com/kolaybi/mail-checker) | 0 | A Laravel package providing comprehensive e-mail validation for better email del... |
-| [IGNE-Agency/larave-boot-up](https://github.com/IGNE-Agency/larave-boot-up) | 0 | A comprehensive Laravel application bootstrap package for local development with... |
-| [ohnotnow/simple-ldap](https://github.com/ohnotnow/simple-ldap) | 0 | Very simple ldap auth/lookup package for laravel |
+| [jeffersongoncalves/filament-metrics-matomo](https://github.com/jeffersongoncalves/filament-metrics-matomo) | 2 | Filament plugin for Matomo Analytics — Settings Page & Dashboard Widgets (Live C... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-03 | 💳 Streamline payment processing with this PHP package that ... |
-| [rosalana/configure](https://github.com/rosalana/configure) | 2 | 2026-03-03 | A Laravel package for programmatic, structure-preserving mod... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [RaiolaNetworks/atlas](https://github.com/RaiolaNetworks/atlas) | 3 | 2026-03-03 | Atlas is a PHP package that allows you to create new tables ... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-03 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-03 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [faustbrian/sequencer](https://github.com/faustbrian/sequencer) | 0 | 2026-03-03 | A powerful Laravel package that orchestrates sequential exec... |
-| [jay123anta/laravel-honeypot](https://github.com/jay123anta/laravel-honeypot) | 0 | 2026-03-03 | Laravel Middleware for Security Threat Detection |
-| [cego/request-log](https://github.com/cego/request-log) | 0 | 2026-03-03 | Package for laravel that facilitates the logging of each req... |
-| [IGNE-Agency/larave-boot-up](https://github.com/IGNE-Agency/larave-boot-up) | 0 | 2026-03-03 | A comprehensive Laravel application bootstrap package for lo... |
-| [shaffe-fr/laravel-dkim](https://github.com/shaffe-fr/laravel-dkim) | 0 | 2026-03-03 | Laravel package to add DKIM signatures to outgoing emails |
-| [foxen-digital/laravel-uk-bank-holidays](https://github.com/foxen-digital/laravel-uk-bank-holidays) | 0 | 2026-03-03 | Laravel package for UK bank holidays, providing easy access ... |
-| [cybex-gmbh/laravel-protector](https://github.com/cybex-gmbh/laravel-protector) | 5 | 2026-03-03 | Laravel package to provide and receive database dumps in a s... |
-| [faustbrian/tracer](https://github.com/faustbrian/tracer) | 0 | 2026-03-03 | A Laravel package for model revision tracking and staged cha... |
-| [faustbrian/toggl](https://github.com/faustbrian/toggl) | 0 | 2026-03-03 | A powerful Laravel feature flag package with conductor-based... |
-| [faustbrian/sentinel](https://github.com/faustbrian/sentinel) | 0 | 2026-03-03 | Multi-Factor Authentication package for Laravel applications... |
-| [faustbrian/morphism](https://github.com/faustbrian/morphism) | 0 | 2026-03-03 | Reusable polymorphic key mapping for Laravel packages. Provi... |
-| [faustbrian/monad](https://github.com/faustbrian/monad) | 0 | 2026-03-03 | This package provides a Rust-aligned Option, Result, and Eit... |
-| [lt-25/geocode](https://github.com/lt-25/geocode) | 1 | 2026-03-03 | A powerful and elegant Laravel package for geocoding and rev... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-03-03 | ServiceDeskKit starter kit built on Laravel 12.x and Filamen... |
+| [patrikjak/auth](https://github.com/patrikjak/auth) | 0 | 2026-03-03 | Simple auth package for Laravel apps. |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-03 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 1 | 2026-03-03 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-03 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [mhrshuvo/journey-log](https://github.com/mhrshuvo/journey-log) | 0 | 2026-03-03 | 🛤️ Laravel package for tracking user journeys with organize... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-03 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [GasyCoder/chu-mahavoky-sud](https://github.com/GasyCoder/chu-mahavoky-sud) | 0 | 2026-03-03 | Site web officiel du Centre Hospitalier Universitaire Mahavo... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-03 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-03-03 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-03-03 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-03-03 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-03-03 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-03-03 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-03-03 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-03-03 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-03 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-03-03 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-03-03 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Grazulex/laravel-autobuilder](https://github.com/Grazulex/laravel-autobuilder) | 44 | 2026-03-03 | Visual automation builder for Laravel - Create workflows wit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-03T18:16 | 10 | 1680 | 2418 |
 | 2026-03-03T12:12 | 7 | 1682 | 2408 |
 | 2026-03-03T06:17 | 5 | 1684 | 2401 |
 | 2026-03-03T00:23 | 8 | 1682 | 2396 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-02T00:22 | 6 | 1688 | 2365 |
 | 2026-03-01T18:07 | 6 | 1687 | 2359 |
 | 2026-03-01T12:08 | 5 | 1692 | 2353 |
-| 2026-03-01T06:16 | 2 | 1696 | 2348 |
 
 ---
 

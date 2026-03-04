@@ -2,20 +2,25 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2424  
-**Last updated:** 2026-03-04T06:15:42.663Z
+**Total packages tracked:** 2429  
+**Last updated:** 2026-03-04T12:11:50.970Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [nicolaeum/translator-client](https://github.com/nicolaeum/translator-client) | 0 | Official Laravel package for LangSyncer.com - the live translation management pl... |
+| [Asnardd/lang-helper](https://github.com/Asnardd/lang-helper) | 1 | A simple package for Laravel to help you create lang files easily with artisan |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 0 | Manage and track inventory with a PHP package that integrates smoothly and suppo... |
+| [Godrade/laravel-ban](https://github.com/Godrade/laravel-ban) | 2 | A complete, performant and highly configurable ban package for Laravel. |
+| [kolaybi/activity-log](https://github.com/kolaybi/activity-log) | 0 | Standalone activity logging package for Laravel. Logs human-readable business ev... |
 | [funnydevjsc/laravel-ip-filter](https://github.com/funnydevjsc/laravel-ip-filter) | 1 | The free Laravel package to help you filter your users ip address with multiple ... |
 | [veeqtoh/prompt-deck](https://github.com/veeqtoh/prompt-deck) | 0 | A Laravel package for versioned AI prompt management. Provides variable interpol... |
 | [coyotito-mx/laravel-package-skeleton](https://github.com/coyotito-mx/laravel-package-skeleton) | 0 |  |
 | [DHFlagging/package_AzureAuth_api](https://github.com/DHFlagging/package_AzureAuth_api) | 0 | Laravel package for adding authentication implementation on all routes for a Lar... |
 | [Laragear/MetaTesting](https://github.com/Laragear/MetaTesting) | 3 | A Laravel Package for testing Laravel Packages |
 | [AXN-Informatique/laravel-extension](https://github.com/AXN-Informatique/laravel-extension) | 0 | Includes a set of tools for Laravel  (formerly "Laravel extension") |
-| [ArtemYurov/moonshine-db-joblog](https://github.com/ArtemYurov/moonshine-db-joblog) | 0 | Job queue logging with MoonShine admin panel for Laravel |
+| [ArtemYurov/moonshine-db-joblog](https://github.com/ArtemYurov/moonshine-db-joblog) | 1 | Job queue logging with MoonShine admin panel for Laravel |
 | [ArtemYurov/laravel-autossh-tunnel](https://github.com/ArtemYurov/laravel-autossh-tunnel) | 0 | Modern SSH Tunnel Manager for Laravel with autossh support and automatic lifecyc... |
 | [beliven-fabrizio-gortani/laravel-i18n](https://github.com/beliven-fabrizio-gortani/laravel-i18n) | 0 | A small package for scan/import/export translations |
 | [teofanis/hook-press](https://github.com/teofanis/hook-press) | 6 | HookPress is a Laravel package that uses Composer hooks to automatically discove... |
@@ -23,12 +28,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cslant/github-project-php](https://github.com/cslant/github-project-php) | 8 | Provides a simple and easy-to-use webhooks system to get the GitHub project's ac... |
 | [HELMAB/laravel-bakong](https://github.com/HELMAB/laravel-bakong) | 0 | Laravel package for the Bakong Open API (National Bank of Cambodia). |
 | [patrikjak/auth](https://github.com/patrikjak/auth) | 0 | Simple auth package for Laravel apps. |
-| [arnaldo-tomo/rotabonita](https://github.com/arnaldo-tomo/rotabonita) | 1 | Zero-configuration Laravel package that replaces numeric route IDs with YouTube-... |
-| [beliven-it/laravel-i18n](https://github.com/beliven-it/laravel-i18n) | 0 | A small package for scan / import / export translations inside project |
-| [jay123anta/laravel-honeypot](https://github.com/jay123anta/laravel-honeypot) | 1 | Real-time threat detection middleware for Laravel. Detects SQL injection, XSS, R... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 0 |  |
-| [shaffe-fr/laravel-dkim](https://github.com/shaffe-fr/laravel-dkim) | 0 | Laravel package to add DKIM signatures to outgoing emails |
-| [lt-25/geocode](https://github.com/lt-25/geocode) | 1 | A powerful and elegant Laravel package for geocoding and reverse geocoding using... |
+| [arnaldo-tomo/rotabonita](https://github.com/arnaldo-tomo/rotabonita) | 2 | Zero-configuration Laravel package that replaces numeric route IDs with YouTube-... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [faustbrian/morphism](https://github.com/faustbrian/morphism) | 0 | 2026-03-04 | Reusable polymorphic key mapping for Laravel packages. Provi... |
-| [faustbrian/monad](https://github.com/faustbrian/monad) | 0 | 2026-03-04 | This package provides a Rust-aligned Option, Result, and Eit... |
-| [faustbrian/tracer](https://github.com/faustbrian/tracer) | 0 | 2026-03-04 | A Laravel package for model revision tracking and staged cha... |
-| [faustbrian/toggl](https://github.com/faustbrian/toggl) | 0 | 2026-03-04 | A powerful Laravel feature flag package with conductor-based... |
-| [faustbrian/huckle](https://github.com/faustbrian/huckle) | 0 | 2026-03-04 | Huckle is an HCL-based multi-tenant configuration management... |
-| [faustbrian/ferret](https://github.com/faustbrian/ferret) | 0 | 2026-03-04 | Ferret is a Laravel package for searching and loading config... |
-| [faustbrian/cloak](https://github.com/faustbrian/cloak) | 0 | 2026-03-04 | Cloak is a security-focused Laravel package that prevents se... |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-03-04 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [faustbrian/sequencer](https://github.com/faustbrian/sequencer) | 0 | 2026-03-04 | A powerful Laravel package that orchestrates sequential exec... |
-| [faustbrian/sentinel](https://github.com/faustbrian/sentinel) | 0 | 2026-03-04 | Multi-Factor Authentication package for Laravel applications... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-03-04 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [SrGnis/hub01-shop](https://github.com/SrGnis/hub01-shop) | 6 | 2026-03-04 | A Cataclysm Games project repository and management platform... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-03-04 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-03-04 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-03-04 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-03-04 | A conlang dictionary Laravel package - the luxurious way to ... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-04 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-04 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-04 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [kolaybi/activity-log](https://github.com/kolaybi/activity-log) | 0 | 2026-03-04 | Standalone activity logging package for Laravel. Logs human-... |
+| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-03-04 | A foundational package providing base classes and utilities ... |
+| [kolaybi/request-tracer](https://github.com/kolaybi/request-tracer) | 0 | 2026-03-04 | Standalone request tracing package for Laravel. Captures out... |
+| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-03-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-03-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-03-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-03-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/filament-mails](https://github.com/backstagephp/filament-mails) | 159 | 2026-03-04 | Collect everything about sent mails in your Filament app. |
+| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-03-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 239 | 2026-03-04 | Collect everything about sent mails in your Laravel app |
+| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 5 | 2026-03-04 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
+| [jay123anta/laravel-honeypot](https://github.com/jay123anta/laravel-honeypot) | 2 | 2026-03-04 | Real-time threat detection middleware for Laravel. Detects S... |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 175 | 2026-03-04 | Laravel 12, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-04 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-04 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [zaeem2396/schema-lens](https://github.com/zaeem2396/schema-lens) | 3 | 2026-03-04 | A Laravel package that extends the default Artisan CLI with ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 119 | 2026-03-04 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-04 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 134 | 2026-03-04 | Create and manage menu in your Filament app. |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-04 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-04T12:11 | 5 | 1688 | 2429 |
 | 2026-03-04T06:15 | 2 | 1690 | 2424 |
 | 2026-03-04T00:22 | 4 | 1684 | 2422 |
 | 2026-03-03T18:16 | 10 | 1680 | 2418 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-02T18:15 | 14 | 1676 | 2388 |
 | 2026-03-02T12:12 | 3 | 1691 | 2374 |
 | 2026-03-02T06:20 | 6 | 1689 | 2371 |
-| 2026-03-02T00:22 | 6 | 1688 | 2365 |
 
 ---
 

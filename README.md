@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2422  
-**Last updated:** 2026-03-04T00:22:36.053Z
+**Total packages tracked:** 2424  
+**Last updated:** 2026-03-04T06:15:42.663Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [funnydevjsc/laravel-ip-filter](https://github.com/funnydevjsc/laravel-ip-filter) | 1 | The free Laravel package to help you filter your users ip address with multiple ... |
+| [veeqtoh/prompt-deck](https://github.com/veeqtoh/prompt-deck) | 0 | A Laravel package for versioned AI prompt management. Provides variable interpol... |
 | [coyotito-mx/laravel-package-skeleton](https://github.com/coyotito-mx/laravel-package-skeleton) | 0 |  |
 | [DHFlagging/package_AzureAuth_api](https://github.com/DHFlagging/package_AzureAuth_api) | 0 | Laravel package for adding authentication implementation on all routes for a Lar... |
 | [Laragear/MetaTesting](https://github.com/Laragear/MetaTesting) | 3 | A Laravel Package for testing Laravel Packages |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 0 |  |
 | [shaffe-fr/laravel-dkim](https://github.com/shaffe-fr/laravel-dkim) | 0 | Laravel package to add DKIM signatures to outgoing emails |
 | [lt-25/geocode](https://github.com/lt-25/geocode) | 1 | A powerful and elegant Laravel package for geocoding and reverse geocoding using... |
-| [muhammad-sufyan5/sufyan-laravel-migration-lint-package](https://github.com/muhammad-sufyan5/sufyan-laravel-migration-lint-package) | 6 | A lightweight Laravel package that analyzes and warns about risky database migra... |
-| [mckenziearts/blade-untitledui-icons](https://github.com/mckenziearts/blade-untitledui-icons) | 16 | A package to easily make use of UntitledUI icons in your Laravel Blade views. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-04 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-04 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-03-04 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-03-04 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-03-04 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-03-04 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-03-04 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [jeffersongoncalves/filament-whatsapp-widget](https://github.com/jeffersongoncalves/filament-whatsapp-widget) | 6 | 2026-03-04 | This Filament package provides a simple yet customizable Wha... |
-| [jeffersongoncalves/filament-umami](https://github.com/jeffersongoncalves/filament-umami) | 3 | 2026-03-04 | Filament plugin for Umami analytics — tracking script inject... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-03-03 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-03-03 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-03 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-03-03 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [houdaslassi/vantage](https://github.com/houdaslassi/vantage) | 229 | 2026-03-03 | Vantage : Advanced Laravel Queue Monitoring & Insights packa... |
-| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 3 | 2026-03-03 | Filament plugin to integrate Plausible Analytics with a sett... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 344 | 2026-03-03 | The official Laravel Nightwatch package. |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-03-03 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [jeffersongoncalves/filament-pixel](https://github.com/jeffersongoncalves/filament-pixel) | 2 | 2026-03-03 | Filament plugin to manage Meta (Facebook) Pixel settings fro... |
-| [jeffersongoncalves/filament-one-time-operations](https://github.com/jeffersongoncalves/filament-one-time-operations) | 2 | 2026-03-03 | This is a Laravel Filament package that provides a One Time ... |
+| [faustbrian/morphism](https://github.com/faustbrian/morphism) | 0 | 2026-03-04 | Reusable polymorphic key mapping for Laravel packages. Provi... |
+| [faustbrian/monad](https://github.com/faustbrian/monad) | 0 | 2026-03-04 | This package provides a Rust-aligned Option, Result, and Eit... |
+| [faustbrian/tracer](https://github.com/faustbrian/tracer) | 0 | 2026-03-04 | A Laravel package for model revision tracking and staged cha... |
+| [faustbrian/toggl](https://github.com/faustbrian/toggl) | 0 | 2026-03-04 | A powerful Laravel feature flag package with conductor-based... |
+| [faustbrian/huckle](https://github.com/faustbrian/huckle) | 0 | 2026-03-04 | Huckle is an HCL-based multi-tenant configuration management... |
+| [faustbrian/ferret](https://github.com/faustbrian/ferret) | 0 | 2026-03-04 | Ferret is a Laravel package for searching and loading config... |
+| [faustbrian/cloak](https://github.com/faustbrian/cloak) | 0 | 2026-03-04 | Cloak is a security-focused Laravel package that prevents se... |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-03-04 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [faustbrian/sequencer](https://github.com/faustbrian/sequencer) | 0 | 2026-03-04 | A powerful Laravel package that orchestrates sequential exec... |
+| [faustbrian/sentinel](https://github.com/faustbrian/sentinel) | 0 | 2026-03-04 | Multi-Factor Authentication package for Laravel applications... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-03-04 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [SrGnis/hub01-shop](https://github.com/SrGnis/hub01-shop) | 6 | 2026-03-04 | A Cataclysm Games project repository and management platform... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-03-04 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-03-04 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-03-04 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [petermarkley/tollerus](https://github.com/petermarkley/tollerus) | 1 | 2026-03-04 | A conlang dictionary Laravel package - the luxurious way to ... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-04 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-04 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-04 | 🌍 Validate Turkish identity numbers and addresses efficient... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-04T06:15 | 2 | 1690 | 2424 |
 | 2026-03-04T00:22 | 4 | 1684 | 2422 |
 | 2026-03-03T18:16 | 10 | 1680 | 2418 |
 | 2026-03-03T12:12 | 7 | 1682 | 2408 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-02T12:12 | 3 | 1691 | 2374 |
 | 2026-03-02T06:20 | 6 | 1689 | 2371 |
 | 2026-03-02T00:22 | 6 | 1688 | 2365 |
-| 2026-03-01T18:07 | 6 | 1687 | 2359 |
 
 ---
 

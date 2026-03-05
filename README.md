@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2445  
-**Last updated:** 2026-03-05T00:23:24.473Z
+**Total packages tracked:** 2449  
+**Last updated:** 2026-03-05T06:17:43.611Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [faustbrian/breadcrumbs](https://github.com/faustbrian/breadcrumbs) | 0 | A modern Laravel breadcrumbs package with class-based definitions, deterministic... |
+| [ArriendoLLC/bug-report](https://github.com/ArriendoLLC/bug-report) | 0 | A PHP package that adds ready to use bug report tracking, managed in app and int... |
+| [infoxchange/laravel-messagemedia](https://github.com/infoxchange/laravel-messagemedia) | 0 | A modern, lightweight Laravel 6+ package for the MessageMedia Messages API with ... |
+| [alp-develop/laravel-livewire-tables](https://github.com/alp-develop/laravel-livewire-tables) | 1 | Datatable package for Laravel using Livewire 3 & 4. Build powerful, reactive tab... |
 | [polkachu/laravel-agentmail](https://github.com/polkachu/laravel-agentmail) | 0 | A Laravel package for Agentmail API integration |
 | [SyedUsamaHaiderKazmi/datafinder](https://github.com/SyedUsamaHaiderKazmi/datafinder) | 2 | A Laravel package for dynamic search and filtering using DataTables and Eloquent... |
 | [mikebronner/laravel-tenancy-scout](https://github.com/mikebronner/laravel-tenancy-scout) | 1 | Providing scout commands for the Laravel Tenancy package. |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [alidaaer/laravel-agentops](https://github.com/alidaaer/laravel-agentops) | 0 | The Laravel AgentOps Package |
 | [arnaldo-tomo/laravel-auto-alert](https://github.com/arnaldo-tomo/laravel-auto-alert) | 1 | Zero-configuration notification package for Laravel that automatically detects s... |
 | [JolitaGrazyte/laravel-discogs](https://github.com/JolitaGrazyte/laravel-discogs) | 5 | An easy to use Laravel-Discogs package. |
-| [nicolaeum/translator-client](https://github.com/nicolaeum/translator-client) | 0 | Official Laravel package for LangSyncer.com - the live translation management pl... |
-| [Asnardd/lang-helper](https://github.com/Asnardd/lang-helper) | 1 | A simple package for Laravel to help you create lang files easily with artisan |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 0 | Manage and track inventory with a PHP package that integrates smoothly and suppo... |
-| [Godrade/laravel-ban](https://github.com/Godrade/laravel-ban) | 2 | A complete, performant and highly configurable ban package for Laravel. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-05 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-05 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-05 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [statikbe/laravel-cookie-consent](https://github.com/statikbe/laravel-cookie-consent) | 211 | 2026-03-04 | The package includes a script & styling for a cookie banner ... |
-| [polkachu/laravel-agentmail](https://github.com/polkachu/laravel-agentmail) | 0 | 2026-03-04 | A Laravel package for Agentmail API integration |
-| [mikebronner/laravel-nova-morph-many-to-one](https://github.com/mikebronner/laravel-nova-morph-many-to-one) | 2 | 2026-03-04 | Drop-in package that adds a many-to-one (inverse of one-to-m... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 7 | 2026-03-04 | TeamKit is a robust starter kit built on Laravel 12.x and Fi... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 318 | 2026-03-04 | Laravel SMS Gateway Integration Package |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 0 | 2026-03-04 | Manage and track inventory with a PHP package that integrate... |
-| [SyedUsamaHaiderKazmi/datafinder](https://github.com/SyedUsamaHaiderKazmi/datafinder) | 2 | 2026-03-04 | A Laravel package for dynamic search and filtering using Dat... |
-| [95tuanle/project-management-with-laravel](https://github.com/95tuanle/project-management-with-laravel) | 0 | 2026-03-04 | Simple Project Management Application with Laravel |
-| [jairmmz/filamentphp-boilerplate](https://github.com/jairmmz/filamentphp-boilerplate) | 1 | 2026-03-04 | A modern Laravel starter kit with FilamentPHP 5, designed to... |
-| [veeqtoh/prompt-deck](https://github.com/veeqtoh/prompt-deck) | 1 | 2026-03-04 | A Laravel package for versioned AI prompt management with va... |
-| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 2 | 2026-03-04 | The Laravel Lobster |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-03-04 | The Moox Project - Packages for Filament and Laravel |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-03-04 | Empower your users with a modern, intuitive visual editor. T... |
-| [jeffersongoncalves/laravel-satis](https://github.com/jeffersongoncalves/laravel-satis) | 3 | 2026-03-04 | A Laravel package for managing private Composer repositories... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 0 | 2026-03-04 |  |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-03-04 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-03-04 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-05 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-05 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-05 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-05 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [roots/acorn-ai](https://github.com/roots/acorn-ai) | 9 | 2026-03-05 | Acorn package that wraps laravel/ai and adds first-class int... |
+| [TamirRental/laravel-text-extractor](https://github.com/TamirRental/laravel-text-extractor) | 1 | 2026-03-05 | Laravel package for extracting text from documents and image... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-03-05 | Chief admin package |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-03-05 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [XVE-BV/laravel-db-export](https://github.com/XVE-BV/laravel-db-export) | 0 | 2026-03-05 | A Laravel package for database exports with profile-based ex... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-03-05 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-03-05 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-03-05 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-03-05 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-03-05 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-03-05 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [faustbrian/tracer](https://github.com/faustbrian/tracer) | 0 | 2026-03-05 | A Laravel package for model revision tracking and staged cha... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-05 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [faustbrian/toggl](https://github.com/faustbrian/toggl) | 0 | 2026-03-05 | A powerful Laravel feature flag package with conductor-based... |
+| [faustbrian/sequencer](https://github.com/faustbrian/sequencer) | 0 | 2026-03-05 | A powerful Laravel package that orchestrates sequential exec... |
+| [faustbrian/sentinel](https://github.com/faustbrian/sentinel) | 0 | 2026-03-05 | Multi-Factor Authentication package for Laravel applications... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-05T06:17 | 4 | 1689 | 2449 |
 | 2026-03-05T00:23 | 8 | 1684 | 2445 |
 | 2026-03-04T18:15 | 8 | 1682 | 2437 |
 | 2026-03-04T12:11 | 5 | 1688 | 2429 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-03T12:12 | 7 | 1682 | 2408 |
 | 2026-03-03T06:17 | 5 | 1684 | 2401 |
 | 2026-03-03T00:23 | 8 | 1682 | 2396 |
-| 2026-03-02T18:15 | 14 | 1676 | 2388 |
 
 ---
 

@@ -2,15 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2514  
-**Last updated:** 2026-03-08T06:14:17.369Z
+**Total packages tracked:** 2521  
+**Last updated:** 2026-03-08T12:08:46.062Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Kovah/laravel-html-meta](https://github.com/Kovah/laravel-html-meta) | 8 | A simple helper to retrieve the HTML meta tags of a website. |
+| [nafiesl/SimpleCrudGenerator](https://github.com/nafiesl/SimpleCrudGenerator) | 172 | Faster test-driven development for CRUD feature in Laravel project. |
+| [f9webltd/laravel-deletable](https://github.com/f9webltd/laravel-deletable) | 159 | :space_invader: Gracefully restrict deletion of Laravel Eloquent models |
+| [shamimlaravel/tgsdk](https://github.com/shamimlaravel/tgsdk) | 0 | A Laravel 12 package that implements a custom filesystem driver backed by Telegr... |
+| [rmirandasv/laravel-wompi](https://github.com/rmirandasv/laravel-wompi) | 1 | A Laravel package to integrate with the Wompi payment gateway for El Salvador |
+| [ramshi7134/packito](https://github.com/ramshi7134/packito) | 0 | Laravel package builder |
+| [vivek-mistry/repository-interface](https://github.com/vivek-mistry/repository-interface) | 0 | A Laravel package that leverages dependency injection to cleanly separate busine... |
 | [aarondfrancis/eventable](https://github.com/aarondfrancis/eventable) | 4 | A Laravel package for tracking events on Eloquent models using polymorphic relat... |
-| [jay123anta/laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | 8 | Real-time threat detection middleware for Laravel. Detects SQL injection, XSS, R... |
+| [jay123anta/laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | 9 | Real-time threat detection middleware for Laravel. Detects SQL injection, XSS, R... |
 | [agencetwogether/matomo-analytics](https://github.com/agencetwogether/matomo-analytics) | 0 | Matomo Analytics integration for Filament Panels with a set of widgets to displa... |
 | [RobustaStudio/Resala](https://github.com/RobustaStudio/Resala) | 22 | PHP & Laravel SMS Gateway Integration Package |
 | [HichemTab-tech/LaravelFS](https://github.com/HichemTab-tech/LaravelFS) | 20 | LaravelFS - A Laravel installer supporting Laravel 12, Breeze, and custom starte... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [RumenDamyanov/php-vcard](https://github.com/RumenDamyanov/php-vcard) | 3 | Framework-agnostic PHP package to generate vCard files with out-of-the-box suppo... |
 | [mhaque11889/laravel-whatsapp-cloud](https://github.com/mhaque11889/laravel-whatsapp-cloud) | 0 | A clean WhatsApp Cloud API package for Laravel |
 | [abdursoft/lara-bkash](https://github.com/abdursoft/lara-bkash) | 0 | A laravel package for Bkash payment gateway integration |
-| [MrMahedi/laravel-fileuploader](https://github.com/MrMahedi/laravel-fileuploader) | 0 | A simple file uploader package for Laravel |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | Laravel package for Indonesia regions selection with postal codes | Package Lara... |
-| [system-intelligence/Jirrum_Laravel_Starter](https://github.com/system-intelligence/Jirrum_Laravel_Starter) | 0 | A Starter Package For Your Laravel Project |
-| [aliziodev/laravel-wilayah-logos](https://github.com/aliziodev/laravel-wilayah-logos) | 0 | Addon asset logo/lambang daerah Indonesia (Provinsi dan Kab/Kota) untuk package ... |
-| [aliziodev/laravel-wilayah-boundaries](https://github.com/aliziodev/laravel-wilayah-boundaries) | 0 | Addon data polygon batas wilayah administrasi Indonesia untuk package aliziodev/... |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 0 | Laravel package untuk data wilayah administratif Indonesia (Provinsi, Kabupaten/... |
-| [speniti/filament-auth0](https://github.com/speniti/filament-auth0) | 0 | This package provides seamless Auth0 authentication integration for Filament adm... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,6 +59,14 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [liberu-real-estate/real-estate-laravel](https://github.com/liberu-real-estate/real-estate-laravel) | 97 | 2026-03-08 | Real Estate / Estate Agent, solution for your Property Agenc... |
+| [EngALAlfy/laravel-payments](https://github.com/EngALAlfy/laravel-payments) | 1 | 2026-03-08 | 💳 A unified Laravel package for multiple payment gateways (... |
+| [alp-develop/laravel-livewire-tables](https://github.com/alp-develop/laravel-livewire-tables) | 2 | 2026-03-08 | Datatable package for Laravel using Livewire 3 & 4. Build po... |
+| [liberu-maintenance/maintenance-laravel](https://github.com/liberu-maintenance/maintenance-laravel) | 45 | 2026-03-08 | CMMS - Computerised maintenance management system applicatio... |
+| [csarcrr/invoicing-integration](https://github.com/csarcrr/invoicing-integration) | 4 | 2026-03-08 | Don't vendor lock your business to one invoicing software. I... |
+| [whoami15/laravel-payrex](https://github.com/whoami15/laravel-payrex) | 0 | 2026-03-08 | Unofficial Laravel package for PayRex - Modern payment platf... |
+| [mwguerra/web-terminal](https://github.com/mwguerra/web-terminal) | 24 | 2026-03-08 | A secure web terminal package for Laravel with Filament inte... |
+| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 172 | 2026-03-08 | Full genealogy and family tree building application using La... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-03-08 | Prevent risky Laravel database migrations with static analys... |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-03-08 | Enable Laravel apps to build AI agents using Claude Code for... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-03-08 | Integrate Mixpanel analytics into Filament projects to track... |
@@ -66,19 +74,11 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 0 | 2026-03-08 |  |
 | [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-03-08 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-03-08 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [kreatifIT/laravel-codice-fiscale](https://github.com/kreatifIT/laravel-codice-fiscale) | 0 | 2026-03-08 | Laravel package for Italian Codice Fiscale (Tax Code) |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-03-08 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
 | [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-03-08 | 📈 Access real-time cryptocurrency data easily with this PHP... |
 | [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-03-08 | ⚡ Enhance Laravel applications with async caching, improving... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-08 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-08 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-08 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-08 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-08 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-08 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-03-08 | An event sourcing laravel package, complete with all the ess... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-08 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-03-08 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-03-08 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-08T12:08 | 7 | 1683 | 2521 |
 | 2026-03-08T06:14 | 1 | 1688 | 2514 |
 | 2026-03-08T00:22 | 3 | 1685 | 2513 |
 | 2026-03-07T18:07 | 4 | 1684 | 2510 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-06T18:12 | 10 | 1683 | 2491 |
 | 2026-03-06T12:11 | 7 | 1686 | 2481 |
 | 2026-03-06T06:16 | 5 | 1686 | 2474 |
-| 2026-03-06T00:27 | 7 | 1685 | 2469 |
 
 ---
 

@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2545  
-**Last updated:** 2026-03-09T12:12:47.640Z
+**Total packages tracked:** 2553  
+**Last updated:** 2026-03-09T18:17:47.921Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [VanOns/laravel-environment-importer](https://github.com/VanOns/laravel-environment-importer) | 0 | A Laravel package for easy importing of a configured environment. |
+| [KwaminaWhyte/laravel-iam-client](https://github.com/KwaminaWhyte/laravel-iam-client) | 0 | A Laravel package for integrating with the Adamus IAM (Identity and Access Manag... |
+| [agence-webup/laravel-form](https://github.com/agence-webup/laravel-form) | 14 | A Laravel package to help build forms |
+| [freeplaceholder/laravel](https://github.com/freeplaceholder/laravel) | 0 | Laravel Package for FreePlaceholder.com. Free Placeholder Images for Every Frame... |
+| [iqbalhprahara/laravel-ai-gemini-driver](https://github.com/iqbalhprahara/laravel-ai-gemini-driver) | 0 | A proxy to use google internal cloude code in laravel/ai package |
+| [mapo-89/laravel-permissions-i18n](https://github.com/mapo-89/laravel-permissions-i18n) | 0 | Translations for Spatie Laravel Permission package |
+| [souravmsh/audit-trail](https://github.com/souravmsh/audit-trail) | 0 | AuditTrail a Laravel package for managing audit logs |
+| [faustbrian/tenancy](https://github.com/faustbrian/tenancy) | 0 | Tenancy is a composable multi-tenancy package for Laravel with explicit context ... |
 | [filastudio/filament-file-output2](https://github.com/filastudio/filament-file-output2) | 11 | A powerful Laravel Filament plugin for displaying uploaded files with support fo... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | Integrate Laravel with the Agent Runner microservice to manage AI agent workflow... |
 | [shamimlaravel/laravel-cms-installer](https://github.com/shamimlaravel/laravel-cms-installer) | 0 | A self-contained Laravel 11+ CMS auto-installer package with multi-step web wiza... |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [huyentrangdhxd/eloquent-google-translate](https://github.com/huyentrangdhxd/eloquent-google-translate) | 1 | A package for translating Laravel models with ease.  is customized from the pack... |
 | [filastudio/filament-fileoutput](https://github.com/filastudio/filament-fileoutput) | 11 | A powerful Laravel Filament plugin for displaying uploaded files with support fo... |
 | [liraui/team](https://github.com/liraui/team) | 1 | Opinionated authentication package for Laravel, and React applications.  |
-| [RizkUssef/laravel-crud-api](https://github.com/RizkUssef/laravel-crud-api) | 0 | A clean, scalable Api CRUD package for the Service-based architecture for Larave... |
-| [yared-ayele-debela/laravel-smart-filter](https://github.com/yared-ayele-debela/laravel-smart-filter) | 0 | Automatically convert HTTP query parameters into Eloquent filters for Laravel AP... |
-| [AbdullahGhanem/laravel-dtone](https://github.com/AbdullahGhanem/laravel-dtone) | 0 | A package that provides an interface between Laravel and Dtone  |
-| [AbdullahGhanem/laravel-smsmisr](https://github.com/AbdullahGhanem/laravel-smsmisr) | 19 | Laravel Package that's allows you to send SMS and SMS notifications via SmsMisr ... |
-| [Laragear/Refine](https://github.com/Laragear/Refine) | 9 | Filter a database query using the request query keys and matching methods. |
-| [AbdullahGhanem/laravel-gfycat](https://github.com/AbdullahGhanem/laravel-gfycat) | 1 | laravel-gfycat A package that provides an interface between Laravel and Gfycat |
-| [x-multibyte/laravel-package-skeleton](https://github.com/x-multibyte/laravel-package-skeleton) | 0 |  |
-| [agencetwogether/hooksHelper](https://github.com/agencetwogether/hooksHelper) | 22 | Simple plugin to toggle display hooks available in current page |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 172 | 2026-03-09 | Full genealogy and family tree building application using La... |
+| [damianulan/laravel-form-forge](https://github.com/damianulan/laravel-form-forge) | 2 | 2026-03-09 | Form forge is a form builder package for Laravel. It allows ... |
+| [hybridgram/tgbot-laravel](https://github.com/hybridgram/tgbot-laravel) | 8 | 2026-03-09 | Super fast and easy to use package for Laravel to build Tele... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-03-09 | ShieldCI Laravel Package - Open-source AI-powered code quali... |
+| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 130 | 2026-03-09 | Accounting application written in Laravel 12 / PHP 8.5 using... |
+| [KeithPrinkey-ops/laravel-multi-tenancy](https://github.com/KeithPrinkey-ops/laravel-multi-tenancy) | 1 | 2026-03-09 | This is an open source Laravel Multi-Tenancy package.  |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-03-09 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [patrikjak/utils](https://github.com/patrikjak/utils) | 0 | 2026-03-09 | A simple utility package for Laravel |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-03-09 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-03-09 | Integrate Mixpanel analytics into Filament projects to track... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 0 | 2026-03-09 | Ptah — Laravel package that forges complete module structure... |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-03-09 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-03-09 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 0 | 2026-03-09 | Manage and track inventory with a PHP package that integrate... |
 | [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 0 | 2026-03-09 |  |
-| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 2 | 2026-03-09 | The Laravel Lobster |
+| [raselsay/laravel-pdf](https://github.com/raselsay/laravel-pdf) | 0 | 2026-03-09 | Laravel PDF view and download package |
 | [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-03-09 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-03-09 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [tursodatabase/turso-driver-laravel](https://github.com/tursodatabase/turso-driver-laravel) | 96 | 2026-03-09 | Turso Driver for Laravel with Native libSQL - Community SDK |
+| [dragonofmercy/laravel-gaia](https://github.com/dragonofmercy/laravel-gaia) | 1 | 2026-03-09 | Gaia package for Laravel |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-03-09 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
 | [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-03-09 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-03-09 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-09 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-09 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-09 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-09 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-03-09 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-03-09 | Laravel Package to access AI CAD |
-| [skywalker-labs/toolkit](https://github.com/skywalker-labs/toolkit) | 1 | 2026-03-09 | A comprehensive toolkit for Laravel package and application ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-09T18:17 | 8 | 1681 | 2553 |
 | 2026-03-09T12:12 | 10 | 1682 | 2545 |
 | 2026-03-09T06:23 | 3 | 1687 | 2535 |
 | 2026-03-09T00:22 | 6 | 1684 | 2532 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-08T00:22 | 3 | 1685 | 2513 |
 | 2026-03-07T18:07 | 4 | 1684 | 2510 |
 | 2026-03-07T12:08 | 4 | 1684 | 2506 |
-| 2026-03-07T06:10 | 4 | 1686 | 2502 |
 
 ---
 

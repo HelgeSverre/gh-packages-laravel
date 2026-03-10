@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2560  
-**Last updated:** 2026-03-10T01:45:14.726Z
+**Total packages tracked:** 2565  
+**Last updated:** 2026-03-10T06:43:06.570Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tpjasar/laravel-api-foundation](https://github.com/tpjasar/laravel-api-foundation) | 0 | Laravel package: API versioning (v1, v2, …), standard JSON response/error format... |
+| [as-yakovenko/laravel-lighthouse-graphql-multi-schema](https://github.com/as-yakovenko/laravel-lighthouse-graphql-multi-schema) | 15 | A Laravel package that provides multi-schema support for Lighthouse GraphQL |
+| [mikailfaruqali/datatable](https://github.com/mikailfaruqali/datatable) | 1 | A powerful Laravel package for building server-side DataTables with custom colum... |
+| [DCODE-GROUP/laravel-xero-oauth](https://github.com/DCODE-GROUP/laravel-xero-oauth) | 1 | Xero connection package we use in all our projects |
+| [tamang-manindra/laravel-useful-packages](https://github.com/tamang-manindra/laravel-useful-packages) | 0 |  |
 | [InterWorks/laravel-powerbi](https://github.com/InterWorks/laravel-powerbi) | 0 | A comprehensive Laravel package for interacting with the Microsoft Power BI REST... |
 | [squipix/laravel-paystack](https://github.com/squipix/laravel-paystack) | 0 | A Laravel Package for Paystack |
 | [squipix/support](https://github.com/squipix/support) | 0 | Support package is a collection of helpers and tools for Squipix Laravel project... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mapo-89/laravel-permissions-i18n](https://github.com/mapo-89/laravel-permissions-i18n) | 0 | Translations for Spatie Laravel Permission package |
 | [souravmsh/audit-trail](https://github.com/souravmsh/audit-trail) | 0 | AuditTrail a Laravel package for managing audit logs |
 | [faustbrian/tenancy](https://github.com/faustbrian/tenancy) | 0 | Tenancy is a composable multi-tenancy package for Laravel with explicit context ... |
-| [filastudio/filament-file-output2](https://github.com/filastudio/filament-file-output2) | 11 | A powerful Laravel Filament plugin for displaying uploaded files with support fo... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | Integrate Laravel with the Agent Runner microservice to manage AI agent workflow... |
-| [shamimlaravel/laravel-cms-installer](https://github.com/shamimlaravel/laravel-cms-installer) | 0 | A self-contained Laravel 11+ CMS auto-installer package with multi-step web wiza... |
-| [shamimlaravel/Laravel-Local-LLM-SDK](https://github.com/shamimlaravel/Laravel-Local-LLM-SDK) | 0 | Laravel Local LLM SDK is a modern, enterprise-grade Laravel package designed to ... |
-| [SkyWalkerGhost/laravel-searchable](https://github.com/SkyWalkerGhost/laravel-searchable) | 0 | `laravel-searchable` is a Laravel package that provides a simple and reusable wa... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-10 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 2 | 2026-03-10 | The Laravel Lobster |
+| [patrikjak/utils](https://github.com/patrikjak/utils) | 0 | 2026-03-10 | A simple utility package for Laravel |
 | [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-10 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-03-10 | Empower your users with a modern, intuitive visual editor. T... |
+| [as-yakovenko/laravel-lighthouse-graphql-multi-schema](https://github.com/as-yakovenko/laravel-lighthouse-graphql-multi-schema) | 15 | 2026-03-10 | A Laravel package that provides multi-schema support for Lig... |
+| [tpjasar/laravel-api-foundation](https://github.com/tpjasar/laravel-api-foundation) | 0 | 2026-03-10 | Laravel package: API versioning (v1, v2, …), standard JSON r... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-10 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 40 | 2026-03-10 | This is a Filament v4 Starter Kit for Laravel 12, designed t... |
+| [DevWizardHQ/laravel-enumify](https://github.com/DevWizardHQ/laravel-enumify) | 7 | 2026-03-10 | Auto-generate TypeScript enums and types from Laravel PHP en... |
+| [DevWizardHQ/laravel-textify](https://github.com/DevWizardHQ/laravel-textify) | 6 | 2026-03-10 | A powerful and enterprise-ready SMS package for Laravel appl... |
+| [DevWizardHQ/laravel-filex](https://github.com/DevWizardHQ/laravel-filex) | 7 | 2026-03-10 | Laravel Filex is a powerful, modern, and enterprise-grade fi... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-10 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-10 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [DevWizardHQ/laravel-localizer](https://github.com/DevWizardHQ/laravel-localizer) | 7 | 2026-03-10 | Laravel Localizer bridges Laravel translations to your SPA f... |
+| [AxelvdS/laravel-uptime-monitor-extended](https://github.com/AxelvdS/laravel-uptime-monitor-extended) | 0 | 2026-03-10 | Extended uptime monitoring package for Laravel with IP/ping ... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-03-10 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-03-10 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-03-10 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [InteractionDesignFoundation/coding-standard](https://github.com/InteractionDesignFoundation/coding-standard) | 7 | 2026-03-10 | PHPCS coding-standard for Laravel applications and packages |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-03-10 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-03-10 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-03-10 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [ArriendoLLC/bug-report](https://github.com/ArriendoLLC/bug-report) | 0 | 2026-03-10 | A PHP package that adds ready to use bug report tracking, ma... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-03-10 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-03-10 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-10 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 345 | 2026-03-10 | The official Laravel Nightwatch package. |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-03-10 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [Javaabu/passport](https://github.com/Javaabu/passport) | 0 | 2026-03-10 | Modifications brought upon laravel/passport |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-10T06:43 | 5 | 1685 | 2565 |
 | 2026-03-10T01:45 | 7 | 1685 | 2560 |
 | 2026-03-09T18:17 | 8 | 1681 | 2553 |
 | 2026-03-09T12:12 | 10 | 1682 | 2545 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-08T12:08 | 7 | 1683 | 2521 |
 | 2026-03-08T06:14 | 1 | 1688 | 2514 |
 | 2026-03-08T00:22 | 3 | 1685 | 2513 |
-| 2026-03-07T18:07 | 4 | 1684 | 2510 |
 
 ---
 

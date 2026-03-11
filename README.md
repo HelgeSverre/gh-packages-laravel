@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2574  
-**Last updated:** 2026-03-11T01:45:12.394Z
+**Total packages tracked:** 2577  
+**Last updated:** 2026-03-11T06:48:28.523Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [arielfernando1/stocker](https://github.com/arielfernando1/stocker) | 1 | Small business sales manager. |
+| [faustbrian/sso](https://github.com/faustbrian/sso) | 0 | Laravel-first SSO, OIDC, SAML, and SCIM primitives with package-owned provider p... |
+| [zevpay/checkout-laravel](https://github.com/zevpay/checkout-laravel) | 0 | Laravel integration package |
 | [Truelist-Labs/truelist-laravel](https://github.com/Truelist-Labs/truelist-laravel) | 0 | Laravel validation rule for Truelist email validation |
 | [southernins/build-tool](https://github.com/southernins/build-tool) | 0 | project build tool |
 | [southernins/env-manager](https://github.com/southernins/env-manager) | 0 |  |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [InterWorks/laravel-powerbi](https://github.com/InterWorks/laravel-powerbi) | 0 | A comprehensive Laravel package for interacting with the Microsoft Power BI REST... |
 | [squipix/laravel-paystack](https://github.com/squipix/laravel-paystack) | 0 | A Laravel Package for Paystack |
 | [squipix/support](https://github.com/squipix/support) | 0 | Support package is a collection of helpers and tools for Squipix Laravel project... |
-| [krugerdavid/laravel-bancard-qr](https://github.com/krugerdavid/laravel-bancard-qr) | 9 | Laravel wrapper package for Bancard QR API. |
-| [roberts/support](https://github.com/roberts/support) | 0 | Common functions used in Laravel packages |
-| [roberts/laravel-singledb-tenancy](https://github.com/roberts/laravel-singledb-tenancy) | 0 | Laravel package for single database multi-tenancy |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-03-11 | ShieldCI Laravel Package - Open-source AI-powered code quali... |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 136 | 2026-03-11 | A Laravel package that provides a Cookies consent floating w... |
+| [NeftaliYagua/reservas](https://github.com/NeftaliYagua/reservas) | 0 | 2026-03-11 | Sistema de Reservas Genérico PaaS - Laravel 12 + Filament 5 ... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 385 | 2026-03-11 | Open Source Laravel CRM Package |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-03-11 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-03-11 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-03-11 | Integrate Mixpanel analytics into Filament projects to track... |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-03-11 | Enable Laravel apps to build AI agents using Claude Code for... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 0 | 2026-03-11 | Manage and track inventory with a PHP package that integrate... |
 | [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 0 | 2026-03-11 |  |
+| [liberu-real-estate/real-estate-laravel](https://github.com/liberu-real-estate/real-estate-laravel) | 98 | 2026-03-11 | Real Estate / Estate Agent, solution for your Property Agenc... |
 | [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-03-11 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-03-11 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-03-11 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
 | [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-03-11 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 236 | 2026-03-11 | form builder for your users, with so many use cases |
 | [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-03-11 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 1 | 2026-03-11 | Help Desk starter kit built on Laravel 12.x and Filament 5.x... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-11 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-11 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [r2luna/brain](https://github.com/r2luna/brain) | 60 | 2026-03-11 | Brain is an elegant Laravel Package that helps you organize ... |
 | [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-11 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [lara-zeus/activity-timeline](https://github.com/lara-zeus/activity-timeline) | 4 | 2026-03-11 | Add timelines to custom pages or infolist entries effortless... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-11 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-11 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [faustbrian/tracer](https://github.com/faustbrian/tracer) | 0 | 2026-03-11 | A Laravel package for model revision tracking and staged cha... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-11T06:48 | 3 | 1693 | 2577 |
 | 2026-03-11T01:45 | 4 | 1690 | 2574 |
 | 2026-03-10T18:42 | 4 | 1688 | 2570 |
 | 2026-03-10T12:53 | 1 | 1689 | 2566 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-09T12:12 | 10 | 1682 | 2545 |
 | 2026-03-09T06:23 | 3 | 1687 | 2535 |
 | 2026-03-09T00:22 | 6 | 1684 | 2532 |
-| 2026-03-08T18:07 | 5 | 1686 | 2526 |
 
 ---
 

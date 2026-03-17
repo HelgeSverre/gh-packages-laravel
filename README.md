@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2701  
-**Last updated:** 2026-03-17T00:24:07.391Z
+**Total packages tracked:** 2718  
+**Last updated:** 2026-03-17T06:24:57.161Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | HWS Package: WordPress REST API connector (create posts, upload media) |
+| [mikeyperes/laravel-hexa-package-unsplash](https://github.com/mikeyperes/laravel-hexa-package-unsplash) | 0 | HWS Package: Unsplash stock photo API integration |
+| [mikeyperes/laravel-hexa-package-telegram](https://github.com/mikeyperes/laravel-hexa-package-telegram) | 0 | HWS Package: Telegram bot notifications and commands |
+| [mikeyperes/laravel-hexa-package-sapling](https://github.com/mikeyperes/laravel-hexa-package-sapling) | 0 | HWS Package: Sapling AI content detection API integration |
+| [mikeyperes/laravel-hexa-package-pixabay](https://github.com/mikeyperes/laravel-hexa-package-pixabay) | 0 | HWS Package: Pixabay stock photo API integration |
+| [mikeyperes/laravel-hexa-package-pexels](https://github.com/mikeyperes/laravel-hexa-package-pexels) | 0 | HWS Package: Pexels stock photo API integration |
+| [mikeyperes/laravel-hexa-package-newsdata](https://github.com/mikeyperes/laravel-hexa-package-newsdata) | 0 | HWS Package: NewsData.io article/news API integration |
+| [mikeyperes/laravel-hexa-package-gnews](https://github.com/mikeyperes/laravel-hexa-package-gnews) | 0 | HWS Package: GNews article/news API integration |
+| [mikeyperes/laravel-hexa-package-chatgpt](https://github.com/mikeyperes/laravel-hexa-package-chatgpt) | 0 | HWS Package: ChatGPT/OpenAI API integration |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | HWS Package: cPanel WP Toolkit integration (WordPress installs, credentials, one... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | A Laravel package that crawls websites to detect broken links, redirect chains, ... |
+| [njoguamos/laravel-turnstile](https://github.com/njoguamos/laravel-turnstile) | 23 | Laravel Turnstile is a Laravel package that integrates Cloudflare’s Turnstile CA... |
+| [njoguamos/laravel-jenga](https://github.com/njoguamos/laravel-jenga) | 9 | Laravel Jenga is a Laravel package designed to facilitate integration with the J... |
+| [IGedeon/laravel-wompi](https://github.com/IGedeon/laravel-wompi) | 0 | Laravel 12 package for Wompi Colombia Web Checkout: payment links, widget, trans... |
+| [ivanmitrikeski/laravel-shipping](https://github.com/ivanmitrikeski/laravel-shipping) | 20 | Shipping package for Laravel. Supported providers: UPS REST/OAuth API, FedEx RES... |
+| [ziming/laravel-statsig](https://github.com/ziming/laravel-statsig) | 6 | Laravel Package for Statsig |
+| [wandesnet/mercadopago-laravel](https://github.com/wandesnet/mercadopago-laravel) | 25 | This integration package with Mercado Pago |
 | [mrmarchone/laravel-auto-crud](https://github.com/mrmarchone/laravel-auto-crud) | 285 | Laravel Auto CRUD Generator is a package that simplifies CRUD (Create, Read, Upd... |
 | [thedevdojo/tails](https://github.com/thedevdojo/tails) | 68 | This is the Tails composer package for Laravel. Easily fetch designs in your Lar... |
 | [datashaman/dispatch](https://github.com/datashaman/dispatch) | 0 | Self-hosted webhook server that dispatches GitHub events to AI agents — rule-bas... |
-| [GianfriAur/opcua-laravel-client](https://github.com/GianfriAur/opcua-laravel-client) | 0 | OPC UA client integration for Laravel with Facade, named connections, and an opt... |
-| [orchestral/testbench-browser-kit](https://github.com/orchestral/testbench-browser-kit) | 36 | Laravel Browser Kit Testing Helper for Packages Development |
-| [peter-meijer/laravel-model-settings](https://github.com/peter-meijer/laravel-model-settings) | 0 | A flexible and type-safe settings package for Laravel models. |
-| [njoguamos/laravel-plausible](https://github.com/njoguamos/laravel-plausible) | 20 | Laravel Plausible is a Laravel package designed to integrate with the Plausible ... |
-| [dniccum/secret-stash-cli](https://github.com/dniccum/secret-stash-cli) | 0 | A PHP-based Composer package to interact with the SecretStash environment variab... |
-| [binarysolutionsnl/test-data-blueprints](https://github.com/binarysolutionsnl/test-data-blueprints) | 0 | Laravel package for reusable scenario-based test datasets beyond factories and s... |
-| [steveneppler/teslog-web](https://github.com/steveneppler/teslog-web) | 0 | Self-hosted Tesla vehicle data logging and analytics platform |
-| [Label84/laravel-hours-helper](https://github.com/Label84/laravel-hours-helper) | 276 | Create a Collection of dates/times with a specific interval for a specific perio... |
-| [Blacky0892/laravel-max-bot](https://github.com/Blacky0892/laravel-max-bot) | 0 | Laravel package for MAX Bot API |
-| [cipi-sh/agent](https://github.com/cipi-sh/agent) | 0 | Cipi Agent for Laravel applications |
-| [madpilot78/Laravel-FreeBoxPHP](https://github.com/madpilot78/Laravel-FreeBoxPHP) | 0 | Laravel package for FreeBoxPHP |
-| [cosamey/spine](https://github.com/cosamey/spine) | 0 | Pragmatic Laravel foundation package. |
-| [aporat/laravel-api-middleware](https://github.com/aporat/laravel-api-middleware) | 0 | A Laravel package for API middleware including trust proxies, SSL, and no-cache. |
-| [whilesmartphp/eloquent-projects](https://github.com/whilesmartphp/eloquent-projects) | 0 | Polymorphic project and version management package for Laravel applications |
-| [jundayw/laravel-passport](https://github.com/jundayw/laravel-passport) | 0 | A lightweight and scalable PHP API request verification and response signature e... |
-| [Carloolivera/taskflow](https://github.com/Carloolivera/taskflow) | 0 | TaskFlow - Personal task/project manager built with Laravel 12, Livewire 3, Tail... |
-| [Arshad1114/laravel-dms-disk-server](https://github.com/Arshad1114/laravel-dms-disk-server) | 3 | Laravel server-side receiver package for arshad1114/laravel-dms-disk. Exposes a ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -43,7 +43,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 441 | A package to handle multilingual routes in your Laravel application. |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 436 | A package to keep track of your pages & understand your audience |
-| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 432 | A simple package to help integrate Cloudflare Turnstile. |
+| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 433 | A simple package to help integrate Cloudflare Turnstile. |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 432 | A media picker plugin for Filament Panels. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 418 | A modern PostGIS toolbox for Laravel |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 415 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-03-17 | Empower your users with a modern, intuitive visual editor. T... |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-03-17 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-03-17 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 25 | 2026-03-17 | A Laravel package for orchestrating AI-driven features using... |
-| [thedevdojo/tails](https://github.com/thedevdojo/tails) | 68 | 2026-03-17 | This is the Tails composer package for Laravel. Easily fetch... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-03-17 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [aporat/laravel-server-info](https://github.com/aporat/laravel-server-info) | 0 | 2026-03-17 | Laravel package for reporting server and environment status ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-03-17 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-03-17 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [aporat/laravel-appstore-purchases](https://github.com/aporat/laravel-appstore-purchases) | 2 | 2026-03-17 | Laravel package for handling App Store (Apple, iTunes, Amazo... |
-| [abranher/incident-os](https://github.com/abranher/incident-os) | 0 | 2026-03-17 | Sistema de Gestión de Incidencias para Soporte Técnico Organ... |
-| [myxiaoao/blade-blueprint-icons](https://github.com/myxiaoao/blade-blueprint-icons) | 0 | 2026-03-17 | A package to easily make use of Blueprint Icons in your Lara... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-17 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-17 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-17 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-03-16 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [defstudio/wired-tables](https://github.com/defstudio/wired-tables) | 2 | 2026-03-16 | Laravel Livewire Datatables |
-| [AuroraWebSoftware/AAuth](https://github.com/AuroraWebSoftware/AAuth) | 41 | 2026-03-16 | Hierarchical Rol-Permission Based Laravel Auth Package with ... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-16 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 12 | 2026-03-16 | A simple content page management system with a flexible cont... |
+| [tigusigalpa/ebay-php](https://github.com/tigusigalpa/ebay-php) | 10 | 2026-03-17 | Modern Laravel/PHP 8.1+ package for eBay API integration wit... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-17 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-03-17 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [mikeyperes/laravel-hexa-package-unsplash](https://github.com/mikeyperes/laravel-hexa-package-unsplash) | 0 | 2026-03-17 | HWS Package: Unsplash stock photo API integration |
+| [mikeyperes/laravel-hexa-package-telegram](https://github.com/mikeyperes/laravel-hexa-package-telegram) | 0 | 2026-03-17 | HWS Package: Telegram bot notifications and commands |
+| [mikeyperes/laravel-hexa-package-sapling](https://github.com/mikeyperes/laravel-hexa-package-sapling) | 0 | 2026-03-17 | HWS Package: Sapling AI content detection API integration |
+| [mikeyperes/laravel-hexa-package-pixabay](https://github.com/mikeyperes/laravel-hexa-package-pixabay) | 0 | 2026-03-17 | HWS Package: Pixabay stock photo API integration |
+| [mikeyperes/laravel-hexa-package-pexels](https://github.com/mikeyperes/laravel-hexa-package-pexels) | 0 | 2026-03-17 | HWS Package: Pexels stock photo API integration |
+| [mikeyperes/laravel-hexa-package-newsdata](https://github.com/mikeyperes/laravel-hexa-package-newsdata) | 0 | 2026-03-17 | HWS Package: NewsData.io article/news API integration |
+| [mikeyperes/laravel-hexa-package-gnews](https://github.com/mikeyperes/laravel-hexa-package-gnews) | 0 | 2026-03-17 | HWS Package: GNews article/news API integration |
+| [mikeyperes/laravel-hexa-package-chatgpt](https://github.com/mikeyperes/laravel-hexa-package-chatgpt) | 0 | 2026-03-17 | HWS Package: ChatGPT/OpenAI API integration |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-17 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-03-17 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-03-17 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-03-17 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-03-17 | A Laravel package that crawls websites to detect broken link... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-03-17 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-17 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-17 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [cboxdk/statamic-mcp](https://github.com/cboxdk/statamic-mcp) | 22 | 2026-03-17 | AI-powered development tools for Statamic CMS. Provides 100+... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-17T06:24 | 17 | 1676 | 2718 |
 | 2026-03-17T00:24 | 2 | 1692 | 2701 |
 | 2026-03-16T18:22 | 7 | 1686 | 2699 |
 | 2026-03-16T12:18 | 9 | 1684 | 2692 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-15T12:10 | 10 | 1682 | 2668 |
 | 2026-03-15T06:22 | 2 | 1692 | 2658 |
 | 2026-03-15T00:27 | 2 | 1692 | 2656 |
-| 2026-03-14T18:08 | 5 | 1689 | 2654 |
 
 ---
 

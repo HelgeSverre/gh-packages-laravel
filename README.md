@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2754  
-**Last updated:** 2026-03-18T00:24:47.299Z
+**Total packages tracked:** 2759  
+**Last updated:** 2026-03-18T06:25:24.772Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [lucabecchetti/laravel-mysql-partition](https://github.com/lucabecchetti/laravel-mysql-partition) | 154 | Useful Laravel package to easily work with MySQL Partition |
+| [yajra/laravel-auditable](https://github.com/yajra/laravel-auditable) | 169 | Basic Auditable package for Eloquent Model. |
+| [cod3xa/vectora](https://github.com/cod3xa/vectora) | 0 | A Laravel-first vector search package that enables seamless Pinecone integration... |
+| [IamTIqbal/bkash-php-sdk](https://github.com/IamTIqbal/bkash-php-sdk) | 0 | Unofficial PHP SDK and Laravel package for integrating bKash payment gateway in ... |
+| [xzxzyzyz/laravel-uuid-model](https://github.com/xzxzyzyz/laravel-uuid-model) | 0 | This package allows you to easily work with UUIDs in your Laravel models |
 | [bepsvpt/blurhash](https://github.com/bepsvpt/blurhash) | 130 | A PHP implementation of BlurHash with Laravel integration. |
 | [devxisas/qr-studio](https://github.com/devxisas/qr-studio) | 0 | A QR code generator package for Laravel. |
 | [medchelios/nimba-sms](https://github.com/medchelios/nimba-sms) | 0 | Un package Laravel élégant et facile à utiliser pour l'intégration de l'API SMS ... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ranetrace/laravel-cloudflare](https://github.com/ranetrace/laravel-cloudflare) | 3 | Retrieve the current Cloudflare IP ranges, cache them, automatically update them... |
 | [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 45 | Laravel için Mutlucell SMS Kütüphanesi |
 | [corgab/aether](https://github.com/corgab/aether) | 0 | Quantum computing bridge for Laravel. Solve the impossible with atomic-powered o... |
-| [chevere/workflow-laravel](https://github.com/chevere/workflow-laravel) | 1 | Chevere Workflow integration for Laravel - Declarative workflow engine for PHP w... |
-| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | Laravel package for integrating with Ranetrace – error tracking, website analyti... |
-| [trovster/laravel-webfinger](https://github.com/trovster/laravel-webfinger) | 11 | A Laravel package to create an ActivityPub webfinger |
-| [RobertBoes/blade-selfhst-icons](https://github.com/RobertBoes/blade-selfhst-icons) | 0 | A package to easily make use of selfh.st Icons in your Laravel Blade views. |
-| [hwkdo/seventhings-laravel](https://github.com/hwkdo/seventhings-laravel) | 0 | my package for interacting with seventhings REST-API |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 346 | 2026-03-18 | The official Laravel Nightwatch package. |
-| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 3 | 2026-03-18 | Filament plugin to integrate Plausible Analytics with a sett... |
+| [yajra/laravel-auditable](https://github.com/yajra/laravel-auditable) | 169 | 2026-03-18 | Basic Auditable package for Eloquent Model. |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-18 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [lucabecchetti/laravel-mysql-partition](https://github.com/lucabecchetti/laravel-mysql-partition) | 154 | 2026-03-18 | Useful Laravel package to easily work with MySQL Partition |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-18 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-03-18 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-03-18 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [NeftaliYagua/reservas](https://github.com/NeftaliYagua/reservas) | 0 | 2026-03-18 | Sistema de Reservas Genérico PaaS - Laravel 12 + Filament 5 ... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-03-18 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-03-18 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [demyanenkomaks/support](https://github.com/demyanenkomaks/support) | 1 | 2026-03-18 | Помощник для Laravel |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-03-18 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 0 | 2026-03-18 | An opinionated Laravel package for interacting with WAHA API |
+| [cod3xa/vectora](https://github.com/cod3xa/vectora) | 0 | 2026-03-18 | A Laravel-first vector search package that enables seamless ... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-03-18 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-03-18 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [lianmaymesi/livewire-phone](https://github.com/lianmaymesi/livewire-phone) | 0 | 2026-03-18 | lianmaymesi/livewire-phone is a Laravel and Livewire-oriente... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-18 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-03-18 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-03-18 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-03-18 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-18 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-18 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-18 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [devxisas/qr-studio](https://github.com/devxisas/qr-studio) | 0 | 2026-03-17 | A QR code generator package for Laravel. |
-| [squipix/support](https://github.com/squipix/support) | 0 | 2026-03-17 | Support package is a collection of helpers and tools for Squ... |
-| [steveneppler/teslog-web](https://github.com/steveneppler/teslog-web) | 0 | 2026-03-17 | Self-hosted Tesla vehicle data logging and analytics platfor... |
-| [mrmarchone/laravel-auto-crud](https://github.com/mrmarchone/laravel-auto-crud) | 285 | 2026-03-17 | Laravel Auto CRUD Generator is a package that simplifies CRU... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 4 | 2026-03-17 | ServiceDeskKit is a robust starter kit built on Laravel 13.x... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 1 | 2026-03-17 | HelpDeskKit is a robust starter kit built on Laravel 13.x an... |
-| [syofyanzuhad/filament-zkteco-adms](https://github.com/syofyanzuhad/filament-zkteco-adms) | 2 | 2026-03-17 | Package to receive data from zkteco device through adms |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 8 | 2026-03-17 | FilaKit is a robust starter kit built on Laravel 13.x and Fi... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 319 | 2026-03-17 | Laravel SMS Gateway Integration Package |
-| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 1 | 2026-03-17 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 7 | 2026-03-17 | TeamKit is a robust starter kit built on Laravel 13.x and Fi... |
-| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 8 | 2026-03-17 | FilaKit is a robust starter kit built on Laravel 13.x and Fi... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-18T06:25 | 5 | 1682 | 2759 |
 | 2026-03-18T00:24 | 11 | 1676 | 2754 |
 | 2026-03-17T18:21 | 18 | 1672 | 2743 |
 | 2026-03-17T12:17 | 7 | 1684 | 2725 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-16T12:18 | 9 | 1684 | 2692 |
 | 2026-03-16T06:34 | 2 | 1689 | 2683 |
 | 2026-03-16T00:27 | 6 | 1685 | 2681 |
-| 2026-03-15T18:09 | 7 | 1685 | 2675 |
 
 ---
 

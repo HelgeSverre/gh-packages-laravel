@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2798  
-**Last updated:** 2026-03-19T00:25:15.734Z
+**Total packages tracked:** 2800  
+**Last updated:** 2026-03-19T06:22:44.225Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [digital-entropy/yalr](https://github.com/digital-entropy/yalr) | 8 | Yet Another Laravel Router |
+| [Stillat/dagger](https://github.com/Stillat/dagger) | 195 | A robust component authoring library for Laravel Blade. |
 | [overageGH/e-ShopLaravelFilament-test](https://github.com/overageGH/e-ShopLaravelFilament-test) | 0 | 🛒 Full-stack e-commerce platform with Laravel 12, Filament 3.2, Livewire & Alpi... |
 | [Label84/laravel-mailviewer](https://github.com/Label84/laravel-mailviewer) | 14 | View and analyse mails sent by your Laravel application in the browser. |
 | [Label84/laravel-tagmanager](https://github.com/Label84/laravel-tagmanager) | 42 | Easier way to add Google Tag Manager to your Laravel application. Including supp... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [stayallive/laravel-eloquent-uuid](https://github.com/stayallive/laravel-eloquent-uuid) | 4 | Generate a UUIDv4 for the primary key or any other attribute on an Eloquent mode... |
 | [stayallive/laravel-eloquent-observable](https://github.com/stayallive/laravel-eloquent-observable) | 29 | Register Eloquent model event listeners just-in-time directly on the model. |
 | [scabarcas17/laravel-permissions-redis](https://github.com/scabarcas17/laravel-permissions-redis) | 0 | A Redis-powered roles and permissions package for Laravel designed to eliminate ... |
-| [entrepeneur4lyf/laravel-psl](https://github.com/entrepeneur4lyf/laravel-psl) | 0 | Laravel-first package that makes the PHP Standard Library (PSL) feel natural ins... |
-| [adrianorsouza/laravel-geolocation](https://github.com/adrianorsouza/laravel-geolocation) | 65 | Laravel package to get the details about Region, City and Country for a given IP... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -39,8 +39,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 479 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 463 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 456 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
-| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 453 | Add kanban boards to your Filament pages |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 457 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
+| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 454 | Add kanban boards to your Filament pages |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 441 | A package to handle multilingual routes in your Laravel application. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 1 | 2026-03-19 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
-| [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 481 | 2026-03-19 | This package allows you to easily work with UUIDs in your La... |
-| [tvup/sail-scaffold](https://github.com/tvup/sail-scaffold) | 1 | 2026-03-19 | Self-hosted Laravel project scaffolding service with configu... |
-| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-03-19 | A Filament plugin to add markdown-based documentation to you... |
-| [jeffersongoncalves/filament-metrics-fathom](https://github.com/jeffersongoncalves/filament-metrics-fathom) | 2 | 2026-03-19 | Filament plugin for Fathom Analytics metrics - dashboard wid... |
-| [jeffersongoncalves/filament-mixpanel](https://github.com/jeffersongoncalves/filament-mixpanel) | 1 | 2026-03-19 | Filament plugin for Mixpanel analytics — tracking script inj... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-03-19 | ServiceDeskKit is a robust starter kit built on Laravel 13.x... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-03-19 | ServiceDeskKit starter kit built on Laravel 12.x and Filamen... |
-| [jeffersongoncalves/laravel-metrics-fathom](https://github.com/jeffersongoncalves/laravel-metrics-fathom) | 3 | 2026-03-19 | Laravel package to interact with Fathom Analytics API - fetc... |
-| [jeffersongoncalves/laravel-satis](https://github.com/jeffersongoncalves/laravel-satis) | 3 | 2026-03-19 | A Laravel package for managing private Composer repositories... |
-| [overageGH/e-ShopLaravelFilament-test](https://github.com/overageGH/e-ShopLaravelFilament-test) | 0 | 2026-03-19 | 🛒 Full-stack e-commerce platform with Laravel 12, Filament ... |
-| [jeffersongoncalves/laravel-metrics-matomo](https://github.com/jeffersongoncalves/laravel-metrics-matomo) | 4 | 2026-03-19 | Laravel package to interact with Matomo Analytics Reporting ... |
-| [FoleyBridge-Solutions/practicecs-pi](https://github.com/FoleyBridge-Solutions/practicecs-pi) | 0 | 2026-03-19 | PracticeCS Programming Interface - Laravel REST API client p... |
-| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 1 | 2026-03-19 | Starter kit for help desk applications with Laravel 12, Fila... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-19 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-03-19 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-19 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [NeftaliYagua/reservas](https://github.com/NeftaliYagua/reservas) | 0 | 2026-03-19 | Sistema de Reservas Genérico PaaS - Laravel 12 + Filament 5 ... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-03-19 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [magslabs/laravel-storedproc](https://github.com/magslabs/laravel-storedproc) | 2 | 2026-03-19 | This is a custom package for Laravel to utilize/use stored p... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-03-19 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-19 | 💳 Streamline payment processing with this PHP package that ... |
+| [ogkit-dev/ogkit-laravel](https://github.com/ogkit-dev/ogkit-laravel) | 0 | 2026-03-19 | The official OG Kit Laravel package (ogkit.dev) |
+| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 172 | 2026-03-19 | Full genealogy and family tree building application using La... |
+| [as-yakovenko/laravel-lighthouse-graphql-multi-schema](https://github.com/as-yakovenko/laravel-lighthouse-graphql-multi-schema) | 15 | 2026-03-19 | A Laravel package that provides multi-schema support for Lig... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-19 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-19 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [XVE-BV/laravel-db-export](https://github.com/XVE-BV/laravel-db-export) | 0 | 2026-03-19 | A Laravel package for database exports with profile-based ex... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-19 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-19 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 0 | 2026-03-19 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [jeffersongoncalves/laravel-knowledge-base](https://github.com/jeffersongoncalves/laravel-knowledge-base) | 4 | 2026-03-19 | A Laravel package for building knowledge bases with articles... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 4 | 2026-03-19 | ServiceDeskKit is a robust starter kit built on Laravel 13.x... |
+| [verseles/Possession](https://github.com/verseles/Possession) | 4 | 2026-03-19 | Laravel user impersonation package with Sanctum compatibilit... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-03-19 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-19 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-19 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-19T06:22 | 2 | 1683 | 2800 |
 | 2026-03-19T00:25 | 14 | 1671 | 2798 |
 | 2026-03-18T18:22 | 9 | 1677 | 2784 |
 | 2026-03-18T12:18 | 16 | 1670 | 2775 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-17T12:17 | 7 | 1684 | 2725 |
 | 2026-03-17T06:24 | 17 | 1676 | 2718 |
 | 2026-03-17T00:24 | 2 | 1692 | 2701 |
-| 2026-03-16T18:22 | 7 | 1686 | 2699 |
 
 ---
 

@@ -2,39 +2,40 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2784  
-**Last updated:** 2026-03-18T18:22:14.388Z
+**Total packages tracked:** 2798  
+**Last updated:** 2026-03-19T00:25:15.734Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [DmytroGural/laravel-strapi](https://github.com/DmytroGural/laravel-strapi) | 0 | Laravel client for Strapi API. The easiest way to consume Strapi headless CMS co... |
+| [overageGH/e-ShopLaravelFilament-test](https://github.com/overageGH/e-ShopLaravelFilament-test) | 0 | 🛒 Full-stack e-commerce platform with Laravel 12, Filament 3.2, Livewire & Alpi... |
+| [Label84/laravel-mailviewer](https://github.com/Label84/laravel-mailviewer) | 14 | View and analyse mails sent by your Laravel application in the browser. |
+| [Label84/laravel-tagmanager](https://github.com/Label84/laravel-tagmanager) | 42 | Easier way to add Google Tag Manager to your Laravel application. Including supp... |
+| [Label84/laravel-auth-log](https://github.com/Label84/laravel-auth-log) | 36 | Log user authentication actions in Laravel. |
+| [tvup/sail-scaffold](https://github.com/tvup/sail-scaffold) | 1 | Self-hosted Laravel project scaffolding service with configurable Sail services,... |
+| [mike-bronner/laravel-appleseed](https://github.com/mike-bronner/laravel-appleseed) | 30 | Prevent the pesky Apple Touch Icon error log entries. |
+| [ogkit-dev/ogkit-laravel](https://github.com/ogkit-dev/ogkit-laravel) | 0 | The official OG Kit Laravel package (ogkit.dev) |
+| [Livewirez/webauthn-laravel](https://github.com/Livewirez/webauthn-laravel) | 0 | A laravel package for authenticating with webauthn passkeys on laravel applicati... |
+| [Oltrematica/laravel-parking-hub](https://github.com/Oltrematica/laravel-parking-hub) | 1 | The laravel-parking-hub package provides a standardized interface for interactin... |
+| [vdhicts/read-time](https://github.com/vdhicts/read-time) | 0 | Laravel package to determine the read time of a text |
+| [VincentBean/laravel-plausible](https://github.com/VincentBean/laravel-plausible) | 25 | A simple package to add plausible to Laravel |
+| [RichieMcMullen/laravel-strava](https://github.com/RichieMcMullen/laravel-strava) | 71 | A laravel package to access data from the Strava API. |
+| [Noaber/laravel-sportlink-dataservices](https://github.com/Noaber/laravel-sportlink-dataservices) | 0 | Sportlink Dataservice Laravel package |
+| [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 481 | This package allows you to easily work with UUIDs in your Laravel models |
+| [DmytroGural/laravel-strapi](https://github.com/DmytroGural/laravel-strapi) | 1 | Laravel client for Strapi API. The easiest way to consume Strapi headless CMS co... |
 | [stayallive/laravel-eloquent-uuid](https://github.com/stayallive/laravel-eloquent-uuid) | 4 | Generate a UUIDv4 for the primary key or any other attribute on an Eloquent mode... |
 | [stayallive/laravel-eloquent-observable](https://github.com/stayallive/laravel-eloquent-observable) | 29 | Register Eloquent model event listeners just-in-time directly on the model. |
 | [scabarcas17/laravel-permissions-redis](https://github.com/scabarcas17/laravel-permissions-redis) | 0 | A Redis-powered roles and permissions package for Laravel designed to eliminate ... |
 | [entrepeneur4lyf/laravel-psl](https://github.com/entrepeneur4lyf/laravel-psl) | 0 | Laravel-first package that makes the PHP Standard Library (PSL) feel natural ins... |
 | [adrianorsouza/laravel-geolocation](https://github.com/adrianorsouza/laravel-geolocation) | 65 | Laravel package to get the details about Region, City and Country for a given IP... |
-| [highsolutions/eloquent-sequence](https://github.com/highsolutions/eloquent-sequence) | 121 | Laravel package for managing sequence of objects |
-| [marshmallow-packages/helpers](https://github.com/marshmallow-packages/helpers) | 2 | Laravel has al lot of helpers but we sometimes miss some in our projects. We add... |
-| [eramitgupta/laravel-pwa](https://github.com/eramitgupta/laravel-pwa) | 151 | A simple and easy-to-use Laravel PWA (Progressive Web App) package for Laravel a... |
-| [EvanSchleret/laravel-typebridge](https://github.com/EvanSchleret/laravel-typebridge) | 1 | Bridge Laravel resources to deterministic TypeScript types. |
-| [diglabby/laravel-find-missing-translations](https://github.com/diglabby/laravel-find-missing-translations) | 8 | Artisan command to find missing translations |
-| [rajeshmk/laravel-sequence](https://github.com/rajeshmk/laravel-sequence) | 4 | Generate transaction-safe sequential numbers in Laravel with grouping, formattin... |
-| [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 479 | Provide "Sign In With Apple" functionality to your Laravel app. |
-| [arnaldo-tomo/laravel-rotabonita](https://github.com/arnaldo-tomo/laravel-rotabonita) | 9 | Zero-configuration Laravel package that replaces numeric route IDs with YouTube-... |
-| [harrymule/Mpesa_Laravel](https://github.com/harrymule/Mpesa_Laravel) | 0 | Laravel M-Pesa - A plug-and-play Laravel package for Safaricom M-Pesa Daraja API... |
-| [square1-io/laravel-collection-rolling-average](https://github.com/square1-io/laravel-collection-rolling-average) | 23 | This package adds a rolling average functionality to Laravel's Collection facade... |
-| [PyaeSoneAungRgn/sportmonks-football-api](https://github.com/PyaeSoneAungRgn/sportmonks-football-api) | 27 | Laravel package for Sportmonks Football Api(V3) |
-| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | A package for Miro |
-| [einar-hansen/laravel-toolkit](https://github.com/einar-hansen/laravel-toolkit) | 0 | A collection of helpful utilities and extensions to speed up your Laravel develo... |
-| [shaffe-fr/laravel-mail-log-channel](https://github.com/shaffe-fr/laravel-mail-log-channel) | 12 | A package that adds a mail channel to Laravel logging |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
+| [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 481 | This package allows you to easily work with UUIDs in your Laravel models |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 479 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 463 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
@@ -53,32 +54,31 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor) | 401 | A Rich Text Editor plugin for Filament Forms. |
 | [qirolab/laravel-themer](https://github.com/qirolab/laravel-themer) | 400 | Multi theme support for Laravel application |
 | [MatanYadaev/laravel-eloquent-spatial](https://github.com/MatanYadaev/laravel-eloquent-spatial) | 399 | Laravel Eloquent spatial package. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 387 | Open Source Laravel CRM Package |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [benjamincrozat/blog-v5](https://github.com/benjamincrozat/blog-v5) | 131 | 2026-03-18 | Source code for Benjamin Crozat's blog. |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-18 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-18 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [jobmetric/laravel-package-tester](https://github.com/jobmetric/laravel-package-tester) | 1 | 2026-03-18 | This package is used to quickly test a package with all its ... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-18 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [ably/laravel-broadcaster](https://github.com/ably/laravel-broadcaster) | 68 | 2026-03-18 | Official Laravel Ably Broadcaster |
-| [rivalex/lingua](https://github.com/rivalex/lingua) | 1 | 2026-03-18 | Lingua is a Laravel package for complete translation managem... |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-03-18 | Empower your users with a modern, intuitive visual editor. T... |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 8 | 2026-03-18 | FilaKit is a robust starter kit built on Laravel 13.x and Fi... |
-| [Kosadchiy/laravel-parallel-db](https://github.com/Kosadchiy/laravel-parallel-db) | 0 | 2026-03-18 | Laravel package for parallel SQL execution via native Postgr... |
-| [jobmetric/laravel-setting](https://github.com/jobmetric/laravel-setting) | 6 | 2026-03-18 | The best package for saving system settings |
-| [hybridly/laravel](https://github.com/hybridly/laravel) | 4 | 2026-03-18 | [READ ONLY] Subtree split of the Laravel package from the Hy... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 456 | 2026-03-18 | Easy, flexible and powerful cloud-native Laravel CMS package... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-18 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [GianfriAur/opcua-laravel-client](https://github.com/GianfriAur/opcua-laravel-client) | 0 | 2026-03-18 | OPC UA client integration for Laravel with Facade, named con... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 1 | 2026-03-18 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-03-18 | ShieldCI Laravel Package - Open-source AI-powered code quali... |
-| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-03-18 | Laravel Core package that provides essential core functional... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-18 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [r2luna/brain](https://github.com/r2luna/brain) | 60 | 2026-03-18 | Brain is an elegant Laravel Package that helps you organize ... |
+| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 1 | 2026-03-19 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
+| [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 481 | 2026-03-19 | This package allows you to easily work with UUIDs in your La... |
+| [tvup/sail-scaffold](https://github.com/tvup/sail-scaffold) | 1 | 2026-03-19 | Self-hosted Laravel project scaffolding service with configu... |
+| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-03-19 | A Filament plugin to add markdown-based documentation to you... |
+| [jeffersongoncalves/filament-metrics-fathom](https://github.com/jeffersongoncalves/filament-metrics-fathom) | 2 | 2026-03-19 | Filament plugin for Fathom Analytics metrics - dashboard wid... |
+| [jeffersongoncalves/filament-mixpanel](https://github.com/jeffersongoncalves/filament-mixpanel) | 1 | 2026-03-19 | Filament plugin for Mixpanel analytics — tracking script inj... |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-03-19 | ServiceDeskKit is a robust starter kit built on Laravel 13.x... |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-03-19 | ServiceDeskKit starter kit built on Laravel 12.x and Filamen... |
+| [jeffersongoncalves/laravel-metrics-fathom](https://github.com/jeffersongoncalves/laravel-metrics-fathom) | 3 | 2026-03-19 | Laravel package to interact with Fathom Analytics API - fetc... |
+| [jeffersongoncalves/laravel-satis](https://github.com/jeffersongoncalves/laravel-satis) | 3 | 2026-03-19 | A Laravel package for managing private Composer repositories... |
+| [overageGH/e-ShopLaravelFilament-test](https://github.com/overageGH/e-ShopLaravelFilament-test) | 0 | 2026-03-19 | 🛒 Full-stack e-commerce platform with Laravel 12, Filament ... |
+| [jeffersongoncalves/laravel-metrics-matomo](https://github.com/jeffersongoncalves/laravel-metrics-matomo) | 4 | 2026-03-19 | Laravel package to interact with Matomo Analytics Reporting ... |
+| [FoleyBridge-Solutions/practicecs-pi](https://github.com/FoleyBridge-Solutions/practicecs-pi) | 0 | 2026-03-19 | PracticeCS Programming Interface - Laravel REST API client p... |
+| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 1 | 2026-03-19 | Starter kit for help desk applications with Laravel 12, Fila... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-19 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 0 | 2026-03-19 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [jeffersongoncalves/laravel-knowledge-base](https://github.com/jeffersongoncalves/laravel-knowledge-base) | 4 | 2026-03-19 | A Laravel package for building knowledge bases with articles... |
+| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 4 | 2026-03-19 | ServiceDeskKit is a robust starter kit built on Laravel 13.x... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-19 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-19 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-19T00:25 | 14 | 1671 | 2798 |
 | 2026-03-18T18:22 | 9 | 1677 | 2784 |
 | 2026-03-18T12:18 | 16 | 1670 | 2775 |
 | 2026-03-18T06:25 | 5 | 1682 | 2759 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-17T06:24 | 17 | 1676 | 2718 |
 | 2026-03-17T00:24 | 2 | 1692 | 2701 |
 | 2026-03-16T18:22 | 7 | 1686 | 2699 |
-| 2026-03-16T12:18 | 9 | 1684 | 2692 |
 
 ---
 

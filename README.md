@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2872  
-**Last updated:** 2026-03-21T06:13:48.625Z
+**Total packages tracked:** 2881  
+**Last updated:** 2026-03-21T12:08:42.604Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [codeat3/blade-clarity-icons](https://github.com/codeat3/blade-clarity-icons) | 1 | A package to easily make use of Clarity Icons in your Laravel Blade views. |
+| [codeat3/blade-carbon-icons](https://github.com/codeat3/blade-carbon-icons) | 5 | A package to easily make use of Carbon Icons in your Laravel Blade views. |
+| [codeat3/blade-bytesize-icons](https://github.com/codeat3/blade-bytesize-icons) | 0 | A package to easily make use of Bytesize Icons in your Laravel Blade views. |
+| [codeat3/blade-ant-design-icons](https://github.com/codeat3/blade-ant-design-icons) | 0 | A package to easily make use of Ant Design Icons in your Laravel Blade views. |
+| [freshbitsweb/laravel-google-analytics-4-measurement-protocol](https://github.com/freshbitsweb/laravel-google-analytics-4-measurement-protocol) | 20 | A Laravel package to use Measurement Protocol for Google Analytics 4 |
+| [codeat3/blade-akar-icons](https://github.com/codeat3/blade-akar-icons) | 7 | A package to easily make use of Akar Icons in your Laravel Blade views. |
+| [codeat3/blade-academicons](https://github.com/codeat3/blade-academicons) | 1 | A package to easily make use of Acamedicons in your Laravel Blade views. |
+| [mg-techlegend/laravel-notify-africa](https://github.com/mg-techlegend/laravel-notify-africa) | 1 | Laravel Notify Africa is a lightweight Laravel package for sending SMS via the N... |
+| [codebar-ag/laravel-filament-json-field](https://github.com/codebar-ag/laravel-filament-json-field) | 11 | Laravel Filament JSON Field |
 | [al-nemirov/litres-publisher-panel](https://github.com/al-nemirov/litres-publisher-panel) | 0 | Панель издательства для ЛитРес Самиздат — загрузка книг, модерация, авторы, сери... |
 | [dragomano/pexels-laravel](https://github.com/dragomano/pexels-laravel) | 0 | Use Pexels API to get random images |
 | [Mugil1410/custom-try-catch](https://github.com/Mugil1410/custom-try-catch) | 0 | Package : Laravel helper for handling API exceptions with logging and error trac... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [laraditz/tiktok](https://github.com/laraditz/tiktok) | 1 | Laravel package for interacting with TikTok API. |
 | [eugenefvdm/notification-subscriptions](https://github.com/eugenefvdm/notification-subscriptions) | 0 | A Laravel package for managing email subscriptions, repeat emails, and delayed s... |
 | [saucebase-dev/breadcrumbs](https://github.com/saucebase-dev/breadcrumbs) | 0 | Minimal Laravel breadcrumbs package, defines breadcrumb trails as data, not HTML |
-| [huzaifaarain/telescope-guzzle-watcher](https://github.com/huzaifaarain/telescope-guzzle-watcher) | 98 | Telescope Guzzle Watcher provide a custom watcher for intercepting http requests... |
-| [fynduck/files-upload](https://github.com/fynduck/files-upload) | 1 | Upload image or file, crop or resize image width |
-| [DissNik/moonshine-queue-dashboard](https://github.com/DissNik/moonshine-queue-dashboard) | 1 | This package provides a convenient dashboard for monitoring and managing failed ... |
-| [kevindierkx/laravel-domain-parser](https://github.com/kevindierkx/laravel-domain-parser) | 26 | Laravel package to ease the interation of PHP Domain parser |
-| [djurovicigoor/lara-files](https://github.com/djurovicigoor/lara-files) | 118 | Lara Files is a flexible Laravel package that simplifies file uploads, managemen... |
-| [Froiden/laravel-rest-api](https://github.com/Froiden/laravel-rest-api) | 137 | Powerful RestAPI plugin for Laravel |
-| [filastudio/filament-file-output](https://github.com/filastudio/filament-file-output) | 0 | A powerful Laravel Filament plugin for displaying uploaded files with support fo... |
-| [aahmadkhokhar/laravel-role-enums](https://github.com/aahmadkhokhar/laravel-role-enums) | 2 | Infrastructure package to use PHP Backed Enums as roles in Laravel. |
-| [cleaniquecoders/traitify](https://github.com/cleaniquecoders/traitify) | 19 | Traitify is a Laravel package designed to streamline and enhance your developmen... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/filament-cookie-consent](https://github.com/jeffersongoncalves/filament-cookie-consent) | 8 | 2026-03-21 | Filament plugin for cookie consent with settings page - GDPR... |
-| [oliwol/laravel-slugify](https://github.com/oliwol/laravel-slugify) | 2 | 2026-03-21 | A lightweight trait to easily add slug generation to your La... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-03-21 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-03-21 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-03-21 | Chief admin package |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-21 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [afatmustafa/blade-hugeicons](https://github.com/afatmustafa/blade-hugeicons) | 13 | 2026-03-21 | A package to easily make use of Huge Icons in your Laravel B... |
 | [datashaman/dispatch](https://github.com/datashaman/dispatch) | 0 | 2026-03-21 | Self-hosted webhook server that dispatches events to AI agen... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-03-21 | ShieldCI Laravel Package - Open-source AI-powered code quali... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-21 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-03-21 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-03-21 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-03-21 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-21 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-21 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 236 | 2026-03-21 | form builder for your users, with so many use cases |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-21 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-21 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-03-21 | A Laravel package for syncing database tables and data betwe... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-03-21 | This project collects the most commonly used Laravel extensi... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-21 | Track and display Matomo analytics data directly within Lara... |
+| [codeat3/blade-clarity-icons](https://github.com/codeat3/blade-clarity-icons) | 1 | 2026-03-21 | A package to easily make use of Clarity Icons in your Larave... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-21 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-21 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [codeat3/blade-carbon-icons](https://github.com/codeat3/blade-carbon-icons) | 5 | 2026-03-21 | A package to easily make use of Carbon Icons in your Laravel... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-21 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [pdazcom/laravel-referrals](https://github.com/pdazcom/laravel-referrals) | 28 | 2026-03-21 | Referrals system for Laravel |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 460 | 2026-03-21 | Easy, flexible and powerful cloud-native Laravel CMS package... |
+| [EscuelaIt/laravel-api-kit](https://github.com/EscuelaIt/laravel-api-kit) | 0 | 2026-03-21 | Utilities to create consistent APIs in Laravel. |
+| [codeat3/blade-bytesize-icons](https://github.com/codeat3/blade-bytesize-icons) | 0 | 2026-03-21 | A package to easily make use of Bytesize Icons in your Larav... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-21 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [codeat3/blade-ant-design-icons](https://github.com/codeat3/blade-ant-design-icons) | 0 | 2026-03-21 | A package to easily make use of Ant Design Icons in your Lar... |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-03-21 | A personal portfolio built as an interactive browser-based t... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-21 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [freshbitsweb/laravel-google-analytics-4-measurement-protocol](https://github.com/freshbitsweb/laravel-google-analytics-4-measurement-protocol) | 20 | 2026-03-21 | A Laravel package to use Measurement Protocol for Google Ana... |
+| [codeat3/blade-akar-icons](https://github.com/codeat3/blade-akar-icons) | 7 | 2026-03-21 | A package to easily make use of Akar Icons in your Laravel B... |
+| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-03-21 | Event-driven state machines for Laravel with event sourcing,... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-21 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-21 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-21T12:08 | 9 | 1666 | 2881 |
 | 2026-03-21T06:13 | 4 | 1672 | 2872 |
 | 2026-03-21T00:21 | 5 | 1671 | 2868 |
 | 2026-03-20T18:13 | 7 | 1670 | 2863 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-19T18:18 | 14 | 1663 | 2827 |
 | 2026-03-19T12:13 | 13 | 1667 | 2813 |
 | 2026-03-19T06:22 | 2 | 1683 | 2800 |
-| 2026-03-19T00:25 | 14 | 1671 | 2798 |
 
 ---
 

@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2881  
-**Last updated:** 2026-03-21T12:08:42.604Z
+**Total packages tracked:** 2910  
+**Last updated:** 2026-03-21T18:08:08.542Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [codeat3/blade-clarity-icons](https://github.com/codeat3/blade-clarity-icons) | 1 | A package to easily make use of Clarity Icons in your Laravel Blade views. |
-| [codeat3/blade-carbon-icons](https://github.com/codeat3/blade-carbon-icons) | 5 | A package to easily make use of Carbon Icons in your Laravel Blade views. |
-| [codeat3/blade-bytesize-icons](https://github.com/codeat3/blade-bytesize-icons) | 0 | A package to easily make use of Bytesize Icons in your Laravel Blade views. |
-| [codeat3/blade-ant-design-icons](https://github.com/codeat3/blade-ant-design-icons) | 0 | A package to easily make use of Ant Design Icons in your Laravel Blade views. |
-| [freshbitsweb/laravel-google-analytics-4-measurement-protocol](https://github.com/freshbitsweb/laravel-google-analytics-4-measurement-protocol) | 20 | A Laravel package to use Measurement Protocol for Google Analytics 4 |
-| [codeat3/blade-akar-icons](https://github.com/codeat3/blade-akar-icons) | 7 | A package to easily make use of Akar Icons in your Laravel Blade views. |
-| [codeat3/blade-academicons](https://github.com/codeat3/blade-academicons) | 1 | A package to easily make use of Acamedicons in your Laravel Blade views. |
-| [mg-techlegend/laravel-notify-africa](https://github.com/mg-techlegend/laravel-notify-africa) | 1 | Laravel Notify Africa is a lightweight Laravel package for sending SMS via the N... |
-| [codebar-ag/laravel-filament-json-field](https://github.com/codebar-ag/laravel-filament-json-field) | 11 | Laravel Filament JSON Field |
-| [al-nemirov/litres-publisher-panel](https://github.com/al-nemirov/litres-publisher-panel) | 0 | Панель издательства для ЛитРес Самиздат — загрузка книг, модерация, авторы, сери... |
-| [dragomano/pexels-laravel](https://github.com/dragomano/pexels-laravel) | 0 | Use Pexels API to get random images |
-| [Mugil1410/custom-try-catch](https://github.com/Mugil1410/custom-try-catch) | 0 | Package : Laravel helper for handling API exceptions with logging and error trac... |
-| [laraditz/shopee](https://github.com/laraditz/shopee) | 15 | Laravel package for interacting with Shopee API. |
-| [ssheduardo/redsys-laravel](https://github.com/ssheduardo/redsys-laravel) | 100 | Package Redsys |
-| [arhinful/laravel-mnotify](https://github.com/arhinful/laravel-mnotify) | 5 | laravel package for MNotify.net |
-| [bigdocloud/haolle-paymentmanager](https://github.com/bigdocloud/haolle-paymentmanager) | 0 | laravel paymentmanager package test |
-| [ismaelw/laratex](https://github.com/ismaelw/laratex) | 127 | A Laravel package for creating PDF files using LaTeX |
-| [laraditz/tiktok](https://github.com/laraditz/tiktok) | 1 | Laravel package for interacting with TikTok API. |
-| [eugenefvdm/notification-subscriptions](https://github.com/eugenefvdm/notification-subscriptions) | 0 | A Laravel package for managing email subscriptions, repeat emails, and delayed s... |
-| [saucebase-dev/breadcrumbs](https://github.com/saucebase-dev/breadcrumbs) | 0 | Minimal Laravel breadcrumbs package, defines breadcrumb trails as data, not HTML |
+| [s-damian/laravel-man-pagination](https://github.com/s-damian/laravel-man-pagination) | 2 | Laravel Manual Pagination - Library for manual SQL queries |
+| [s-damian/larasort](https://github.com/s-damian/larasort) | 26 | Larasort : Column sorting with Laravel - Eloquent sortable |
+| [carlosbuitragosan/perfume-formulation-manager](https://github.com/carlosbuitragosan/perfume-formulation-manager) | 0 | Laravel-based full-stack system for managing perfume formulations, materials, an... |
+| [sosupp/site-legals](https://github.com/sosupp/site-legals) | 0 | A laravel package to easily include the required website legal information such ... |
+| [maliang/lartrix](https://github.com/maliang/lartrix) | 0 | Laravel Admin Package. Build modern admin panels quickly with PHP Schema |
+| [LaravelFreelancerNL/laravel-index-now](https://github.com/LaravelFreelancerNL/laravel-index-now) | 52 | This package let's you alert search engines of content updates. |
+| [codeat3/blade-system-uicons](https://github.com/codeat3/blade-system-uicons) | 3 | A package to easily make use of "System UIcons" in your Laravel Blade views.  |
+| [codeat3/blade-teeny-icons](https://github.com/codeat3/blade-teeny-icons) | 0 | A package to easily make use of "Teeny Icons" in your Laravel Blade views.  |
+| [codeat3/blade-phosphor-icons](https://github.com/codeat3/blade-phosphor-icons) | 43 | A package to easily make use of Phosphor Icons in your Laravel Blade views. |
+| [codeat3/blade-solar-icons](https://github.com/codeat3/blade-solar-icons) | 5 | A package to easily make use of Solar Icons in your Laravel Blade views. |
+| [codeat3/blade-weather-icons](https://github.com/codeat3/blade-weather-icons) | 1 |  A package to easily make use of "Weather Icons" in your Laravel Blade views.  |
+| [codeat3/blade-vaadin-icons](https://github.com/codeat3/blade-vaadin-icons) | 0 | A package to easily make use of "Vaadin Icons" in your Laravel Blade views. |
+| [codeat3/blade-unicons](https://github.com/codeat3/blade-unicons) | 2 | A package to easily make use of "Unicons" in your Laravel Blade views.  |
+| [codeat3/blade-uiw-icons](https://github.com/codeat3/blade-uiw-icons) | 0 | A package to easily make use of Uiw Icons in your Laravel Blade views. |
+| [codeat3/blade-game-icons](https://github.com/codeat3/blade-game-icons) | 1 | A package to easily make use of Game Icons in your Laravel Blade views. |
+| [codeat3/blade-gala-icons](https://github.com/codeat3/blade-gala-icons) | 0 |  A package to easily make use of Gala Icons in your Laravel Blade views.  |
+| [codeat3/blade-forkawesome](https://github.com/codeat3/blade-forkawesome) | 2 |  A package to easily make use of "Fork Awesome Icons" in your Laravel Blade view... |
+| [codeat3/blade-fontisto-icons](https://github.com/codeat3/blade-fontisto-icons) | 1 | A package to easily make use of Fontisto Icons in your Laravel Blade views. |
+| [codeat3/blade-fontaudio](https://github.com/codeat3/blade-fontaudio) | 0 | A package to easily make use of "FontAudio Icons" in your Laravel Blade views.  |
+| [codeat3/blade-fluentui-system-icons](https://github.com/codeat3/blade-fluentui-system-icons) | 4 | A package to easily make use of FluentUI System Icons in your Laravel Blade view... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -37,7 +37,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 481 | This package allows you to easily work with UUIDs in your Laravel models |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
-| [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
+| [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 463 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 460 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 454 | Add kanban boards to your Filament pages |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [afatmustafa/blade-hugeicons](https://github.com/afatmustafa/blade-hugeicons) | 13 | 2026-03-21 | A package to easily make use of Huge Icons in your Laravel B... |
-| [datashaman/dispatch](https://github.com/datashaman/dispatch) | 0 | 2026-03-21 | Self-hosted webhook server that dispatches events to AI agen... |
-| [codeat3/blade-clarity-icons](https://github.com/codeat3/blade-clarity-icons) | 1 | 2026-03-21 | A package to easily make use of Clarity Icons in your Larave... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-21 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-21 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [codeat3/blade-carbon-icons](https://github.com/codeat3/blade-carbon-icons) | 5 | 2026-03-21 | A package to easily make use of Carbon Icons in your Laravel... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-21 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [pdazcom/laravel-referrals](https://github.com/pdazcom/laravel-referrals) | 28 | 2026-03-21 | Referrals system for Laravel |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 460 | 2026-03-21 | Easy, flexible and powerful cloud-native Laravel CMS package... |
-| [EscuelaIt/laravel-api-kit](https://github.com/EscuelaIt/laravel-api-kit) | 0 | 2026-03-21 | Utilities to create consistent APIs in Laravel. |
-| [codeat3/blade-bytesize-icons](https://github.com/codeat3/blade-bytesize-icons) | 0 | 2026-03-21 | A package to easily make use of Bytesize Icons in your Larav... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-21 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [codeat3/blade-ant-design-icons](https://github.com/codeat3/blade-ant-design-icons) | 0 | 2026-03-21 | A package to easily make use of Ant Design Icons in your Lar... |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-03-21 | A personal portfolio built as an interactive browser-based t... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-21 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [freshbitsweb/laravel-google-analytics-4-measurement-protocol](https://github.com/freshbitsweb/laravel-google-analytics-4-measurement-protocol) | 20 | 2026-03-21 | A Laravel package to use Measurement Protocol for Google Ana... |
-| [codeat3/blade-akar-icons](https://github.com/codeat3/blade-akar-icons) | 7 | 2026-03-21 | A package to easily make use of Akar Icons in your Laravel B... |
-| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-03-21 | Event-driven state machines for Laravel with event sourcing,... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-21 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-21 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-21 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 0 | 2026-03-21 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-03-21 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-03-21 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-03-21 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-21 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-21 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-03-21 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-03-21 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-03-21 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-03-21 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 30 | 2026-03-21 | A Laravel package for orchestrating AI-driven features using... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-03-21 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-03-21 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-03-21 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 0 | 2026-03-21 | Manage and track inventory with a PHP package that integrate... |
+| [sosupp/site-legals](https://github.com/sosupp/site-legals) | 0 | 2026-03-21 | A laravel package to easily include the required website leg... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 0 | 2026-03-21 |  |
+| [StevenU21/laravel-permissions-manager](https://github.com/StevenU21/laravel-permissions-manager) | 0 | 2026-03-21 | A powerful wrapper around spatie/laravel-permission that man... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-03-21 | Empower your users with a modern, intuitive visual editor. T... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-21T18:08 | 29 | 1651 | 2910 |
 | 2026-03-21T12:08 | 9 | 1666 | 2881 |
 | 2026-03-21T06:13 | 4 | 1672 | 2872 |
 | 2026-03-21T00:21 | 5 | 1671 | 2868 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-20T00:23 | 9 | 1666 | 2836 |
 | 2026-03-19T18:18 | 14 | 1663 | 2827 |
 | 2026-03-19T12:13 | 13 | 1667 | 2813 |
-| 2026-03-19T06:22 | 2 | 1683 | 2800 |
 
 ---
 

@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2968  
-**Last updated:** 2026-03-23T12:17:26.031Z
+**Total packages tracked:** 2979  
+**Last updated:** 2026-03-23T18:18:50.084Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ArtemYurov/moonshine-command-schedule-job](https://github.com/ArtemYurov/moonshine-command-schedule-job) | 0 | MoonShine Command Schedule Job Service |
+| [MrPunyapal/laravel-extended-relationships](https://github.com/MrPunyapal/laravel-extended-relationships) | 168 | Package provides additional, more efficient relationship methods for Laravel Elo... |
+| [lwwcas/laravel-countries](https://github.com/lwwcas/laravel-countries) | 120 | A comprehensive package for managing country data in Laravel applications, inclu... |
+| [artryazanov/laravel-mysql-drive-backup](https://github.com/artryazanov/laravel-mysql-drive-backup) | 1 | Laravel 10-12 package to back up a MySQL database and upload the dump to Google ... |
+| [RobertBoes/inertia-breadcrumbs](https://github.com/RobertBoes/inertia-breadcrumbs) | 56 | Laravel package to automatically share breadcrumbs to Inertia |
+| [glhd/laravel-addressing](https://github.com/glhd/laravel-addressing) | 69 | Laravel package providing addressing functionality |
+| [1PilotApp/laravel-client](https://github.com/1PilotApp/laravel-client) | 9 | 1Pilot.io, a universal dashboard to effortlessly manage all your Laravel applica... |
+| [shaffe-fr/laravel-boost-tinker-mcp](https://github.com/shaffe-fr/laravel-boost-tinker-mcp) | 0 | Tinker MCP tool for Laravel Boost — removed in 2.x, restored as a standalone pac... |
+| [me-shaon/laravel-request-analytics](https://github.com/me-shaon/laravel-request-analytics) | 206 | Simple request data analytics package for Laravel projects |
+| [kaungkhantjc/blade-hugeicons](https://github.com/kaungkhantjc/blade-hugeicons) | 0 | A package to easily make use of Hugeicons ~5,000+ (Stroke Rounded) in your Larav... |
+| [sertxudeveloper/blade-icons](https://github.com/sertxudeveloper/blade-icons) | 0 | This package provides a collection of custom icons for Laravel Blade. It is base... |
 | [Stucom-Pelai/MP0613_RA9_Livewire](https://github.com/Stucom-Pelai/MP0613_RA9_Livewire) | 0 |  |
 | [overGH/e-ShopLaravelFilament-test](https://github.com/overGH/e-ShopLaravelFilament-test) | 0 | 🛒 Full-stack e-commerce platform with Laravel 12, Filament 3.2, Livewire & Alpi... |
 | [HiralRajgor/edilink](https://github.com/HiralRajgor/edilink) | 0 | Laravel package for building and parsing shipping EDI messages. Pluggable carrie... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Magnificent-Big-J/paystack-payment](https://github.com/Magnificent-Big-J/paystack-payment) | 0 | A robust Laravel payments package for handling transactions through Paystack |
 | [FarhanShares/laravel-mediaman](https://github.com/FarhanShares/laravel-mediaman) | 29 | The most elegant & powerful media management package for Laravel! |
 | [marekmiklusek/laraboost](https://github.com/marekmiklusek/laraboost) | 0 | A package that automatically applies common Laravel configurations, development ... |
-| [marekmiklusek/auditor](https://github.com/marekmiklusek/auditor) | 0 |  A package to detect and fix debugging code (dd, dump) and task-related comments... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 7 | A Laravel-based web application that tracks, analyzes, and provides insights int... |
-| [RadKod/isyerim-pos](https://github.com/RadKod/isyerim-pos) | 4 | A comprehensive Laravel package for IsyerimPOS Payment Gateway integration. Supp... |
-| [anasnashat/laravel-easy-dev](https://github.com/anasnashat/laravel-easy-dev) | 10 |  A powerful CRUD and model relationship generator for Laravel that saves hours o... |
-| [cloudstudio/laravel-livewire-modal](https://github.com/cloudstudio/laravel-livewire-modal) | 5 | Laravel livewire modal package |
-| [vinkius-labs/laravel-vurb](https://github.com/vinkius-labs/laravel-vurb) | 1 | Turn any Laravel app into a production MCP Server. Zero TypeScript. |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 159 | Collect everything about sent mails in your Filament app. |
-| [goodcat-dev/laravel-filter-querystring](https://github.com/goodcat-dev/laravel-filter-querystring) | 2 | A Laravel package to filter Eloquent models using query string parameters. |
-| [combindma/laravel-strapi](https://github.com/combindma/laravel-strapi) | 0 | This package is being built to act as the GraphQL bridge between Laravel and Str... |
-| [codeat3/blade-majesticons](https://github.com/codeat3/blade-majesticons) | 0 | A package to easily make use of Majestic Icons in your Laravel Blade views. |
-| [codeat3/blade-google-material-design-icons](https://github.com/codeat3/blade-google-material-design-icons) | 23 | A package to easily make use of "Google Fonts Material Icons" in your Laravel Bl... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [xchimx/Laravel-Filament-CRM-CMS](https://github.com/xchimx/Laravel-Filament-CRM-CMS) | 2 | 2026-03-23 | This is a customer relationship management / content managem... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-23 | 💳 Streamline payment processing with this PHP package that ... |
-| [Stucom-Pelai/MP0613_RA9_Livewire](https://github.com/Stucom-Pelai/MP0613_RA9_Livewire) | 0 | 2026-03-23 |  |
-| [storviaio/vantage](https://github.com/storviaio/vantage) | 234 | 2026-03-23 | Vantage : Advanced Laravel Queue Monitoring & Insights packa... |
-| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-03-23 | Event-driven state machines for Laravel with event sourcing,... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-23 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server) | 330 | 2026-03-23 | A Laravel package for implementing secure Model Context Prot... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-23 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-23 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [michiruf/laravel-ide-helper-companion](https://github.com/michiruf/laravel-ide-helper-companion) | 1 | 2026-03-23 | Provides convenience features around the barryvdh/laravel-id... |
-| [jundayw/laravel-passport](https://github.com/jundayw/laravel-passport) | 0 | 2026-03-23 | A lightweight and scalable PHP API request verification and ... |
+| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 385 | 2026-03-23 | Worldwide postal code validation for Laravel and Lumen |
+| [MrPunyapal/livewire-chat-app](https://github.com/MrPunyapal/livewire-chat-app) | 122 | 2026-03-23 | Livewire Chat App with Laravel Reverb |
+| [pboivin/filament-peek](https://github.com/pboivin/filament-peek) | 250 | 2026-03-23 | Full-screen page preview modal for Filament |
+| [wandesnet/mercadopago-laravel](https://github.com/wandesnet/mercadopago-laravel) | 25 | 2026-03-23 | This integration package with Mercado Pago |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-03-23 | Laravel Package to access AI CAD |
+| [MrPunyapal/laravel-extended-relationships](https://github.com/MrPunyapal/laravel-extended-relationships) | 168 | 2026-03-23 | Package provides additional, more efficient relationship met... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 462 | 2026-03-23 | Easy, flexible and powerful cloud-native Laravel CMS package... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 0 | 2026-03-23 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-23 | Track and display Matomo analytics data directly within Lara... |
-| [HiralRajgor/edilink](https://github.com/HiralRajgor/edilink) | 0 | 2026-03-23 | Laravel package for building and parsing shipping EDI messag... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-03-23 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-03-23 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-03-23 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-23 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-03-23 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-03-23 | Build and manage help desk ticket systems with a Laravel 12 ... |
 | [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-23 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-03-23 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 156 | 2026-03-23 | Filament plugin that allows to add dynamic, user-defined for... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-03-23 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-03-23 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-03-23 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-03-23 | Prevent risky Laravel database migrations with static analys... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-23T18:18 | 11 | 1676 | 2979 |
 | 2026-03-23T12:17 | 8 | 1679 | 2968 |
 | 2026-03-23T06:27 | 2 | 1684 | 2960 |
 | 2026-03-23T00:26 | 4 | 1683 | 2958 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-22T00:24 | 6 | 1673 | 2916 |
 | 2026-03-21T18:08 | 29 | 1651 | 2910 |
 | 2026-03-21T12:08 | 9 | 1666 | 2881 |
-| 2026-03-21T06:13 | 4 | 1672 | 2872 |
 
 ---
 

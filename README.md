@@ -2,14 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 2954  
-**Last updated:** 2026-03-22T18:08:40.453Z
+**Total packages tracked:** 2958  
+**Last updated:** 2026-03-23T00:26:24.516Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [vinkius-labs/laravel-vurb](https://github.com/vinkius-labs/laravel-vurb) | 0 | Turn any Laravel app into a production MCP Server. Zero TypeScript. |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 7 | A Laravel-based web application that tracks, analyzes, and provides insights int... |
+| [RadKod/isyerim-pos](https://github.com/RadKod/isyerim-pos) | 4 | A comprehensive Laravel package for IsyerimPOS Payment Gateway integration. Supp... |
+| [anasnashat/laravel-easy-dev](https://github.com/anasnashat/laravel-easy-dev) | 10 |  A powerful CRUD and model relationship generator for Laravel that saves hours o... |
+| [cloudstudio/laravel-livewire-modal](https://github.com/cloudstudio/laravel-livewire-modal) | 5 | Laravel livewire modal package |
+| [vinkius-labs/laravel-vurb](https://github.com/vinkius-labs/laravel-vurb) | 1 | Turn any Laravel app into a production MCP Server. Zero TypeScript. |
 | [backstagephp/mails](https://github.com/backstagephp/mails) | 159 | Collect everything about sent mails in your Filament app. |
 | [goodcat-dev/laravel-filter-querystring](https://github.com/goodcat-dev/laravel-filter-querystring) | 2 | A Laravel package to filter Eloquent models using query string parameters. |
 | [combindma/laravel-strapi](https://github.com/combindma/laravel-strapi) | 0 | This package is being built to act as the GraphQL bridge between Laravel and Str... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [codeat3/blade-iconpark](https://github.com/codeat3/blade-iconpark) | 4 | A package to easily make use of "Icon Park Icons" in your Laravel Blade views. |
 | [codeat3/blade-humbleicons](https://github.com/codeat3/blade-humbleicons) | 0 | A package to easily make use of "Humbleicons" in your Laravel Blade views. |
 | [codeat3/blade-grommet-icons](https://github.com/codeat3/blade-grommet-icons) | 0 | A package to easily make use of Grommet Icons in your Laravel Blade views. |
-| [codeat3/blade-gravity-ui-icons](https://github.com/codeat3/blade-gravity-ui-icons) | 0 | A package to easily make use of Gravity UI Icons in your Laravel Blade views. |
-| [codeat3/blade-mono-icons](https://github.com/codeat3/blade-mono-icons) | 2 | A package to easily make use of Mono Icons in your Laravel Blade views. |
-| [ath3na777/laravel-shoppingcart](https://github.com/ath3na777/laravel-shoppingcart) | 0 | Laravel shopping cart package |
-| [sashalenz/nhtsa-laravel-api](https://github.com/sashalenz/nhtsa-laravel-api) | 0 | Laravel package that integrates with the NHTSA vPIC API providing DTO-based help... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -39,7 +39,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 481 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 464 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 461 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 462 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 454 | Add kanban boards to your Filament pages |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [oliwol/laravel-slugify](https://github.com/oliwol/laravel-slugify) | 2 | 2026-03-22 | A lightweight trait to easily add slug generation to your La... |
-| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-03-22 | Event-driven state machines for Laravel with event sourcing,... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-23 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [pixelworxio/livewire-workflows](https://github.com/pixelworxio/livewire-workflows) | 80 | 2026-03-23 | Build multi-step workflows in Laravel / Livewire with zero b... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-23 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-23 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-22 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [arielfernando1/stocker](https://github.com/arielfernando1/stocker) | 1 | 2026-03-22 | Small business sales manager. |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 7 | 2026-03-22 | A Laravel-based web application that tracks, analyzes, and p... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-22 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-03-22 | ShieldCI Laravel Package - Open-source AI-powered code quali... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-03-22 | Empower your users with a modern, intuitive visual editor. T... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-03-22 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-03-22 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-03-22 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-03-22 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-03-22 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-03-22 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-03-22 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 0 | 2026-03-22 | An opinionated Laravel package for interacting with WAHA API |
-| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 30 | 2026-03-22 | A Laravel package for orchestrating AI-driven features using... |
-| [vinkius-labs/laravel-vurb](https://github.com/vinkius-labs/laravel-vurb) | 0 | 2026-03-22 | Turn any Laravel app into a production MCP Server. Zero Type... |
 | [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-03-22 | 🚀 Simplify database interactions with this lightweight PHP ... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-03-22 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-03-22 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [MichaelBarrows/Portfolio](https://github.com/MichaelBarrows/Portfolio) | 1 | 2026-03-22 | Portfolio built with Livewire & Filament |
-| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-03-22 | A Laravel package that crawls websites to detect broken link... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-03-22 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-03-22 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [rosalana/core](https://github.com/rosalana/core) | 4 | 2026-03-22 | Rosalana core package for Laravel apps |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-22 | 💳 Streamline payment processing with this PHP package that ... |
-| [dystcz/dystore-api](https://github.com/dystcz/dystore-api) | 41 | 2026-03-22 | [READ ONLY] API layer for Lunar headless e-commerce package ... |
-| [dystcz/dystore](https://github.com/dystcz/dystore) | 12 | 2026-03-22 | Collection of ecommerce packages built on top of Lunar and L... |
-| [jobmetric/laravel-attribute](https://github.com/jobmetric/laravel-attribute) | 4 | 2026-03-22 | This is a feature management package for all kinds of object... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-22 | Enhance your Laravel applications with the ecommerce.cart pa... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-23T00:26 | 4 | 1683 | 2958 |
 | 2026-03-22T18:08 | 20 | 1667 | 2954 |
 | 2026-03-22T12:09 | 5 | 1675 | 2934 |
 | 2026-03-22T06:18 | 13 | 1666 | 2929 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-21T06:13 | 4 | 1672 | 2872 |
 | 2026-03-21T00:21 | 5 | 1671 | 2868 |
 | 2026-03-20T18:13 | 7 | 1670 | 2863 |
-| 2026-03-20T12:12 | 15 | 1663 | 2856 |
 
 ---
 

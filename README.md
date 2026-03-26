@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3035  
-**Last updated:** 2026-03-25T18:21:38.756Z
+**Total packages tracked:** 3044  
+**Last updated:** 2026-03-26T00:26:31.467Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Arseno25/Filament-privacy-blur](https://github.com/Arseno25/Filament-privacy-blur) | 0 |  |
+| [seo-php/head-laravel](https://github.com/seo-php/head-laravel) | 0 | [READ ONLY] Subtree split of the Head Laravel package |
+| [oxhq/oxcribe](https://github.com/oxhq/oxcribe) | 0 | Runtime-first Laravel package that enriches routes with Oxinfer static analysis |
+| [shaferllc/fleet-idp-client](https://github.com/shaferllc/fleet-idp-client) | 0 | Laravel package: Fleet Auth IdP client (OAuth + password grant) |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 0 | A Laravel package to track revisions of Eloquent models, allowing you to easily ... |
+| [Sammyjo20/lasso](https://github.com/Sammyjo20/lasso) | 355 | 🐎 Lasso is a Laravel package created to make your deployments blazing fast. |
+| [iteks/laravel-json](https://github.com/iteks/laravel-json) | 4 | A Laravel package for simplified JSON data manipulation, offering seamless conve... |
+| [iteks/laravel-enum](https://github.com/iteks/laravel-enum) | 25 | A comprehensive Laravel package providing enhanced enum functionalities, includi... |
+| [seo-php/robots-laravel](https://github.com/seo-php/robots-laravel) | 0 | [READ ONLY] Subtree split of the Robots Laravel package |
 | [RobinHood0101/GymHorizon](https://github.com/RobinHood0101/GymHorizon) | 1 | Gym Website |
 | [enessvg/laravel-telegram-deployer](https://github.com/enessvg/laravel-telegram-deployer) | 2 | Telegram-triggered, TOTP-protected Laravel deploy/action runner with queue suppo... |
 | [aerni/laravel-cloudflared](https://github.com/aerni/laravel-cloudflared) | 82 | A simple package to create and manage Cloudflare Tunnels for your Laravel projec... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [remzikocak/laravel-options](https://github.com/remzikocak/laravel-options) | 8 | Database Options/Settings Package for Laravel 9/10/11/12/13 |
 | [HamzaHassanM/laravel-social-auto-post](https://github.com/HamzaHassanM/laravel-social-auto-post) | 13 | Laravel social media auto post package |
 | [nht2312/LARAVEL-TEMPLATE-PROJECT](https://github.com/nht2312/LARAVEL-TEMPLATE-PROJECT) | 1 | Available: Auth, Laravel 13, Livewire 4, Filament 5 |
-| [EvanSchleret/lara-mjml](https://github.com/EvanSchleret/lara-mjml) | 17 | Laravel wrapper for MJML that adds a Blade-based MJML email templating engine, s... |
-| [sunspikes/clamav-validator](https://github.com/sunspikes/clamav-validator) | 364 | Laravel virus validator based on ClamAV anti-virus scanner |
-| [datashaman/laravel-agent-tools](https://github.com/datashaman/laravel-agent-tools) | 0 | Claude Code-equivalent tools for laravel/ai agents. Filesystem, shell, task mana... |
-| [edgarsn/laravel-backscreen-api-client](https://github.com/edgarsn/laravel-backscreen-api-client) | 0 | This package helps you to make API calls to Backscreen API v5 in Laravel. |
-| [typicms/core](https://github.com/typicms/core) | 7 | The core package of TypiCMS, containing the base architecture, services, and sha... |
-| [alkoumi/laravel-arabic-numbers](https://github.com/alkoumi/laravel-arabic-numbers) | 72 | Laravel package to handel ANY thing 🥳 about our Amazing 💝 Arabic Numbers Funct... |
-| [datashaman/claude-agent-laravel](https://github.com/datashaman/claude-agent-laravel) | 0 | Laravel companion package for datashaman/claude-agent-sdk — service provider, fa... |
-| [2Fac3R/courses-platform](https://github.com/2Fac3R/courses-platform) | 0 | This project embodies the realization of an online course platform, encompassing... |
-| [jiannei/laravel-schedule](https://github.com/jiannei/laravel-schedule) | 19 | ⏱ More flexible way to manage your Laravel schedule tasks. - 更灵活地管理 Laravel  应用中... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-25 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [codecng/laravel-inertia-translations](https://github.com/codecng/laravel-inertia-translations) | 3 | 2026-03-25 | A zero-configuration Laravel package that automatically expo... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-25 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 0 | 2026-03-26 | Manage and track inventory with a PHP package that integrate... |
+| [oxhq/oxcribe](https://github.com/oxhq/oxcribe) | 0 | 2026-03-26 | Runtime-first Laravel package that enriches routes with Oxin... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 0 | 2026-03-26 |  |
+| [shaferllc/fleet-idp-client](https://github.com/shaferllc/fleet-idp-client) | 0 | 2026-03-26 | Laravel package: Fleet Auth IdP client (OAuth + password gra... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 346 | 2026-03-26 | The official Laravel Nightwatch package. |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-03-26 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-03-26 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 0 | 2026-03-26 | An opinionated Laravel package for interacting with WAHA API |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-03-26 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-03-26 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-03-26 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [dniccum/secret-stash-cli](https://github.com/dniccum/secret-stash-cli) | 0 | 2026-03-26 | A PHP-based Composer package to interact with the SecretStas... |
+| [howdu/filament-record-switcher](https://github.com/howdu/filament-record-switcher) | 15 | 2026-03-26 | Resource title search with dropdown navigation for Filament |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-03-26 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [ziming/laravel-myinfo-sg](https://github.com/ziming/laravel-myinfo-sg) | 16 | 2026-03-26 | PHP Laravel Singpass MyInfo (Singapore) Package / Library |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-03-26 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 | [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-03-25 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [aerni/laravel-cloudflared](https://github.com/aerni/laravel-cloudflared) | 82 | 2026-03-25 | A simple package to create and manage Cloudflare Tunnels for... |
-| [dniccum/secret-stash-cli](https://github.com/dniccum/secret-stash-cli) | 0 | 2026-03-25 | A PHP-based Composer package to interact with the SecretStas... |
-| [palachX/laravel-omnidesk](https://github.com/palachX/laravel-omnidesk) | 0 | 2026-03-25 | Omnidesk Laravel is a Laravel package for start fast integra... |
 | [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-03-25 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [broqit/laravel-reactions](https://github.com/broqit/laravel-reactions) | 3 | 2026-03-25 | Laravel Reactions Package |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 1 | 2026-03-25 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-03-25 | This project collects the most commonly used Laravel extensi... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-03-25 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [offload-project/laravel-navigation](https://github.com/offload-project/laravel-navigation) | 3 | 2026-03-25 | Configurable navigation package for Laravel with breadcrumb ... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-03-25 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [rokka-io/rokka-laravel-package](https://github.com/rokka-io/rokka-laravel-package) | 1 | 2026-03-25 | A Laravel package to access the rokka.io service |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-03-25 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-03-25 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-03-25 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-03-25 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-03-25 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-03-25 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-26T00:26 | 9 | 1681 | 3044 |
 | 2026-03-25T18:21 | 10 | 1676 | 3035 |
 | 2026-03-25T12:17 | 8 | 1678 | 3025 |
 | 2026-03-25T06:24 | 6 | 1680 | 3017 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-24T06:24 | 1 | 1687 | 2985 |
 | 2026-03-24T00:21 | 5 | 1683 | 2984 |
 | 2026-03-23T18:18 | 11 | 1676 | 2979 |
-| 2026-03-23T12:17 | 8 | 1679 | 2968 |
 
 ---
 

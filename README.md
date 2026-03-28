@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3093  
-**Last updated:** 2026-03-27T18:19:58.596Z
+**Total packages tracked:** 3102  
+**Last updated:** 2026-03-28T00:24:23.362Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | Laravel-based API for storing sensor data from distributed nodes and visualizing... |
+| [IvanBaric/sanigen](https://github.com/IvanBaric/sanigen) | 0 | Sanigen is a powerful Laravel package that provides declarative sanitization and... |
+| [nb3n/filament-record-nav](https://github.com/nb3n/filament-record-nav) | 10 | A Laravel package that adds elegant next/previous record navigation to your Fila... |
+| [rafaelnuansa/rncrud](https://github.com/rafaelnuansa/rncrud) | 0 | RNCrud is a professional Laravel package designed to accelerate development by g... |
+| [derpierre65/tmi.js-cluster-laravel](https://github.com/derpierre65/tmi.js-cluster-laravel) | 0 | Laravel package for tmi.js-cluster. |
+| [fabianpnke/laravel-boost-amazon-q-extension](https://github.com/fabianpnke/laravel-boost-amazon-q-extension) | 0 | Laravel Boost extension package that provides Amazon Q JetBrains plugin integrat... |
+| [daikazu/eloquent-salesforce-objects](https://github.com/daikazu/eloquent-salesforce-objects) | 5 | A Laravel package built on top of the excellent omniphx/forrest package. It prov... |
+| [r0073rr0r/laravel-theme-switcher](https://github.com/r0073rr0r/laravel-theme-switcher) | 0 | A Laravel package that integrates with Jetstream and Livewire to provide a reusa... |
+| [alifaraun/laravel-moamalat-pay](https://github.com/alifaraun/laravel-moamalat-pay) | 19 | Laravel moamalat pay package |
 | [php-opcua/laravel-opcua](https://github.com/php-opcua/laravel-opcua) | 0 | OPC UA client integration for Laravel with Facade, named connections, and an opt... |
 | [danielemontecchi/laravel-userstamps](https://github.com/danielemontecchi/laravel-userstamps) | 1 | Track the user who created, updated, or deleted any Eloquent model in Laravel wi... |
 | [offline-agency/laravel-fatture-in-cloud-v2](https://github.com/offline-agency/laravel-fatture-in-cloud-v2) | 3 | A wrapper plugin with Fatture in Cloud Api V2 written in Laravel PHP |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [sparors/laravel-ussd](https://github.com/sparors/laravel-ussd) | 65 | Create ussd with ease |
 | [danielemontecchi/laravel-scoped-settings](https://github.com/danielemontecchi/laravel-scoped-settings) | 0 | Manage global and model-scoped settings in Laravel with a clean API, artisan com... |
 | [danielemontecchi/laravel-patcher](https://github.com/danielemontecchi/laravel-patcher) | 0 | A predictable system for applying one-time operational or data patches in Larave... |
-| [vemcogroup/laravel-translation](https://github.com/vemcogroup/laravel-translation) | 135 | Translation package for Laravel to scan for localisations and up/download to poe... |
-| [sqits/laravel-userstamps](https://github.com/sqits/laravel-userstamps) | 18 | Package to maintain the users who created, updated and deleted eloquent models |
-| [amolood/cashipay-laravel](https://github.com/amolood/cashipay-laravel) | 1 | Laravel package for the CashiPay wallet payment gateway — QR-code & OTP payments... |
-| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | A Laravel package as a backend administrating tool for Content Management and Ec... |
-| [ecaresolutions/ecaresms-laravel-library](https://github.com/ecaresolutions/ecaresms-laravel-library) | 0 | Ecare SMS Laravel Package  |
-| [markwalet/laravel-packagist](https://github.com/markwalet/laravel-packagist) | 13 | A Laravel wrapper for the spatie/packagist-api package. |
-| [mtorres-lechuganegra/package-privkeymanager](https://github.com/mtorres-lechuganegra/package-privkeymanager) | 0 | Este paquete de Laravel proporciona un sistema de autenticación JWT para llaves ... |
-| [saloonphp/barstool](https://github.com/saloonphp/barstool) | 9 | Barstool is a dedicated Laravel package to help you keep track of your Saloon re... |
-| [myerscode/laravel-taxonomies](https://github.com/myerscode/laravel-taxonomies) | 8 | A package to bring simple taxonomy relationships to Laravel models |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [whoami15/payrex-laravel](https://github.com/whoami15/payrex-laravel) | 1 | 2026-03-27 | Unofficial Laravel package for PayRex - Modern payment platf... |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 8 | 2026-03-27 | FilaKit is a robust starter kit built on Laravel 13.x and Fi... |
-| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 236 | 2026-03-27 | form builder for your users, with so many use cases |
-| [iamkarsoft/movie-app](https://github.com/iamkarsoft/movie-app) | 1 | 2026-03-27 | a repo for me to get familiar with livewire and alpine based... |
-| [lumensistemas/lgpd-laravel](https://github.com/lumensistemas/lgpd-laravel) | 0 | 2026-03-27 | A Laravel package for LGPD (Lei Geral de Proteção de Dados) ... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 1 | 2026-03-27 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [Ayup-Creative/laravel-dsql](https://github.com/Ayup-Creative/laravel-dsql) | 0 | 2026-03-27 | DSQL search package for Eloquent models inside Laravel appli... |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 3 | 2026-03-28 | Laravel package for interacting with Traccar api |
+| [veeqtoh/prompt-deck](https://github.com/veeqtoh/prompt-deck) | 63 | 2026-03-28 | A Laravel package for versioned AI prompt management with va... |
+| [alifaraun/laravel-moamalat-pay](https://github.com/alifaraun/laravel-moamalat-pay) | 19 | 2026-03-28 | Laravel moamalat pay package |
+| [hughcube-php/laravel-knight](https://github.com/hughcube-php/laravel-knight) | 1 | 2026-03-28 | A powerful Laravel extension package providing enhanced Eloq... |
 | [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-03-27 | Event-driven state machines for Laravel with event sourcing,... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-03-27 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [danielemontecchi/laravel-basics](https://github.com/danielemontecchi/laravel-basics) | 0 | 2026-03-27 | Zero-setup starter kit for Laravel with strict mode, perform... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 8 | 2026-03-27 | A Laravel-based web application that tracks, analyzes, and p... |
+| [The-3Labs-Team/laravel-ads-post-parser](https://github.com/The-3Labs-Team/laravel-ads-post-parser) | 2 | 2026-03-27 | 🫰 Monetize your posts in Laravel software with this ads pac... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 7 | 2026-03-27 | TeamKit is a robust starter kit built on Laravel 13.x and Fi... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-03-27 | NativeKit is a robust starter kit built on Laravel 12.x, Fil... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 0 | 2026-03-27 | ShieldCI Analyzer Core - Shared foundation for building stat... |
+| [tzsk/sms](https://github.com/tzsk/sms) | 319 | 2026-03-27 | Laravel SMS Gateway Integration Package |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-27 | Track and display Matomo analytics data directly within Lara... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-03-27 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-03-27 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-27 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-03-27 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-03-27 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-27 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-03-27 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-03-27 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-03-27 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-03-27 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-03-27 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-03-27 | Prevent risky Laravel database migrations with static analys... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-27 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-27 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-03-27 | Accelerate web app development with a Laravel 12 and Filamen... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-28T00:24 | 9 | 1688 | 3102 |
 | 2026-03-27T18:19 | 9 | 1687 | 3093 |
 | 2026-03-27T12:16 | 11 | 1685 | 3084 |
 | 2026-03-27T06:27 | 6 | 1687 | 3073 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-26T06:27 | 2 | 1689 | 3046 |
 | 2026-03-26T00:26 | 9 | 1681 | 3044 |
 | 2026-03-25T18:21 | 10 | 1676 | 3035 |
-| 2026-03-25T12:17 | 8 | 1678 | 3025 |
 
 ---
 

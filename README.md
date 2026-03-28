@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3106  
-**Last updated:** 2026-03-28T06:22:05.521Z
+**Total packages tracked:** 3112  
+**Last updated:** 2026-03-28T12:11:42.233Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [flexpik/filament-studio](https://github.com/flexpik/filament-studio) | 2 | Dynamic data model manager for Filament — EAV storage, 33 field types, dashboard... |
+| [me-shaon/laravel-resilience](https://github.com/me-shaon/laravel-resilience) | 0 | Laravel Resilience is a Laravel package for simulating dependency failures, vali... |
+| [KaziSTM/subscriptions](https://github.com/KaziSTM/subscriptions) | 2 | Subscription package based on Laravelcm/Laravel-subscriptions |
+| [nguyenchicong-catdang/laravel-wp-local-packages](https://github.com/nguyenchicong-catdang/laravel-wp-local-packages) | 0 |  |
+| [fiachehr/laravel-eav](https://github.com/fiachehr/laravel-eav) | 5 | A flexible Entity-Attribute-Value (EAV) package for Laravel to manage dynamic at... |
+| [fiachehr/laravel-comments-pro](https://github.com/fiachehr/laravel-comments-pro) | 4 | A professional, production-ready comments system for Laravel with nested replies... |
 | [finity-labs/fin-sentinel](https://github.com/finity-labs/fin-sentinel) | 0 | Filament plugin for error email notifications, developer debug mail channel, and... |
 | [ezermeno/Fmxpluck](https://github.com/ezermeno/Fmxpluck) | 0 | Package for concatenate some columns in descriptions of array directly from mode... |
 | [a2zwebltd/laravel-dev-mode](https://github.com/a2zwebltd/laravel-dev-mode) | 3 | A lightweight Laravel package to temporarily disable Gate authorization for trus... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [r0073rr0r/laravel-theme-switcher](https://github.com/r0073rr0r/laravel-theme-switcher) | 0 | A Laravel package that integrates with Jetstream and Livewire to provide a reusa... |
 | [alifaraun/laravel-moamalat-pay](https://github.com/alifaraun/laravel-moamalat-pay) | 19 | Laravel moamalat pay package |
 | [php-opcua/laravel-opcua](https://github.com/php-opcua/laravel-opcua) | 0 | OPC UA client integration for Laravel with Facade, named connections, and an opt... |
-| [danielemontecchi/laravel-userstamps](https://github.com/danielemontecchi/laravel-userstamps) | 1 | Track the user who created, updated, or deleted any Eloquent model in Laravel wi... |
-| [offline-agency/laravel-fatture-in-cloud-v2](https://github.com/offline-agency/laravel-fatture-in-cloud-v2) | 3 | A wrapper plugin with Fatture in Cloud Api V2 written in Laravel PHP |
-| [nextpointergr/aade](https://github.com/nextpointergr/aade) | 0 | Laravel AADE AFM lookup package |
-| [lumensistemas/lgpd-laravel](https://github.com/lumensistemas/lgpd-laravel) | 0 | A Laravel package for LGPD (Lei Geral de Proteção de Dados) compliance. |
-| [Ayup-Creative/laravel-dsql](https://github.com/Ayup-Creative/laravel-dsql) | 0 | DSQL search package for Eloquent models inside Laravel applications |
-| [lukawar/laravel-bank-kit](https://github.com/lukawar/laravel-bank-kit) | 0 | A Laravel package for generating Polish bank transfer files (ELIXIR format) and ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 136 | 2026-03-28 | A Laravel package that provides a Cookies consent floating w... |
-| [ezermeno/Fmxpluck](https://github.com/ezermeno/Fmxpluck) | 0 | 2026-03-28 | Package for concatenate some columns in descriptions of arra... |
-| [jeffersongoncalves/filament-cookie-consent](https://github.com/jeffersongoncalves/filament-cookie-consent) | 8 | 2026-03-28 | Filament plugin for cookie consent with settings page - GDPR... |
-| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 135 | 2026-03-28 | Create and manage menu in your Filament app. |
-| [waterholeforum/core](https://github.com/waterholeforum/core) | 219 | 2026-03-28 | The core Waterhole package. |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-28 | Track and display Matomo analytics data directly within Lara... |
+| [juzaweb/cms](https://github.com/juzaweb/cms) | 186 | 2026-03-28 | Juzaweb CMS is a Content Management System (CMS) developed b... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-03-28 | Resrv is a booking engine for Statamic. |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 0 | 2026-03-28 | A Laravel package to track revisions of Eloquent models, all... |
+| [flexpik/filament-studio](https://github.com/flexpik/filament-studio) | 2 | 2026-03-28 | Dynamic data model manager for Filament — EAV storage, 33 fi... |
+| [hughcube-php/laravel-knight](https://github.com/hughcube-php/laravel-knight) | 1 | 2026-03-28 | A powerful Laravel extension package providing enhanced Eloq... |
+| [me-shaon/laravel-resilience](https://github.com/me-shaon/laravel-resilience) | 0 | 2026-03-28 | Laravel Resilience is a Laravel package for simulating depen... |
+| [rivalex/lingua](https://github.com/rivalex/lingua) | 2 | 2026-03-28 | Lingua is a Laravel package for complete translation managem... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-03-28 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-28 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-28 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-28 | Track and display Matomo analytics data directly within Lara... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-03-28 | Build and manage help desk ticket systems with a Laravel 12 ... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-03-28 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-03-28 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-03-28 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-28 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-28 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-03-28 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-03-28 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-03-28 | Generate GitHub repository statistics and insights directly ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-03-28 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-03-28 | Prevent risky Laravel database migrations with static analys... |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-03-28 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-03-28 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 0 | 2026-03-28 | Manage and track inventory with a PHP package that integrate... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-28T12:11 | 6 | 1699 | 3112 |
 | 2026-03-28T06:22 | 4 | 1699 | 3106 |
 | 2026-03-28T00:24 | 9 | 1688 | 3102 |
 | 2026-03-27T18:19 | 9 | 1687 | 3093 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-26T18:23 | 10 | 1683 | 3064 |
 | 2026-03-26T12:20 | 8 | 1684 | 3054 |
 | 2026-03-26T06:27 | 2 | 1689 | 3046 |
-| 2026-03-26T00:26 | 9 | 1681 | 3044 |
 
 ---
 

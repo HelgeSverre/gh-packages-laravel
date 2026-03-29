@@ -2,13 +2,25 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3123  
-**Last updated:** 2026-03-28T18:09:30.574Z
+**Total packages tracked:** 3135  
+**Last updated:** 2026-03-29T00:27:35.612Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mikebronner/laravel-optimized-postgres](https://github.com/mikebronner/laravel-optimized-postgres) | 58 | Implement all textual fields as `text` in Postgres databases. |
+| [jeremykenedy/laravel-observability](https://github.com/jeremykenedy/laravel-observability) | 1 | A comprehensive observability package for Laravel with auto-detection of 20+ mon... |
+| [Mohammed-alhosam/filament-media-hub](https://github.com/Mohammed-alhosam/filament-media-hub) | 0 | Reusable Laravel 12 + Filament v4 media library package with a central browser, ... |
+| [kudi-sandbox/kudi-package-sppay-laravel](https://github.com/kudi-sandbox/kudi-package-sppay-laravel) | 0 | kudi-package-sppay-laravel |
+| [ibrahim-kaya/error-tracker](https://github.com/ibrahim-kaya/error-tracker) | 0 | A Laravel package to automatically track, deduplicate, and manage unhandled exce... |
+| [miguilimzero/laravel-singlestore-backup](https://github.com/miguilimzero/laravel-singlestore-backup) | 9 | A package that makes it easy to make backups of your SingleStore database to you... |
+| [jeremykenedy/laravel-ip-capture](https://github.com/jeremykenedy/laravel-ip-capture) | 1 | A Laravel package to automatically capture and track IP addresses on Eloquent mo... |
+| [ibrahim-kaya/ImageMan](https://github.com/ibrahim-kaya/ImageMan) | 1 | Professional Laravel image upload, WebP/AVIF conversion, multi-size variants and... |
+| [Aler998/laravel-flux](https://github.com/Aler998/laravel-flux) | 0 | A Laravel package for building sortable, filterable and exportable data tables. |
+| [siberfx/turkiye-il-ilce-mahalle](https://github.com/siberfx/turkiye-il-ilce-mahalle) | 2 | Laravel 11+ Turkiye Package |
+| [devrabiul/laravel-geo-genius](https://github.com/devrabiul/laravel-geo-genius) | 175 | 🌍 Laravel GeoGenius — IP-based geolocation, timezone, multilingual toolkit + co... |
+| [chijioke-ibekwe/raven](https://github.com/chijioke-ibekwe/raven) | 9 | Laravel multi-channel notification package |
 | [alexis-gss/laravel-activity-logs](https://github.com/alexis-gss/laravel-activity-logs) | 0 | Package to log activities on models in Laravel project. |
 | [alexis-gss/laravel-dynamic-pages](https://github.com/alexis-gss/laravel-dynamic-pages) | 0 | Package to adding dynamic pages in Laravel project. |
 | [alexis-gss/laravel-i18n](https://github.com/alexis-gss/laravel-i18n) | 0 | Package to set internationalization in Laravel project. |
@@ -17,18 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [relunctance/laravel-package-search](https://github.com/relunctance/laravel-package-search) | 0 | Laravel Package Search Assistant - Quickly search, evaluate and recommend Larave... |
 | [wixiweb/wixiweb-laravel](https://github.com/wixiweb/wixiweb-laravel) | 1 | Package pour configurer simplement une application laravel avec nos bonnes prati... |
 | [Adam-Elmekadem/architector-admin-package](https://github.com/Adam-Elmekadem/architector-admin-package) | 0 | Architector is a Laravel admin dashboard generator with one-command setup. It pr... |
-| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | miPress CMS — core Laravel package (Filament 5) |
-| [myerscode/laravel-query-strategies](https://github.com/myerscode/laravel-query-strategies) | 4 | A package for applying filters, ordering, eager loads, result limiting and pagin... |
-| [alexis-gss/laravel-frontend](https://github.com/alexis-gss/laravel-frontend) | 0 | Package to adding a frontend in Laravel project. |
-| [flexpik/filament-studio](https://github.com/flexpik/filament-studio) | 2 | Dynamic data model manager for Filament — EAV storage, 33 field types, dashboard... |
-| [me-shaon/laravel-resilience](https://github.com/me-shaon/laravel-resilience) | 0 | Laravel Resilience is a Laravel package for simulating dependency failures, vali... |
-| [KaziSTM/subscriptions](https://github.com/KaziSTM/subscriptions) | 2 | Subscription package based on Laravelcm/Laravel-subscriptions |
-| [nguyenchicong-catdang/laravel-wp-local-packages](https://github.com/nguyenchicong-catdang/laravel-wp-local-packages) | 0 |  |
-| [fiachehr/laravel-eav](https://github.com/fiachehr/laravel-eav) | 5 | A flexible Entity-Attribute-Value (EAV) package for Laravel to manage dynamic at... |
-| [fiachehr/laravel-comments-pro](https://github.com/fiachehr/laravel-comments-pro) | 4 | A professional, production-ready comments system for Laravel with nested replies... |
-| [finity-labs/fin-sentinel](https://github.com/finity-labs/fin-sentinel) | 0 | Filament plugin for error email notifications, developer debug mail channel, and... |
-| [ezermeno/Fmxpluck](https://github.com/ezermeno/Fmxpluck) | 0 | Package for concatenate some columns in descriptions of array directly from mode... |
-| [a2zwebltd/laravel-dev-mode](https://github.com/a2zwebltd/laravel-dev-mode) | 3 | A lightweight Laravel package to temporarily disable Gate authorization for trus... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [markwalet/laravel-changelog](https://github.com/markwalet/laravel-changelog) | 18 | 2026-03-28 | A Laravel package that prevents merge conflicts on your chan... |
-| [laravel-json-api/core](https://github.com/laravel-json-api/core) | 10 | 2026-03-28 | Contracts and support classes for Laravel JSON API packages. |
-| [relunctance/laravel-package-search](https://github.com/relunctance/laravel-package-search) | 0 | 2026-03-28 | Laravel Package Search Assistant - Quickly search, evaluate ... |
-| [dniccum/secret-stash-cli](https://github.com/dniccum/secret-stash-cli) | 0 | 2026-03-28 | A PHP-based Composer package to interact with the SecretStas... |
-| [veeqtoh/prompt-deck](https://github.com/veeqtoh/prompt-deck) | 62 | 2026-03-28 | A Laravel package for versioned AI prompt management with va... |
-| [wixiweb/wixiweb-laravel](https://github.com/wixiweb/wixiweb-laravel) | 1 | 2026-03-28 | Package pour configurer simplement une application laravel a... |
+| [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | 2026-03-29 | Provide "Sign In With Apple" functionality to your Laravel a... |
+| [jeremykenedy/laravel-observability](https://github.com/jeremykenedy/laravel-observability) | 1 | 2026-03-29 | A comprehensive observability package for Laravel with auto-... |
+| [Mohammed-alhosam/filament-media-hub](https://github.com/Mohammed-alhosam/filament-media-hub) | 0 | 2026-03-29 | Reusable Laravel 12 + Filament v4 media library package with... |
+| [me-shaon/laravel-resilience](https://github.com/me-shaon/laravel-resilience) | 0 | 2026-03-29 | Laravel Resilience is a Laravel package for simulating depen... |
+| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-03-28 | A Filament plugin to add markdown-based documentation to you... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-28 | Track and display Matomo analytics data directly within Lara... |
-| [Adam-Elmekadem/architector-admin-package](https://github.com/Adam-Elmekadem/architector-admin-package) | 0 | 2026-03-28 | Architector is a Laravel admin dashboard generator with one-... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-03-28 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-03-28 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-28 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-03-28 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-03-28 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-28 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-03-28 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-28 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | 2026-03-28 | miPress CMS — core Laravel package (Filament 5) |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-03-28 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-03-28 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-03-28 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-03-28 | Generate GitHub repository statistics and insights directly ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-03-28 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [mikebronner/laravel-multi-step-progressbar](https://github.com/mikebronner/laravel-multi-step-progressbar) | 63 | 2026-03-28 | Quickly implement a multi-step progress-bar in Laravel. |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-03-28 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-03-28 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-03-28 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-03-28 | Manage and track inventory with a PHP package that integrate... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-29T00:27 | 12 | 1693 | 3135 |
 | 2026-03-28T18:09 | 11 | 1693 | 3123 |
 | 2026-03-28T12:11 | 6 | 1699 | 3112 |
 | 2026-03-28T06:22 | 4 | 1699 | 3106 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-27T06:27 | 6 | 1687 | 3073 |
 | 2026-03-27T00:26 | 3 | 1439 | 3067 |
 | 2026-03-26T18:23 | 10 | 1683 | 3064 |
-| 2026-03-26T12:20 | 8 | 1684 | 3054 |
 
 ---
 

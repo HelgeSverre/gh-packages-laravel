@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3149  
-**Last updated:** 2026-03-29T18:10:34.375Z
+**Total packages tracked:** 3157  
+**Last updated:** 2026-03-30T00:27:56.800Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Sunucode/laravel-afripay](https://github.com/Sunucode/laravel-afripay) | 0 | Unified payment gateway for Africa — Wave, Orange Money, PayDunya, PayTech, Stri... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 321 | The NativePHP website |
+| [marceloeatworld/plunk-laravel](https://github.com/marceloeatworld/plunk-laravel) | 4 | Laravel mail transport for Plunk API with attachments, event tracking, email ver... |
+| [oxhq/canio-laravel](https://github.com/oxhq/canio-laravel) | 0 | Public split repository for the oxhq/canio Laravel package |
+| [clinically-au/laravel-companion-demo](https://github.com/clinically-au/laravel-companion-demo) | 0 | Demo and test bed for the clinically/laravel-companion package |
+| [didasto/apilot](https://github.com/didasto/apilot) | 0 | Rest-Api Package for Laravel |
+| [yezzmedia/laravel-foundation](https://github.com/yezzmedia/laravel-foundation) | 0 | Foundation package for the Yezz Media Laravel website platform. |
+| [yezzmedia/laravel-access](https://github.com/yezzmedia/laravel-access) | 0 | Persistent roles and permissions package for the Yezz Media Laravel website plat... |
 | [ArielMejiaDev/healing-factor](https://github.com/ArielMejiaDev/healing-factor) | 0 | Laravel Package to get Healing Factor Powers |
 | [Joeri-Abbo/laravel-package-boilerplate](https://github.com/Joeri-Abbo/laravel-package-boilerplate) | 2 | My boilerplate for Laravel packages. |
 | [kyawzinthetgithub/role-permissions](https://github.com/kyawzinthetgithub/role-permissions) | 1 | role permissions laravel package |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [RobinV-Hogent/kassaticket-manager-laravel](https://github.com/RobinV-Hogent/kassaticket-manager-laravel) | 0 | (WIP) Plek waar kassatickets opgeladen kunnen worden, admins krijgen hiervan een... |
 | [idehen-divine/laravel-dynamic-helpers](https://github.com/idehen-divine/laravel-dynamic-helpers) | 4 | Laravel Dynamic Helpers is a package that dynamically resolves helper classes an... |
 | [nylo-core/laravel-nylo-auth](https://github.com/nylo-core/laravel-nylo-auth) | 5 | Laravel authentication package for Nylo apps, provides a simple way to handle ba... |
-| [ahmed3bead/lara-crud](https://github.com/ahmed3bead/lara-crud) | 1 | A Laravel package to generate CRUD operations for APIs. |
-| [EG-Mohamed/Laravel-Ga4-Events](https://github.com/EG-Mohamed/Laravel-Ga4-Events) | 0 | A Laravel package to define and dispatch Google Analytics 4 (GA4) events. |
-| [mikebronner/laravel-optimized-postgres](https://github.com/mikebronner/laravel-optimized-postgres) | 58 | Implement all textual fields as `text` in Postgres databases. |
-| [jeremykenedy/laravel-observability](https://github.com/jeremykenedy/laravel-observability) | 1 | A comprehensive observability package for Laravel with auto-detection of 20+ mon... |
-| [Mohammed-alhosam/filament-media-hub](https://github.com/Mohammed-alhosam/filament-media-hub) | 0 | Reusable Laravel 12 + Filament v4 media library package with a central browser, ... |
-| [kudi-sandbox/kudi-package-sppay-laravel](https://github.com/kudi-sandbox/kudi-package-sppay-laravel) | 0 | kudi-package-sppay-laravel |
-| [ibrahim-kaya/error-tracker](https://github.com/ibrahim-kaya/error-tracker) | 0 | A Laravel package to automatically track, deduplicate, and manage unhandled exce... |
-| [miguilimzero/laravel-singlestore-backup](https://github.com/miguilimzero/laravel-singlestore-backup) | 9 | A package that makes it easy to make backups of your SingleStore database to you... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-29 | 💳 Streamline payment processing with this PHP package that ... |
-| [rosalana/core](https://github.com/rosalana/core) | 4 | 2026-03-29 | Rosalana core package for Laravel apps |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-29 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-29 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-29 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [iRaziul/sslcommerz-laravel](https://github.com/iRaziul/sslcommerz-laravel) | 69 | 2026-03-29 | SSLCommerz Laravel is a super easy package for integrating S... |
-| [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | 2026-03-29 | Provide "Sign In With Apple" functionality to your Laravel a... |
-| [ArielMejiaDev/healing-factor](https://github.com/ArielMejiaDev/healing-factor) | 0 | 2026-03-29 | Laravel Package to get Healing Factor Powers |
-| [jeffersongoncalves/filament-action-export](https://github.com/jeffersongoncalves/filament-action-export) | 4 | 2026-03-29 | Export Filament tables to CSV, XLSX and PDF with preview and... |
-| [jeffersongoncalves/filament-whatsapp-widget](https://github.com/jeffersongoncalves/filament-whatsapp-widget) | 7 | 2026-03-29 | This Filament package provides a simple yet customizable Wha... |
-| [jeffersongoncalves/filament-umami](https://github.com/jeffersongoncalves/filament-umami) | 3 | 2026-03-29 | Filament plugin for Umami analytics — tracking script inject... |
-| [jeffersongoncalves/filament-translatable](https://github.com/jeffersongoncalves/filament-translatable) | 1 | 2026-03-29 | Enhanced Filament plugin for spatie/laravel-translatable wit... |
-| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 3 | 2026-03-29 | Filament plugin to integrate Plausible Analytics with a sett... |
-| [jeffersongoncalves/filament-pixel](https://github.com/jeffersongoncalves/filament-pixel) | 3 | 2026-03-29 | Filament plugin to manage Meta (Facebook) Pixel settings fro... |
-| [jeffersongoncalves/filament-one-time-operations](https://github.com/jeffersongoncalves/filament-one-time-operations) | 2 | 2026-03-29 | This is a Laravel Filament package that provides a One Time ... |
-| [jeffersongoncalves/filament-multifactor-whatsapp](https://github.com/jeffersongoncalves/filament-multifactor-whatsapp) | 15 | 2026-03-29 | Filament 5 multi‑factor authentication via WhatsApp one‑time... |
-| [jeffersongoncalves/filament-mixpanel](https://github.com/jeffersongoncalves/filament-mixpanel) | 1 | 2026-03-29 | Filament plugin for Mixpanel analytics — tracking script inj... |
-| [jeffersongoncalves/filament-metrics-matomo](https://github.com/jeffersongoncalves/filament-metrics-matomo) | 3 | 2026-03-29 | Filament plugin for Matomo Analytics — Settings Page & Dashb... |
-| [jeffersongoncalves/filament-metrics-fathom](https://github.com/jeffersongoncalves/filament-metrics-fathom) | 2 | 2026-03-29 | Filament plugin for Fathom Analytics metrics - dashboard wid... |
-| [jeffersongoncalves/filament-matomo](https://github.com/jeffersongoncalves/filament-matomo) | 4 | 2026-03-29 | Filament plugin for Matomo Analytics with Settings Page — ma... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-03-30 | 💳 Streamline payment processing with this PHP package that ... |
+| [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | 2026-03-30 | Provide "Sign In With Apple" functionality to your Laravel a... |
+| [mikebronner/laravel-governor](https://github.com/mikebronner/laravel-governor) | 200 | 2026-03-30 | Manage authorization with granular role-based permissions in... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-03-30 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-30 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-30 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [oxhq/canio-laravel](https://github.com/oxhq/canio-laravel) | 0 | 2026-03-30 | Public split repository for the oxhq/canio Laravel package |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-03-30 | Laravel Package to access AI CAD |
+| [mikebronner/laravel-mixpanel](https://github.com/mikebronner/laravel-mixpanel) | 122 | 2026-03-29 | Intuitive drop-in analytics. |
+| [zackAJ/laravel-debounce](https://github.com/zackAJ/laravel-debounce) | 148 | 2026-03-29 | a laravel package that gives you a debounce effect on jobs, ... |
+| [clinically-au/laravel-companion-demo](https://github.com/clinically-au/laravel-companion-demo) | 0 | 2026-03-29 | Demo and test bed for the clinically/laravel-companion packa... |
+| [RafaelBlum/hall-dos-conquistadores](https://github.com/RafaelBlum/hall-dos-conquistadores) | 1 | 2026-03-29 | Retrô Community é um sistema de blog com intuito de potencia... |
+| [mikebronner/laravel-impersonator](https://github.com/mikebronner/laravel-impersonator) | 62 | 2026-03-29 | Package to allow user-impersonation in your Laravel and Nova... |
+| [PabloNVP/GP2-CRM](https://github.com/PabloNVP/GP2-CRM) | 0 | 2026-03-29 | Repositorio de aplicación web que permite gestionar y admini... |
+| [Sunucode/laravel-afripay](https://github.com/Sunucode/laravel-afripay) | 0 | 2026-03-29 | Unified payment gateway for Africa — Wave, Orange Money, Pay... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-29 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-03-29 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-03-29 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-29 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-03-29 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-03-30T00:27 | 8 | 1696 | 3157 |
 | 2026-03-29T18:10 | 8 | 1694 | 3149 |
 | 2026-03-29T12:11 | 5 | 1698 | 3141 |
 | 2026-03-29T06:26 | 1 | 1703 | 3136 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-28T06:22 | 4 | 1699 | 3106 |
 | 2026-03-28T00:24 | 9 | 1688 | 3102 |
 | 2026-03-27T18:19 | 9 | 1687 | 3093 |
-| 2026-03-27T12:16 | 11 | 1685 | 3084 |
 
 ---
 

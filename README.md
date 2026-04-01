@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3206  
-**Last updated:** 2026-03-31T18:21:01.709Z
+**Total packages tracked:** 3217  
+**Last updated:** 2026-04-01T00:29:44.535Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [RawanD201/filament-spatie-lighthouse](https://github.com/RawanD201/filament-spatie-lighthouse) | 0 | A plugin that integrates spatie/lighthouse-php to run Google Lighthouse audits d... |
+| [manchenkoff/laravel-repositories](https://github.com/manchenkoff/laravel-repositories) | 1 | Repository pattern implementation for your Laravel application |
+| [seblhaire/daterangepickerhelper](https://github.com/seblhaire/daterangepickerhelper) | 3 | Laravel library to provide an helper to initialize a single or double DateRangeP... |
+| [seblhaire/bootstrappaginator](https://github.com/seblhaire/bootstrappaginator) | 3 | Laravel Bootstrap Paginator |
+| [gecche/laravel-cupparis-appvars](https://github.com/gecche/laravel-cupparis-appvars) | 0 | Simple package for handling global and user specific vars in a Cupparis app |
+| [lexalium/laravel-stepped-form-submitter](https://github.com/lexalium/laravel-stepped-form-submitter) | 1 | With this package you can submit a form entity, e.g. save it into the database. ... |
+| [3assy2018/laravel-maintenance-tasks](https://github.com/3assy2018/laravel-maintenance-tasks) | 0 | a PHP/Laravel Port of the great Shopify/maintenance_tasks package |
+| [Helvetitec/messaging](https://github.com/Helvetitec/messaging) | 0 | Laravel Messaging package for Whatsapp and others. |
+| [BinarCode/laravel-tenantable](https://github.com/BinarCode/laravel-tenantable) | 4 | Just another multi tenant support package for Laravel. |
+| [HypathBel/model-scribe](https://github.com/HypathBel/model-scribe) | 0 | ModelScribe is a laravel package focused on eloquent model logging but with plen... |
+| [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) | 17 | For testing your package's Livewire components with Laravel Dusk |
 | [Mohammed-alhosam/filament-taxonomy](https://github.com/Mohammed-alhosam/filament-taxonomy) | 0 | Reusable taxonomy manager for Laravel 12 and Filament v4 with hierarchical terms... |
 | [jiannei/laravel-enum](https://github.com/jiannei/laravel-enum) | 39 | A simple and easy-to-use enumeration extension package to help you manage enumer... |
 | [klytron/laravel-google-drive-filesystem](https://github.com/klytron/laravel-google-drive-filesystem) | 2 | A Laravel package that provides seamless integration with Google Drive as a file... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Mohammed-alhosam/filament-menu-builder](https://github.com/Mohammed-alhosam/filament-menu-builder) | 0 | Reusable menu builder for Laravel 12 and Filament v4 with tree menus, mega menus... |
 | [ihabrouk/messenger](https://github.com/ihabrouk/messenger) | 1 | A comprehensive Laravel package for multi-provider messaging (SMS, WhatsApp, Ema... |
 | [mainlayer/mainlayer-laravel](https://github.com/mainlayer/mainlayer-laravel) | 0 | Laravel package for Mainlayer payments |
-| [alifcoder/permission](https://github.com/alifcoder/permission) | 1 | Alif Permissions is a modular, lightweight Laravel package for managing user rol... |
-| [carlosdlrb-dev/model-change-logger](https://github.com/carlosdlrb-dev/model-change-logger) | 4 | Laravel package to automatically log changes (create/updates/deletes) made to El... |
-| [Max13/laravel-sqfix](https://github.com/Max13/laravel-sqfix) | 0 | Laravel package fixing SQLite Schema grammar |
-| [EG-Mohamed/Notable](https://github.com/EG-Mohamed/Notable) | 78 |   Notable is a Laravel package that adds polymorphic note functionality to any E... |
-| [BRANDNEWSHVT/fluxchat](https://github.com/BRANDNEWSHVT/fluxchat) | 0 | AI Chat Bot with TALL stack |
-| [denpamusic/laravel-bitcoinrpc](https://github.com/denpamusic/laravel-bitcoinrpc) | 90 | Bitcoin JSON-RPC Service Provider for Laravel. |
-| [devtical/laravel-helpers](https://github.com/devtical/laravel-helpers) | 19 | Helper Generator for Laravel |
-| [offload-project/laravel-waitlist](https://github.com/offload-project/laravel-waitlist) | 48 | A simple and elegant waitlist package for Laravel applications |
-| [archtechx/laravel-seo](https://github.com/archtechx/laravel-seo) | 324 | SEO package for Laravel |
-| [lifetimesms/gateway](https://github.com/lifetimesms/gateway) | 1 | Lifeitmesms laravel package to send single or bulk text and voice sms and balanc... |
-| [Vladislav727/e-ShopLaravelFilament-test](https://github.com/Vladislav727/e-ShopLaravelFilament-test) | 0 | 🛒 Full-stack e-commerce platform with Laravel 12, Filament 3.2, Livewire & Alpi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-03-31 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-03-31 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [offload-project/laravel-navigation](https://github.com/offload-project/laravel-navigation) | 3 | 2026-03-31 | Configurable navigation package for Laravel with breadcrumb ... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-03-31 | Laravel-based API for storing sensor data from distributed n... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 321 | 2026-03-31 | The NativePHP website |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 1 | 2026-03-31 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-03-31 | Event-driven state machines for Laravel with event sourcing,... |
-| [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 7 | 2026-03-31 | Laravel package providing client-side validation with Alpine... |
-| [ShamarKellman/flex-cart](https://github.com/ShamarKellman/flex-cart) | 0 | 2026-03-31 | FlexCart is a flexible shopping cart package for Laravel 12+... |
-| [asciisd/kyc-shuftipro](https://github.com/asciisd/kyc-shuftipro) | 1 | 2026-03-31 | Laravel KYC integration package for ShuftiPro verification s... |
-| [World-eSports-LLC/laravel-auto-tenancy](https://github.com/World-eSports-LLC/laravel-auto-tenancy) | 0 | 2026-03-31 | This Laravel package allows any laravel installation to beco... |
-| [InterWorks/laravel-powerbi](https://github.com/InterWorks/laravel-powerbi) | 0 | 2026-03-31 | A comprehensive Laravel package for interacting with the Mic... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 4 | 2026-03-31 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-03-31 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 8 | 2026-03-31 | Kompass A Laravel CMS |
-| [juaniquillo/laravel-backend-component](https://github.com/juaniquillo/laravel-backend-component) | 0 | 2026-03-31 | A package that facilitates the creation of Laravel component... |
-| [henryleeworld/laravel-decomposes-and-lists-all-the-installed-packages-and-their-dependencies](https://github.com/henryleeworld/laravel-decomposes-and-lists-all-the-installed-packages-and-their-dependencies) | 0 | 2026-03-31 | 分解並列出所有已安裝的套件及其依賴項目 |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-31 | Track and display Matomo analytics data directly within Lara... |
+| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-04-01 | Event-driven state machines for Laravel with event sourcing,... |
+| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-04-01 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-01 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-01 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 3 | 2026-04-01 | Filament plugin to integrate Plausible Analytics with a sett... |
+| [Max13/laravel-sqfix](https://github.com/Max13/laravel-sqfix) | 0 | 2026-03-31 | Laravel package fixing SQLite Schema grammar |
+| [GusAlberto/hired-flow](https://github.com/GusAlberto/hired-flow) | 0 | 2026-03-31 | A micro-SaaS job application tracker built with Laravel, Liv... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 7 | 2026-03-31 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [syofyanzuhad/filament-zkteco-adms](https://github.com/syofyanzuhad/filament-zkteco-adms) | 2 | 2026-03-31 | Package to receive data from zkteco device through adms |
+| [tzsk/sms](https://github.com/tzsk/sms) | 319 | 2026-03-31 | Laravel SMS Gateway Integration Package |
+| [VictorMGomes/scramble-extensions](https://github.com/VictorMGomes/scramble-extensions) | 1 | 2026-03-31 | Useful magic extensions for dedoc/scramble package |
+| [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) | 17 | 2026-03-31 | For testing your package's Livewire components with Laravel ... |
+| [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) | 17 | 2026-03-31 | Add importing large CSV (and TSV) data feature to your Larav... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-03-31 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-03-31 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-03-31 | Track and display Matomo analytics data directly within Lara... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-03-31 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-03-31 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-03-31 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-03-31 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-01T00:29 | 11 | 1680 | 3217 |
 | 2026-03-31T18:21 | 6 | 1700 | 3206 |
 | 2026-03-31T12:20 | 7 | 1697 | 3200 |
 | 2026-03-31T06:30 | 6 | 1698 | 3193 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-30T06:39 | 6 | 1697 | 3163 |
 | 2026-03-30T00:27 | 8 | 1696 | 3157 |
 | 2026-03-29T18:10 | 8 | 1694 | 3149 |
-| 2026-03-29T12:11 | 5 | 1698 | 3141 |
 
 ---
 

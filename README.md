@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3217  
-**Last updated:** 2026-04-01T06:36:38.303Z
+**Total packages tracked:** 3224  
+**Last updated:** 2026-04-01T12:20:41.399Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [statikbe/laravel-surveyhero](https://github.com/statikbe/laravel-surveyhero) | 15 | Import Surveyhero questions, answers and responses into a Laravel database, http... |
+| [hihaho/laravel-js-store](https://github.com/hihaho/laravel-js-store) | 4 | Laravel JS Store - Easily render data to your blade templates to use in your fro... |
+| [henrymanyonyi/laravel-impersonation](https://github.com/henrymanyonyi/laravel-impersonation) | 0 | Allows admin users to log in as client accounts securely. This package is design... |
+| [fiachehr/laravel-pardakht](https://github.com/fiachehr/laravel-pardakht) | 1 | Laravel-Pardakht is a professional payment gateway package for Laravel, supporti... |
+| [RumenDamyanov/php-assets](https://github.com/RumenDamyanov/php-assets) | 104 | Framework-agnostic PHP package to manage frontend assets in the backend. Works w... |
+| [RumenDamyanov/php-calendar](https://github.com/RumenDamyanov/php-calendar) | 4 | Framework-agnostic PHP package for generating events and calendar meetings in IC... |
+| [tahirrasheed208/laravel-settings](https://github.com/tahirrasheed208/laravel-settings) | 2 | Settings package for Laravel |
 | [RawanD201/filament-spatie-lighthouse](https://github.com/RawanD201/filament-spatie-lighthouse) | 0 | A plugin that integrates spatie/lighthouse-php to run Google Lighthouse audits d... |
 | [manchenkoff/laravel-repositories](https://github.com/manchenkoff/laravel-repositories) | 1 | Repository pattern implementation for your Laravel application |
 | [seblhaire/daterangepickerhelper](https://github.com/seblhaire/daterangepickerhelper) | 3 | Laravel library to provide an helper to initialize a single or double DateRangeP... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [joshhanley/livewire-dusk-testbench](https://github.com/joshhanley/livewire-dusk-testbench) | 17 | For testing your package's Livewire components with Laravel Dusk |
 | [Mohammed-alhosam/filament-taxonomy](https://github.com/Mohammed-alhosam/filament-taxonomy) | 0 | Reusable taxonomy manager for Laravel 12 and Filament v4 with hierarchical terms... |
 | [jiannei/laravel-enum](https://github.com/jiannei/laravel-enum) | 39 | A simple and easy-to-use enumeration extension package to help you manage enumer... |
-| [klytron/laravel-google-drive-filesystem](https://github.com/klytron/laravel-google-drive-filesystem) | 2 | A Laravel package that provides seamless integration with Google Drive as a file... |
-| [mohapinkepane/laravel-whatsapp-cloud](https://github.com/mohapinkepane/laravel-whatsapp-cloud) | 0 | Laravel-first WhatsApp Cloud API package for bots, messaging, webhooks,flows, no... |
-| [EG-Mohamed/Laravel-GTM-Events](https://github.com/EG-Mohamed/Laravel-GTM-Events) | 0 | A Laravel package to push events to Google Tag Manager dataLayer from PHP, Livew... |
-| [henryleeworld/laravel-decomposes-and-lists-all-the-installed-packages-and-their-dependencies](https://github.com/henryleeworld/laravel-decomposes-and-lists-all-the-installed-packages-and-their-dependencies) | 0 | 分解並列出所有已安裝的套件及其依賴項目 |
-| [Mohammed-alhosam/filament-menu-builder](https://github.com/Mohammed-alhosam/filament-menu-builder) | 0 | Reusable menu builder for Laravel 12 and Filament v4 with tree menus, mega menus... |
-| [ihabrouk/messenger](https://github.com/ihabrouk/messenger) | 1 | A comprehensive Laravel package for multi-provider messaging (SMS, WhatsApp, Ema... |
-| [mainlayer/mainlayer-laravel](https://github.com/mainlayer/mainlayer-laravel) | 0 | Laravel package for Mainlayer payments |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [keenops/laravel-tcb-cms](https://github.com/keenops/laravel-tcb-cms) | 0 | 2026-04-01 | Laravel package for integrating with Tanzania Commercial Ban... |
+| [cjmellor/approval](https://github.com/cjmellor/approval) | 365 | 2026-04-01 | Approve new Model data before it is persisted |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-01 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-04-01 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-01 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-01 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [jundayw/laravel-passport](https://github.com/jundayw/laravel-passport) | 0 | 2026-04-01 | A lightweight and scalable PHP API request verification and ... |
+| [jeffersongoncalves/mobilekitv5](https://github.com/jeffersongoncalves/mobilekitv5) | 2 | 2026-04-01 | MobileKit starter kit built on Laravel 12.x, Filament 5.x an... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 467 | 2026-04-01 | Easy, flexible and powerful cloud-native Laravel CMS package... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 321 | 2026-04-01 | The NativePHP website |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 40 | 2026-04-01 | This is a Filament v4 Starter Kit for Laravel 12, designed t... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-01 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-04-01 | A laravel based E Commerce Package Developed using PHP |
+| [digitaldev-lx/laravel-eupago](https://github.com/digitaldev-lx/laravel-eupago) | 0 | 2026-04-01 | A Laravel package for making payments through the EuPago API... |
+| [smart-dato/desk365-sdk](https://github.com/smart-dato/desk365-sdk) | 0 | 2026-04-01 | Desk365 Laravel SDK - A Laravel package to interact with the... |
+| [arif98741/laravelbdsms](https://github.com/arif98741/laravelbdsms) | 148 | 2026-04-01 | Xenon\LaravelBDSms is a laravel based multi sms gateway pack... |
+| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 8 | 2026-04-01 | Kompass A Laravel CMS |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-01 | 💰 Simplify your financial management with Finova, an open-s... |
+| [webqamdev/activity-logger-for-laravel](https://github.com/webqamdev/activity-logger-for-laravel) | 2 | 2026-04-01 | The webqamdev/activity-logger package automatically log mode... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-01 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-01 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-01 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-01 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-01 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-01 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-01 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-01 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-01 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-04-01 | An event sourcing laravel package, complete with all the ess... |
-| [zanwaar/sikeu-laravel-payment](https://github.com/zanwaar/sikeu-laravel-payment) | 0 | 2026-04-01 | Laravel package untuk integrasi SIKEU Payment Gateway - supp... |
-| [didasto/apilot](https://github.com/didasto/apilot) | 0 | 2026-04-01 | Rest-Api Package for Laravel |
+| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-04-01 | Event-driven state machines for Laravel with event sourcing,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-01T12:20 | 7 | 1687 | 3224 |
 | 2026-04-01T06:36 | 0 | 1692 | 3217 |
 | 2026-04-01T00:29 | 11 | 1680 | 3217 |
 | 2026-03-31T18:21 | 6 | 1700 | 3206 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-30T18:20 | 3 | 1700 | 3175 |
 | 2026-03-30T12:20 | 9 | 1694 | 3172 |
 | 2026-03-30T06:39 | 6 | 1697 | 3163 |
-| 2026-03-30T00:27 | 8 | 1696 | 3157 |
 
 ---
 

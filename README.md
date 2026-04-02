@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3241  
-**Last updated:** 2026-04-02T06:28:02.305Z
+**Total packages tracked:** 3252  
+**Last updated:** 2026-04-02T12:20:01.834Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [irazasyed/php-transmission-sdk](https://github.com/irazasyed/php-transmission-sdk) | 22 | 🔄 PHP Transmission-RPC API SDK with Laravel Support.  |
+| [chrisrhymes/link-checker](https://github.com/chrisrhymes/link-checker) | 15 | A Laravel package that will check for broken links within HTML for a specified m... |
+| [justbetter/laravel-magento-async](https://github.com/justbetter/laravel-magento-async) | 3 | This package provides a way to store async/bulk requests to Magento |
+| [hirehq/laravel-bank-holidays](https://github.com/hirehq/laravel-bank-holidays) | 0 | Laravel package providing UK bank holiday and working day Carbon macros using th... |
+| [justbetter/laravel-magento-webhooks](https://github.com/justbetter/laravel-magento-webhooks) | 12 | A Laravel package to listen to webhooks dispatched from mageplaza/webhooks. |
+| [aliirfaan/laravel-simple-otp](https://github.com/aliirfaan/laravel-simple-otp) | 1 | This package allows you to generate OTP (One time password). You can then verify... |
+| [justbetter/laravel-magento-products](https://github.com/justbetter/laravel-magento-products) | 16 | This package tracks if products exist in Magento by storing the status locally i... |
+| [AXN-Informatique/laravel-notifier](https://github.com/AXN-Informatique/laravel-notifier) | 1 | Alerts/notifications for Laravel. |
+| [salmanAhmad143/laravel-einvoice-suite](https://github.com/salmanAhmad143/laravel-einvoice-suite) | 0 | Multi-provider E-Invoice integration package for Laravel. Supports EY, Adaequare... |
+| [faizansf/laravel-metafields](https://github.com/faizansf/laravel-metafields) | 1 | This package enhances Laravel Models by introducing Meta field functionality. |
+| [mayaramyadav/laravel-browser-location](https://github.com/mayaramyadav/laravel-browser-location) | 10 | Laravel Browser Location is a lightweight package to capture user GPS location u... |
 | [oxydaid/web-portfolio](https://github.com/oxydaid/web-portfolio) | 0 | Website portfolio dibuat dengan menggunkan framework laravel |
 | [christmex/filament-toggle-table-group-action](https://github.com/christmex/filament-toggle-table-group-action) | 0 | Easily toggle row grouping in your Filament tables |
 | [DakshIOT/Internal-Company-CRM](https://github.com/DakshIOT/Internal-Company-CRM) | 0 | Internal Laravel CRM for venue-scoped admin and employee operations, ledgers, re... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jecis-repos/laravel-rag](https://github.com/jecis-repos/laravel-rag) | 0 | Laravel package: AST-aware RAG with knowledge graph, multi-hop search, pgvector,... |
 | [samhop87/sentinel-laravel-client](https://github.com/samhop87/sentinel-laravel-client) | 0 | Composer package for sentinel's laravel client |
 | [techenby/sunny](https://github.com/techenby/sunny) | 0 |  |
-| [DeepskyLog/laravel-astronomy-library](https://github.com/DeepskyLog/laravel-astronomy-library) | 12 | A library to perform astronomical calculations in php / laravel |
-| [Hamoi1/laravel-fib-payment](https://github.com/Hamoi1/laravel-fib-payment) | 1 | A Laravel package for integrating with the First Iraqi Bank (FIB) payment gatewa... |
-| [Multek-Company/laravel-nps](https://github.com/Multek-Company/laravel-nps) | 0 | A simple, focused NPS (Net Promoter Score) package for Laravel applications |
-| [motomedialab/simple-laravel-audit](https://github.com/motomedialab/simple-laravel-audit) | 26 | A package to provide simple yet comprehensive auditing functionality to your Lar... |
-| [neuecommerce/addresses](https://github.com/neuecommerce/addresses) | 2 | Addresses is a polymorphic Laravel package, for address book management. |
-| [motomedialab/compliance](https://github.com/motomedialab/compliance) | 1 | A Laravel package to easily manage data compliance/expiry rules |
-| [Uzziahlukeka/telegrammonitor](https://github.com/Uzziahlukeka/telegrammonitor) | 8 | Monitor your Laravel application logs in real-time through Telegram. This packag... |
-| [CodeWithDennis/filament-simple-map](https://github.com/CodeWithDennis/filament-simple-map) | 36 | This package offers a straightforward and easy-to-use map action component for y... |
-| [statikbe/laravel-surveyhero](https://github.com/statikbe/laravel-surveyhero) | 15 | Import Surveyhero questions, answers and responses into a Laravel database, http... |
-| [hihaho/laravel-js-store](https://github.com/hihaho/laravel-js-store) | 4 | Laravel JS Store - Easily render data to your blade templates to use in your fro... |
-| [henrymanyonyi/laravel-impersonation](https://github.com/henrymanyonyi/laravel-impersonation) | 0 | Allows admin users to log in as client accounts securely. This package is design... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [awcodes/richer-editor](https://github.com/awcodes/richer-editor) | 37 | 2026-04-02 | A collection of extensions and tools to enhance the Filament... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-02 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-02 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [ElegantEngineeringTech/laravel-seo](https://github.com/ElegantEngineeringTech/laravel-seo) | 12 | 2026-04-02 | An Elegant & Flexible SEO Tag Builder for Laravel |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-04-02 | Laravel Package to access AI CAD |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-02 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [chrisrhymes/link-checker](https://github.com/chrisrhymes/link-checker) | 15 | 2026-04-02 | A Laravel package that will check for broken links within HT... |
+| [zaeem2396/schema-lens](https://github.com/zaeem2396/schema-lens) | 5 | 2026-04-02 | A Laravel package that extends the default Artisan CLI with ... |
+| [georgebuilds/livewire-molecule](https://github.com/georgebuilds/livewire-molecule) | 0 | 2026-04-02 | A Livewire component for 3D molecular visualization using 3D... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-02 | 💳 Streamline payment processing with this PHP package that ... |
+| [aerni/laravel-cloudflared](https://github.com/aerni/laravel-cloudflared) | 83 | 2026-04-02 | A simple package to create and manage Cloudflare Tunnels for... |
+| [justbetter/laravel-magento-stock](https://github.com/justbetter/laravel-magento-stock) | 12 | 2026-04-02 | Package to send stock to Magento from a Laravel application ... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 1 | 2026-04-02 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-04-02 | Event-driven state machines for Laravel with event sourcing,... |
+| [ElegantEngineeringTech/laravel-forex](https://github.com/ElegantEngineeringTech/laravel-forex) | 4 | 2026-04-02 | Forex, exchange rates and currency conversion for your Larav... |
+| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-04-02 | A Laravel package for syncing database tables and data betwe... |
+| [ElegantEngineeringTech/laravel-settings](https://github.com/ElegantEngineeringTech/laravel-settings) | 9 | 2026-04-02 | Elegant Global Settings Management in Laravel |
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 468 | 2026-04-02 | Easy, flexible and powerful cloud-native Laravel CMS package... |
-| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-04-02 | Chief admin package |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-04-02 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [rickgoemans/laravel-user-settings](https://github.com/rickgoemans/laravel-user-settings) | 0 | 2026-04-02 | Laravel package for generic user settings |
-| [codebar-ag/laravel-filament-json-field](https://github.com/codebar-ag/laravel-filament-json-field) | 11 | 2026-04-02 | Laravel Filament JSON Field |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-02 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-02 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-04-02 | An event sourcing laravel package, complete with all the ess... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-02 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-04-02 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-02 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-02 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-02 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-02 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-02 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-02 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-02 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-02 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [jeffersongoncalves/filament-one-time-operations](https://github.com/jeffersongoncalves/filament-one-time-operations) | 2 | 2026-04-02 | This is a Laravel Filament package that provides a One Time ... |
+| [jeffersongoncalves/filament-cep-field](https://github.com/jeffersongoncalves/filament-cep-field) | 6 | 2026-04-02 | The Filament CEP Field is a custom input component designed ... |
+| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-04-02 | A Filament plugin to add markdown-based documentation to you... |
+| [jeffersongoncalves/filament-translatable](https://github.com/jeffersongoncalves/filament-translatable) | 1 | 2026-04-02 | Enhanced Filament plugin for spatie/laravel-translatable wit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-02T12:20 | 11 | 1693 | 3252 |
 | 2026-04-02T06:28 | 2 | 1699 | 3241 |
 | 2026-04-02T00:24 | 6 | 1694 | 3239 |
 | 2026-04-01T18:20 | 9 | 1687 | 3233 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-31T18:21 | 6 | 1700 | 3206 |
 | 2026-03-31T12:20 | 7 | 1697 | 3200 |
 | 2026-03-31T06:30 | 6 | 1698 | 3193 |
-| 2026-03-31T00:26 | 12 | 1690 | 3187 |
 
 ---
 

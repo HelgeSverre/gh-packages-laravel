@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3239  
-**Last updated:** 2026-04-02T00:24:58.513Z
+**Total packages tracked:** 3241  
+**Last updated:** 2026-04-02T06:28:02.305Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [oxydaid/web-portfolio](https://github.com/oxydaid/web-portfolio) | 0 | Website portfolio dibuat dengan menggunkan framework laravel |
+| [christmex/filament-toggle-table-group-action](https://github.com/christmex/filament-toggle-table-group-action) | 0 | Easily toggle row grouping in your Filament tables |
 | [DakshIOT/Internal-Company-CRM](https://github.com/DakshIOT/Internal-Company-CRM) | 0 | Internal Laravel CRM for venue-scoped admin and employee operations, ledgers, re... |
 | [thenextweb/passgenerator](https://github.com/thenextweb/passgenerator) | 294 | A Laravel package to create Apple Wallet passes. |
 | [waadmawlood/filament-media](https://github.com/waadmawlood/filament-media) | 0 | Filament integration for `waad/media` package for Media Upload Locally Or Cloud ... |
@@ -27,15 +29,13 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [statikbe/laravel-surveyhero](https://github.com/statikbe/laravel-surveyhero) | 15 | Import Surveyhero questions, answers and responses into a Laravel database, http... |
 | [hihaho/laravel-js-store](https://github.com/hihaho/laravel-js-store) | 4 | Laravel JS Store - Easily render data to your blade templates to use in your fro... |
 | [henrymanyonyi/laravel-impersonation](https://github.com/henrymanyonyi/laravel-impersonation) | 0 | Allows admin users to log in as client accounts securely. This package is design... |
-| [fiachehr/laravel-pardakht](https://github.com/fiachehr/laravel-pardakht) | 1 | Laravel-Pardakht is a professional payment gateway package for Laravel, supporti... |
-| [RumenDamyanov/php-assets](https://github.com/RumenDamyanov/php-assets) | 104 | Framework-agnostic PHP package to manage frontend assets in the backend. Works w... |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
-| [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 481 | This package allows you to easily work with UUIDs in your Laravel models |
+| [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 479 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 468 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [DCODE-GROUP/laravel-xero-oauth](https://github.com/DCODE-GROUP/laravel-xero-oauth) | 1 | 2026-04-02 | Xero connection package we use in all our projects |
+| [awcodes/richer-editor](https://github.com/awcodes/richer-editor) | 37 | 2026-04-02 | A collection of extensions and tools to enhance the Filament... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-02 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-02 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 468 | 2026-04-02 | Easy, flexible and powerful cloud-native Laravel CMS package... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-04-02 | Chief admin package |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-04-02 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [rickgoemans/laravel-user-settings](https://github.com/rickgoemans/laravel-user-settings) | 0 | 2026-04-02 | Laravel package for generic user settings |
+| [codebar-ag/laravel-filament-json-field](https://github.com/codebar-ag/laravel-filament-json-field) | 11 | 2026-04-02 | Laravel Filament JSON Field |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-02 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-02 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-04-02 | An event sourcing laravel package, complete with all the ess... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-02 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-04-02 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-02 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-02 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [chijioke-ibekwe/raven](https://github.com/chijioke-ibekwe/raven) | 9 | 2026-04-02 | Laravel multi-channel notification package |
-| [waadmawlood/filament-media](https://github.com/waadmawlood/filament-media) | 0 | 2026-04-02 | Filament integration for `waad/media` package for Media Uplo... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-02 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-02 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-02 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 1 | 2026-04-02 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
 | [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-02 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-02 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-02 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [coxlr/laravel-natural-language](https://github.com/coxlr/laravel-natural-language) | 0 | 2026-04-01 | A Laravel package for the Google Natural language API |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-01 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-01 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-01 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [waadmawlood/media](https://github.com/waadmawlood/media) | 16 | 2026-04-01 | Media managment package to save your files local | S3, witho... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-01 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-01 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-02T06:28 | 2 | 1699 | 3241 |
 | 2026-04-02T00:24 | 6 | 1694 | 3239 |
 | 2026-04-01T18:20 | 9 | 1687 | 3233 |
 | 2026-04-01T12:20 | 7 | 1687 | 3224 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-03-31T12:20 | 7 | 1697 | 3200 |
 | 2026-03-31T06:30 | 6 | 1698 | 3193 |
 | 2026-03-31T00:26 | 12 | 1690 | 3187 |
-| 2026-03-30T18:20 | 3 | 1700 | 3175 |
 
 ---
 

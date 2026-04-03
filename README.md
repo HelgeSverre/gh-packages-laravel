@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3277  
-**Last updated:** 2026-04-03T12:14:33.729Z
+**Total packages tracked:** 3280  
+**Last updated:** 2026-04-03T18:13:21.913Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mirrorps/laravel-taler](https://github.com/mirrorps/laravel-taler) | 0 | Laravel package for GNU Taler REST API integration |
+| [hmreumann/argentina-airports](https://github.com/hmreumann/argentina-airports) | 0 | Laravel Package to import the airports from Argentina into a table. |
+| [imranhasan871/devtools](https://github.com/imranhasan871/devtools) | 0 | Laravel Dev Utility package — provides a /dev endpoint for local development |
 | [salahedarhri/driveease-car-rental](https://github.com/salahedarhri/driveease-car-rental) | 0 | DriveEase is a website project dedicated to car rental services. made with Larav... |
 | [BernhardK91/laravel-dpd](https://github.com/BernhardK91/laravel-dpd) | 14 | This is a laravel package for the DPD Webservices based on Michiel Meertens' "DP... |
 | [redafillali/google-analytics-events](https://github.com/redafillali/google-analytics-events) | 0 | Laravel package to send events to Google Analytics 4 using the Measurement Proto... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [martin-lechene/peppol-package-demo](https://github.com/martin-lechene/peppol-package-demo) | 1 | Laravel demo for peppol-package/laravel-peppol-invoices |
 | [foxen-digital/laravel-cancellation-tokens](https://github.com/foxen-digital/laravel-cancellation-tokens) | 0 | A focused package to manage the full cancellation token lifecycle - generation, ... |
 | [RyderAsKing/laravel-ai-trace](https://github.com/RyderAsKing/laravel-ai-trace) | 1 | Laravel AI Trace is a Laravel package for LangSmith-style tracing of AI workflow... |
-| [rajurayhan/laravel-quickbooks-mcp-server](https://github.com/rajurayhan/laravel-quickbooks-mcp-server) | 0 | This package is the first PHP/Laravel QuickBooks MCP implementation in the ecosy... |
-| [evelyn-labs/laravel-braintrust](https://github.com/evelyn-labs/laravel-braintrust) | 0 | Laravel package for working with the Braintrust SDK  |
-| [skulich/laravel-user-token-management-cli](https://github.com/skulich/laravel-user-token-management-cli) | 0 | A Laravel package that allows managing Users and their Tokens from CLI |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [yezzmedia/laravel-access](https://github.com/yezzmedia/laravel-access) | 0 | 2026-04-03 | Persistent roles and permissions package for the Yezz Media ... |
-| [midnite81/core](https://github.com/midnite81/core) | 0 | 2026-04-03 | A package for core activity within laravel projects |
-| [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 1 | 2026-04-03 | A Laravel package that compiles Markdown files and OpenAPI 3... |
-| [codebar-ag/laravel-flysystem-cloudinary](https://github.com/codebar-ag/laravel-flysystem-cloudinary) | 11 | 2026-04-03 | Cloudinary Flysystem integration with Laravel. |
-| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | 2026-04-03 | miPress CMS — core Laravel package (Filament 5) |
-| [sosupp/site-legals](https://github.com/sosupp/site-legals) | 0 | 2026-04-03 | A laravel package to easily include the required website leg... |
-| [salahedarhri/driveease-car-rental](https://github.com/salahedarhri/driveease-car-rental) | 0 | 2026-04-03 | DriveEase is a website project dedicated to car rental servi... |
+| [salahhusa9/laravel-updater](https://github.com/salahhusa9/laravel-updater) | 216 | 2026-04-03 | Laravel Updater is a simple yet powerful package for updater... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-03 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-03 | Track and display Matomo analytics data directly within Lara... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-03 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-03 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-03 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-03 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-03 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-03 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 1 | 2026-04-03 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-03 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-03 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-03 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-03 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 468 | 2026-04-03 | Easy, flexible and powerful cloud-native Laravel CMS package... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-03 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-03 | Generate GitHub repository statistics and insights directly ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-03 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-03 | Prevent risky Laravel database migrations with static analys... |
+| [hosmelq/laravel-package-template](https://github.com/hosmelq/laravel-package-template) | 0 | 2026-04-03 |  |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-03 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-03 | Integrate Mixpanel analytics into Filament projects to track... |
+| [akyroslabs/hostatlas-queue-monitor](https://github.com/akyroslabs/hostatlas-queue-monitor) | 0 | 2026-04-03 | Laravel package to push queue metrics (Redis, Database, SQS)... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-03 | Manage and track inventory with a PHP package that integrate... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-03T18:13 | 3 | 1704 | 3280 |
 | 2026-04-03T12:14 | 5 | 1702 | 3277 |
 | 2026-04-03T06:27 | 3 | 1703 | 3272 |
 | 2026-04-03T00:26 | 3 | 1703 | 3269 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-02T00:24 | 6 | 1694 | 3239 |
 | 2026-04-01T18:20 | 9 | 1687 | 3233 |
 | 2026-04-01T12:20 | 7 | 1687 | 3224 |
-| 2026-04-01T06:36 | 0 | 1692 | 3217 |
 
 ---
 

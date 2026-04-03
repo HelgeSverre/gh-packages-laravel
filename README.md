@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3272  
-**Last updated:** 2026-04-03T06:27:21.185Z
+**Total packages tracked:** 3277  
+**Last updated:** 2026-04-03T12:14:33.729Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [salahedarhri/driveease-car-rental](https://github.com/salahedarhri/driveease-car-rental) | 0 | DriveEase is a website project dedicated to car rental services. made with Larav... |
+| [BernhardK91/laravel-dpd](https://github.com/BernhardK91/laravel-dpd) | 14 | This is a laravel package for the DPD Webservices based on Michiel Meertens' "DP... |
+| [redafillali/google-analytics-events](https://github.com/redafillali/google-analytics-events) | 0 | Laravel package to send events to Google Analytics 4 using the Measurement Proto... |
+| [pankajtribhuvan/LARAVEL-API-AUTHENTICATE](https://github.com/pankajtribhuvan/LARAVEL-API-AUTHENTICATE) | 0 | This is example of Laravel Sanctum package API authentication. |
+| [jmrashed/purchase-key-guard](https://github.com/jmrashed/purchase-key-guard) | 4 | Purchase Key Guard is a Laravel package that helps protect your Laravel applicat... |
 | [zaeem2396/vectora](https://github.com/zaeem2396/vectora) | 0 | A Laravel-first vector search package that enables seamless Pinecone integration... |
 | [signdeck/veil](https://github.com/signdeck/veil) | 17 | Laravel package to anonymize database exports |
 | [AngeloFranciscoSA/laravel-package-by-feature](https://github.com/AngeloFranciscoSA/laravel-package-by-feature) | 0 |  |
@@ -18,17 +23,12 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [pralhadstha/aftership-laravel](https://github.com/pralhadstha/aftership-laravel) | 0 | AfterShip Laravel SDK: Seamlessly track shipments, detect couriers, manage webho... |
 | [SavioNicodemos/laravel-auto-swagger](https://github.com/SavioNicodemos/laravel-auto-swagger) | 0 | Automatic OpenAPI 3 documentation generator for Laravel. Generates schemas, para... |
 | [martin-lechene/peppol-package-laravel](https://github.com/martin-lechene/peppol-package-laravel) | 0 | Laravel package: Peppol e-invoicing (UBL) — Packagist: peppol-package/laravel-pe... |
-| [martin-lechene/peppol-package-demo](https://github.com/martin-lechene/peppol-package-demo) | 0 | Laravel demo for peppol-package/laravel-peppol-invoices |
+| [martin-lechene/peppol-package-demo](https://github.com/martin-lechene/peppol-package-demo) | 1 | Laravel demo for peppol-package/laravel-peppol-invoices |
 | [foxen-digital/laravel-cancellation-tokens](https://github.com/foxen-digital/laravel-cancellation-tokens) | 0 | A focused package to manage the full cancellation token lifecycle - generation, ... |
 | [RyderAsKing/laravel-ai-trace](https://github.com/RyderAsKing/laravel-ai-trace) | 1 | Laravel AI Trace is a Laravel package for LangSmith-style tracing of AI workflow... |
 | [rajurayhan/laravel-quickbooks-mcp-server](https://github.com/rajurayhan/laravel-quickbooks-mcp-server) | 0 | This package is the first PHP/Laravel QuickBooks MCP implementation in the ecosy... |
 | [evelyn-labs/laravel-braintrust](https://github.com/evelyn-labs/laravel-braintrust) | 0 | Laravel package for working with the Braintrust SDK  |
 | [skulich/laravel-user-token-management-cli](https://github.com/skulich/laravel-user-token-management-cli) | 0 | A Laravel package that allows managing Users and their Tokens from CLI |
-| [akyroslabs/hostatlas-queue-monitor](https://github.com/akyroslabs/hostatlas-queue-monitor) | 0 | Laravel package to push queue metrics (Redis, Database, SQS) to HostAtlas. Auto-... |
-| [justbetter/laravel-magento-customer-prices](https://github.com/justbetter/laravel-magento-customer-prices) | 13 | Package to send customer specific prices to Magento from a Laravel application u... |
-| [justbetter/laravel-magento-prices](https://github.com/justbetter/laravel-magento-prices) | 20 | Package to send prices to Magento from a Laravel application using a configurabl... |
-| [Buymeua/madeline-proto-integration](https://github.com/Buymeua/madeline-proto-integration) | 0 | Laravel package for the MadelineProto microservice in BuymeUa |
-| [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk) | 0 | Reusable Laravel SDK package for DimePay API integration |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-04-03 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-04-03 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-04-03 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-04-03 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-04-03 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) | 165 | 2026-04-03 | Ecommerce system written in Laravel 12 / PHP 8.5 using Filam... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-04-03 | ShieldCI Laravel Package - Open-source AI-powered code quali... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-03 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-03 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-03 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-03 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-04-03 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-03 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-03 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-03 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-04-03 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-03 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-03 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [oxhq/canio-laravel](https://github.com/oxhq/canio-laravel) | 0 | 2026-04-03 | Browser-grade PDF rendering package for Laravel powered by S... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-03 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [yezzmedia/laravel-access](https://github.com/yezzmedia/laravel-access) | 0 | 2026-04-03 | Persistent roles and permissions package for the Yezz Media ... |
+| [midnite81/core](https://github.com/midnite81/core) | 0 | 2026-04-03 | A package for core activity within laravel projects |
+| [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 1 | 2026-04-03 | A Laravel package that compiles Markdown files and OpenAPI 3... |
+| [codebar-ag/laravel-flysystem-cloudinary](https://github.com/codebar-ag/laravel-flysystem-cloudinary) | 11 | 2026-04-03 | Cloudinary Flysystem integration with Laravel. |
+| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | 2026-04-03 | miPress CMS — core Laravel package (Filament 5) |
+| [sosupp/site-legals](https://github.com/sosupp/site-legals) | 0 | 2026-04-03 | A laravel package to easily include the required website leg... |
+| [salahedarhri/driveease-car-rental](https://github.com/salahedarhri/driveease-car-rental) | 0 | 2026-04-03 | DriveEase is a website project dedicated to car rental servi... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-03 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-03 | Track and display Matomo analytics data directly within Lara... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-03 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-03 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-03 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-03 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-03 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-03 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-03 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-03 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-03 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-03 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-03 | Enable Laravel apps to build AI agents using Claude Code for... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-03T12:14 | 5 | 1702 | 3277 |
 | 2026-04-03T06:27 | 3 | 1703 | 3272 |
 | 2026-04-03T00:26 | 3 | 1703 | 3269 |
 | 2026-04-02T18:18 | 14 | 1691 | 3266 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-01T18:20 | 9 | 1687 | 3233 |
 | 2026-04-01T12:20 | 7 | 1687 | 3224 |
 | 2026-04-01T06:36 | 0 | 1692 | 3217 |
-| 2026-04-01T00:29 | 11 | 1680 | 3217 |
 
 ---
 

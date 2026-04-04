@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3287  
-**Last updated:** 2026-04-04T06:23:16.540Z
+**Total packages tracked:** 3293  
+**Last updated:** 2026-04-04T12:11:15.816Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [nikaia/translation-sheet](https://github.com/nikaia/translation-sheet) | 293 | Translating Laravel languages files using a Google Spreadsheet. |
+| [ariadata/laravel-clickhouse](https://github.com/ariadata/laravel-clickhouse) | 0 | Clickhouse package for laravel 12+ |
+| [owenvoke/blade-entypo](https://github.com/owenvoke/blade-entypo) | 7 | A package to easily make use of Entypo in your Laravel Blade views. |
+| [amarwave/amarwave-php](https://github.com/amarwave/amarwave-php) | 0 | Laravel and Symfony support included. Composer package for triggering events fro... |
+| [jiaxincui/closure-table](https://github.com/jiaxincui/closure-table) | 111 | A closure table tree package for laravel eloquent |
+| [siarheipashkevich/laravel-export-file](https://github.com/siarheipashkevich/laravel-export-file) | 0 | A Laravel package for exporting files. |
 | [jeffersongoncalves/filament-yaml-editor](https://github.com/jeffersongoncalves/filament-yaml-editor) | 1 | A rich YAML editor field for Filament powered by CodeMirror 6 with syntax highli... |
 | [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | A lightweight, convention-driven modular architecture package for Laravel - auto... |
 | [robin-ivi/google-auth](https://github.com/robin-ivi/google-auth) | 2 | Laravel Google Auth Package |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [BernhardK91/laravel-dpd](https://github.com/BernhardK91/laravel-dpd) | 14 | This is a laravel package for the DPD Webservices based on Michiel Meertens' "DP... |
 | [redafillali/google-analytics-events](https://github.com/redafillali/google-analytics-events) | 0 | Laravel package to send events to Google Analytics 4 using the Measurement Proto... |
 | [pankajtribhuvan/LARAVEL-API-AUTHENTICATE](https://github.com/pankajtribhuvan/LARAVEL-API-AUTHENTICATE) | 0 | This is example of Laravel Sanctum package API authentication. |
-| [jmrashed/purchase-key-guard](https://github.com/jmrashed/purchase-key-guard) | 4 | Purchase Key Guard is a Laravel package that helps protect your Laravel applicat... |
-| [zaeem2396/vectora](https://github.com/zaeem2396/vectora) | 0 | A Laravel-first vector search package that enables seamless Pinecone integration... |
-| [signdeck/veil](https://github.com/signdeck/veil) | 17 | Laravel package to anonymize database exports |
-| [AngeloFranciscoSA/laravel-package-by-feature](https://github.com/AngeloFranciscoSA/laravel-package-by-feature) | 0 |  |
-| [rajurayhan/laravel-n8n-mcp-server](https://github.com/rajurayhan/laravel-n8n-mcp-server) | 0 | A Laravel package that exposes the full n8n REST API and webhook capabilities as... |
-| [NickFreitasP/Laravel-Ecommerce-Cart-Package](https://github.com/NickFreitasP/Laravel-Ecommerce-Cart-Package) | 0 | Reusable Laravel e-commerce cart package with Redis caching, events, queues, and... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-04 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-04 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 468 | 2026-04-04 | Easy, flexible and powerful cloud-native Laravel CMS package... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-04 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-04 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-04 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-04 | ✨ Build robust Laravel applications with the Filament Starte... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-04 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-04 | 💳 Streamline payment processing with this PHP package that ... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-04-04 | A lightweight, convention-driven modular architecture packag... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 12 | 2026-04-04 | A package to create datatables using alpinejs, tailwind, liv... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-04 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [revoltify/pixelify](https://github.com/revoltify/pixelify) | 5 | 2026-04-04 | Laravel package for Facebook Conversion API integration |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-04 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-04 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [Turjo101365/Travel-World](https://github.com/Turjo101365/Travel-World) | 0 | 2026-04-04 | TravelWorld is a comprehensive travel management system buil... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-04-04 | This project collects the most commonly used Laravel extensi... |
-| [GasyCoder/mja-univ](https://github.com/GasyCoder/mja-univ) | 1 | 2026-04-04 | This is a Web Site for Majunga Univ |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-04-04 | An event sourcing laravel package, complete with all the ess... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-04 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-04 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-04 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-04 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-04 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-04 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-04 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-04 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-04 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [ariadata/laravel-clickhouse](https://github.com/ariadata/laravel-clickhouse) | 0 | 2026-04-04 | Clickhouse package for laravel 12+ |
+| [robin-ivi/google-auth](https://github.com/robin-ivi/google-auth) | 2 | 2026-04-04 | Laravel Google Auth Package |
+| [carlosbuitragosan/perfume-formulation-manager](https://github.com/carlosbuitragosan/perfume-formulation-manager) | 0 | 2026-04-04 | Laravel-based full-stack system for managing perfume formula... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-04-04 | Laravel-based API for storing sensor data from distributed n... |
+| [finity-labs/fin-sentinel](https://github.com/finity-labs/fin-sentinel) | 0 | 2026-04-04 | Filament plugin for error email notifications, developer deb... |
+| [patrikjak/starter](https://github.com/patrikjak/starter) | 0 | 2026-04-04 | Laravel app starter |
+| [Oltrematica/laravel-role-lite](https://github.com/Oltrematica/laravel-role-lite) | 1 | 2026-04-04 | a lightweight Laravel package that provides simple role mana... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-04T12:11 | 6 | 1701 | 3293 |
 | 2026-04-04T06:23 | 6 | 1699 | 3287 |
 | 2026-04-04T00:24 | 1 | 1704 | 3281 |
 | 2026-04-03T18:13 | 3 | 1704 | 3280 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-02T18:18 | 14 | 1691 | 3266 |
 | 2026-04-02T12:20 | 11 | 1693 | 3252 |
 | 2026-04-02T06:28 | 2 | 1699 | 3241 |
-| 2026-04-02T00:24 | 6 | 1694 | 3239 |
 
 ---
 

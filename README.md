@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3305  
-**Last updated:** 2026-04-05T06:28:03.089Z
+**Total packages tracked:** 3309  
+**Last updated:** 2026-04-05T12:11:22.659Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [nahidprince7/ollama-notes-laravel-package](https://github.com/nahidprince7/ollama-notes-laravel-package) | 1 | Laravel AI Notes — AI-powered voice & text notes with semantic vector search, ru... |
+| [pralhadstha/Zipcoder-laravel](https://github.com/pralhadstha/Zipcoder-laravel) | 0 | Laravel package to resolve postal codes to structured addresses with multi‑provi... |
+| [Mamdouh95/ag-sso](https://github.com/Mamdouh95/ag-sso) | 1 | Laravel package to integrate with sso.agriserv.sa |
+| [Team-Nifty-GmbH/forge-sdk](https://github.com/Team-Nifty-GmbH/forge-sdk) | 0 | Laravel forge sdk using the saloon php package |
 | [bintang-r/absensi-sekolah-qrcode](https://github.com/bintang-r/absensi-sekolah-qrcode) | 0 | Sistem aplikasi sekolah berbasis qr code dengan menggunakan notifikasi whatsapp ... |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 433 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [plank/laravel-metable](https://github.com/plank/laravel-metable) | 285 | A package for handling arbitrary data in Laravel 5 applications |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ariadata/laravel-clickhouse](https://github.com/ariadata/laravel-clickhouse) | 0 | Clickhouse package for laravel 12+ |
 | [owenvoke/blade-entypo](https://github.com/owenvoke/blade-entypo) | 7 | A package to easily make use of Entypo in your Laravel Blade views. |
 | [amarwave/amarwave-php](https://github.com/amarwave/amarwave-php) | 0 | Laravel and Symfony support included. Composer package for triggering events fro... |
-| [jiaxincui/closure-table](https://github.com/jiaxincui/closure-table) | 111 | A closure table tree package for laravel eloquent |
-| [siarheipashkevich/laravel-export-file](https://github.com/siarheipashkevich/laravel-export-file) | 0 | A Laravel package for exporting files. |
-| [jeffersongoncalves/filament-yaml-editor](https://github.com/jeffersongoncalves/filament-yaml-editor) | 2 | A rich YAML editor field for Filament powered by CodeMirror 6 with syntax highli... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | A lightweight, convention-driven modular architecture package for Laravel - auto... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [nokimaro/liontech-laravel](https://github.com/nokimaro/liontech-laravel) | 0 | 2026-04-05 | Laravel package for LionTech Payment Gateway — unofficial, c... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-04-05 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-04-05 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-04-05 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [bintang-r/absensi-sekolah-qrcode](https://github.com/bintang-r/absensi-sekolah-qrcode) | 0 | 2026-04-05 | Sistem aplikasi sekolah berbasis qr code dengan menggunakan ... |
+| [carlosbuitragosan/perfume-formulation-manager](https://github.com/carlosbuitragosan/perfume-formulation-manager) | 0 | 2026-04-05 | Laravel-based full-stack system for managing perfume formula... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-05 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | 2026-04-05 | miPress CMS — core Laravel package (Filament 5) |
 | [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-05 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [MGeurts/genealogy](https://github.com/MGeurts/genealogy) | 325 | 2026-04-05 | Genealogy is a free and open-source family tree PHP applicat... |
 | [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-05 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 8 | 2026-04-05 | A Laravel-based web application that tracks, analyzes, and p... |
+| [opgginc/laravel-mcp-server](https://github.com/opgginc/laravel-mcp-server) | 331 | 2026-04-05 | A Laravel package for implementing secure Model Context Prot... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-04-05 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [Brigada-Group/guardian](https://github.com/Brigada-Group/guardian) | 0 | 2026-04-05 | Private Laravel monitoring package. Runs security audits, he... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-05 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 8 | 2026-04-05 | Kompass A Laravel CMS |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-05 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-05 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-04-05 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-05 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-05 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-05 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [nahidprince7/ollama-notes-laravel-package](https://github.com/nahidprince7/ollama-notes-laravel-package) | 1 | 2026-04-05 | Laravel AI Notes — AI-powered voice & text notes with semant... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-05 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 12 | 2026-04-05 | A package to create datatables using alpinejs, tailwind, liv... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 469 | 2026-04-05 | Easy, flexible and powerful cloud-native Laravel CMS package... |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-04-05 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-05T12:11 | 4 | 1699 | 3309 |
 | 2026-04-05T06:28 | 3 | 1700 | 3305 |
 | 2026-04-05T00:27 | 2 | 1700 | 3302 |
 | 2026-04-04T18:10 | 7 | 1697 | 3300 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-03T18:13 | 3 | 1704 | 3280 |
 | 2026-04-03T12:14 | 5 | 1702 | 3277 |
 | 2026-04-03T06:27 | 3 | 1703 | 3272 |
-| 2026-04-03T00:26 | 3 | 1703 | 3269 |
 
 ---
 

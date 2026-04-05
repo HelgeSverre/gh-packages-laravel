@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3302  
-**Last updated:** 2026-04-05T00:27:44.591Z
+**Total packages tracked:** 3305  
+**Last updated:** 2026-04-05T06:28:03.089Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [bintang-r/absensi-sekolah-qrcode](https://github.com/bintang-r/absensi-sekolah-qrcode) | 0 | Sistem aplikasi sekolah berbasis qr code dengan menggunakan notifikasi whatsapp ... |
+| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 433 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
+| [plank/laravel-metable](https://github.com/plank/laravel-metable) | 285 | A package for handling arbitrary data in Laravel 5 applications |
 | [nokimaro/liontech-laravel](https://github.com/nokimaro/liontech-laravel) | 0 | Laravel package for LionTech Payment Gateway — unofficial, community-maintained |
 | [stornoro/laravel-storno](https://github.com/stornoro/laravel-storno) | 0 | Laravel package for Storno invoicing API — e-Factura, clients, invoices, webhook... |
 | [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 0 | Livewire components for AlpineFlow — build interactive flow diagrams in Laravel ... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [siarheipashkevich/laravel-export-file](https://github.com/siarheipashkevich/laravel-export-file) | 0 | A Laravel package for exporting files. |
 | [jeffersongoncalves/filament-yaml-editor](https://github.com/jeffersongoncalves/filament-yaml-editor) | 2 | A rich YAML editor field for Filament powered by CodeMirror 6 with syntax highli... |
 | [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | A lightweight, convention-driven modular architecture package for Laravel - auto... |
-| [robin-ivi/google-auth](https://github.com/robin-ivi/google-auth) | 2 | Laravel Google Auth Package |
-| [nexxai/laravel-rfc3161](https://github.com/nexxai/laravel-rfc3161) | 0 | A simple FreeTSA package for Laravel |
-| [circvort/circvort-brick](https://github.com/circvort/circvort-brick) | 0 | Laravel studio package for forms, relations and embeddable CRUDs |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -46,6 +46,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 442 | A package to handle multilingual routes in your Laravel application. |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 438 | A simple package to help integrate Cloudflare Turnstile. |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 436 | A package to keep track of your pages & understand your audience |
+| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 433 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 432 | A media picker plugin for Filament Panels. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 423 | A modern PostGIS toolbox for Laravel |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 415 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
@@ -53,32 +54,31 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [spatie/laravel-livewire-wizard](https://github.com/spatie/laravel-livewire-wizard) | 406 | Headless Livewire components to build wizards |
 | [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor) | 404 | A Rich Text Editor plugin for Filament Forms. |
 | [qirolab/laravel-themer](https://github.com/qirolab/laravel-themer) | 399 | Multi theme support for Laravel application |
-| [MatanYadaev/laravel-eloquent-spatial](https://github.com/MatanYadaev/laravel-eloquent-spatial) | 398 | Laravel Eloquent spatial package. |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-04-05 | A lightweight, convention-driven modular architecture packag... |
+| [nokimaro/liontech-laravel](https://github.com/nokimaro/liontech-laravel) | 0 | 2026-04-05 | Laravel package for LionTech Payment Gateway — unofficial, c... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-04-05 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-04-05 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-04-05 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [bintang-r/absensi-sekolah-qrcode](https://github.com/bintang-r/absensi-sekolah-qrcode) | 0 | 2026-04-05 | Sistem aplikasi sekolah berbasis qr code dengan menggunakan ... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-05 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-05 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [MGeurts/genealogy](https://github.com/MGeurts/genealogy) | 325 | 2026-04-05 | Genealogy is a free and open-source family tree PHP applicat... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-05 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-04-05 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-05 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 1 | 2026-04-05 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 8 | 2026-04-05 | Kompass A Laravel CMS |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-05 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-05 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 0 | 2026-04-05 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-05 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-05 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-05 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-05 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-05 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-04 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-04 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-04 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-04 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [mozex/laravel-modules](https://github.com/mozex/laravel-modules) | 3 | 2026-04-04 | Full-featured module system for Laravel — auto-discovery, is... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-04 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-04 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-04 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-04 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 12 | 2026-04-05 | A package to create datatables using alpinejs, tailwind, liv... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-05T06:28 | 3 | 1700 | 3305 |
 | 2026-04-05T00:27 | 2 | 1700 | 3302 |
 | 2026-04-04T18:10 | 7 | 1697 | 3300 |
 | 2026-04-04T12:11 | 6 | 1701 | 3293 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-03T12:14 | 5 | 1702 | 3277 |
 | 2026-04-03T06:27 | 3 | 1703 | 3272 |
 | 2026-04-03T00:26 | 3 | 1703 | 3269 |
-| 2026-04-02T18:18 | 14 | 1691 | 3266 |
 
 ---
 

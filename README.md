@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3313  
-**Last updated:** 2026-04-05T18:10:54.615Z
+**Total packages tracked:** 3316  
+**Last updated:** 2026-04-06T00:27:50.300Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [shaferllc/beacon-laravel](https://github.com/shaferllc/beacon-laravel) | 0 | Split package from beacon monorepo |
+| [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) | 25 | The JsonMapper package for Laravel |
+| [ProAI/laravel-super-migrations](https://github.com/ProAI/laravel-super-migrations) | 11 | 🗃️ Laravel package for big databases, which need an advanced migrations structu... |
 | [treyssatvincent/laravel-nextcloud-fs](https://github.com/treyssatvincent/laravel-nextcloud-fs) | 9 | Nextcloud filesystem Service Provider for Laravel |
 | [Abir784/laravel-query-watchdog](https://github.com/Abir784/laravel-query-watchdog) | 0 | A package to monitor Query performance. |
 | [sarkis-sh/spray-aop](https://github.com/sarkis-sh/spray-aop) | 0 | A lightweight, high-performance Aspect-Oriented Programming (AOP) package for La... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [avraapi/laravel-sdk](https://github.com/avraapi/laravel-sdk) | 0 | Official Laravel integration package for the AvraAPI (APIX) Enterprise API Gatew... |
 | [akira-io/laravel-likeable](https://github.com/akira-io/laravel-likeable) | 4 | Laravel Likeable is a lightweight and flexible package that seamlessly adds like... |
 | [jmrashed/two-factor-auth](https://github.com/jmrashed/two-factor-auth) | 6 | Laravel 2FA Authentication Package |
-| [jmrashed/ecommerce](https://github.com/jmrashed/ecommerce) | 8 | The E-commerce Toolkit for Laravel is a modular package providing essential feat... |
-| [cswni/laravel-comments](https://github.com/cswni/laravel-comments) | 0 | A fork from laravel comments package from https://github.com/ryangjchandler/lara... |
-| [Rhaima96/laravel-flouci](https://github.com/Rhaima96/laravel-flouci) | 0 | laravel-flouci est un package Laravel pour integrer Flouci dans des applications... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ziming/laravel-myinfo-sg](https://github.com/ziming/laravel-myinfo-sg) | 16 | 2026-04-05 | PHP Laravel Singpass MyInfo (Singapore) Package / Library |
-| [sarkis-sh/spray-aop](https://github.com/sarkis-sh/spray-aop) | 0 | 2026-04-05 | A lightweight, high-performance Aspect-Oriented Programming ... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 1 | 2026-04-05 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-05 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [flexpik/filament-studio](https://github.com/flexpik/filament-studio) | 3 | 2026-04-05 | Dynamic data model manager for Filament — EAV storage, 33 fi... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-06 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-06 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-06 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-06 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-06 |  |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-04-06 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 0 | 2026-04-06 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-04-06 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-04-06 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-04-06 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 7 | 2026-04-06 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-04-06 | The flexible backbone for your next CMS. This powerful frame... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-06 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 8 | 2026-04-05 | A Laravel-based web application that tracks, analyzes, and p... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 119 | 2026-04-05 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
 | [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-05 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 469 | 2026-04-05 | Easy, flexible and powerful cloud-native Laravel CMS package... |
-| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-04-05 | TeamKit starter kit built on Laravel 12.x and Filament 3.x w... |
-| [jeffersongoncalves/teamkitv4](https://github.com/jeffersongoncalves/teamkitv4) | 7 | 2026-04-05 | TeamKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 4 | 2026-04-05 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 0 | 2026-04-05 |  |
-| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | 2026-04-05 | miPress CMS — core Laravel package (Filament 5) |
-| [ProAI/laravel-transporter](https://github.com/ProAI/laravel-transporter) | 0 | 2026-04-05 | 🚚 Laravel package for building GraphQL apis |
-| [treyssatvincent/laravel-nextcloud-fs](https://github.com/treyssatvincent/laravel-nextcloud-fs) | 9 | 2026-04-05 | Nextcloud filesystem Service Provider for Laravel |
 | [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-05 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [diepxuan/laravel-support](https://github.com/diepxuan/laravel-support) | 0 | 2026-04-05 | This package provides additional support and utilities for L... |
-| [MGeurts/genealogy](https://github.com/MGeurts/genealogy) | 325 | 2026-04-05 | Genealogy is a free and open-source family tree PHP applicat... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 2 | 2026-04-05 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-05 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-05 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-05 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-06T00:27 | 3 | 1699 | 3316 |
 | 2026-04-05T18:10 | 4 | 1698 | 3313 |
 | 2026-04-05T12:11 | 4 | 1699 | 3309 |
 | 2026-04-05T06:28 | 3 | 1700 | 3305 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-04T06:23 | 6 | 1699 | 3287 |
 | 2026-04-04T00:24 | 1 | 1704 | 3281 |
 | 2026-04-03T18:13 | 3 | 1704 | 3280 |
-| 2026-04-03T12:14 | 5 | 1702 | 3277 |
 
 ---
 

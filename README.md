@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3354  
-**Last updated:** 2026-04-08T06:34:22.627Z
+**Total packages tracked:** 3361  
+**Last updated:** 2026-04-08T12:20:58.027Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [dot-env-it/laravel-api-integrator](https://github.com/dot-env-it/laravel-api-integrator) | 8 | Package to integrate third party APIs. |
+| [descom-es/aws-sns-notifications](https://github.com/descom-es/aws-sns-notifications) | 0 | Package for receiving AWS SNS notifications in Laravel |
+| [jai-007n/package-x-rabbitmq](https://github.com/jai-007n/package-x-rabbitmq) | 0 | custom package for rabbitmq connection in laravel php |
+| [justbetter/laravel-akeneo-client](https://github.com/justbetter/laravel-akeneo-client) | 16 | A Laravel package for the Akeneo API |
+| [specsnl/laravel-package-test](https://github.com/specsnl/laravel-package-test) | 0 | Test repo for https://github.com/specsnl/boilr-laravel-package |
+| [specsnl/boilr-laravel-package](https://github.com/specsnl/boilr-laravel-package) | 0 | Scoffold your Laravel composer package with ease... |
+| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | A VueJS/Inertia TableBuilder package for Laravel |
 | [chinleung/laravel-locales](https://github.com/chinleung/laravel-locales) | 36 | Add configurations and helpers for a multi locale Laravel application. |
 | [RawanD201/filament-connection-badge](https://github.com/RawanD201/filament-connection-badge) | 0 | A drop-in connection status badge for Filament panels |
 | [blackbeta-cl/cashier-transbank](https://github.com/blackbeta-cl/cashier-transbank) | 0 | Laravel Cashier-style package for Transbank Webpay Oneclick (recurring payments) |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [digitalmanagerguru/laravel-json-fields](https://github.com/digitalmanagerguru/laravel-json-fields) | 0 | A package to work with database JSON fields with laravel eloquent Models. |
 | [rastik1584/laravel-mapycz-api](https://github.com/rastik1584/laravel-mapycz-api) | 0 | Unofficial  Laravel package from mapy.cz REST API  |
 | [gnahotelsolutions/flasher](https://github.com/gnahotelsolutions/flasher) | 3 | 🔦 Flash notification messages into Laravel's Session |
-| [abhayvadgama/practice-laravel-rabbitmq](https://github.com/abhayvadgama/practice-laravel-rabbitmq) | 0 | Demo project showing RabbitMQ integration with Laravel 12 using the vladimir-yul... |
-| [kundan-in/clickhouse-laravel](https://github.com/kundan-in/clickhouse-laravel) | 5 | A Laravel package that provides seamless integration with ClickHouse database, e... |
-| [Jacobtims/laravel-notion-renderer](https://github.com/Jacobtims/laravel-notion-renderer) | 0 | A PHP/Laravel package to fetch Notion Pages and convert it to HTML! |
-| [grim-reapper/laravel-advanced-email](https://github.com/grim-reapper/laravel-advanced-email) | 1 | A powerful package that enhances Laravel's email capabilities with advanced feat... |
-| [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 493 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 25 | Build desktop & mobile apps with Laravel + Livewire. No Electron. No React Nativ... |
-| [YousefAlTohamy/Huma-volve-Medical-Platform](https://github.com/YousefAlTohamy/Huma-volve-Medical-Platform) | 0 | A comprehensive medical management platform featuring multi-role authentication ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -49,7 +49,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 436 | A package to keep track of your pages & understand your audience |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 433 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 432 | A media picker plugin for Filament Panels. |
-| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 423 | A modern PostGIS toolbox for Laravel |
+| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 424 | A modern PostGIS toolbox for Laravel |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 415 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
 | [protonemedia/laravel-verify-new-email](https://github.com/protonemedia/laravel-verify-new-email) | 414 | This package adds support for verifying new email addresses: when a user updates... |
 | [spatie/laravel-livewire-wizard](https://github.com/spatie/laravel-livewire-wizard) | 406 | Headless Livewire components to build wizards |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-04-08 | A package to create datatables using alpinejs, tailwind, liv... |
+| [AhmadIkbalDjaya/momentum](https://github.com/AhmadIkbalDjaya/momentum) | 1 | 2026-04-08 | Momentum is a computer-based test platform designed to simpl... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 321 | 2026-04-08 | The NativePHP website |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-08 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-04-08 | Chief admin package |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-08 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [specsnl/boilr-laravel-package](https://github.com/specsnl/boilr-laravel-package) | 0 | 2026-04-08 | Scoffold your Laravel composer package with ease... |
+| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | 2026-04-08 | A VueJS/Inertia TableBuilder package for Laravel |
+| [filipefernandes9747/laravel-turbo-excel](https://github.com/filipefernandes9747/laravel-turbo-excel) | 0 | 2026-04-08 | A Laravel Excel-like package powered by OpenSpout, designed ... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-08 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-04-08 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-04-08 | Main Webampp laravel package for GEOBOX 2.0 |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-08 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-08 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [digitalmanagerguru/laravel-json-fields](https://github.com/digitalmanagerguru/laravel-json-fields) | 0 | 2026-04-08 | A package to work with database JSON fields with laravel elo... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 472 | 2026-04-08 | Easy, flexible and powerful cloud-native Laravel CMS package... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-08 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 15 | 2026-04-08 |  |
+| [ProblematicToucan/fullstack-porto](https://github.com/ProblematicToucan/fullstack-porto) | 0 | 2026-04-08 | Laravel Portfolio (CMS) |
+| [gbuckingham89/laraflash](https://github.com/gbuckingham89/laraflash) | 0 | 2026-04-08 | A package for handling flash messages / notifications in Lar... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-08 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-08 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-08 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [codebar-ag/laravel-docuware](https://github.com/codebar-ag/laravel-docuware) | 11 | 2026-04-08 | Laravel DocuWare Package |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 25 | 2026-04-08 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-08 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-08 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-04-08 | Laravel Dusk Testing Helper for Package Development |
-| [bambamboole/laravel-mermaid-erd](https://github.com/bambamboole/laravel-mermaid-erd) | 1 | 2026-04-08 | Package to generate Mermaid ERD from the database schema |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-08 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-08 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-08 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-08 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [codebar-ag/laravel-event-logs](https://github.com/codebar-ag/laravel-event-logs) | 0 | 2026-04-08 | Event logging for HTTP requests and model events with plugga... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 1 | 2026-04-08 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-08 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [Arseno25/Filament-privacy-blur](https://github.com/Arseno25/Filament-privacy-blur) | 1 | 2026-04-08 | Visual privacy layer for Filament — blur and mask sensitive ... |
-| [Flobbos/laravel-crudable](https://github.com/Flobbos/laravel-crudable) | 16 | 2026-04-08 | Crud package to make CRUD operations faster and simpler. |
-| [oliwol/laravel-slugify](https://github.com/oliwol/laravel-slugify) | 2 | 2026-04-08 | A lightweight trait to easily add slug generation to your La... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-08T12:20 | 7 | 1696 | 3361 |
 | 2026-04-08T06:34 | 1 | 1702 | 3354 |
 | 2026-04-08T00:28 | 7 | 1697 | 3353 |
 | 2026-04-07T18:20 | 4 | 1697 | 3346 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-06T18:20 | 6 | 1695 | 3332 |
 | 2026-04-06T12:18 | 7 | 1694 | 3326 |
 | 2026-04-06T06:39 | 3 | 1699 | 3319 |
-| 2026-04-06T00:27 | 3 | 1699 | 3316 |
 
 ---
 

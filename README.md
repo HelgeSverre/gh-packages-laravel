@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3374  
-**Last updated:** 2026-04-09T00:23:30.298Z
+**Total packages tracked:** 3378  
+**Last updated:** 2026-04-09T06:34:40.007Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [alp-develop/laravel-livewire-panel](https://github.com/alp-develop/laravel-livewire-panel) | 0 | Laravel Livewire Panel is a modern admin panel framework for Laravel built with ... |
+| [zeynallow/laravel-hashtags](https://github.com/zeynallow/laravel-hashtags) | 4 | Laravel package for hashtag and mention analysis, management and rendering. This... |
+| [mikeyperes/laravel-hexa-package-openai](https://github.com/mikeyperes/laravel-hexa-package-openai) | 0 | OpenAI Integration — Whisper audio transcription service for Hexa Web Systems |
+| [usercheckhq/usercheck-laravel](https://github.com/usercheckhq/usercheck-laravel) | 5 | Laravel package for email validation using the UserCheck API. |
 | [salahedarhri/gemvogue-jewelry-store](https://github.com/salahedarhri/gemvogue-jewelry-store) | 1 | GemVogue is a e-commerce website project, for selling jewellery. Made with Larav... |
 | [mike-bronner/laravel-mixpanel](https://github.com/mike-bronner/laravel-mixpanel) | 122 | Intuitive drop-in analytics. |
 | [mike-bronner/laravel-governor](https://github.com/mike-bronner/laravel-governor) | 200 | Manage authorization with granular role-based permissions in your Laravel Apps. |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [dot-env-it/laravel-api-integrator](https://github.com/dot-env-it/laravel-api-integrator) | 8 | Package to integrate third party APIs. |
 | [descom-es/aws-sns-notifications](https://github.com/descom-es/aws-sns-notifications) | 0 | Package for receiving AWS SNS notifications in Laravel |
 | [jai-007n/package-x-rabbitmq](https://github.com/jai-007n/package-x-rabbitmq) | 0 | custom package for rabbitmq connection in laravel php |
-| [justbetter/laravel-akeneo-client](https://github.com/justbetter/laravel-akeneo-client) | 16 | A Laravel package for the Akeneo API |
-| [specsnl/laravel-package-test](https://github.com/specsnl/laravel-package-test) | 0 | Test repo for https://github.com/specsnl/boilr-laravel-package |
-| [specsnl/boilr-laravel-package](https://github.com/specsnl/boilr-laravel-package) | 0 | Scoffold your Laravel composer package with ease... |
-| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | A VueJS/Inertia TableBuilder package for Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-09 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [PHP-CMSIG/seal-laravel-package](https://github.com/PHP-CMSIG/seal-laravel-package) | 4 | 2026-04-09 | An integration of CMS-IG SEAL search abstraction into Larave... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-09 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [plank/laravel-schema-events](https://github.com/plank/laravel-schema-events) | 0 | 2026-04-09 | A Laravel package to emit events based on the schema changes... |
+| [alp-develop/laravel-livewire-panel](https://github.com/alp-develop/laravel-livewire-panel) | 0 | 2026-04-09 | Laravel Livewire Panel is a modern admin panel framework for... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-09 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-09 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-09 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-09 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [zeynallow/laravel-hashtags](https://github.com/zeynallow/laravel-hashtags) | 4 | 2026-04-09 | Laravel package for hashtag and mention analysis, management... |
+| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-04-09 | Laravel Dusk Testing Helper for Package Development |
+| [ProblematicToucan/fullstack-porto](https://github.com/ProblematicToucan/fullstack-porto) | 0 | 2026-04-09 | Laravel Portfolio (CMS) |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-09 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-09 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-09 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-09 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-09 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-09 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-09 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-09 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-09 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-09 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-09 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-09 | Generate GitHub repository statistics and insights directly ... |
-| [MarcoConsiglio/laravel-swiss-ephemeris](https://github.com/MarcoConsiglio/laravel-swiss-ephemeris) | 7 | 2026-04-09 | A Laravel package to query the Swiss Ephemeris library execu... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-09 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [mike-bronner/laravel-mixpanel](https://github.com/mike-bronner/laravel-mixpanel) | 122 | 2026-04-09 | Intuitive drop-in analytics. |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-09 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-09 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-09 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-09 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-09 |  |
-| [mike-bronner/laravel-governor](https://github.com/mike-bronner/laravel-governor) | 200 | 2026-04-09 | Manage authorization with granular role-based permissions in... |
-| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-04-09 | A comprehensive SEO management package for Laravel applicati... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-09 | Accelerate web app development with a Laravel 12 and Filamen... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-09T06:34 | 4 | 1700 | 3378 |
 | 2026-04-09T00:23 | 3 | 1702 | 3374 |
 | 2026-04-08T18:27 | 10 | 1695 | 3371 |
 | 2026-04-08T12:20 | 7 | 1696 | 3361 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-07T12:20 | 5 | 1696 | 3342 |
 | 2026-04-07T06:33 | 1 | 1700 | 3337 |
 | 2026-04-07T00:28 | 4 | 1698 | 3336 |
-| 2026-04-06T18:20 | 6 | 1695 | 3332 |
 
 ---
 

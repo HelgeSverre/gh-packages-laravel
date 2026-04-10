@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3409  
-**Last updated:** 2026-04-10T02:09:29.519Z
+**Total packages tracked:** 3410  
+**Last updated:** 2026-04-10T07:22:31.998Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 1 | Laravel package providing AI-powered search with Pagefind. Delivers client-side ... |
 | [numencode/nativelab](https://github.com/numencode/nativelab) | 0 | NativePHP Mobile playground app |
 | [aman00323/email-checker](https://github.com/aman00323/email-checker) | 156 | Provides email verification on the go. |
 | [boone-studios/laravel-surrealdb](https://github.com/boone-studios/laravel-surrealdb) | 29 | Integrates SurrealDB with the Laravel framework |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [akira-io/laravel-license-core](https://github.com/akira-io/laravel-license-core) | 5 | Modern, secure and extensible licensing engine for Laravel applications.  The Co... |
 | [furqanmax/laravel-jitsi](https://github.com/furqanmax/laravel-jitsi) | 0 | A Laravel package for managing Jitsi meetings with participants, scheduling, and... |
 | [v16Studios/graphql-laravel-bootstrapper](https://github.com/v16Studios/graphql-laravel-bootstrapper) | 1 | A package for automatic schema configuration designed to work with rebing/graphq... |
-| [kwadwokyeremeh/laravel-package-ide-helper](https://github.com/kwadwokyeremeh/laravel-package-ide-helper) | 1 | A standalone IDE helper generator and linter for Laravel packages. Unlike other ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,11 +40,11 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 479 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 474 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
-| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 466 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
+| [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 467 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 454 | Add kanban boards to your Filament pages |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
-| [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 443 | A package to handle multilingual routes in your Laravel application. |
+| [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 444 | A package to handle multilingual routes in your Laravel application. |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 438 | A simple package to help integrate Cloudflare Turnstile. |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 436 | A package to keep track of your pages & understand your audience |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-04-10 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [Human018/laravel-earth](https://github.com/Human018/laravel-earth) | 4 | 2026-04-10 | A multilingual package to populate continents, countries, di... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 474 | 2026-04-10 | Easy, flexible and powerful cloud-native Laravel CMS package... |
+| [iquesters/organisation](https://github.com/iquesters/organisation) | 0 | 2026-04-10 | The Organisation Package provides a structured way to manage... |
+| [hwkdo/configmgr-laravel](https://github.com/hwkdo/configmgr-laravel) | 0 | 2026-04-10 | my package to interact with configmgr database |
+| [filipefernandes9747/laravel-turbo-excel](https://github.com/filipefernandes9747/laravel-turbo-excel) | 0 | 2026-04-10 | A Laravel Excel-like package powered by OpenSpout, designed ... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 1 | 2026-04-10 | Laravel package providing AI-powered search with Pagefind. D... |
+| [avocet-shores/laravel-rewind](https://github.com/avocet-shores/laravel-rewind) | 198 | 2026-04-10 | Version control for Eloquent models. Rewind, fast-forward, r... |
+| [laravel-enso/core](https://github.com/laravel-enso/core) | 34 | 2026-04-10 | Laravel Enso main dependecy aggregator  |
+| [laravel-enso/helpers](https://github.com/laravel-enso/helpers) | 8 | 2026-04-10 | Laravel Enso utility classes  |
 | [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-04-10 | An event sourcing laravel package, complete with all the ess... |
-| [Team-Nifty-GmbH/tall-calendar](https://github.com/Team-Nifty-GmbH/tall-calendar) | 0 | 2026-04-10 | A Calendar package using FullCalendar, tailwind, alpinejs, l... |
-| [ArtisanPack-UI/media-library](https://github.com/ArtisanPack-UI/media-library) | 0 | 2026-04-10 | Effortlessly manage your application's media with a powerful... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 58 | 2026-04-10 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [rmirandasv/laravel-wompi](https://github.com/rmirandasv/laravel-wompi) | 2 | 2026-04-10 | A Laravel package to integrate with the Wompi payment gatewa... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 321 | 2026-04-10 | The NativePHP website |
-| [conduit-ui/calendar](https://github.com/conduit-ui/calendar) | 0 | 2026-04-10 | Provider-agnostic Laravel calendar package — Google Calendar... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-10 | Track and display Matomo analytics data directly within Lara... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 33 | 2026-04-10 | Laravel USPS Package to integrate USPS Address |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-10 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-10 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-10 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-10 | Track and display Matomo analytics data directly within Lara... |
 | [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-10 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-10 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-10 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-10 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-10 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-10 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-10 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-10 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-10 | Generate GitHub repository statistics and insights directly ... |
-| [gowelle/flutterwave-php](https://github.com/gowelle/flutterwave-php) | 0 | 2026-04-10 | Modern Laravel package for Flutterwave v4 API integration |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-10T07:22 | 1 | 1712 | 3410 |
 | 2026-04-10T02:09 | 10 | 1702 | 3409 |
 | 2026-04-09T18:22 | 14 | 1695 | 3399 |
 | 2026-04-09T12:23 | 7 | 1699 | 3385 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-08T12:20 | 7 | 1696 | 3361 |
 | 2026-04-08T06:34 | 1 | 1702 | 3354 |
 | 2026-04-08T00:28 | 7 | 1697 | 3353 |
-| 2026-04-07T18:20 | 4 | 1697 | 3346 |
 
 ---
 

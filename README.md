@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3432  
-**Last updated:** 2026-04-11T01:57:52.015Z
+**Total packages tracked:** 3433  
+**Last updated:** 2026-04-11T06:57:02.375Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [marventhieme/laravel-authorization-logger](https://github.com/marventhieme/laravel-authorization-logger) | 0 | A Laravel package for logging authorization denials with user context, policy in... |
 | [Livewirez/livewirez-billing-laravel](https://github.com/Livewirez/livewirez-billing-laravel) | 0 | A laravel package for handling billing and their transactions across multiple pa... |
 | [yezzmedia/laravel-ops-analytics](https://github.com/yezzmedia/laravel-ops-analytics) | 0 | Ops-facing analytics delivery posture, tracker health, and consent-aware dispatc... |
 | [bladeuix/daisyui](https://github.com/bladeuix/daisyui) | 0 | A Laravel blade component library based on daisyUI. Install the full package or ... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [lightszentip/laravel-release-changelog-generator](https://github.com/lightszentip/laravel-release-changelog-generator) | 10 | Generate a changelog and releases with version management with artisan |
 | [Shubhamc4/cgrate-laravel](https://github.com/Shubhamc4/cgrate-laravel) | 2 | Laravel package for integrating with Cgrate payment service (543 Konse Konse) |
 | [s1k3/laravel-pico-settings](https://github.com/s1k3/laravel-pico-settings) | 0 | Settings package for laravel |
-| [encodia/laravel-something-wrong](https://github.com/encodia/laravel-something-wrong) | 0 | Something Wrong: a simple package for Laravel to notify handled errors, exceptio... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ArtisanPack-UI/analytics](https://github.com/ArtisanPack-UI/analytics) | 0 | 2026-04-11 | A privacy-first analytics package for Laravel applications, ... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-11 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 1 | 2026-04-11 | Laravel package providing AI-powered search with Pagefind. D... |
+| [oxhq/oxcribe](https://github.com/oxhq/oxcribe) | 0 | 2026-04-11 | Runtime-first Laravel package that enriches routes with Oxin... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-11 | 💰 Simplify your financial management with Finova, an open-s... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 67 | 2026-04-11 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-11 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [oliwol/laravel-slugify](https://github.com/oliwol/laravel-slugify) | 2 | 2026-04-11 | A lightweight trait to easily add slug generation to your La... |
+| [Ratoufa/laravel-billing-package](https://github.com/Ratoufa/laravel-billing-package) | 0 | 2026-04-11 | A Laravel billing package for payments and subscriptions wit... |
 | [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-11 | 🚀 Simplify database interactions with this lightweight PHP ... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-11 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-11 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [faustbrian/toggl](https://github.com/faustbrian/toggl) | 0 | 2026-04-11 | A powerful Laravel feature flag package with conductor-based... |
+| [sebastienheyd/boilerplate](https://github.com/sebastienheyd/boilerplate) | 288 | 2026-04-11 | Laravel AdminLTE 3 Boilerplate package with blade components... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-11 | ✨ Build robust Laravel applications with the Filament Starte... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-11 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-04-11 | The flexible backbone for your next CMS. This powerful frame... |
-| [ArtisanPack-UI/media-library](https://github.com/ArtisanPack-UI/media-library) | 0 | 2026-04-11 | Effortlessly manage your application's media with a powerful... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-11 | 💳 Streamline payment processing with this PHP package that ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-11 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [clickfwd/yoyo](https://github.com/clickfwd/yoyo) | 209 | 2026-04-11 | Yoyo is a full-stack PHP framework to create rich, dynamic i... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 33 | 2026-04-11 | Laravel USPS Package to integrate USPS Address |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-11 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-11 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [foxws/wireuse](https://github.com/foxws/wireuse) | 7 | 2026-04-11 | Collection of useful Livewire utilities. |
-| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | 2026-04-11 | miPress CMS — core Laravel package (Filament 5) |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 36 | 2026-04-11 |  |
+| [dot-env-it/laravel-api-integrator](https://github.com/dot-env-it/laravel-api-integrator) | 8 | 2026-04-11 | Package to integrate third party APIs. |
+| [cboxdk/statamic-mcp](https://github.com/cboxdk/statamic-mcp) | 22 | 2026-04-11 | AI-powered development tools for Statamic CMS. Provides 100+... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-11T06:57 | 1 | 1713 | 3433 |
 | 2026-04-11T01:57 | 4 | 1709 | 3432 |
 | 2026-04-10T18:46 | 12 | 1701 | 3428 |
 | 2026-04-10T13:01 | 6 | 1708 | 3416 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-09T12:23 | 7 | 1699 | 3385 |
 | 2026-04-09T06:34 | 4 | 1700 | 3378 |
 | 2026-04-09T00:23 | 3 | 1702 | 3374 |
-| 2026-04-08T18:27 | 10 | 1695 | 3371 |
 
 ---
 

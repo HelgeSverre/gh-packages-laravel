@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3438  
-**Last updated:** 2026-04-11T12:50:58.371Z
+**Total packages tracked:** 3442  
+**Last updated:** 2026-04-11T18:39:17.935Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [open-southeners/laravel-response-compression](https://github.com/open-southeners/laravel-response-compression) | 15 | Add server-side response compression with different algorithm support (Gzip, bro... |
+| [Livewirez/laravel-billing-showcase](https://github.com/Livewirez/laravel-billing-showcase) | 0 | A laravel package for showcasing the billing package |
+| [RomaLytar/yammi-jobs-monitoring-laravel](https://github.com/RomaLytar/yammi-jobs-monitoring-laravel) | 0 | Lightweight queue monitoring package for Laravel that tracks job lifecycle (proc... |
+| [sprout-laravel/propagator](https://github.com/sprout-laravel/propagator) | 0 | A dev toolkit for working with Laravel Sprout |
 | [codeldev/laravel-mail-log](https://github.com/codeldev/laravel-mail-log) | 0 | A simple Laravel package that automatically logs every email sent by your applic... |
 | [nycu-csit/laravel-restful-utils](https://github.com/nycu-csit/laravel-restful-utils) | 1 | This package provides utilities for building a restful API for Laravel projects. |
 | [nycu-csit/laravel-query-builder](https://github.com/nycu-csit/laravel-query-builder) | 0 | This package makes you to filter, sort, include, count eloquent model easily bas... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [anassrojea/laracrawler](https://github.com/anassrojea/laracrawler) | 0 | Laravel sitemap generator and crawler package for SEO optimization. Supports mul... |
 | [HamidulloRahmonberdiyev/laravel-ai-log-analyzer-package](https://github.com/HamidulloRahmonberdiyev/laravel-ai-log-analyzer-package) | 1 |  |
 | [koen-schipper/laravel-address-parser](https://github.com/koen-schipper/laravel-address-parser) | 1 | A robust and simple Laravel package for parsing Dutch address data. This parser ... |
-| [testmonitor/notify-floodgate](https://github.com/testmonitor/notify-floodgate) | 0 | A Laravel package to buffer notifications and prevent notification floods. |
-| [lumensistemas/laravel-inter](https://github.com/lumensistemas/laravel-inter) | 0 | A Laravel package for integrating with Banco Inter API. |
-| [codeldev/laravel-schedule-log](https://github.com/codeldev/laravel-schedule-log) | 0 | A simple Laravel package that automatically logs every scheduled command executi... |
-| [sergeybruhin/page-meta](https://github.com/sergeybruhin/page-meta) | 0 | Laravel Page Meta Package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | 2026-04-11 | miPress CMS — core Laravel package (Filament 5) |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-11 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 36 | 2026-04-11 |  |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-11 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [codeldev/laravel-mail-log](https://github.com/codeldev/laravel-mail-log) | 0 | 2026-04-11 | A simple Laravel package that automatically logs every email... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-11 | 💳 Streamline payment processing with this PHP package that ... |
-| [codeldev/laravel-schedule-log](https://github.com/codeldev/laravel-schedule-log) | 0 | 2026-04-11 | A simple Laravel package that automatically logs every sched... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-11 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-11 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-11 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-04-11 | A foundational package providing base classes and utilities ... |
-| [zaeem2396/schema-lens](https://github.com/zaeem2396/schema-lens) | 5 | 2026-04-11 | A Laravel package that extends the default Artisan CLI with ... |
-| [ramonrietdijk/livewire-tables](https://github.com/ramonrietdijk/livewire-tables) | 211 | 2026-04-11 | Dynamic tables for models with Laravel Livewire |
-| [salahedarhri/gemvogue-jewelry-store](https://github.com/salahedarhri/gemvogue-jewelry-store) | 1 | 2026-04-11 | GemVogue is a e-commerce website project, for selling jewell... |
-| [nycu-csit/laravel-restful-utils](https://github.com/nycu-csit/laravel-restful-utils) | 1 | 2026-04-11 | This package provides utilities for building a restful API f... |
-| [oliwol/laravel-slugify](https://github.com/oliwol/laravel-slugify) | 2 | 2026-04-11 | A lightweight trait to easily add slug generation to your La... |
-| [nycu-csit/laravel-query-builder](https://github.com/nycu-csit/laravel-query-builder) | 0 | 2026-04-11 | This package makes you to filter, sort, include, count eloqu... |
-| [libredesarrollo/book-course-laravel-base-package](https://github.com/libredesarrollo/book-course-laravel-base-package) | 0 | 2026-04-11 |  |
-| [HamidulloRahmonberdiyev/laravel-ai-log-analyzer-package](https://github.com/HamidulloRahmonberdiyev/laravel-ai-log-analyzer-package) | 1 | 2026-04-11 |  |
-| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 299 | 2026-04-11 | Laravel error reporting tool |
+| [omdasoft/laravel-webauthn](https://github.com/omdasoft/laravel-webauthn) | 0 | 2026-04-11 | A Laravel package that provides a backend API implementation... |
+| [mozex/laravel-modules](https://github.com/mozex/laravel-modules) | 3 | 2026-04-11 | Full-featured module system for Laravel — auto-discovery, is... |
+| [open-southeners/laravel-apiable](https://github.com/open-southeners/laravel-apiable) | 13 | 2026-04-11 | Integrate JSON:API resources on your Laravel API project. |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-11 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-11 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-11 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-11 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-11 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-11 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-11 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-11 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-11 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-11 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-11 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-11 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-11 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-11 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-11 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-11 |  |
+| [waadmawlood/filament-media](https://github.com/waadmawlood/filament-media) | 2 | 2026-04-11 | Filament integration for `waad/media` package for Media Uplo... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-11T18:39 | 4 | 1712 | 3442 |
 | 2026-04-11T12:50 | 5 | 1713 | 3438 |
 | 2026-04-11T06:57 | 1 | 1713 | 3433 |
 | 2026-04-11T01:57 | 4 | 1709 | 3432 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-10T02:09 | 10 | 1702 | 3409 |
 | 2026-04-09T18:22 | 14 | 1695 | 3399 |
 | 2026-04-09T12:23 | 7 | 1699 | 3385 |
-| 2026-04-09T06:34 | 4 | 1700 | 3378 |
 
 ---
 

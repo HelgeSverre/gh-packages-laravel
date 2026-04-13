@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3481  
-**Last updated:** 2026-04-13T13:19:21.711Z
+**Total packages tracked:** 3486  
+**Last updated:** 2026-04-13T19:09:54.476Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [hexadog/laravel-themes-manager](https://github.com/hexadog/laravel-themes-manager) | 169 | Bring multi themes support to your Laravel application with a full-featured Them... |
+| [open-southeners/laravel-companion-apps](https://github.com/open-southeners/laravel-companion-apps) | 23 | Extend your Laravel applications with companions apps (Android, Apple, PWA...) |
+| [open-southeners/laravel-eloquent-union-builder](https://github.com/open-southeners/laravel-eloquent-union-builder) | 2 | Unify multiple Eloquent query builder instances into one using SQL union |
+| [open-southeners/laravel-model-status](https://github.com/open-southeners/laravel-model-status) | 0 | Integrate enum based statuses to Laravel models |
+| [hexadog/laravel-theme-installer](https://github.com/hexadog/laravel-theme-installer) | 10 | Composer plugin to install laravel-theme packages outside vendor directory |
 | [skore/laravel-auditable](https://github.com/skore/laravel-auditable) | 0 | Audit the users that performs actions to your application models |
 | [open-southeners/laravel-scout-advanced-meilisearch](https://github.com/open-southeners/laravel-scout-advanced-meilisearch) | 5 | Advanced Meilisearch integration with Laravel Scout |
 | [open-southeners/sidecar-local](https://github.com/open-southeners/sidecar-local) | 8 | An extension of Laravel Sidecar project to be able to use it locally with Docker |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [samody2006/laravel-migration-preflight](https://github.com/samody2006/laravel-migration-preflight) | 0 | A Laravel package that validates migrations before execution to prevent schema-r... |
 | [karpovigorok/subkit](https://github.com/karpovigorok/subkit) | 27 | Laravel subscription management with a Filament UI. Eliminates days of custom bi... |
 | [alhaji-aki/laravel-phone-number-verification](https://github.com/alhaji-aki/laravel-phone-number-verification) | 7 | A simple package to help verify phone numbers |
-| [codeboxrcodehub/pathao-courier](https://github.com/codeboxrcodehub/pathao-courier) | 28 | Laravel package for Pathao Courier  |
-| [masterix21/laravel-licensing](https://github.com/masterix21/laravel-licensing) | 124 | A licensing package for Laravel with offline verification, seat management, cryp... |
-| [darkton/laravel-loki](https://github.com/darkton/laravel-loki) | 0 | A Laravel package for shipping logs to Grafana Loki via OTLP with Redis bufferin... |
-| [crdesign8/laravel-rtc-calculator](https://github.com/crdesign8/laravel-rtc-calculator) | 1 | Laravel Package for Brazilian Tax Calculator |
-| [Bartlomiej-Stec/laravel-paypal-payment-ipn](https://github.com/Bartlomiej-Stec/laravel-paypal-payment-ipn) | 0 | Package for easily integrating paypal payments via html buttons with Laravel and... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-13 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-13 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 321 | 2026-04-13 | The NativePHP website |
-| [filipefernandes9747/laravel-turbo-excel](https://github.com/filipefernandes9747/laravel-turbo-excel) | 0 | 2026-04-13 | A Laravel Excel-like package powered by OpenSpout, designed ... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-13 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [bambamboole/laravel-mermaid-erd](https://github.com/bambamboole/laravel-mermaid-erd) | 1 | 2026-04-13 | Package to generate Mermaid ERD from the database schema |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 1 | 2026-04-13 | Laravel package providing AI-powered search with Pagefind. D... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-13 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [vormiaphp/vormia](https://github.com/vormiaphp/vormia) | 1 | 2026-04-13 | A comprehensive Laravel development package that streamlines... |
-| [Flobbos/laravel-crudable](https://github.com/Flobbos/laravel-crudable) | 16 | 2026-04-13 | Crud package to make CRUD operations faster and simpler. |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-04-13 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-13 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [open-southeners/carbone-sdk](https://github.com/open-southeners/carbone-sdk) | 0 | 2026-04-13 | Unofficial port of the Carbone API SDK to Saloon v4 |
-| [darkton/laravel-loki](https://github.com/darkton/laravel-loki) | 0 | 2026-04-13 | A Laravel package for shipping logs to Grafana Loki via OTLP... |
-| [Retail-Cosmos/trx-mall-upload-sales-data-api](https://github.com/Retail-Cosmos/trx-mall-upload-sales-data-api) | 2 | 2026-04-13 | This is a Laravel package providing the functionality to upl... |
+| [RomaLytar/yammi-jobs-monitoring-laravel](https://github.com/RomaLytar/yammi-jobs-monitoring-laravel) | 9 | 2026-04-13 | Lightweight queue monitoring package for Laravel that tracks... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-04-13 | Empower your users with a modern, intuitive visual editor. T... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-13 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-13 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-04-13 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-13 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-13 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-13 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-13 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-13 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [open-southeners/laravel-scout-advanced-meilisearch](https://github.com/open-southeners/laravel-scout-advanced-meilisearch) | 5 | 2026-04-13 | Advanced Meilisearch integration with Laravel Scout |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-13 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-13 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-13 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-13 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-13 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-13 | 💳 Streamline payment processing with this PHP package that ... |
+| [hybridly/laravel](https://github.com/hybridly/laravel) | 4 | 2026-04-13 | [READ ONLY] Subtree split of the Laravel package from the Hy... |
+| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | 2026-04-13 | miPress CMS — core Laravel package (Filament 5) |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-13T19:09 | 5 | 1706 | 3486 |
 | 2026-04-13T13:19 | 13 | 1698 | 3481 |
 | 2026-04-13T07:57 | 3 | 1708 | 3468 |
 | 2026-04-13T02:24 | 7 | 1706 | 3465 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-12T02:11 | 3 | 1713 | 3445 |
 | 2026-04-11T18:39 | 4 | 1712 | 3442 |
 | 2026-04-11T12:50 | 5 | 1713 | 3438 |
-| 2026-04-11T06:57 | 1 | 1713 | 3433 |
 
 ---
 

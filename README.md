@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3488  
-**Last updated:** 2026-04-14T07:25:43.072Z
+**Total packages tracked:** 3495  
+**Last updated:** 2026-04-14T13:18:42.344Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [sajedaakram/laravel-ai-chatbot-demo](https://github.com/sajedaakram/laravel-ai-chatbot-demo) | 0 | AI chatbot widget for any Laravel app — streaming, bilingual AR/EN, industry pre... |
+| [venturedrake/laravel-encryptable](https://github.com/venturedrake/laravel-encryptable) | 3 | A Laravel package with an encryptable trait to manage encrypting database table ... |
+| [novius/laravel-dto](https://github.com/novius/laravel-dto) | 0 | A simple and extensible DTO (Data Transfer Objects) package for Laravel. |
+| [cochy98/password-rotation](https://github.com/cochy98/password-rotation) | 0 | Package per app laravel per la gestione della rotazione delle password degli acc... |
+| [marhusar/test-api-generator-laravel](https://github.com/marhusar/test-api-generator-laravel) | 0 | Integration testing for api generator package (PHP, Laravel) |
+| [federicoRegold/aruba-pec-laravel](https://github.com/federicoRegold/aruba-pec-laravel) | 2 | Laravel package to send PEC emails with Aruba |
+| [Ashraam/laravel-capjs](https://github.com/Ashraam/laravel-capjs) | 3 | A simple package to integrate Cap.js, an hCaptcha-like open source challenge, in... |
 | [VoxDroid/Eventra](https://github.com/VoxDroid/Eventra) | 1 | Eventra is an open-source, organization-focused event management system built on... |
 | [hind-sagar-biswas/laravel-model-utils](https://github.com/hind-sagar-biswas/laravel-model-utils) | 0 | A Laravel Utility Package for Models Management |
 | [hexadog/laravel-themes-manager](https://github.com/hexadog/laravel-themes-manager) | 169 | Bring multi themes support to your Laravel application with a full-featured Them... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [open-southeners/laravel-data-mapper](https://github.com/open-southeners/laravel-data-mapper) | 10 | Extensible data mapper to objects, DTOs, enums, collections, Eloquent models, et... |
 | [open-southeners/extended-laravel](https://github.com/open-southeners/extended-laravel) | 0 | Laravel extended helpers for PHP and framework features |
 | [codewithathis/paperless-ngx](https://github.com/codewithathis/paperless-ngx) | 0 | A Laravel package for managing Paperless-ngx via its API, providing easy integra... |
-| [zakobo-team/laravel-openapi-generator](https://github.com/zakobo-team/laravel-openapi-generator) | 0 | Laravel 13+ package for generating OpenAPI specs from routes, JSON:API resources... |
-| [basantashubhu/array-model](https://github.com/basantashubhu/array-model) | 0 | A package to handle array data as a model in Laravel. |
-| [codeldev/laravel-job-log](https://github.com/codeldev/laravel-job-log) | 0 | A simple Laravel package that automatically logs all jobs queued and processed b... |
-| [3neti/hyperverge](https://github.com/3neti/hyperverge) | 0 | Laravel package for HyperVerge KYC APIs with face verification, document signing... |
-| [justbetter/laravel-magento-products-nova](https://github.com/justbetter/laravel-magento-products-nova) | 13 | This package is the Laravel Nova integration for justbetter/laravel-magento-pric... |
-| [mrc4tz/mrcatz-datatables](https://github.com/mrc4tz/mrcatz-datatables) | 3 | A full-featured Laravel DataTable package for Livewire — CRUD, filters, search, ... |
-| [samody2006/laravel-migration-preflight](https://github.com/samody2006/laravel-migration-preflight) | 0 | A Laravel package that validates migrations before execution to prevent schema-r... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Streats22/LaraGrapePackage](https://github.com/Streats22/LaraGrapePackage) | 3 | 2026-04-14 | LaraGrape is a Laravel package that provides a powerful, ext... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-04-14 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-04-14 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-04-14 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 481 | 2026-04-14 | Easy, flexible and powerful cloud-native Laravel CMS package... |
-| [rivalex/lingua](https://github.com/rivalex/lingua) | 2 | 2026-04-14 | Lingua is a Laravel package for complete translation managem... |
+| [cboxdk/statamic-mcp](https://github.com/cboxdk/statamic-mcp) | 23 | 2026-04-14 | AI-powered development tools for Statamic CMS. Provides 100+... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 387 | 2026-04-14 | Open Source Laravel CRM Package |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-14 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [venturedrake/laravel-encryptable](https://github.com/venturedrake/laravel-encryptable) | 3 | 2026-04-14 | A Laravel package with an encryptable trait to manage encryp... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-14 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laravel-enso/core](https://github.com/laravel-enso/core) | 34 | 2026-04-14 | Laravel Enso main dependecy aggregator  |
+| [novius/laravel-dto](https://github.com/novius/laravel-dto) | 0 | 2026-04-14 | A simple and extensible DTO (Data Transfer Objects) package ... |
+| [hind-sagar-biswas/laravel-model-utils](https://github.com/hind-sagar-biswas/laravel-model-utils) | 0 | 2026-04-14 | A Laravel Utility Package for Models Management |
 | [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-14 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [LastDragon-ru/lara-asp-testing](https://github.com/LastDragon-ru/lara-asp-testing) | 0 | 2026-04-14 | Provides various useful asserts for PHPUnit and better solut... |
-| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-04-14 | Chief admin package |
-| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 14 | 2026-04-14 |  |
+| [laravel-enso/roles](https://github.com/laravel-enso/roles) | 10 | 2026-04-14 | Laravel Enso Role Manager dependency makes it easy to manage... |
+| [milwad-dev/laravel-attributes](https://github.com/milwad-dev/laravel-attributes) | 227 | 2026-04-14 | The package allows add and manage custom attributes on Eloqu... |
+| [laravel-enso/permissions](https://github.com/laravel-enso/permissions) | 12 | 2026-04-14 | Laravel Enso Permission Manger interface for easy management... |
+| [laravel-enso/select](https://github.com/laravel-enso/select) | 26 | 2026-04-14 | Bulma styled single and multi-select component with a server... |
+| [usmonaliyev99/redium](https://github.com/usmonaliyev99/redium) | 5 | 2026-04-14 | A high-performance laravel auth package powered by redis, in... |
 | [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-14 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [GraystackIT/laravel-testo-api](https://github.com/GraystackIT/laravel-testo-api) | 0 | 2026-04-14 | Laravel package to consume API for Testo cloud, used to read... |
-| [GraystackIT/laravel-brave-api](https://github.com/GraystackIT/laravel-brave-api) | 0 | 2026-04-14 | Laravel package to consume Brave search API |
-| [GraystackIT/laravel-ship24-api](https://github.com/GraystackIT/laravel-ship24-api) | 0 | 2026-04-14 | Laravel package to consume Ship24 API |
-| [GraystackIT/laravel-smstools-api](https://github.com/GraystackIT/laravel-smstools-api) | 0 | 2026-04-14 | Laravel package to consume SMSTools.at API |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-04-14 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-14 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 34 | 2026-04-14 | Laravel USPS Package to integrate USPS Address |
+| [laravel-enso/cli](https://github.com/laravel-enso/cli) | 10 | 2026-04-14 | Enso CLI for structure management |
+| [laravel-enso/logs](https://github.com/laravel-enso/logs) | 11 | 2026-04-14 | Laravel Enso Log Manager, so that your admins can troublesho... |
+| [laravel-enso/services](https://github.com/laravel-enso/services) | 0 | 2026-04-14 |  |
+| [LastDragon-ru/lara-asp-graphql](https://github.com/LastDragon-ru/lara-asp-graphql) | 5 | 2026-04-14 | This package provides highly powerful `@searchBy` and `@sort... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-14T13:18 | 7 | 1702 | 3495 |
 | 2026-04-14T07:25 | 0 | 1709 | 3488 |
 | 2026-04-14T02:09 | 2 | 1707 | 3488 |
 | 2026-04-13T19:09 | 5 | 1706 | 3486 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-12T18:41 | 10 | 1703 | 3458 |
 | 2026-04-12T12:54 | 1 | 1713 | 3448 |
 | 2026-04-12T07:09 | 2 | 1714 | 3447 |
-| 2026-04-12T02:11 | 3 | 1713 | 3445 |
 
 ---
 

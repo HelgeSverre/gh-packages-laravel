@@ -2,14 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3505  
-**Last updated:** 2026-04-15T02:07:19.495Z
+**Total packages tracked:** 3507  
+**Last updated:** 2026-04-15T07:26:24.072Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [Vinksyunit/NotTodayHoney](https://github.com/Vinksyunit/NotTodayHoney) | 1 | Turn your Laravel application into an intelligent trap. This package simulates s... |
+| [dipesh79/LaravelEsewa](https://github.com/dipesh79/LaravelEsewa) | 3 | Laravel Esewa - A simple laravel package to integrate esewa payment. |
+| [daudmabena/Vendite-Maestria](https://github.com/daudmabena/Vendite-Maestria) | 0 | Vendite & Maestria is a Laravel e-commerce codebase organized by domain: catalog... |
+| [Vinksyunit/NotTodayHoney](https://github.com/Vinksyunit/NotTodayHoney) | 2 | Turn your Laravel application into an intelligent trap. This package simulates s... |
 | [ArthurPatriot/laravel-tus](https://github.com/ArthurPatriot/laravel-tus) | 51 | Laravel package for handling resumable file uploads with tus protocol and native... |
 | [laravel-enso/control-panel-common](https://github.com/laravel-enso/control-panel-common) | 0 | Common classes between control-panel and control-panel-api |
 | [nycu-csit/laravel-impersonation](https://github.com/nycu-csit/laravel-impersonation) | 0 | This package is aimed for role-based Laravel site, enabling user to impersonate ... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [federicoRegold/aruba-pec-laravel](https://github.com/federicoRegold/aruba-pec-laravel) | 2 | Laravel package to send PEC emails with Aruba |
 | [Ashraam/laravel-capjs](https://github.com/Ashraam/laravel-capjs) | 3 | A simple package to integrate Cap.js, an hCaptcha-like open source challenge, in... |
 | [VoxDroid/Eventra](https://github.com/VoxDroid/Eventra) | 1 | Eventra is an open-source, organization-focused event management system built on... |
-| [hind-sagar-biswas/laravel-model-utils](https://github.com/hind-sagar-biswas/laravel-model-utils) | 0 | A Laravel Utility Package for Models Management |
-| [hexadog/laravel-themes-manager](https://github.com/hexadog/laravel-themes-manager) | 169 | Bring multi themes support to your Laravel application with a full-featured Them... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AngeloFranciscoSA/laravel-package-by-feature](https://github.com/AngeloFranciscoSA/laravel-package-by-feature) | 0 | 2026-04-15 |  |
-| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 48 | 2026-04-15 | A Laravel package for orchestrating AI-driven features using... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-15 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-15 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-15 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-15 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-15 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-15 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-15 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-15 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-15 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-15 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-15 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-15 | Integrate Mixpanel analytics into Filament projects to track... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-15 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-15 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-15 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-15 |  |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-04-15 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-04-15 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 481 | 2026-04-15 | Easy, flexible and powerful cloud-native Laravel CMS package... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-04-15 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-04-15 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-04-15 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [karpovigorok/subkit](https://github.com/karpovigorok/subkit) | 27 | 2026-04-15 | Laravel subscription management with a Filament UI. Eliminat... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 321 | 2026-04-15 | The NativePHP website |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-15 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-15 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-15 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-15 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [dipesh79/LaravelEsewa](https://github.com/dipesh79/LaravelEsewa) | 3 | 2026-04-15 | Laravel Esewa - A simple laravel package to integrate esewa ... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-04-15 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-15 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-15 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 34 | 2026-04-15 | Laravel USPS Package to integrate USPS Address |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-15 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-04-15 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-15 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-15 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-15 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-15T07:26 | 2 | 1705 | 3507 |
 | 2026-04-15T02:07 | 2 | 1706 | 3505 |
 | 2026-04-14T19:08 | 8 | 1700 | 3503 |
 | 2026-04-14T13:18 | 7 | 1702 | 3495 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-13T13:19 | 13 | 1698 | 3481 |
 | 2026-04-13T07:57 | 3 | 1708 | 3468 |
 | 2026-04-13T02:24 | 7 | 1706 | 3465 |
-| 2026-04-12T18:41 | 10 | 1703 | 3458 |
 
 ---
 

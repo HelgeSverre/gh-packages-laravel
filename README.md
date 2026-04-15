@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3513  
-**Last updated:** 2026-04-15T13:18:01.624Z
+**Total packages tracked:** 3517  
+**Last updated:** 2026-04-15T19:10:54.094Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [robertnicjoo/nicxon-seo](https://github.com/robertnicjoo/nicxon-seo) | 0 | Professional SEO toolkit for Laravel by Robert Nicjoo |
+| [jauntin/pdf-platform-sdk](https://github.com/jauntin/pdf-platform-sdk) | 0 | Laravel package for used with Jauntin's PDF Platform |
+| [mosaiqo/proofread](https://github.com/mosaiqo/proofread) | 0 | The only eval package native to the official Laravel AI stack. Evaluate agents, ... |
+| [aybarsm/laravel-provider-package](https://github.com/aybarsm/laravel-provider-package) | 0 | An opinionated, extended version of Spatie’s laravel-package-tools to configure ... |
 | [SirAndrewGotham/StagePhoto](https://github.com/SirAndrewGotham/StagePhoto) | 0 | Professional concert and theater photography platform with Livewire 4, multi-lan... |
 | [t1nkl/postgres-pgbouncer-extension](https://github.com/t1nkl/postgres-pgbouncer-extension) | 7 | PostgreSQL pgbouncer extension for PDO::ATTR_EMULATE_PREPARES option |
 | [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 1 | A Laravel Package for integrating Singpass Login, Myinfo, and Corppass |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [achetibi/laravel-satim](https://github.com/achetibi/laravel-satim) | 14 | Laravel Satim is a clean, extensible Laravel package that provides seamless inte... |
 | [Phunky/laravel-messaging](https://github.com/Phunky/laravel-messaging) | 0 | Extensible messaging package for Laravel  |
 | [yaza-putu/laravel-google-drive-storage](https://github.com/yaza-putu/laravel-google-drive-storage) | 200 | Laravel Google Drive Storage, You can store file like S3 AWS in laravel , this p... |
-| [kiriminow/kirimi-laravel](https://github.com/kiriminow/kirimi-laravel) | 0 | Official Laravel package for the Kirimi WhatsApp API |
-| [nycu-csit/laravel-mattermost](https://github.com/nycu-csit/laravel-mattermost) | 0 | This package provides the custom Mattermost Notification Channel for Laravel 10+... |
-| [sajedaakram/laravel-ai-chatbot-demo](https://github.com/sajedaakram/laravel-ai-chatbot-demo) | 0 | AI chatbot widget for any Laravel app — streaming, bilingual AR/EN, industry pre... |
-| [venturedrake/laravel-encryptable](https://github.com/venturedrake/laravel-encryptable) | 3 | A Laravel package with an encryptable trait to manage encrypting database table ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 444 | A package to handle multilingual routes in your Laravel application. |
-| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 440 | A simple package to help integrate Cloudflare Turnstile. |
+| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 441 | A simple package to help integrate Cloudflare Turnstile. |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 436 | A package to keep track of your pages & understand your audience |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 433 | A media picker plugin for Filament Panels. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mrc4tz/mrcatz-datatables](https://github.com/mrc4tz/mrcatz-datatables) | 5 | 2026-04-15 | A full-featured Laravel DataTable package for Livewire — CRU... |
-| [laravel-enso/localisation](https://github.com/laravel-enso/localisation) | 13 | 2026-04-15 | Laravel Enso Localisation package, meant to make it easy to ... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 152 | 2026-04-15 | The Moox Project - Packages for Filament and Laravel |
+| [RomaLytar/yammi-jobs-monitoring-laravel](https://github.com/RomaLytar/yammi-jobs-monitoring-laravel) | 9 | 2026-04-15 | A lightweight Laravel queue monitoring package that tracks j... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-04-15 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [samody2006/laravel-migration-preflight](https://github.com/samody2006/laravel-migration-preflight) | 0 | 2026-04-15 | A Laravel package that validates migrations before execution... |
+| [mrc4tz/mrcatz-datatables](https://github.com/mrc4tz/mrcatz-datatables) | 5 | 2026-04-15 | A full-featured Laravel DataTable package for Livewire — CRU... |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 11 | 2026-04-15 | Source code for the new pokemon3d.net website |
+| [dsbilling/dsbilling.no](https://github.com/dsbilling/dsbilling.no) | 5 | 2026-04-15 | Just my personal website, built with the TALL stack. |
+| [iamkarsoft/movie-app](https://github.com/iamkarsoft/movie-app) | 1 | 2026-04-15 | a repo for me to get familiar with livewire and alpine based... |
+| [statikbe/laravel-cookie-consent](https://github.com/statikbe/laravel-cookie-consent) | 215 | 2026-04-15 | The package includes a script & styling for a cookie banner ... |
+| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 62 | 2026-04-15 | Livewire components for AlpineFlow — build interactive flow ... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-15 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-15 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-04-15 | A package to create datatables using alpinejs, tailwind, liv... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-04-15 | This project collects the most commonly used Laravel extensi... |
-| [EscolaLMS/API](https://github.com/EscolaLMS/API) | 16 | 2026-04-15 | Laravel REST API. Main module that compose all Laravel packa... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-15 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-04-15 | An event sourcing laravel package, complete with all the ess... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-04-15 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-04-15 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-15 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-15 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-15 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [jauntin/pdf-platform-sdk](https://github.com/jauntin/pdf-platform-sdk) | 0 | 2026-04-15 | Laravel package for used with Jauntin's PDF Platform |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-15 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [kettasoft/filterable](https://github.com/kettasoft/filterable) | 12 | 2026-04-15 | A powerful and flexible Laravel package for advanced, clean,... |
-| [t1nkl/postgres-pgbouncer-extension](https://github.com/t1nkl/postgres-pgbouncer-extension) | 7 | 2026-04-15 | PostgreSQL pgbouncer extension for PDO::ATTR_EMULATE_PREPARE... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 481 | 2026-04-15 | Easy, flexible and powerful cloud-native Laravel CMS package... |
-| [Buymeua/madeline-proto-integration](https://github.com/Buymeua/madeline-proto-integration) | 0 | 2026-04-15 | Laravel package for the MadelineProto microservice in BuymeU... |
-| [blockshiftnetwork/sapb1-client-laravel](https://github.com/blockshiftnetwork/sapb1-client-laravel) | 2 | 2026-04-15 | A robust, production-grade Laravel package for SAP Business ... |
-| [michalcabala/mipress-core](https://github.com/michalcabala/mipress-core) | 0 | 2026-04-15 | miPress CMS — core Laravel package (Filament 5) |
+| [RawanD201/filament-connection-badge](https://github.com/RawanD201/filament-connection-badge) | 1 | 2026-04-15 | A drop-in connection status badge for Filament panels |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-15T19:10 | 4 | 1701 | 3517 |
 | 2026-04-15T13:18 | 6 | 1700 | 3513 |
 | 2026-04-15T07:26 | 2 | 1705 | 3507 |
 | 2026-04-15T02:07 | 2 | 1706 | 3505 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-14T02:09 | 2 | 1707 | 3488 |
 | 2026-04-13T19:09 | 5 | 1706 | 3486 |
 | 2026-04-13T13:19 | 13 | 1698 | 3481 |
-| 2026-04-13T07:57 | 3 | 1708 | 3468 |
 
 ---
 

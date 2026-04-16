@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3517  
-**Last updated:** 2026-04-15T19:10:54.094Z
+**Total packages tracked:** 3522  
+**Last updated:** 2026-04-16T02:15:43.165Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [that0n3guy/transliteration](https://github.com/that0n3guy/transliteration) | 12 | Laravel package to transliterate text. |
+| [achetibi/laravel-captcha](https://github.com/achetibi/laravel-captcha) | 0 | Laravel Captcha is a modern, lightweight, and extensible CAPTCHA package for Lar... |
+| [atldays/laravel-hashids](https://github.com/atldays/laravel-hashids) | 0 | Laravel package for using hash IDs consistently across models, routes, requests,... |
+| [aliziodev/laravel-terms](https://github.com/aliziodev/laravel-terms) | 0 | Lightweight, flat taxonomy package for Laravel. Attach reusable terms — tags, ca... |
+| [andreilungeanu/smartbill](https://github.com/andreilungeanu/smartbill) | 0 | A Laravel package for seamless integration with the Smartbill API. |
 | [robertnicjoo/nicxon-seo](https://github.com/robertnicjoo/nicxon-seo) | 0 | Professional SEO toolkit for Laravel by Robert Nicjoo |
 | [jauntin/pdf-platform-sdk](https://github.com/jauntin/pdf-platform-sdk) | 0 | Laravel package for used with Jauntin's PDF Platform |
 | [mosaiqo/proofread](https://github.com/mosaiqo/proofread) | 0 | The only eval package native to the official Laravel AI stack. Evaluate agents, ... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Vinksyunit/NotTodayHoney](https://github.com/Vinksyunit/NotTodayHoney) | 2 | Turn your Laravel application into an intelligent trap. This package simulates s... |
 | [ArthurPatriot/laravel-tus](https://github.com/ArthurPatriot/laravel-tus) | 51 | Laravel package for handling resumable file uploads with tus protocol and native... |
 | [laravel-enso/control-panel-common](https://github.com/laravel-enso/control-panel-common) | 0 | Common classes between control-panel and control-panel-api |
-| [nycu-csit/laravel-impersonation](https://github.com/nycu-csit/laravel-impersonation) | 0 | This package is aimed for role-based Laravel site, enabling user to impersonate ... |
-| [erickcomp/laravel-stacked-components](https://github.com/erickcomp/laravel-stacked-components) | 0 | This package provides some blade components that you can use to insert content i... |
-| [achetibi/laravel-satim](https://github.com/achetibi/laravel-satim) | 14 | Laravel Satim is a clean, extensible Laravel package that provides seamless inte... |
-| [Phunky/laravel-messaging](https://github.com/Phunky/laravel-messaging) | 0 | Extensible messaging package for Laravel  |
-| [yaza-putu/laravel-google-drive-storage](https://github.com/yaza-putu/laravel-google-drive-storage) | 200 | Laravel Google Drive Storage, You can store file like S3 AWS in laravel , this p... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 152 | 2026-04-15 | The Moox Project - Packages for Filament and Laravel |
-| [RomaLytar/yammi-jobs-monitoring-laravel](https://github.com/RomaLytar/yammi-jobs-monitoring-laravel) | 9 | 2026-04-15 | A lightweight Laravel queue monitoring package that tracks j... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-04-15 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [mrc4tz/mrcatz-datatables](https://github.com/mrc4tz/mrcatz-datatables) | 5 | 2026-04-15 | A full-featured Laravel DataTable package for Livewire — CRU... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 11 | 2026-04-15 | Source code for the new pokemon3d.net website |
-| [dsbilling/dsbilling.no](https://github.com/dsbilling/dsbilling.no) | 5 | 2026-04-15 | Just my personal website, built with the TALL stack. |
-| [iamkarsoft/movie-app](https://github.com/iamkarsoft/movie-app) | 1 | 2026-04-15 | a repo for me to get familiar with livewire and alpine based... |
-| [statikbe/laravel-cookie-consent](https://github.com/statikbe/laravel-cookie-consent) | 215 | 2026-04-15 | The package includes a script & styling for a cookie banner ... |
-| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 62 | 2026-04-15 | Livewire components for AlpineFlow — build interactive flow ... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-15 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-15 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-04-15 | An event sourcing laravel package, complete with all the ess... |
-| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-04-15 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-04-15 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-15 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-15 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-15 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [jauntin/pdf-platform-sdk](https://github.com/jauntin/pdf-platform-sdk) | 0 | 2026-04-15 | Laravel package for used with Jauntin's PDF Platform |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-15 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [RawanD201/filament-connection-badge](https://github.com/RawanD201/filament-connection-badge) | 1 | 2026-04-15 | A drop-in connection status badge for Filament panels |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-16 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-16 | Track and display Matomo analytics data directly within Lara... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-16 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-16 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-16 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-16 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-16 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-16 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-16 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-16 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-16 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [RomaLytar/yammi-jobs-monitoring-laravel](https://github.com/RomaLytar/yammi-jobs-monitoring-laravel) | 9 | 2026-04-16 | A lightweight Laravel queue monitoring package that tracks j... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-16 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-16 | Integrate Mixpanel analytics into Filament projects to track... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-16 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-16 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-16 |  |
+| [that0n3guy/transliteration](https://github.com/that0n3guy/transliteration) | 12 | 2026-04-16 | Laravel package to transliterate text. |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-04-16 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-04-16 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-16T02:15 | 5 | 1700 | 3522 |
 | 2026-04-15T19:10 | 4 | 1701 | 3517 |
 | 2026-04-15T13:18 | 6 | 1700 | 3513 |
 | 2026-04-15T07:26 | 2 | 1705 | 3507 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-14T07:25 | 0 | 1709 | 3488 |
 | 2026-04-14T02:09 | 2 | 1707 | 3488 |
 | 2026-04-13T19:09 | 5 | 1706 | 3486 |
-| 2026-04-13T13:19 | 13 | 1698 | 3481 |
 
 ---
 

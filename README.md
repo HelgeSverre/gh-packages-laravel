@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3544  
-**Last updated:** 2026-04-17T02:11:16.112Z
+**Total packages tracked:** 3549  
+**Last updated:** 2026-04-17T07:27:17.390Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [zislogic/ebay-api-media](https://github.com/zislogic/ebay-api-media) | 0 | eBay Media API package for Laravel — image, video and document uploads via EPS a... |
+| [teckwei1993/laravel-otp](https://github.com/teckwei1993/laravel-otp) | 55 | A package for Laravel One Time Password (OTP) generator and validation without E... |
+| [ameax/filter-core](https://github.com/ameax/filter-core) | 0 | a laravel package for defining filters and selection open for multiple ui adopti... |
+| [maylancerdev/safehaven-laravel](https://github.com/maylancerdev/safehaven-laravel) | 0 | A compact Laravel package enabling quick integration with Safe Haven MFB's API f... |
+| [maylancerdev/paystack-laravel](https://github.com/maylancerdev/paystack-laravel) | 0 | This is my package paystack-laravel |
 | [mtownsend5512/response-xml](https://github.com/mtownsend5512/response-xml) | 104 | The missing XML support for Laravel's Response class. |
 | [atldays/laravel-url](https://github.com/atldays/laravel-url) | 0 | Laravel package for URL value objects, sanitization pipelines, browser URL suppo... |
 | [mitul456/laravel-multi-role-auth](https://github.com/mitul456/laravel-multi-role-auth) | 0 | A flexible and fully-featured multi-role authentication package for Laravel, sup... |
@@ -24,17 +29,12 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [korridor/laravel-model-validation-rules](https://github.com/korridor/laravel-model-validation-rules) | 29 | This package is an alternative to the Laravel built-in validation rules exists a... |
 | [korridor/laravel-computed-attributes](https://github.com/korridor/laravel-computed-attributes) | 12 | Laravel package that adds computed attributes to eloquent models. A computed att... |
 | [mouseleo/skeleton](https://github.com/mouseleo/skeleton) | 0 | skeleton package laravel |
-| [apn-ra/laravel-freeswitch-esl](https://github.com/apn-ra/laravel-freeswitch-esl) | 0 | Production-grade Laravel package for FreeSWITCH ESL, providing connection manage... |
-| [khatabwedaa/blade-css-icons](https://github.com/khatabwedaa/blade-css-icons) | 34 | 🎋🎒 A package to easily make use of Css.gg 700+ Icons in your Laravel Blade vie... |
-| [ehystiv/ServRepoMaker](https://github.com/ehystiv/ServRepoMaker) | 0 | Laravel package for Service/Repository class generator |
-| [Fadhila36/Laravel-Indonesian-Banks](https://github.com/Fadhila36/Laravel-Indonesian-Banks) | 0 | Comprehensive and lightweight Indonesian Bank data package for Laravel. Includes... |
-| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 16 | Laritor is a Laravel-native observability platform that helps you monitor, debug... |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 493 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
+| [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 494 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 483 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 481 | Provide "Sign In With Apple" functionality to your Laravel app. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-17 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-17 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-04-17 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-17 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-17 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-17 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-17 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-17 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-17 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-17 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-17 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-17 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-17 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-17 | 💳 Streamline payment processing with this PHP package that ... |
+| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 14 | 2026-04-17 |  |
+| [GraystackIT/laravel-ahasend-api](https://github.com/GraystackIT/laravel-ahasend-api) | 0 | 2026-04-17 | Laravel package to consume AhaSend API |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-17 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [niladam/filament-auto-logout](https://github.com/niladam/filament-auto-logout) | 22 | 2026-04-17 | A filament plugin that automatically logs out your users if ... |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-17 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-17 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [cable8mm/korean-job](https://github.com/cable8mm/korean-job) | 2 | 2026-04-17 | This project is intended for both Korean employees and emplo... |
+| [zislogic/ebay-api-media](https://github.com/zislogic/ebay-api-media) | 0 | 2026-04-17 | eBay Media API package for Laravel — image, video and docume... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 483 | 2026-04-17 | Easy, flexible and powerful cloud-native Laravel CMS package... |
+| [apn-ra/laravel-freeswitch-esl](https://github.com/apn-ra/laravel-freeswitch-esl) | 0 | 2026-04-17 | Production-grade Laravel package for FreeSWITCH ESL, providi... |
 | [tallcms/tallcms](https://github.com/tallcms/tallcms) | 36 | 2026-04-17 |  |
-| [RomaLytar/yammi-jobs-monitoring-laravel](https://github.com/RomaLytar/yammi-jobs-monitoring-laravel) | 9 | 2026-04-17 | A lightweight Laravel queue monitoring package that tracks j... |
+| [teckwei1993/laravel-otp](https://github.com/teckwei1993/laravel-otp) | 55 | 2026-04-17 | A package for Laravel One Time Password (OTP) generator and ... |
+| [basantashubhu/array-model](https://github.com/basantashubhu/array-model) | 0 | 2026-04-17 | A package to handle array data as a model in Laravel. |
+| [avocet-shores/laravel-rewind](https://github.com/avocet-shores/laravel-rewind) | 198 | 2026-04-17 | Version control for Eloquent models. Rewind, fast-forward, r... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 34 | 2026-04-17 | Laravel USPS Package to integrate USPS Address |
+| [al-nemirov/litres-publisher-panel](https://github.com/al-nemirov/litres-publisher-panel) | 1 | 2026-04-17 | Панель издательства для ЛитРес Самиздат — загрузка книг, мод... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-04-17 | Provides email verification on the go. |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-04-17 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [ameax/filter-core](https://github.com/ameax/filter-core) | 0 | 2026-04-17 | a laravel package for defining filters and selection open fo... |
+| [mrc4tz/mrcatz-datatables](https://github.com/mrc4tz/mrcatz-datatables) | 6 | 2026-04-17 | A full-featured Laravel DataTable package for Livewire — CRU... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-17T07:27 | 5 | 1704 | 3549 |
 | 2026-04-17T02:11 | 2 | 1706 | 3544 |
 | 2026-04-16T19:07 | 7 | 1701 | 3542 |
 | 2026-04-16T13:22 | 10 | 1696 | 3535 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-15T13:18 | 6 | 1700 | 3513 |
 | 2026-04-15T07:26 | 2 | 1705 | 3507 |
 | 2026-04-15T02:07 | 2 | 1706 | 3505 |
-| 2026-04-14T19:08 | 8 | 1700 | 3503 |
 
 ---
 

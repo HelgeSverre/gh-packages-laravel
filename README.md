@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3549  
-**Last updated:** 2026-04-17T07:27:17.390Z
+**Total packages tracked:** 3555  
+**Last updated:** 2026-04-17T13:11:30.014Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | Build reusable Filament dashboard widgets for Laravel, including sparkline table... |
+| [sashalenz/ebay-api](https://github.com/sashalenz/ebay-api) | 0 | A modern Laravel package for interacting with the eBay API. This package provide... |
+| [Dictator90/laravel-seo](https://github.com/Dictator90/laravel-seo) | 0 | Reusable Laravel SEO package |
+| [inovector/MixpostEnterpriseApp](https://github.com/inovector/MixpostEnterpriseApp) | 9 | Standalone application with Mixpost Enterprise's Laravel package pre-installed a... |
+| [pingslayer/laravel-go-reports](https://github.com/pingslayer/laravel-go-reports) | 0 | A professional-grade reporting package for Laravel that "Tunnels" complex Eloque... |
+| [tech-djoin/laravel-prometheus](https://github.com/tech-djoin/laravel-prometheus) | 6 | Laravel Prometheus is a package that allows you to integrate Prometheus, a popul... |
 | [zislogic/ebay-api-media](https://github.com/zislogic/ebay-api-media) | 0 | eBay Media API package for Laravel — image, video and document uploads via EPS a... |
 | [teckwei1993/laravel-otp](https://github.com/teckwei1993/laravel-otp) | 55 | A package for Laravel One Time Password (OTP) generator and validation without E... |
 | [ameax/filter-core](https://github.com/ameax/filter-core) | 0 | a laravel package for defining filters and selection open for multiple ui adopti... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [CodeInstinctAI/artisan-docs](https://github.com/CodeInstinctAI/artisan-docs) | 1 | Automatically generate structured reference documentation for every Artisan comm... |
 | [shekili/laravel-msm-sms-package](https://github.com/shekili/laravel-msm-sms-package) | 0 |  |
 | [oi-lab/oi-laravel-insee](https://github.com/oi-lab/oi-laravel-insee) | 0 | A Laravel package for INSEE SIRENE API integration |
-| [korridor/laravel-has-many-merged](https://github.com/korridor/laravel-has-many-merged) | 90 | Custom relationship for Eloquent that merges/combines multiple one-to-may (hasMa... |
-| [korridor/laravel-has-many-sync](https://github.com/korridor/laravel-has-many-sync) | 35 | Allow sync method for Laravel Has Many Relationship. |
-| [Circles-and-Lambdas/LarOTP](https://github.com/Circles-and-Lambdas/LarOTP) | 0 | An OTP generation and Verification Laravel Package using RFC standards rfc 4226(... |
-| [korridor/laravel-model-validation-rules](https://github.com/korridor/laravel-model-validation-rules) | 29 | This package is an alternative to the Laravel built-in validation rules exists a... |
-| [korridor/laravel-computed-attributes](https://github.com/korridor/laravel-computed-attributes) | 12 | Laravel package that adds computed attributes to eloquent models. A computed att... |
-| [mouseleo/skeleton](https://github.com/mouseleo/skeleton) | 0 | skeleton package laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-17 | 💳 Streamline payment processing with this PHP package that ... |
-| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 14 | 2026-04-17 |  |
-| [GraystackIT/laravel-ahasend-api](https://github.com/GraystackIT/laravel-ahasend-api) | 0 | 2026-04-17 | Laravel package to consume AhaSend API |
+| [RomaLytar/yammi-jobs-monitoring-laravel](https://github.com/RomaLytar/yammi-jobs-monitoring-laravel) | 9 | 2026-04-17 | A lightweight Laravel queue monitoring package that tracks j... |
+| [mosaiqo/proofread](https://github.com/mosaiqo/proofread) | 0 | 2026-04-17 | The only eval package native to the official Laravel AI stac... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-17 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [niladam/filament-auto-logout](https://github.com/niladam/filament-auto-logout) | 22 | 2026-04-17 | A filament plugin that automatically logs out your users if ... |
+| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-04-17 | This project collects the most commonly used Laravel extensi... |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 159 | 2026-04-17 | Collect everything about sent mails in your Filament app. |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 240 | 2026-04-17 | Collect everything about sent mails in your Laravel app |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-17 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-17 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [zislogic/ebay-api-media](https://github.com/zislogic/ebay-api-media) | 0 | 2026-04-17 | eBay Media API package for Laravel — image, video and docume... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 483 | 2026-04-17 | Easy, flexible and powerful cloud-native Laravel CMS package... |
-| [apn-ra/laravel-freeswitch-esl](https://github.com/apn-ra/laravel-freeswitch-esl) | 0 | 2026-04-17 | Production-grade Laravel package for FreeSWITCH ESL, providi... |
-| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 36 | 2026-04-17 |  |
-| [teckwei1993/laravel-otp](https://github.com/teckwei1993/laravel-otp) | 55 | 2026-04-17 | A package for Laravel One Time Password (OTP) generator and ... |
-| [basantashubhu/array-model](https://github.com/basantashubhu/array-model) | 0 | 2026-04-17 | A package to handle array data as a model in Laravel. |
-| [avocet-shores/laravel-rewind](https://github.com/avocet-shores/laravel-rewind) | 198 | 2026-04-17 | Version control for Eloquent models. Rewind, fast-forward, r... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 34 | 2026-04-17 | Laravel USPS Package to integrate USPS Address |
-| [al-nemirov/litres-publisher-panel](https://github.com/al-nemirov/litres-publisher-panel) | 1 | 2026-04-17 | Панель издательства для ЛитРес Самиздат — загрузка книг, мод... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-04-17 | Provides email verification on the go. |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 99 | 2026-04-17 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 4 | 2026-04-17 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 236 | 2026-04-17 | form builder for your users, with so many use cases |
+| [sashalenz/ebay-api](https://github.com/sashalenz/ebay-api) | 0 | 2026-04-17 | A modern Laravel package for interacting with the eBay API. ... |
+| [typicms/core](https://github.com/typicms/core) | 7 | 2026-04-17 | The core package of TypiCMS, containing the base architectur... |
 | [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-04-17 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
-| [ameax/filter-core](https://github.com/ameax/filter-core) | 0 | 2026-04-17 | a laravel package for defining filters and selection open fo... |
-| [mrc4tz/mrcatz-datatables](https://github.com/mrc4tz/mrcatz-datatables) | 6 | 2026-04-17 | A full-featured Laravel DataTable package for Livewire — CRU... |
+| [Circles-and-Lambdas/LarOTP](https://github.com/Circles-and-Lambdas/LarOTP) | 0 | 2026-04-17 | An OTP generation and Verification Laravel Package using RFC... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-04-17 | Resrv is a booking engine for Statamic. |
+| [Dictator90/laravel-seo](https://github.com/Dictator90/laravel-seo) | 0 | 2026-04-17 | Reusable Laravel SEO package |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-17 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-17 | Track and display Matomo analytics data directly within Lara... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-17T13:11 | 6 | 1704 | 3555 |
 | 2026-04-17T07:27 | 5 | 1704 | 3549 |
 | 2026-04-17T02:11 | 2 | 1706 | 3544 |
 | 2026-04-16T19:07 | 7 | 1701 | 3542 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-15T19:10 | 4 | 1701 | 3517 |
 | 2026-04-15T13:18 | 6 | 1700 | 3513 |
 | 2026-04-15T07:26 | 2 | 1705 | 3507 |
-| 2026-04-15T02:07 | 2 | 1706 | 3505 |
 
 ---
 

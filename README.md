@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3561  
-**Last updated:** 2026-04-17T18:55:36.736Z
+**Total packages tracked:** 3566  
+**Last updated:** 2026-04-18T02:02:07.883Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [maherelgamil/periscope](https://github.com/maherelgamil/periscope) | 1 | Universal queue monitor for Laravel — a driver-agnostic alternative to Horizon. ... |
+| [faridhafizh/kabar-kurir](https://github.com/faridhafizh/kabar-kurir) | 0 | KabarKurir - Corporate news aggregator and independent package tracking platform... |
+| [crucialdigital/metamorph](https://github.com/crucialdigital/metamorph) | 3 | Metamorph is a Laravel package that implements a data model system based on mong... |
+| [belamov/postgres-range](https://github.com/belamov/postgres-range) | 38 | Laravel package for PostgreSQL range types support |
+| [atldays/laravel-agent](https://github.com/atldays/laravel-agent) | 0 | Laravel package for parsing user-agent strings into typed browser, operating sys... |
 | [josemontano1996/laravel-octane-localization](https://github.com/josemontano1996/laravel-octane-localization) | 0 | A comprehensive, runtime-safe localization suite for Laravel 12+, with first-cla... |
 | [danilopolani/laravel-json-validation-testing](https://github.com/danilopolani/laravel-json-validation-testing) | 9 | Better JSON validation errors testing  |
 | [GraystackIT/laravel-helpspace-api](https://github.com/GraystackIT/laravel-helpspace-api) | 0 | Laravel package to consume Helpspace API |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [zislogic/ebay-api-media](https://github.com/zislogic/ebay-api-media) | 0 | eBay Media API package for Laravel — image, video and document uploads via EPS a... |
 | [teckwei1993/laravel-otp](https://github.com/teckwei1993/laravel-otp) | 55 | A package for Laravel One Time Password (OTP) generator and validation without E... |
 | [ameax/filter-core](https://github.com/ameax/filter-core) | 0 | a laravel package for defining filters and selection open for multiple ui adopti... |
-| [maylancerdev/safehaven-laravel](https://github.com/maylancerdev/safehaven-laravel) | 0 | A compact Laravel package enabling quick integration with Safe Haven MFB's API f... |
-| [maylancerdev/paystack-laravel](https://github.com/maylancerdev/paystack-laravel) | 0 | This is my package paystack-laravel |
-| [mtownsend5512/response-xml](https://github.com/mtownsend5512/response-xml) | 104 | The missing XML support for Laravel's Response class. |
-| [atldays/laravel-url](https://github.com/atldays/laravel-url) | 0 | Laravel package for URL value objects, sanitization pipelines, browser URL suppo... |
-| [mitul456/laravel-multi-role-auth](https://github.com/mitul456/laravel-multi-role-auth) | 0 | A flexible and fully-featured multi-role authentication package for Laravel, sup... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 1 | 2026-04-17 | Laravel package providing AI-powered search with Pagefind. D... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-17 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-17 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-17 | 💳 Streamline payment processing with this PHP package that ... |
-| [laravel-enso/menus](https://github.com/laravel-enso/menus) | 16 | 2026-04-17 | Laravel Enso main menu manager, for easy management of the a... |
-| [laravel-enso/localisation](https://github.com/laravel-enso/localisation) | 13 | 2026-04-17 | Laravel Enso Localisation package, meant to make it easy to ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-17 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-17 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-17 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [mosaiqo/proofread](https://github.com/mosaiqo/proofread) | 0 | 2026-04-17 | The only eval package native to the official Laravel AI stac... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-17 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [adunblock/adunblock-server-tag-laravel](https://github.com/adunblock/adunblock-server-tag-laravel) | 0 | 2026-04-17 | A Laravel package to fetch and render scripts from a remote ... |
-| [BushlanovDev/max-bot-api-client-php](https://github.com/BushlanovDev/max-bot-api-client-php) | 41 | 2026-04-17 | 🤖💬 Max Bot API Client library for PHP |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-17 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-17 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-17 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-17 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-17 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-17 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-17 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-18 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-18 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 67 | 2026-04-18 | Livewire components for AlpineFlow — build interactive flow ... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-18 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-18 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-18 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-18 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-18 |  |
+| [mosaiqo/proofread](https://github.com/mosaiqo/proofread) | 0 | 2026-04-18 | The only eval package native to the official Laravel AI stac... |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-04-18 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-04-18 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 36 | 2026-04-18 |  |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-04-18 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-04-18 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-04-18 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [apn-ra/laravel-freeswitch-esl](https://github.com/apn-ra/laravel-freeswitch-esl) | 0 | 2026-04-18 | Production-grade Laravel package for FreeSWITCH ESL, providi... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-04-18 | The Moox Project - Packages for Filament and Laravel |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-18 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-18 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-18 | 💬 Build scalable chat applications with a polymorphic chat ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-18T02:02 | 5 | 1703 | 3566 |
 | 2026-04-17T18:55 | 6 | 1703 | 3561 |
 | 2026-04-17T13:11 | 6 | 1704 | 3555 |
 | 2026-04-17T07:27 | 5 | 1704 | 3549 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-16T07:26 | 3 | 1703 | 3525 |
 | 2026-04-16T02:15 | 5 | 1700 | 3522 |
 | 2026-04-15T19:10 | 4 | 1701 | 3517 |
-| 2026-04-15T13:18 | 6 | 1700 | 3513 |
 
 ---
 

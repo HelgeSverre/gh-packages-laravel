@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3566  
-**Last updated:** 2026-04-18T02:02:07.883Z
+**Total packages tracked:** 3568  
+**Last updated:** 2026-04-18T07:02:42.183Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [felixmuhoro/laravel-mpesa](https://github.com/felixmuhoro/laravel-mpesa) | 0 | Modern, fully-typed M-Pesa Daraja 2.0 integration for Laravel 10/11/12. STK Push... |
+| [bayareawebpro/laravel-package-boilerplate](https://github.com/bayareawebpro/laravel-package-boilerplate) | 1 | My Personal Package Boilerplate |
 | [maherelgamil/periscope](https://github.com/maherelgamil/periscope) | 1 | Universal queue monitor for Laravel — a driver-agnostic alternative to Horizon. ... |
 | [faridhafizh/kabar-kurir](https://github.com/faridhafizh/kabar-kurir) | 0 | KabarKurir - Corporate news aggregator and independent package tracking platform... |
 | [crucialdigital/metamorph](https://github.com/crucialdigital/metamorph) | 3 | Metamorph is a Laravel package that implements a data model system based on mong... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [pingslayer/laravel-go-reports](https://github.com/pingslayer/laravel-go-reports) | 0 | A professional-grade reporting package for Laravel that "Tunnels" complex Eloque... |
 | [tech-djoin/laravel-prometheus](https://github.com/tech-djoin/laravel-prometheus) | 6 | Laravel Prometheus is a package that allows you to integrate Prometheus, a popul... |
 | [zislogic/ebay-api-media](https://github.com/zislogic/ebay-api-media) | 0 | eBay Media API package for Laravel — image, video and document uploads via EPS a... |
-| [teckwei1993/laravel-otp](https://github.com/teckwei1993/laravel-otp) | 55 | A package for Laravel One Time Password (OTP) generator and validation without E... |
-| [ameax/filter-core](https://github.com/ameax/filter-core) | 0 | a laravel package for defining filters and selection open for multiple ui adopti... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-18 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-18 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 67 | 2026-04-18 | Livewire components for AlpineFlow — build interactive flow ... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-18 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-18 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-18 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-18 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-18 |  |
-| [mosaiqo/proofread](https://github.com/mosaiqo/proofread) | 0 | 2026-04-18 | The only eval package native to the official Laravel AI stac... |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-04-18 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-04-18 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 36 | 2026-04-18 |  |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-04-18 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-04-18 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-04-18 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [KalimeroMK/RssFeed](https://github.com/KalimeroMK/RssFeed) | 3 | 2026-04-18 | This package provides an easy way to parse RSS feeds and sav... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-18 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-18 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [ameax/filter-core](https://github.com/ameax/filter-core) | 0 | 2026-04-18 | a laravel package for defining filters and selection open fo... |
 | [apn-ra/laravel-freeswitch-esl](https://github.com/apn-ra/laravel-freeswitch-esl) | 0 | 2026-04-18 | Production-grade Laravel package for FreeSWITCH ESL, providi... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-04-18 | The Moox Project - Packages for Filament and Laravel |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-18 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-18 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-18 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-18 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-18 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-18 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-04-18 | Laravel package providing AI-powered search with Pagefind. D... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-18 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [mrc4tz/mrcatz-datatables](https://github.com/mrc4tz/mrcatz-datatables) | 6 | 2026-04-18 | A full-featured Laravel DataTable package for Livewire — CRU... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-18 | 💳 Streamline payment processing with this PHP package that ... |
+| [pingslayer/laravel-go-reports](https://github.com/pingslayer/laravel-go-reports) | 0 | 2026-04-18 | A professional-grade reporting package for Laravel that "Tun... |
+| [glennraya/xendivel](https://github.com/glennraya/xendivel) | 42 | 2026-04-18 | A Laravel package for Xendit payment gateway. It currently s... |
+| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 67 | 2026-04-18 | Livewire components for AlpineFlow — build interactive flow ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-18 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 35 | 2026-04-18 | Laravel USPS Package to integrate USPS Address |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-18 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-18T07:02 | 2 | 1706 | 3568 |
 | 2026-04-18T02:02 | 5 | 1703 | 3566 |
 | 2026-04-17T18:55 | 6 | 1703 | 3561 |
 | 2026-04-17T13:11 | 6 | 1704 | 3555 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-16T13:22 | 10 | 1696 | 3535 |
 | 2026-04-16T07:26 | 3 | 1703 | 3525 |
 | 2026-04-16T02:15 | 5 | 1700 | 3522 |
-| 2026-04-15T19:10 | 4 | 1701 | 3517 |
 
 ---
 

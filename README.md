@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3568  
-**Last updated:** 2026-04-18T07:02:42.183Z
+**Total packages tracked:** 3571  
+**Last updated:** 2026-04-18T12:55:27.695Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [centrex/laravel-payroll](https://github.com/centrex/laravel-payroll) | 0 | payroll package for laravel |
+| [amjadAH/larascope](https://github.com/amjadAH/larascope) | 0 | A Laravel package that logs HTTP requests, SQL queries, and memory usage, with a... |
+| [lubusIN/laravel-mojo](https://github.com/lubusIN/laravel-mojo) | 15 | ✨ Expressive, fluent interface to Instamojo's payment and refund services  |
 | [felixmuhoro/laravel-mpesa](https://github.com/felixmuhoro/laravel-mpesa) | 0 | Modern, fully-typed M-Pesa Daraja 2.0 integration for Laravel 10/11/12. STK Push... |
 | [bayareawebpro/laravel-package-boilerplate](https://github.com/bayareawebpro/laravel-package-boilerplate) | 1 | My Personal Package Boilerplate |
 | [maherelgamil/periscope](https://github.com/maherelgamil/periscope) | 1 | Universal queue monitor for Laravel — a driver-agnostic alternative to Horizon. ... |
@@ -26,17 +29,14 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [sashalenz/ebay-api](https://github.com/sashalenz/ebay-api) | 0 | A modern Laravel package for interacting with the eBay API. This package provide... |
 | [Dictator90/laravel-seo](https://github.com/Dictator90/laravel-seo) | 0 | Reusable Laravel SEO package |
 | [inovector/MixpostEnterpriseApp](https://github.com/inovector/MixpostEnterpriseApp) | 9 | Standalone application with Mixpost Enterprise's Laravel package pre-installed a... |
-| [pingslayer/laravel-go-reports](https://github.com/pingslayer/laravel-go-reports) | 0 | A professional-grade reporting package for Laravel that "Tunnels" complex Eloque... |
-| [tech-djoin/laravel-prometheus](https://github.com/tech-djoin/laravel-prometheus) | 6 | Laravel Prometheus is a package that allows you to integrate Prometheus, a popul... |
-| [zislogic/ebay-api-media](https://github.com/zislogic/ebay-api-media) | 0 | eBay Media API package for Laravel — image, video and document uploads via EPS a... |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 494 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 486 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 484 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 481 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [KalimeroMK/RssFeed](https://github.com/KalimeroMK/RssFeed) | 3 | 2026-04-18 | This package provides an easy way to parse RSS feeds and sav... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-18 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-18 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-04-18 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-18 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-18 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-18 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [hihaho/laravel-js-store](https://github.com/hihaho/laravel-js-store) | 4 | 2026-04-18 | Laravel JS Store - Easily render data to your blade template... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-18 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-18 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [ameax/filter-core](https://github.com/ameax/filter-core) | 0 | 2026-04-18 | a laravel package for defining filters and selection open fo... |
-| [apn-ra/laravel-freeswitch-esl](https://github.com/apn-ra/laravel-freeswitch-esl) | 0 | 2026-04-18 | Production-grade Laravel package for FreeSWITCH ESL, providi... |
+| [creopse/laravel-package](https://github.com/creopse/laravel-package) | 0 | 2026-04-18 | Creopse laravel package. |
+| [RomaLytar/yammi-jobs-monitoring-laravel](https://github.com/RomaLytar/yammi-jobs-monitoring-laravel) | 9 | 2026-04-18 | A lightweight Laravel queue monitoring package that tracks j... |
 | [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-18 | 🚀 Simplify database interactions with this lightweight PHP ... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-18 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [bladeuix/daisyui](https://github.com/bladeuix/daisyui) | 0 | 2026-04-18 | A Laravel blade component library based on daisyUI. Install ... |
+| [centrex/laravel-btyd](https://github.com/centrex/laravel-btyd) | 0 | 2026-04-18 | Laravel package for BTYD (BG/NBD + Gamma-Gamma) CLV predicti... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-18 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-04-18 | Laravel package providing AI-powered search with Pagefind. D... |
+| [milwad-dev/laravel-attributes](https://github.com/milwad-dev/laravel-attributes) | 227 | 2026-04-18 | The package allows add and manage custom attributes on Eloqu... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-04-18 | Resrv is a booking engine for Statamic. |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-04-18 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [mrc4tz/mrcatz-datatables](https://github.com/mrc4tz/mrcatz-datatables) | 6 | 2026-04-18 | A full-featured Laravel DataTable package for Livewire — CRU... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-18 | 💳 Streamline payment processing with this PHP package that ... |
-| [pingslayer/laravel-go-reports](https://github.com/pingslayer/laravel-go-reports) | 0 | 2026-04-18 | A professional-grade reporting package for Laravel that "Tun... |
-| [glennraya/xendivel](https://github.com/glennraya/xendivel) | 42 | 2026-04-18 | A Laravel package for Xendit payment gateway. It currently s... |
-| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 67 | 2026-04-18 | Livewire components for AlpineFlow — build interactive flow ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-18 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 35 | 2026-04-18 | Laravel USPS Package to integrate USPS Address |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-18 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-18T12:55 | 3 | 1702 | 3571 |
 | 2026-04-18T07:02 | 2 | 1706 | 3568 |
 | 2026-04-18T02:02 | 5 | 1703 | 3566 |
 | 2026-04-17T18:55 | 6 | 1703 | 3561 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-16T19:07 | 7 | 1701 | 3542 |
 | 2026-04-16T13:22 | 10 | 1696 | 3535 |
 | 2026-04-16T07:26 | 3 | 1703 | 3525 |
-| 2026-04-16T02:15 | 5 | 1700 | 3522 |
 
 ---
 

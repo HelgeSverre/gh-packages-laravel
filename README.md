@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3598  
-**Last updated:** 2026-04-19T12:54:48.733Z
+**Total packages tracked:** 3607  
+**Last updated:** 2026-04-19T18:43:03.300Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [aymanalareqi/smart_upload](https://github.com/aymanalareqi/smart_upload) | 0 | Laravel package for mobile file uploads with Livewire-style temporary storage. |
+| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 |  |
+| [Zairakai/PHP-Package_laravel_essentials](https://github.com/Zairakai/PHP-Package_laravel_essentials) | 0 |  |
+| [Zairakai/PHP-Package_laravel_eloquent](https://github.com/Zairakai/PHP-Package_laravel_eloquent) | 0 |  |
+| [Zairakai/PHP-Package_laravel_dev_tools](https://github.com/Zairakai/PHP-Package_laravel_dev_tools) | 0 |  |
+| [Zairakai/PHP-Package_laravel_activity](https://github.com/Zairakai/PHP-Package_laravel_activity) | 0 |  |
+| [FinAegis/cli](https://github.com/FinAegis/cli) | 0 | Zelta CLI — manage payments, SMS, wallets, and AI agents from the terminal (auto... |
+| [Marin-Solutions/checkybot-laravel](https://github.com/Marin-Solutions/checkybot-laravel) | 0 | Laravel package for CheckyBot monitoring integration |
+| [FinAegis/payment-sdk](https://github.com/FinAegis/payment-sdk) | 0 | Zelta Payment SDK — transparent x402 and MPP payment handling for PHP (auto-sync... |
 | [EKTIRAS/billing-php](https://github.com/EKTIRAS/billing-php) | 0 | Official Laravel SDK for the EKTIR Billing API — issue Greek myDATA-compliant re... |
 | [martin-lechene/audit-laravel](https://github.com/martin-lechene/audit-laravel) | 0 | Package of Audit system for Laravel |
 | [martin-lechene/crypto-payment-laravel](https://github.com/martin-lechene/crypto-payment-laravel) | 0 | Package Laravel for connect any crypto |
@@ -20,22 +29,13 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [EG-Mohamed/OpenCharity](https://github.com/EG-Mohamed/OpenCharity) | 0 | OpenCharity is an open-source charity management platform built with Laravel and... |
 | [Dnakitare/laravel-outbox](https://github.com/Dnakitare/laravel-outbox) | 0 | Transactional outbox pattern for Laravel — events and jobs persisted atomically ... |
 | [devtoygun/laravel-masterkey](https://github.com/devtoygun/laravel-masterkey) | 0 | A master key package for laravel projects that bypasses session privileges. |
-| [LaraPire/laravel-package](https://github.com/LaraPire/laravel-package) | 16 | Easy creation with Laravel package |
-| [imjonos/laravel-emoji-reaction](https://github.com/imjonos/laravel-emoji-reaction) | 0 | Laravel emoji reaction package |
-| [laravel-enso/pdf](https://github.com/laravel-enso/pdf) | 1 | Lightweight PDF generation utility package |
-| [centrex/laravel-crm](https://github.com/centrex/laravel-crm) | 0 | crm package for laravel |
-| [uax/webman-migrate](https://github.com/uax/webman-migrate) | 0 | Laravel-style migration commands for Webman, packaged as a Composer plugin with ... |
-| [uax/webman-migrate23](https://github.com/uax/webman-migrate23) | 0 | Laravel-style migration commands for Webman, packaged as a Composer plugin with ... |
-| [wal3fo/Laravel-fail-safe](https://github.com/wal3fo/Laravel-fail-safe) | 0 | Circuit breaker package for Laravel with queue middleware, failure tracking, and... |
-| [uax/webman-migrate111](https://github.com/uax/webman-migrate111) | 0 | Laravel-style migration commands for Webman, packaged as a Composer plugin with ... |
-| [solidframe/laravel](https://github.com/solidframe/laravel) | 0 | Laravel bridge for SolidFrame architectural packages |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 494 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 487 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 488 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 481 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 449 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 444 | A package to handle multilingual routes in your Laravel application. |
-| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 442 | A simple package to help integrate Cloudflare Turnstile. |
+| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 443 | A simple package to help integrate Cloudflare Turnstile. |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 436 | A package to keep track of your pages & understand your audience |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 433 | A media picker plugin for Filament Panels. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [MarcelWeidum/filament-expiration-notice](https://github.com/MarcelWeidum/filament-expiration-notice) | 94 | 2026-04-19 | Customize the 'Page expired' livewire message into a filamen... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 388 | 2026-04-19 | Open Source Laravel CRM Package |
-| [MarcelWeidum/filament-passkeys](https://github.com/MarcelWeidum/filament-passkeys) | 61 | 2026-04-19 | Use passkeys in your filament app |
-| [hihaho/laravel-js-store](https://github.com/hihaho/laravel-js-store) | 4 | 2026-04-19 | Laravel JS Store - Easily render data to your blade template... |
-| [martin-lechene/audit-laravel](https://github.com/martin-lechene/audit-laravel) | 0 | 2026-04-19 | Package of Audit system for Laravel |
-| [martin-lechene/crypto-payment-laravel](https://github.com/martin-lechene/crypto-payment-laravel) | 0 | 2026-04-19 | Package Laravel for connect any crypto |
+| [Safemood/discountify](https://github.com/Safemood/discountify) | 232 | 2026-04-19 | Laravel package for dynamic discounts with custom conditions... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-19 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-04-19 | A Laravel package as a backend administrating tool for Conte... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-04-19 | Resrv is a booking engine for Statamic. |
-| [ChandanShakya/mary-ui-starter-kit](https://github.com/ChandanShakya/mary-ui-starter-kit) | 5 | 2026-04-19 | Laravel Volt, Mary UI project starter kit with Auth and Role... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-19 | Track and display Matomo analytics data directly within Lara... |
+| [aymanalareqi/smart_upload](https://github.com/aymanalareqi/smart_upload) | 0 | 2026-04-19 | Laravel package for mobile file uploads with Livewire-style ... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-19 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-19 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-19 | Build and manage help desk ticket systems with a Laravel 12 ... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-19 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-19 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-19 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 | [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-19 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-19 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-19 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-19 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-19 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-19 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-19 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-19 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-19 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-19 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-19 |  |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-04-19 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-04-19 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-19T18:43 | 9 | 1692 | 3607 |
 | 2026-04-19T12:54 | 4 | 1696 | 3598 |
 | 2026-04-19T07:14 | 2 | 1698 | 3594 |
 | 2026-04-19T02:23 | 14 | 1686 | 3592 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-18T02:02 | 5 | 1703 | 3566 |
 | 2026-04-17T18:55 | 6 | 1703 | 3561 |
 | 2026-04-17T13:11 | 6 | 1704 | 3555 |
-| 2026-04-17T07:27 | 5 | 1704 | 3549 |
 
 ---
 

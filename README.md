@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3622  
-**Last updated:** 2026-04-20T13:22:42.959Z
+**Total packages tracked:** 3628  
+**Last updated:** 2026-04-20T19:00:00.773Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | Fleet management for a small K-12 school district — Laravel + Filament + Postgre... |
+| [plin-code/laravel-instagram-digest](https://github.com/plin-code/laravel-instagram-digest) | 0 | Daily Telegram digest of Instagram profiles scraped via Apify. Keyword filtering... |
+| [hub-io/laravel-pdf-to](https://github.com/hub-io/laravel-pdf-to) | 3 | Laravel package for extracting text/html from a pdf or convert to image |
+| [aymanalareqi/smart-upload](https://github.com/aymanalareqi/smart-upload) | 0 | Laravel package for mobile file uploads with Livewire-style temporary storage. |
+| [akalongman/laravel-multilang](https://github.com/akalongman/laravel-multilang) | 55 | Package to integrate multi language (multi locale) functionality in Laravel 5.x. |
+| [GiorgiGrdzelidze/laravel-rsge](https://github.com/GiorgiGrdzelidze/laravel-rsge) | 0 | Laravel package for Georgian Revenue Service (rs.ge) SOAP API — Z-reports, taxpa... |
 | [illuma-law/laravel-places-scout](https://github.com/illuma-law/laravel-places-scout) | 0 | A fluent Laravel package for interacting with the Google Places API with strongl... |
 | [Fauzan-Aldi/laravel-package-tools](https://github.com/Fauzan-Aldi/laravel-package-tools) | 0 |  |
 | [celsonery/laravel-brasilapi](https://github.com/celsonery/laravel-brasilapi) | 0 | Repository for package BrasilApi api integration |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mapo-89/laravel-heizreport-api](https://github.com/mapo-89/laravel-heizreport-api) | 0 | Laravel package to work with the Heizreport API. |
 | [cslash/laravel-sharedsync](https://github.com/cslash/laravel-sharedsync) | 0 | SharedSync is a Laravel package designed for deploying applications to shared ho... |
 | [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) | 320 | A powerful package to automatically generate Postman collections from your Larav... |
-| [vherbaut/laravel-pipeline-jobs](https://github.com/vherbaut/laravel-pipeline-jobs) | 2 | A Laravel package for building job pipelines with saga pattern support |
-| [aymanalareqi/smart_upload](https://github.com/aymanalareqi/smart_upload) | 0 | Laravel package for mobile file uploads with Livewire-style temporary storage. |
-| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 |  |
-| [Zairakai/PHP-Package_laravel_essentials](https://github.com/Zairakai/PHP-Package_laravel_essentials) | 0 |  |
-| [Zairakai/PHP-Package_laravel_eloquent](https://github.com/Zairakai/PHP-Package_laravel_eloquent) | 0 |  |
-| [Zairakai/PHP-Package_laravel_dev_tools](https://github.com/Zairakai/PHP-Package_laravel_dev_tools) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [plank/laravel-schema-events](https://github.com/plank/laravel-schema-events) | 0 | 2026-04-20 | A Laravel package to emit events based on the schema changes... |
-| [michiruf/laravel-ide-helper-companion](https://github.com/michiruf/laravel-ide-helper-companion) | 1 | 2026-04-20 | Provides convenience features around the barryvdh/laravel-id... |
-| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-04-20 | A Laravel package as a backend administrating tool for Conte... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-20 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [michael-lurquin/feature-limiter](https://github.com/michael-lurquin/feature-limiter) | 1 | 2026-04-20 | A Laravel package to manage SaaS features, quotas and usage.... |
-| [Phunky/laravel-messaging](https://github.com/Phunky/laravel-messaging) | 0 | 2026-04-20 | Extensible messaging package for Laravel  |
-| [drewroberts/media](https://github.com/drewroberts/media) | 5 | 2026-04-20 | 🖼️ Laravel Package for opinionated usage of Media (images &... |
-| [Circles-and-Lambdas/LarOTP](https://github.com/Circles-and-Lambdas/LarOTP) | 0 | 2026-04-20 | An OTP generation and Verification Laravel Package using RFC... |
-| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-04-20 | The Laravel Quick Start package covers the basics of connect... |
-| [wotzebra/filament-translatable-strings](https://github.com/wotzebra/filament-translatable-strings) | 1 | 2026-04-20 | This package manages translatable strings for Laravel in Fil... |
-| [tursodatabase/turso-driver-laravel](https://github.com/tursodatabase/turso-driver-laravel) | 97 | 2026-04-20 | Turso Driver for Laravel with Native libSQL - Community SDK |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-20 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-20 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [illuma-law/laravel-places-scout](https://github.com/illuma-law/laravel-places-scout) | 0 | 2026-04-20 | A fluent Laravel package for interacting with the Google Pla... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-20 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [Safemood/discountify](https://github.com/Safemood/discountify) | 232 | 2026-04-20 | Laravel package for dynamic discounts with custom conditions... |
+| [jackbayliss/livewire-select2](https://github.com/jackbayliss/livewire-select2) | 16 | 2026-04-20 | A livewire select2 component package to help with using sele... |
+| [Phunky/laravel-messaging-playground](https://github.com/Phunky/laravel-messaging-playground) | 0 | 2026-04-20 | A playground for laravel-messaging package |
+| [oliverearl/nomiai-php-laravel](https://github.com/oliverearl/nomiai-php-laravel) | 1 | 2026-04-20 | Laravel library for interacting with the Nomi.ai API. |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 11 | 2026-04-20 | Source code for the new pokemon3d.net website |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-20 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [World-eSports-LLC/laravel-auto-tenancy](https://github.com/World-eSports-LLC/laravel-auto-tenancy) | 30 | 2026-04-20 | This Laravel package allows any laravel installation to beco... |
+| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 206 | 2026-04-20 | Laravel SmartCache - Optimize Caching for Large Data |
+| [shuxx/filament-navigation](https://github.com/shuxx/filament-navigation) | 6 | 2026-04-20 | Configure Filament navigation via PHP config file - 24 separ... |
+| [maherelgamil/periscope](https://github.com/maherelgamil/periscope) | 1 | 2026-04-20 | Universal queue monitor and manage for Laravel — a driver-ag... |
+| [ChandanShakya/mary-ui-starter-kit](https://github.com/ChandanShakya/mary-ui-starter-kit) | 5 | 2026-04-20 | Laravel Volt, Mary UI project starter kit with Auth and Role... |
 | [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-04-20 | Resrv is a booking engine for Statamic. |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-04-20 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [tomatophp/filament-meta](https://github.com/tomatophp/filament-meta) | 16 | 2026-04-20 | Convert any model on your app to pluggable model using Meta ... |
-| [Tschucki/alphavantage-laravel](https://github.com/Tschucki/alphavantage-laravel) | 7 | 2026-04-20 | Laravel Wrapper for the Alpha Vantage Stock Market API |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-04-20 | A package to create datatables using alpinejs, tailwind, liv... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-20 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [WatheqAlshowaiter/filament-sticky-table-header](https://github.com/WatheqAlshowaiter/filament-sticky-table-header) | 30 | 2026-04-20 | Make FilamentPHP tables stick when scrolling down for better... |
-| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 258 | 2026-04-20 | Queue Monitoring Package for Filament  |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 163 | 2026-04-20 | Filament plugin that allows to add dynamic, user-defined for... |
+| [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | 2026-04-20 | Fleet management for a small K-12 school district — Laravel ... |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 142 | 2026-04-20 | A Laravel package that provides a Cookies consent floating w... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-20 | Track and display Matomo analytics data directly within Lara... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-20T19:00 | 6 | 1691 | 3628 |
 | 2026-04-20T13:22 | 4 | 1696 | 3622 |
 | 2026-04-20T08:01 | 3 | 1696 | 3618 |
 | 2026-04-20T02:24 | 8 | 1691 | 3615 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-19T02:23 | 14 | 1686 | 3592 |
 | 2026-04-18T18:42 | 7 | 1694 | 3578 |
 | 2026-04-18T12:55 | 3 | 1702 | 3571 |
-| 2026-04-18T07:02 | 2 | 1706 | 3568 |
 
 ---
 

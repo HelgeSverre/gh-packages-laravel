@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3628  
-**Last updated:** 2026-04-20T19:00:00.773Z
+**Total packages tracked:** 3630  
+**Last updated:** 2026-04-21T02:11:56.507Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [artisansdk/cqrs](https://github.com/artisansdk/cqrs) | 84 | A foundational package for Command Query Responsibility Segregation (CQRS) compa... |
+| [atldays/laravel-visitor](https://github.com/atldays/laravel-visitor) | 0 | Laravel package for resolving typed visitor information from the current request... |
 | [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | Fleet management for a small K-12 school district — Laravel + Filament + Postgre... |
 | [plin-code/laravel-instagram-digest](https://github.com/plin-code/laravel-instagram-digest) | 0 | Daily Telegram digest of Instagram profiles scraped via Apify. Keyword filtering... |
 | [hub-io/laravel-pdf-to](https://github.com/hub-io/laravel-pdf-to) | 3 | Laravel package for extracting text/html from a pdf or convert to image |
@@ -27,15 +29,13 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [weblabormx/Scrapping-Plus](https://github.com/weblabormx/Scrapping-Plus) | 2 | Laravel package for scrapping with different drivers |
 | [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | Simple package for adding directives to show/hide content from crawlers |
 | [mapo-89/laravel-heizreport-api](https://github.com/mapo-89/laravel-heizreport-api) | 0 | Laravel package to work with the Heizreport API. |
-| [cslash/laravel-sharedsync](https://github.com/cslash/laravel-sharedsync) | 0 | SharedSync is a Laravel package designed for deploying applications to shared ho... |
-| [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) | 320 | A powerful package to automatically generate Postman collections from your Larav... |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 494 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 489 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 490 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-20 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-20 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [illuma-law/laravel-places-scout](https://github.com/illuma-law/laravel-places-scout) | 0 | 2026-04-20 | A fluent Laravel package for interacting with the Google Pla... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-20 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [Safemood/discountify](https://github.com/Safemood/discountify) | 232 | 2026-04-20 | Laravel package for dynamic discounts with custom conditions... |
-| [jackbayliss/livewire-select2](https://github.com/jackbayliss/livewire-select2) | 16 | 2026-04-20 | A livewire select2 component package to help with using sele... |
-| [Phunky/laravel-messaging-playground](https://github.com/Phunky/laravel-messaging-playground) | 0 | 2026-04-20 | A playground for laravel-messaging package |
-| [oliverearl/nomiai-php-laravel](https://github.com/oliverearl/nomiai-php-laravel) | 1 | 2026-04-20 | Laravel library for interacting with the Nomi.ai API. |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 11 | 2026-04-20 | Source code for the new pokemon3d.net website |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-20 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [World-eSports-LLC/laravel-auto-tenancy](https://github.com/World-eSports-LLC/laravel-auto-tenancy) | 30 | 2026-04-20 | This Laravel package allows any laravel installation to beco... |
-| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 206 | 2026-04-20 | Laravel SmartCache - Optimize Caching for Large Data |
-| [shuxx/filament-navigation](https://github.com/shuxx/filament-navigation) | 6 | 2026-04-20 | Configure Filament navigation via PHP config file - 24 separ... |
-| [maherelgamil/periscope](https://github.com/maherelgamil/periscope) | 1 | 2026-04-20 | Universal queue monitor and manage for Laravel — a driver-ag... |
-| [ChandanShakya/mary-ui-starter-kit](https://github.com/ChandanShakya/mary-ui-starter-kit) | 5 | 2026-04-20 | Laravel Volt, Mary UI project starter kit with Auth and Role... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-04-20 | Resrv is a booking engine for Statamic. |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 163 | 2026-04-20 | Filament plugin that allows to add dynamic, user-defined for... |
-| [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | 2026-04-20 | Fleet management for a small K-12 school district — Laravel ... |
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 142 | 2026-04-20 | A Laravel package that provides a Cookies consent floating w... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-20 | Track and display Matomo analytics data directly within Lara... |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 36 | 2026-04-21 |  |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-04-21 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-04-21 | The Moox Project - Packages for Filament and Laravel |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-04-21 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-04-21 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [awcodes/light-switch](https://github.com/awcodes/light-switch) | 47 | 2026-04-21 | Plugin to add theme switching (light/dark/system) to the aut... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-04-21 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 2 | 2026-04-21 | A practical work management information system built with La... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-21 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-21 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-21 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-21 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) | 142 | 2026-04-21 | Display additional context as badges alongside your Filament... |
+| [Oltrematica/laravel-role-lite](https://github.com/Oltrematica/laravel-role-lite) | 1 | 2026-04-21 | a lightweight Laravel package that provides simple role mana... |
+| [defstudio/wired-tables](https://github.com/defstudio/wired-tables) | 2 | 2026-04-21 | Laravel Livewire Datatables |
+| [maherelgamil/periscope](https://github.com/maherelgamil/periscope) | 1 | 2026-04-21 | Universal queue monitor and manage for Laravel — a driver-ag... |
+| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 13 | 2026-04-21 | A simple content page management system with a flexible cont... |
+| [omdasoft/laravel-webauthn](https://github.com/omdasoft/laravel-webauthn) | 0 | 2026-04-21 | A Laravel package that provides a backend API implementation... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-21 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [teofanis/hook-press](https://github.com/teofanis/hook-press) | 7 | 2026-04-21 | HookPress is a Laravel package that uses Composer hooks to a... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-21T02:11 | 2 | 1694 | 3630 |
 | 2026-04-20T19:00 | 6 | 1691 | 3628 |
 | 2026-04-20T13:22 | 4 | 1696 | 3622 |
 | 2026-04-20T08:01 | 3 | 1696 | 3618 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-19T07:14 | 2 | 1698 | 3594 |
 | 2026-04-19T02:23 | 14 | 1686 | 3592 |
 | 2026-04-18T18:42 | 7 | 1694 | 3578 |
-| 2026-04-18T12:55 | 3 | 1702 | 3571 |
 
 ---
 

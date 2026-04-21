@@ -2,40 +2,40 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3631  
-**Last updated:** 2026-04-21T07:44:04.233Z
+**Total packages tracked:** 3643  
+**Last updated:** 2026-04-21T13:18:08.300Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Datamedrix/support-toolset](https://github.com/Datamedrix/support-toolset) | 1 | Collection of support classes and traits for PHP. |
+| [Molnix-open-source/BouncedMailManager](https://github.com/Molnix-open-source/BouncedMailManager) | 5 |  |
+| [eerzho/opentelemetry-auto-class-laravel](https://github.com/eerzho/opentelemetry-auto-class-laravel) | 0 | Laravel integration for automatic OpenTelemetry tracing via the #[Traceable] att... |
+| [eerzho/opentelemetry-auto-class-monorepo](https://github.com/eerzho/opentelemetry-auto-class-monorepo) | 1 | Monorepo for automatic OpenTelemetry tracing via the #[Traceable] attribute |
+| [EscolaLMS/Auth](https://github.com/EscolaLMS/Auth) | 2 | Package for user authentication. Roles & Permission Management |
+| [Adeelaman/laramag](https://github.com/Adeelaman/laramag) | 0 | LaraMag is a Laravel 13 + Botble CMS based publishing platform with a modular ar... |
+| [deInternetJongens/laravel-api-factories](https://github.com/deInternetJongens/laravel-api-factories) | 12 | This package provides the database factory experience to fake Http calls in your... |
+| [muhammadsaifullah360/laravel-error-notifier](https://github.com/muhammadsaifullah360/laravel-error-notifier) | 0 | A Laravel package (9–12) that automatically sends formatted email alerts with fu... |
+| [Asjadgit/laravel-ai-package](https://github.com/Asjadgit/laravel-ai-package) | 0 | A Laravel package that provides a clean, extensible AI abstraction layer to inte... |
+| [outl1ne/nova-trumbowyg-field](https://github.com/outl1ne/nova-trumbowyg-field) | 6 | This Laravel Nova package adds a Trumbowyg field to Nova's arsenal of fields. |
+| [spatie/laravel-mobile-pass-demo](https://github.com/spatie/laravel-mobile-pass-demo) | 0 | A Laravel app to demonstrate the Laravel Mobile Pass package |
+| [hivesper/unit-conversion](https://github.com/hivesper/unit-conversion) | 3 | This package provides a powerful and flexible way to handle unit conversion in P... |
 | [openric/service](https://github.com/openric/service) | 0 | Standalone OpenRiC API service — Laravel 12, extracted from Heratio's ahg-ric pa... |
 | [artisansdk/cqrs](https://github.com/artisansdk/cqrs) | 84 | A foundational package for Command Query Responsibility Segregation (CQRS) compa... |
 | [atldays/laravel-visitor](https://github.com/atldays/laravel-visitor) | 0 | Laravel package for resolving typed visitor information from the current request... |
 | [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | Fleet management for a small K-12 school district — Laravel + Filament + Postgre... |
-| [plin-code/laravel-instagram-digest](https://github.com/plin-code/laravel-instagram-digest) | 0 | Daily Telegram digest of Instagram profiles scraped via Apify. Keyword filtering... |
+| [plin-code/laravel-instagram-digest](https://github.com/plin-code/laravel-instagram-digest) | 1 | Daily Telegram digest of Instagram profiles scraped via Apify. Keyword filtering... |
 | [hub-io/laravel-pdf-to](https://github.com/hub-io/laravel-pdf-to) | 3 | Laravel package for extracting text/html from a pdf or convert to image |
 | [aymanalareqi/smart-upload](https://github.com/aymanalareqi/smart-upload) | 0 | Laravel package for mobile file uploads with Livewire-style temporary storage. |
 | [akalongman/laravel-multilang](https://github.com/akalongman/laravel-multilang) | 54 | Package to integrate multi language (multi locale) functionality in Laravel 5.x. |
-| [GiorgiGrdzelidze/laravel-rsge](https://github.com/GiorgiGrdzelidze/laravel-rsge) | 0 | Laravel package for Georgian Revenue Service (rs.ge) SOAP API — Z-reports, taxpa... |
-| [illuma-law/laravel-places-scout](https://github.com/illuma-law/laravel-places-scout) | 0 | A fluent Laravel package for interacting with the Google Places API with strongl... |
-| [Fauzan-Aldi/laravel-package-tools](https://github.com/Fauzan-Aldi/laravel-package-tools) | 0 |  |
-| [celsonery/laravel-brasilapi](https://github.com/celsonery/laravel-brasilapi) | 0 | Repository for package BrasilApi api integration |
-| [bsh/laravel-hu-vat-validator](https://github.com/bsh/laravel-hu-vat-validator) | 4 | laravel-hu-vat-validator is a package to validate a VAT number for businesses ba... |
-| [raffaelecarelle/PhpErrorInsight-Laravel-Package](https://github.com/raffaelecarelle/PhpErrorInsight-Laravel-Package) | 1 | Laravel integration for PHP Error Insight |
-| [guysolamour/laravel-hootsuite](https://github.com/guysolamour/laravel-hootsuite) | 2 | This package allows you to interact with the hootsuite API from its Laravel appl... |
-| [Infinitietechnologies/laravel-storage-cleaner](https://github.com/Infinitietechnologies/laravel-storage-cleaner) | 0 | A Laravel package for scheduled storage cleanup with file, cache, session, log, ... |
-| [LarAIgent/larai-kit](https://github.com/LarAIgent/larai-kit) | 9 | Drop-in RAG and AI agent toolkit for Laravel — parse, chunk, embed, search, chat... |
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 31 |  |
-| [weblabormx/Scrapping-Plus](https://github.com/weblabormx/Scrapping-Plus) | 2 | Laravel package for scrapping with different drivers |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | Simple package for adding directives to show/hide content from crawlers |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 495 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 490 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 492 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 0 | 2026-04-21 | A package for laravel to enable High-performance bulk seedin... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-21 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-21 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-21 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-21 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-21 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-21 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-21 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-21 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-21 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-21 | Generate GitHub repository statistics and insights directly ... |
-| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 2 | 2026-04-21 | An opinionated Laravel package for interacting with WAHA API |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-21 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [openric/service](https://github.com/openric/service) | 0 | 2026-04-21 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-21 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 0 | 2026-04-21 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-21 | Integrate Mixpanel analytics into Filament projects to track... |
-| [basantashubhu/array-model](https://github.com/basantashubhu/array-model) | 0 | 2026-04-21 | A package to handle array data as a model in Laravel. |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-21 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-21 |  |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-04-21 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-04-21 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [umbrellio/event-tracker](https://github.com/umbrellio/event-tracker) | 2 | 2026-04-21 | Package for tracking any custom events and logging them to i... |
+| [EscolaLMS/API](https://github.com/EscolaLMS/API) | 16 | 2026-04-21 | Laravel REST API. Main module that compose all Laravel packa... |
+| [ArtemYurov/moonshine-db-joblog](https://github.com/ArtemYurov/moonshine-db-joblog) | 1 | 2026-04-21 | Job queue logging with MoonShine admin panel for Laravel |
+| [Brigada-Group/guardian](https://github.com/Brigada-Group/guardian) | 0 | 2026-04-21 | Private Laravel monitoring package. Runs security audits, he... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-04-21 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [awcodes/filament-versions](https://github.com/awcodes/filament-versions) | 43 | 2026-04-21 | A mostly useless package to display framework versions on Fi... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-04-21 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [EscolaLMS/Auth](https://github.com/EscolaLMS/Auth) | 2 | 2026-04-21 | Package for user authentication. Roles & Permission Manageme... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-04-21 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [eXolnet/laravel-translation](https://github.com/eXolnet/laravel-translation) | 3 | 2026-04-21 | Library to manage Laravel translations. |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-04-21 | A package to create datatables using alpinejs, tailwind, liv... |
+| [gigerIT/laravel-swiss-post-postcard-api-client](https://github.com/gigerIT/laravel-swiss-post-postcard-api-client) | 2 | 2026-04-21 | A Laravel package for sending physical postcards through the... |
+| [freezer278/laravel-http-client-requests-logger](https://github.com/freezer278/laravel-http-client-requests-logger) | 0 | 2026-04-21 | Laravel package for conveniently adding logging requests and... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 0 | 2026-04-21 | Package para Laravel y facturacion |
+| [Adeelaman/laramag](https://github.com/Adeelaman/laramag) | 0 | 2026-04-21 | LaraMag is a Laravel 13 + Botble CMS based publishing platfo... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-21 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-04-21 | Laravel package for AEAT Verifactu compliance with agnostic ... |
+| [deInternetJongens/laravel-api-factories](https://github.com/deInternetJongens/laravel-api-factories) | 12 | 2026-04-21 | This package provides the database factory experience to fak... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-21T13:18 | 12 | 1686 | 3643 |
 | 2026-04-21T07:44 | 1 | 1696 | 3631 |
 | 2026-04-21T02:11 | 2 | 1694 | 3630 |
 | 2026-04-20T19:00 | 6 | 1691 | 3628 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-19T18:43 | 9 | 1692 | 3607 |
 | 2026-04-19T12:54 | 4 | 1696 | 3598 |
 | 2026-04-19T07:14 | 2 | 1698 | 3594 |
-| 2026-04-19T02:23 | 14 | 1686 | 3592 |
 
 ---
 

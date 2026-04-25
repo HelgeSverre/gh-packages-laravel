@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3703  
-**Last updated:** 2026-04-24T18:16:20.366Z
+**Total packages tracked:** 3704  
+**Last updated:** 2026-04-25T00:30:15.530Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [edulazaro/laralang](https://github.com/edulazaro/laralang) | 1 | A simple but powerful localization package for Laravel |
 | [binafy/artisan-finder](https://github.com/binafy/artisan-finder) | 14 | Artisan Finder is a Laravel package that adds an interactive `find:art` command,... |
 | [NyonCode/laravel-ares](https://github.com/NyonCode/laravel-ares) | 0 | Laravel package for ARES (Czech business register) API |
 | [NayanRaval00/laravel-querypilot-package](https://github.com/NayanRaval00/laravel-querypilot-package) | 0 |  |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [zunaid-dev/Portfolio](https://github.com/zunaid-dev/Portfolio) | 0 | Modern Laravel Portfolio with REST APIs, RBAC, and Admin Dashboard |
 | [sefirosweb/laravel-access-list](https://github.com/sefirosweb/laravel-access-list) | 0 | Package for made a simply crud database for advance access list for application ... |
 | [Mohamed-Galdi/vilt-filepond](https://github.com/Mohamed-Galdi/vilt-filepond) | 12 | Laravel package for handling file uploads with FilePond in the VILT stack (Vue, ... |
-| [Datamedrix/catalogue](https://github.com/Datamedrix/catalogue) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 499 | 2026-04-24 | Easy, flexible and powerful cloud-native Laravel CMS package... |
-| [lightszentip/laravel-release-changelog-generator](https://github.com/lightszentip/laravel-release-changelog-generator) | 10 | 2026-04-24 | Generate a changelog and releases with version management wi... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-24 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-25 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-25 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-25 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [edulazaro/laratext](https://github.com/edulazaro/laratext) | 75 | 2026-04-25 | A Laravel package to easily handle translated texts and tran... |
+| [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) | 17 | 2026-04-24 | Add importing large CSV (and TSV) data feature to your Larav... |
+| [lara-zeus/zeus](https://github.com/lara-zeus/zeus) | 78 | 2026-04-24 | a standalone app., a Starter Kit; it's pre-configured to run... |
+| [rmirandasv/laravel-wompi](https://github.com/rmirandasv/laravel-wompi) | 2 | 2026-04-24 | A Laravel package to integrate with the Wompi payment gatewa... |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 37 | 2026-04-24 |  |
+| [tzsk/sms](https://github.com/tzsk/sms) | 318 | 2026-04-24 | Laravel SMS Gateway Integration Package |
+| [shaffe-fr/laravel-boost-tinker-mcp](https://github.com/shaffe-fr/laravel-boost-tinker-mcp) | 0 | 2026-04-24 | Tinker MCP tool for Laravel Boost — removed in 2.x, restored... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-04-24 | Empower your users with a modern, intuitive visual editor. T... |
+| [masmaleki/laravel-nexar-graphql](https://github.com/masmaleki/laravel-nexar-graphql) | 0 | 2026-04-24 | A Laravel package to interact with Nexar API using GraphQL |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-24 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-04-24 | 🔒 The missing package for Laravel Nova that lets you know w... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-24 | Track and display Matomo analytics data directly within Lara... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-24 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-24 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-24 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-24 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-24 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-24 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-24 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-24 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-24 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-24 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-24 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Safemood/discountify](https://github.com/Safemood/discountify) | 232 | 2026-04-24 | Laravel package for dynamic discounts with custom conditions... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-24 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-04-24 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-24 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-24 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-24 |  |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-04-24 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-24 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-25T00:30 | 1 | 1689 | 3704 |
 | 2026-04-24T18:16 | 1 | 1691 | 3703 |
 | 2026-04-24T12:23 | 7 | 1683 | 3702 |
 | 2026-04-24T06:41 | 5 | 1684 | 3695 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-23T06:40 | 2 | 1691 | 3677 |
 | 2026-04-23T00:34 | 2 | 1690 | 3675 |
 | 2026-04-22T18:24 | 8 | 1684 | 3673 |
-| 2026-04-22T12:23 | 10 | 1682 | 3665 |
 
 ---
 

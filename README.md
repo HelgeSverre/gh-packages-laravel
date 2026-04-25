@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 3704  
-**Last updated:** 2026-04-25T00:30:15.530Z
+**Last updated:** 2026-04-25T06:32:24.056Z
 
 ## 📦 Recently Discovered
 
@@ -34,7 +34,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [aimeos/pagible](https://github.com/aimeos/pagible) | 499 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
+| [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 495 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-04-25 | 💳 Streamline payment processing with this PHP package that ... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 2 | 2026-04-25 | A practical work management information system built with La... |
+| [cybercog/laravel-optimus](https://github.com/cybercog/laravel-optimus) | 192 | 2026-04-25 | Transform your internal id's to obfuscated integers based on... |
+| [crontinel/laravel](https://github.com/crontinel/laravel) | 0 | 2026-04-25 | Laravel package for Crontinel background job monitoring |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 20 | 2026-04-25 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [EG-Mohamed/OpenCharity](https://github.com/EG-Mohamed/OpenCharity) | 0 | 2026-04-25 | OpenCharity is an open-source charity management platform bu... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-04-25 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-04-25 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-04-25 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [edulazaro/laratext](https://github.com/edulazaro/laratext) | 75 | 2026-04-25 | A Laravel package to easily handle translated texts and tran... |
-| [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) | 17 | 2026-04-24 | Add importing large CSV (and TSV) data feature to your Larav... |
-| [lara-zeus/zeus](https://github.com/lara-zeus/zeus) | 78 | 2026-04-24 | a standalone app., a Starter Kit; it's pre-configured to run... |
-| [rmirandasv/laravel-wompi](https://github.com/rmirandasv/laravel-wompi) | 2 | 2026-04-24 | A Laravel package to integrate with the Wompi payment gatewa... |
-| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 37 | 2026-04-24 |  |
-| [tzsk/sms](https://github.com/tzsk/sms) | 318 | 2026-04-24 | Laravel SMS Gateway Integration Package |
-| [shaffe-fr/laravel-boost-tinker-mcp](https://github.com/shaffe-fr/laravel-boost-tinker-mcp) | 0 | 2026-04-24 | Tinker MCP tool for Laravel Boost — removed in 2.x, restored... |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-04-24 | Empower your users with a modern, intuitive visual editor. T... |
-| [masmaleki/laravel-nexar-graphql](https://github.com/masmaleki/laravel-nexar-graphql) | 0 | 2026-04-24 | A Laravel package to interact with Nexar API using GraphQL |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-24 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-04-24 | 🔒 The missing package for Laravel Nova that lets you know w... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-24 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-24 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-24 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-24 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-24 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-24 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [NyonCode/laravel-ares](https://github.com/NyonCode/laravel-ares) | 0 | 2026-04-25 | Laravel package for ARES (Czech business register) API |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-04-25 | An event sourcing laravel package, complete with all the ess... |
+| [codeplugtech/creem-payments](https://github.com/codeplugtech/creem-payments) | 0 | 2026-04-25 | Creem.io Laravel package |
+| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 236 | 2026-04-25 | form builder for your users, with so many use cases |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-04-25 | Provides email verification on the go. |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 37 | 2026-04-25 |  |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-25 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-25 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-25 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-25 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-25 | Accelerate web app development with a Laravel 12 and Filamen... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-25T06:32 | 0 | 1690 | 3704 |
 | 2026-04-25T00:30 | 1 | 1689 | 3704 |
 | 2026-04-24T18:16 | 1 | 1691 | 3703 |
 | 2026-04-24T12:23 | 7 | 1683 | 3702 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-23T12:23 | 6 | 1688 | 3683 |
 | 2026-04-23T06:40 | 2 | 1691 | 3677 |
 | 2026-04-23T00:34 | 2 | 1690 | 3675 |
-| 2026-04-22T18:24 | 8 | 1684 | 3673 |
 
 ---
 

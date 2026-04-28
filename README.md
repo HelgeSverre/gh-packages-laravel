@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3749  
-**Last updated:** 2026-04-28T00:36:13.040Z
+**Total packages tracked:** 3752  
+**Last updated:** 2026-04-28T06:56:27.726Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ITCLUB-SMEAS/point-of-sales](https://github.com/ITCLUB-SMEAS/point-of-sales) | 0 |  |
+| [endorbithu/module-micro-hybrid](https://github.com/endorbithu/module-micro-hybrid) | 3 | Laravel Package for creating Laravel local module that can be separated from the... |
+| [oi-lab/oi-laravel-development](https://github.com/oi-lab/oi-laravel-development) | 0 | A Laravel package providing essential development and initialization commands |
 | [tomatophp/filament-browser](https://github.com/tomatophp/filament-browser) | 40 | File & Folders & Media Browser With Code Editor |
 | [tomatophp/filament-subscriptions](https://github.com/tomatophp/filament-subscriptions) | 63 | Manage your subscriptions Like Spark for FilamentPHP  |
 | [tomatophp/filament-twilio](https://github.com/tomatophp/filament-twilio) | 11 | Send Whatsapp messages using Twilio and native filament Notification Facade clas... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 7 | Complete gamification package with optional UI |
 | [maleianefernando/api-shield](https://github.com/maleianefernando/api-shield) | 0 | A laravel package to add a  security layer for apis by implementing hmac, nonce ... |
 | [qirolab/laravel-bannable](https://github.com/qirolab/laravel-bannable) | 17 | Laravel bannable package for blocking and banning Eloquent models. |
-| [beingmushfiq/package_lapack5](https://github.com/beingmushfiq/package_lapack5) | 0 | A premium, CMS-driven e-commerce platform built with Laravel 13 (backend) and Re... |
-| [mikeyperes/laravel-hexa-package-google-docs](https://github.com/mikeyperes/laravel-hexa-package-google-docs) | 0 | Hexa package for reading public Google Docs content without API credentials. |
-| [AdminosCZ/skeleton](https://github.com/AdminosCZ/skeleton) | 0 | Starter Laravel + Filament template for ADMINOS client projects. Read-only mirro... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 2 | 2026-04-28 | A practical work management information system built with La... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-28 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [clercmbounghou/laravel-sso](https://github.com/clercmbounghou/laravel-sso) | 0 | 2026-04-28 | Package Laravel — Intégration SSO OAuth 2.0 ANPI-Gabon (Soci... |
+| [AdminosCZ/core](https://github.com/AdminosCZ/core) | 0 | 2026-04-28 | Core framework for ADMINOS — Laravel + Filament admin platfo... |
+| [AdminosCZ/skeleton](https://github.com/AdminosCZ/skeleton) | 0 | 2026-04-28 | Starter Laravel + Filament template for ADMINOS client proje... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-28 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-28 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-28 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-28 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-28 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-28 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-28 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-28 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-28 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-28 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-28 | Build and manage help desk ticket systems with a Laravel 12 ... |
 | [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-28 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-28 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-28 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-28 | Generate GitHub repository statistics and insights directly ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-28 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 8 | 2026-04-28 | MFAKit starter kit built on Laravel 12.x and Filament 4.x wi... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-28 | Integrate Mixpanel analytics into Filament projects to track... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-04-28 | Laravel package providing AI-powered search with Pagefind. D... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-28 | Prevent risky Laravel database migrations with static analys... |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-04-28 | Laravel Package to access AI CAD |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-04-28 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-28 | Integrate Mixpanel analytics into Filament projects to track... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 2 | 2026-04-28 | A practical work management information system built with La... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-28 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-04-28 |  |
-| [myxiaoao/blade-blueprint-icons](https://github.com/myxiaoao/blade-blueprint-icons) | 0 | 2026-04-27 | A package to easily make use of Blueprint Icons in your Lara... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-28T06:56 | 3 | 1688 | 3752 |
 | 2026-04-28T00:36 | 21 | 1669 | 3749 |
 | 2026-04-27T18:29 | 1 | 649 | 3728 |
 | 2026-04-27T12:34 | 7 | 1687 | 3737 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-26T12:16 | 2 | 1690 | 3720 |
 | 2026-04-26T06:39 | 4 | 1688 | 3718 |
 | 2026-04-26T00:32 | 4 | 1685 | 3714 |
-| 2026-04-25T18:15 | 2 | 1687 | 3710 |
 
 ---
 

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3752  
-**Last updated:** 2026-04-28T06:56:27.726Z
+**Total packages tracked:** 3757  
+**Last updated:** 2026-04-28T12:37:33.279Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [eliseekn/laravel-metrics](https://github.com/eliseekn/laravel-metrics) | 106 | Generate easily metrics and trends data of your models for your dashboards. |
+| [ginkelsoft-development/laravel-encrypted-search-index](https://github.com/ginkelsoft-development/laravel-encrypted-search-index) | 2 | Searchable encryption for Laravel models with database or Elasticsearch indexing... |
+| [stringhive/laravel](https://github.com/stringhive/laravel) | 0 | Stringhive Laravel package |
+| [wayofdev/laravel-symfony-serializer](https://github.com/wayofdev/laravel-symfony-serializer) | 21 | 🔧 Laravel + Symfony Serializer. This package provides a bridge between Laravel ... |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 477 | A full-featured Laravel package for aiding in Shopify App development |
 | [ITCLUB-SMEAS/point-of-sales](https://github.com/ITCLUB-SMEAS/point-of-sales) | 0 |  |
 | [endorbithu/module-micro-hybrid](https://github.com/endorbithu/module-micro-hybrid) | 3 | Laravel Package for creating Laravel local module that can be separated from the... |
 | [oi-lab/oi-laravel-development](https://github.com/oi-lab/oi-laravel-development) | 0 | A Laravel package providing essential development and initialization commands |
@@ -22,13 +27,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [bloginnovazione/laravel11-filament-worksite](https://github.com/bloginnovazione/laravel11-filament-worksite) | 1 | Laravel 11 and Filament example: project to manage worksite, houses, and selling |
 | [reworck/filament-settings](https://github.com/reworck/filament-settings) | 43 | Easy setting management for filament |
 | [ILDaviz/filament-language-tab](https://github.com/ILDaviz/filament-language-tab) | 4 | This package provides a language tab for the Filament admin panel. The tab allow... |
-| [mi-lopez/laravel-sso](https://github.com/mi-lopez/laravel-sso) | 60 | Single Sign-On (SSO) integration for Laravel. One central server, multiple broke... |
+| [mi-lopez/laravel-sso](https://github.com/mi-lopez/laravel-sso) | 61 | Single Sign-On (SSO) integration for Laravel. One central server, multiple broke... |
 | [clercmbounghou/laravel-sso](https://github.com/clercmbounghou/laravel-sso) | 0 | Package Laravel — Intégration SSO OAuth 2.0 ANPI-Gabon (Socialite driver) |
-| [deep-0127/OmniPorter](https://github.com/deep-0127/OmniPorter) | 0 | OmniPorter is a battle-tested Laravel package for CSV/Excel import/export. Handl... |
-| [Grazulex/laravel-chronotrace](https://github.com/Grazulex/laravel-chronotrace) | 130 | 🎥 Record and replay Laravel requests deterministically and generate tests from ... |
-| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 7 | Complete gamification package with optional UI |
-| [maleianefernando/api-shield](https://github.com/maleianefernando/api-shield) | 0 | A laravel package to add a  security layer for apis by implementing hmac, nonce ... |
-| [qirolab/laravel-bannable](https://github.com/qirolab/laravel-bannable) | 17 | Laravel bannable package for blocking and banning Eloquent models. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -39,6 +39,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 477 | A full-featured Laravel package for aiding in Shopify App development |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 454 | Add kanban boards to your Filament pages |
@@ -53,32 +54,31 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 427 | A modern PostGIS toolbox for Laravel |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 415 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
 | [protonemedia/laravel-verify-new-email](https://github.com/protonemedia/laravel-verify-new-email) | 414 | This package adds support for verifying new email addresses: when a user updates... |
-| [spatie/laravel-livewire-wizard](https://github.com/spatie/laravel-livewire-wizard) | 410 | Headless Livewire components to build wizards |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AdminosCZ/core](https://github.com/AdminosCZ/core) | 0 | 2026-04-28 | Core framework for ADMINOS — Laravel + Filament admin platfo... |
-| [AdminosCZ/skeleton](https://github.com/AdminosCZ/skeleton) | 0 | 2026-04-28 | Starter Laravel + Filament template for ADMINOS client proje... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-28 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-28 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-28 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-28 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-28 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-28 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-28 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-28 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-28 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-28 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-28 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-04-28 | Laravel package providing AI-powered search with Pagefind. D... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-28 | Prevent risky Laravel database migrations with static analys... |
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-04-28 | Laravel Package to access AI CAD |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-04-28 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-28 | Integrate Mixpanel analytics into Filament projects to track... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 2 | 2026-04-28 | A practical work management information system built with La... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-04-28 | Manage and track inventory with a PHP package that integrate... |
+| [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) | 234 | 2026-04-28 | A Sidecar function to run Browsershot on Lambda. |
+| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-04-28 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
+| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 18 | 2026-04-28 | Event-driven state machines for Laravel with event sourcing,... |
+| [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator) | 68 | 2026-04-28 | Laravel Gemini AI Translation Extractor scans your Laravel p... |
+| [ahmed-aliraqi/crud-generator](https://github.com/ahmed-aliraqi/crud-generator) | 2 | 2026-04-28 | This package is a useful tool to generate simple crud for la... |
+| [seven-io/bagisto](https://github.com/seven-io/bagisto) | 1 | 2026-04-28 | Bagisto package for sending SMS via seven |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 388 | 2026-04-28 | Open Source Laravel CRM Package |
+| [GhDj/laravel-visitor-tracker](https://github.com/GhDj/laravel-visitor-tracker) | 0 | 2026-04-28 | A Laravel package for visitor tracking with analytics, geolo... |
+| [lara-zeus/demo](https://github.com/lara-zeus/demo) | 12 | 2026-04-28 | demo for all zeus packages based on filamentphp plugins |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 21 | 2026-04-28 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [hmshafeeq/laravel-deployer](https://github.com/hmshafeeq/laravel-deployer) | 0 | 2026-04-28 | Laravel package for deployment automation with Deployer |
+| [laravel-enso/image-transformer](https://github.com/laravel-enso/image-transformer) | 6 | 2026-04-28 | Laravel Enso image transformer and optimization dependency, ... |
+| [laravel-enso/enums](https://github.com/laravel-enso/enums) | 0 | 2026-04-28 | Add Enums to your Laravel project |
+| [wayofdev/laravel-symfony-serializer](https://github.com/wayofdev/laravel-symfony-serializer) | 21 | 2026-04-28 | 🔧 Laravel + Symfony Serializer. This package provides a bri... |
+| [stringhive/laravel](https://github.com/stringhive/laravel) | 0 | 2026-04-28 | Stringhive Laravel package |
+| [eliseekn/laravel-metrics](https://github.com/eliseekn/laravel-metrics) | 106 | 2026-04-28 | Generate easily metrics and trends data of your models for y... |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 44 | 2026-04-28 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
+| [laravel-enso/core](https://github.com/laravel-enso/core) | 34 | 2026-04-28 | Laravel Enso main dependecy aggregator  |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-28 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 477 | 2026-04-28 | A full-featured Laravel package for aiding in Shopify App de... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-28T12:37 | 5 | 1687 | 3757 |
 | 2026-04-28T06:56 | 3 | 1688 | 3752 |
 | 2026-04-28T00:36 | 21 | 1669 | 3749 |
 | 2026-04-27T18:29 | 1 | 649 | 3728 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-26T18:16 | 3 | 1690 | 3723 |
 | 2026-04-26T12:16 | 2 | 1690 | 3720 |
 | 2026-04-26T06:39 | 4 | 1688 | 3718 |
-| 2026-04-26T00:32 | 4 | 1685 | 3714 |
 
 ---
 

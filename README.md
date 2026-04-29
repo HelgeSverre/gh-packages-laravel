@@ -2,14 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3780  
-**Last updated:** 2026-04-29T12:34:27.367Z
+**Total packages tracked:** 3786  
+**Last updated:** 2026-04-29T18:32:21.533Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [polirium/polirium](https://github.com/polirium/polirium) | 0 | Polirium là một nền tảng ERP (Enterprise Resource Planning) modular, được thiết ... |
+| [translation/laravel](https://github.com/translation/laravel) | 170 | Laravel translation made __('simple'). |
+| [dragomano/filament-er-diagram](https://github.com/dragomano/filament-er-diagram) | 0 | Live ER diagram panel for FilamentPHP 5 — auto-detects Eloquent models and relat... |
+| [TecClubb/laravel-sentinel](https://github.com/TecClubb/laravel-sentinel) | 0 | Laravel package for VPS node management, health monitoring, metrics, and load ba... |
+| [arafatomer66/Voyger-LaravelAdmin](https://github.com/arafatomer66/Voyger-LaravelAdmin) | 0 | Admin panel built with Laravel using the Voyager package. |
+| [volldigital/laravel-navision](https://github.com/volldigital/laravel-navision) | 2 | Fetch any data from navision using ntlm |
+| [dimasnugroho673/laravel-component-js](https://github.com/dimasnugroho673/laravel-component-js) | 0 | Simple package to render Laravel Component using Javascript |
+| [polirium/polirium](https://github.com/polirium/polirium) | 1 | Polirium là một nền tảng ERP (Enterprise Resource Planning) modular, được thiết ... |
 | [oveysrostami/laravel-persian-faker](https://github.com/oveysrostami/laravel-persian-faker) | 0 | A Laravel package for generating Persian fake data |
 | [nazmulhasan1010/nht-queue-monitor](https://github.com/nazmulhasan1010/nht-queue-monitor) | 0 | NHT Queue Monitor is a modern, enterprise-grade queue monitoring package designe... |
 | [kudashevs/laravel-share-buttons](https://github.com/kudashevs/laravel-share-buttons) | 42 | A social media share buttons package with the built-in Laravel integration. |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [yamdev07/laravel-tenant-resolver](https://github.com/yamdev07/laravel-tenant-resolver) | 4 |  |
 | [risetechapps/to-upper-for-laravel](https://github.com/risetechapps/to-upper-for-laravel) | 0 | Package To Upper atributes database |
 | [Crumbls/fanout](https://github.com/Crumbls/fanout) | 0 | A Laravel 12+ package for webhook fanouts, relays, etc. |
-| [N3XT0R/laravel-webdav-server-filament](https://github.com/N3XT0R/laravel-webdav-server-filament) | 0 | Filament admin panel integration for the Laravel WebDAV Server package. Manage W... |
-| [adamczykpiotr/laravel-balanced-queues](https://github.com/adamczykpiotr/laravel-balanced-queues) | 1 | Laravel 11.x package designed to optimize the performance and efficiency of your... |
-| [ytake/Laravel-Aspect](https://github.com/ytake/Laravel-Aspect) | 138 | aspect oriented programming Package for laravel framework |
-| [LixNew2/laravel-media-antivirus](https://github.com/LixNew2/laravel-media-antivirus) | 0 | PHP package for analyzing uploaded files, providing validation, metadata extract... |
-| [laymont/PatternRepositoryLaravel](https://github.com/laymont/PatternRepositoryLaravel) | 0 | Laravel package designed to simplify the implementation of the Repository Patter... |
-| [Flipjms/laravel-scenarios](https://github.com/Flipjms/laravel-scenarios) | 1 | This little package helps you set your Laravel application into a given state/sc... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [tegos/laravel-telescope-flusher](https://github.com/tegos/laravel-telescope-flusher) | 4 | 2026-04-29 | telescope-flusher is a Laravel package that provides a simpl... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-29 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [maleianefernando/api-shield](https://github.com/maleianefernando/api-shield) | 0 | 2026-04-29 | A laravel package to add a  security layer for apis by imple... |
-| [matheusmarnt/scoutify](https://github.com/matheusmarnt/scoutify) | 0 | 2026-04-29 | ⌘K global search modal for Laravel — multi-model Livewire UI... |
-| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 1 | 2026-04-29 | A package for laravel to enable High-performance bulk seedin... |
-| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 0 | 2026-04-29 | A Laravel package to track revisions of Eloquent models, all... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-29 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-29 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-04-29 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-29 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-29 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-29 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-29 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-29 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-04-29 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-04-29 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-04-29 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-04-29 | Integrate Mixpanel analytics into Filament projects to track... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-04-29 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-04-29 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [oxhq/canio-laravel](https://github.com/oxhq/canio-laravel) | 0 | 2026-04-29 | Browser-grade PDF rendering package for Laravel powered by S... |
+| [JonBarakMierke/PaperLink](https://github.com/JonBarakMierke/PaperLink) | 0 | 2026-04-29 | Simple request data analytics package for Laravel projects |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-04-29 | ShieldCI Laravel Package - Open-source code quality analysis... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-04-29 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-04-29 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-04-29 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [translation/laravel](https://github.com/translation/laravel) | 170 | 2026-04-29 | Laravel translation made __('simple'). |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-04-29 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-04-29 | A developer-friendly package for creating advanced Wordpress... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-04-29 | The flexible backbone for your next CMS. This powerful frame... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-04-29 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-04-29 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-04-29 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-04-29 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-04-29 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 0 | 2026-04-29 | ShieldCI Analyzer Core - Shared foundation for building stat... |
+| [tonegabes/filament-mpac](https://github.com/tonegabes/filament-mpac) | 2 | 2026-04-29 | Filament MPAC - Starter Kit idealizado para ajudar a constru... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-04-29 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-04-29 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [mikeyperes/laravel-hexa-package-chatgpt](https://github.com/mikeyperes/laravel-hexa-package-chatgpt) | 0 | 2026-04-29 | HWS Package: ChatGPT/OpenAI API integration |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-04-29T18:32 | 6 | 1694 | 3786 |
 | 2026-04-29T12:34 | 4 | 1695 | 3780 |
 | 2026-04-29T06:51 | 5 | 1695 | 3776 |
 | 2026-04-29T00:37 | 2 | 1697 | 3771 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-28T00:36 | 21 | 1669 | 3749 |
 | 2026-04-27T18:29 | 1 | 649 | 3728 |
 | 2026-04-27T12:34 | 7 | 1687 | 3737 |
-| 2026-04-27T06:55 | 3 | 1692 | 3730 |
 
 ---
 

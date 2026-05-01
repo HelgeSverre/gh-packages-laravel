@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3811  
-**Last updated:** 2026-05-01T06:56:26.473Z
+**Total packages tracked:** 3816  
+**Last updated:** 2026-05-01T12:22:12.887Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [sausin/laravel-ovh](https://github.com/sausin/laravel-ovh) | 40 | Wrapper for OVH Object Storage integration with laravel |
+| [metasyncSite/laravel-translations-client](https://github.com/metasyncSite/laravel-translations-client) | 0 | A Laravel package for syncing translations between your application and a Transl... |
+| [mrtolouei/laravel-repo-mate](https://github.com/mrtolouei/laravel-repo-mate) | 0 | A clean and flexible base repository package for Laravel that simplifies data ac... |
+| [aliziodev/laravel-biteship](https://github.com/aliziodev/laravel-biteship) | 0 | Package Laravel untuk integrasi API Biteship - aggregator pengiriman. Mempermuda... |
+| [ippanelcom/laravel-sdk](https://github.com/ippanelcom/laravel-sdk) | 2 | A Laravel package for integrating with the IPPanel SMS API. |
 | [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) | 250 | High quality automatic translate your language files into many languages using A... |
 | [RizalAnas00/laravel-status-transition](https://github.com/RizalAnas00/laravel-status-transition) | 0 | A library package utilize state machine in status workflow or transition for Lar... |
 | [Samir-Lama/laravel-queue-monitor](https://github.com/Samir-Lama/laravel-queue-monitor) | 0 | package to record failure |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cachewraith/cachewraith-dashboard](https://github.com/cachewraith/cachewraith-dashboard) | 0 | Personal life and developer control dashboard built with Laravel 13 and Filament... |
 | [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) | 203 | Added Laravel functionality to Enlightn Security Checker. Adds a command to chec... |
 | [sector27-gmbh/laravel-npm-health-checks](https://github.com/sector27-gmbh/laravel-npm-health-checks) | 0 | This package adds a Laravel Health check for npm security advisories. It runs np... |
-| [mrethical/laravel-clickhouse-extended](https://github.com/mrethical/laravel-clickhouse-extended) | 0 | Laravel ClickHouse package extension |
-| [RedSnapper/laravel-doorman](https://github.com/RedSnapper/laravel-doorman) | 0 | Role permissions package |
-| [lemoba/mobile-monetization](https://github.com/lemoba/mobile-monetization) | 0 | Laravel package for Apple/Google login verification, mobile IAP validation, Unit... |
-| [datashaman/specify](https://github.com/datashaman/specify) | 0 | AI-driven workflow for spec-led software delivery. Stories become plans become P... |
-| [avcodewizard/laravel-backup](https://github.com/avcodewizard/laravel-backup) | 2 | A Laravel package for database and storage backup with auto-cleanup. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [datashaman/specify](https://github.com/datashaman/specify) | 0 | 2026-05-01 | AI-driven workflow for spec-led software delivery. Stories b... |
-| [RizalAnas00/laravel-status-transition](https://github.com/RizalAnas00/laravel-status-transition) | 0 | 2026-05-01 | A library package utilize state machine in status workflow o... |
+| [PascalKleindienst/laravel-glimpse](https://github.com/PascalKleindienst/laravel-glimpse) | 2 | 2026-05-01 | Privacy-first, server-side analytics for Laravel 12+. |
+| [jeffersongoncalves/mobilekitv5](https://github.com/jeffersongoncalves/mobilekitv5) | 2 | 2026-05-01 | MobileKit starter kit built on Laravel 12.x, Filament 5.x an... |
 | [k-antwi/fly-cli](https://github.com/k-antwi/fly-cli) | 0 | 2026-05-01 | This a binary cli of the fly laravel package that could be r... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-01 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-01 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-01 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-01 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-01 |  |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-05-01 | Resrv is a booking engine for Statamic. |
-| [Samir-Lama/laravel-queue-monitor](https://github.com/Samir-Lama/laravel-queue-monitor) | 0 | 2026-05-01 | package to record failure |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-05-01 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-05-01 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 37 | 2026-05-01 |  |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-05-01 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-05-01 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-05-01 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-05-01 | Provides email verification on the go. |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-05-01 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-05-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [LynkByte/docs-builder](https://github.com/LynkByte/docs-builder) | 1 | 2026-05-01 | A Laravel package that compiles Markdown files and OpenAPI 3... |
+| [codeldev/laravel-schedule-log](https://github.com/codeldev/laravel-schedule-log) | 0 | 2026-05-01 | A simple Laravel package that automatically logs every sched... |
 | [typicms/core](https://github.com/typicms/core) | 7 | 2026-05-01 | The core package of TypiCMS, containing the base architectur... |
+| [georgebuilds/livewire-molecule](https://github.com/georgebuilds/livewire-molecule) | 0 | 2026-05-01 | A Livewire component for 3D molecular visualization using 3D... |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-05-01 | Collect everything about sent mails in your Filament app. |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 244 | 2026-05-01 | Collect everything about sent mails in your Laravel app |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-01 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder) | 1 | 2026-05-01 | A simpel Laravel package for easy jQuery AJAX calls and resp... |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 37 | 2026-05-01 |  |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-01 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-01 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-01 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-01 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-01 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-01 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-01 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-01 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-01T12:22 | 5 | 1689 | 3816 |
 | 2026-05-01T06:56 | 4 | 1691 | 3811 |
 | 2026-05-01T00:39 | 0 | 1695 | 3807 |
 | 2026-04-30T18:31 | 7 | 1689 | 3807 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-29T18:32 | 6 | 1694 | 3786 |
 | 2026-04-29T12:34 | 4 | 1695 | 3780 |
 | 2026-04-29T06:51 | 5 | 1695 | 3776 |
-| 2026-04-29T00:37 | 2 | 1697 | 3771 |
 
 ---
 

@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 3807  
-**Last updated:** 2026-04-30T18:31:23.652Z
+**Last updated:** 2026-05-01T00:39:30.210Z
 
 ## 📦 Recently Discovered
 
@@ -18,7 +18,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [TimeZHero/laravel-rfc9457](https://github.com/TimeZHero/laravel-rfc9457) | 0 | A package to integrate rfc9457 inside of Laravel |
 | [stukenov/crm-v1](https://github.com/stukenov/crm-v1) | 0 | Initial CRM with flexible Node-based architecture using Laravel 11 and Livewire |
 | [cachewraith/cachewraith-dashboard](https://github.com/cachewraith/cachewraith-dashboard) | 0 | Personal life and developer control dashboard built with Laravel 13 and Filament... |
-| [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) | 202 | Added Laravel functionality to Enlightn Security Checker. Adds a command to chec... |
+| [jorijn/laravel-security-checker](https://github.com/jorijn/laravel-security-checker) | 203 | Added Laravel functionality to Enlightn Security Checker. Adds a command to chec... |
 | [sector27-gmbh/laravel-npm-health-checks](https://github.com/sector27-gmbh/laravel-npm-health-checks) | 0 | This package adds a Laravel Health check for npm security advisories. It runs np... |
 | [mrethical/laravel-clickhouse-extended](https://github.com/mrethical/laravel-clickhouse-extended) | 0 | Laravel ClickHouse package extension |
 | [RedSnapper/laravel-doorman](https://github.com/RedSnapper/laravel-doorman) | 0 | Role permissions package |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [romegasoftware/laravel-schema-generator](https://github.com/romegasoftware/laravel-schema-generator) | 29 | 2026-04-30 | Generate typescript schemas for zod and others from your Lar... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-04-30 | ShieldCI Laravel Package - Open-source code quality analysis... |
-| [eramitgupta/laravel-lang-sync-inertia](https://github.com/eramitgupta/laravel-lang-sync-inertia) | 42 | 2026-04-30 | Laravel package for syncing translations with Inertia.js in ... |
-| [bnussbau/trmnl-blade](https://github.com/bnussbau/trmnl-blade) | 4 | 2026-04-30 | Blade Components on top of the TRMNL Design System |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-04-30 | Resrv is a booking engine for Statamic. |
-| [lermal/laravel-telegram-bot](https://github.com/lermal/laravel-telegram-bot) | 0 | 2026-04-30 | Laravel package for Telegram Bot API with webhook and pollin... |
-| [Sandezh/laravel-searchable](https://github.com/Sandezh/laravel-searchable) | 0 | 2026-04-30 | A lightweight Laravel package that simplifies searchable Elo... |
-| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 238 | 2026-04-30 | A Laravel package to detect and block disposable email addre... |
-| [TappNetwork/filament-maillog](https://github.com/TappNetwork/filament-maillog) | 29 | 2026-04-30 | Log outgoing emails and view them in Filament admin panel |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-04-30 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [eramitgupta/laravel-pwa](https://github.com/eramitgupta/laravel-pwa) | 172 | 2026-04-30 | A simple and easy-to-use Laravel PWA (Progressive Web App) p... |
-| [arman-telemedicall/laravel-epic-fhir](https://github.com/arman-telemedicall/laravel-epic-fhir) | 0 | 2026-04-30 | Laravel package for epic API |
-| [matheusmarnt/scoutify](https://github.com/matheusmarnt/scoutify) | 0 | 2026-04-30 | ⌘K global search modal for Laravel — multi-model Livewire UI... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-04-30 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-04-30 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-04-30 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-04-30 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-04-30 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-04-30 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-04-30 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-01 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-01 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-01 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-01 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-01 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-01 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-01 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-01 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [myxiaoao/filament-dcat-filters](https://github.com/myxiaoao/filament-dcat-filters) | 0 | 2026-05-01 | Bring Dcat Admin's powerful filter features to Filament - in... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-01 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-01 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-01 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-01 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-01 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-01 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-01 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-01 |  |
+| [cc-consulting-nv/laravel-cc-blog](https://github.com/cc-consulting-nv/laravel-cc-blog) | 0 | 2026-05-01 | Reusable Laravel package for CC Platform blog integration wi... |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-05-01 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-05-01 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-01T00:39 | 0 | 1695 | 3807 |
 | 2026-04-30T18:31 | 7 | 1689 | 3807 |
 | 2026-04-30T12:34 | 7 | 1690 | 3800 |
 | 2026-04-30T06:54 | 3 | 1695 | 3793 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-04-29T06:51 | 5 | 1695 | 3776 |
 | 2026-04-29T00:37 | 2 | 1697 | 3771 |
 | 2026-04-28T18:33 | 12 | 1687 | 3769 |
-| 2026-04-28T12:37 | 5 | 1687 | 3757 |
 
 ---
 

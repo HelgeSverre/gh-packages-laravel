@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3852  
-**Last updated:** 2026-05-03T00:36:59.933Z
+**Total packages tracked:** 3854  
+**Last updated:** 2026-05-03T06:52:58.307Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [matheusmarnt/livecharts](https://github.com/matheusmarnt/livecharts) | 0 | Reactive charts for Laravel Livewire — pure PHP, multi-engine (ApexCharts + Char... |
+| [imjonos/laravel-yoo-kassa](https://github.com/imjonos/laravel-yoo-kassa) | 1 | Laravel YooKassa package based on official PHP SDK |
 | [mateuszkulapl/playlistTracker](https://github.com/mateuszkulapl/playlistTracker) | 0 | Web application that helps users manage and track their YouTube playlists and vi... |
 | [fresns/plugin-manager](https://github.com/fresns/plugin-manager) | 50 | Enhance Laravel Apps: Organized & Scalable |
 | [felixmuhoro/laravel-mpesa-old](https://github.com/felixmuhoro/laravel-mpesa-old) | 0 | Modern, fully-typed M-Pesa Daraja 2.0 integration for Laravel 10/11/12. STK Push... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rainbow1997/testback](https://github.com/rainbow1997/testback) | 2 | This package provides articles functionality for projects that use the Backpack ... |
 | [henryejemuta/laravel-monnify](https://github.com/henryejemuta/laravel-monnify) | 13 | A laravel package to seamlessly integrate monnify api within your laravel applic... |
 | [Zhylon/open](https://github.com/Zhylon/open) | 1 | A small Laravel package that injects developer-facing messages into your applica... |
-| [fomvasss/laravel-variables](https://github.com/fomvasss/laravel-variables) | 3 | Package for saving and managing variables, configs |
-| [mohammad-fouladgar/laravel-otp](https://github.com/mohammad-fouladgar/laravel-otp) | 213 | This package provides convenient methods for sending and validating OTP notifica... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -51,7 +51,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | A media picker plugin for Filament Panels. |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 433 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 432 | A package to keep track of your pages & understand your audience |
-| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 428 | A modern PostGIS toolbox for Laravel |
+| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 429 | A modern PostGIS toolbox for Laravel |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 415 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
 | [protonemedia/laravel-verify-new-email](https://github.com/protonemedia/laravel-verify-new-email) | 414 | This package adds support for verifying new email addresses: when a user updates... |
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-03 | 💳 Streamline payment processing with this PHP package that ... |
-| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-05-03 | Dedicated Instagram account attach, authenticated browser sc... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-03 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-03 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 1 | 2026-05-03 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [lara-zeus/demo](https://github.com/lara-zeus/demo) | 12 | 2026-05-03 | demo for all zeus packages based on filamentphp plugins |
-| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-05-02 | LaraWebhook is an open-source Laravel package for securely a... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-02 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [avocet-shores/laravel-rewind](https://github.com/avocet-shores/laravel-rewind) | 198 | 2026-05-02 | Version control for Eloquent models. Rewind, fast-forward, r... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-02 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-02 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-02 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-02 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-02 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-02 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-02 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-02 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-02 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-02 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [datashaman/specify](https://github.com/datashaman/specify) | 0 | 2026-05-03 | AI-driven workflow for spec-led software delivery. Stories b... |
+| [EKTIRAS/billing-php](https://github.com/EKTIRAS/billing-php) | 0 | 2026-05-03 | Official Laravel SDK for the EKTIR Billing API — issue Greek... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-05-03 | Provides email verification on the go. |
+| [imjonos/laravel-yoo-kassa](https://github.com/imjonos/laravel-yoo-kassa) | 1 | 2026-05-03 | Laravel YooKassa package based on official PHP SDK |
+| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 97 | 2026-05-03 | Complete, ready-to-use Indonesian administrative region data... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-05-03 | Simple package for adding directives to show/hide content fr... |
+| [oliwol/laravel-slugify](https://github.com/oliwol/laravel-slugify) | 2 | 2026-05-03 | A lightweight trait to easily add slug generation to your La... |
+| [amit-eiitech/laravel-installer](https://github.com/amit-eiitech/laravel-installer) | 3 | 2026-05-03 | A package to install Laravel applications with wizard steps. |
+| [matheusmarnt/livecharts](https://github.com/matheusmarnt/livecharts) | 0 | 2026-05-03 | Reactive charts for Laravel Livewire — pure PHP, multi-engin... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-03 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [gowelle/flutterwave-php](https://github.com/gowelle/flutterwave-php) | 0 | 2026-05-03 | Modern Laravel package for Flutterwave v4 API integration |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-03 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-03 | Track and display Matomo analytics data directly within Lara... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-03 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-03 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-03 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-03 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-03 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-03 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-03 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-03T06:52 | 2 | 1690 | 3854 |
 | 2026-05-03T00:36 | 9 | 1684 | 3852 |
 | 2026-05-02T18:19 | 8 | 1685 | 3843 |
 | 2026-05-02T12:20 | 6 | 1687 | 3835 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-01T12:22 | 5 | 1689 | 3816 |
 | 2026-05-01T06:56 | 4 | 1691 | 3811 |
 | 2026-05-01T00:39 | 0 | 1695 | 3807 |
-| 2026-04-30T18:31 | 7 | 1689 | 3807 |
 
 ---
 

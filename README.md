@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3854  
-**Last updated:** 2026-05-03T06:52:58.307Z
+**Total packages tracked:** 3864  
+**Last updated:** 2026-05-03T12:18:53.252Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Code-harness/VerbalSafe](https://github.com/Code-harness/VerbalSafe) | 0 | VerbalSafe: A high-performance, multilingual profanity filter and content modera... |
+| [rodmarzavala/infile-php-laravel](https://github.com/rodmarzavala/infile-php-laravel) | 0 |  |
+| [JordanDalton/LaravelAI](https://github.com/JordanDalton/LaravelAI) | 11 | Laravel AI Package |
+| [authn-sh/sdk-php-laravel](https://github.com/authn-sh/sdk-php-laravel) | 0 | Laravel package for authn.sh — service provider, middleware, Blade directives, f... |
+| [novay/logify](https://github.com/novay/logify) | 0 | [Personal Use] A Laravel package to simplify activity logging and track user act... |
+| [authn-sh/sdk-php](https://github.com/authn-sh/sdk-php) | 0 | PHP backend SDK for authn.sh. BAPI client, JWT verification, webhook signature v... |
+| [lizzj/laravel-mino](https://github.com/lizzj/laravel-mino) | 0 | A custom Laravel package with mino authentication guard. |
+| [alive2tinker/laravel-docker-builder](https://github.com/alive2tinker/laravel-docker-builder) | 0 | A Laravel package for generating Docker configurations for Laravel applications |
+| [rxcod9/joy-voyager-laravel-demo](https://github.com/rxcod9/joy-voyager-laravel-demo) | 5 | Joy Voyager Laravel Demo shows integration of Joy Voyager Packages with Voyager. |
+| [rxcod9/joy-voyager-crm-demo](https://github.com/rxcod9/joy-voyager-crm-demo) | 1 | Joy Voyager Crm Demo shows integration of Joy Voyager CRM package with Voyager. |
 | [matheusmarnt/livecharts](https://github.com/matheusmarnt/livecharts) | 0 | Reactive charts for Laravel Livewire — pure PHP, multi-engine (ApexCharts + Char... |
 | [imjonos/laravel-yoo-kassa](https://github.com/imjonos/laravel-yoo-kassa) | 1 | Laravel YooKassa package based on official PHP SDK |
 | [mateuszkulapl/playlistTracker](https://github.com/mateuszkulapl/playlistTracker) | 0 | Web application that helps users manage and track their YouTube playlists and vi... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [fresns/dto](https://github.com/fresns/dto) | 1 | Fresns data transfer object extension package for easy generation of data rules ... |
 | [digitaldev-lx/laravel-invoice-express](https://github.com/digitaldev-lx/laravel-invoice-express) | 0 | Laravel package for the InvoiceXpress API V2 (Portuguese invoicing). Multi-accou... |
 | [fomvasss/laravel-meta-tags](https://github.com/fomvasss/laravel-meta-tags) | 31 | A package to manage SEO Meta Tags |
-| [AffanAbd97/laravel-repokit](https://github.com/AffanAbd97/laravel-repokit) | 1 | Laravel package for repository & service scaffolding |
-| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | Modular monolith skeleton for Fluxio (Laravel 11 API, Nuxt 3 frontend, modular p... |
-| [emotality/laravel-telegram-logger](https://github.com/emotality/laravel-telegram-logger) | 2 | Laravel package to report exceptions to a Telegram chat, group or channel. |
-| [visualbuilder/youtrack-cli](https://github.com/visualbuilder/youtrack-cli) | 0 | Laravel package providing CLI tools for JetBrains Youtrack tickets.  |
-| [iamkarsoft/kudi](https://github.com/iamkarsoft/kudi) | 3 | Laravel package to convert currencies to/from Ghana Cedis(GHS). |
-| [Rezawirakusuma5247/Inventory](https://github.com/Rezawirakusuma5247/Inventory) | 0 | Membuat Website Inventory Gudang menggunakan Laravel 12 dengan instalasi package... |
-| [laravel-mailjet/laravel-mailjet](https://github.com/laravel-mailjet/laravel-mailjet) | 0 | Laravel package for Mailjet API V3 and Laravel Mailjet Mail Transport |
-| [rainbow1997/testback](https://github.com/rainbow1997/testback) | 2 | This package provides articles functionality for projects that use the Backpack ... |
-| [henryejemuta/laravel-monnify](https://github.com/henryejemuta/laravel-monnify) | 13 | A laravel package to seamlessly integrate monnify api within your laravel applic... |
-| [Zhylon/open](https://github.com/Zhylon/open) | 1 | A small Laravel package that injects developer-facing messages into your applica... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [datashaman/specify](https://github.com/datashaman/specify) | 0 | 2026-05-03 | AI-driven workflow for spec-led software delivery. Stories b... |
-| [EKTIRAS/billing-php](https://github.com/EKTIRAS/billing-php) | 0 | 2026-05-03 | Official Laravel SDK for the EKTIR Billing API — issue Greek... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-05-03 | Provides email verification on the go. |
-| [imjonos/laravel-yoo-kassa](https://github.com/imjonos/laravel-yoo-kassa) | 1 | 2026-05-03 | Laravel YooKassa package based on official PHP SDK |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 97 | 2026-05-03 | Complete, ready-to-use Indonesian administrative region data... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-05-03 | Simple package for adding directives to show/hide content fr... |
-| [oliwol/laravel-slugify](https://github.com/oliwol/laravel-slugify) | 2 | 2026-05-03 | A lightweight trait to easily add slug generation to your La... |
-| [amit-eiitech/laravel-installer](https://github.com/amit-eiitech/laravel-installer) | 3 | 2026-05-03 | A package to install Laravel applications with wizard steps. |
-| [matheusmarnt/livecharts](https://github.com/matheusmarnt/livecharts) | 0 | 2026-05-03 | Reactive charts for Laravel Livewire — pure PHP, multi-engin... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-03 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [gowelle/flutterwave-php](https://github.com/gowelle/flutterwave-php) | 0 | 2026-05-03 | Modern Laravel package for Flutterwave v4 API integration |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-03 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [authn-sh/sdk-php-laravel](https://github.com/authn-sh/sdk-php-laravel) | 0 | 2026-05-03 | Laravel package for authn.sh — service provider, middleware,... |
+| [visualbuilder/youtrack-cli](https://github.com/visualbuilder/youtrack-cli) | 1 | 2026-05-03 | Laravel package providing CLI tools for JetBrains Youtrack t... |
+| [Code-harness/VerbalSafe](https://github.com/Code-harness/VerbalSafe) | 0 | 2026-05-03 | VerbalSafe: A high-performance, multilingual profanity filte... |
+| [libredesarrollo/book-course-laravel-base-package](https://github.com/libredesarrollo/book-course-laravel-base-package) | 0 | 2026-05-03 |  |
+| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 2 | 2026-05-03 | A package for laravel to enable High-performance bulk seedin... |
+| [ryoogenmedia/absensi-sekolah-qrcode](https://github.com/ryoogenmedia/absensi-sekolah-qrcode) | 0 | 2026-05-03 | Sistem aplikasi sekolah berbasis qr code dengan menggunakan ... |
+| [authn-sh/sdk-php](https://github.com/authn-sh/sdk-php) | 0 | 2026-05-03 | PHP backend SDK for authn.sh. BAPI client, JWT verification,... |
+| [novay/logify](https://github.com/novay/logify) | 0 | 2026-05-03 | [Personal Use] A Laravel package to simplify activity loggin... |
+| [iamkarsoft/kudi](https://github.com/iamkarsoft/kudi) | 3 | 2026-05-03 | Laravel package to convert currencies to/from Ghana Cedis(GH... |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-05-03 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 104 | 2026-05-03 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 2 | 2026-05-03 | A practical work management information system built with La... |
+| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-05-03 | A laravel based E Commerce Package Developed using PHP |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-05-03 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-03 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-03 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-03 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [datashaman/specify](https://github.com/datashaman/specify) | 0 | 2026-05-03 | AI-driven workflow for spec-led software delivery. Stories b... |
 | [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-03 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-03 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-03 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-03 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-03 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-03 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-03T12:18 | 10 | 1683 | 3864 |
 | 2026-05-03T06:52 | 2 | 1690 | 3854 |
 | 2026-05-03T00:36 | 9 | 1684 | 3852 |
 | 2026-05-02T18:19 | 8 | 1685 | 3843 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-01T18:24 | 7 | 1686 | 3823 |
 | 2026-05-01T12:22 | 5 | 1689 | 3816 |
 | 2026-05-01T06:56 | 4 | 1691 | 3811 |
-| 2026-05-01T00:39 | 0 | 1695 | 3807 |
 
 ---
 

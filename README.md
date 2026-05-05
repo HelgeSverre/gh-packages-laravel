@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3882  
-**Last updated:** 2026-05-04T18:34:09.400Z
+**Total packages tracked:** 3896  
+**Last updated:** 2026-05-05T00:35:39.212Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-multifactor-passkeys](https://github.com/jeffersongoncalves/filament-multifactor-passkeys) | 3 | Filament 5 multi-factor authentication via WebAuthn passkeys, powered by spatie/... |
+| [creasico/laravel-dusk-browserstack](https://github.com/creasico/laravel-dusk-browserstack) | 2 | Additional BrowserStack support for Laravel Dusk |
+| [openfoodfacts/openfoodfacts-laravel](https://github.com/openfoodfacts/openfoodfacts-laravel) | 185 | Open Food Facts API wrapper for Laravel |
+| [evo-mark/laravel-service-facades](https://github.com/evo-mark/laravel-service-facades) | 0 | Support package for easily using the service/facade pattern |
+| [azaharizaman/nexus-laravel-auditlogger-adapter](https://github.com/azaharizaman/nexus-laravel-auditlogger-adapter) | 0 | Laravel adapter for AuditLogger package |
+| [azaharizaman/nexus-laravel-featureflags-adapter](https://github.com/azaharizaman/nexus-laravel-featureflags-adapter) | 0 | Laravel adapter for FeatureFlags package |
+| [azaharizaman/nexus-laravel-identity-adapter](https://github.com/azaharizaman/nexus-laravel-identity-adapter) | 0 | Laravel adapter for Identity package with authentication/authorization |
+| [azaharizaman/nexus-laravel-tenant-adapter](https://github.com/azaharizaman/nexus-laravel-tenant-adapter) | 0 | Laravel adapter for Tenant package with multi-tenant support |
+| [azaharizaman/nexus-laravel-setting-adapter](https://github.com/azaharizaman/nexus-laravel-setting-adapter) | 0 | Laravel adapter for Setting package with configuration management |
+| [ged-api-br/ged-api-laravel](https://github.com/ged-api-br/ged-api-laravel) | 1 | Laravel Package oficial para integração com o GED.API.BR |
+| [azaharizaman/nexus-laravel-sales](https://github.com/azaharizaman/nexus-laravel-sales) | 0 | Laravel adapter for Sales package with cross-package integrations |
+| [azaharizaman/nexus-laravel-monitoring-adapter](https://github.com/azaharizaman/nexus-laravel-monitoring-adapter) | 0 | Laravel adapter for Monitoring package |
+| [joshdonnell/skeleton-package](https://github.com/joshdonnell/skeleton-package) | 0 | A barebones skeleton for building Laravel packages pre-configured with Pest, Pin... |
+| [jigar-dhulla/laravel-whatsapp-ai-agent](https://github.com/jigar-dhulla/laravel-whatsapp-ai-agent) | 0 | A Laravel package for building WhatsApp AI agents on top of wacli |
 | [Alisson-Ribeiro/test](https://github.com/Alisson-Ribeiro/test) | 0 | Almost a full ERP - containing reports with filters, option to export reports in... |
 | [JoseSierraDev/laravel-service-gateway](https://github.com/JoseSierraDev/laravel-service-gateway) | 1 | LaravelServiceGateway is a package that simplifies the creation of Service and G... |
 | [TheDoctor0/laravel-mailjet-driver](https://github.com/TheDoctor0/laravel-mailjet-driver) | 33 | Laravel mail driver package for Mailjet and wrapper for its API |
 | [navidbakhtiary/bersiv-api-response](https://github.com/navidbakhtiary/bersiv-api-response) | 0 | Laravel package for standardized API response structures. |
 | [GraystackIT/laravel-dymo-printer](https://github.com/GraystackIT/laravel-dymo-printer) | 0 | Laravel package to use dymo printers in an easy way |
 | [DevM3Team/paged-index](https://github.com/DevM3Team/paged-index) | 1 | This package offers a class that creates a quick implementation of a server-side... |
-| [blob-am/laravel-vcr-am](https://github.com/blob-am/laravel-vcr-am) | 0 | Read-only Composer package mirror of packages/laravel/ from blob-am/vcr-am-php (... |
-| [sajidwarner/laratrack](https://github.com/sajidwarner/laratrack) | 5 | A comprehensive Laravel package for detecting browsers, devices, robots, platfor... |
-| [perspikapps/laravel-envribbon](https://github.com/perspikapps/laravel-envribbon) | 0 | Displays current environment & version in top left corner |
-| [MahfujuRahman/localization](https://github.com/MahfujuRahman/localization) | 0 | A Laravel package that provides three Artisan commands to fully automate your tr... |
-| [sajidwarner/laravel-device-detector](https://github.com/sajidwarner/laravel-device-detector) | 5 | A comprehensive Laravel package for detecting browsers, devices, robots, platfor... |
-| [Fozimat/laravel-telegram-monitor](https://github.com/Fozimat/laravel-telegram-monitor) | 1 | Telegram error monitoring package for Laravel applications |
-| [lets-make-dev/laravel-security](https://github.com/lets-make-dev/laravel-security) | 0 | Modern security headers for Laravel — turn-key. Strict CSP with per-request nonc... |
-| [nightshift-foundry/laravel-alertstream](https://github.com/nightshift-foundry/laravel-alertstream) | 0 | A Laravel package for logging and reporting debug information with full stacktra... |
-| [Manzikevin/VerbalSafe](https://github.com/Manzikevin/VerbalSafe) | 1 | VerbalSafe: A high-performance, multilingual profanity filter and content modera... |
-| [ghostcompiler/ghostgrid](https://github.com/ghostcompiler/ghostgrid) | 0 | Laravel tenant reseller commerce package with master pricelists, storefront prod... |
-| [Garanaw/laravel-configurer](https://github.com/Garanaw/laravel-configurer) | 0 | This package adds some basic libraries to laravel |
-| [sohrab-az/laravel-taxonomy](https://github.com/sohrab-az/laravel-taxonomy) | 0 | A flexible taxonomy package for Laravel |
-| [Code-harness/VerbalSafe](https://github.com/Code-harness/VerbalSafe) | 0 | VerbalSafe: A high-performance, multilingual profanity filter and content modera... |
-| [rodmarzavala/infile-php-laravel](https://github.com/rodmarzavala/infile-php-laravel) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [datashaman/specify](https://github.com/datashaman/specify) | 0 | 2026-05-04 | AI-driven workflow for spec-led software delivery. Stories b... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-04 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-04 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-04 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-04 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-04 |  |
-| [gigerIT/laravel-mysql-optimize](https://github.com/gigerIT/laravel-mysql-optimize) | 2 | 2026-05-04 | A Laravel package for optimizing MySQL/MariaDB database tabl... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-04 | The Moox Project - Packages for Filament and Laravel |
-| [eXolnet/laravel-status](https://github.com/eXolnet/laravel-status) | 0 | 2026-05-04 | The eXolnet Laravel Status package extends the base features... |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-05-04 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 9 | 2026-05-05 | MFAKit starter kit built on Laravel 12.x and Filament 4.x wi... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-05 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-05 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-05 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-05 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [ArielMejiaDev/healing-factor](https://github.com/ArielMejiaDev/healing-factor) | 0 | 2026-05-05 | Laravel Package to get Healing Factor Powers |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-05 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-05 | Integrate Mixpanel analytics into Filament projects to track... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-05 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-05 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-05 |  |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-05-04 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-05-04 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-05-04 | 📈 Access real-time cryptocurrency data easily with this PHP... |
 | [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-05-04 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [numaxlab/lunar-geslib](https://github.com/numaxlab/lunar-geslib) | 1 | 2026-05-04 | This package integrates Geslib with the Lunar e-commerce pla... |
-| [JoseSierraDev/laravel-service-gateway](https://github.com/JoseSierraDev/laravel-service-gateway) | 1 | 2026-05-04 | LaravelServiceGateway is a package that simplifies the creat... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-05-04 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-05-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-05-04 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [mahmoudmohamedramadan/easy-model](https://github.com/mahmoudmohamedramadan/easy-model) | 10 | 2026-05-04 | A Laravel package for enjoyably managing database queries. |
+| [evo-mark/laravel-service-facades](https://github.com/evo-mark/laravel-service-facades) | 0 | 2026-05-04 | Support package for easily using the service/facade pattern |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-05-04 | A Laravel-based web application that tracks, analyzes, and p... |
+| [azaharizaman/nexus-laravel-auditlogger-adapter](https://github.com/azaharizaman/nexus-laravel-auditlogger-adapter) | 0 | 2026-05-04 | Laravel adapter for AuditLogger package |
+| [azaharizaman/nexus-laravel-featureflags-adapter](https://github.com/azaharizaman/nexus-laravel-featureflags-adapter) | 0 | 2026-05-04 | Laravel adapter for FeatureFlags package |
+| [azaharizaman/nexus-laravel-identity-adapter](https://github.com/azaharizaman/nexus-laravel-identity-adapter) | 0 | 2026-05-04 | Laravel adapter for Identity package with authentication/aut... |
+| [azaharizaman/nexus-laravel-tenant-adapter](https://github.com/azaharizaman/nexus-laravel-tenant-adapter) | 0 | 2026-05-04 | Laravel adapter for Tenant package with multi-tenant support |
+| [azaharizaman/nexus-laravel-setting-adapter](https://github.com/azaharizaman/nexus-laravel-setting-adapter) | 0 | 2026-05-04 | Laravel adapter for Setting package with configuration manag... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-05T00:35 | 14 | 1681 | 3896 |
 | 2026-05-04T18:34 | 6 | 1685 | 3882 |
 | 2026-05-04T12:35 | 2 | 1688 | 3876 |
 | 2026-05-04T07:03 | 4 | 1686 | 3874 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-03T06:52 | 2 | 1690 | 3854 |
 | 2026-05-03T00:36 | 9 | 1684 | 3852 |
 | 2026-05-02T18:19 | 8 | 1685 | 3843 |
-| 2026-05-02T12:20 | 6 | 1687 | 3835 |
 
 ---
 

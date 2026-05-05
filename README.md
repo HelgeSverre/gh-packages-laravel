@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3906  
-**Last updated:** 2026-05-05T12:27:40.111Z
+**Total packages tracked:** 3915  
+**Last updated:** 2026-05-05T18:31:57.884Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [fsaraviamunayco-collab/aec-finanzas](https://github.com/fsaraviamunayco-collab/aec-finanzas) | 0 | Sistema SaaS de tesorería y finanzas para PyMEs peruanas. Laravel 13 + Livewire ... |
+| [uepg/laravel-sybase](https://github.com/uepg/laravel-sybase) | 36 | Connection and Laravel Eloquent driver for Sybase  |
+| [another-universe/laravel-cqbus-mediator](https://github.com/another-universe/laravel-cqbus-mediator) | 0 | Lightweight, modern CQS Mediator for Laravel using PHP 8 attributes and auto-dis... |
+| [ravuthz/laravel-crud](https://github.com/ravuthz/laravel-crud) | 1 | Generate CRUD API include models, migrations, controllers with resources and req... |
+| [JPBetley/laravel-storyblok](https://github.com/JPBetley/laravel-storyblok) | 0 | Laravel package to integrate your application with the Storyblok API |
+| [sohrab-az/laravel-comment](https://github.com/sohrab-az/laravel-comment) | 0 | A flexible comment package for Laravel |
+| [Mrkiyani001/Laravel-Weather-Mcp](https://github.com/Mrkiyani001/Laravel-Weather-Mcp) | 0 | Plug-and-play Laravel MCP package to equip your AI assistants (Claude, Cursor) w... |
+| [Jorzel21/laravel-asaas](https://github.com/Jorzel21/laravel-asaas) | 0 | A Package of Asaas in Laravel |
+| [alariva/laravel-email-domain-blacklist](https://github.com/alariva/laravel-email-domain-blacklist) | 47 | Laravel package to validate that email input is not blacklisted for a specific d... |
 | [palpalani/laravel-dns-deny-list-check](https://github.com/palpalani/laravel-dns-deny-list-check) | 2 | Laravel package to verify IPs against trusted DNSBL/RBL services, helping detect... |
 | [Sayogi-lgtm/Todo-list-App](https://github.com/Sayogi-lgtm/Todo-list-App) | 0 | Mencoba membuat Aplikasi Todolist untuk tugas maupun pekerjaan, dengan menggunak... |
 | [paulo-hortelan/signum](https://github.com/paulo-hortelan/signum) | 0 | Laravel package for generating, digitally signing, validating, and exporting cou... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ashraful19/laravel-mailbridge](https://github.com/ashraful19/laravel-mailbridge) | 0 | Provider-neutral transactional and marketing email bridge for Laravel 12+, using... |
 | [Ronald-PH/abandoned-package-do-not-use](https://github.com/Ronald-PH/abandoned-package-do-not-use) | 9 | Secure your Laravel app's data with Laravel Blockchain. Create immutable, crypto... |
 | [jeffersongoncalves/filament-multifactor-passkeys](https://github.com/jeffersongoncalves/filament-multifactor-passkeys) | 3 | Filament 5 multi-factor authentication via WebAuthn passkeys, powered by spatie/... |
-| [creasico/laravel-dusk-browserstack](https://github.com/creasico/laravel-dusk-browserstack) | 2 | Additional BrowserStack support for Laravel Dusk |
-| [openfoodfacts/openfoodfacts-laravel](https://github.com/openfoodfacts/openfoodfacts-laravel) | 185 | Open Food Facts API wrapper for Laravel |
-| [evo-mark/laravel-service-facades](https://github.com/evo-mark/laravel-service-facades) | 0 | Support package for easily using the service/facade pattern |
-| [azaharizaman/nexus-laravel-auditlogger-adapter](https://github.com/azaharizaman/nexus-laravel-auditlogger-adapter) | 0 | Laravel adapter for AuditLogger package |
-| [azaharizaman/nexus-laravel-featureflags-adapter](https://github.com/azaharizaman/nexus-laravel-featureflags-adapter) | 0 | Laravel adapter for FeatureFlags package |
-| [azaharizaman/nexus-laravel-identity-adapter](https://github.com/azaharizaman/nexus-laravel-identity-adapter) | 0 | Laravel adapter for Identity package with authentication/authorization |
-| [azaharizaman/nexus-laravel-tenant-adapter](https://github.com/azaharizaman/nexus-laravel-tenant-adapter) | 0 | Laravel adapter for Tenant package with multi-tenant support |
-| [azaharizaman/nexus-laravel-setting-adapter](https://github.com/azaharizaman/nexus-laravel-setting-adapter) | 0 | Laravel adapter for Setting package with configuration management |
-| [ged-api-br/ged-api-laravel](https://github.com/ged-api-br/ged-api-laravel) | 1 | Laravel Package oficial para integração com o GED.API.BR |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [typicms/core](https://github.com/typicms/core) | 7 | 2026-05-05 | The core package of TypiCMS, containing the base architectur... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 26 | 2026-05-05 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [numaxlab/lunar-geslib](https://github.com/numaxlab/lunar-geslib) | 1 | 2026-05-05 | This package integrates Geslib with the Lunar e-commerce pla... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 388 | 2026-05-05 | Open Source Laravel CRM Package |
-| [Circles-and-Lambdas/LarOTP](https://github.com/Circles-and-Lambdas/LarOTP) | 0 | 2026-05-05 | An OTP generation and Verification Laravel Package using RFC... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-05 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-05-05 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-05-05 | A developer-friendly package for creating advanced Wordpress... |
-| [Sayogi-lgtm/Todo-list-App](https://github.com/Sayogi-lgtm/Todo-list-App) | 0 | 2026-05-05 | Mencoba membuat Aplikasi Todolist untuk tugas maupun pekerja... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-05-05 | Main Webampp laravel package for GEOBOX 2.0 |
-| [RedberryProducts/mcp-client-laravel](https://github.com/RedberryProducts/mcp-client-laravel) | 13 | 2026-05-05 | Laravel-native client for Model Context Protocol (MCP) serve... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-05 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [joshdonnell/skeleton-package](https://github.com/joshdonnell/skeleton-package) | 0 | 2026-05-05 | A barebones skeleton for building Laravel packages pre-confi... |
-| [beingmushfiq/package_lapack5](https://github.com/beingmushfiq/package_lapack5) | 0 | 2026-05-05 | A premium, CMS-driven e-commerce platform built with Laravel... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-05 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [paulo-hortelan/signum](https://github.com/paulo-hortelan/signum) | 0 | 2026-05-05 | Laravel package for generating, digitally signing, validatin... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-05 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-05 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 104 | 2026-05-05 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-05 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-05 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [ravuthz/laravel-crud](https://github.com/ravuthz/laravel-crud) | 1 | 2026-05-05 | Generate CRUD API include models, migrations, controllers wi... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-05 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [JPBetley/laravel-storyblok](https://github.com/JPBetley/laravel-storyblok) | 0 | 2026-05-05 | Laravel package to integrate your application with the Story... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-05-05 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
+| [mikeyperes/laravel-hexa-package-chatgpt](https://github.com/mikeyperes/laravel-hexa-package-chatgpt) | 0 | 2026-05-05 | HWS Package: ChatGPT/OpenAI API integration |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-05 | 💰 Simplify your financial management with Finova, an open-s... |
+| [N3XT0R/laravel-webdav-server-filament](https://github.com/N3XT0R/laravel-webdav-server-filament) | 0 | 2026-05-05 | Filament admin panel integration for the Laravel WebDAV Serv... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-05 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-05-05 | Laravel Package to access AI CAD |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-05 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-05 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-05 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [hewerthomn/laravel-error-tracker](https://github.com/hewerthomn/laravel-error-tracker) | 1 | 2026-05-05 | Laravel error tracking package with local dashboard and user... |
+| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-05-05 | Dedicated Instagram account attach, authenticated browser sc... |
+| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-05-05 | LaraWebhook is an open-source Laravel package for securely a... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-05 | ✨ Build robust Laravel applications with the Filament Starte... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-05T18:31 | 9 | 1688 | 3915 |
 | 2026-05-05T12:27 | 7 | 1688 | 3906 |
 | 2026-05-05T06:48 | 3 | 1691 | 3899 |
 | 2026-05-05T00:35 | 14 | 1681 | 3896 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-04T00:36 | 2 | 1689 | 3870 |
 | 2026-05-03T18:19 | 4 | 1689 | 3868 |
 | 2026-05-03T12:18 | 10 | 1683 | 3864 |
-| 2026-05-03T06:52 | 2 | 1690 | 3854 |
 
 ---
 

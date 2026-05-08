@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3963  
-**Last updated:** 2026-05-08T00:37:17.474Z
+**Total packages tracked:** 3966  
+**Last updated:** 2026-05-08T06:37:57.849Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [lalalili/subscription-core](https://github.com/lalalili/subscription-core) | 0 | Reusable subscription domain package for Laravel applications. |
+| [jooservices/laravel-oauth](https://github.com/jooservices/laravel-oauth) | 0 | Protocol-first Laravel OAuth package with internal OAuth1/OAuth2 providers, DTO ... |
+| [joe-nassar-tech/laravel-auth](https://github.com/joe-nassar-tech/laravel-auth) | 0 | Drop-in authentication library for Laravel 13 — OTP + magic-link verification, A... |
 | [Gegirhasut/laravel-post-login-redirect-guard](https://github.com/Gegirhasut/laravel-post-login-redirect-guard) | 0 | Sanitize Laravel's redirect()->intended() across login transitions to prevent de... |
 | [iamfarhad/laravel-audit-log](https://github.com/iamfarhad/laravel-audit-log) | 132 | A comprehensive entity-level audit logging package for Laravel with model-specif... |
 | [renslabs/laravel-api-response-formatter](https://github.com/renslabs/laravel-api-response-formatter) | 1 | 🚀 a simple package Format API responses throughout your Laravel application |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cboxdk/laravel-queue-metrics](https://github.com/cboxdk/laravel-queue-metrics) | 9 | Queue monitoring and metrics for Laravel. Job execution times, success rates, fa... |
 | [cboxdk/laravel-health](https://github.com/cboxdk/laravel-health) | 1 | Health checks, Kubernetes probes, Prometheus metrics, and system monitoring for ... |
 | [cboxdk/laravel-queue-monitor](https://github.com/cboxdk/laravel-queue-monitor) | 3 | Queue visibility without Horizon or Redis. Track every job on any driver with pe... |
-| [rajurayhan/laravel-zoho-mcp](https://github.com/rajurayhan/laravel-zoho-mcp) | 0 | Laravel package that exposes Zoho REST APIs to AI clients through the Model Cont... |
-| [Smony/ton-laravel-watcher](https://github.com/Smony/ton-laravel-watcher) | 0 | Laravel package for TON: balance, transactions, and production-ready transaction... |
-| [Pondit-Hasan/lara-enum](https://github.com/Pondit-Hasan/lara-enum) | 2 | A lightweight Laravel package for enhanced Enum support. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,6 +60,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-08 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter) | 130 | 2026-05-08 | A opponiated Laravel 12 Livewire Components Starter Kit, wit... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-08 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-08 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-08 | Build and manage help desk ticket systems with a Laravel 12 ... |
@@ -76,9 +77,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-08 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-08 | Manage and track inventory with a PHP package that integrate... |
 | [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-08 |  |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-05-07 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-05-07 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-05-07 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-05-08 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-05-08 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-08T06:37 | 3 | 1688 | 3966 |
 | 2026-05-08T00:37 | 3 | 1689 | 3963 |
 | 2026-05-07T18:35 | 9 | 1684 | 3960 |
 | 2026-05-07T12:39 | 10 | 1687 | 3951 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-06T12:39 | 9 | 1689 | 3931 |
 | 2026-05-06T06:58 | 2 | 1697 | 3922 |
 | 2026-05-06T00:34 | 5 | 1692 | 3920 |
-| 2026-05-05T18:31 | 9 | 1688 | 3915 |
 
 ---
 

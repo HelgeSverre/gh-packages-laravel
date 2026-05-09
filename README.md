@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3979  
-**Last updated:** 2026-05-09T00:37:50.089Z
+**Total packages tracked:** 3981  
+**Last updated:** 2026-05-09T06:45:13.818Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ChamikaSamaraweera/laravel-3x-ui-manager](https://github.com/ChamikaSamaraweera/laravel-3x-ui-manager) | 0 | Multi-panel 3x-ui management package for Laravel billing system |
+| [WeiJuKeJi/laravel-xlswriter](https://github.com/WeiJuKeJi/laravel-xlswriter) | 0 | Laravel integration package for the xlswriter PHP extension. |
 | [meshu-dev/devjobs](https://github.com/meshu-dev/devjobs) | 0 | Imports and displays developer jobs |
 | [mrtolouei/laravel-service-health](https://github.com/mrtolouei/laravel-service-health) | 0 | A Laravel package for monitoring the health of databases, Redis, queues, filesys... |
 | [Eduard9969/blade-polaris-icons](https://github.com/Eduard9969/blade-polaris-icons) | 4 | A package to easily make use of Polaris Icons in your Laravel Blade views. |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [joe-nassar-tech/laravel-auth](https://github.com/joe-nassar-tech/laravel-auth) | 0 | Drop-in authentication library for Laravel 13 — OTP + magic-link verification, A... |
 | [Gegirhasut/laravel-post-login-redirect-guard](https://github.com/Gegirhasut/laravel-post-login-redirect-guard) | 0 | Sanitize Laravel's redirect()->intended() across login transitions to prevent de... |
 | [iamfarhad/laravel-audit-log](https://github.com/iamfarhad/laravel-audit-log) | 132 | A comprehensive entity-level audit logging package for Laravel with model-specif... |
-| [renslabs/laravel-api-response-formatter](https://github.com/renslabs/laravel-api-response-formatter) | 1 | 🚀 a simple package Format API responses throughout your Laravel application |
-| [GiorgiGrdzelidze/laravel-fina-sdk](https://github.com/GiorgiGrdzelidze/laravel-fina-sdk) | 0 | Laravel SDK for the FINA Web API (v8.0) — auth, operations, reporting, typed DTO... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-05-09 | ShieldCI Laravel Package - Open-source code quality analysis... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-05-09 | Package para Laravel y facturacion |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) | 17 | 2026-05-09 | Add importing large CSV (and TSV) data feature to your Larav... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-08 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-08 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-08 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-08 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-08 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-08 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-08 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-08 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-08 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-08 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-08 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-05-08 | 🔒 The missing package for Laravel Nova that lets you know w... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-08 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-08 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-08 | Integrate Mixpanel analytics into Filament projects to track... |
-| [iamkarsoft/movie-app](https://github.com/iamkarsoft/movie-app) | 1 | 2026-05-08 | a repo for me to get familiar with livewire and alpine based... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-08 | Manage and track inventory with a PHP package that integrate... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 27 | 2026-05-09 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 388 | 2026-05-09 | Open Source Laravel CRM Package |
+| [laraditz/lazada](https://github.com/laraditz/lazada) | 1 | 2026-05-09 | Laravel package for interacting with Lazada API. |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-09 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-09 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-09 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-09 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-09 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-09 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-09 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-09 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [jooservices/laravel-events](https://github.com/jooservices/laravel-events) | 0 | 2026-05-09 | Laravel 12 event sourcing and audit event log persistence pa... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-09 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-09 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-09 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-05-09 | Provides email verification on the go. |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-09 | Prevent risky Laravel database migrations with static analys... |
+| [muradbdinfo/laravelai](https://github.com/muradbdinfo/laravelai) | 1 | 2026-05-09 | Laravel AI SDK Packages |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-09T06:45 | 2 | 1689 | 3981 |
 | 2026-05-09T00:37 | 4 | 1687 | 3979 |
 | 2026-05-08T18:31 | 5 | 1688 | 3975 |
 | 2026-05-08T12:30 | 4 | 1688 | 3970 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-07T12:39 | 10 | 1687 | 3951 |
 | 2026-05-07T07:01 | 6 | 1689 | 3941 |
 | 2026-05-07T00:36 | 3 | 1694 | 3935 |
-| 2026-05-06T18:35 | 1 | 1696 | 3932 |
 
 ---
 

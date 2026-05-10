@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 3992  
-**Last updated:** 2026-05-10T08:04:05.908Z
+**Total packages tracked:** 3995  
+**Last updated:** 2026-05-10T13:10:35.562Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Artessan-Devs/terra](https://github.com/Artessan-Devs/terra) | 0 | Comprehensive world geodata package for Laravel including countries, states, cit... |
+| [Mozakar/gateway](https://github.com/Mozakar/gateway) | 4 | A Laravel package for connecting to all Iraninan payment gateways, base package ... |
+| [ahtesham-clcbws/laravel-fabric](https://github.com/ahtesham-clcbws/laravel-fabric) | 1 | Laravel Fabric is not just a tool; it's a New Way of Building. It replaces the m... |
 | [mahdimsr/laravel-bitunix-api](https://github.com/mahdimsr/laravel-bitunix-api) | 0 | laravel composer package for using bituinx exchange api |
 | [jonaaix/laravel-audit-trails](https://github.com/jonaaix/laravel-audit-trails) | 0 | A lightweight Laravel audit-log package |
 | [jeffersongoncalves/filament-flux](https://github.com/jeffersongoncalves/filament-flux) | 6 | Filament v5 plugin exposing Livewire Flux UI components as native Form Fields, T... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mrtolouei/laravel-service-health](https://github.com/mrtolouei/laravel-service-health) | 0 | A Laravel package for monitoring the health of databases, Redis, queues, filesys... |
 | [Eduard9969/blade-polaris-icons](https://github.com/Eduard9969/blade-polaris-icons) | 4 | A package to easily make use of Polaris Icons in your Laravel Blade views. |
 | [apurba-labs/laravel-agl](https://github.com/apurba-labs/laravel-agl) | 0 | Agentic Governance Layer for Laravel 13  The definitive package for adding verif... |
-| [MostefaBoudjema/laravel-filament-hrms](https://github.com/MostefaBoudjema/laravel-filament-hrms) | 1 | A comprehensive Human Resource Management System (HRMS) built with Laravel 13, F... |
-| [infernalmedia/responsive-image-craft](https://github.com/infernalmedia/responsive-image-craft) | 0 | ResponsiveImageCraft is a Laravel package that simplifies responsive image gener... |
-| [vwinck-dev/laravel-translator](https://github.com/vwinck-dev/laravel-translator) | 1 | Translation files and localization utilities for Laravel. Publish, manage and ex... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [vormiaphp/vormia](https://github.com/vormiaphp/vormia) | 1 | 2026-05-10 | A comprehensive Laravel development package that streamlines... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-05-10 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-05-10 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-05-10 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [Artessan-Devs/terra](https://github.com/Artessan-Devs/terra) | 0 | 2026-05-10 | Comprehensive world geodata package for Laravel including co... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-05-10 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-05-10 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-05-10 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 2 | 2026-05-10 | A practical work management information system built with La... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-05-10 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [Mozakar/gateway](https://github.com/Mozakar/gateway) | 4 | 2026-05-10 | A Laravel package for connecting to all Iraninan payment gat... |
+| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-05-10 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-10 | 📁 Manage files effortlessly with this Laravel and Filament ... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-10 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [datashaman/specify](https://github.com/datashaman/specify) | 0 | 2026-05-10 | AI-driven workflow for spec-led software delivery. Stories b... |
-| [highvertical/widget-package](https://github.com/highvertical/widget-package) | 1 | 2026-05-10 | Advanced Laravel Widget Package Like Wordpress. It keeps you... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-10 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [outatime-io/ensemble-calendar](https://github.com/outatime-io/ensemble-calendar) | 1 | 2026-05-10 | Modern, GDPR‑compliant rehearsal calendar for musical ensemb... |
+| [jigar-dhulla/laravel-whatsapp-ai-agent](https://github.com/jigar-dhulla/laravel-whatsapp-ai-agent) | 22 | 2026-05-10 | A Laravel package for building WhatsApp AI agents on top of ... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-10 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-10 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [datashaman/specify](https://github.com/datashaman/specify) | 0 | 2026-05-10 | AI-driven workflow for spec-led software delivery. Stories b... |
 | [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-10 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-10 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-05-10 | This project collects the most commonly used Laravel extensi... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-10 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [DevWizardHQ/wiz-captcha](https://github.com/DevWizardHQ/wiz-captcha) | 2 | 2026-05-10 | wiz captcha package for laravel. |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-10 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-10 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-05-10 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
-| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-05-10 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-10 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-10 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 27 | 2026-05-10 | Open-source AI agent orchestration platform — self-hosted mi... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-10T13:10 | 3 | 1690 | 3995 |
 | 2026-05-10T08:04 | 2 | 1691 | 3992 |
 | 2026-05-10T02:37 | 6 | 1686 | 3990 |
 | 2026-05-09T18:20 | 2 | 1688 | 3984 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-08T18:31 | 5 | 1688 | 3975 |
 | 2026-05-08T12:30 | 4 | 1688 | 3970 |
 | 2026-05-08T06:37 | 3 | 1688 | 3966 |
-| 2026-05-08T00:37 | 3 | 1689 | 3963 |
 
 ---
 

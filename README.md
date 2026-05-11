@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4001  
-**Last updated:** 2026-05-11T02:47:10.745Z
+**Total packages tracked:** 4004  
+**Last updated:** 2026-05-11T09:33:18.391Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [kg-bot/hookbox](https://github.com/kg-bot/hookbox) | 0 | Headless Laravel webhook inbox for receiving, verifying, deduplicating, persisti... |
+| [mnarushevich/laravel-audit-logs](https://github.com/mnarushevich/laravel-audit-logs) | 0 | A Laravel package for audit logging |
+| [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings) | 0 | A Laravel package for dynamically storing, overriding, and retrieving Laravel sy... |
 | [astroway/astroway-php-laravel](https://github.com/astroway/astroway-php-laravel) | 0 | Official Laravel ServiceProvider + facade for astroway/sdk — auto-discovered, en... |
 | [skywarth/chaotic-schedule](https://github.com/skywarth/chaotic-schedule) | 122 | Randomize scheduled command execution time and date intervals via pRNGs |
 | [gokhanjs/laravel-utilities](https://github.com/gokhanjs/laravel-utilities) | 0 | Custom Laravel model-translation pattern trait-based, separate translation table... |
@@ -17,7 +20,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Alphabalex/payment-made-easy](https://github.com/Alphabalex/payment-made-easy) | 0 | A Laravel package for handling payments with multiple gateways (Paystack, Flutte... |
 | [Artessan-Devs/terra](https://github.com/Artessan-Devs/terra) | 0 | Comprehensive world geodata package for Laravel including countries, states, cit... |
 | [Mozakar/gateway](https://github.com/Mozakar/gateway) | 4 | A Laravel package for connecting to all Iraninan payment gateways, base package ... |
-| [ahtesham-clcbws/laravel-fabric](https://github.com/ahtesham-clcbws/laravel-fabric) | 1 | Laravel Fabric is not just a tool; it's a New Way of Building. It replaces the m... |
+| [ahtesham-clcbws/laravel-fabric](https://github.com/ahtesham-clcbws/laravel-fabric) | 2 | Laravel Fabric is not just a tool; it's a New Way of Building. It replaces the m... |
 | [mahdimsr/laravel-bitunix-api](https://github.com/mahdimsr/laravel-bitunix-api) | 0 | laravel composer package for using bituinx exchange api |
 | [jonaaix/laravel-audit-trails](https://github.com/jonaaix/laravel-audit-trails) | 0 | A lightweight Laravel audit-log package |
 | [jeffersongoncalves/filament-flux](https://github.com/jeffersongoncalves/filament-flux) | 8 | Filament v5 plugin exposing Livewire Flux UI components as native Form Fields, T... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [micilini/php-websockets](https://github.com/micilini/php-websockets) | 0 | Native PHP WebSocket and realtime chat foundation built from scratch with PHP so... |
 | [PyaeSoneAungRgn/atomic-locks-middleware](https://github.com/PyaeSoneAungRgn/atomic-locks-middleware) | 34 | A package designed to ensure that only one request is processed at a time. |
 | [highvertical/widget-package](https://github.com/highvertical/widget-package) | 1 | Advanced Laravel Widget Package Like Wordpress. It keeps your blade clean and ma... |
-| [saberaldda/laravel-powersync](https://github.com/saberaldda/laravel-powersync) | 2 | Laravel backend package for PowerSync |
-| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | Monorepo for Finity Labs' Filament packages |
-| [sunilluhana/laravel-shield](https://github.com/sunilluhana/laravel-shield) | 0 | Laravel Shield Package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-11 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-11 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-11 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-11 | 💳 Streamline payment processing with this PHP package that ... |
-| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 3 | 2026-05-11 | The Laravel Lobster |
+| [rivalex/lingua](https://github.com/rivalex/lingua) | 2 | 2026-05-11 | The complete database-driven translation management system f... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-05-11 | Laravel package providing AI-powered search with Pagefind. D... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-11 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Alphabalex/payment-made-easy](https://github.com/Alphabalex/payment-made-easy) | 0 | 2026-05-11 | A Laravel package for handling payments with multiple gatewa... |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-11 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-11 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-11 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-11 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-11 | Track and display Matomo analytics data directly within Lara... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-11 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-11 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-11 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-11 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-11 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-11 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-11 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-11 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-11 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [jonaaix/laravel-audit-trails](https://github.com/jonaaix/laravel-audit-trails) | 0 | 2026-05-11 | A lightweight Laravel audit-log package |
+| [smartgeomatics/laravel-deferred-batch](https://github.com/smartgeomatics/laravel-deferred-batch) | 2 | 2026-05-11 | Deferred batch construction for Laravel job chains |
+| [finity-labs/fin-sentinel](https://github.com/finity-labs/fin-sentinel) | 2 | 2026-05-11 | Filament plugin for error email notifications, developer deb... |
+| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-05-11 | Monorepo for Finity Labs' Filament packages |
+| [kg-bot/hookbox](https://github.com/kg-bot/hookbox) | 0 | 2026-05-11 | Headless Laravel webhook inbox for receiving, verifying, ded... |
+| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-05-11 | A laravel based E Commerce Package Developed using PHP |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-05-11 | Main Webampp laravel package for GEOBOX 2.0 |
+| [novius/laravel-nova-page-manager](https://github.com/novius/laravel-nova-page-manager) | 0 | 2026-05-11 | A page manager for Laravel Nova |
+| [apurba-labs/laravel-agl](https://github.com/apurba-labs/laravel-agl) | 0 | 2026-05-11 | Agentic Governance Layer for Laravel 13  The definitive pack... |
+| [MyParcelCOM/resource-cleanup](https://github.com/MyParcelCOM/resource-cleanup) | 0 | 2026-05-11 | A Laravel package to permanently delete soft-deleted or expi... |
+| [mnarushevich/laravel-audit-logs](https://github.com/mnarushevich/laravel-audit-logs) | 0 | 2026-05-11 | A Laravel package for audit logging |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-11 | The Moox Project - Packages for Filament and Laravel |
+| [typicms/core](https://github.com/typicms/core) | 7 | 2026-05-11 | The core package of TypiCMS, containing the base architectur... |
+| [spatie/livewire-filepond](https://github.com/spatie/livewire-filepond) | 305 | 2026-05-11 | Upload files using Filepond in Livewire components |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-11T09:33 | 3 | 1688 | 4004 |
 | 2026-05-11T02:47 | 3 | 1689 | 4001 |
 | 2026-05-10T18:57 | 3 | 1689 | 3998 |
 | 2026-05-10T13:10 | 3 | 1690 | 3995 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-09T12:20 | 1 | 1689 | 3982 |
 | 2026-05-09T06:45 | 2 | 1689 | 3981 |
 | 2026-05-09T00:37 | 4 | 1687 | 3979 |
-| 2026-05-08T18:31 | 5 | 1688 | 3975 |
 
 ---
 

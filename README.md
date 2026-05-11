@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4004  
-**Last updated:** 2026-05-11T09:33:18.391Z
+**Total packages tracked:** 4009  
+**Last updated:** 2026-05-11T14:41:45.330Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tradejedi/laravel-cms-api](https://github.com/tradejedi/laravel-cms-api) | 0 | CMS v1 API package for tradejedi/gambling-review and sister sites |
+| [TS1997/laravel-package-dev-tools](https://github.com/TS1997/laravel-package-dev-tools) | 0 | Development tooling for Laravel packages |
+| [speniti/filament-mapbox](https://github.com/speniti/filament-mapbox) | 2 | This package provides a set of tools for integrating Mapbox within the Filament ... |
+| [Medianet-Tunisia/cloud-message](https://github.com/Medianet-Tunisia/cloud-message) | 0 | A Laravel package for sending push notifications to Firebase and Huawei platform... |
+| [yafetphilipos/amharic-transliteration](https://github.com/yafetphilipos/amharic-transliteration) | 0 | A Laravel package for dual-way Amharic to English transliteration. Effortlessly ... |
 | [kg-bot/hookbox](https://github.com/kg-bot/hookbox) | 0 | Headless Laravel webhook inbox for receiving, verifying, deduplicating, persisti... |
 | [mnarushevich/laravel-audit-logs](https://github.com/mnarushevich/laravel-audit-logs) | 0 | A Laravel package for audit logging |
 | [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings) | 0 | A Laravel package for dynamically storing, overriding, and retrieving Laravel sy... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mahdimsr/laravel-bitunix-api](https://github.com/mahdimsr/laravel-bitunix-api) | 0 | laravel composer package for using bituinx exchange api |
 | [jonaaix/laravel-audit-trails](https://github.com/jonaaix/laravel-audit-trails) | 0 | A lightweight Laravel audit-log package |
 | [jeffersongoncalves/filament-flux](https://github.com/jeffersongoncalves/filament-flux) | 8 | Filament v5 plugin exposing Livewire Flux UI components as native Form Fields, T... |
-| [thebatclaudio/thebatcave](https://github.com/thebatclaudio/thebatcave) | 0 | My website powered by Laravel + Livewire + Markdown blog |
-| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 5 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with multi-panel structure (A... |
-| [micilini/php-websockets](https://github.com/micilini/php-websockets) | 0 | Native PHP WebSocket and realtime chat foundation built from scratch with PHP so... |
-| [PyaeSoneAungRgn/atomic-locks-middleware](https://github.com/PyaeSoneAungRgn/atomic-locks-middleware) | 34 | A package designed to ensure that only one request is processed at a time. |
-| [highvertical/widget-package](https://github.com/highvertical/widget-package) | 1 | Advanced Laravel Widget Package Like Wordpress. It keeps your blade clean and ma... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [rivalex/lingua](https://github.com/rivalex/lingua) | 2 | 2026-05-11 | The complete database-driven translation management system f... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-05-11 | Laravel package providing AI-powered search with Pagefind. D... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-11 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Alphabalex/payment-made-easy](https://github.com/Alphabalex/payment-made-easy) | 0 | 2026-05-11 | A Laravel package for handling payments with multiple gatewa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-11 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-11 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [jonaaix/laravel-audit-trails](https://github.com/jonaaix/laravel-audit-trails) | 0 | 2026-05-11 | A lightweight Laravel audit-log package |
-| [smartgeomatics/laravel-deferred-batch](https://github.com/smartgeomatics/laravel-deferred-batch) | 2 | 2026-05-11 | Deferred batch construction for Laravel job chains |
-| [finity-labs/fin-sentinel](https://github.com/finity-labs/fin-sentinel) | 2 | 2026-05-11 | Filament plugin for error email notifications, developer deb... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-11 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-11 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-11 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-11 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [rosalana/core](https://github.com/rosalana/core) | 4 | 2026-05-11 | Rosalana core package for Laravel apps |
+| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 8 | 2026-05-11 | Kompass A Laravel CMS |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-11 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-05-11 | A Laravel-based web application that tracks, analyzes, and p... |
+| [Brigada-Group/guardian](https://github.com/Brigada-Group/guardian) | 4 | 2026-05-11 | Laravel monitoring package. Runs security audits, health che... |
+| [StuMason/laravel-coolify](https://github.com/StuMason/laravel-coolify) | 8 | 2026-05-11 | Laravel package for deploying to Coolify. Dashboard, CLI com... |
+| [tradejedi/laravel-cms-api](https://github.com/tradejedi/laravel-cms-api) | 0 | 2026-05-11 | CMS v1 API package for tradejedi/gambling-review and sister ... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-11 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-11 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [ZackyPratama/E-Commerce-PT-GMU](https://github.com/ZackyPratama/E-Commerce-PT-GMU) | 0 | 2026-05-11 | Project Akhir Semester E-Commerce |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-11 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-11 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-11 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-05-11 | Monorepo for Finity Labs' Filament packages |
-| [kg-bot/hookbox](https://github.com/kg-bot/hookbox) | 0 | 2026-05-11 | Headless Laravel webhook inbox for receiving, verifying, ded... |
-| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-05-11 | A laravel based E Commerce Package Developed using PHP |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-05-11 | Main Webampp laravel package for GEOBOX 2.0 |
-| [novius/laravel-nova-page-manager](https://github.com/novius/laravel-nova-page-manager) | 0 | 2026-05-11 | A page manager for Laravel Nova |
-| [apurba-labs/laravel-agl](https://github.com/apurba-labs/laravel-agl) | 0 | 2026-05-11 | Agentic Governance Layer for Laravel 13  The definitive pack... |
-| [MyParcelCOM/resource-cleanup](https://github.com/MyParcelCOM/resource-cleanup) | 0 | 2026-05-11 | A Laravel package to permanently delete soft-deleted or expi... |
-| [mnarushevich/laravel-audit-logs](https://github.com/mnarushevich/laravel-audit-logs) | 0 | 2026-05-11 | A Laravel package for audit logging |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-11 | The Moox Project - Packages for Filament and Laravel |
-| [typicms/core](https://github.com/typicms/core) | 7 | 2026-05-11 | The core package of TypiCMS, containing the base architectur... |
-| [spatie/livewire-filepond](https://github.com/spatie/livewire-filepond) | 305 | 2026-05-11 | Upload files using Filepond in Livewire components |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-11 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-11 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-11T14:41 | 5 | 1688 | 4009 |
 | 2026-05-11T09:33 | 3 | 1688 | 4004 |
 | 2026-05-11T02:47 | 3 | 1689 | 4001 |
 | 2026-05-10T18:57 | 3 | 1689 | 3998 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-09T18:20 | 2 | 1688 | 3984 |
 | 2026-05-09T12:20 | 1 | 1689 | 3982 |
 | 2026-05-09T06:45 | 2 | 1689 | 3981 |
-| 2026-05-09T00:37 | 4 | 1687 | 3979 |
 
 ---
 

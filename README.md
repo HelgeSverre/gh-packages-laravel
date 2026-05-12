@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4033  
-**Last updated:** 2026-05-12T14:13:10.533Z
+**Total packages tracked:** 4036  
+**Last updated:** 2026-05-12T19:45:40.574Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [anselmi-dev/sumsub](https://github.com/anselmi-dev/sumsub) | 0 | Sumsub KYC integration package for Laravel |
+| [cc-consulting-nv/laravel-markdown-emails](https://github.com/cc-consulting-nv/laravel-markdown-emails) | 0 | Laravel package for generating emails using Markdown with dynamic content suppor... |
+| [awcodes/postal-codes](https://github.com/awcodes/postal-codes) | 5 | This is a package to easily install and use postal codes in your Laravel applica... |
 | [mmorand/laravel-apertus](https://github.com/mmorand/laravel-apertus) | 2 | Laravel package for the Swiss made Apertus LLM |
 | [kg-bot/hookbox-ui-blade](https://github.com/kg-bot/hookbox-ui-blade) | 0 | Blade adapter for the Hookbox inbox and message details UI. A publishable Larave... |
 | [kejubayer/redx-api-integration](https://github.com/kejubayer/redx-api-integration) | 0 | A Laravel package for RedX courier API integration in Bangladesh. It provides a ... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kejubayer/pathao-api-integration](https://github.com/kejubayer/pathao-api-integration) | 0 | A Laravel package for Pathao Courier API integration in Bangladesh. Create Patha... |
 | [kg-bot/hookbox-ui-core](https://github.com/kg-bot/hookbox-ui-core) | 0 | Backend-only Laravel package for Hookbox inbox and replay UIs. Provides routes, ... |
 | [nabilhassen/laravel-usage-limiter](https://github.com/nabilhassen/laravel-usage-limiter) | 180 | A Laravel package to track, limit, & restrict usages of users, accounts, or any ... |
-| [Danny-Villa/artisan-commands](https://github.com/Danny-Villa/artisan-commands) | 3 | This package provides a set of artisan commands for Laravel |
-| [zulhilmixrahman/mydigitalid-laravel](https://github.com/zulhilmixrahman/mydigitalid-laravel) | 0 | Laravel package for integrating Malaysia's MyDigitalID (Keycloak-based OIDC) aut... |
-| [jooservices/laravel-config](https://github.com/jooservices/laravel-config) | 0 | Laravel package for MongoDB-backed application configuration with typed values, ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -39,7 +39,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 479 | A full-featured Laravel package for aiding in Shopify App development |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 480 | A full-featured Laravel package for aiding in Shopify App development |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 455 | Add kanban boards to your Filament pages |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [eXolnet/laravel-translation-editor](https://github.com/eXolnet/laravel-translation-editor) | 6 | 2026-05-12 | Allow translations edition through the browser |
-| [eXolnet/laravel-translation](https://github.com/eXolnet/laravel-translation) | 3 | 2026-05-12 | Library to manage Laravel translations. |
-| [hivesper/unit-conversion](https://github.com/hivesper/unit-conversion) | 3 | 2026-05-12 | This package provides a powerful and flexible way to handle ... |
-| [eXolnet/laravel-html-list](https://github.com/eXolnet/laravel-html-list) | 0 | 2026-05-12 | Transform Eloquent collection to list for HTML rendering |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-12 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [whilesmartphp/eloquent-projects](https://github.com/whilesmartphp/eloquent-projects) | 0 | 2026-05-12 | Polymorphic project and version management package for Larav... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-12 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-12 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-12 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-12 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-12 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-12 | 💳 Streamline payment processing with this PHP package that ... |
+| [authn-sh/sdk-php-laravel](https://github.com/authn-sh/sdk-php-laravel) | 0 | 2026-05-12 | Laravel package for authn.sh — service provider, middleware,... |
+| [authn-sh/sdk-php](https://github.com/authn-sh/sdk-php) | 0 | 2026-05-12 | PHP backend SDK for authn.sh. BAPI client, JWT verification,... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-12 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 325 | 2026-05-12 | The NativePHP website |
+| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 6 | 2026-05-12 | A Laravel package that adds NATS messaging support to Larave... |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-12 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-12 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-05-12 | The Laravel Quick Start package covers the basics of connect... |
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-05-12 | Laravel Package to access AI CAD |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-05-12 | ShieldCI Laravel Package - Open-source code quality analysis... |
-| [VitalSaas/proexna-backend](https://github.com/VitalSaas/proexna-backend) | 0 | 2026-05-12 | Backend project for ProExna with Laravel and packages |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 325 | 2026-05-12 | The NativePHP website |
-| [Brigada-Group/guardian](https://github.com/Brigada-Group/guardian) | 4 | 2026-05-12 | Laravel monitoring package. Runs security audits, health che... |
-| [bzzix/laravel-lrs-package](https://github.com/bzzix/laravel-lrs-package) | 0 | 2026-05-12 |  |
-| [mmorand/laravel-apertus](https://github.com/mmorand/laravel-apertus) | 2 | 2026-05-12 | Laravel package for the Swiss made Apertus LLM |
-| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 142 | 2026-05-12 | Create and manage menu in your Filament app. |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-05-12 | Main Webampp laravel package for GEOBOX 2.0 |
-| [authn-sh/sdk-php](https://github.com/authn-sh/sdk-php) | 0 | 2026-05-12 | PHP backend SDK for authn.sh. BAPI client, JWT verification,... |
-| [novius/laravel-nova-news](https://github.com/novius/laravel-nova-news) | 2 | 2026-05-12 | A Laravel Nova package for news and blog posts management |
-| [rosalana/core](https://github.com/rosalana/core) | 4 | 2026-05-12 | Rosalana core package for Laravel apps |
-| [kg-bot/hookbox-ui-blade](https://github.com/kg-bot/hookbox-ui-blade) | 0 | 2026-05-12 | Blade adapter for the Hookbox inbox and message details UI. ... |
+| [anselmi-dev/sumsub](https://github.com/anselmi-dev/sumsub) | 0 | 2026-05-12 | Sumsub KYC integration package for Laravel |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-05-12 | Laravel package providing AI-powered search with Pagefind. D... |
+| [Garanaw/laravel-configurer](https://github.com/Garanaw/laravel-configurer) | 0 | 2026-05-12 | This package adds some basic libraries to laravel |
+| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 49 | 2026-05-12 | A Laravel package for orchestrating AI-driven features using... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-05-12 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-12T19:45 | 3 | 1692 | 4036 |
 | 2026-05-12T14:13 | 9 | 1684 | 4033 |
 | 2026-05-12T08:34 | 8 | 1683 | 4024 |
 | 2026-05-12T02:39 | 5 | 1686 | 4016 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-11T02:47 | 3 | 1689 | 4001 |
 | 2026-05-10T18:57 | 3 | 1689 | 3998 |
 | 2026-05-10T13:10 | 3 | 1690 | 3995 |
-| 2026-05-10T08:04 | 2 | 1691 | 3992 |
 
 ---
 

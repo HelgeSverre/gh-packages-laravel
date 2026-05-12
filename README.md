@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4011  
-**Last updated:** 2026-05-11T19:42:23.101Z
+**Total packages tracked:** 4016  
+**Last updated:** 2026-05-12T02:39:44.889Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Danny-Villa/artisan-commands](https://github.com/Danny-Villa/artisan-commands) | 3 | This package provides a set of artisan commands for Laravel |
+| [zulhilmixrahman/mydigitalid-laravel](https://github.com/zulhilmixrahman/mydigitalid-laravel) | 0 | Laravel package for integrating Malaysia's MyDigitalID (Keycloak-based OIDC) aut... |
+| [jooservices/laravel-config](https://github.com/jooservices/laravel-config) | 0 | Laravel package for MongoDB-backed application configuration with typed values, ... |
+| [ivirtual-agency/laravel-development](https://github.com/ivirtual-agency/laravel-development) | 0 | iVirtual package for Laravel development projects. |
+| [jooservices/laravel-repository](https://github.com/jooservices/laravel-repository) | 0 | PHP 8.5+ Laravel repository package for trait-based CRUD, filtering, ordering, a... |
 | [TopWent/laravel-claude](https://github.com/TopWent/laravel-claude) | 0 | Laravel package for Anthropic Claude API: fluent message builder, native tool ca... |
 | [MrFibunacci/laravel-form-components](https://github.com/MrFibunacci/laravel-form-components) | 19 | Ready-to-use and customizable form components. |
 | [tradejedi/laravel-cms-api](https://github.com/tradejedi/laravel-cms-api) | 0 | CMS v1 API package for tradejedi/gambling-review and sister sites |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [gokhanjs/laravel-utilities](https://github.com/gokhanjs/laravel-utilities) | 0 | Custom Laravel model-translation pattern trait-based, separate translation table... |
 | [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 2 | Filament v5 plugin exposing Livewire Flux Pro components — Date Picker, Editor, ... |
 | [bzzix/laravel-lrs-package](https://github.com/bzzix/laravel-lrs-package) | 0 |  |
-| [Alphabalex/payment-made-easy](https://github.com/Alphabalex/payment-made-easy) | 0 | A Laravel package for handling payments with multiple gateways (Paystack, Flutte... |
-| [Artessan-Devs/terra](https://github.com/Artessan-Devs/terra) | 0 | Comprehensive world geodata package for Laravel including countries, states, cit... |
-| [Mozakar/gateway](https://github.com/Mozakar/gateway) | 4 | A Laravel package for connecting to all Iraninan payment gateways, base package ... |
-| [ahtesham-clcbws/laravel-fabric](https://github.com/ahtesham-clcbws/laravel-fabric) | 2 | Laravel Fabric is not just a tool; it's a New Way of Building. It replaces the m... |
-| [mahdimsr/laravel-bitunix-api](https://github.com/mahdimsr/laravel-bitunix-api) | 0 | laravel composer package for using bituinx exchange api |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-05-11 | Laravel package providing AI-powered search with Pagefind. D... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-05-11 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-05-11 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-05-11 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [eXolnet/laravel-translation-editor](https://github.com/eXolnet/laravel-translation-editor) | 6 | 2026-05-11 | Allow translations edition through the browser |
-| [eXolnet/laravel-html-list](https://github.com/eXolnet/laravel-html-list) | 0 | 2026-05-11 | Transform Eloquent collection to list for HTML rendering |
-| [authn-sh/sdk-php-laravel](https://github.com/authn-sh/sdk-php-laravel) | 0 | 2026-05-11 | Laravel package for authn.sh — service provider, middleware,... |
-| [zaeem2396/schema-lens](https://github.com/zaeem2396/schema-lens) | 5 | 2026-05-11 | A Laravel package that extends the default Artisan CLI with ... |
-| [apurba-labs/laravel-agl](https://github.com/apurba-labs/laravel-agl) | 0 | 2026-05-11 | Agentic Governance Layer for Laravel 13  The definitive pack... |
-| [libredesarrollo/book-course-laravel-base-package](https://github.com/libredesarrollo/book-course-laravel-base-package) | 0 | 2026-05-11 |  |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-05-11 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [authn-sh/sdk-php](https://github.com/authn-sh/sdk-php) | 0 | 2026-05-11 | PHP backend SDK for authn.sh. BAPI client, JWT verification,... |
-| [teamq-ec/teamq-laravel-datatables](https://github.com/teamq-ec/teamq-laravel-datatables) | 0 | 2026-05-11 | Provides a collection of resources for creating datatables b... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-11 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-11 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-11 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-11 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-11 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-11 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-11 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 2 | 2026-05-12 | A practical work management information system built with La... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-05-12 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-05-12 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-12 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-05-12 | An event sourcing laravel package, complete with all the ess... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-12 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Danny-Villa/artisan-commands](https://github.com/Danny-Villa/artisan-commands) | 3 | 2026-05-12 | This package provides a set of artisan commands for Laravel |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-12 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-12 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-12 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-12 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-12 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-12 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-12 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-12 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [zulhilmixrahman/mydigitalid-laravel](https://github.com/zulhilmixrahman/mydigitalid-laravel) | 0 | 2026-05-12 | Laravel package for integrating Malaysia's MyDigitalID (Keyc... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-12 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [timgws/laravel-expo-updates](https://github.com/timgws/laravel-expo-updates) | 0 | 2026-05-12 | A lightweight Laravel package that lets you self-host over-t... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-12 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-12 | 🛒 Build and manage your online store effortlessly with Shop... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-12T02:39 | 5 | 1686 | 4016 |
 | 2026-05-11T19:42 | 2 | 1691 | 4011 |
 | 2026-05-11T14:41 | 5 | 1688 | 4009 |
 | 2026-05-11T09:33 | 3 | 1688 | 4004 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-10T08:04 | 2 | 1691 | 3992 |
 | 2026-05-10T02:37 | 6 | 1686 | 3990 |
 | 2026-05-09T18:20 | 2 | 1688 | 3984 |
-| 2026-05-09T12:20 | 1 | 1689 | 3982 |
 
 ---
 

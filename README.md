@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4046  
-**Last updated:** 2026-05-13T14:25:27.368Z
+**Total packages tracked:** 4051  
+**Last updated:** 2026-05-13T19:49:54.156Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [LaraArabDev/filament-gatekeeper](https://github.com/LaraArabDev/filament-gatekeeper) | 0 | Advanced Role and Permission management for Laravel Filament |
+| [awcodes/typebar](https://github.com/awcodes/typebar) | 3 | Mobile Markdown symbol row for the Filament Markdown editor. |
+| [KauanCalheiro/laravel-cep-package](https://github.com/KauanCalheiro/laravel-cep-package) | 0 |  |
+| [k4l3b4/laravel-categories](https://github.com/k4l3b4/laravel-categories) | 0 | A polymorphic Laravel package, for advanced category management. |
+| [gosdrkht/payhere-laravel](https://github.com/gosdrkht/payhere-laravel) | 0 | A clean Laravel package for PayHere payment gateway integration — built for Sri ... |
 | [getsno/relesys-users](https://github.com/getsno/relesys-users) | 0 | Relesys User Management API client for Laravel |
 | [asciisd/zoho](https://github.com/asciisd/zoho) | 38 | Zoho package for Laravel |
 | [JulioOxalis/Capyrel](https://github.com/JulioOxalis/Capyrel) | 0 | laravel  php  eloquent  scaffolding  artisan  code-generator  relationships  lar... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [awcodes/postal-codes](https://github.com/awcodes/postal-codes) | 5 | This is a package to easily install and use postal codes in your Laravel applica... |
 | [mmorand/laravel-apertus](https://github.com/mmorand/laravel-apertus) | 2 | Laravel package for the Swiss made Apertus LLM |
 | [kg-bot/hookbox-ui-blade](https://github.com/kg-bot/hookbox-ui-blade) | 0 | Blade adapter for the Hookbox inbox and message details UI. A publishable Larave... |
-| [kejubayer/redx-api-integration](https://github.com/kejubayer/redx-api-integration) | 0 | A Laravel package for RedX courier API integration in Bangladesh. It provides a ... |
-| [xentixar/filament-push-notifications](https://github.com/xentixar/filament-push-notifications) | 17 | A comprehensive Laravel package that provides real-time push notifications for F... |
-| [novius/laravel-nova-redirect-manager](https://github.com/novius/laravel-nova-redirect-manager) | 3 |  This package provides a Nova tool to manage redirects with https://github.com/s... |
-| [novius/laravel-nova-field-preview](https://github.com/novius/laravel-nova-field-preview) | 1 | This package allows you to add Laravel Nova field to open the front preview url ... |
-| [kaiserkiwi/model-settings](https://github.com/kaiserkiwi/model-settings) | 1 | This is a simple package to add model settings to your Laravel project. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-05-13 | Laravel Package to access AI CAD |
-| [JulioOxalis/Capyrel](https://github.com/JulioOxalis/Capyrel) | 0 | 2026-05-13 | laravel  php  eloquent  scaffolding  artisan  code-generator... |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-05-13 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-05-13 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 | [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 27 | 2026-05-13 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-05-13 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-05-13 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-05-13 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-05-13 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-05-13 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-05-13 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [MyParcelCOM/resource-cleanup](https://github.com/MyParcelCOM/resource-cleanup) | 0 | 2026-05-13 | A Laravel package to permanently delete soft-deleted or expi... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-13 | The Moox Project - Packages for Filament and Laravel |
-| [iRaziul/barta](https://github.com/iRaziul/barta) | 57 | 2026-05-13 | Barta is a Laravel package designed to integrate popular Ban... |
-| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 177 | 2026-05-13 | Full genealogy and family tree building application using La... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-05-13 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [dniccum/secret-stash-cli](https://github.com/dniccum/secret-stash-cli) | 0 | 2026-05-13 | A PHP-based Composer package to interact with the SecretStas... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-13 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-13 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [AbdulrahimAl-Ghazi/filament-modular-permissions](https://github.com/AbdulrahimAl-Ghazi/filament-modular-permissions) | 0 | 2026-05-13 | A professional Laravel package for modular roles and permiss... |
+| [LaraArabDev/filament-gatekeeper](https://github.com/LaraArabDev/filament-gatekeeper) | 0 | 2026-05-13 | Advanced Role and Permission management for Laravel Filament |
+| [tonegabes/filament-mpac](https://github.com/tonegabes/filament-mpac) | 2 | 2026-05-13 | Filament MPAC - Starter Kit idealizado para ajudar a constru... |
+| [jooservices/laravel-controller](https://github.com/jooservices/laravel-controller) | 0 | 2026-05-13 | Laravel API controller foundation for standardized JSON resp... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-13 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-05-13 | Laravel-based API for storing sensor data from distributed n... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-05-13 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
+| [albertoarena/codemetry](https://github.com/albertoarena/codemetry) | 0 | 2026-05-13 | Laravel-first Composer package that analyses a Git repositor... |
+| [k4l3b4/laravel-categories](https://github.com/k4l3b4/laravel-categories) | 0 | 2026-05-13 | A polymorphic Laravel package, for advanced category managem... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-13 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-13 | Track and display Matomo analytics data directly within Lara... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-13 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-13 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-13 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-13 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-13 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-13 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-13 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-13 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-13 | Integrate Laravel with the Agent Runner microservice to mana... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-13T19:49 | 5 | 1689 | 4051 |
 | 2026-05-13T14:25 | 4 | 1689 | 4046 |
 | 2026-05-13T08:39 | 2 | 1691 | 4042 |
 | 2026-05-13T02:45 | 4 | 1690 | 4040 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-12T02:39 | 5 | 1686 | 4016 |
 | 2026-05-11T19:42 | 2 | 1691 | 4011 |
 | 2026-05-11T14:41 | 5 | 1688 | 4009 |
-| 2026-05-11T09:33 | 3 | 1688 | 4004 |
 
 ---
 

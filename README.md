@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4056  
-**Last updated:** 2026-05-14T02:47:12.396Z
+**Total packages tracked:** 4059  
+**Last updated:** 2026-05-14T08:33:33.984Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jayaswinjay-web/jay-erp](https://github.com/jayaswinjay-web/jay-erp) | 0 | Jay ERP - Enterprise resource planning system built with Laravel, Livewire, and ... |
+| [phillopp/laravel-banking](https://github.com/phillopp/laravel-banking) | 0 | Banking Package for Laravel |
+| [aihimel/laravel-waiting-request](https://github.com/aihimel/laravel-waiting-request) | 1 | Laravel package to synchronously wait in the request |
 | [agencetwogether/filament-alert-box](https://github.com/agencetwogether/filament-alert-box) | 3 | Define and display contextual alerts anywhere on your admin panel pages — Resour... |
 | [kwkuh/domain-marketplace](https://github.com/kwkuh/domain-marketplace) | 1 | 🌐 Open-source self-hosted domain marketplace. Laravel 12 + Filament v4. No comm... |
 | [ikikarinca/platform-core](https://github.com/ikikarinca/platform-core) | 0 | Shared Laravel package — tenant, capability, auth, role primitives for ikikarinc... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [vardanm1993/laravel-alias-manager](https://github.com/vardanm1993/laravel-alias-manager) | 0 | Laravel package for managing shell aliases for Laravel, PHP, Sail, Composer, Git... |
 | [robertnicjoo/temp-download-links](https://github.com/robertnicjoo/temp-download-links) | 3 | Laravel package to generate temporary download links with expiry time and max do... |
 | [balajidharma/laravel-form-builder](https://github.com/balajidharma/laravel-form-builder) | 1 | Form Builder to your Laravel projects |
-| [balajidharma/laravel-menu](https://github.com/balajidharma/laravel-menu) | 17 | Laravel Menu - Create database based Menu and Menu items to your Laravel project... |
-| [balajidharma/laravel-admin-core](https://github.com/balajidharma/laravel-admin-core) | 4 | Core package of Laravel Admin Panel |
-| [laramint/laravel-zonda](https://github.com/laramint/laravel-zonda) | 1 | Zonda is a command-line tool for building standalone Laravel packages without ne... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ejosterberg/opensalestax-bagisto](https://github.com/ejosterberg/opensalestax-bagisto) | 0 | 2026-05-14 | Bagisto package: destination-based US sales tax via the self... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-14 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [TanDuy03/cloudflare-d1-database](https://github.com/TanDuy03/cloudflare-d1-database) | 24 | 2026-05-14 | Laravel database driver for Cloudflare D1 - supports REST & ... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-14 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-14 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-14 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-14 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 388 | 2026-05-14 | Open Source Laravel CRM Package |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-14 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-14 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-14 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 | [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-14 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-14 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-14 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-14 | Generate GitHub repository statistics and insights directly ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-14 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 105 | 2026-05-14 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-14 | Prevent risky Laravel database migrations with static analys... |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-14 | Enable Laravel apps to build AI agents using Claude Code for... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-14 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-14 | Manage and track inventory with a PHP package that integrate... |
 | [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-14 |  |
 | [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-05-14 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-05-14 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-14T08:33 | 3 | 1693 | 4059 |
 | 2026-05-14T02:47 | 5 | 1691 | 4056 |
 | 2026-05-13T19:49 | 5 | 1689 | 4051 |
 | 2026-05-13T14:25 | 4 | 1689 | 4046 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-12T14:13 | 9 | 1684 | 4033 |
 | 2026-05-12T08:34 | 8 | 1683 | 4024 |
 | 2026-05-12T02:39 | 5 | 1686 | 4016 |
-| 2026-05-11T19:42 | 2 | 1691 | 4011 |
 
 ---
 

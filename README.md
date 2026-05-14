@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4063  
-**Last updated:** 2026-05-14T14:01:51.623Z
+**Total packages tracked:** 4069  
+**Last updated:** 2026-05-14T19:41:48.389Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [rfl-designer/rfl-laravel-skills](https://github.com/rfl-designer/rfl-laravel-skills) | 0 | Claude Code plugin orchestrating the Laravel 12 + Livewire 4 + Tailwind + Alpine... |
+| [Bausteln/SnipeIT-OIDC](https://github.com/Bausteln/SnipeIT-OIDC) | 0 | OpenID Connect (OIDC) authentication plugin for Snipe-IT — Laravel package with ... |
+| [jetcod/laravel-slugify](https://github.com/jetcod/laravel-slugify) | 6 | A Laravel package that automatically generates slugs for model attributes, simpl... |
+| [kngbwsr/laravel-agent-optimizer](https://github.com/kngbwsr/laravel-agent-optimizer) | 1 | A Laravel package that optimizes AI agent directive files by extracting large gu... |
+| [Siz-An/Laravel-email-configuration](https://github.com/Siz-An/Laravel-email-configuration) | 0 | Package |
+| [NextMigrant/laravel-plunk](https://github.com/NextMigrant/laravel-plunk) | 0 | A clean, expressive Laravel package for the Plunk email platform. Send transacti... |
 | [rajeshmk/laravel-settings](https://github.com/rajeshmk/laravel-settings) | 2 | An enterprise-grade, hierarchical multi-scope settings package for Laravel. Supp... |
 | [asheek21-baaboo/laravel-auth-package](https://github.com/asheek21-baaboo/laravel-auth-package) | 0 |  |
 | [dxgx/tree-size-mailer](https://github.com/dxgx/tree-size-mailer) | 0 | A Laravel package that generates comprehensive directory tree size reports and e... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ejosterberg/opensalestax-bagisto](https://github.com/ejosterberg/opensalestax-bagisto) | 0 | Bagisto package: destination-based US sales tax via the self-hosted OpenSalesTax... |
 | [LaraArabDev/filament-gatekeeper](https://github.com/LaraArabDev/filament-gatekeeper) | 0 | Advanced Role and Permission management for Laravel Filament |
 | [awcodes/typebar](https://github.com/awcodes/typebar) | 3 | Mobile Markdown symbol row for the Filament Markdown editor. |
-| [KauanCalheiro/laravel-cep-package](https://github.com/KauanCalheiro/laravel-cep-package) | 0 |  |
-| [k4l3b4/laravel-categories](https://github.com/k4l3b4/laravel-categories) | 0 | A polymorphic Laravel package, for advanced category management. |
-| [gosdrkht/payhere-laravel](https://github.com/gosdrkht/payhere-laravel) | 0 | A clean Laravel package for PayHere payment gateway integration — built for Sri ... |
-| [getsno/relesys-users](https://github.com/getsno/relesys-users) | 0 | Relesys User Management API client for Laravel |
-| [asciisd/zoho](https://github.com/asciisd/zoho) | 38 | Zoho package for Laravel |
-| [JulioOxalis/Capyrel](https://github.com/JulioOxalis/Capyrel) | 0 | laravel  php  eloquent  scaffolding  artisan  code-generator  relationships  lar... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 388 | 2026-05-14 | Open Source Laravel CRM Package |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-14 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-14 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-14 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-14 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-14 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-14 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [asheek21-baaboo/laravel-auth-package](https://github.com/asheek21-baaboo/laravel-auth-package) | 0 | 2026-05-14 |  |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-14 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [rosalana/core](https://github.com/rosalana/core) | 4 | 2026-05-14 | Rosalana core package for Laravel apps |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-14 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-14 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-14 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-14 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-14 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-14 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 6 | 2026-05-14 | A Laravel package that adds NATS messaging support to Larave... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-14 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-14 | 💳 Streamline payment processing with this PHP package that ... |
-| [dxgx/tree-size-mailer](https://github.com/dxgx/tree-size-mailer) | 0 | 2026-05-14 | A Laravel package that generates comprehensive directory tre... |
+| [rfl-designer/rfl-laravel-skills](https://github.com/rfl-designer/rfl-laravel-skills) | 0 | 2026-05-14 | Claude Code plugin orchestrating the Laravel 12 + Livewire 4... |
+| [Bausteln/SnipeIT-OIDC](https://github.com/Bausteln/SnipeIT-OIDC) | 0 | 2026-05-14 | OpenID Connect (OIDC) authentication plugin for Snipe-IT — L... |
+| [jetcod/laravel-slugify](https://github.com/jetcod/laravel-slugify) | 6 | 2026-05-14 | A Laravel package that automatically generates slugs for mod... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-05-14 | Empower your users with a modern, intuitive visual editor. T... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-14 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 0 | 2026-05-14 |  |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-14 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-14 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-14 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-14 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-14 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-14 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-14 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-14 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-14 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-14 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-14 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [oxhq/canio-laravel](https://github.com/oxhq/canio-laravel) | 0 | 2026-05-14 | Browser-grade PDF rendering package for Laravel powered by S... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-14 | Prevent risky Laravel database migrations with static analys... |
+| [carlosbuitragosan/perfume-formulation-manager](https://github.com/carlosbuitragosan/perfume-formulation-manager) | 0 | 2026-05-14 | Laravel-based full-stack system for managing perfume formula... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-14T19:41 | 6 | 1689 | 4069 |
 | 2026-05-14T14:01 | 4 | 1692 | 4063 |
 | 2026-05-14T08:33 | 3 | 1693 | 4059 |
 | 2026-05-14T02:47 | 5 | 1691 | 4056 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-13T02:45 | 4 | 1690 | 4040 |
 | 2026-05-12T19:45 | 3 | 1692 | 4036 |
 | 2026-05-12T14:13 | 9 | 1684 | 4033 |
-| 2026-05-12T08:34 | 8 | 1683 | 4024 |
 
 ---
 

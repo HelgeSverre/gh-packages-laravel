@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4075  
-**Last updated:** 2026-05-15T13:58:40.216Z
+**Total packages tracked:** 4090  
+**Last updated:** 2026-05-15T19:25:46.536Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [skylence-be/laravel-artisan-agent-output](https://github.com/skylence-be/laravel-artisan-agent-output) | 0 |  |
+| [skylence-be/laravel-model-inspector-mcp](https://github.com/skylence-be/laravel-model-inspector-mcp) | 0 |  |
+| [skylence-be/laravel-star-schema](https://github.com/skylence-be/laravel-star-schema) | 0 |  |
+| [skylence-be/filament-mega-menu](https://github.com/skylence-be/filament-mega-menu) | 0 |  |
+| [skylence-be/filament-system-configuration](https://github.com/skylence-be/filament-system-configuration) | 0 |  |
+| [skylence-be/filament-context-sidebar](https://github.com/skylence-be/filament-context-sidebar) | 0 |  |
+| [skylence-be/laravel-optimize-mcp](https://github.com/skylence-be/laravel-optimize-mcp) | 0 |  |
+| [skylence-be/laravel-telescope-mcp](https://github.com/skylence-be/laravel-telescope-mcp) | 0 |  |
+| [GrapheneICT/laravel-cognito-guard](https://github.com/GrapheneICT/laravel-cognito-guard) | 2 | Lean Laravel auth guard that validates AWS Cognito User Pool JWTs. Multi-pool, D... |
+| [ProgrammerHasan/seo](https://github.com/ProgrammerHasan/seo) | 1 | Modern AI-Powered SEO Toolkit for Laravel, Inertia.js & Modern Web Apps. |
+| [skylence-be/laravel-exactonline-api](https://github.com/skylence-be/laravel-exactonline-api) | 0 |  |
+| [skylence-be/laravel-atomic-lock](https://github.com/skylence-be/laravel-atomic-lock) | 0 |  |
+| [7span/laravel-chat](https://github.com/7span/laravel-chat) | 18 | The Laravel Chat package simplifies one-to-one and group chat integration facili... |
+| [jake142/querai](https://github.com/jake142/querai) | 0 | Querai is a Laravel package that turns natural language into **read-only SQL**, ... |
+| [skylence-be/laravel-custom-fields](https://github.com/skylence-be/laravel-custom-fields) | 0 |  |
 | [GiorgiGrdzelidze/laravel-stringer](https://github.com/GiorgiGrdzelidze/laravel-stringer) | 0 | Telegram-driven LLM blog drafter for Laravel — per-locale drafts, cover-image ge... |
-| [secondnetwork/blade-tabler-icons](https://github.com/secondnetwork/blade-tabler-icons) | 35 | A Blade icon package for the Tabler icons set. |
+| [secondnetwork/blade-tabler-icons](https://github.com/secondnetwork/blade-tabler-icons) | 35 | A Blade icons package for the Tabler icons set. |
 | [devmatchable/whop-laravel](https://github.com/devmatchable/whop-laravel) | 0 | Laravel package for the Whop PHP SDK — auto-wired client, signature-verifying mi... |
 | [nosleepman1/arch-cli](https://github.com/nosleepman1/arch-cli) | 0 | Laravel package for generating scalable clean architecture boilerplates with ser... |
 | [robertnicjoo/invisible-recaptcha](https://github.com/robertnicjoo/invisible-recaptcha) | 15 | An invisible reCAPTCHA package for Laravel, Lumen, CI or native PHP. |
-| [Log1x/blade-filetype-icons](https://github.com/Log1x/blade-filetype-icons) | 4 | A package to easily make use of dmhendricks/file-icon-vectors in your Laravel Bl... |
-| [botnet-dobbs/laravel-mpesa-sdk](https://github.com/botnet-dobbs/laravel-mpesa-sdk) | 6 | Laravel package for integrating with Safaricom's M-Pesa payment gateway. Support... |
-| [rfl-designer/rfl-laravel-skills](https://github.com/rfl-designer/rfl-laravel-skills) | 0 | Claude Code plugin orchestrating the Laravel 12 + Livewire 4 + Tailwind + Alpine... |
-| [Bausteln/SnipeIT-OIDC](https://github.com/Bausteln/SnipeIT-OIDC) | 0 | OpenID Connect (OIDC) authentication plugin for Snipe-IT — Laravel package with ... |
-| [jetcod/laravel-slugify](https://github.com/jetcod/laravel-slugify) | 6 | A Laravel package that automatically generates slugs for model attributes, simpl... |
-| [kngbwsr/laravel-agent-optimizer](https://github.com/kngbwsr/laravel-agent-optimizer) | 1 | A Laravel package that optimizes AI agent directive files by extracting large gu... |
-| [Siz-An/Laravel-email-configuration](https://github.com/Siz-An/Laravel-email-configuration) | 0 | Package |
-| [NextMigrant/laravel-plunk](https://github.com/NextMigrant/laravel-plunk) | 0 | A clean, expressive Laravel package for the Plunk email platform. Send transacti... |
-| [rajeshmk/laravel-settings](https://github.com/rajeshmk/laravel-settings) | 2 | An enterprise-grade, hierarchical multi-scope settings package for Laravel. Supp... |
-| [asheek21-baaboo/laravel-auth-package](https://github.com/asheek21-baaboo/laravel-auth-package) | 0 |  |
-| [dxgx/tree-size-mailer](https://github.com/dxgx/tree-size-mailer) | 0 | A Laravel package that generates comprehensive directory tree size reports and e... |
-| [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | Laravel package for AI Bridge — unified streaming interface for CLI Bridge, BYOK... |
-| [jayaswinjay-web/jay-erp](https://github.com/jayaswinjay-web/jay-erp) | 1 | Jay ERP - Enterprise resource planning system built with Laravel, Livewire, and ... |
-| [phillopp/laravel-banking](https://github.com/phillopp/laravel-banking) | 0 | Banking Package for Laravel |
-| [aihimel/laravel-waiting-request](https://github.com/aihimel/laravel-waiting-request) | 1 | Laravel package to synchronously wait in the request |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-15 | Generate GitHub repository statistics and insights directly ... |
-| [sprout-laravel/sprout](https://github.com/sprout-laravel/sprout) | 365 | 2026-05-15 | A flexible, seamless and easy to use multitenancy solution f... |
-| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 239 | 2026-05-15 | form builder for your users, with so many use cases |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-15 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [GiorgiGrdzelidze/laravel-stringer](https://github.com/GiorgiGrdzelidze/laravel-stringer) | 0 | 2026-05-15 | Telegram-driven LLM blog drafter for Laravel — per-locale dr... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 388 | 2026-05-15 | Open Source Laravel CRM Package |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-15 | Prevent risky Laravel database migrations with static analys... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-05-15 | A Laravel-based web application that tracks, analyzes, and p... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-15 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-15 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-15 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-15 |  |
+| [joe-nassar-tech/laravel-auth](https://github.com/joe-nassar-tech/laravel-auth) | 0 | 2026-05-15 | Drop-in authentication library for Laravel 13 — OTP + magic-... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-05-15 | Empower your users with a modern, intuitive visual editor. T... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-15 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 7 | 2026-05-15 | Laravel package providing client-side validation with Alpine... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-15 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-15 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [7span/laravel-chat](https://github.com/7span/laravel-chat) | 18 | 2026-05-15 | The Laravel Chat package simplifies one-to-one and group cha... |
+| [GrapheneICT/laravel-cognito-guard](https://github.com/GrapheneICT/laravel-cognito-guard) | 2 | 2026-05-15 | Lean Laravel auth guard that validates AWS Cognito User Pool... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 0 | 2026-05-15 |  |
+| [robertnicjoo/invisible-recaptcha](https://github.com/robertnicjoo/invisible-recaptcha) | 15 | 2026-05-15 | An invisible reCAPTCHA package for Laravel, Lumen, CI or nat... |
+| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-05-15 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
+| [VitalSaas/proexna-backend](https://github.com/VitalSaas/proexna-backend) | 0 | 2026-05-15 | Backend project for ProExna with Laravel and packages |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-15 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [php-opcua/laravel-opcua](https://github.com/php-opcua/laravel-opcua) | 4 | 2026-05-15 | OPC UA client integration for Laravel with Facade, named con... |
 | [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 28 | 2026-05-15 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [preprio/laravel-complete-starter](https://github.com/preprio/laravel-complete-starter) | 0 | 2026-05-15 | The Complete Laravel Starter package offers a sample project... |
-| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-05-15 | The Laravel Quick Start package covers the basics of connect... |
-| [preprio/laravel-graphql-sdk](https://github.com/preprio/laravel-graphql-sdk) | 0 | 2026-05-15 | This Laravel package is a provider for the Prepr GraphQL API... |
-| [preprio/opsgenie](https://github.com/preprio/opsgenie) | 2 | 2026-05-15 | Opsgenie is the #1 alerting and incident response tool. Neve... |
-| [preprio/laravel-rest-sdk](https://github.com/preprio/laravel-rest-sdk) | 2 | 2026-05-15 | This Laravel package is a provider for the Prepr REST API. |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-05-15 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-05-15 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [blax-software/laravel-shop](https://github.com/blax-software/laravel-shop) | 1 | 2026-05-15 | A comprehensive headless e-commerce package for Laravel with... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-15 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-15 | Track and display Matomo analytics data directly within Lara... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-15 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-15 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-15T19:25 | 15 | 1682 | 4090 |
 | 2026-05-15T13:58 | 4 | 1691 | 4075 |
 | 2026-05-15T08:45 | 1 | 1695 | 4072 |
 | 2026-05-15T02:47 | 2 | 1694 | 4071 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-14T02:47 | 5 | 1691 | 4056 |
 | 2026-05-13T19:49 | 5 | 1689 | 4051 |
 | 2026-05-13T14:25 | 4 | 1689 | 4046 |
-| 2026-05-13T08:39 | 2 | 1691 | 4042 |
 
 ---
 

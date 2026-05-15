@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4071  
-**Last updated:** 2026-05-15T02:47:47.189Z
+**Total packages tracked:** 4072  
+**Last updated:** 2026-05-15T08:45:01.417Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [robertnicjoo/invisible-recaptcha](https://github.com/robertnicjoo/invisible-recaptcha) | 15 | An invisible reCAPTCHA package for Laravel, Lumen, CI or native PHP. |
 | [Log1x/blade-filetype-icons](https://github.com/Log1x/blade-filetype-icons) | 4 | A package to easily make use of dmhendricks/file-icon-vectors in your Laravel Bl... |
 | [botnet-dobbs/laravel-mpesa-sdk](https://github.com/botnet-dobbs/laravel-mpesa-sdk) | 6 | Laravel package for integrating with Safaricom's M-Pesa payment gateway. Support... |
 | [rfl-designer/rfl-laravel-skills](https://github.com/rfl-designer/rfl-laravel-skills) | 0 | Claude Code plugin orchestrating the Laravel 12 + Livewire 4 + Tailwind + Alpine... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kwkuh/domain-marketplace](https://github.com/kwkuh/domain-marketplace) | 1 | 🌐 Open-source self-hosted domain marketplace. Laravel 12 + Filament v4. No comm... |
 | [ikikarinca/platform-core](https://github.com/ikikarinca/platform-core) | 0 | Shared Laravel package — tenant, capability, auth, role primitives for ikikarinc... |
 | [usinatech/cepwebservice](https://github.com/usinatech/cepwebservice) | 2 | CEP Webservice API REST Laravel Package  |
-| [ejosterberg/opensalestax-bagisto](https://github.com/ejosterberg/opensalestax-bagisto) | 0 | Bagisto package: destination-based US sales tax via the self-hosted OpenSalesTax... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-15 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-15 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-15 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-15 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-15 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-15 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-15 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [preprio/laravel-complete-starter](https://github.com/preprio/laravel-complete-starter) | 0 | 2026-05-15 | The Complete Laravel Starter package offers a sample project... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-15 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-15 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-15 | The Moox Project - Packages for Filament and Laravel |
 | [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-15 | 🚀 Simplify database interactions with this lightweight PHP ... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-15 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-15 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [blax-software/laravel-shop](https://github.com/blax-software/laravel-shop) | 1 | 2026-05-15 | A comprehensive headless e-commerce package for Laravel with... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-15 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-05-15 | A package to create datatables using alpinejs, tailwind, liv... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-15 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [Log1x/blade-filetype-icons](https://github.com/Log1x/blade-filetype-icons) | 4 | 2026-05-15 | A package to easily make use of dmhendricks/file-icon-vector... |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-15 | 💳 Streamline payment processing with this PHP package that ... |
+| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 12 | 2026-05-15 | FilaKit starter kit built on Laravel 13.x and Filament 5.x w... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-15 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-15 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-15 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [louisinnovationsqatar/sadad-laravel](https://github.com/louisinnovationsqatar/sadad-laravel) | 0 | 2026-05-15 | SADAD Payment Gateway package for Laravel - Facade, events, ... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-05-15 | A Laravel-based web application that tracks, analyzes, and p... |
+| [Alhumsiabdo/laravel-error-notifier](https://github.com/Alhumsiabdo/laravel-error-notifier) | 1 | 2026-05-15 | A Laravel package for actionable error notifications (Telegr... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-15 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 28 | 2026-05-15 | Open-source AI agent orchestration platform — self-hosted mi... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-15T08:45 | 1 | 1695 | 4072 |
 | 2026-05-15T02:47 | 2 | 1694 | 4071 |
 | 2026-05-14T19:41 | 6 | 1689 | 4069 |
 | 2026-05-14T14:01 | 4 | 1692 | 4063 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-13T14:25 | 4 | 1689 | 4046 |
 | 2026-05-13T08:39 | 2 | 1691 | 4042 |
 | 2026-05-13T02:45 | 4 | 1690 | 4040 |
-| 2026-05-12T19:45 | 3 | 1692 | 4036 |
 
 ---
 

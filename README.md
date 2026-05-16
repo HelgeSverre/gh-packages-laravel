@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4095  
-**Last updated:** 2026-05-16T07:58:54.844Z
+**Total packages tracked:** 4101  
+**Last updated:** 2026-05-16T13:14:37.358Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [hopelessness-7/codesnip](https://github.com/hopelessness-7/codesnip) | 0 | RU: Менеджер сниппетов с ревизиями, поиском и редактором CodeMirror (Laravel + L... |
+| [robmellett/saas-starter-livewire](https://github.com/robmellett/saas-starter-livewire) | 1 | A production-ready Laravel SaaS starter kit with Paddle billing baked in, so you... |
+| [ndum/laravel-seb](https://github.com/ndum/laravel-seb) | 3 | Laravel Package for generating encrypted SEB (Safe Exam Browser) exam configurat... |
+| [Zairakai/PHP-Package_laravel_auth](https://github.com/Zairakai/PHP-Package_laravel_auth) | 0 |  |
+| [lornequinn/blog](https://github.com/lornequinn/blog) | 0 | Modular blog package suite for Laravel. |
+| [tttptd/laravel-doctrine-odm](https://github.com/tttptd/laravel-doctrine-odm) | 0 | A package to integrate MongoDB with Doctrine ODM for Laravel |
 | [QuenHengLee/bopomofo-captcha](https://github.com/QuenHengLee/bopomofo-captcha) | 0 | Bopomofo (注音符號) CAPTCHA for Laravel — session & stateless API modes. 為 Laravel 設... |
 | [oi-lab/oi-laravel-documentation](https://github.com/oi-lab/oi-laravel-documentation) | 1 | A Laravel package for managing markdown-based documentation with hierarchical na... |
 | [Mahmoud-ElBoshy/laravel-hierarchical-billing](https://github.com/Mahmoud-ElBoshy/laravel-hierarchical-billing) | 0 | A Laravel package for hierarchical account billing — subscription, per-event, an... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [skylence-be/laravel-optimize-mcp](https://github.com/skylence-be/laravel-optimize-mcp) | 0 |  |
 | [skylence-be/laravel-telescope-mcp](https://github.com/skylence-be/laravel-telescope-mcp) | 0 |  |
 | [GrapheneICT/laravel-cognito-guard](https://github.com/GrapheneICT/laravel-cognito-guard) | 2 | Lean Laravel auth guard that validates AWS Cognito User Pool JWTs. Multi-pool, D... |
-| [ProgrammerHasan/seo](https://github.com/ProgrammerHasan/seo) | 1 | Modern AI-Powered SEO Toolkit for Laravel, Inertia.js & Modern Web Apps. |
-| [skylence-be/laravel-exactonline-api](https://github.com/skylence-be/laravel-exactonline-api) | 0 |  |
-| [skylence-be/laravel-atomic-lock](https://github.com/skylence-be/laravel-atomic-lock) | 0 |  |
-| [7span/laravel-chat](https://github.com/7span/laravel-chat) | 18 | The Laravel Chat package simplifies one-to-one and group chat integration facili... |
-| [jake142/querai](https://github.com/jake142/querai) | 0 | Querai is a Laravel package that turns natural language into **read-only SQL**, ... |
-| [skylence-be/laravel-custom-fields](https://github.com/skylence-be/laravel-custom-fields) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-16 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-16 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [TanDuy03/cloudflare-d1-database](https://github.com/TanDuy03/cloudflare-d1-database) | 24 | 2026-05-16 | Laravel database driver for Cloudflare D1 - supports REST & ... |
-| [oi-lab/oi-laravel-documentation](https://github.com/oi-lab/oi-laravel-documentation) | 1 | 2026-05-16 | A Laravel package for managing markdown-based documentation ... |
-| [farayaz/laravel-spy](https://github.com/farayaz/laravel-spy) | 213 | 2026-05-16 | Laravel Spy is a lightweight package to track and log outgoi... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-16 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 29 | 2026-05-16 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-16 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-16 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-16 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-16 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-16 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-16 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-16 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-16 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-16 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-16 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-16 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-16 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-16 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Garanaw/laravel-configurer](https://github.com/Garanaw/laravel-configurer) | 0 | 2026-05-16 | This package adds some basic libraries to laravel |
+| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-05-16 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
+| [ndum/laravel-seb](https://github.com/ndum/laravel-seb) | 3 | 2026-05-16 | Laravel Package for generating encrypted SEB (Safe Exam Brow... |
+| [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | 2026-05-16 | Laravel package for AI Bridge — unified streaming interface ... |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-05-16 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 388 | 2026-05-16 | Open Source Laravel CRM Package |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-16 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-16 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [niels-numbers/laravel-localizer](https://github.com/niels-numbers/laravel-localizer) | 12 | 2026-05-16 | Detect users' language and serve localized routes in Laravel |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-16 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-16 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-16 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-16 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-16 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-16 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-16 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-16 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-16 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-16 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-16 | 🛒 Build and manage your online store effortlessly with Shop... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-16T13:14 | 6 | 1696 | 4101 |
 | 2026-05-16T07:58 | 3 | 1695 | 4095 |
 | 2026-05-16T02:36 | 2 | 1695 | 4092 |
 | 2026-05-15T19:25 | 15 | 1682 | 4090 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-14T19:41 | 6 | 1689 | 4069 |
 | 2026-05-14T14:01 | 4 | 1692 | 4063 |
 | 2026-05-14T08:33 | 3 | 1693 | 4059 |
-| 2026-05-14T02:47 | 5 | 1691 | 4056 |
 
 ---
 

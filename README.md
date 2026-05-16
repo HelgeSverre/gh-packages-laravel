@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4090  
-**Last updated:** 2026-05-15T19:25:46.536Z
+**Total packages tracked:** 4092  
+**Last updated:** 2026-05-16T02:36:20.905Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [junaidnasir/larainvite](https://github.com/junaidnasir/larainvite) | 142 | MAINTANER REQUIRED: User (signup) invitation package for laravel |
+| [athwari/laravel-zkteco-adms-server](https://github.com/athwari/laravel-zkteco-adms-server) | 0 | Laravel package implementing the ZKTeco ADMS protocol for biometric attendance d... |
 | [skylence-be/laravel-artisan-agent-output](https://github.com/skylence-be/laravel-artisan-agent-output) | 0 |  |
 | [skylence-be/laravel-model-inspector-mcp](https://github.com/skylence-be/laravel-model-inspector-mcp) | 0 |  |
 | [skylence-be/laravel-star-schema](https://github.com/skylence-be/laravel-star-schema) | 0 |  |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [GiorgiGrdzelidze/laravel-stringer](https://github.com/GiorgiGrdzelidze/laravel-stringer) | 0 | Telegram-driven LLM blog drafter for Laravel — per-locale drafts, cover-image ge... |
 | [secondnetwork/blade-tabler-icons](https://github.com/secondnetwork/blade-tabler-icons) | 35 | A Blade icons package for the Tabler icons set. |
 | [devmatchable/whop-laravel](https://github.com/devmatchable/whop-laravel) | 0 | Laravel package for the Whop PHP SDK — auto-wired client, signature-verifying mi... |
-| [nosleepman1/arch-cli](https://github.com/nosleepman1/arch-cli) | 0 | Laravel package for generating scalable clean architecture boilerplates with ser... |
-| [robertnicjoo/invisible-recaptcha](https://github.com/robertnicjoo/invisible-recaptcha) | 15 | An invisible reCAPTCHA package for Laravel, Lumen, CI or native PHP. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [joe-nassar-tech/laravel-auth](https://github.com/joe-nassar-tech/laravel-auth) | 0 | 2026-05-15 | Drop-in authentication library for Laravel 13 — OTP + magic-... |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-05-15 | Empower your users with a modern, intuitive visual editor. T... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-15 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 7 | 2026-05-15 | Laravel package providing client-side validation with Alpine... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-15 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-15 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [7span/laravel-chat](https://github.com/7span/laravel-chat) | 18 | 2026-05-15 | The Laravel Chat package simplifies one-to-one and group cha... |
-| [GrapheneICT/laravel-cognito-guard](https://github.com/GrapheneICT/laravel-cognito-guard) | 2 | 2026-05-15 | Lean Laravel auth guard that validates AWS Cognito User Pool... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 0 | 2026-05-15 |  |
-| [robertnicjoo/invisible-recaptcha](https://github.com/robertnicjoo/invisible-recaptcha) | 15 | 2026-05-15 | An invisible reCAPTCHA package for Laravel, Lumen, CI or nat... |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-05-15 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [VitalSaas/proexna-backend](https://github.com/VitalSaas/proexna-backend) | 0 | 2026-05-15 | Backend project for ProExna with Laravel and packages |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-15 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [php-opcua/laravel-opcua](https://github.com/php-opcua/laravel-opcua) | 4 | 2026-05-15 | OPC UA client integration for Laravel with Facade, named con... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 28 | 2026-05-15 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [blax-software/laravel-shop](https://github.com/blax-software/laravel-shop) | 1 | 2026-05-15 | A comprehensive headless e-commerce package for Laravel with... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-15 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-15 | Track and display Matomo analytics data directly within Lara... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-15 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-15 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [athwari/laravel-zkteco-adms-server](https://github.com/athwari/laravel-zkteco-adms-server) | 0 | 2026-05-16 | Laravel package implementing the ZKTeco ADMS protocol for bi... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-16 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-16 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-16 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-16 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-16 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-16 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-16 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-16 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-16 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-16 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-16 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-16 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-16 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-16 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-16 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-16 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-16 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-16 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-16 | Build reusable Filament dashboard widgets for Laravel, inclu... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-16T02:36 | 2 | 1695 | 4092 |
 | 2026-05-15T19:25 | 15 | 1682 | 4090 |
 | 2026-05-15T13:58 | 4 | 1691 | 4075 |
 | 2026-05-15T08:45 | 1 | 1695 | 4072 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-14T08:33 | 3 | 1693 | 4059 |
 | 2026-05-14T02:47 | 5 | 1691 | 4056 |
 | 2026-05-13T19:49 | 5 | 1689 | 4051 |
-| 2026-05-13T14:25 | 4 | 1689 | 4046 |
 
 ---
 

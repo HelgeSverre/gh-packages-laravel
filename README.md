@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4182  
-**Last updated:** 2026-05-18T13:15:28.257Z
+**Total packages tracked:** 4185  
+**Last updated:** 2026-05-18T18:20:36.791Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [vimatech-io/laravel-membership](https://github.com/vimatech-io/laravel-membership) | 1 | Polymorphic memberships for Laravel. |
+| [alimranedx/runtime-feature-toggle](https://github.com/alimranedx/runtime-feature-toggle) | 0 | A simple Laravel package to enable or disable features at runtime without changi... |
+| [DyanGalih/laravel-regions](https://github.com/DyanGalih/laravel-regions) | 3 | High-performance Laravel package for Indonesian regional data (Provinces, Regenc... |
 | [haydulski/wydatkomierz](https://github.com/haydulski/wydatkomierz) | 0 | Expenses tracker in Laravel and Livewire. |
 | [shweshi/OpenGraph](https://github.com/shweshi/OpenGraph) | 167 | A Laravel package to fetch Open Graph data of a website. |
 | [kblais/query-filter](https://github.com/kblais/query-filter) | 24 | Define filters for your Eloquent models based on your request |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [CaneBayComputers/ip-api](https://github.com/CaneBayComputers/ip-api) | 0 | A simple Laravel package to get IP address information from ip-api.com |
 | [hatamiarash7/Laravel-OpenALPR](https://github.com/hatamiarash7/Laravel-OpenALPR) | 3 | OpenALPR package for laravel |
 | [rxcod9/joy-voyager-bread-package](https://github.com/rxcod9/joy-voyager-bread-package) | 0 |  Joy Voyager Bread Packages scaffolding template  |
-| [rxcod9/joy-package](https://github.com/rxcod9/joy-package) | 0 |  Joy Laravel Packages scaffolding template  |
-| [salahhusa9/laravel-menu](https://github.com/salahhusa9/laravel-menu) | 16 | This is a useful package for building menus in your Laravel application, and it ... |
-| [rxcod9/joy-voyager-package](https://github.com/rxcod9/joy-voyager-package) | 0 | Joy Voyager Packages scaffolding template |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [SanderMuller/package-boost-laravel](https://github.com/SanderMuller/package-boost-laravel) | 1 | 2026-05-18 | AI agent skills for Laravel package authors. Adds Laravel sk... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-18 | The Moox Project - Packages for Filament and Laravel |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-18 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [asheek21-baaboo/laravel-auth-package](https://github.com/asheek21-baaboo/laravel-auth-package) | 0 | 2026-05-18 |  |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 114 | 2026-05-18 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [lalalili/subscription-core](https://github.com/lalalili/subscription-core) | 0 | 2026-05-18 | Reusable subscription domain package for Laravel application... |
-| [banulalakwindu/laravel-pricing](https://github.com/banulalakwindu/laravel-pricing) | 0 | 2026-05-18 | Portable Laravel package: a small rule-based pricing engine ... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-18 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-18 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-18 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-18 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-18 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-18 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-18 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-18 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [GrapheneICT/laravel-cognito-guard](https://github.com/GrapheneICT/laravel-cognito-guard) | 2 | 2026-05-18 | Lean Laravel auth guard that validates AWS Cognito User Pool... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-18 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-18 | Generate GitHub repository statistics and insights directly ... |
-| [aliziodev/laravel-biteship](https://github.com/aliziodev/laravel-biteship) | 0 | 2026-05-18 | Package Laravel untuk integrasi API Biteship - aggregator pe... |
-| [Sultonisky/Slogy](https://github.com/Sultonisky/Slogy) | 0 | 2026-05-18 | Simple Laravel activity logging package for tracking user ac... |
+| [VitalSaas/proexna-backend](https://github.com/VitalSaas/proexna-backend) | 0 | 2026-05-18 | Backend project for ProExna with Laravel and packages |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-05-18 | Empower your users with a modern, intuitive visual editor. T... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-05-18 | The flexible backbone for your next CMS. This powerful frame... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-18 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-18 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-18 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-18 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [alimranedx/runtime-feature-toggle](https://github.com/alimranedx/runtime-feature-toggle) | 0 | 2026-05-18 | A simple Laravel package to enable or disable features at ru... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-18 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-18 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-18 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-18 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-18 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-05-18 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-05-18 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [jooservices/laravel-repository](https://github.com/jooservices/laravel-repository) | 0 | 2026-05-18 | PHP 8.5+ Laravel repository package for trait-based CRUD, fi... |
+| [jooservices/laravel-config](https://github.com/jooservices/laravel-config) | 0 | 2026-05-18 | Laravel package for MongoDB-backed application configuration... |
+| [yenHunter/laravel-website-analytics](https://github.com/yenHunter/laravel-website-analytics) | 0 | 2026-05-18 | A lightweight visitor tracking package for Laravel. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-18T18:20 | 3 | 1728 | 4185 |
 | 2026-05-18T13:15 | 48 | 1685 | 4182 |
 | 2026-05-18T07:25 | 2 | 1704 | 4136 |
 | 2026-05-18T00:40 | 6 | 1698 | 4134 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-17T00:40 | 3 | 1698 | 4107 |
 | 2026-05-16T18:59 | 3 | 1698 | 4104 |
 | 2026-05-16T13:14 | 6 | 1696 | 4101 |
-| 2026-05-16T07:58 | 3 | 1695 | 4095 |
 
 ---
 

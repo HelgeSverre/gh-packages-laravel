@@ -1,4 +1,6 @@
 <script lang="ts">
+    import MiniSearch from 'minisearch';
+
     interface Package {
         name: string;
         url: string;
@@ -15,10 +17,56 @@
 
     let {packages}: Props = $props();
 
-    let sort = $state('discovered');
+    let sort = $state('relevance');
     let search = $state('');
+    let debouncedSearch = $state('');
     let minStars = $state(0);
     let maxStars = $state(500);
+
+    const ONE_YEAR_MS = 365 * 24 * 60 * 60 * 1000;
+    const nowMs = Date.now();
+
+    const miniSearch = $derived.by(() => {
+        const ms = new MiniSearch<Package>({
+            idField: 'name',
+            fields: ['name', 'description', 'topics'],
+            storeFields: ['stars', 'pushed_at'],
+            extractField: (doc, field) => {
+                if (field === 'topics') return ((doc as any).topics || []).join(' ');
+                return (doc as any)[field] ?? '';
+            },
+            searchOptions: {
+                prefix: true,
+                fuzzy: 0.2,
+                boost: {name: 3, topics: 2},
+                combineWith: 'AND',
+                boostDocument: (_id, _term, stored) => {
+                    const stars = (stored?.stars as number) ?? 0;
+                    const pushedAt = stored?.pushed_at as string | undefined;
+                    const starBoost = Math.log10(1 + stars) * 0.5;
+                    const ageMs = pushedAt
+                        ? nowMs - new Date(pushedAt).getTime()
+                        : ONE_YEAR_MS;
+                    const recencyBoost = Math.max(0, 1 - ageMs / ONE_YEAR_MS) * 0.3;
+                    return 1 + starBoost + recencyBoost;
+                },
+            },
+        });
+        ms.addAll(packages);
+        return ms;
+    });
+
+    const byName = $derived(new Map(packages.map((p) => [p.name, p])));
+
+    let debounceTimer: ReturnType<typeof setTimeout> | undefined;
+    $effect(() => {
+        const value = search;
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+            debouncedSearch = value;
+        }, 90);
+        return () => clearTimeout(debounceTimer);
+    });
 
     function timeAgo(dateString: string): string {
         const now = new Date();
@@ -32,39 +80,51 @@
     }
 
     let filtered = $derived.by(() => {
-        let result = packages.filter((pkg) => {
-            if (pkg.stars < minStars || pkg.stars > maxStars) return false;
-            if (search) {
-                const haystack = (
-                    pkg.name +
-                    ' ' +
-                    pkg.description +
-                    ' ' +
-                    (pkg.topics || []).join(' ')
-                ).toLowerCase();
-                return haystack.includes(search.toLowerCase());
-            }
-            return true;
-        });
+        const query = debouncedSearch.trim();
+        let result: Package[];
+        let hasRelevance = false;
 
-        result.sort((a, b) => {
-            switch (sort) {
-                case 'stars':
-                    return b.stars - a.stars;
-                case 'updated':
-                    return (
-                        new Date(b.pushed_at).getTime() - new Date(a.pushed_at).getTime()
-                    );
-                case 'name':
-                    return a.name.localeCompare(b.name);
-                case 'discovered':
-                default:
-                    return (
-                        new Date(b.discovered_at).getTime() -
-                        new Date(a.discovered_at).getTime()
-                    );
-            }
-        });
+        if (query) {
+            const hits = miniSearch.search(query, {
+                filter: (r) => {
+                    const stars = (r.stars as number) ?? 0;
+                    return stars >= minStars && stars <= maxStars;
+                },
+            });
+            result = hits
+                .map((h) => byName.get(h.id as string))
+                .filter((p): p is Package => !!p);
+            hasRelevance = true;
+        } else {
+            result = packages.filter(
+                (pkg) => pkg.stars >= minStars && pkg.stars <= maxStars,
+            );
+        }
+
+        const effectiveSort =
+            sort === 'relevance' ? (hasRelevance ? 'relevance' : 'discovered') : sort;
+
+        if (effectiveSort !== 'relevance') {
+            result.sort((a, b) => {
+                switch (effectiveSort) {
+                    case 'stars':
+                        return b.stars - a.stars;
+                    case 'updated':
+                        return (
+                            new Date(b.pushed_at).getTime() -
+                            new Date(a.pushed_at).getTime()
+                        );
+                    case 'name':
+                        return a.name.localeCompare(b.name);
+                    case 'discovered':
+                    default:
+                        return (
+                            new Date(b.discovered_at).getTime() -
+                            new Date(a.discovered_at).getTime()
+                        );
+                }
+            });
+        }
 
         return result;
     });
@@ -104,6 +164,7 @@
                 <span class="text-pink-400">--sort</span><span class="text-zinc-400"
             >=</span
             ><select bind:value={sort} class="cmd-select" aria-label="Sort order">
+                <option value="relevance">relevance</option>
                 <option value="discovered">discovered</option>
                 <option value="stars">stars</option>
                 <option value="updated">updated</option>

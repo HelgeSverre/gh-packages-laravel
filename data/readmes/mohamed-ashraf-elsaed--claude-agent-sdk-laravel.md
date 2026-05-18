@@ -1,0 +1,507 @@
+# Claude Agent SDK for Laravel
+
+[![Tests](https://github.com/mohamed-ashraf-elsaed/claude-agent-sdk-laravel/actions/workflows/tests.yml/badge.svg)](https://github.com/mohamed-ashraf-elsaed/claude-agent-sdk-laravel/actions)
+[![Latest Version](https://img.shields.io/packagist/v/mohamed-ashraf-elsaed/claude-agent-sdk-laravel.svg)](https://packagist.org/packages/mohamed-ashraf-elsaed/claude-agent-sdk-laravel)
+[![Total Downloads](https://img.shields.io/packagist/dt/mohamed-ashraf-elsaed/claude-agent-sdk-laravel.svg)](https://packagist.org/packages/mohamed-ashraf-elsaed/claude-agent-sdk-laravel)
+[![PHP Version](https://img.shields.io/packagist/php-v/mohamed-ashraf-elsaed/claude-agent-sdk-laravel.svg)](https://packagist.org/packages/mohamed-ashraf-elsaed/claude-agent-sdk-laravel)
+[![Laravel](https://img.shields.io/badge/Laravel-10%20|%2011%20|%2012%20|%2013-red.svg)](https://laravel.com)
+[![License](https://img.shields.io/packagist/l/mohamed-ashraf-elsaed/claude-agent-sdk-laravel.svg)](LICENSE)
+
+Build AI agents with Claude Code as a library in your Laravel applications. This SDK wraps the Claude Code CLI to give your app access to file operations, bash commands, code editing, web search, subagents, and more.
+
+## Requirements
+
+- PHP 8.1+
+- Laravel 10, 11, or 12 and 13
+- Claude Code CLI (`npm install -g @anthropic-ai/claude-code`)
+- Anthropic API key
+
+## Installation
+```bash
+composer require mohamed-ashraf-elsaed/claude-agent-sdk-laravel
+```
+
+Publish the config:
+```bash
+php artisan vendor:publish --tag=claude-agent-config
+```
+
+Add your API key to `.env`:
+```env
+ANTHROPIC_API_KEY=your-api-key
+```
+
+## Quick Start
+
+### Simple Query
+```php
+use ClaudeAgentSDK\Facades\ClaudeAgent;
+
+$result = ClaudeAgent::query('What files are in this directory?');
+
+echo $result->text();       // Final text result
+echo $result->costUsd();    // Cost in USD
+echo $result->sessionId;    // Session ID for resuming
+```
+
+### With Options (Fluent API)
+```php
+use ClaudeAgentSDK\Options\ClaudeAgentOptions;
+
+$options = ClaudeAgentOptions::make()
+    ->tools(['Read', 'Edit', 'Bash', 'Grep', 'Glob'])
+    ->permission('acceptEdits')
+    ->maxTurns(10)
+    ->maxBudgetUsd(5.00)
+    ->cwd('/path/to/project');
+
+$result = ClaudeAgent::query('Find and fix the bug in auth.php', $options);
+
+if ($result->isSuccess()) {
+    echo $result->text();
+}
+```
+
+### Streaming Responses
+```php
+use ClaudeAgentSDK\Messages\AssistantMessage;
+use ClaudeAgentSDK\Messages\ResultMessage;
+
+foreach (ClaudeAgent::stream('Refactor the User model') as $message) {
+    if ($message instanceof AssistantMessage) {
+        echo $message->text();
+    }
+
+    if ($message instanceof ResultMessage) {
+        echo "\nDone! Cost: $" . $message->totalCostUsd;
+    }
+}
+```
+
+### Stream with Callback
+```php
+$result = ClaudeAgent::streamCollect(
+    prompt: 'Create a REST API for products',
+    onMessage: function ($message) {
+        if ($message instanceof AssistantMessage) {
+            Log::info($message->text());
+        }
+    },
+    options: ClaudeAgentOptions::make()->tools(['Read', 'Write', 'Bash']),
+);
+
+echo $result->text();
+```
+
+## Options Reference
+
+### Fluent Builder
+```php
+$options = ClaudeAgentOptions::make()
+    ->tools(['Read', 'Write', 'Edit', 'Bash', 'Grep', 'Glob'])
+    ->disallow(['WebFetch'])
+    ->model('claude-sonnet-4-5-20250929')
+    ->permission('acceptEdits')
+    ->maxTurns(15)
+    ->maxBudgetUsd(10.00)
+    ->maxThinkingTokens(8000)
+    ->fallbackModel('claude-haiku-4-5')
+    ->cwd('/path/to/project')
+    ->env('MY_VAR', 'value')
+    ->settingSources(['project'])
+    ->useClaudeCodePrompt('Also follow PSR-12.')
+    ->betas(['context-1m-2025-08-07'])
+    ->permissionPromptToolName('my_custom_tool')
+    ->resumeSessionAt('2025-01-15T10:30:00Z')
+    ->allowDangerouslySkipPermissions();
+```
+
+### From Array
+```php
+$options = ClaudeAgentOptions::fromArray([
+    'allowed_tools' => ['Read', 'Bash'],
+    'permission_mode' => 'bypassPermissions',
+    'max_turns' => 5,
+    'max_budget_usd' => 5.00,
+    'max_thinking_tokens' => 10000,
+]);
+```
+
+### System Prompts
+```php
+// Custom string
+$options->systemPrompt('You are a Laravel expert. Always use Eloquent.');
+
+// Claude Code preset (includes default agent behavior)
+$options->useClaudeCodePrompt();
+
+// Claude Code preset with additions
+$options->useClaudeCodePrompt('Follow PSR-12 and use strict types.');
+```
+
+### Permission Modes
+
+| Mode               | Behavior                                    |
+|--------------------|---------------------------------------------|
+| `default`          | Ask for permission on each tool use         |
+| `acceptEdits`      | Auto-accept file edits, ask for others      |
+| `dontAsk`          | Don't ask but log decisions                 |
+| `bypassPermissions`| Skip all permission checks                  |
+| `plan`             | Create a plan but don't execute             |
+
+### Custom Permission Handler
+
+For fine-grained control over tool permissions, use `canUseTool()` to register a callback that approves, denies, or modifies each tool invocation:
+
+```php
+use ClaudeAgentSDK\Permissions\PermissionResultAllow;
+use ClaudeAgentSDK\Permissions\PermissionResultDeny;
+
+$options = ClaudeAgentOptions::make()
+    ->canUseTool(function (string $toolName, array $input) {
+        if ($toolName === 'Bash' && str_contains($input['command'] ?? '', 'rm -rf')) {
+            return new PermissionResultDeny('Destructive commands not allowed');
+        }
+        if ($toolName === 'Write') {
+            return new PermissionResultAllow(
+                updatedInput: array_merge($input, ['file_path' => '/sandbox' . $input['file_path']])
+            );
+        }
+        return new PermissionResultAllow();
+    });
+```
+
+Return `PermissionResultAllow` to approve (optionally with modified input), or `PermissionResultDeny` with a reason to block the tool call.
+
+## Hooks
+
+Run shell commands before or after Claude uses tools. The SDK supports all 12 hook events:
+
+`PreToolUse`, `PostToolUse`, `PostToolUseFailure`, `UserPromptSubmit`, `Notification`, `SessionStart`, `SessionEnd`, `Stop`, `SubagentStart`, `SubagentStop`, `PreCompact`, `PermissionRequest`
+
+```php
+use ClaudeAgentSDK\Hooks\HookEvent;
+use ClaudeAgentSDK\Hooks\HookMatcher;
+
+$options = ClaudeAgentOptions::make()
+    ->tools(['Read', 'Edit', 'Bash'])
+    // Shorthand methods
+    ->preToolUse('php artisan lint:check', '/Edit|Write/', 30)
+    ->postToolUse('php artisan test:affected')
+    // Or use hook() directly for any event
+    ->hook(HookEvent::Stop, HookMatcher::command('php /hooks/cleanup.php'))
+    ->hook(HookEvent::SessionStart, HookMatcher::command('php /hooks/init.php'))
+    ->hook(HookEvent::SubagentStop, HookMatcher::command('php /hooks/subagent-done.php'));
+
+$result = ClaudeAgent::query('Refactor the User model', $options);
+```
+
+### HookMatcher Factory Methods
+```php
+// From a shell command
+$matcher = HookMatcher::command('eslint --fix', '/Edit|Write/', 60);
+
+// From a PHP script
+$matcher = HookMatcher::phpScript('/hooks/validate.php', '/Bash/', 10);
+
+// Full control
+$matcher = new HookMatcher(
+    matcher: '/Edit|Write/',
+    hooks: ['php /hooks/lint.php', 'php /hooks/backup.php'],
+    timeout: 30,
+);
+```
+
+## Subagents
+
+Define specialized agents that Claude delegates tasks to:
+```php
+use ClaudeAgentSDK\Agents\AgentDefinition;
+
+$options = ClaudeAgentOptions::make()
+    ->tools(['Read', 'Grep', 'Glob', 'Task'])
+    ->agent('security-reviewer', new AgentDefinition(
+        description: 'Security code review specialist',
+        prompt: 'You are a security expert. Find vulnerabilities in PHP/Laravel code.',
+        tools: ['Read', 'Grep', 'Glob'],
+        model: 'sonnet',
+    ))
+    ->agent('test-writer', new AgentDefinition(
+        description: 'PHPUnit test writer',
+        prompt: 'Write comprehensive PHPUnit tests for Laravel applications.',
+        tools: ['Read', 'Write', 'Bash'],
+    ));
+
+$result = ClaudeAgent::query('Review the auth module for security issues', $options);
+```
+
+## Structured Output
+
+Get validated JSON responses matching a schema:
+```php
+$options = ClaudeAgentOptions::make()
+    ->tools(['Read', 'Grep', 'Glob'])
+    ->outputFormat([
+        'type' => 'object',
+        'properties' => [
+            'issues' => [
+                'type' => 'array',
+                'items' => [
+                    'type' => 'object',
+                    'properties' => [
+                        'file' => ['type' => 'string'],
+                        'line' => ['type' => 'number'],
+                        'severity' => ['type' => 'string', 'enum' => ['low', 'medium', 'high']],
+                        'description' => ['type' => 'string'],
+                    ],
+                    'required' => ['file', 'severity', 'description'],
+                ],
+            ],
+            'total' => ['type' => 'number'],
+        ],
+        'required' => ['issues', 'total'],
+    ]);
+
+$result = ClaudeAgent::query('Find all TODO comments in src/', $options);
+$data = $result->structured(); // Validated array matching schema
+```
+
+## Session Resumption
+
+Continue conversations across multiple queries:
+```php
+// First query
+$result = ClaudeAgent::query('Read the auth module');
+$sessionId = $result->sessionId;
+
+// Resume later with full context
+$result2 = ClaudeAgent::query(
+    'Now find all places that call it',
+    ClaudeAgentOptions::make()->resume($sessionId),
+);
+
+// Fork a session to try different approaches
+$result3 = ClaudeAgent::query(
+    'Try refactoring it with a different pattern',
+    ClaudeAgentOptions::make()->resume($sessionId, fork: true),
+);
+```
+
+## MCP Servers
+
+Connect external tools via Model Context Protocol:
+```php
+use ClaudeAgentSDK\Tools\McpServerConfig;
+
+// Stdio transport
+$options = ClaudeAgentOptions::make()
+    ->mcpServer('database', McpServerConfig::stdio(
+        command: 'npx',
+        args: ['@modelcontextprotocol/server-database'],
+        env: ['DB_URL' => config('database.url')],
+    ))
+    ->tools(['mcp__database__query', 'Read']);
+
+$result = ClaudeAgent::query('Show me the latest users', $options);
+
+// SSE transport
+$options = ClaudeAgentOptions::make()
+    ->mcpServer('api', McpServerConfig::sse(
+        url: 'http://localhost:3000/mcp',
+        headers: ['Authorization' => 'Bearer ' . config('services.mcp.token')],
+    ));
+
+// HTTP transport
+$options = ClaudeAgentOptions::make()
+    ->mcpServer('api', McpServerConfig::http(
+        url: 'http://localhost:3000/mcp',
+        headers: ['Authorization' => 'Bearer ' . config('services.mcp.token')],
+    ));
+```
+
+## Working with Results
+```php
+$result = ClaudeAgent::query('Analyze this codebase');
+
+// Basic info
+$result->text();              // Final text result
+$result->isSuccess();         // bool — true if subtype is 'success'
+$result->isError();           // bool — true if error or no result
+$result->costUsd();           // float|null — total cost in USD
+$result->turns();             // int — number of conversation turns
+$result->durationMs();        // int — total duration in milliseconds
+$result->sessionId;           // string|null — for session resumption
+
+// Error types
+$result->subtype();              // 'success', 'error_max_turns', 'error_max_budget_usd', etc.
+$result->isMaxTurnsError();      // true if stopped at turn limit
+$result->isBudgetError();        // true if budget exceeded
+$result->permissionDenials();    // array of denied tool uses
+$result->errors();               // array of execution errors
+
+// Session introspection
+$result->model();                // Model used
+$result->availableTools();       // Tools available
+$result->mcpServerStatus();      // MCP server statuses
+$result->supportedCommands();    // Available slash commands
+
+// Messages
+$result->messages;            // All Message objects
+$result->assistantMessages(); // AssistantMessage[] only
+$result->fullText();          // Concatenated text from all assistant messages
+$result->toolUses();          // All ToolUseBlock objects across messages
+$result->structured();        // Structured output array (if outputFormat set)
+
+// Per-model usage & cache metrics
+$result->modelUsage();        // array<string, ModelUsage> — per-model breakdown
+$result->cacheReadTokens();   // int — total cache-read tokens across all models
+$result->cacheCreationTokens(); // int — total cache-creation tokens
+
+foreach ($result->modelUsage() as $model => $usage) {
+    echo "{$model}: {$usage->inputTokens} in, {$usage->outputTokens} out\n";
+    echo "  Cache hit rate: " . round($usage->cacheHitRate() * 100) . "%\n";
+    echo "  Cost: \${$usage->costUsd}\n";
+}
+```
+
+## Working with Messages
+```php
+use ClaudeAgentSDK\Messages\AssistantMessage;
+use ClaudeAgentSDK\Messages\SystemMessage;
+use ClaudeAgentSDK\Messages\ResultMessage;
+
+foreach (ClaudeAgent::stream('Do something') as $message) {
+    match (true) {
+        $message instanceof SystemMessage => handleSystem($message),
+        $message instanceof AssistantMessage => handleAssistant($message),
+        $message instanceof ResultMessage => handleResult($message),
+        default => null,
+    };
+}
+
+function handleAssistant(AssistantMessage $msg): void
+{
+    // Text content
+    echo $msg->text();
+
+    // Tool calls made by Claude
+    foreach ($msg->toolUses() as $toolUse) {
+        echo "Tool: {$toolUse->name}, Input: " . json_encode($toolUse->input);
+    }
+
+    // Metadata
+    echo $msg->model;            // Model used
+    echo $msg->id;               // Message ID
+    echo $msg->parentToolUseId;  // If this is a subagent response
+}
+```
+
+## Default Options via Config
+
+Set defaults in `config/claude-agent.php` or `.env`:
+```env
+CLAUDE_AGENT_MODEL=claude-sonnet-4-5-20250929
+CLAUDE_AGENT_PERMISSION_MODE=acceptEdits
+CLAUDE_AGENT_MAX_TURNS=10
+CLAUDE_AGENT_MAX_BUDGET_USD=10.00
+CLAUDE_AGENT_MAX_THINKING_TOKENS=8000
+CLAUDE_AGENT_CWD=/var/www/project
+CLAUDE_AGENT_TIMEOUT=300
+CLAUDE_AGENT_CLI_PATH=/usr/local/bin/claude
+```
+
+Options passed to `query()` override config defaults.
+
+## Advanced: Sandbox, Plugins & Betas
+```php
+// Run in a sandboxed environment with command isolation
+$options = ClaudeAgentOptions::make()
+    ->sandbox([
+        'enabled' => true,
+        'autoAllowBashIfSandboxed' => true,
+        'excludedCommands' => ['docker'],
+        'network' => [
+            'allowLocalBinding' => true,
+            'allowUnixSockets' => ['/var/run/docker.sock'],
+        ],
+    ]);
+
+// Load a local plugin
+$options = ClaudeAgentOptions::make()
+    ->plugin('/path/to/my-plugin');
+
+// Enable beta features
+$options = ClaudeAgentOptions::make()
+    ->betas(['context-1m-2025-08-07']);
+
+// Set a fallback model
+$options = ClaudeAgentOptions::make()
+    ->model('claude-sonnet-4-5-20250929')
+    ->fallbackModel('claude-haiku-4-5');
+```
+
+### Stderr Monitoring
+
+Capture diagnostic output from the Claude CLI process:
+```php
+$options = ClaudeAgentOptions::make()
+    ->stderr(function (string $data) {
+        Log::warning('Claude CLI stderr: ' . $data);
+    });
+```
+
+### Interrupt & Lifecycle
+
+Control a running Claude process programmatically:
+```php
+$manager = app('claude-agent');
+$manager->interrupt();    // Graceful interrupt (sends SIGINT to the process)
+$manager->isRunning();    // Check if a process is currently running
+```
+
+## Error Handling
+```php
+use ClaudeAgentSDK\Exceptions\CliNotFoundException;
+use ClaudeAgentSDK\Exceptions\ProcessException;
+use ClaudeAgentSDK\Exceptions\JsonParseException;
+use ClaudeAgentSDK\Exceptions\ClaudeAgentException;
+
+try {
+    $result = ClaudeAgent::query('Do something');
+} catch (CliNotFoundException $e) {
+    // Claude Code CLI not installed
+    // $e->getMessage() includes install instructions
+} catch (ProcessException $e) {
+    echo $e->exitCode;   // Process exit code
+    echo $e->stderr;     // Standard error output
+} catch (JsonParseException $e) {
+    echo $e->rawLine;    // The malformed JSON line
+    echo $e->originalError; // The underlying JsonException
+} catch (ClaudeAgentException $e) {
+    // General SDK error
+}
+```
+
+## Testing
+```bash
+composer test
+```
+
+To run with coverage:
+```bash
+vendor/bin/phpunit --coverage-html coverage/
+```
+
+## Support
+
+If you find this package useful, please consider giving it a star on GitHub. It helps others discover the package and motivates continued development.
+
+[![GitHub stars](https://img.shields.io/github/stars/mohamed-ashraf-elsaed/claude-agent-sdk-laravel?style=social)](https://github.com/mohamed-ashraf-elsaed/claude-agent-sdk-laravel)
+
+## Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.

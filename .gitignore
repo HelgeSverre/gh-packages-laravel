@@ -6,3 +6,6 @@ website/.astro/
 
 .idea/
 test-results/
+
+# Built site (deployed via Pages artifact, not committed)
+docs/

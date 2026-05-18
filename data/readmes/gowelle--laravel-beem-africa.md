@@ -1,0 +1,3592 @@
+# Beem Laravel Package
+
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/gowelle/laravel-beem-africa.svg?style=flat-square)](https://packagist.org/packages/gowelle/laravel-beem-africa)
+[![Tests](https://img.shields.io/github/actions/workflow/status/gowelle/laravel-beem-africa/tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/gowelle/laravel-beem-africa/actions/workflows/tests.yml)
+[![Total Downloads](https://img.shields.io/packagist/dt/gowelle/laravel-beem-africa.svg?style=flat-square)](https://packagist.org/packages/gowelle/laravel-beem-africa)
+
+A comprehensive Laravel package for integrating with Beem's APIs. This package provides a unified interface for **SMS**, **Airtime**, **OTP**, **Payment Checkout**, **Disbursements**, **Collections**, **USSD**, **Contacts**, **Moja** (multi-channel messaging), and **International SMS** services.
+
+## Table of Contents
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+  - [Payment Checkout](#using-payment-checkout)
+  - [OTP (One-Time Password)](#using-otp-one-time-password)
+  - [Airtime Top-Up](#using-airtime-top-up)
+  - [SMS](#using-sms)
+  - [Disbursements](#using-disbursements)
+  - [Collections](#using-collections)
+  - [USSD Hub](#using-ussd-hub)
+  - [Contacts](#using-contacts)
+  - [Moja (Multi-Channel Messaging)](#using-moja-multi-channel-messaging)
+  - [Multicountry SMS and SMPP](#using-multicountry-sms-and-smpp)
+- [UI Components](#ui-components)
+  - [Livewire Components](#livewire-components)
+  - [Vue/InertiaJS Components](#vueinertiajs-components)
+- [Testing](#testing)
+- [Security](#security)
+- [Credits](#credits)
+- [License](#license)
+
+## Features
+
+### Payment Checkout
+
+- 🔄 **Redirect Checkout** - Redirect users to Beem's hosted checkout page
+- 🖼️ **Iframe Checkout** - Embed checkout within your application
+- 🔔 **Webhook Handling** - Automatic webhook processing with Laravel events
+- 🛡️ **Secure Token Support** - Optional callback correlation token support
+- 💾 **Transaction Storage** - Optional database storage for payment records
+
+### OTP (One-Time Password)
+
+- 📱 **Send OTP** - Send verification codes via SMS
+- ✅ **Verify OTP** - Validate user-entered codes
+- 🔐 **Phone Verification** - Secure phone number verification flow
+- 🎯 **Error Codes** - 18 detailed error codes for precise handling
+
+### Airtime Top-Up
+
+- 💰 **Transfer Airtime** - Send mobile credit across 40+ African networks
+- 📊 **Check Balance** - Monitor your airtime credit balance
+- 🔍 **Transaction Status** - Track airtime transfer status
+- 🔔 **Callback Support** - Receive real-time transfer notifications
+- 🎯 **Response Codes** - 16 detailed error codes for precise handling
+
+### SMS
+
+- 📨 **Send SMS** - Send single or bulk SMS to 22+ regions
+- 📋 **Sender Names** - Manage custom sender IDs
+- 📄 **Templates** - Use pre-configured message templates
+- 📊 **Balance Check** - Monitor SMS credit balance
+- 📬 **Delivery Reports** - Track message delivery status
+- 📲 **Two Way SMS** - Receive inbound SMS messages
+- ⏰ **Scheduled Messages** - Schedule SMS for future delivery
+- 🎯 **Error Codes** - 9 detailed error codes for precise handling
+
+### Disbursements
+
+- 💸 **Mobile Money Payouts** - Transfer funds to mobile wallets
+- 🏦 **Multiple Wallets** - Support for various mobile money providers
+- ⏰ **Scheduled Transfers** - Schedule disbursements for later
+- 🎯 **Error Codes** - 14 detailed error codes for precise handling
+
+### Collections
+
+- 💳 **Receive Payments** - Accept mobile money payments from subscribers
+- 🔔 **Webhook Callbacks** - Real-time payment notifications
+- 📊 **Balance Check** - Monitor collection balance
+- 🏪 **Multiple Paybills** - Support for various paybill/merchant numbers
+
+### USSD Hub
+
+- 📱 **Interactive Menus** - Design and run USSD menus via API
+- 🔄 **Session Management** - Handle initiate/continue/terminate flows
+- 📊 **Balance Check** - Monitor USSD credit balance
+- 🌐 **Multi-Network** - Single API for multiple mobile networks
+
+### Contacts
+
+- 📇 **AddressBook Management** - Create and manage multiple contact address books
+- 👥 **Contact Management** - Full CRUD operations for contacts
+- 🔍 **Search & Filter** - Search contacts by name or phone number
+- 📄 **Pagination** - Built-in pagination support for large contact lists
+- ✅ **Validation** - Input validation for phone numbers, email, and dates
+- 📋 **Comprehensive Fields** - Support for name, phone, email, address, birth date, and more
+
+### Moja (Multi-Channel Messaging)
+
+- 💬 **Multi-Channel Support** - WhatsApp, Facebook, Instagram, Google Business Messaging
+- 📱 **Six Message Types** - Text, Image, Document, Video, Audio, Location
+- 🔄 **Active Sessions** - Monitor and manage active chat sessions
+- 📋 **WhatsApp Templates** - Fetch, manage, and send template messages
+- 🔔 **Webhook Handling** - Real-time incoming messages and delivery reports
+- 📊 **Delivery Tracking** - Track message delivery status (sent, delivered, read, failed)
+- 🎯 **Error Handling** - Comprehensive error codes and error handling with MojaException
+
+### International SMS
+
+- 🌍 **Global Reach** - Send SMS to international numbers
+- 🔢 **Binary Support** - Send Unicode/Hex messages (flash messages, etc.)
+- 📋 **Multiple Recipients** - Send to multiple destinations in one request
+- 📊 **Balance Check** - Monitor International SMS credit balance
+- 🔔 **DLR Webhooks** - Real-time delivery reports
+
+### UI Components
+
+- 🎨 **Livewire v3 Components** - Ready-to-use checkout, OTP, and SMS components
+- ⚡ **Vue 3 + TypeScript** - Type-safe InertiaJS components with composables
+- 🧪 **Fully Tested** - 104 component tests (75 Vue + 29 Livewire)
+- 🎯 **Beem Branded** - Styled with official Beem colors
+
+### Developer Experience
+
+- 📦 **DTOs** - Type-safe data transfer objects for requests and responses
+- 🧪 **Fully Tested** - Comprehensive test coverage with Pest
+- 🚀 **CI/CD Ready** - GitHub Actions workflows included
+
+## Requirements
+
+- PHP 8.3+
+- Laravel 11.0+, 12.0+, or 13.0+
+
+## Installation
+
+Install the package via Composer:
+
+```bash
+composer require gowelle/laravel-beem-africa
+```
+
+### Quick Install (Recommended)
+
+The package includes an interactive install command that sets up everything for you:
+
+```bash
+php artisan beem-africa:install
+```
+
+This command will:
+- ✅ Publish the configuration file
+- ✅ Publish database migrations
+- ✅ Ask if you want to run migrations
+- ✅ Optionally star the repository on GitHub
+
+### Manual Installation
+
+If you prefer to publish assets manually:
+
+```bash
+# Publish the configuration file
+php artisan vendor:publish --tag="beem-africa-config"
+
+# Publish database migrations (optional)
+php artisan vendor:publish --tag="beem-africa-migrations"
+php artisan migrate
+```
+
+**Available publishable tags:**
+
+- `beem-africa-config` - Publishes the configuration file
+- `beem-africa-migrations` - Publishes the database migration (optional, for transaction storage)
+- `beem-africa-views` - Publishes the Blade views (optional, for customization)
+- `beem-africa-components` - Publishes the Blade components (optional, for customization)
+- `beem-africa-translations` - Publishes the translation files (optional, for localization)
+- `beem-africa-vue` - Publishes the Vue/InertiaJS components to `resources/js/vendor/beem-africa`
+
+### Localization
+
+All Blade and Livewire components fully support localization. The package includes built-in translations in three languages:
+- 🇬🇧 **English** (en) - Default
+- 🇹🇿 **Swahili** (sw) - Kiswahili
+- 🇫🇷 **French** (fr) - Français
+
+To use a different language, set your application locale in `config/app.php`:
+
+```php
+'locale' => 'sw', // Use Swahili
+```
+
+Or publish and customize translations:
+
+```bash
+php artisan vendor:publish --tag="beem-africa-translations"
+```
+
+#### Vue Components
+
+Vue components (Inertia/Standalone) support localization via the `labels` prop. You can pass an object with the specific keys you want to customize.
+
+Example with manual strings:
+
+```vue
+<BeemCheckoutButton
+    :amount="1000"
+    :labels="{
+        amount: 'Kiasi'
+    }"
+/>
+```
+
+Example using Laravel translations (Blade):
+
+```vue
+<BeemSmsForm
+    :labels="{
+        sendSms: '{{ __('beem-africa::beem-africa.sms.send_sms') }}',
+        recipients: '{{ __('beem-africa::beem-africa.sms.recipients') }}',
+        message: '{{ __('beem-africa::beem-africa.sms.message') }}'
+    }"
+/>
+```
+
+## Configuration
+
+> [!IMPORTANT]
+> **Important notice for users upgrading from <=2.0.0**:
+> The `laravel-beem-africa` package now appends API versions (for example, `/v1`) at the service level instead of the base URL. If you override `BEEM_BASE_URL` or `BEEM_OTP_BASE_URL` in your `.env`, set them to root domains such as `https://checkout.beem.africa` and `https://apiotp.beem.africa` (without `/v1`) to avoid duplicated URL paths.
+
+Add your Beem credentials to your `.env` file:
+
+```env
+BEEM_API_KEY=your_api_key
+BEEM_SECRET_KEY=your_secret_key
+BEEM_WEBHOOK_SECRET=optional_webhook_secret
+
+BEEM_INTERNATIONAL_SMS_USERNAME=your_int_sms_username
+BEEM_INTERNATIONAL_SMS_PASSWORD=your_int_sms_password
+```
+
+### Configuration Options
+
+```php
+// config/beem-africa.php
+
+return [
+    'api_key' => env('BEEM_API_KEY'),
+    'secret_key' => env('BEEM_SECRET_KEY'),
+    'base_url' => env('BEEM_BASE_URL', 'https://checkout.beem.africa'),
+
+    'webhook' => [
+        'path' => env('BEEM_WEBHOOK_PATH', 'beem/webhook'),
+        'secret' => env('BEEM_WEBHOOK_SECRET'),
+        'middleware' => [],
+    ],
+
+    'store_transactions' => env('BEEM_STORE_TRANSACTIONS', false),
+
+    'otp' => [
+        'base_url' => env('BEEM_OTP_BASE_URL', 'https://apiotp.beem.africa'),
+        'app_id' => env('BEEM_OTP_APP_ID'),
+    ],
+
+    'international_sms' => [
+        'username' => env('BEEM_INTERNATIONAL_SMS_USERNAME'),
+        'password' => env('BEEM_INTERNATIONAL_SMS_PASSWORD'),
+        'base_url' => 'https://api.blsmsgw.com:8443/bin',
+        'portal_url' => 'https://www.blsmsgw.com/portal/api',
+        'dlr_url' => env('BEEM_INTERNATIONAL_SMS_DLR_URL'),
+    ],
+];
+```
+
+## Usage
+
+### Using Payment Checkout
+
+Beem exposes two different checkout integrations and this package now treats them separately:
+
+- **Redirect checkout** is a backend-initiated, authenticated `GET /v1/checkout` request.
+- **Iframe checkout** is a frontend widget that requires a whitelisted domain plus Beem's CSS/JS assets.
+
+Shared request rules for both modes:
+
+- `amount` must be a whole number. Decimals are not allowed.
+- `transaction_id` should be a UUIDv4.
+- `reference_number` is a reference number to track the payment. Should be alphanumeric, with a prefix pattern matching a collection or checkout product configured in Beem (e.g. `SAMPLE-12345`).
+- `beem-secure-token` is optional request-specific correlation data that Beem echoes back in callback headers. In this package API it is named `callbackToken`.
+
+> **Important:** `callbackToken` is your optional correlation token. It is different from Beem's generated checkout page token that appears in URLs like `/v1/checkout/page?token=...`.
+
+Before you start, make sure:
+
+- your Beem API key and secret key are configured
+- the `reference_number` prefix matches a collection or checkout product prefix configured in Beem (e.g. `SAMPLE-12345`)
+- your Beem callback URL is configured if you want webhook updates
+- your Beem redirect URL is configured if you want Beem to send users back to your site after payment
+
+#### Quick Start: Redirect Checkout
+
+This is the simplest end-to-end Laravel flow to get a customer from your app to Beem's hosted payment page successfully.
+
+```php
+// routes/web.php
+
+use App\Http\Controllers\CheckoutController;
+use Illuminate\Support\Facades\Route;
+
+Route::post('/checkout/beem', [CheckoutController::class, 'store'])->name('checkout.beem');
+```
+
+```php
+// app/Http/Controllers/CheckoutController.php
+
+namespace App\Http\Controllers;
+
+use Gowelle\BeemAfrica\DTOs\CheckoutRequest;
+use Gowelle\BeemAfrica\Facades\Beem;
+use Illuminate\Http\RedirectResponse;
+use Illuminate\Http\Request;
+use Illuminate\Support\Str;
+
+class CheckoutController extends Controller
+{
+    public function store(Request $request): RedirectResponse
+    {
+        $request->validate([
+            'amount' => ['required', 'integer', 'min:1'],
+            'reference_number' => ['required', 'string'],
+            'mobile' => ['nullable', 'regex:/^[0-9]{10,15}$/'],
+            'email' => ['nullable', 'email'],
+        ]);
+
+        $checkoutRequest = new CheckoutRequest(
+            amount: (int) $request->integer('amount'),
+            transactionId: (string) Str::uuid(),
+            referenceNumber: $request->string('reference_number')->toString(),
+            mobile: $request->string('mobile')->toString() ?: null,
+            email: $request->string('email')->toString() ?: null,
+            currency: 'TZS',
+            sendSource: true,
+            callbackToken: 'order-'.$request->string('reference_number')->toString(),
+        );
+
+        return Beem::redirect($checkoutRequest);
+    }
+}
+```
+
+```blade
+<form method="POST" action="{{ route('checkout.beem') }}">
+    @csrf
+    <input type="hidden" name="amount" value="1000">
+    <input type="hidden" name="reference_number" value="SAMPLE-12345">
+    <input type="hidden" name="mobile" value="255712345678">
+    <button type="submit">Pay with Beem</button>
+</form>
+```
+
+If that route works, your checkout initiation is wired correctly.
+
+#### Redirect Method
+
+Use redirect checkout when your Laravel backend should initiate the Beem request with Basic Auth. This package recommends `sendSource: true`, which returns a redirect URL that Laravel can send the customer to explicitly.
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\DTOs\CheckoutRequest;
+use Illuminate\Support\Str;
+
+// In your controller
+public function checkout()
+{
+    $request = new CheckoutRequest(
+        amount: 1000,
+        transactionId: (string) Str::uuid(),
+        referenceNumber: 'SAMPLE-12345',
+        mobile: '255712345678',
+        email: 'customer@example.com',
+        currency: 'TZS',
+        sendSource: true,
+        callbackToken: 'order-123',
+    );
+
+    // Option 1: Redirect directly
+    return Beem::redirect($request);
+
+    // Option 2: Resolve the authenticated redirect URL manually
+    $checkoutUrl = Beem::getCheckoutUrl($request);
+    return redirect()->away($checkoutUrl);
+}
+```
+
+If you need Beem's raw checkout response metadata first, call:
+
+```php
+$checkout = Beem::initiate($request);
+
+$checkout->checkoutUrl;
+$checkout->statusCode;
+$checkout->data;
+```
+
+#### Iframe Method
+
+Use iframe checkout when you want Beem's hosted payment page embedded on your site through their frontend library.
+
+##### 1. Whitelist Your Domain
+
+Before using the iframe method, whitelist your domain:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+
+// Run this once (e.g., in a setup command or controller)
+Beem::whitelistDomain('https://yourapp.com');
+```
+
+##### 2. Add the Checkout Button
+
+Use the included Blade component. This renders the documented Beem widget shell:
+
+```blade
+<x-beem-checkout-button
+    :amount="1000"
+    :token="$callbackToken"
+    reference="SAMPLE-12345"
+    transaction-id="96f9cc09-afa0-40cf-928a-d7e2b27b2408"
+    mobile="255712345678"
+/>
+```
+
+> **Tip:** To customize the component, publish it with:
+> ```bash
+> php artisan vendor:publish --tag="beem-africa-components"
+> ```
+
+Or manually add the button:
+
+```html
+<link rel="stylesheet" href="https://checkout.beem.africa/dist/0.1_alpha/bpay.min.css">
+
+<div
+  id="beem-button"
+  data-price="1000"
+  data-token="{{ $callbackToken }}"
+  data-reference="SAMPLE-12345"
+  data-transaction="96f9cc09-afa0-40cf-928a-d7e2b27b2408"
+  data-mobile="255712345678"
+></div>
+<div id="beem-page" class="beem-page"></div>
+
+<script src="https://checkout.beem.africa/dist/0.1_alpha/bpay.min.js"></script>
+<script>
+  InitializeBeem();
+</script>
+```
+
+The iframe widget requires:
+
+- a whitelisted domain
+- `#beem-button`
+- `#beem-page`
+- Beem's CSS and JS assets
+- `InitializeBeem()`
+
+#### Error Handling
+
+The package provides structured error handling for Beem API errors. All payment-related operations throw `PaymentException` when errors occur.
+
+For checkout requests, the package now preserves Beem's response message when the API returns a JSON error payload without a standard `message` field but includes an error redirect URL like `src=https://checkout.beem.africa/v1/checkout/error?...`. When that payload indicates Beem checkout has no configured payment method, the package exposes it via `PaymentException::missingPaymentMethod()` and `$e->isMissingPaymentMethod()`.
+
+##### Available Error Codes
+
+Based on [Beem API documentation](https://docs.beem.africa/payments-checkout/index.html#api-ERROR), the following error codes are supported:
+
+| Code | Description                       | Helper Method               |
+| ---- | --------------------------------- | --------------------------- |
+| 100  | Invalid Mobile Number             | `isInvalidMobileNumber()`   |
+| 101  | Invalid Amount                    | `isInvalidAmount()`         |
+| 102  | Invalid Transaction ID            | `isInvalidTransactionId()`  |
+| 120  | Invalid Authentication Parameters | `isInvalidAuthentication()` |
+
+##### Handling Payment Errors
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\DTOs\CheckoutRequest;
+use Gowelle\BeemAfrica\Exceptions\PaymentException;
+use Gowelle\BeemAfrica\Enums\BeemErrorCode;
+
+try {
+    $request = new CheckoutRequest(
+        amount: 1000,
+        transactionId: '96f9cc09-afa0-40cf-928a-d7e2b27b2408',
+        referenceNumber: 'SAMPLE-12345',
+        mobile: '255712345678',
+        sendSource: true,
+    );
+
+    return Beem::redirect($request);
+} catch (PaymentException $e) {
+    // Get the Beem-specific error code
+    $beemErrorCode = $e->getBeemErrorCode();
+
+    // Check for specific error types
+    if ($e->isInvalidMobileNumber()) {
+        return back()->withErrors(['mobile' => 'Invalid mobile number format']);
+    }
+
+    if ($e->isInvalidAmount()) {
+        return back()->withErrors(['amount' => 'Invalid amount provided']);
+    }
+
+    if ($e->isInvalidTransactionId()) {
+        return back()->withErrors(['transaction_id' => 'Transaction ID already exists or is invalid']);
+    }
+
+    if ($e->isInvalidAuthentication()) {
+        Log::error('Beem authentication failed - check API credentials');
+        return back()->withErrors(['error' => 'Payment service unavailable']);
+    }
+
+    if ($e->isMissingPaymentMethod()) {
+        Log::warning('Beem checkout product is missing a payment method');
+        return back()->withErrors(['error' => 'Checkout is temporarily unavailable. Please contact support.']);
+    }
+
+    // Generic error handling
+    Log::error('Payment error', [
+        'message' => $e->getMessage(),
+        'beem_code' => $beemErrorCode?->value,
+        'http_status' => $e->getHttpStatusCode(),
+    ]);
+
+    return back()->withErrors(['error' => 'Payment failed. Please try again.']);
+}
+```
+
+##### Checking Error Codes Programmatically
+
+```php
+use Gowelle\BeemAfrica\Exceptions\PaymentException;
+use Gowelle\BeemAfrica\Enums\BeemErrorCode;
+
+try {
+    // Your payment operation
+} catch (PaymentException $e) {
+    // Check if a specific error code is present
+    if ($e->hasErrorCode(BeemErrorCode::INVALID_MOBILE_NUMBER)) {
+        // Handle invalid mobile number
+    }
+
+    // Get the error code enum
+    $errorCode = $e->getBeemErrorCode();
+
+    if ($errorCode === BeemErrorCode::INVALID_AMOUNT) {
+        // Handle invalid amount
+    }
+
+    // Access error code details
+    if ($errorCode) {
+        echo $errorCode->description(); // "Invalid Mobile Number"
+        echo $errorCode->message();     // Detailed error message
+        echo $errorCode->value;         // 100 (the numeric code)
+    }
+}
+```
+
+#### Handling Webhooks
+
+The package automatically registers a webhook route at `/webhooks/beem`. When Beem sends a payment notification, the package dispatches Laravel events.
+
+##### Webhook Token
+
+Beem echoes the optional `beem-secure-token` request header back in callback headers. Use it as request-specific correlation data between your checkout request and callback handling.
+
+If you want to compare against a static token in your application, you can still configure one in `.env`:
+
+```env
+BEEM_WEBHOOK_SECRET=your_webhook_secret_from_beem
+```
+
+**Two validation options are available:**
+
+1. **Built-in validation** - The webhook controller compares the callback `beem-secure-token` header against your configured value
+2. **Middleware approach** - Apply the provided middleware for more control:
+
+```php
+// config/beem-africa.php
+
+'webhook' => [
+    'path' => env('BEEM_WEBHOOK_PATH', 'beem/webhook'),
+    'secret' => env('BEEM_WEBHOOK_SECRET'),
+    'middleware' => [
+        \Gowelle\BeemAfrica\Http\Middleware\VerifyBeemSignature::class,
+    ],
+],
+```
+
+> **Note:** `beem-secure-token` is not Beem API authentication. It is callback correlation data echoed from your checkout request.
+
+##### 1. Create Event Listeners
+
+```php
+// app/Listeners/HandleSuccessfulPayment.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\PaymentSucceeded;
+
+class HandleSuccessfulPayment
+{
+    public function handle(PaymentSucceeded $event): void
+    {
+        $transactionId = $event->getTransactionId();
+        $amount = $event->getAmount();
+        $reference = $event->getReferenceNumber();
+        $mobile = $event->getMsisdn();
+
+        // Update your order/payment status
+        Order::where('reference', $reference)->update([
+            'status' => 'paid',
+            'paid_at' => now(),
+        ]);
+    }
+}
+```
+
+```php
+// app/Listeners/HandleFailedPayment.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\PaymentFailed;
+
+class HandleFailedPayment
+{
+    public function handle(PaymentFailed $event): void
+    {
+        $transactionId = $event->getTransactionId();
+        $reference = $event->getReferenceNumber();
+
+        // Handle the failed payment
+        Order::where('reference', $reference)->update([
+            'status' => 'failed',
+        ]);
+    }
+}
+```
+
+##### 2. Register the Listeners
+
+```php
+// app/Providers/EventServiceProvider.php
+
+use Gowelle\BeemAfrica\Events\PaymentSucceeded;
+use Gowelle\BeemAfrica\Events\PaymentFailed;
+use App\Listeners\HandleSuccessfulPayment;
+use App\Listeners\HandleFailedPayment;
+
+protected $listen = [
+    PaymentSucceeded::class => [
+        HandleSuccessfulPayment::class,
+    ],
+    PaymentFailed::class => [
+        HandleFailedPayment::class,
+    ],
+];
+```
+
+##### Using the Callback Payload
+
+The event payload provides access to all webhook data:
+
+```php
+public function handle(PaymentSucceeded $event): void
+{
+    $payload = $event->payload;
+
+    $payload->amount;           // '1000.00'
+    $payload->referenceNumber;  // 'ORDER-001'
+    $payload->status;           // 'success'
+    $payload->timestamp;        // '2024-01-15T10:30:00Z'
+    $payload->transactionId;    // '96f9cc09-afa0-40cf-928a-d7e2b27b2408'
+    $payload->msisdn;           // '255712345678'
+
+    // Helper methods
+    $payload->isSuccessful();          // true
+    $payload->isFailed();              // false
+    $payload->getAmountAsFloat();      // 1000.00
+    $payload->getTimestampAsDateTime(); // DateTimeImmutable
+}
+```
+
+#### Transaction Storage (Optional)
+
+The package can automatically store transactions in your database. This is useful for tracking payment history and reconciliation.
+
+##### 1. Publish and Run Migrations
+
+```bash
+php artisan vendor:publish --tag="beem-africa-migrations"
+php artisan migrate
+```
+
+> **Note for UUID/ULID Users:** If your `users` table uses `uuid` or `ulid` as the primary key instead of `bigint`, you need to modify the published migration before running it:
+>
+> ```php
+> // For UUID:
+> $table->uuid('user_id')->nullable()->constrained()->nullOnDelete();
+>
+> // For ULID:
+> $table->ulid('user_id')->nullable()->constrained()->nullOnDelete();
+>
+> // Or remove the constraint entirely and handle it manually:
+> $table->string('user_id', 36)->nullable();
+> ```
+>
+> You can also configure the user model in `config/beem.php`:
+>
+> ```php
+> 'user_model' => 'App\\Models\\User',
+> ```
+
+##### 2. Enable Transaction Storage
+
+Add to your `.env`:
+
+```env
+BEEM_STORE_TRANSACTIONS=true
+```
+
+##### 3. Access Stored Transactions
+
+```php
+use Gowelle\BeemAfrica\Models\BeemTransaction;
+
+// Find by transaction ID
+$transaction = BeemTransaction::where('transaction_id', '96f9cc09-afa0-40cf-928a-d7e2b27b2408')->first();
+
+// Find by reference
+$transactions = BeemTransaction::byReference('ORDER-001')->get();
+
+// Query by status
+$successful = BeemTransaction::successful()->get();
+$failed = BeemTransaction::failed()->get();
+$pending = BeemTransaction::pending()->get();
+
+// Create a pending transaction before redirect
+$transaction = BeemTransaction::createPending(
+    transactionId: (string) Str::uuid(),
+    referenceNumber: 'ORDER-001',
+    amount: 1000.00,
+    msisdn: '255712345678',
+    userId: auth()->id(),
+);
+```
+
+##### 4. Access Transaction in Event Listeners
+
+When transaction storage is enabled, the transaction model is available in events:
+
+```php
+public function handle(PaymentSucceeded $event): void
+{
+    $transaction = $event->getTransaction(); // BeemTransaction model or null
+
+    if ($transaction) {
+        // Update with additional data
+        $transaction->update(['user_id' => $userId]);
+    }
+}
+```
+
+### Using OTP (One-Time Password)
+
+The package supports Beem's OTP service for phone number verification.
+
+#### 1. Configure OTP
+
+Add your OTP App ID to `.env`:
+
+```env
+BEEM_OTP_APP_ID=your_app_id_from_beem_dashboard
+```
+
+#### 2. Request OTP
+
+Send an OTP to a user's phone number:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+
+// Request OTP
+$response = Beem::otp()->request('255712345678');
+
+if ($response->isSuccessful()) {
+    $pinId = $response->getPinId();
+
+    // Store the PIN ID in session or database for verification
+    session(['otp_pin_id' => $pinId]);
+}
+```
+
+#### 3. Verify OTP
+
+Verify the OTP entered by the user:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+
+$pinId = session('otp_pin_id');
+$userPin = $request->input('otp_code'); // e.g., '1234'
+
+$result = Beem::otp()->verify($pinId, $userPin);
+
+if ($result->isValid()) {
+    // OTP is valid - proceed with verification
+    session()->forget('otp_pin_id');
+
+    // Mark phone number as verified
+    auth()->user()->update(['phone_verified_at' => now()]);
+} else {
+    // OTP is invalid
+    return back()->withErrors(['otp_code' => 'Invalid OTP code']);
+}
+```
+
+#### 4. OTP Error Handling
+
+The package provides detailed error handling with 18 response codes for precise OTP error management.
+
+##### Available Error Codes
+
+Based on [Beem OTP API documentation](https://docs.beem.africa/bl-otp/index.html#api--ERROR_CODES), the following error codes are supported:
+
+| Code | Description                  | Helper Method              |
+| ---- | ---------------------------- | -------------------------- |
+| 100  | SMS sent successfully        | `isSuccess()`              |
+| 101  | Failed to send SMS           | `isFailure()`              |
+| 102  | Invalid phone number         | `isInvalidPhoneNumber()`   |
+| 103  | Phone number missing         | `isFailure()`              |
+| 104  | Application ID missing       | `isApplicationIdMissing()` |
+| 106  | Application not found        | `isApplicationNotFound()`  |
+| 107  | Application is inactive      | `isFailure()`              |
+| 108  | No channel found             | `isNoChannelFound()`       |
+| 109  | Placeholder not found        | `isFailure()`              |
+| 110  | Username or Password missing | `isFailure()`              |
+| 111  | PIN missing                  | `isFailure()`              |
+| 112  | PIN ID missing               | `isFailure()`              |
+| 113  | PIN ID not found             | `isPinIdNotFound()`        |
+| 114  | Incorrect PIN                | `isIncorrectPin()`         |
+| 115  | PIN timeout                  | `isPinTimeout()`           |
+| 116  | Attempts exceeded            | `isAttemptsExceeded()`     |
+| 117  | Valid PIN                    | `isSuccess()`              |
+| 118  | Duplicate PIN                | `isFailure()`              |
+
+> See [OtpResponseCode](src/Enums/OtpResponseCode.php) for all 18 response codes.
+
+##### Handling OTP Request Errors
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\Exceptions\OtpRequestException;
+use Gowelle\BeemAfrica\Enums\OtpResponseCode;
+
+try {
+    $response = Beem::otp()->request('255712345678');
+
+    // Access response code from successful response
+    $code = $response->getCode();
+    if ($code === OtpResponseCode::SMS_SENT_SUCCESSFULLY) {
+        echo "OTP sent successfully!";
+    }
+} catch (OtpRequestException $e) {
+    // Get the OTP response code
+    $otpResponseCode = $e->getOtpResponseCode();
+
+    // Check for specific error types
+    if ($e->isInvalidPhoneNumber()) {
+        return back()->withErrors(['phone' => 'Invalid phone number format']);
+    }
+
+    if ($e->isApplicationIdMissing()) {
+        Log::error('OTP App ID not configured');
+        return back()->withErrors(['error' => 'OTP service configuration error']);
+    }
+
+    if ($e->isApplicationNotFound()) {
+        Log::error('OTP Application not found - check App ID');
+        return back()->withErrors(['error' => 'OTP service unavailable']);
+    }
+
+    if ($e->isNoChannelFound()) {
+        Log::error('OTP channel not configured in Beem dashboard');
+        return back()->withErrors(['error' => 'OTP service configuration error']);
+    }
+
+    // Generic error handling
+    Log::error('OTP request failed', [
+        'message' => $e->getMessage(),
+        'code' => $otpResponseCode?->value,
+        'http_status' => $e->getHttpStatusCode(),
+    ]);
+
+    return back()->withErrors(['error' => 'Failed to send OTP. Please try again.']);
+}
+```
+
+##### Handling OTP Verification Errors
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\Exceptions\OtpVerificationException;
+use Gowelle\BeemAfrica\Enums\OtpResponseCode;
+
+try {
+    $result = Beem::otp()->verify($pinId, $userPin);
+
+    // Access response code from verification result
+    $code = $result->getCode();
+    if ($code === OtpResponseCode::VALID_PIN) {
+        // OTP is valid
+        session()->forget('otp_pin_id');
+        auth()->user()->update(['phone_verified_at' => now()]);
+    }
+} catch (OtpVerificationException $e) {
+    // Get the OTP response code
+    $otpResponseCode = $e->getOtpResponseCode();
+
+    // Check for specific error types
+    if ($e->isIncorrectPin()) {
+        return back()->withErrors(['otp_code' => 'Incorrect OTP code. Please try again.']);
+    }
+
+    if ($e->isPinTimeout()) {
+        return back()->withErrors(['otp_code' => 'OTP code has expired. Please request a new one.']);
+    }
+
+    if ($e->isAttemptsExceeded()) {
+        return back()->withErrors(['otp_code' => 'Too many failed attempts. Please request a new OTP.']);
+    }
+
+    if ($e->isPinIdNotFound()) {
+        return back()->withErrors(['otp_code' => 'Invalid verification session. Please request a new OTP.']);
+    }
+
+    // Generic error handling
+    Log::error('OTP verification failed', [
+        'message' => $e->getMessage(),
+        'code' => $otpResponseCode?->value,
+        'http_status' => $e->getHttpStatusCode(),
+    ]);
+
+    return back()->withErrors(['otp_code' => 'Verification failed. Please try again.']);
+}
+```
+
+##### Checking Error Codes Programmatically
+
+```php
+use Gowelle\BeemAfrica\Exceptions\OtpRequestException;
+use Gowelle\BeemAfrica\Exceptions\OtpVerificationException;
+use Gowelle\BeemAfrica\Enums\OtpResponseCode;
+
+try {
+    // Your OTP operation
+} catch (OtpRequestException $e) {
+    // Check if a specific error code is present
+    if ($e->hasResponseCode(OtpResponseCode::INVALID_PHONE_NUMBER)) {
+        // Handle invalid phone number
+    }
+
+    // Get the error code enum
+    $errorCode = $e->getOtpResponseCode();
+
+    if ($errorCode === OtpResponseCode::FAILED_TO_SEND_SMS) {
+        // Handle SMS send failure
+    }
+
+    // Access error code details
+    if ($errorCode) {
+        echo $errorCode->description(); // "Invalid phone number"
+        echo $errorCode->message();     // Detailed error message
+        echo $errorCode->value;         // 102 (the numeric code)
+    }
+}
+
+try {
+    // Your verification operation
+} catch (OtpVerificationException $e) {
+    // Check for specific verification errors
+    if ($e->hasResponseCode(OtpResponseCode::INCORRECT_PIN)) {
+        // Handle incorrect PIN
+    }
+
+    // Get the error code enum
+    $errorCode = $e->getOtpResponseCode();
+
+    if ($errorCode === OtpResponseCode::PIN_TIMEOUT) {
+        // Handle PIN timeout
+    }
+}
+```
+
+##### Accessing Response Codes from DTOs
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\Enums\OtpResponseCode;
+
+// Request OTP
+$response = Beem::otp()->request('255712345678');
+
+// Get response code from DTO
+$code = $response->getCode();
+$codeValue = $response->getCodeValue(); // Integer value (100, 101, etc.)
+
+if ($code === OtpResponseCode::SMS_SENT_SUCCESSFULLY) {
+    $pinId = $response->getPinId();
+}
+
+// Verify OTP
+$result = Beem::otp()->verify($pinId, $userPin);
+
+// Get response code from verification result
+$code = $result->getCode();
+if ($code === OtpResponseCode::VALID_PIN) {
+    // PIN is valid
+}
+```
+
+### Using Airtime Top-Up
+
+The package supports Beem's Airtime API for mobile credit top-ups across Africa.
+
+#### 1. Transfer Airtime
+
+Send airtime to a mobile number:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+
+$response = Beem::airtime()->transfer(
+    destAddr: '255712345678',      // International format, no +
+    amount: 1000.00,                // Amount in local currency
+    referenceId: 'ORDER-'.uniqid(), // Your unique reference
+);
+
+if ($response->isSuccessful()) {
+    $transactionId = $response->getTransactionId();
+
+    // Store transaction ID for status checking
+    session(['airtime_txn_id' => $transactionId]);
+}
+```
+
+#### 2. Check Transaction Status
+
+Manually check the status of an airtime transfer:
+
+```php
+$status = Beem::airtime()->checkStatus($transactionId);
+
+if ($status->isSuccessful()) {
+    // Transfer completed successfully
+    $amount = $status->getAmountAsFloat();
+    $destAddr = $status->getDestAddr();
+} else {
+    // Transfer failed or pending
+    $code = $status->getCode();
+    $message = $status->message;
+}
+```
+
+#### 3. Check Balance
+
+Check your airtime credit balance:
+
+```php
+$balance = Beem::airtime()->checkBalance();
+
+echo "Balance: {$balance->getBalance()} {$balance->getCurrency()}";
+```
+
+#### 4. Airtime Error Handling
+
+The package provides detailed error handling with 16 response codes:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\Exceptions\AirtimeException;
+use Gowelle\BeemAfrica\Enums\AirtimeResponseCode;
+
+try {
+    $response = Beem::airtime()->transfer(
+        destAddr: '255712345678',
+        amount: 1000.00,
+        referenceId: 'REF-001',
+    );
+} catch (AirtimeException $e) {
+    // Check specific error types
+    if ($e->isInsufficientBalance()) {
+        return back()->withErrors(['amount' => 'Insufficient airtime balance']);
+    }
+
+    if ($e->isInvalidPhoneNumber()) {
+        return back()->withErrors(['phone' => 'Invalid phone number format']);
+    }
+
+    if ($e->isInvalidAuthentication()) {
+        Log::error('Beem authentication failed - check API credentials');
+        return back()->withErrors(['error' => 'Service unavailable']);
+    }
+
+    // Get the response code enum
+    $responseCode = $e->getResponseCode();
+    if ($responseCode) {
+        Log::error('Airtime transfer failed', [
+            'code' => $responseCode->value,
+            'description' => $responseCode->description(),
+            'is_failure' => $responseCode->isFailure(),
+        ]);
+    }
+}
+```
+
+**Available Response Codes:**
+
+| Code | Description             | Helper Method               |
+| ---- | ----------------------- | --------------------------- |
+| 100  | Disbursement successful | `isSuccess()`               |
+| 101  | Disbursement failed     | `isFailure()`               |
+| 102  | Invalid phone number    | `isInvalidPhoneNumber()`    |
+| 103  | Insufficient balance    | `isInsufficientBalance()`   |
+| 104  | Network timeout         | `isNetworkTimeout()`        |
+| 105  | Invalid parameters      | `isInvalidParameters()`     |
+| 106  | Amount too large        | `isAmountTooLarge()`        |
+| 114  | Disbursement Pending    | `isPending()`               |
+| 120  | Invalid Authentication  | `isInvalidAuthentication()` |
+
+> See [AirtimeResponseCode](src/Enums/AirtimeResponseCode.php) for all 16 response codes.
+
+#### 5. Airtime Callbacks
+
+Beem sends async callbacks with the final transfer status. Configure your callback URL in the **Beem Airtime dashboard**.
+
+**Create an event listener:**
+
+```php
+// app/Listeners/HandleAirtimeCallback.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\AirtimeTransferCompleted;
+
+class HandleAirtimeCallback
+{
+    public function handle(AirtimeTransferCompleted $event): void
+    {
+        $transactionId = $event->getTransactionId();
+        $amount = $event->getAmount();
+        $destAddr = $event->getDestAddr();
+        $referenceId = $event->getReferenceId();
+
+        if ($event->isSuccessful()) {
+            // Update your records
+            AirtimeTransaction::where('reference_id', $referenceId)->update([
+                'status' => 'completed',
+                'transaction_id' => $transactionId,
+                'completed_at' => now(),
+            ]);
+        } else {
+            // Handle failure
+            $code = $event->getCode();
+            Log::warning("Airtime transfer failed: {$code}", [
+                'reference_id' => $referenceId,
+            ]);
+        }
+    }
+}
+```
+
+**Register the listener:**
+
+```php
+// app/Providers/EventServiceProvider.php
+
+use Gowelle\BeemAfrica\Events\AirtimeTransferCompleted;
+use App\Listeners\HandleAirtimeCallback;
+
+protected $listen = [
+    AirtimeTransferCompleted::class => [
+        HandleAirtimeCallback::class,
+    ],
+];
+```
+
+### Using SMS
+
+The package supports Beem's SMS API for sending text messages across 22+ regions.
+
+#### 1. Configure SMS
+
+Add your SMS sender ID to `.env` (optional):
+
+```env
+BEEM_SMS_SENDER_ID=MYAPP
+```
+
+#### 2. Send SMS
+
+Send SMS to one or more recipients:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\DTOs\SmsRequest;
+use Gowelle\BeemAfrica\DTOs\SmsRecipient;
+
+// Single recipient
+$request = new SmsRequest(
+    sourceAddr: 'MYAPP',                // Sender ID (max 11 chars)
+    message: 'Hello from Beem!',
+    recipients: [
+        new SmsRecipient('REC-001', '255712345678'),
+    ]
+);
+
+$response = Beem::sms()->send($request);
+
+if ($response->isSuccessful()) {
+    $requestId = $response->getRequestId();
+    $validCount = $response->getValidCount();
+
+    // Store request ID for delivery tracking
+    session(['sms_request_id' => $requestId]);
+}
+```
+
+**Bulk SMS:**
+
+```php
+$request = new SmsRequest(
+    sourceAddr: 'MYAPP',
+    message: 'Bulk message to multiple recipients',
+    recipients: [
+        new SmsRecipient('REC-001', '255712345678'),
+        new SmsRecipient('REC-002', '255787654321'),
+        new SmsRecipient('REC-003', '254712345678'),
+    ]
+);
+
+$response = Beem::sms()->send($request);
+
+echo "Valid: {$response->getValidCount()}, Invalid: {$response->getInvalidCount()}";
+```
+
+**Scheduled SMS:**
+
+```php
+$request = new SmsRequest(
+    sourceAddr: 'MYAPP',
+    message: 'Scheduled message',
+    recipients: [new SmsRecipient('REC-001', '255712345678')],
+    scheduleTime: '2025-12-25 09:00'  // GMT+0 timezone
+);
+
+$response = Beem::sms()->send($request);
+```
+
+**Unicode SMS:**
+
+```php
+$request = new SmsRequest(
+    sourceAddr: 'MYAPP',
+    message: 'مرحبا بك',  // Arabic text
+    recipients: [new SmsRecipient('REC-001', '255712345678')],
+    encoding: 8  // UCS2/Unicode encoding
+);
+
+$response = Beem::sms()->send($request);
+```
+
+#### 3. Check SMS Balance
+
+Check your SMS credit balance:
+
+```php
+$balance = Beem::sms()->checkBalance();
+
+echo "SMS Credits: {$balance->getCreditBalance()}";
+```
+
+#### 4. Get Delivery Reports
+
+Poll for delivery status of sent messages:
+
+```php
+$report = Beem::sms()->getDeliveryReport(
+    destAddr: '255712345678',
+    requestId: 12345
+);
+
+if ($report->isDelivered()) {
+    echo "Message delivered successfully";
+} elseif ($report->isFailed()) {
+    echo "Message delivery failed";
+} elseif ($report->isPending()) {
+    echo "Message delivery pending";
+}
+```
+
+#### 5. Get Sender Names
+
+List your registered sender IDs:
+
+```php
+// Get all sender names
+$senderNames = Beem::sms()->getSenderNames();
+
+foreach ($senderNames as $sender) {
+    echo "{$sender->getName()}: {$sender->getStatus()}\n";
+
+    if ($sender->isActive()) {
+        // Use this sender ID
+    }
+}
+
+// Filter by status
+$activeSenders = Beem::sms()->getSenderNames(status: 'active');
+
+// Search by name
+$results = Beem::sms()->getSenderNames(query: 'MYAPP');
+```
+
+#### 6. Get SMS Templates
+
+List your pre-configured templates:
+
+```php
+$templates = Beem::sms()->getSmsTemplates();
+
+foreach ($templates as $template) {
+    echo "Template: {$template->getName()}\n";
+    echo "Content: {$template->getContent()}\n";
+}
+```
+
+#### 7. SMS Error Handling
+
+The package provides detailed error handling with 9 response codes:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\Exceptions\SmsException;
+use Gowelle\BeemAfrica\Enums\SmsResponseCode;
+
+try {
+    $request = new SmsRequest(
+        sourceAddr: 'MYAPP',
+        message: 'Test message',
+        recipients: [new SmsRecipient('REC-001', '255712345678')]
+    );
+
+    $response = Beem::sms()->send($request);
+} catch (SmsException $e) {
+    // Check specific error types
+    if ($e->isInsufficientBalance()) {
+        return back()->withErrors(['error' => 'Insufficient SMS credits']);
+    }
+
+    if ($e->isInvalidPhoneNumber()) {
+        return back()->withErrors(['phone' => 'Invalid phone number format']);
+    }
+
+    if ($e->isInvalidAuthentication()) {
+        Log::error('Beem authentication failed - check API credentials');
+        return back()->withErrors(['error' => 'Service unavailable']);
+    }
+
+    // Get the response code enum
+    $responseCode = $e->getResponseCode();
+    if ($responseCode) {
+        Log::error('SMS send failed', [
+            'code' => $responseCode->value,
+            'description' => $responseCode->description(),
+        ]);
+    }
+}
+```
+
+**Available Response Codes:**
+
+| Code | Description                            | Helper Method               |
+| ---- | -------------------------------------- | --------------------------- |
+| 100  | Message Submitted Successfully         | `isSuccess()`               |
+| 101  | Invalid phone number                   | `isInvalidPhoneNumber()`    |
+| 102  | Insufficient balance                   | `isInsufficientBalance()`   |
+| 103  | Network timeout                        | `isNetworkTimeout()`        |
+| 104  | Please provide all required parameters | `isMissingParameters()`     |
+| 105  | Account not found                      | `isAccountNotFound()`       |
+| 106  | No route mapping to your account       | `isNoRoute()`               |
+| 107  | No authorization headers               | `isInvalidAuthentication()` |
+| 108  | Invalid token                          | `isInvalidAuthentication()` |
+
+> See [SmsResponseCode](src/Enums/SmsResponseCode.php) for all 9 response codes.
+
+#### 8. SMS Webhooks
+
+The package automatically registers webhook routes for SMS delivery reports and inbound messages.
+
+**Delivery Report Webhook:**
+
+Configure your delivery report webhook URL in the Beem SMS dashboard to point to:
+
+```
+https://yourapp.com/webhooks/beem/sms/delivery
+```
+
+**Create an event listener:**
+
+```php
+// app/Listeners/HandleSmsDelivery.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\SmsDeliveryReceived;
+
+class HandleSmsDelivery
+{
+    public function handle(SmsDeliveryReceived $event): void
+    {
+        $report = $event->getReport();
+
+        if ($event->isDelivered()) {
+            // Update your records
+            SmsLog::where('request_id', $report->getRequestId())
+                ->where('dest_addr', $report->getDestAddr())
+                ->update(['status' => 'delivered']);
+        } elseif ($event->isFailed()) {
+            // Handle failure
+            Log::warning('SMS delivery failed', [
+                'dest_addr' => $report->getDestAddr(),
+                'request_id' => $report->getRequestId(),
+            ]);
+        }
+    }
+}
+```
+
+**Inbound SMS Webhook (Two Way SMS):**
+
+Configure your inbound SMS webhook URL in the Beem SMS dashboard to point to:
+
+```
+https://yourapp.com/webhooks/beem/sms/inbound
+```
+
+**Create an event listener:**
+
+```php
+// app/Listeners/HandleInboundSms.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\InboundSmsReceived;
+
+class HandleInboundSms
+{
+    public function handle(InboundSmsReceived $event): void
+    {
+        $from = $event->getFrom();
+        $message = $event->getMessage();
+        $timestamp = $event->getTimestamp();
+
+        // Process inbound message
+        InboundMessage::create([
+            'from' => $from,
+            'message' => $message,
+            'received_at' => $timestamp,
+        ]);
+
+        // Auto-reply logic
+        if (str_contains(strtolower($message), 'help')) {
+            // Send help message
+        }
+    }
+}
+```
+
+**Register the listeners:**
+
+```php
+// app/Providers/EventServiceProvider.php
+
+use Gowelle\BeemAfrica\Events\SmsDeliveryReceived;
+use Gowelle\BeemAfrica\Events\InboundSmsReceived;
+use App\Listeners\HandleSmsDelivery;
+use App\Listeners\HandleInboundSms;
+
+protected $listen = [
+    SmsDeliveryReceived::class => [
+        HandleSmsDelivery::class,
+    ],
+    InboundSmsReceived::class => [
+        HandleInboundSms::class,
+    ],
+];
+```
+
+### Using Disbursements
+
+The package supports Beem's Disbursement API for mobile money payouts.
+
+#### 1. Transfer Funds
+
+Disburse funds to a mobile money wallet:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\DTOs\DisbursementRequest;
+
+$request = new DisbursementRequest(
+    amount: '10000',                    // Amount to transfer
+    walletNumber: '255712345678',       // Destination mobile (international format)
+    walletCode: 'ABC12345',             // Mobile money wallet code
+    accountNo: 'your-bpay-account',     // Your Bpay wallet account number
+    clientReferenceId: 'REF-'.uniqid(), // Your unique reference
+);
+
+$response = Beem::disbursement()->transfer($request);
+
+if ($response->isSuccessful()) {
+    $transactionId = $response->getTransactionId();
+    echo "Transfer successful! ID: {$transactionId}";
+}
+```
+
+#### 2. Scheduled Transfers
+
+Schedule a disbursement for later:
+
+```php
+$request = new DisbursementRequest(
+    amount: '10000',
+    walletNumber: '255712345678',
+    walletCode: 'ABC12345',
+    accountNo: 'your-bpay-account',
+    clientReferenceId: 'REF-001',
+    scheduledTimeUtc: '2025-12-25 10:30:00'  // UTC timezone
+);
+
+$response = Beem::disbursement()->transfer($request);
+```
+
+> **Note:** Scheduling functionality may not be available in all environments.
+
+#### 3. Error Handling
+
+The package provides detailed error handling with 14 response codes:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\Exceptions\DisbursementException;
+
+try {
+    $response = Beem::disbursement()->transfer($request);
+} catch (DisbursementException $e) {
+    if ($e->isInsufficientBalance()) {
+        return back()->withErrors(['error' => 'Insufficient wallet balance']);
+    }
+
+    if ($e->isInvalidPhoneNumber()) {
+        return back()->withErrors(['phone' => 'Invalid phone number']);
+    }
+
+    if ($e->isAmountTooLarge()) {
+        return back()->withErrors(['amount' => 'Amount exceeds limit']);
+    }
+
+    if ($e->isInvalidAuthentication()) {
+        Log::error('Beem authentication failed');
+        return back()->withErrors(['error' => 'Service unavailable']);
+    }
+}
+```
+
+**Available Response Codes:**
+
+| Code | Description                 | Helper Method               |
+| ---- | --------------------------- | --------------------------- |
+| 100  | Disbursement successful     | `isSuccess()`               |
+| 101  | Disbursement failed         | `isFailure()`               |
+| 102  | Invalid phone number        | `isInvalidPhoneNumber()`    |
+| 103  | Insufficient balance        | `isInsufficientBalance()`   |
+| 104  | Network timeout             | `isNetworkTimeout()`        |
+| 105  | Invalid parameters          | `isInvalidParameters()`     |
+| 106  | Amount too large            | `isAmountTooLarge()`        |
+| 107  | Account not found           | `isAccountNotFound()`       |
+| 108  | No route mapping            | `isNoRoute()`               |
+| 109  | No authorization headers    | `isInvalidAuthentication()` |
+| 110  | Invalid token               | `isInvalidAuthentication()` |
+| 111  | Missing Destination MSISDN  | `isMissingMsisdn()`         |
+| 112  | Missing Disbursement Amount | `isInvalidAmount()`         |
+| 113  | Invalid Disbursement Amount | `isInvalidAmount()`         |
+
+> See [DisbursementResponseCode](src/Enums/DisbursementResponseCode.php) for all 14 response codes.
+
+### Using Collections
+
+The package supports Beem's Payment Collections API for receiving mobile money payments.
+
+#### 1. Check Balance
+
+Check your collection balance:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+
+$balance = Beem::collection()->checkBalance();
+
+echo "Balance: " . $balance->getFormattedBalance(); // e.g. "5,300.00"
+echo "Raw: " . $balance->getBalanceAsFloat();       // e.g. 5300.0
+```
+
+#### 2. Handling Payment Callbacks
+
+When a subscriber makes a payment, Beem sends a callback to your webhook endpoint. The package dispatches a `CollectionReceived` event:
+
+```php
+// app/Listeners/HandleCollectionPayment.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\CollectionReceived;
+
+class HandleCollectionPayment
+{
+    public function handle(CollectionReceived $event): void
+    {
+        $transactionId = $event->getTransactionId();
+        $amount = $event->getAmount();
+        $phone = $event->getSubscriberMsisdn();
+        $reference = $event->getReferenceNumber();
+
+        // Process the payment (credit user account, fulfill order, etc.)
+        Payment::create([
+            'transaction_id' => $transactionId,
+            'amount' => $amount,
+            'phone' => $phone,
+            'reference' => $reference,
+            'status' => 'completed',
+        ]);
+    }
+}
+```
+
+Register the listener:
+
+```php
+// app/Providers/EventServiceProvider.php
+
+use Gowelle\BeemAfrica\Events\CollectionReceived;
+use App\Listeners\HandleCollectionPayment;
+
+protected $listen = [
+    CollectionReceived::class => [
+        HandleCollectionPayment::class,
+    ],
+];
+```
+
+#### Collection Payload Data
+
+The collection callback includes:
+
+| Field               | Description                            |
+| ------------------- | -------------------------------------- |
+| `transaction_id`    | Unique transaction ID from Beem        |
+| `amount_collected`  | Payment amount                         |
+| `subscriber_msisdn` | Payer's phone number                   |
+| `reference_number`  | Reference entered by subscriber        |
+| `paybill_number`    | Your merchant/paybill number           |
+| `network_name`      | Mobile network (Vodacom, Airtel, etc.) |
+| `source_currency`   | Source currency (TZS)                  |
+| `target_currency`   | Target currency (TZS)                  |
+
+### Using USSD Hub
+
+The package supports Beem's USSD Hub for interactive menus.
+
+#### 1. Check Balance
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+
+$balance = Beem::ussd()->checkBalance();
+echo "Balance: " . $balance->getFormattedBalance();
+```
+
+#### 2. Handling USSD Sessions
+
+When a subscriber dials your USSD code, Beem sends callbacks. Create a listener:
+
+```php
+// app/Listeners/HandleUssdSession.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\UssdSessionReceived;
+
+class HandleUssdSession
+{
+    public function handle(UssdSessionReceived $event): void
+    {
+        if ($event->isInitiate()) {
+            // First menu
+            $event->continueWith("Welcome!\n1. Check Balance\n2. Buy Airtime");
+            return;
+        }
+
+        if ($event->isContinue()) {
+            $response = $event->getSubscriberResponse();
+
+            match ($response) {
+                '1' => $event->terminateWith("Your balance: TZS 5,000"),
+                '2' => $event->continueWith("Enter amount:"),
+                default => $event->terminateWith("Invalid option"),
+            };
+        }
+    }
+}
+```
+
+Register the listener:
+
+```php
+use Gowelle\BeemAfrica\Events\UssdSessionReceived;
+use App\Listeners\HandleUssdSession;
+
+protected $listen = [
+    UssdSessionReceived::class => [
+        HandleUssdSession::class,
+    ],
+];
+```
+
+#### USSD Commands
+
+| Command     | Description                              |
+| ----------- | ---------------------------------------- |
+| `initiate`  | First invocation of session              |
+| `continue`  | Ongoing session with subscriber response |
+| `terminate` | Close the USSD session                   |
+
+### Using Contacts
+
+The package supports Beem's Contacts API for managing address books and contacts.
+
+#### 1. AddressBook Management
+
+**List AddressBooks**
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+
+// List all address books
+$response = Beem::contacts()->listAddressBooks();
+
+foreach ($response->getAddressBooks() as $addressBook) {
+    echo "{$addressBook->getAddressbook()}: {$addressBook->getContactsCount()} contacts\n";
+}
+
+// Access pagination data
+$pagination = $response->getPagination();
+echo "Total: {$pagination->getTotalItems()}\n";
+echo "Page {$pagination->getCurrentPage()} of {$pagination->getTotalPages()}\n";
+```
+
+**Search AddressBooks**
+
+```php
+// Search by name
+$response = Beem::contacts()->listAddressBooks(query: 'Marketing');
+```
+
+**Create AddressBook**
+
+```php
+use Gowelle\BeemAfrica\DTOs\AddressBookRequest;
+
+$request = new AddressBookRequest(
+    addressbook: 'VIP Customers',
+    description: 'High value customer list'
+);
+
+$response = Beem::contacts()->createAddressBook($request);
+
+if ($response->isSuccessful()) {
+    $addressBookId = $response->getId();
+    echo "Created: {$response->getMessage()}\n";
+}
+```
+
+**Update AddressBook**
+
+```php
+$request = new AddressBookRequest(
+    addressbook: 'VIP Customers - Updated',
+    description: 'Premium customer list'
+);
+
+$response = Beem::contacts()->updateAddressBook($addressBookId, $request);
+```
+
+**Delete AddressBook**
+
+> **Note:** You cannot delete the 'Default' address book.
+
+```php
+$response = Beem::contacts()->deleteAddressBook($addressBookId);
+
+if ($response->isSuccessful()) {
+    echo $response->getMessage();
+}
+```
+
+#### 2. Contact Management
+
+**List Contacts**
+
+```php
+// List all contacts in an address book
+$response = Beem::contacts()->listContacts($addressBookId);
+
+foreach ($response->getContacts() as $contact) {
+    echo "{$contact->getFullName()}: {$contact->getMobileNumber()}\n";
+    echo "Email: {$contact->getEmail()}\n";
+}
+
+// Search contacts by name or phone
+$response = Beem::contacts()->listContacts($addressBookId, query: 'John');
+```
+
+**Create Contact**
+
+```php
+use Gowelle\BeemAfrica\DTOs\ContactRequest;
+use Gowelle\BeemAfrica\Enums\Gender;
+use Gowelle\BeemAfrica\Enums\Title;
+
+$request = new ContactRequest(
+    mob_no: '255712345678',              // Required: Primary mobile number
+    addressbook_id: [$addressBookId],    // Required: Array of address book IDs
+    fname: 'John',                       // Optional: First name
+    lname: 'Doe',                        // Optional: Last name
+    title: Title::MR,                    // Optional: Title::MR / Title::MRS / Title::MS (or string 'Mr.' / 'Mrs.' / 'Ms.')
+    gender: Gender::MALE,                // Optional: Gender::MALE / Gender::FEMALE (or string 'male' / 'female')
+    email: 'john.doe@example.com',       // Optional: Email address
+    mob_no2: '255787654321',             // Optional: Secondary mobile number
+    country: 'Tanzania',                 // Optional: Country
+    city: 'Dar es Salaam',               // Optional: City
+    area: 'Kisutu',                      // Optional: Area/Locality
+    birth_date: '1990-01-15'             // Optional: yyyy-mm-dd format
+);
+
+$response = Beem::contacts()->createContact($request);
+
+if ($response->isSuccessful()) {
+    $contactId = $response->getId();
+    echo "Contact created: {$response->getMessage()}\n";
+}
+```
+
+**Using Enums (Recommended)**
+
+```php
+use Gowelle\BeemAfrica\Enums\Gender;
+use Gowelle\BeemAfrica\Enums\Title;
+
+// Gender enum
+$request = new ContactRequest(
+    mob_no: '255712345678',
+    addressbook_id: [$addressBookId],
+    gender: Gender::MALE,     // or Gender::FEMALE
+);
+
+// Title enum
+$request = new ContactRequest(
+    mob_no: '255712345678',
+    addressbook_id: [$addressBookId],
+    title: Title::MR,         // or Title::MRS, Title::MS
+);
+
+// Check gender
+if ($request->gender === Gender::MALE) {
+    // ...
+}
+
+// Get label
+echo Gender::MALE->label();   // "Male"
+echo Gender::FEMALE->label(); // "Female"
+```
+
+**Using Strings (Backward Compatible)**
+
+```php
+// String values still work
+$request = new ContactRequest(
+    mob_no: '255712345678',
+    addressbook_id: [$addressBookId],
+    title: 'Mr.',      // 'Mr.' / 'Mrs.' / 'Ms.'
+    gender: 'male',    // 'male' / 'female'
+);
+```
+
+**Add Contact to Multiple AddressBooks**
+
+```php
+// Add a contact to multiple address books at once
+$request = new ContactRequest(
+    mob_no: '255712345678',
+    addressbook_id: [$addressBookId1, $addressBookId2, $addressBookId3],
+    fname: 'Jane',
+    lname: 'Smith'
+);
+
+$response = Beem::contacts()->createContact($request);
+```
+
+**Update Contact**
+
+```php
+$request = new ContactRequest(
+    mob_no: '255712345678',
+    addressbook_id: [$addressBookId],
+    fname: 'John',
+    lname: 'Doe Updated',
+    email: 'john.updated@example.com'
+);
+
+$response = Beem::contacts()->updateContact($contactId, $request);
+```
+
+**Delete Contacts**
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+
+// Delete specific contacts from specific address books
+$response = Beem::contacts()->deleteContacts(
+    addressBookIds: [$addressBookId],
+    contactIds: [$contactId1, $contactId2]
+);
+
+if ($response->isSuccessful()) {
+    echo $response->getMessage();
+}
+```
+
+#### 3. Working with Contact Data
+
+```php
+// Access contact details
+$response = Beem::contacts()->listContacts($addressBookId);
+
+foreach ($response->getContacts() as $contact) {
+    // Basic info
+    $fullName = $contact->getFullName();        // "John Doe"
+    $firstName = $contact->getFirstName();       // "John"
+    $lastName = $contact->getLastName();         // "Doe"
+
+    // Contact details
+    $mobile = $contact->getMobileNumber();       // "255712345678"
+    $mobile2 = $contact->getSecondaryMobileNumber();
+    $email = $contact->getEmail();
+
+    // Demographics
+    $title = $contact->getTitle();               // "Mr."
+    $gender = $contact->getGender();             // "male"
+    $birthDate = $contact->getBirthDate();       // "1990-01-15"
+
+    // Location
+    $country = $contact->getCountry();
+    $city = $contact->getCity();
+    $area = $contact->getArea();
+
+    // Metadata
+    $createdAt = $contact->getCreated();         // ISO 8601 timestamp
+    $contactId = $contact->getId();
+}
+```
+
+#### 4. Pagination
+
+Both AddressBooks and Contacts endpoints support pagination:
+
+```php
+$response = Beem::contacts()->listContacts($addressBookId);
+
+$pagination = $response->getPagination();
+
+// Pagination info
+echo "Total Items: {$pagination->getTotalItems()}\n";
+echo "Current Page: {$pagination->getCurrentPage()}\n";
+echo "Page Size: {$pagination->getPageSize()}\n";
+echo "Total Pages: {$pagination->getTotalPages()}\n";
+
+// Check for more pages
+if ($pagination->hasMorePages()) {
+    $nextPage = $pagination->getNextPage();
+    echo "Next page: {$nextPage}\n";
+}
+```
+
+#### 5. Error Handling
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\DTOs\ContactRequest;
+use Gowelle\BeemAfrica\Exceptions\ContactsException;
+
+try {
+    $request = new ContactRequest(
+        mob_no: '255712345678',
+        addressbook_id: [$addressBookId],
+        fname: 'John'
+    );
+
+    $response = Beem::contacts()->createContact($request);
+} catch (ContactsException $e) {
+    // Handle API errors
+    Log::error('Contact creation failed: ' . $e->getMessage());
+
+    // HTTP status code
+    $statusCode = $e->getCode();
+} catch (\InvalidArgumentException $e) {
+    // Handle validation errors
+    Log::error('Invalid input: ' . $e->getMessage());
+}
+```
+
+**Common Validation Errors:**
+
+- Invalid phone number format (must be 10-15 digits, international format without +)
+- Empty address book ID array
+- Invalid birth date format (must be yyyy-mm-dd)
+- Invalid gender (must be Gender::MALE, Gender::FEMALE, or strings 'male' / 'female')
+- Invalid title (must be Title::MR, Title::MRS, Title::MS, or strings 'Mr.' / 'Mrs.' / 'Ms.')
+
+**Available Enums:**
+
+```php
+use Gowelle\BeemAfrica\Enums\Gender;
+use Gowelle\BeemAfrica\Enums\Title;
+
+// Gender Enum
+Gender::MALE     // 'male'
+Gender::FEMALE   // 'female'
+
+// Gender methods
+Gender::MALE->label()     // "Male"
+Gender::MALE->isMale()    // true
+Gender::MALE->isFemale()  // false
+
+// Title Enum
+Title::MR    // 'Mr.'
+Title::MRS   // 'Mrs.'
+Title::MS    // 'Ms.'
+
+// Title methods
+Title::MR->isMr()    // true
+Title::MR->isMrs()   // false
+Title::MR->isMs()    // false
+```
+
+#### 6. Best Practices
+
+**Phone Number Format**
+
+```php
+// ✅ Correct - International format without +
+'255712345678'   // Tanzania
+'254712345678'   // Kenya
+'256712345678'   // Uganda
+
+// ❌ Incorrect
+'+255712345678'  // Don't include +
+'0712345678'     // Don't use local format
+```
+
+**Multiple AddressBooks**
+
+```php
+// Add contact to multiple address books
+$request = new ContactRequest(
+    mob_no: '255712345678',
+    addressbook_id: [$personalId, $workId, $familyId],
+    fname: 'John'
+);
+```
+
+**Batch Operations**
+
+```php
+// Delete multiple contacts at once
+Beem::contacts()->deleteContacts(
+    addressBookIds: [$addressBookId],
+    contactIds: [$contact1, $contact2, $contact3, $contact4]
+);
+```
+
+### Using Moja (Multi-Channel Messaging)
+
+The package supports Beem's Moja API for multi-channel messaging with support for six message types across multiple channels.
+
+#### 1. Configure Moja
+
+Add your Moja credentials to `.env`:
+
+```env
+BEEM_API_KEY=your_api_key
+BEEM_SECRET_KEY=your_secret_key
+```
+
+#### 2. Get Active Sessions
+
+Retrieve list of active chat sessions:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+
+// Get all active sessions
+$response = Beem::moja()->getActiveSessions();
+
+foreach ($response->getSessions() as $session) {
+    echo "Session: {$session->username} on {$session->channel}\n";
+    echo "From: {$session->from_addr}\n";
+}
+```
+
+#### 3. Send Messages - Six Types Supported
+
+**Text Message**
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\DTOs\MojaMessageRequest;
+use Gowelle\BeemAfrica\Enums\MojaChannel;
+use Gowelle\BeemAfrica\Enums\MojaMessageType;
+
+$request = new MojaMessageRequest(
+    from: '255701000000',
+    to: '255701000001',
+    channel: MojaChannel::WHATSAPP,
+    message_type: MojaMessageType::TEXT,
+    text: 'Hello from Moja API!'
+);
+
+$response = Beem::moja()->sendMessage($request);
+
+if ($response->isSuccess()) {
+    echo "Message sent successfully!";
+}
+```
+
+**Image Message**
+
+```php
+use Gowelle\BeemAfrica\DTOs\MojaMediaObject;
+
+$image = new MojaMediaObject(
+    mime_type: 'image/jpeg',
+    url: 'https://example.com/image.jpg'
+);
+
+$request = new MojaMessageRequest(
+    from: '255701000000',
+    to: '255701000001',
+    channel: MojaChannel::WHATSAPP,
+    message_type: MojaMessageType::IMAGE,
+    image: $image,
+    text: 'Check out this image!'  // Optional caption
+);
+
+$response = Beem::moja()->sendMessage($request);
+```
+
+**Document Message**
+
+```php
+$document = new MojaMediaObject(
+    mime_type: 'application/pdf',
+    url: 'https://example.com/document.pdf'
+);
+
+$request = new MojaMessageRequest(
+    from: '255701000000',
+    to: '255701000001',
+    channel: MojaChannel::WHATSAPP,
+    message_type: MojaMessageType::DOCUMENT,
+    document: $document
+);
+
+$response = Beem::moja()->sendMessage($request);
+```
+
+**Video Message**
+
+```php
+$video = new MojaMediaObject(
+    mime_type: 'video/mp4',
+    url: 'https://example.com/video.mp4'
+);
+
+$request = new MojaMessageRequest(
+    from: '255701000000',
+    to: '255701000001',
+    channel: MojaChannel::WHATSAPP,
+    message_type: MojaMessageType::VIDEO,
+    video: $video,
+    text: 'Watch this video!'  // Optional caption
+);
+
+$response = Beem::moja()->sendMessage($request);
+```
+
+**Audio Message**
+
+```php
+$audio = new MojaMediaObject(
+    mime_type: 'audio/mpeg',
+    url: 'https://example.com/audio.mp3'
+);
+
+$request = new MojaMessageRequest(
+    from: '255701000000',
+    to: '255701000001',
+    channel: MojaChannel::WHATSAPP,
+    message_type: MojaMessageType::AUDIO,
+    audio: $audio
+);
+
+$response = Beem::moja()->sendMessage($request);
+```
+
+**Location Message**
+
+```php
+use Gowelle\BeemAfrica\DTOs\MojaLocationObject;
+
+$location = new MojaLocationObject(
+    latitude: '-6.7924',
+    longitude: '39.2083'
+);
+
+$request = new MojaMessageRequest(
+    from: '255701000000',
+    to: '255701000001',
+    channel: MojaChannel::WHATSAPP,
+    message_type: MojaMessageType::LOCATION,
+    location: $location
+);
+
+$response = Beem::moja()->sendMessage($request);
+```
+
+#### 4. Channels Supported
+
+```php
+use Gowelle\BeemAfrica\Enums\MojaChannel;
+
+MojaChannel::WHATSAPP                    // WhatsApp
+MojaChannel::FACEBOOK                    // Facebook Messenger
+MojaChannel::INSTAGRAM                   // Instagram Direct Messages
+MojaChannel::GOOGLE_BUSINESS_MESSAGING   // Google Business Messaging
+```
+
+#### 5. WhatsApp Templates
+
+**Fetch Available Templates**
+
+```php
+// Get all templates
+$response = Beem::moja()->fetchTemplates();
+
+foreach ($response->getTemplates() as $template) {
+    echo "Template: {$template->name}\n";
+    echo "Category: {$template->category}\n";
+    echo "Status: {$template->status}\n";
+}
+
+// Filter templates
+$response = Beem::moja()->fetchTemplates([
+    'category' => 'AUTHENTICATION',
+    'status' => 'approved'
+]);
+```
+
+**Send Template Message**
+
+```php
+use Gowelle\BeemAfrica\DTOs\MojaTemplateRequest;
+
+$request = new MojaTemplateRequest(
+    from_addr: '255701000000',
+    destination_addr: [
+        [
+            'phoneNumber' => '255712345678',
+            'params' => ['John', '123456']  // Template parameters
+        ]
+    ],
+    template_id: 1024
+);
+
+$response = Beem::moja()->sendTemplate($request);
+
+if ($response->allRecipientsValid()) {
+    echo "All {$response->validCounts} recipients are valid\n";
+}
+```
+
+#### 6. Moja Error Handling
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\Exceptions\MojaException;
+
+try {
+    $response = Beem::moja()->sendMessage($request);
+} catch (MojaException $e) {
+    // Check for specific error types
+    if ($e->isSessionExpired()) {
+        return back()->withErrors(['error' => 'Chat session expired']);
+    }
+
+    if ($e->isAuthenticationError()) {
+        Log::error('Moja authentication failed - check API credentials');
+        return back()->withErrors(['error' => 'Service unavailable']);
+    }
+
+    if ($e->isRateLimited()) {
+        return back()->withErrors(['error' => 'Too many requests, please try later']);
+    }
+
+    // Generic error handling
+    Log::error('Moja error', [
+        'message' => $e->getMessage(),
+        'code' => $e->getCode(),
+    ]);
+
+    return back()->withErrors(['error' => 'Failed to send message']);
+}
+```
+
+#### 7. Moja Webhooks
+
+The package automatically registers webhook routes for Moja incoming messages and delivery reports.
+
+**Incoming Message Webhook:**
+
+Configure your incoming message webhook URL in Beem dashboard to point to:
+
+```
+https://yourapp.com/webhooks/beem/moja/incoming
+```
+
+**Create an event listener:**
+
+```php
+// app/Listeners/HandleMojaIncomingMessage.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\MojaIncomingMessageReceived;
+
+class HandleMojaIncomingMessage
+{
+    public function handle(MojaIncomingMessageReceived $event): void
+    {
+        $message = $event->message;
+
+        if ($message->isTextMessage()) {
+            // Handle text message
+            ChatMessage::create([
+                'from' => $message->from,
+                'to' => $message->to,
+                'channel' => $message->channel,
+                'text' => $message->text,
+            ]);
+        } elseif ($message->hasMedia()) {
+            // Handle media message
+            if ($message->image) {
+                // Process image
+            } elseif ($message->document) {
+                // Process document
+            }
+        }
+    }
+}
+```
+
+**Delivery Report Webhook:**
+
+Configure your delivery report webhook URL to:
+
+```
+https://yourapp.com/webhooks/beem/moja/dlr
+```
+
+**Create an event listener:**
+
+```php
+// app/Listeners/HandleMojaDeliveryReport.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\MojaDeliveryReportReceived;
+
+class HandleMojaDeliveryReport
+{
+    public function handle(MojaDeliveryReportReceived $event): void
+    {
+        $report = $event->report;
+
+        if ($report->isRead()) {
+            // Message was read by recipient
+            ChatMessage::where('message_id', $report->message_id)
+                ->update(['status' => 'read']);
+        } elseif ($report->isFailed()) {
+            // Message delivery failed
+            ChatMessage::where('message_id', $report->message_id)
+                ->update(['status' => 'failed']);
+        }
+    }
+}
+```
+
+**Register the listeners:**
+
+```php
+// app/Providers/EventServiceProvider.php
+
+use Gowelle\BeemAfrica\Events\MojaIncomingMessageReceived;
+use Gowelle\BeemAfrica\Events\MojaDeliveryReportReceived;
+use App\Listeners\HandleMojaIncomingMessage;
+use App\Listeners\HandleMojaDeliveryReport;
+
+protected $listen = [
+    MojaIncomingMessageReceived::class => [
+        HandleMojaIncomingMessage::class,
+    ],
+    MojaDeliveryReportReceived::class => [
+        HandleMojaDeliveryReport::class,
+    ],
+];
+```
+
+### Using Multicountry SMS and SMPP
+
+#### 1. Configure Credentials
+
+Add to `.env`:
+
+```env
+BEEM_INTERNATIONAL_SMS_USERNAME=...
+BEEM_INTERNATIONAL_SMS_PASSWORD=...
+BEEM_INTERNATIONAL_SMS_DLR_URL=...  # Optional: Your DLR webhook URL
+```
+
+#### 2. Send International SMS
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\DTOs\InternationalSmsRequest;
+
+$request = new InternationalSmsRequest(
+    sourceAddr: 'Gowelle',
+    destAddr: '255712345678', // International format
+    message: 'Hello World',
+);
+
+$response = Beem::internationalSms()->send($request);
+
+if ($response->isSuccessful()) {
+    echo $response->getFirstMessageId();
+}
+```
+
+#### 3. Send Binary Message
+
+```php
+$request = InternationalSmsRequest::createBinary(
+    sourceAddr: 'Gowelle',
+    destAddr: '255712345678',
+    hexMessage: '00480065006C006C006F' // "Hello" in UTF-16BE Hex
+);
+Beem::internationalSms()->send($request);
+```
+
+#### 4. Check Balance
+
+```php
+$balance = Beem::internationalSms()->checkBalance();
+echo $balance->balance . ' ' . $balance->currency;
+```
+
+#### 5. Send to Multiple Recipients
+
+Send the same message to multiple destinations in a single request:
+
+```php
+use Gowelle\BeemAfrica\DTOs\InternationalSmsRequest;
+
+$request = new InternationalSmsRequest(
+    sourceAddr: 'Gowelle',
+    destAddr: [
+        '255712345678',  // Tanzania
+        '254712345678',  // Kenya
+        '256712345678',  // Uganda
+    ],
+    message: 'Hello to multiple recipients!',
+);
+
+$response = Beem::internationalSms()->send($request);
+
+if ($response->isSuccessful()) {
+    // Access all message IDs from results
+    foreach ($response->results as $result) {
+        echo "Status: {$result['status']}, Message ID: {$result['msgid']}\n";
+    }
+}
+```
+
+#### 6. Encoding Options
+
+The `encoding` parameter controls the message format. Supported values:
+
+| Value | Type           | Description                          | Use Case                  |
+| ----- | -------------- | ------------------------------------ | ------------------------- |
+| 0     | Text           | Plain text message (default)         | Regular SMS               |
+| 1     | Flash          | Flash message (displays immediately) | Urgent notifications      |
+| 2     | Binary/Unicode | Unicode or hex-encoded message       | Special characters, emoji |
+| 3     | ISO-8859-1     | Latin alphabet encoding              | European languages        |
+
+**Example - Flash Message:**
+
+```php
+$request = new InternationalSmsRequest(
+    sourceAddr: 'Gowelle',
+    destAddr: '255712345678',
+    message: 'URGENT: System Alert',
+    encoding: 1,  // Flash message
+);
+
+$response = Beem::internationalSms()->send($request);
+```
+
+**Example - Unicode Message:**
+
+```php
+use Gowelle\BeemAfrica\DTOs\InternationalSmsRequest;
+
+// Using the static factory method for binary messages
+$request = InternationalSmsRequest::createBinary(
+    sourceAddr: 'Gowelle',
+    destAddr: '255712345678',
+    hexMessage: '0410043704380432043E',  // "Привет" (Hello in Russian) in UTF-16BE
+);
+
+$response = Beem::internationalSms()->send($request);
+```
+
+#### 7. Response Handling
+
+The response object provides access to detailed information about the send operation:
+
+```php
+$response = Beem::internationalSms()->send($request);
+
+// Check overall success
+if ($response->isSuccessful()) {
+    echo "At least one message sent successfully\n";
+}
+
+// Access individual results
+foreach ($response->results as $result) {
+    $status = $result['status'];      // "0" = OK, other values = error
+    $msgid = $result['msgid'];        // Unique message ID
+    $statustext = $result['statustext'];  // Status description (e.g., "OK")
+
+    if ($status === '0') {
+        echo "Message {$msgid} sent successfully\n";
+    } else {
+        echo "Message failed with status {$status}: {$statustext}\n";
+    }
+}
+
+// Check account balance after sending
+if ($response->balance !== null) {
+    echo "Remaining balance: {$response->balance}\n";
+}
+
+// Get the first message ID (useful for single recipient)
+$firstMessageId = $response->getFirstMessageId();
+```
+
+#### 8. Error Handling
+
+The package provides structured error handling using `SmsException`:
+
+```php
+use Gowelle\BeemAfrica\Facades\Beem;
+use Gowelle\BeemAfrica\Exceptions\SmsException;
+use Gowelle\BeemAfrica\Enums\SmsResponseCode;
+
+try {
+    $request = new InternationalSmsRequest(
+        sourceAddr: 'Gowelle',
+        destAddr: '255712345678',
+        message: 'Hello World',
+    );
+
+    $response = Beem::internationalSms()->send($request);
+} catch (SmsException $e) {
+    // Check for specific error types
+    if ($e->isInsufficientBalance()) {
+        return back()->withErrors(['error' => 'Insufficient International SMS credits']);
+    }
+
+    if ($e->isInvalidPhoneNumber()) {
+        return back()->withErrors(['phone' => 'Invalid phone number format']);
+    }
+
+    if ($e->isInvalidAuthentication()) {
+        Log::error('International SMS authentication failed - check credentials');
+        return back()->withErrors(['error' => 'Service unavailable']);
+    }
+
+    if ($e->isNetworkTimeout()) {
+        return back()->withErrors(['error' => 'Network timeout - please try again']);
+    }
+
+    // Get the response code enum for additional details
+    $responseCode = $e->getResponseCode();
+    if ($responseCode) {
+        Log::error('International SMS error', [
+            'code' => $responseCode->value,
+            'description' => $responseCode->description(),
+        ]);
+    }
+
+    return back()->withErrors(['error' => 'Failed to send SMS. Please try again.']);
+}
+```
+
+**Available Error Codes:**
+
+| Code | Description                            | Helper Method               |
+| ---- | -------------------------------------- | --------------------------- |
+| 100  | Message Submitted Successfully         | `isSuccess()`               |
+| 101  | Invalid phone number                   | `isInvalidPhoneNumber()`    |
+| 102  | Insufficient balance                   | `isInsufficientBalance()`   |
+| 103  | Network timeout                        | `isNetworkTimeout()`        |
+| 104  | Please provide all required parameters | `isMissingParameters()`     |
+| 105  | Account not found                      | `isAccountNotFound()`       |
+| 106  | No route mapping to your account       | `isNoRoute()`               |
+| 107  | No authorization headers               | `isInvalidAuthentication()` |
+| 108  | Invalid token                          | `isInvalidAuthentication()` |
+
+> See [SmsResponseCode](src/Enums/SmsResponseCode.php) for all 9 response codes.
+
+#### 9. Webhook Handling (DLR - Delivery Report)
+
+Beem sends delivery reports (DLR) to your webhook endpoint when messages are delivered or fail.
+
+##### Register the Webhook Route
+
+In your routes file or service provider, register the International SMS webhook macro:
+
+```php
+// routes/web.php or routes/api.php
+
+Route::beemInternationalWebhook('webhooks/beem/international');
+// This registers: POST /webhooks/beem/international
+```
+
+Or use a custom URL:
+
+```php
+Route::beemInternationalWebhook('custom/international/dlr');
+// This registers: POST /custom/international/dlr
+```
+
+##### Create an Event Listener
+
+```php
+// app/Listeners/HandleInternationalDlr.php
+
+namespace App\Listeners;
+
+use Gowelle\BeemAfrica\Events\InternationalDlrReceived;
+use Illuminate\Support\Facades\Log;
+
+class HandleInternationalDlr
+{
+    public function handle(InternationalDlrReceived $event): void
+    {
+        $dlrId = $event->getDlrId();
+        $from = $event->getSourceAddr();
+        $to = $event->getDestAddr();
+        $message = $event->getMessage();
+        $payload = $event->payload;
+
+        // Access full payload for additional data
+        Log::info('International DLR Received', [
+            'dlr_id' => $dlrId,
+            'from' => $from,
+            'to' => $to,
+            'payload' => $payload,
+        ]);
+
+        // Update your database with delivery status
+        // Example: Find the SMS record and update its status
+        InternationalSmsLog::updateOrCreate(
+            ['dlr_id' => $dlrId],
+            [
+                'status' => $payload['status'] ?? 'received',
+                'delivered_at' => now(),
+            ]
+        );
+    }
+}
+```
+
+##### Register the Listener
+
+```php
+// app/Providers/EventServiceProvider.php
+
+use Gowelle\BeemAfrica\Events\InternationalDlrReceived;
+use App\Listeners\HandleInternationalDlr;
+
+protected $listen = [
+    InternationalDlrReceived::class => [
+        HandleInternationalDlr::class,
+    ],
+];
+```
+
+##### Access Webhook Payload Data
+
+The `InternationalDlrReceived` event provides helper methods to access common fields:
+
+```php
+public function handle(InternationalDlrReceived $event): void
+{
+    // Helper methods (case-insensitive field access)
+    $dlrId = $event->getDlrId();           // DLRID or dlrid
+    $from = $event->getSourceAddr();       // SOURCEADDR or from
+    $to = $event->getDestAddr();           // DESTADDR or to
+    $message = $event->getMessage();       // MESSAGE or text
+
+    // Full payload access for any field
+    $fullPayload = $event->payload;
+    $status = $fullPayload['status'] ?? $fullPayload['STATUS'] ?? null;
+    $timestamp = $fullPayload['timestamp'] ?? $fullPayload['TIMESTAMP'] ?? null;
+}
+```
+
+##### Configure DLR URL in .env
+
+```env
+BEEM_INTERNATIONAL_SMS_DLR_URL=https://yourapp.com/webhooks/beem/international
+```
+
+Then use it in your send request (optional):
+
+```php
+$request = new InternationalSmsRequest(
+    sourceAddr: 'Gowelle',
+    destAddr: '255712345678',
+    message: 'Hello World',
+    dlrAddress: env('BEEM_INTERNATIONAL_SMS_DLR_URL'),  // Set webhook URL per request
+);
+
+$response = Beem::internationalSms()->send($request);
+```
+
+Or configure it globally in `config/beem-africa.php`:
+
+```php
+'international_sms' => [
+    'username' => env('BEEM_INTERNATIONAL_SMS_USERNAME'),
+    'password' => env('BEEM_INTERNATIONAL_SMS_PASSWORD'),
+    'base_url' => 'https://api.blsmsgw.com:8443/bin',
+    'portal_url' => 'https://www.blsmsgw.com/portal/api',
+    'dlr_url' => env('BEEM_INTERNATIONAL_SMS_DLR_URL'),
+],
+```
+
+## UI Components
+
+The package includes ready-to-use UI components for both Livewire and Vue/InertiaJS applications, with full TypeScript support and localization.
+
+### Quick Links
+
+- [Livewire Components](#livewire-components)
+- [Vue/InertiaJS Components](#vueinertiajs-components)
+- [Vue Composables](#composables)
+- [Backend Routes for Vue](#backend-routes-for-vue-components)
+- [Styling Customization](#styling-customization)
+- [Labels Reference](#labels-reference)
+
+---
+
+### Livewire Components
+
+Livewire v3 components are automatically registered when Livewire is installed. No additional setup required.
+
+#### BeemCheckout
+
+A payment checkout component with amount input, reference, and mobile number fields.
+
+```blade
+{{-- Basic usage with pre-set amount --}}
+<livewire:beem-checkout 
+    :amount="1000" 
+    reference="ORDER-001" 
+    mobile="255712345678"
+/>
+
+{{-- Dynamic form (amount editable by user) --}}
+<livewire:beem-checkout />
+```
+
+##### Props
+
+| Prop | Type | Default | Description |
+|------|------|---------|-------------|
+| `amount` | `int` | `0` | Whole-number payment amount. If `0`, displays an editable input field |
+| `reference` | `string` | `''` | Order reference. If empty, displays an editable input field |
+| `mobile` | `?string` | `null` | Pre-filled mobile number (optional) |
+
+##### Public Properties
+
+| Property | Type | Description |
+|----------|------|-------------|
+| `isProcessing` | `bool` | `true` while checkout is being initiated |
+| `errorMessage` | `?string` | Error message if checkout fails |
+| `checkoutUrl` | `?string` | Generated Beem checkout URL |
+
+##### Events
+
+| Event | Payload | Description |
+|-------|---------|-------------|
+| `beem-checkout-initiated` | `{url, reference, amount}` | Checkout URL successfully generated |
+| `beem-checkout-error` | `{message, code}` | Checkout failed. `code` is the Beem error code |
+
+##### Listening to Events
+
+```blade
+<livewire:beem-checkout 
+    :amount="1000" 
+    reference="ORDER-001"
+    @beem-checkout-initiated="handleCheckout"
+/>
+
+<script>
+document.addEventListener('beem-checkout-initiated', (event) => {
+    console.log('Checkout URL:', event.detail.url);
+    // Optionally redirect or show modal
+});
+</script>
+```
+
+---
+
+#### BeemOtpVerification
+
+A two-step OTP verification component with phone input and code verification.
+
+```blade
+{{-- Basic usage --}}
+<livewire:beem-otp-verification />
+
+{{-- With pre-filled phone number --}}
+<livewire:beem-otp-verification phone="255712345678" />
+```
+
+##### Props
+
+| Prop | Type | Default | Description |
+|------|------|---------|-------------|
+| `phone` | `?string` | `null` | Pre-filled phone number |
+
+##### Public Properties
+
+| Property | Type | Description |
+|----------|------|-------------|
+| `phone` | `string` | Current phone number |
+| `otpCode` | `string` | User-entered OTP code |
+| `pinId` | `?string` | Beem PIN ID for verification |
+| `isRequesting` | `bool` | `true` while requesting OTP |
+| `isVerifying` | `bool` | `true` while verifying OTP |
+| `isVerified` | `bool` | `true` after successful verification |
+| `otpSent` | `bool` | `true` after OTP is sent |
+| `resendCooldown` | `int` | Seconds until resend is allowed (60s default) |
+
+##### Events
+
+| Event | Payload | Description |
+|-------|---------|-------------|
+| `beem-otp-sent` | `{phone}` | OTP sent successfully |
+| `beem-otp-verified` | `{phone}` | Phone number verified |
+| `beem-otp-error` | `{message, code}` | OTP request failed |
+| `beem-otp-verification-failed` | `{message}` | Verification failed |
+
+##### Complete Example
+
+```blade
+<div x-data="{ verified: false }">
+    <livewire:beem-otp-verification 
+        phone="{{ auth()->user()->phone }}"
+        @beem-otp-verified="verified = true"
+    />
+    
+    <div x-show="verified" class="text-green-600">
+        ✓ Phone verified! You can now proceed.
+    </div>
+</div>
+```
+
+---
+
+#### BeemSmsForm
+
+A full-featured SMS form with recipient management, character counting, and scheduling.
+
+```blade
+<livewire:beem-sms-form />
+```
+
+##### Public Properties
+
+| Property | Type | Description |
+|----------|------|-------------|
+| `senderName` | `string` | Sender ID (max 11 characters) |
+| `message` | `string` | SMS message content |
+| `recipients` | `array` | List of phone numbers |
+| `newRecipient` | `string` | Input field for adding recipients |
+| `scheduleTime` | `?string` | Optional schedule datetime |
+| `isSending` | `bool` | `true` while sending SMS |
+
+##### Computed Properties
+
+| Property | Type | Description |
+|----------|------|-------------|
+| `characterCount` | `int` | Current message length |
+| `smsSegments` | `int` | Number of SMS segments (160 chars = 1, 153 chars per additional) |
+| `remainingCharacters` | `int` | Characters remaining in current segment |
+
+##### Events
+
+| Event | Payload | Description |
+|-------|---------|-------------|
+| `beem-sms-sent` | `{recipients, segments}` | SMS sent successfully |
+| `beem-sms-error` | `{message}` | SMS sending failed |
+
+##### Features
+
+- **Recipient Management**: Add/remove multiple recipients with validation
+- **Character Counter**: Real-time count with SMS segment display
+- **Scheduling**: Optional datetime picker for scheduled messages
+- **Validation**: Phone format validation (10-15 digits)
+
+---
+
+### Vue/InertiaJS Components
+
+TypeScript Vue 3 components for InertiaJS applications with full type safety.
+
+#### Publishing Components
+
+```bash
+php artisan vendor:publish --tag="beem-africa-vue"
+```
+
+This publishes components to `resources/js/vendor/beem-africa/`:
+
+```
+resources/js/vendor/beem-africa/
+├── Components/
+│   ├── BeemCheckoutButton.vue
+│   ├── BeemOtpVerification.vue
+│   └── BeemSmsForm.vue
+├── Composables/
+│   └── useBeem.ts
+├── index.ts
+└── types.d.ts
+```
+
+---
+
+#### BeemCheckoutButton (Iframe Only)
+
+An iframe/widget wrapper for Beem's embedded checkout library. This component does not initiate redirect checkout.
+
+```vue
+<script setup lang="ts">
+import { BeemCheckoutButton } from '@/vendor/beem-africa';
+
+const handleError = (event: { message: string }) => {
+  console.error('Checkout error:', event.message);
+};
+</script>
+
+<template>
+  <BeemCheckoutButton
+    :amount="1000"
+    token="your-callback-token"
+    reference="SAMPLE-12345"
+    transaction-id="96f9cc09-afa0-40cf-928a-d7e2b27b2408"
+    mobile="255712345678"
+    @checkout-mounted="() => console.log('Beem iframe ready')"
+    @checkout-error="handleError"
+  />
+</template>
+```
+
+##### Props
+
+| Prop | Type | Required | Default | Description |
+|------|------|----------|---------|-------------|
+| `amount` | `number` | ✅ | - | Whole-number payment amount |
+| `token` | `string` | ❌ | `null` | Optional callback correlation token echoed by Beem in callback headers |
+| `reference` | `string` | ✅ | - | Order reference number |
+| `transactionId` | `string` | ✅ | - | UUIDv4 transaction ID |
+| `mobile` | `string` | ❌ | `null` | Customer mobile number |
+| `labels` | `Labels` | ❌ | `{}` | Custom labels object |
+
+##### Events
+
+| Event | Payload | Description |
+|-------|---------|-------------|
+| `checkout-mounted` | - | Beem iframe assets loaded and `InitializeBeem()` invoked |
+| `checkout-error` | `{message}` | Error occurred |
+
+---
+
+#### BeemOtpVerification
+
+A two-step phone verification component.
+
+```vue
+<script setup lang="ts">
+import { BeemOtpVerification } from '@/vendor/beem-africa';
+
+const handleVerified = (event: { phone: string }) => {
+  console.log('Phone verified:', event.phone);
+  // Update user profile, enable features, etc.
+};
+</script>
+
+<template>
+  <BeemOtpVerification
+    initial-phone="255712345678"
+    :otp-length="6"
+    request-url="/api/beem/otp/request"
+    verify-url="/api/beem/otp/verify"
+    @verified="handleVerified"
+  />
+</template>
+```
+
+##### Props
+
+| Prop | Type | Required | Default | Description |
+|------|------|----------|---------|-------------|
+| `initialPhone` | `string` | ❌ | `''` | Pre-filled phone number |
+| `otpLength` | `number` | ❌ | `6` | Expected OTP code length |
+| `requestUrl` | `string` | ❌ | `'/beem/otp/request'` | Backend endpoint for OTP request |
+| `verifyUrl` | `string` | ❌ | `'/beem/otp/verify'` | Backend endpoint for verification |
+| `labels` | `Labels` | ❌ | `{}` | Custom labels (21 keys available) |
+
+##### Events
+
+| Event | Payload | Description |
+|-------|---------|-------------|
+| `otp-sent` | `{phone}` | OTP sent successfully |
+| `verified` | `{phone}` | Phone number verified |
+| `error` | `{message}` | Error occurred |
+| `reset` | - | Form was reset |
+
+##### Exposed State
+
+```typescript
+// Available via ref
+{
+  phone: Ref<string>,
+  otpCode: Ref<string>,
+  pinId: Ref<string | null>,
+  isRequesting: Ref<boolean>,
+  isVerifying: Ref<boolean>,
+  isVerified: Ref<boolean>,
+  otpSent: Ref<boolean>,
+  error: Ref<string | null>,
+  requestOtp: () => Promise<void>,
+  verifyOtp: () => Promise<void>,
+  resendOtp: () => void,
+  resetVerification: () => void,
+}
+```
+
+---
+
+#### BeemSmsForm
+
+A full-featured SMS composition form.
+
+```vue
+<script setup lang="ts">
+import { BeemSmsForm } from '@/vendor/beem-africa';
+
+const handleSmsSent = (event: { recipients: number; segments: number }) => {
+  console.log(`Sent ${event.segments} segments to ${event.recipients} recipients`);
+};
+</script>
+
+<template>
+  <BeemSmsForm
+    sender-name="MYAPP"
+    send-url="/api/beem/sms/send"
+    :max-characters="918"
+    @sms-sent="handleSmsSent"
+  />
+</template>
+```
+
+##### Props
+
+| Prop | Type | Required | Default | Description |
+|------|------|----------|---------|-------------|
+| `senderName` | `string` | ❌ | `''` | Default sender ID (max 11 chars) |
+| `sendUrl` | `string` | ❌ | `'/beem/sms/send'` | Backend endpoint for sending SMS |
+| `maxCharacters` | `number` | ❌ | `918` | Maximum message length |
+| `labels` | `Labels` | ❌ | `{}` | Custom labels (16 keys available) |
+
+##### Events
+
+| Event | Payload | Description |
+|-------|---------|-------------|
+| `sms-sent` | `{recipients, segments}` | SMS sent successfully |
+| `error` | `{message}` | Error occurred |
+| `reset` | - | Form was reset |
+
+---
+
+### Composables
+
+TypeScript composables for building custom UI implementations.
+
+```typescript
+import { useBeemCheckout, useBeemOtp, useBeemSms } from '@/vendor/beem-africa';
+```
+
+#### useBeemCheckout
+
+```typescript
+const {
+  isLoading,      // Ref<boolean> - Loading state
+  error,          // Ref<string | null> - Error message
+  checkoutUrl,    // Ref<string | null> - Backend-generated redirect URL
+  initiateCheckout, // (options: CheckoutOptions) => Promise<CheckoutResult>
+  reset,          // () => void - Reset state
+} = useBeemCheckout({
+  requestUrl: '/beem/checkout/redirect', // Your backend endpoint
+});
+
+// Usage
+const result = await initiateCheckout({
+  amount: 1000,
+  transactionId: '96f9cc09-afa0-40cf-928a-d7e2b27b2408',
+  reference: 'SAMPLE-12345',
+  mobile: '255712345678',
+  email: 'customer@example.com',
+  currency: 'TZS',
+  redirectOnInit: false, // Don't auto-redirect
+});
+
+if (result.success) {
+  console.log('Checkout URL:', result.url);
+}
+```
+
+`useBeemCheckout()` does not call Beem directly from the browser. It calls your backend endpoint, which should perform the authenticated Beem redirect request.
+
+See [Checkout Redirect Route](#checkout-redirect-route) below for the backend endpoint example.
+
+#### useBeemOtp
+
+```typescript
+const {
+  isRequesting,   // Ref<boolean> - Requesting OTP
+  isVerifying,    // Ref<boolean> - Verifying OTP
+  isVerified,     // Ref<boolean> - Verification successful
+  pinId,          // Ref<string | null> - Beem PIN ID
+  error,          // Ref<string | null> - Error message
+  requestOtp,     // (phone: string) => Promise<OtpRequestResult>
+  verifyOtp,      // (otpCode: string, customPinId?: string) => Promise<OtpVerifyResult>
+  reset,          // () => void - Reset state
+} = useBeemOtp({
+  requestUrl: '/api/beem/otp/request', // Optional
+  verifyUrl: '/api/beem/otp/verify',   // Optional
+});
+
+// Usage
+const requestResult = await requestOtp('255712345678');
+if (requestResult.success) {
+  // Show OTP input...
+  const verifyResult = await verifyOtp('123456');
+  if (verifyResult.valid) {
+    console.log('Phone verified!');
+  }
+}
+```
+
+#### useBeemSms
+
+```typescript
+const {
+  isSending,      // Ref<boolean> - Sending state
+  error,          // Ref<string | null> - Error message
+  lastResponse,   // Ref<unknown> - Last API response
+  sendSms,        // (smsData: SmsData) => Promise<SmsSendResult>
+  calculateSegments,     // (message: string) => number
+  calculateCharacterCount, // (message: string) => number
+  reset,          // () => void - Reset state
+} = useBeemSms({
+  sendUrl: '/api/beem/sms/send', // Optional
+});
+
+// Usage
+const segments = calculateSegments('Hello World!'); // Returns 1
+
+const result = await sendSms({
+  senderName: 'MYAPP',
+  message: 'Hello World!',
+  recipients: ['255712345678', '255787654321'],
+  scheduleTime: null,
+});
+
+if (result.success) {
+  console.log(`Sent to ${result.recipients} recipients`);
+}
+```
+
+---
+
+### Backend Routes for Vue Components
+
+Vue components require backend endpoints to communicate with Beem APIs. Here's how to set them up:
+
+#### Checkout Redirect Route
+
+Use this endpoint with `useBeemCheckout()` when your frontend should ask your Laravel backend to initiate Beem redirect checkout.
+
+```php
+use Gowelle\BeemAfrica\DTOs\CheckoutRequest;
+use Gowelle\BeemAfrica\Facades\Beem;
+use Illuminate\Http\Request;
+
+Route::post('/beem/checkout/redirect', function (Request $request) {
+    $validated = $request->validate([
+        'amount' => ['required', 'integer', 'min:1'],
+        'transaction_id' => ['required', 'string'],
+        'reference_number' => ['required', 'string'],
+        'mobile' => ['nullable', 'regex:/^[0-9]{10,15}$/'],
+        'email' => ['nullable', 'email'],
+        'currency' => ['nullable', 'string', 'size:3'],
+        'send_source' => ['nullable', 'boolean'],
+    ]);
+
+    $checkout = Beem::initiate(CheckoutRequest::fromArray([
+        'amount' => $validated['amount'],
+        'transaction_id' => $validated['transaction_id'],
+        'reference_number' => $validated['reference_number'],
+        'mobile' => $validated['mobile'] ?? null,
+        'email' => $validated['email'] ?? null,
+        'currency' => $validated['currency'] ?? 'TZS',
+        'send_source' => $validated['send_source'] ?? true,
+    ]));
+
+    return response()->json([
+        'checkout_url' => $checkout->checkoutUrl,
+        'status_code' => $checkout->statusCode,
+        'message' => $checkout->message,
+    ]);
+});
+```
+
+#### OTP Routes
+
+```php
+// routes/web.php or routes/api.php
+
+use Gowelle\BeemAfrica\Facades\Beem;
+use Illuminate\Http\Request;
+
+Route::post('/beem/otp/request', function (Request $request) {
+    $request->validate(['phone' => 'required|string|regex:/^[0-9]{10,15}$/']);
+    
+    try {
+        $response = Beem::otp()->request($request->phone);
+        
+        return response()->json([
+            'success' => $response->isSuccessful(),
+            'pinId' => $response->getPinId(),
+        ]);
+    } catch (\Exception $e) {
+        return response()->json([
+            'success' => false,
+            'message' => 'Failed to send OTP',
+        ], 500);
+    }
+});
+
+Route::post('/beem/otp/verify', function (Request $request) {
+    $request->validate([
+        'pinId' => 'required|string',
+        'otpCode' => 'required|string|min:4|max:6',
+    ]);
+    
+    try {
+        $result = Beem::otp()->verify($request->pinId, $request->otpCode);
+        
+        if ($result->isValid()) {
+            // Mark phone as verified in your database
+            // auth()->user()->update(['phone_verified_at' => now()]);
+        }
+        
+        return response()->json([
+            'valid' => $result->isValid(),
+        ]);
+    } catch (\Exception $e) {
+        return response()->json([
+            'valid' => false,
+            'message' => $e->getMessage(),
+        ], 500);
+    }
+});
+```
+
+#### SMS Route
+
+```php
+use Gowelle\BeemAfrica\DTOs\SmsRecipient;
+use Gowelle\BeemAfrica\DTOs\SmsRequest;
+use Gowelle\BeemAfrica\Facades\Beem;
+
+Route::post('/beem/sms/send', function (Request $request) {
+    $request->validate([
+        'senderName' => 'required|string|max:11',
+        'message' => 'required|string|max:918',
+        'recipients' => 'required|array|min:1',
+        'recipients.*' => 'string|regex:/^[0-9]{10,15}$/',
+        'scheduleTime' => 'nullable|date',
+    ]);
+    
+    try {
+        $recipients = array_map(
+            fn ($phone) => new SmsRecipient(
+                recipientId: uniqid('rcpt_'),
+                destAddr: $phone
+            ),
+            $request->recipients
+        );
+        
+        $smsRequest = new SmsRequest(
+            sourceAddr: $request->senderName,
+            message: $request->message,
+            recipients: $recipients,
+            scheduleTime: $request->scheduleTime,
+        );
+        
+        $response = Beem::sms()->send($smsRequest);
+        
+        return response()->json([
+            'success' => $response->isSuccessful(),
+        ]);
+    } catch (\Exception $e) {
+        return response()->json([
+            'success' => false,
+            'message' => $e->getMessage(),
+        ], 500);
+    }
+});
+```
+
+> **Tip:** For API routes, add them to `routes/api.php` and update the component's `requestUrl`, `verifyUrl`, or `sendUrl` props to include the `/api` prefix.
+
+---
+
+### Styling Customization
+
+All components use scoped CSS with Beem's brand colors. You can customize styling in several ways:
+
+#### 1. Override with CSS Variables (Recommended)
+
+```css
+/* In your app.css */
+:root {
+  --beem-primary: #33B1BA;
+  --beem-primary-dark: #2a9aa3;
+  --beem-secondary: #F3A929;
+  --beem-text: #2D2D2C;
+  --beem-text-muted: #555555;
+  --beem-error: #dc3545;
+  --beem-success: #16a34a;
+}
+```
+
+#### 2. Deep Selectors (Vue)
+
+```vue
+<style>
+/* Override component styles */
+:deep(.beem-btn-primary) {
+  background: linear-gradient(135deg, #your-color 0%, #darker-shade 100%);
+}
+
+:deep(.beem-input:focus) {
+  border-color: #your-color;
+  box-shadow: 0 0 0 3px rgba(your-color, 0.15);
+}
+</style>
+```
+
+#### 3. Publish and Edit Blade Views (Livewire)
+
+```bash
+php artisan vendor:publish --tag="beem-africa-views"
+```
+
+This publishes views to `resources/views/vendor/beem-africa/livewire/` for full customization.
+
+---
+
+### Labels Reference
+
+Both Vue and Livewire components support localization via labels.
+
+#### Vue Components
+
+Pass a `labels` prop to customize text:
+
+```vue
+<BeemCheckoutButton
+  :amount="1000"
+  :labels="{
+    amount: 'Kiasi'
+  }"
+/>
+```
+
+##### BeemCheckoutButton Labels
+
+| Key | Default | Description |
+|-----|---------|-------------|
+| `amount` | `'Amount'` | Amount label |
+
+##### BeemOtpVerification Labels (21 keys)
+
+| Key | Default |
+|-----|---------|
+| `verified` | `'Verified!'` |
+| `verifyYourPhone` | `'Verify Your Phone'` |
+| `enterPhoneToReceiveCode` | `'Enter your phone number to receive a verification code'` |
+| `phoneNumber` | `'Phone Number'` |
+| `sendOtp` | `'Send OTP'` |
+| `sending` | `'Sending...'` |
+| `enterVerificationCode` | `'Enter Verification Code'` |
+| `weSentCodeTo` | `'We sent a code to :phone'` |
+| `verificationCode` | `'Verification Code'` |
+| `enterCode` | `'Enter code'` |
+| `verify` | `'Verify'` |
+| `verifying` | `'Verifying...'` |
+| `resendIn` | `'Resend in :seconds s'` |
+| `resendCode` | `'Resend Code'` |
+| `changeNumber` | `'Change Number'` |
+| `invalidOtp` | `'Invalid OTP code'` |
+| `failedToSendOtp` | `'Failed to send OTP'` |
+| `networkError` | `'Network error. Please try again.'` |
+| `verifiedSuccess` | `'Phone number verified successfully!'` |
+| `verificationFailed` | `'Verification failed. Please try again.'` |
+| `invalidPhoneFormat` | `'Invalid phone number format (10-15 digits)'` |
+
+##### BeemSmsForm Labels (16 keys)
+
+| Key | Default |
+|-----|---------|
+| `senderName` | `'Sender Name'` |
+| `senderPlaceholder` | `'MYAPP'` |
+| `maxCharactersHint` | `'Max 11 characters'` |
+| `recipients` | `'Recipients'` |
+| `phonePlaceholder` | `'255XXXXXXXXX'` |
+| `recipientsAdded` | `':count recipient(s) added'` |
+| `message` | `'Message'` |
+| `messagePlaceholder` | `'Type your message here...'` |
+| `scheduleOptional` | `'Schedule (Optional)'` |
+| `leaveEmptyHint` | `'Leave empty to send immediately'` |
+| `sendSms` | `'Send SMS'` |
+| `sending` | `'Sending...'` |
+| `reset` | `'Reset'` |
+| `invalidPhoneFormat` | `'Invalid phone number format (10-15 digits required)'` |
+| `recipientAlreadyAdded` | `'This number is already added'` |
+| `smsSentSuccess` | `'SMS sent to :count recipient(s)'` |
+
+#### Livewire Components
+
+Livewire components use Laravel's translation system. Publish and customize translations:
+
+```bash
+php artisan vendor:publish --tag="beem-africa-translations"
+```
+
+Edit files in `resources/lang/vendor/beem-africa/`.
+
+---
+
+### Running Component Tests
+
+#### Vue Component Tests
+
+```bash
+npm run test:run
+```
+
+#### Livewire Tests
+
+```bash
+composer test
+```
+
+> **Note:** The package includes 104 component tests (75 Vue + 29 Livewire) to ensure reliability.
+
+
+## Testing
+
+### Unit & Feature Tests
+
+Run the test suite (excludes integration tests by default):
+
+```bash
+composer test
+```
+
+### Integration Tests
+
+Integration tests require Beem sandbox credentials. Set the environment variables and run:
+
+```bash
+BEEM_API_KEY=your_api_key \
+BEEM_SECRET_KEY=your_secret_key \
+BEEM_CHECKOUT_REFERENCE_PREFIX=your_configured_prefix \
+./vendor/bin/pest --group=integration
+```
+
+`BEEM_CHECKOUT_REFERENCE_PREFIX` must match the checkout product/reference prefix configured in your Beem sandbox account (for example `SAMPLE`).
+
+### Static Analysis
+
+```bash
+composer analyse
+```
+
+### Code Style
+
+```bash
+composer format
+```
+
+## Continuous Integration
+
+The package includes GitHub Actions workflows:
+
+### `tests.yml`
+
+- Runs on eve

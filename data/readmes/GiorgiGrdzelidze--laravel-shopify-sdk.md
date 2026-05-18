@@ -1,0 +1,1349 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+
+# 🛍️ Laravel Shopify SDK
+
+### Production-Grade Shopify Integration for Laravel 12
+
+<p align="center">
+  <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-8.3%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.3+"></a>
+  <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12"></a>
+  <a href="https://filamentphp.com"><img src="https://img.shields.io/badge/Filament-v5-FDAE4B?style=for-the-badge" alt="Filament v5"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge" alt="MIT License"></a>
+</p>
+
+<p align="center">
+  <a href="#-quick-start">Quick Start</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-filament-v5-integration">Filament</a> •
+  <a href="#-changelog">Changelog</a>
+</p>
+
+---
+
+**🔐 OAuth** · **🪝 Webhooks** · **⚡ GraphQL & REST** · **🔄 Data Sync** · **🏪 Multi-Store** · **🎛️ Filament v5**
+
+</div>
+
+---
+
+## 📦 Package Identity
+
+| Property | Value |
+|----------|-------|
+| **Composer Name** | `giorgigrdzelidze/laravel-shopify-sdk` |
+| **PHP Namespace** | `LaravelShopifySdk\` |
+| **Shopify API** | `2026-01` |
+| **GitHub** | https://github.com/GiorgiGrdzelidze/laravel-shopify-sdk |
+
+---
+
+## ✨ Features
+
+<br>
+
+> ### 🔐 Authentication
+>
+> **OAuth Authorization Code Grant** — Standard Shopify OAuth flow for public/custom apps  
+> **Client Credentials Grant (2026+)** — Server-to-server auth for modern Shopify apps  
+> **Secure Token Encryption** — Encrypted access tokens with automatic refresh
+
+<br>
+
+> ### ⚡ API Clients
+>
+> **GraphQL API** — Recommended for optimal performance and flexibility  
+> **REST API** — Full support for legacy endpoints  
+> **Rate Limiting** — Intelligent throttling respects Shopify limits  
+> **Retry Logic** — Exponential backoff for transient failures
+
+<br>
+
+> ### 🔄 Data Synchronization
+>
+> | Entity | Sync | Push | Update | Delete |
+> |:-------|:----:|:----:|:------:|:------:|
+> | Products & Variants | ✅ | ✅ | ✅ | ✅ |
+> | Product Types | ✅ | ✅ | ✅ | ✅ |
+> | Product Tags | ✅ | ✅ | ✅ | ✅ |
+> | Orders & Line Items | ✅ | — | — | — |
+> | Customers | ✅ | ✅ | ✅ | — |
+> | Collections | ✅ | ✅ | ✅ | ✅ |
+> | Discounts | ✅ | ✅ | ✅ | — |
+> | Draft Orders | ✅ | ✅ | ✅ | — |
+> | Fulfillments | ✅ | — | — | — |
+> | Metafields | ✅ | ✅ | ✅ | ✅ |
+> | Inventory Levels | ✅ | ✅ | ✅ | — |
+
+<br>
+
+> ### 🪝 Webhooks
+>
+> **HMAC-SHA256 Verification** — Cryptographic verification of webhook authenticity  
+> **Idempotent Processing** — Safe handling of duplicate webhook deliveries  
+> **Event Storage** — Full audit trail of all received webhooks
+
+<br>
+
+> ### 🏪 Store Management
+>
+> **Multi-Store Support** — Manage unlimited Shopify stores from one app  
+> **Single-Store Mode** — Simplified setup for single-store applications  
+> **Access Control** — Restrict users to specific stores
+
+<br>
+
+> ### 🎛️ Filament v5 Admin Panel
+>
+> **17+ Resources** — Full CRUD for all Shopify entities  
+> **Dashboard Widgets** — Real-time stats, top products, inventory alerts  
+> **Sync Actions** — One-click sync buttons with confirmation dialogs  
+> **RBAC** — 7 roles, 55+ permissions out of the box  
+> **Activity Logging** — Complete audit trail of all actions
+
+<br>
+
+> ### 🛡️ Enterprise Ready
+>
+> **PHP 8.3 Strict Types** — Full type safety across entire codebase  
+> **Comprehensive Tests** — PHPUnit/Pest test suite included  
+> **PHPDoc Coverage** — Complete documentation for IDE support
+
+<br>
+
+---
+
+## 🎯 Artisan Commands
+
+<br>
+
+> ### 🔧 Setup & Configuration
+>
+> ```bash
+> # Create store from .env credentials (supports OAuth2 Client Credentials)
+> php artisan shopify:setup
+> php artisan shopify:setup --oauth --custom-domain=your-domain.com --currency=USD
+> 
+> # Assign Super Admin role to a user (required for first-time setup)
+> php artisan shopify:assign-admin your-email@example.com
+> ```
+
+<br>
+
+> ### 🔄 Sync Commands
+>
+> ```bash
+> # Sync individual entities
+> php artisan shopify:sync:products      # Products & variants
+> php artisan shopify:sync:orders        # Orders & line items
+> php artisan shopify:sync:customers     # Customer data
+> php artisan shopify:sync:collections   # Smart & custom collections
+> php artisan shopify:sync:inventory     # Inventory levels
+> php artisan shopify:sync:discounts     # Discount codes & rules
+> php artisan shopify:sync:draft-orders  # Draft orders
+> php artisan shopify:sync:fulfillments  # Fulfillment data
+> php artisan shopify:sync:metafields    # Product/collection metafields
+> 
+> # Sync everything at once
+> php artisan shopify:sync:all
+> 
+> # With options
+> php artisan shopify:sync:products --store=your-store.myshopify.com
+> php artisan shopify:sync:orders --date-from=2026-01-01 --date-to=2026-03-20
+> php artisan shopify:sync:products --dry-run  # Preview without syncing
+> ```
+
+<br>
+
+---
+
+## 🏁 Getting Started (5 Minutes)
+
+<br>
+
+> ### Step 1: Install & Configure
+>
+> ```bash
+> # Install the package
+> composer require giorgigrdzelidze/laravel-shopify-sdk
+> 
+> # Publish config and migrations
+> php artisan vendor:publish --tag=shopify-config
+> php artisan vendor:publish --tag=shopify-migrations
+> php artisan migrate
+> ```
+
+<br>
+
+> ### Step 2: Configure Environment
+>
+> Add to your `.env` file:
+>
+> ```env
+> # For Single Store (simplest setup)
+> SHOPIFY_SINGLE_STORE_ENABLED=true
+> SHOPIFY_SHOP_DOMAIN=your-store.myshopify.com
+> SHOPIFY_ACCESS_TOKEN=shpat_xxxxxxxxxxxxxxxxxxxxx
+> 
+> # For OAuth / Multi-Store
+> SHOPIFY_CLIENT_ID=your-client-id
+> SHOPIFY_CLIENT_SECRET=your-client-secret
+> SHOPIFY_API_VERSION=2026-01
+> ```
+
+<br>
+
+> ### Step 3: Setup Store & Admin Access
+>
+> ```bash
+> # Create your store in the database
+> php artisan shopify:setup
+> 
+> # For 2026+ apps using OAuth2 Client Credentials:
+> php artisan shopify:setup --oauth --custom-domain=your-domain.com --currency=USD
+> 
+> # Seed roles and permissions
+> php artisan db:seed --class="LaravelShopifySdk\\Database\\Seeders\\ShopifyRolesAndPermissionsSeeder"
+> 
+> # 🔑 IMPORTANT: Assign yourself as Super Admin
+> php artisan shopify:assign-admin your-email@example.com
+> ```
+
+<br>
+
+> ### Step 4: Enable Filament (Optional)
+>
+> ```bash
+> # Install Filament if not already installed
+> composer require filament/filament:"^5.0"
+> ```
+>
+> Update `config/shopify.php`:
+>
+> ```php
+> 'filament' => [
+>     'enabled' => true,
+> ],
+> ```
+>
+> Add the trait to your User model:
+>
+> ```php
+> use LaravelShopifySdk\Traits\HasShopifyRoles;
+> 
+> class User extends Authenticatable
+> {
+>     use HasShopifyRoles;
+> }
+> ```
+
+<br>
+
+> ### Step 5: Start Syncing! 🚀
+>
+> ```bash
+> # Sync your products
+> php artisan shopify:sync:products
+> 
+> # Sync everything
+> php artisan shopify:sync:all
+> 
+> # Visit the admin panel
+> open http://your-app.test/admin
+> ```
+
+<br>
+
+> ### 🎉 You're Done!
+>
+> Your Shopify data is now synced and you have full admin access.  
+> Visit `/admin` to see your dashboard with products, orders, customers, and more.
+
+<br>
+
+---
+
+## 📋 Table of Contents
+
+- [Requirements](#-requirements)
+- [Quick Start](#-quick-start)
+- [Installation](#-installation)
+- [Configuration](#-configuration)
+- [Usage](#-usage)
+- [Filament v5 Integration](#-filament-v5-integration-optional)
+- [Testing](#-testing)
+- [Security](#-security)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+
+---
+
+## 📦 Requirements
+
+| Requirement | Version |
+|------------|--------|
+| PHP | 8.3+ |
+| Laravel | 12.0+ |
+| Database | MySQL / PostgreSQL / SQLite |
+| Filament *(optional)* | 5.0+ |
+
+### Compatibility Matrix
+
+| Component | Version | Status |
+|-----------|---------|--------|
+| **PHP** | 8.3+ | ✅ Required |
+| **Laravel** | 12.x | ✅ Required |
+| **Filament** | v5 | ⚡ Optional |
+| **Shopify API** | 2026-01 | ✅ Default |
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# 1️⃣ Install the package
+composer require giorgigrdzelidze/laravel-shopify-sdk
+
+# 2️⃣ Publish config and migrations
+php artisan vendor:publish --tag=shopify-config
+php artisan vendor:publish --tag=shopify-migrations
+
+# 3️⃣ Run migrations
+php artisan migrate
+
+# 4️⃣ Configure your .env
+SHOPIFY_CLIENT_ID=your-client-id
+SHOPIFY_CLIENT_SECRET=your-client-secret
+SHOPIFY_API_VERSION=2026-01
+
+# 5️⃣ Start syncing!
+php artisan shopify:sync:products
+```
+
+**That's it!** 🎉 You're ready to integrate with Shopify.
+
+---
+
+## 💾 Installation
+
+Install the package via Composer:
+
+```bash
+composer require giorgigrdzelidze/laravel-shopify-sdk
+```
+
+Publish the configuration file:
+
+```bash
+php artisan vendor:publish --tag=shopify-config
+```
+
+Publish and run migrations:
+
+```bash
+php artisan vendor:publish --tag=shopify-migrations
+php artisan migrate
+```
+
+### 📚 Namespace & Autoloading
+
+This package uses the root namespace `LaravelShopifySdk\` for all classes. After installing or updating the package, ensure you regenerate the autoloader:
+
+```bash
+composer dump-autoload
+```
+
+**Package Structure:**
+
+| Namespace | Purpose |
+|-----------|--------|
+| `LaravelShopifySdk\Auth\*` | 🔐 Authentication and OAuth |
+| `LaravelShopifySdk\Clients\*` | ⚡ API clients (GraphQL, REST) |
+| `LaravelShopifySdk\Models\*` | 📦 Eloquent models |
+| `LaravelShopifySdk\Sync\*` | 🔄 Sync engine |
+| `LaravelShopifySdk\Commands\*` | 🎯 Artisan commands |
+| `LaravelShopifySdk\Webhooks\*` | 🪝 Webhook handling |
+| `LaravelShopifySdk\Exceptions\*` | ⚠️ Custom exceptions |
+
+---
+
+## ⚙️ Configuration
+
+### Environment Variables
+
+Add these to your `.env` file:
+
+```env
+# Shopify API Version
+SHOPIFY_API_VERSION=2026-01
+
+# Webhook Secret (required for webhooks)
+SHOPIFY_WEBHOOK_SECRET=your-webhook-secret
+
+# Optional: Filament Integration
+SHOPIFY_FILAMENT_ENABLED=false
+```
+
+### Single Store Mode vs Multi-Store Mode
+
+Choose one of the following configurations:
+
+#### Option 1: Single Store Mode (Recommended for single store)
+
+Use this if you're managing a single Shopify store. No database required for store credentials.
+
+```env
+# Enable Single Store Mode
+SHOPIFY_SINGLE_STORE_ENABLED=true
+SHOPIFY_SHOP_DOMAIN=your-store.myshopify.com
+SHOPIFY_ACCESS_TOKEN=shpat_xxxxxxxxxxxxxxxxxxxxx
+```
+
+**How to get your access token (Legacy - before Jan 2026):**
+1. Go to your Shopify Admin
+2. Settings → Apps and sales channels → Develop apps
+3. Create a custom app with required scopes
+4. Install the app and copy the Admin API access token
+
+**How to get your access token (2026+ - Client Credentials Grant):**
+
+> ⚠️ **Important:** Starting January 1, 2026, Shopify no longer allows creating legacy custom apps in the store admin. New apps must be created via the Developer Dashboard and use OAuth2 Client Credentials Grant.
+
+1. Create your app in the [Shopify Developer Dashboard](https://partners.shopify.com)
+2. Get your **Client ID** and **Client Secret**
+3. Install the app to your store
+4. Use the setup command with `--oauth` flag to obtain access token:
+
+```bash
+php artisan shopify:setup --oauth --custom-domain=your-domain.com --currency=USD
+```
+
+#### Option 2: Multi-Store Mode (For multiple stores with OAuth)
+
+Use this if you're building a public app or managing multiple stores.
+
+```env
+# Disable Single Store Mode
+SHOPIFY_SINGLE_STORE_ENABLED=false
+
+# OAuth Credentials (required for multi-store)
+SHOPIFY_CLIENT_ID=your-client-id
+SHOPIFY_CLIENT_SECRET=your-client-secret
+SHOPIFY_SCOPES=read_products,write_products,read_orders,write_orders,read_customers,write_customers,read_inventory,write_inventory
+SHOPIFY_REDIRECT_URI=https://your-app.com/shopify/callback
+```
+
+**Important:** In multi-store mode, stores must be installed via OAuth flow before syncing. The package will store credentials in the `shopify_stores` table.
+
+**To install a store manually in multi-store mode:**
+```php
+use LaravelShopifySdk\Auth\StoreRepository;
+
+$repository = app(StoreRepository::class);
+$repository->createOrUpdate(
+    shopDomain: 'your-store.myshopify.com',
+    accessToken: 'shpat_xxxxxxxxxxxxxxxxxxxxx',
+    scopes: 'read_products,write_products,read_orders'
+);
+```
+
+### Configuration File
+
+The `config/shopify.php` file provides extensive customization options:
+
+- API version and endpoints
+- OAuth settings
+- Route configuration
+- Webhook handling
+- Rate limiting parameters
+- Sync behavior
+- Filament integration
+- Logging preferences
+
+---
+
+## 📖 Usage
+
+### 🔐 OAuth Installation Flow
+
+#### 1. Register Your App
+
+Create a Shopify app in your Partner Dashboard and configure:
+- **App URL**: `https://your-app.com`
+- **Allowed redirection URL(s)**: `https://your-app.com/shopify/callback`
+
+#### 2. Installation Route
+
+Direct merchants to your install route:
+
+```
+https://your-app.com/shopify/install?shop=store-name.myshopify.com
+```
+
+The package handles the OAuth flow automatically:
+1. Redirects to Shopify for authorization
+2. Validates the callback HMAC
+3. Exchanges code for access token
+4. Stores encrypted credentials in database
+
+#### 3. Post-Installation
+
+After successful installation, the store is marked as active and ready for API calls.
+
+### ⚡ Making API Calls
+
+#### GraphQL API (Recommended)
+
+```php
+use LaravelShopifySdk\Clients\ShopifyClient;
+
+$client = app(ShopifyClient::class);
+
+// Get store instance
+$store = $client->getStore('store-name.myshopify.com');
+
+// Execute GraphQL query
+$query = <<<GQL
+{
+  products(first: 10) {
+    edges {
+      node {
+        id
+        title
+        status
+      }
+    }
+  }
+}
+GQL;
+
+$response = $client->graphql($store)->query($store, $query);
+```
+
+#### REST API
+
+```php
+// GET request
+$products = $client->rest($store)->get($store, 'products.json', [
+    'limit' => 50,
+    'status' => 'active',
+]);
+
+// POST request
+$product = $client->rest($store)->post($store, 'products.json', [
+    'product' => [
+        'title' => 'New Product',
+        'vendor' => 'My Store',
+    ],
+]);
+
+// PUT request
+$updated = $client->rest($store)->put($store, 'products/123.json', [
+    'product' => ['status' => 'draft'],
+]);
+
+// DELETE request
+$client->rest($store)->delete($store, 'products/123.json');
+```
+
+### 🪝 Webhooks
+
+#### Setup Webhooks in Shopify
+
+Register webhooks in your Shopify admin or via API:
+
+```
+POST /admin/api/2026-01/webhooks.json
+{
+  "webhook": {
+    "topic": "products/create",
+    "address": "https://your-app.com/shopify/webhooks",
+    "format": "json"
+  }
+}
+```
+
+#### Webhook Verification
+
+Webhooks are automatically verified using HMAC-SHA256. Invalid webhooks are rejected with a 401 response.
+
+#### Processing Webhooks
+
+The package stores all webhook events in the `shopify_webhook_events` table for:
+- Idempotency (prevents duplicate processing)
+- Audit trail
+- Retry capability
+
+Webhooks are processed asynchronously by default. The `app/uninstalled` webhook automatically marks stores as inactive.
+
+### 🏪 Store Setup Command
+
+The `shopify:setup` command creates or updates a store from environment credentials:
+
+```bash
+# Basic setup (uses SHOPIFY_SHOP_DOMAIN and SHOPIFY_ACCESS_TOKEN from .env)
+php artisan shopify:setup
+
+# With custom domain and currency
+php artisan shopify:setup --custom-domain=lumino.ge --currency=GEL
+
+# Using OAuth2 Client Credentials Grant (2026+ method)
+php artisan shopify:setup --oauth --custom-domain=lumino.ge --currency=GEL
+
+# With explicit options
+php artisan shopify:setup --domain=your-store.myshopify.com --token=shpat_xxx
+```
+
+**Options:**
+| Option | Description |
+|--------|-------------|
+| `--domain` | Shop domain (defaults to `SHOPIFY_SHOP_DOMAIN`) |
+| `--token` | Access token (defaults to `SHOPIFY_ACCESS_TOKEN`) |
+| `--custom-domain` | Custom domain (e.g., `lumino.ge`) |
+| `--currency` | Store currency (e.g., `GEL`, `USD`) |
+| `--oauth` | Use OAuth2 Client Credentials Grant to obtain token |
+
+The `--oauth` flag uses `SHOPIFY_CLIENT_ID` and `SHOPIFY_CLIENT_SECRET` to programmatically obtain an access token via the Client Credentials Grant flow.
+
+---
+
+### 🔄 Data Synchronization
+
+#### Manual Sync via Artisan
+
+```bash
+# Sync products
+php artisan shopify:sync:products --store=store-name.myshopify.com
+
+# Sync orders (with date range)
+php artisan shopify:sync:orders --date-from=2026-01-01 --date-to=2026-03-16
+
+# Sync customers (incremental since last sync)
+php artisan shopify:sync:customers --since=2026-03-01
+
+# Sync inventory
+php artisan shopify:sync:inventory
+
+# Sync all entities
+php artisan shopify:sync:all
+
+# Dry run (preview without syncing)
+php artisan shopify:sync:products --dry-run
+
+# Sync all active stores
+php artisan shopify:sync:products
+```
+
+#### Scheduled Sync
+
+Add to `routes/console.php` (Laravel 12+):
+
+```php
+use Illuminate\Support\Facades\Schedule;
+
+// Sync products daily at 2 AM
+Schedule::command('shopify:sync:products')->dailyAt('02:00');
+
+// Sync orders every hour
+Schedule::command('shopify:sync:orders')->hourly();
+
+// Sync customers daily at 3 AM
+Schedule::command('shopify:sync:customers')->dailyAt('03:00');
+
+// Sync inventory every 15 minutes
+Schedule::command('shopify:sync:inventory')->everyFifteenMinutes();
+
+// Sync everything daily at 1 AM
+Schedule::command('shopify:sync:all')->dailyAt('01:00');
+```
+
+#### Programmatic Sync
+
+```php
+use LaravelShopifySdk\Sync\SyncRunner;
+use LaravelShopifySdk\Auth\StoreRepository;
+
+$runner = app(SyncRunner::class);
+$repository = app(StoreRepository::class);
+
+$store = $repository->findByDomain('store-name.myshopify.com');
+
+// Sync products
+$syncRun = $runner->syncProducts($store, [
+    'since' => '2026-03-01',
+]);
+
+echo "Synced {$syncRun->counts['products']} products in {$syncRun->duration_ms}ms";
+
+// Sync orders with date range
+$syncRun = $runner->syncOrders($store, [
+    'date_from' => '2026-01-01',
+    'date_to' => '2026-03-16',
+]);
+```
+
+### 📦 Data Models
+
+All synced data is stored with:
+- **Full JSON payload** in `payload` column
+- **Searchable columns** for common queries
+- **Relationships** between entities
+
+```php
+use LaravelShopifySdk\Models\Product;
+use LaravelShopifySdk\Models\Order;
+use LaravelShopifySdk\Models\Customer;
+
+// Query products
+$products = Product::where('store_id', $store->id)
+    ->where('status', 'active')
+    ->where('vendor', 'Nike')
+    ->get();
+
+// Access full payload
+$productData = $product->payload;
+
+// Relationships
+$variants = $product->variants;
+$store = $product->store;
+
+// Query orders
+$orders = Order::where('store_id', $store->id)
+    ->where('financial_status', 'paid')
+    ->whereBetween('processed_at', [$from, $to])
+    ->with('lineItems')
+    ->get();
+```
+
+---
+
+## 📊 Rate Limiting
+
+The package automatically handles rate limiting for both REST and GraphQL APIs:
+
+### REST API
+- Bucket-based rate limiting (40 requests per second)
+- Automatic throttling when approaching limits
+- Respects `X-Shopify-Shop-Api-Call-Limit` header
+
+### GraphQL API
+- Cost-based throttling (1000 points maximum)
+- Monitors `extensions.cost` in responses
+- Throttles when available points drop below threshold
+- Restores at 50 points per second
+
+### Retry Logic
+- Automatic retries on 429 (rate limit) responses
+- Exponential backoff for 5xx server errors
+- Configurable retry attempts and delays
+
+---
+
+## 🔖 API Versioning
+
+Shopify guarantees stable API versions for **minimum 12 months**. The package defaults to `2026-01`.
+
+### Upgrading API Versions
+
+1. Update `SHOPIFY_API_VERSION` in `.env`
+2. Review [Shopify's changelog](https://shopify.dev/docs/api/release-notes)
+3. Test thoroughly in development
+4. Deploy to production
+
+The package supports per-store API versions if needed.
+
+---
+
+## 🧩 Filament v5 Integration (Optional)
+
+> **Note:** Filament is **completely optional** and not a hard dependency. Install only if you need admin panel features.
+
+### Installation
+
+```bash
+composer require filament/filament:"^5.0"
+```
+
+### Enable in Config
+
+```php
+// config/shopify.php
+'filament' => [
+    'enabled' => true,
+],
+```
+
+### ✨ Features
+
+- 📱 **Mobile-first design** - Responsive tables and forms
+- 📋 **Resources** - Stores, Products, Variants, Orders, Customers, Locations, Inventory, Webhooks, Sync Runs
+- 📊 **Widgets** - Sync health dashboard, order statistics, product counts, top selling products, inventory alerts
+- ⚡ **Sync Actions** - One-click sync buttons on Products, Orders, Customers pages
+- 📈 **Filtered Order Summary** - Real-time statistics when filters are applied
+- 🔍 **Filters** - Store, status, date ranges
+- ⚡ **Cached queries** - Widget data cached for 5 minutes
+- 🎨 **Auto-discovery** - Resources and widgets auto-register when enabled
+
+### Filament v5 Compatibility
+
+This package is built for **Filament v5** with:
+- Modern panel API
+- Auto-discovery support
+- Mobile-first responsive design
+- Enhanced widget system
+
+### 🏪 Stores CRUD Management
+
+Full CRUD operations for managing Shopify stores directly from Filament:
+
+**Features:**
+- **Create stores** manually with token mode (shop_domain, access_token, scopes)
+- **Edit stores** - rotate tokens, update scopes, activate/deactivate
+- **Delete stores** - with confirmation and cascade delete
+- **Test Connection** - verify store credentials with a lightweight API call
+- **Sync Actions** - trigger sync for products, orders, customers, or all data
+
+**Token Security:**
+- Access tokens are encrypted at rest using Laravel's encryption
+- Tokens are hidden in forms with reveal option
+- Masked token display in views (e.g., `shpa••••••cdef`)
+
+**Store Modes:**
+- `oauth` - Store installed via Shopify OAuth flow
+- `token` - Store added manually with access token
+
+### 🧪 Sandbox CRUD Mode (Testing)
+
+For testing UI flows, filtering, and relationships, enable Sandbox CRUD mode:
+
+```env
+SHOPIFY_TESTING_CRUD_ENABLED=true
+```
+
+Or in config:
+
+```php
+// config/shopify.php
+'filament' => [
+    'testing_crud_enabled' => env('SHOPIFY_TESTING_CRUD_ENABLED', false),
+],
+```
+
+**When enabled:**
+- Create/Edit/Delete actions appear for Products, Orders, Customers
+- ⚠️ **Sandbox Mode** warning badge displayed in forms
+- JSON payload editor available for raw data manipulation
+- Changes are **LOCAL ONLY** - they do NOT sync back to Shopify
+
+**Use cases:**
+- Testing Filament UI components
+- Developing custom filters and actions
+- Populating test data for demos
+- Debugging relationship queries
+
+### ⚡ Sync Action Buttons
+
+Each resource page includes sync action buttons in the header:
+
+**Products Page:**
+- **Sync Products** - Sync all products and variants
+- **Sync Inventory** - Sync inventory levels for all locations
+- **Sync All** - Sync both products and inventory
+
+**Orders Page:**
+- **Sync Orders** - Sync all orders from Shopify
+
+**Customers Page:**
+- **Sync Customers** - Sync all customers from Shopify
+
+All sync actions show a confirmation modal and display the count of synced items upon completion.
+
+### 📦 Collections
+
+Full CRUD for Shopify collections with bi-directional sync:
+
+**Features:**
+- ✅ **Sync from Shopify** - Import all Smart and Custom collections
+- ✅ **Create Collections** - Create new custom collections locally
+- ✅ **Edit Collections** - Update title, description, handle, image
+- ✅ **Manage Products** - Add/remove products from collections
+- ✅ **Push to Shopify** - Sync local changes to Shopify (with confirmation)
+- ✅ **Image Upload** - Upload local images or use external URLs
+- ✅ **Smart Rules Display** - Human-readable rule formatting (e.g., "Tag equals paintglow")
+- ✅ **Product Previews** - Visual grid of products in collection
+
+**Sync Command:**
+
+```bash
+# Sync all collections from Shopify
+php artisan shopify:sync:collections
+
+# Sync for specific store
+php artisan shopify:sync:collections --store=your-store.myshopify.com
+```
+
+**Collection Types:**
+- **Smart Collections** - Auto-populated based on rules (read-only, synced from Shopify)
+- **Custom Collections** - Manually curated product lists (full CRUD)
+
+**Push to Shopify:**
+
+When editing a collection, use the "Push to Shopify" button to:
+1. Create new collection in Shopify (if not yet synced)
+2. Update existing collection details
+3. Sync products to the Shopify collection
+
+**Image Requirements for Shopify:**
+- Must be a publicly accessible URL (https://)
+- Local uploads work locally but won't sync to Shopify
+- Supported formats: PNG, JPG, WEBP, GIF
+
+**Filament Resource Features:**
+- Collection list with images, type badges, product counts
+- View page with product grid and smart rules
+- Edit page with product multi-select
+- Products relation manager for add/remove
+
+### 🔐 Roles & Permissions
+
+Built-in role-based access control for multi-user environments:
+
+**Default Roles:**
+
+| Role | Description |
+|------|-------------|
+| **Super Admin** | Full access to all features and settings |
+| **Store Manager** | Full access to assigned stores |
+| **Product Manager** | Manage products and inventory |
+| **Order Manager** | Manage orders and customers |
+| **Viewer** | Read-only access (default for new users) |
+
+**Permission Groups:**
+- `stores.*` - View, create, edit, delete stores
+- `products.*` - View, create, edit, delete, push, pull products
+- `orders.*` - View, edit, delete orders
+- `customers.*` - View, edit, delete customers
+- `inventory.*` - View, edit inventory
+- `sync.*` - Run sync, view logs
+- `settings.*` - Manage roles, permissions, users
+
+**Setup:**
+
+```bash
+# Run the roles migration
+php artisan migrate
+
+# Seed default roles and permissions (optional)
+php artisan db:seed --class="LaravelShopifySdk\\Database\\Seeders\\ShopifyRolesAndPermissionsSeeder"
+
+# Assign Super Admin role to a user
+php artisan shopify:assign-admin your-email@example.com
+```
+
+**Add to your User model:**
+
+```php
+use LaravelShopifySdk\Traits\HasShopifyRoles;
+
+class User extends Authenticatable
+{
+    use HasShopifyRoles;
+}
+```
+
+**Usage in code:**
+
+```php
+// Check permissions
+if ($user->hasShopifyPermission('products.edit')) {
+    // Can edit products
+}
+
+// Check roles
+if ($user->hasShopifyRole('super-admin')) {
+    // Is super admin
+}
+
+// Assign role
+$user->assignShopifyRole('product-manager');
+
+// Check store access (for multi-store)
+if ($user->canAccessStore($store)) {
+    // Can access this store
+}
+```
+
+**Filament Resources:**
+- **Roles** - Create/edit roles with permission checkboxes
+- **Permissions** - Manage individual permissions by group
+
+### 🧪 Sandbox CRUD Mode (Testing)
+
+For testing UI flows, filtering, and relationships, enable Sandbox CRUD mode:
+
+```env
+SHOPIFY_TESTING_CRUD_ENABLED=true
+```
+
+Or in config:
+
+```php
+// config/shopify.php
+'filament' => [
+    'testing_crud_enabled' => env('SHOPIFY_TESTING_CRUD_ENABLED', false),
+],
+```
+
+**When enabled:**
+- Create/Edit/Delete actions appear for Products, Orders, Customers
+- ⚠️ **Sandbox Mode** warning badge displayed in forms
+- JSON payload editor available for raw data manipulation
+- Changes are **LOCAL ONLY** - they do NOT sync back to Shopify
+
+**Use cases:**
+- Testing Filament UI components
+- Developing custom filters and actions
+- Populating test data for demos
+- Debugging relationship queries
+
+### ⚡ Sync Action Buttons
+
+Each resource page includes sync action buttons in the header:
+
+**Products Page:**
+- **Sync Products** - Sync all products and variants
+- **Sync Inventory** - Sync inventory levels for all locations
+- **Sync All** - Sync both products and inventory
+
+**Orders Page:**
+- **Sync Orders** - Sync all orders from Shopify
+
+**Customers Page:**
+- **Sync Customers** - Sync all customers from Shopify
+
+All sync actions show a confirmation modal and display the count of synced items upon completion.
+
+### 📈 Filtered Order Summary
+
+When filters are applied on the Orders page, a summary bar appears showing:
+
+| Metric | Description |
+|--------|-------------|
+| **Filtered Orders** | Count of orders matching filters |
+| **Total Revenue** | Sum of filtered order totals |
+| **Average Order** | Average order value |
+| **% of Total** | Percentage of all orders |
+
+The summary bar uses color-coded cards with icons and only appears when filters are active.
+
+### 📊 Sync Health Widget
+
+Monitor sync status across all stores and entities:
+
+| Column | Description |
+|--------|-------------|
+| Store | Shop domain |
+| Entity | products, orders, customers, inventory |
+| Status | running, completed, failed |
+| Records | Count of synced items |
+| Duration | Time taken (ms/s/m) |
+| Errors | Error count or ✓ |
+| Last Sync | Timestamp with relative time |
+
+The widget shows the **latest sync run per entity per store** and auto-refreshes every 60 seconds.
+
+---
+
+## 🧪 Testing
+
+Run the test suite:
+
+```bash
+cd packages/giorgigrdzelidze/laravel-shopify-sdk
+composer install
+vendor/bin/pest
+```
+
+Or with PHPUnit:
+
+```bash
+vendor/bin/phpunit
+```
+
+### Test Coverage
+
+The package includes tests for:
+- HMAC validation (OAuth and webhooks)
+- Store repository operations
+- Token encryption
+- OAuth callback verification
+- Rate limiting behavior
+
+---
+
+## 🔒 Security
+
+### Credentials Storage
+- Access tokens are encrypted at rest using Laravel's encryption
+- Never log or expose access tokens
+- Webhook secrets are stored in configuration
+
+### HMAC Verification
+- OAuth callbacks verified with timing-safe comparison
+- Webhooks verified using `X-Shopify-Hmac-SHA256` header
+- Raw request body used for webhook verification
+
+### Best Practices
+- Use HTTPS for all endpoints
+- Rotate webhook secrets periodically
+- Monitor failed webhook verifications
+- Implement IP whitelisting if needed
+
+---
+
+## 🔧 Troubleshooting
+
+### OAuth Installation Fails
+
+**Issue**: "Invalid HMAC signature"
+
+**Solution**: 
+- Verify `SHOPIFY_CLIENT_SECRET` matches your app settings
+- Ensure callback URL is exactly as configured in Shopify
+- Check for URL encoding issues
+
+### Webhook Verification Fails
+
+**Issue**: Webhooks return 401
+
+**Solution**:
+- Verify `SHOPIFY_WEBHOOK_SECRET` is correct
+- Ensure raw request body is used (disable middleware that reads body)
+- Check webhook is registered with correct URL
+
+### Rate Limit Errors
+
+**Issue**: 429 responses despite throttling
+
+**Solution**:
+- Reduce `SHOPIFY_SYNC_CHUNK_SIZE`
+- Increase delays between sync runs
+- Use incremental syncs (`--since` flag)
+- Sync during off-peak hours
+
+### Sync Performance
+
+**Issue**: Syncs are slow
+
+**Solution**:
+- Use GraphQL instead of REST where possible
+- Enable queue processing (`--queue` flag)
+- Optimize chunk sizes
+- Add database indexes for common queries
+
+---
+
+## 🧑‍💻 How to Test with Your Credentials
+
+### 1. Setup Environment
+
+```bash
+cp .env.example .env
+```
+
+Add your Shopify app credentials:
+
+```env
+SHOPIFY_CLIENT_ID=your-actual-client-id
+SHOPIFY_CLIENT_SECRET=your-actual-client-secret
+SHOPIFY_WEBHOOK_SECRET=your-actual-webhook-secret
+```
+
+### 2. Install a Test Store
+
+Visit:
+```
+http://localhost:8000/shopify/install?shop=your-dev-store.myshopify.com
+```
+
+### 3. Test Webhooks Locally
+
+Use ngrok to expose your local server:
+
+```bash
+ngrok http 8000
+```
+
+Register webhook with ngrok URL:
+```
+https://your-ngrok-url.ngrok.io/shopify/webhooks
+```
+
+Send test webhook from Shopify admin or use:
+
+```bash
+curl -X POST http://localhost:8000/shopify/webhooks \
+  -H "X-Shopify-Topic: products/create" \
+  -H "X-Shopify-Shop-Domain: your-store.myshopify.com" \
+  -H "X-Shopify-Hmac-SHA256: $(echo -n '{"id":123}' | openssl dgst -sha256 -hmac 'your-webhook-secret' -binary | base64)" \
+  -d '{"id":123}'
+```
+
+### 4. Test Sync Commands
+
+```bash
+# Sync products from your test store
+php artisan shopify:sync:products --store=your-dev-store.myshopify.com
+
+# View sync results
+php artisan shopify:sync:stores
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please ensure:
+- All tests pass
+- Code follows PSR-12 standards
+- PHPDoc is complete
+- README is updated for new features
+
+---
+
+## 📄 License
+
+MIT License. See LICENSE file for details.
+
+---
+
+## 💬 Support
+
+For issues, questions, or feature requests, please open an issue on GitHub.
+
+---
+
+## 📝 Changelog
+
+### 1.4.0 (2026-03-20)
+
+**New Features** 🚀
+
+- ✅ **Product Types CRUD** - Manage product types with Shopify sync
+- ✅ **Product Tags CRUD** - Manage product tags with Shopify sync
+- ✅ **Assign to Products** - Select products and assign types/tags directly to Shopify
+- ✅ **Rename on Shopify** - Rename types/tags across all products with one click
+- ✅ **Sync from Products** - Extract unique types/tags from existing products
+- ✅ **Sync Confirmation Dialogs** - All sync actions now require confirmation
+- ✅ **Immediate Variant Sync** - Variant sync now executes immediately
+- ✅ **Model Organization** - Models organized into Core, Commerce, Marketing subdirectories
+
+**New Filament Resources:**
+- ProductTypeResource - Manage product types with assign/rename actions
+- ProductTagResource - Manage product tags with assign/rename actions
+
+**New Models:**
+- ProductType - Store-aware product type management
+- ProductTag - Store-aware product tag management
+
+**New Services:**
+- ProductTypeService - Push types to Shopify, assign to products
+- ProductTagService - Push tags to Shopify, assign to products
+
+**Improvements:**
+- All sync actions now show confirmation dialogs
+- Variant sync executes immediately instead of waiting for product sync
+- Fixed Store type hints in VariantService
+- Auto-fill store_id when only one store exists
+
+---
+
+### 1.3.0 (2026-03-20)
+
+**New Features** 🚀
+
+- ✅ **Metafields Support** - Sync and manage product/collection/customer metafields
+- ✅ **Discounts & Price Rules** - Full CRUD for discount codes and automatic discounts
+- ✅ **Draft Orders** - Create, edit, send invoices, complete draft orders
+- ✅ **Fulfillments** - Track shipments, carriers, tracking numbers
+- ✅ **Push to Shopify** - Push discounts, draft orders, metafields to Shopify
+- ✅ **Enhanced Activity Logging** - All actions logged to ShopifyLog
+- ✅ **7 New Roles** - Marketing Manager, Fulfillment Staff added
+- ✅ **55+ Permissions** - Granular access control across all features
+- ✅ **New Navigation Groups** - Marketing, Operations, Reports
+- ✅ **4 New Sync Commands** - `shopify:sync:discounts`, `shopify:sync:draft-orders`, `shopify:sync:fulfillments`, `shopify:sync:metafields`
+
+**New Filament Resources:**
+- MetafieldResource - View/edit metafields by owner type
+- DiscountResource - Manage discount codes and price rules
+- DraftOrderResource - Create and manage draft orders
+- FulfillmentResource - Track order fulfillments
+
+**New Models:**
+- Metafield, MetafieldDefinition
+- Discount, DiscountCode
+- DraftOrder
+- Fulfillment, FulfillmentOrder, FulfillmentEvent
+
+### 1.2.0 (2026-03-20)
+
+**New Features** 🚀
+
+- ✅ **Collections Full CRUD** - Create, edit, delete collections with Shopify sync
+- ✅ **Collection Products** - Add/remove products from collections via relation manager
+- ✅ **Push to Shopify** - Sync local collections to Shopify with confirmation
+- ✅ **Collection Images** - Upload local images or use external URLs
+- ✅ **Smart Rules Display** - Human-readable formatting (e.g., "Tag equals paintglow")
+- ✅ **Product Images Sync** - Sync `featured_image_url` and `images` array from Shopify
+- ✅ **Roles & Permissions** - Built-in RBAC with 5 default roles and 27 permissions
+- ✅ **Role CRUD** - Filament resource for managing roles with permission checkboxes
+- ✅ **Permission CRUD** - Filament resource for managing permissions by group
+- ✅ **User Management** - Assign roles and store access to users
+- ✅ **HasShopifyRoles Trait** - Easy integration with your User model
+- ✅ **Store-level Access Control** - Restrict users to specific stores
+- ✅ **Super Admin Command** - `shopify:assign-admin` to assign admin role
+- ✅ **Product Image Lightbox** - Click to view full-size images in popup
+- ✅ **Checkbox Image Removal** - Visual selection for removing product images
+- ✅ **Pull from Shopify** - Sync individual products from edit page
+- ✅ **Variant Creation** - Create products with multiple variants
+
+### 1.1.0 (2026-03-19)
+
+**New Features** 🚀
+
+- ✅ `shopify:setup` command for easy store creation from .env
+- ✅ OAuth2 Client Credentials Grant support (2026+ Shopify apps)
+- ✅ Custom domain and currency fields for stores
+- ✅ Sync action buttons on Products, Orders, Customers pages
+- ✅ Filtered order summary cards with real-time statistics
+- ✅ Top Selling Products widget with star ratings
+- ✅ Inventory Alert widget for low stock items
+- ✅ Improved GraphQL query cost optimization
+
+### 1.0.0 (2026-03-16)
+
+**Initial Release** 🎉
+
+- ✅ OAuth Authorization Code Grant flow
+- ✅ Webhook verification and processing
+- ✅ GraphQL and REST API clients
+- ✅ Rate limiting and retry logic
+- ✅ Data mirroring for products, orders, customers, inventory
+- ✅ Artisan sync commands
+- ✅ Optional Filament v5 integration
+- ✅ Comprehensive test suite
+- ✅ Strict types across entire codebase
+- ✅ Complete PHPDoc coverage
+
+---
+
+## 🌟 Credits
+
+Built with ❤️ for the Laravel and Shopify communities.
+
+**Powered by:**
+- [Laravel 12](https://laravel.com)
+- [Shopify Admin API](https://shopify.dev/docs/api/admin)
+- [Filament v5](https://filamentphp.com) (optional)

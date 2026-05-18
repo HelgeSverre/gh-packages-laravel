@@ -1,0 +1,83 @@
+![Grafite Forms](GrafiteForms-banner.png)
+
+**Forms** - An amazing Forms component for Laravel.
+
+[![Build Status](https://github.com/GrafiteInc/Forms/actions/workflows/php-package-tests.yml/badge.svg?branch=main)](https://github.com/GrafiteInc/Forms/actions/workflows/php-package-tests.yml)
+[![Maintainability](https://qlty.sh/badges/ef75617b-01e2-4fcc-bd91-d8f13487e97a/maintainability.svg)](https://qlty.sh/gh/GrafiteInc/projects/Forms)
+[![Packagist](https://img.shields.io/packagist/dt/grafite/forms.svg)](https://packagist.org/packages/grafite/forms)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+The Forms package lets you generate forms as well as fields with standard make commands. Inside your forms for models you can specify the fields that need to be generated and then simply pass the form to the view. No more writing html forms, error handling etc. It can handle Eloquent relationships and easily work with ajax requests for more dynamic form submissions.
+
+##### Author(s):
+* [Matt Lantz](https://github.com/mlantz) ([@mattylantz](http://twitter.com/mattylantz), mattlantz at gmail dot com)
+
+## Requirements
+
+1. PHP 8.2+
+2. OpenSSL
+
+## Compatibility and Support
+
+| Laravel Version | Package Tag | Supported |
+|-----------------|-------------|-----------|
+| ^11.x - ^12.x | 7.x | yes |
+| ^7.x - 11.x | 6.x | no |
+| ^7.x - ^8.x | 5.x | no |
+| ^7.x - ^8.x | 4.x | no |
+| ^7.x | 3.x | no |
+| ^5.8.x - 7.x | 2.x | no |
+| 5.4.x - 5.8.x | 1.3.x | no |
+| 5.4.x | 1.1.x | no |
+| 5.3.x | 1.0.x | no |
+
+### Installation
+
+Start a new Laravel project:
+```php
+composer create-project laravel/laravel your-project-name
+```
+
+Then run the following to add Forms
+```php
+composer require "grafite/forms"
+```
+
+Time to publish those assets!
+```php
+php artisan vendor:publish --provider="Grafite\Forms\FormsProvider"
+```
+
+## Documentation
+
+[https://documentation.grafite.ca/docs/utilities-forms](https://documentation.grafite.ca/docs/utilities-forms)
+
+## Upgrading from 3.x to 4.x (Renaming)
+The package was renamed in version 3 to 4. This means that the following would need to be changed on your code base:
+
+`form-maker.php` -> `forms.php`
+
+`Grafite\FormMaker` -> `Grafite\Forms`
+
+`@formMaker` -> `@forms`
+
+`<x-fm></x-fm>` -> `<x-f></x-f>`
+
+`<x-fm-action></x-fm-action>` -> `<x-f-action></x-f-action>`
+
+`<x-fm-delete></x-fm-delete>` -> `<x-f-delete></x-f-delete>`
+
+`<x-fm-search></x-fm-search>` -> `<x-f-search></x-f-search>`
+
+## Asset Sources for CSP
+js.hcaptcha.com
+cdn.jsdelivr.net
+
+## License
+Forms is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+### Bug Reporting and Feature Requests
+Please add as many details as possible regarding submission of issues and feature requests
+
+### Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

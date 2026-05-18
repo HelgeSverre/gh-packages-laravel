@@ -1,0 +1,140 @@
+# Laravel Mailjet
+
+Laravel package for handling Mailjet API v3 using this wrapper: <https://github.com/mailjet/mailjet-apiv3-php>
+
+It also provides a mailjetTransport for [Laravel mail feature](https://laravel.com/docs/master/mail)
+
+## Installation
+
+First, include the package in your dependencies:
+
+    composer require laravel-mailjet/laravel-mailjet
+
+Then, you need to add some informations in your configuration files. You can find your Mailjet API key/secret [here](https://app.mailjet.com/account/api_keys).
+Please also set your email from address and name.
+
+* In the providers array:
+
+```php
+'providers' => [
+    ...
+    Mailjet\LaravelMailjet\MailjetServiceProvider::class,
+    ...
+]
+```
+
+## Laravel 11.0+
+In the file  `example-app/bootstrap/providers.php`
+```php
+use Mailjet\LaravelMailjet\MailjetServiceProvider;
+
+return [
+    App\Providers\AppServiceProvider::class,
+    MailjetServiceProvider::class,
+];
+```
+
+> **Note:** The `Mailjet` alias is registered automatically via [Package Auto-Discovery](https://laravel.com/docs/packages#package-discovery). No manual alias configuration needed — just use `use Mailjet\LaravelMailjet\Facades\Mailjet;` in your code.
+
+* In the aliases array (Laravel 10 and below):
+
+```php
+'aliases' => [
+    ...
+    'Mailjet' => Mailjet\LaravelMailjet\Facades\Mailjet::class,
+    ...
+]
+```
+
+* In the services.php file:
+
+```php
+'mailjet' => [
+    'key' => env('MAILJET_APIKEY'),
+    'secret' => env('MAILJET_APISECRET'),
+    'sandbox' => filter_var(env('MAILJET_SANDBOX', false), FILTER_VALIDATE_BOOLEAN),
+]
+```
+
+* In your .env file:
+
+```php
+MAILJET_APIKEY=YOUR_APIKEY
+MAILJET_APISECRET=YOUR_APISECRET
+MAIL_FROM_ADDRESS=YOUR_EMAIL_FROM_ADDRESS
+MAIL_FROM_NAME=YOU_FROM_NAME
+# Optional: Enable sandbox mode for testing (emails won't be actually sent)
+MAILJET_SANDBOX=false
+```
+
+## Full configuration
+
+For details head to [configuration doc](docs/configuration.md).
+
+## Mail driver configuration
+
+In order to use Mailjet as your Mail driver, you need to update the mail driver in your `config/mail.php` or your `.env` file to `MAIL_MAILER=mailjet` (for Laravel 6 and older use MAIL_DRIVER constant instead), and make sure you are using a valid and authorised from email address configured on your Mailjet account. The sending email addresses and domain can be managed [here](https://app.mailjet.com/account/sender)
+
+For Laravel 7+ you also need to specify new available mail driver in config/mail.php:
+```
+'mailers' => [
+    ...
+
+    'mailjet' => [
+        'transport' => 'mailjet',
+    ],
+],
+```
+For usage, please check the [Laravel mail documentation](https://laravel.com/docs/master/mail)
+
+## Usage
+
+In order to usage this package, you first need to import Mailjet Facade in your code:
+
+    use Mailjet\LaravelMailjet\Facades\Mailjet;
+
+
+Then, in your code you can use one of the methods available in the MailjetServices.
+
+Low level API methods:
+
+* `Mailjet::get($resource, $args, $options)`
+* `Mailjet::post($resource, $args, $options)`
+* `Mailjet::put($resource, $args, $options)`
+* `Mailjet::delete($resource, $args, $options)`
+
+High level API methods:
+
+* `Mailjet::getAllLists($filters)`
+* `Mailjet::createList($body)`
+* `Mailjet::getListRecipients($filters)`
+* `Mailjet::getSingleContact($id)`
+* `Mailjet::createContact($body)`
+* `Mailjet::createListRecipient($body)`
+* `Mailjet::editListrecipient($id, $body)`
+
+For more informations about the filters you can use in each methods, refer to the [Mailjet API documentation](https://dev.mailjet.com/email-api/v3/apikey/)
+
+All method return `Mailjet\Response` or throw a `MailjetException` in case of API error.
+
+You can also get the Mailjet API client with the method `getClient()` and make your own custom request to Mailjet API.
+
+If you need to delete a contact, you need to register ContactsServiceProvider:
+* In the providers array:
+
+```php
+'providers' => [
+    ...
+    \Mailjet\LaravelMailjet\Providers\ContactsServiceProvider::class,
+    ...
+]
+```
+
+and use it:
+```php
+public function handle(ContactsV4Service $contactsV4Service)
+{
+    $response = $contactsV4Service->delete(351406781);
+    ...
+}
+```

@@ -1,0 +1,141 @@
+<div class="filament-hidden">
+
+![Base v5](https://raw.githubusercontent.com/filakitphp/basev5/main/art/filakitphp-basev5.png)
+
+</div>
+
+# FilaKit Start Kit Filament 5.x and Laravel 13.x
+
+## About FilaKit
+
+FilaKit is a robust starter kit built on Laravel 13.x and Filament 5.x, designed to accelerate the development of modern
+web applications with a ready-to-use panel structure.
+
+## Features
+
+- **Laravel 13.x** - The latest version of the most elegant PHP framework
+- **Filament 5.x** - Powerful and flexible admin framework
+- **Panel Structure** - Includes three pre-configured panels:
+    - Admin Panel (`/admin`) - For authenticated users
+- **Environment Configuration** - Centralized configuration through the `config/filakit.php` file
+
+## System Requirements
+
+- PHP 8.3 or higher
+- Composer
+- Node.js and PNPM
+
+## Installation
+
+Clone the repository
+``` bash
+laravel new my-app --using=filakitphp/basev5 --database=mysql
+```
+
+### Using FilaKit CLI
+
+Or use [FilaKit CLI](https://github.com/jeffersongoncalves/filakit-cli) for a simplified setup:
+
+```bash
+filakit new my-app --kit=filakitphp/basev5
+```
+
+> Install FilaKit CLI: `composer global require jeffersongoncalves/filakit-cli`
+
+###  Easy Installation
+
+FilaKit can be easily installed using the following command:
+
+```bash
+php install.php
+```
+
+This command automates the installation process by:
+- Installing Composer dependencies
+- Setting up the environment file
+- Generating application key
+- Setting up the database
+- Running migrations
+- Installing Node.js dependencies
+- Building assets
+- Configuring Herd (if used)
+
+### Manual Installation
+
+Install JavaScript dependencies
+``` bash
+pnpm install
+```
+Install Composer dependencies
+``` bash
+composer install
+```
+Set up environment
+``` bash
+cp .env.example .env
+php artisan key:generate
+```
+
+Configure your database in the .env file
+
+Run migrations
+``` bash
+php artisan migrate
+```
+Run the server
+``` bash
+php artisan serve
+```
+
+## Development
+
+``` bash
+# Run the development server with logs, queues and asset compilation
+composer dev
+
+# Or run each component separately
+php artisan serve
+php artisan queue:listen --tries=1
+pnpm run dev
+```
+
+## Customization
+
+### Panel Configuration
+
+Panels can be customized through their respective providers:
+
+- `app/Providers/Filament/AdminPanelProvider.php`
+
+Alternatively, these settings are also consolidated in the `config/filakit.php` file for easier management.
+
+### Themes and Colors
+
+Each panel can have its own color scheme, which can be easily modified in the corresponding Provider files or in the
+`filakit.php` configuration file.
+
+### Configuration File
+
+The `config/filakit.php` file centralizes the configuration of the starter kit, including:
+
+- Panel routes
+- Middleware for each panel
+- Branding options (logo, colors)
+- Authentication guards
+
+## Resources
+
+FilaKit includes support for:
+
+- User management
+- Tailwind CSS integration
+- Database queue configuration
+- Customizable panel routing and branding
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Credits
+
+Developed by [Jefferson Gonçalves](https://github.com/jeffersongoncalves).

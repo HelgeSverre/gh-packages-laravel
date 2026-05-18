@@ -1,0 +1,260 @@
+<div style="text-align: center;"> 
+
+[![Latest Stable Version](https://img.shields.io/packagist/v/geoffreyrose/date-and-number-to-words?style=flat-square)](https://packagist.org/packages/geoffreyrose/date-and-number-to-words)
+[![Total Downloads](https://img.shields.io/packagist/dt/geoffreyrose/date-and-number-to-words?style=flat-square)](https://packagist.org/packages/geoffreyrose/date-and-number-to-words/stats)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/geoffreyrose/date-and-number-to-words/main.yml?branch=main&style=flat-square)](https://github.com/geoffreyrose/date-and-number-to-words/actions?query=branch%3Amain)
+[![License](https://img.shields.io/github/license/geoffreyrose/date-and-number-to-words?style=flat-square)](https://github.com/geoffreyrose/date-and-number-to-words/blob/main/License)
+</div>
+
+# PHP: Date and Number To Standard Words or Ordinal Words + Laravel Facade
+An easy-to-use PHP package (and Laravel Facade) that turns dates and numbers into words or ordinal words.
+
+Numbers and each part of the date can additionally be turned into ordinal words. (first, second, third)
+
+
+
+### Requirements
+* [Carbon](http://carbon.nesbot.com/)
+* PHP 8.1+
+
+### Usage
+
+#### Install
+```
+composer require geoffreyrose/date-and-number-to-words
+```
+
+### With Plain PHP
+
+```php
+use DateAndNumberToWords\DateAndNumberToWords;
+
+...
+
+$words = new DateAndNumberToWords();
+$carbon = Carbon::create(2023, 4, 1);
+
+$words->words($carbon, 'Do of M, Y');
+
+```
+
+### With Laravel Facade
+Laravel uses Package Auto-Discovery, which doesn't require you to manually add the ServiceProvider and Facade.
+
+```php
+$words = DateAndNumberToWords::words(now(), 'Do of M, Y');
+``` 
+
+## Methods
+
+You can pass a Carbon object, DateTime object or an integer for most methods
+
+**Note all examples below use Plain PHP (use DateAndNumberToWords\DateAndNumberToWords) but can be swapped with Laravel Facade (DateAndNumberToWords)**
+
+### Dates to Words
+
+```php
+public function words(Carbon|DateTime $date, string $format): string
+
+$words = new DateAndNumberToWords();
+$carbon = Carbon::create(2023, 4, 1);
+
+$words->words($carbon, 'Do of M, Y');
+// first of April, two thousand twenty-three
+
+// You can escape the format string as well
+$words->words($carbon, 'Do of M, \Y');
+// first of April, Y
+```
+
+#### Formats
+
+```text
+Yo  :  Ordinal Year - year($year, true)
+Y   :  Year - year($year)
+Mo  :  Ordinal Month - month($month, true)
+M   :  Month - month($month)
+Do  :  Ordinal Day - day($day, true)
+D   :  Day - day($day)
+Ho  :  (24 Hour) Ordinal Hour - hour($hour, true)
+H   :  (24 Hour) Hour - hour($hour)
+ho  :  (12 Hour) Ordinal Hour - hour($hour, true, false)
+h   :  (12 Hour) Hour - hour($hour, twentyFour: false)
+Io  :  Ordinal Minute - minute($minute, true)
+I   :  Minute - minute($minute)
+So  :  Ordinal Second - second($second, true)
+S   :  Second - second($second)
+A   :  AM / PM
+```
+
+### Year to Words
+
+```php
+public function year(int|Carbon|DateTime $year, bool $ordinal = false): string
+
+$words = new DateAndNumberToWords();
+$carbon = Carbon::create(2023, 4, 1);
+
+$dateTime = new DateTime();
+$dateTime->setDate(2023, 4, 1);
+
+$date = new DateTime();
+
+$words->year($carbon, true);
+// two thousand twenty-third
+
+$words->year($dateTime);
+// two thousand twenty-three
+
+$words->year(2023, true);
+// two thousand twenty-third
+
+$words->year(2023);
+// two thousand twenty-three
+
+```
+
+### Month to Words
+
+```php
+public function month(int|Carbon|DateTime $month, bool $ordinal = false): string
+
+$words = new DateAndNumberToWords();
+
+$words->month(4, true);
+// fourth
+
+$words->month(4);
+// April
+```
+
+### Day to Words
+
+```php
+public function day(int|Carbon|DateTime $day, bool $ordinal = false): string
+
+$words = new DateAndNumberToWords();
+
+$words->day(7, true);
+// seventh
+
+$words->day(7);
+// seven
+```
+
+### Hour to Words
+
+```php
+public function hour(int|Carbon|DateTime $hour, bool $ordinal = false, bool $twentyFour = true): string
+
+$words = new DateAndNumberToWords();
+
+$words->hour(7, true);
+// seventh
+
+$words->hour(7);
+// seven
+
+$date = Carbon::now()->setHour(13);
+$words->hour($date, twentyFour: false); // one
+$words->hour($date); // thirteen
+```
+
+### Minute to Words
+
+```php
+public function minute(int|Carbon|DateTime $minute, bool $ordinal = false): string
+
+$words = new DateAndNumberToWords();
+
+$words->minute(7, true);
+// seventh
+
+$words->minute(7);
+// seven
+```
+
+### Second to Words
+
+```php
+public function second(int|Carbon|DateTime $second, bool $ordinal = false): string
+
+$words = new DateAndNumberToWords();
+
+$words->second(7, true);
+// seventh
+
+$words->second(7);
+// seven
+```
+
+### Number to Words
+
+Must be between 999999999999999999 and -999999999999999999
+
+Only `int` will return an ordinal word. If `$ordinal` is true but `$number` is `float` a non-ordinal word will be returned.
+
+```php
+public function number(int|float $number, bool $ordinal = false): string
+
+$words = new DateAndNumberToWords();
+
+$words->number(7, true);
+// seventh
+
+$words->number(7);
+// seven
+
+$words->number(24.68);
+// twenty-four point six eight
+
+$words->number(24.68, true);
+// twenty-four point six eight
+
+$words->number(999999999999999999)
+// nine hundred ninety-nine quadrillion nine hundred ninety-nine trillion nine hundred ninety-nine billion nine hundred ninety-nine million nine hundred ninety-nine thousand nine hundred ninety-nine
+
+```
+
+
+
+
+### Set Language
+
+The default language is `en`
+
+Every method other than `month` supports every language PHP does. PHP's native `NumberFormatter` is being used to translate numbers to words.
+
+For months, translations are handled by Carbon, which has translations for 270+ locales.  
+ 
+
+```php
+public function setLanguage(string $language): void
+
+$words = new DateAndNumberToWords();
+
+$words->setLanguage('en');
+
+```
+
+
+### Testing
+
+```bash
+# Run tests
+./vendor/bin/phpunit
+
+herd coverage ./vendor/bin/phpunit 
+```
+
+### Linting
+
+```bash
+./vendor/bin/pint
+```
+
+### Static Analysis
+
+```bash
+./vendor/bin/phpstan analyse src --memory-limit 2G
+```

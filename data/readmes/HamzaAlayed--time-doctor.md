@@ -1,0 +1,11 @@
+### Future work
+- Add more tests
+- Add more documentation
+- Add more examples
+- Protect against invalid data by checking data in middleware
+- Add more error handling
+- Create an absent and late reason under the given company
+- create new company.
+- invite user
+- payrolls
+- update user

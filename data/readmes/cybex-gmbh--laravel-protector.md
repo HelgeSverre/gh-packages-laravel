@@ -1,0 +1,400 @@
+# Laravel Protector
+
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/cybex/laravel-protector.svg?style=flat-square)](https://packagist.org/packages/cybex/laravel-protector)
+
+This package allows you to download, export and import your application's database backups.
+
+> [!IMPORTANT]
+> This package will not work if you have disabled "proc_open" in your PHP configuration.
+
+## Common usage scenarios
+
+- Store your local database in a file
+- Non-productive developer machines can download the live server database
+- A central backup server can collect backups from multiple live servers
+
+## Feature set
+
+- Download and optionally import databases from a server
+- Import existing database files
+- Export the local database to a file
+- User authentication through Laravel Sanctum tokens
+- Transport encryption using Sodium
+
+## Supported databases
+
+- Protector only supports MySQL, MariaDB and PostgreSQL databases at the moment.
+- Source and destination databases are currently not checked. Please make sure you run the same software in the same
+  versions to prevent issues.
+- Because of different dump formats, pulling dumps from MariaDB and restoring them to MySQL will not work.
+  The same, of course, applies to cross-database operations between MySQL and PostgreSQL.
+
+## Notes
+
+- Enabling Laravel Telescope will prevent remote files from being downloaded, as it opens and discards the HTTP stream!
+
+## Table of contents
+
+* [Usage](#usage)
+    * [Export to file](#export-to-file)
+    * [Import](#import)
+* [Setup instructions](#setup-instructions)
+    * [Setup for storing the local database](#setup-for-storing-the-local-database)
+    * [Setup for importing the database of a remote server](#setup-for-importing-the-database-of-a-remote-server)
+    * [Setup for collecting backups from multiple servers](#setup-for-collecting-backups-from-multiple-servers)
+* [Configuration](#configuration)
+    * [Dump metadata](#dump-metadata)
+* [Development](#development)
+
+## Usage
+
+### Export to file
+
+To save a copy of your local database, run
+
+```bash
+php artisan protector:export
+```
+
+By default, dumps are stored in `storage/app/protector` on your default project disk.
+You can configure the target disk, filename, etc. by publishing the protector config file to your project
+
+```bash
+artisan vendor:publish --tag=protector.config
+```
+
+### Import
+
+Run the following command for an interactive shell
+
+```bash
+php artisan protector:import
+```
+
+#### Importing a specific source
+
+To download and import the server database in one go, run
+
+```bash
+php artisan protector:import --remote
+```
+
+When used with other options, remote will serve as fallback behavior.
+
+To import a specific database file that you downloaded earlier, run
+
+```bash
+php artisan protector:import --file=<absolute path to database file>
+```
+
+Or just reference the database file name in the protector folder (default folder is storage/app/protector).
+
+```bash
+php artisan protector:import --dump=<name of database file>
+```
+
+To import the latest existing database file, run
+
+```bash
+php artisan protector:import --latest
+```
+
+#### Options
+
+If you want to run migrations after the import of the database file, run
+
+```bash
+php artisan protector:import --migrate
+```
+
+For automation, also consider the flush option to clean up older database files, and the force option to bypass user
+interaction.
+
+```bash
+php artisan protector:import --remote --migrate --flush --force
+```
+
+To learn more about import options, run
+
+```bash
+php artisan protector:import --help
+```
+
+## Setup instructions
+
+Find below three common scenarios of usage. These are not mutually exclusive.
+
+### Setup for storing the local database
+
+If you only want to store a copy of your local database to a disk, the setup is pretty straightforward.
+
+#### Installing protector in your local Laravel project
+
+Install the package via composer.
+
+```bash
+composer require cybex/laravel-protector
+```
+
+You can optionally publish the protector config to set the following options
+
+- `fileName`: the file name of the database dump
+- `baseDirectory`: where files are being stored
+- `diskName`: a dedicated Laravel disk defined in config/filesystems.php. These can point to a specific local folder or
+  a cloud file bucket like AWS S3
+
+```bash
+artisan vendor:publish --tag=protector.config
+```
+
+#### Local usage
+
+You can now use the artisan command to write a backup to the protector storage folder.
+
+```bash
+php artisan protector:export
+```
+
+By default, the file will be stored in storage/protector and have a timestamp in the name. You can also specify the
+filename.
+
+You could also automate this by
+
+- installing a cronjob on linux
+- running it when you deploy to your server
+- creating a Laravel Job and queueing it
+
+```bash
+php artisan protector:export --file=storage/database.sql
+```
+
+### Setup for importing the database of a remote server
+
+This package can run on both servers and client machines of the same software repository.
+You set up authorized developers on the server and give them the key for their local machine.
+
+#### Installing protector in your Laravel project
+
+Install the package via composer.
+
+```bash
+composer require cybex/laravel-protector
+```
+
+In your User model class, add the following trait.
+
+```php
+use Laravel\Sanctum\HasApiTokens;
+
+class User extends Authenticatable
+{
+    use HasApiTokens;
+
+    ...
+}
+```
+
+Publish the protector database migration and optionally modify it to work with your project.
+
+```bash
+php artisan vendor:publish --tag=protector.migrations
+```
+
+Starting with Laravel 11, you may need to publish the [Laravel Sanctum](https://laravel.com/docs/master/sanctum) migration, to make the `personal_access_tokens` table available.
+
+```bash
+php artisan vendor:publish --tag=sanctum-migrations
+```
+
+Run the migrations on the client and server repository.
+
+```bash
+php artisan migrate
+```
+
+You can optionally publish the protector config to set options regarding the storage, access and transmission of the
+files.
+
+```bash
+php artisan vendor:publish --tag=protector.config
+```
+
+#### On the client machine
+
+Run the following command to receive
+
+- the public key to give to your server admin
+- the private key to save in your .env file
+
+```bash
+php artisan protector:keys
+```
+
+> [!IMPORTANT]
+> Do not give your private key to anyone and keep it protected at all times!
+
+Your server admin will then give you the token and dump endpoint URL to save in your .env file.
+
+```dotenv
+PROTECTOR_CLIENT_AUTH_TOKEN=
+PROTECTOR_CLIENT_DUMP_ENDPOINT_URL=
+```
+
+See [Usage](#usage) on how to import the remote database.
+
+> [!NOTE]
+> Downloaded database dump files are stored unencrypted.
+
+#### On the server
+
+Make sure that the server is accessible to the client machine via HTTPS.
+
+When one of your developers gives you their public key, you can authorize them with:
+
+```bash
+php artisan protector:token --publicKey=<public key> <user id>
+```
+
+You will receive the token and dump endpoint URL to give back to the developer, who has to save them in their .env file.
+
+The developer can then download and import the server database on their own.
+
+### Setup for collecting backups from multiple servers
+
+You can develop a custom client that can access and store remote server backups. The servers can be different Laravel
+projects that have the protector package installed.
+
+See the previous chapter on how to give your backup client access to all servers. The backup client will need an
+according user on each target server.
+
+- All the backup users on the target servers will have the same public key from the client
+- For each target server, the client will store the according url and token
+
+See [cybex-gmbh/collector](https://github.com/cybex-gmbh/collector) for an example implementation.
+
+## Configuration
+
+The `protector.php` config file sets initial settings for the `Protector` instance.
+
+Generally, you should keep the `Protector` singleton instance as is.
+To create a new instance with different settings, use the `ProtectorConfigurator` class.
+For all available configuration options, take a look at the [ProtectorConfiguratorContract](src/Contracts/ProtectorConfiguratorContract.php).
+
+For example, to configure a specific auth token and dump endpoint URL:
+
+```php
+$protector = ProtectorConfigurator::setAuthToken($authToken)->setDumpEndpointUrl($dumpEndpointUrl)->createProtector();
+```
+
+### Dump metadata
+
+Customize the metadata appended to a dump by adding providers to the `dump.metadata.providers` array in your `config/protector.php` file:
+
+```php
+'providers' => [
+    \Cybex\Protector\Classes\Metadata\Providers\EnvMetadataProvider::class,
+    \Cybex\Protector\Classes\Metadata\Providers\GitMetadataProvider::class,
+    \Path\To\Your\CustomMetadataProvider::class,
+],
+```
+
+Available metadata providers:
+
+1. `DatabaseMetadataProvider`: Will always be appended. Adds general information about the dump, such as the database connection and dumped at date.
+1. `ProtectorMetadataProvider`: Adds information about the settings set on the Protector's config.
+1. `EnvMetadataProvider`: Adds information based on an .env value. The default .env key used for this is `PROTECTOR_METADATA`.
+1. `GitMetadataProvider`: Adds information about the Git repository, such as the current branch and revision.
+1. `JsonMetadataProvider`: Adds information from a JSON file. The default file path used for this is `protector_metadata.json`.
+
+> [!NOTE]
+> You can create your own metadata providers by implementing the `Cybex\Protector\Contracts\MetadataProvider` interface.
+> Duplicate provider keys will be merged in the final metadata array, so choose a unique key.
+
+> [!TIP]
+> An example of using the JsonMetadataProvider would be to add custom metadata from a CI/CD pipeline.
+> For example, in a GitHub Actions workflow, you could add a step that writes Git information to `protector_metadata.json`
+>
+> ```bash
+> - name: Protector Metadata
+>   shell: bash
+>   run: >
+>     jq -n \
+>       --arg repo ${{ github.repository }} \
+>       --arg branch ${{ github.ref_name }} \
+>       --arg revision ${{ github.sha }} \
+>       --arg buildDate "$(date --iso-8601=seconds --utc)" \
+>       '{gitRepo: $repo, gitBranch: $branch, gitRevision: $revision, buildDate: $buildDate}' > protector_metadata.json
+> ```
+
+## Development
+
+There is an example app with the Laravel Protector package installed.
+
+The file structure in the container is as follows:
+
+- /var/www: example app
+- /var/package: Protector package
+
+```bash
+docker compose up -d
+```
+
+```bash
+docker compose exec app shell
+```
+
+```bash
+composer install
+```
+
+> [!NOTE]
+> We disable composer security checking for this package, as vulnerabilities would block the development.
+> The project requiring our package should be responsible for evaluating possible vulnerabilities.
+> For more information, see the [composer documentation](https://getcomposer.org/doc/06-config.md#block-insecure).
+
+Specific to the example app, for demo data:
+
+```bash
+php artisan migrate --seed
+```
+
+### Testing
+
+Run tests on the MySQL database:
+
+```bash
+composer test
+```
+
+Run tests on the PostgreSQL database:
+
+```bash
+composer test-postgres
+```
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+### Security
+
+If you discover any security-related issues, please email webdevelopment@cybex-online.com instead of using the issue
+tracker.
+
+## Credits
+
+- [Web Development team at Cybex GmbH - cybex-online.com](https://github.com/cybex-gmbh)
+- [Gael Connan](https://github.com/gael-connan-cybex)
+- [Jörn Heusinger](https://github.com/jheusinger)
+- [Fabian Holy](https://github.com/holyfabi)
+- [Oliver Matla](https://github.com/lupinitylabs)
+- [Marco Szulik](https://github.com/mszulik)
+- [All Contributors](https://github.com/cybex-gmbh/laravel-protector/graphs/contributors)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## Laravel Package Boilerplate
+
+This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).

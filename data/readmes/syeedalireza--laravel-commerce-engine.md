@@ -1,0 +1,49 @@
+# Laravel Commerce Engine
+
+[![Tests](https://github.com/syeedalireza/laravel-commerce-engine/workflows/CI/badge.svg)](https://github.com/syeedalireza/laravel-commerce-engine/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Production-ready e-commerce engine for Laravel with cart management, checkout process, and multi-gateway payment integration (Stripe, PayPal).
+
+## Features
+
+- ? **Shopping Cart** - Full cart management
+- ? **Product Catalog** - Product and inventory management
+- ? **Checkout Process** - Complete checkout workflow
+- ? **Multi-Gateway Payments** - Stripe, PayPal support
+- ? **Laravel 11+** - Latest Laravel support
+- ? **Type-Safe** - Full PHP 8.2+ type hints
+
+## Installation
+
+```bash
+composer require syeedalireza/laravel-commerce-engine
+```
+
+## Quick Start
+
+### Shopping Cart
+
+```php
+use LaravelCommerceEngine\Cart\ShoppingCart;
+
+$cart = new ShoppingCart();
+$cart->addItem('prod-1', 'Product Name', quantity: 2, price: 29.99);
+$total = $cart->getTotal(); // 59.98
+```
+
+### Checkout
+
+```php
+use LaravelCommerceEngine\Checkout\CheckoutService;
+use LaravelCommerceEngine\Payment\StripePaymentGateway;
+
+$gateway = new StripePaymentGateway('your-stripe-key');
+$checkout = new CheckoutService($gateway);
+
+$result = $checkout->processCheckout($cart, $customerData);
+```
+
+## License
+
+MIT

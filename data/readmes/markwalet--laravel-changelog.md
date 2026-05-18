@@ -1,0 +1,47 @@
+# Laravel Changelog
+
+[![Build Status](https://github.com/markwalet/laravel-changelog/workflows/tests/badge.svg)](https://github.com/markwalet/laravel-changelog/actions)
+[![Total Downloads](https://img.shields.io/packagist/dt/markwalet/laravel-changelog)](https://packagist.org/packages/markwalet/laravel-changelog)
+[![Latest Stable Version](https://img.shields.io/packagist/v/markwalet/laravel-changelog)](https://packagist.org/packages/markwalet/laravel-changelog)
+[![License](https://img.shields.io/packagist/l/markwalet/laravel-changelog)](https://packagist.org/packages/markwalet/laravel-changelog)
+
+A Laravel package that prevents merge conflicts on your changelog file.
+
+It enables you to manage your changes by storing them in separate files based on the branch you are currently in. This makes sure that you are not working in the same file as other developers in your team.
+
+## Installation
+You can install this package with composer:
+
+```shell
+composer require markwalet/laravel-changelog
+```
+
+The package supports PHP 8.2+ and Laravel 12+.
+
+Laravel uses package auto-discovery, so you don't have to register the service provider. If you want to register the service provider manually, add the following line to your `config/app.php` file:
+
+```php
+MarkWalet\Changelog\ChangelogServiceProvider::class
+```
+
+After installation, verify and change the config for your specific needs and run `php artisan changelog:install`. This creates a folder where all the changes will be stored in. This defaults to `base_path('.changes')`.
+
+## Usage
+
+The main functionality of this package consists of 6 commands:
+
+- `php artisan changelog:add {--type=} {--message=}` (Add a change to the current feature entry)
+- `php artisan changelog:list` (Show a list of changes for all versions)
+- `php artisan changelog:unreleased` (Show a list of unreleased changes)
+- `php artisan changelog:current` (Show a list of unreleased changes for your current branch)
+- `php artisan changelog:release` (Move all unreleased changes to a new version)
+- `php artisan changelog:generate {--dry-run} {--path=}` (Generate a markdown file based on your changes. The path option can be empty)
+
+## Configuration
+
+The default configuration is defined in `changelog.php`. If you want to edit this file you can copy it to your config folder by using the following command:
+```shell
+php artisan vendor:publish --provider="MarkWalet\Changelog\ChangelogServiceProvider"
+```
+
+When you publish these vendor assets, you can also edit the default template that is used when generating the changelog markdown file. The template file can be found in `resources/views/vendor/changelog/changelog.blade.php`.

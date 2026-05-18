@@ -1,0 +1,1 @@
+This is a sample application to automatically test laravel-microscope package functionality.

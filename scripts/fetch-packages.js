@@ -4,6 +4,7 @@ const path = require("path");
 const PACKAGES_FILE = path.join(__dirname, "..", "data", "packages.json");
 const STATS_FILE = path.join(__dirname, "..", "data", "stats.json");
 const ARCHIVED_FILE = path.join(__dirname, "..", "data", "archived.json");
+const READMES_DIR = path.join(__dirname, "..", "data", "readmes");
 
 // Minimum stars to include (filter out empty repos)
 const MIN_STARS = 0;
@@ -12,6 +13,9 @@ const MAX_STARS = 500;
 // Stale package archiving
 const STALE_THRESHOLD_DAYS = 365;
 const MAX_ARCHIVE_PER_RUN = 10;
+// README fetching
+const README_MAX_BYTES = 100 * 1024; // 100KB cap
+const README_BATCH_PER_RUN = Number(process.env.README_LIMIT ?? 250);
 
 // Multiple search queries for broader coverage
 const SEARCH_QUERIES = [
@@ -102,6 +106,135 @@ function loadArchived() {
   return {};
 }
 
+function readmeFilename(fullName) {
+  return fullName.replace("/", "--") + ".md";
+}
+
+function readmePath(fullName) {
+  return path.join(READMES_DIR, readmeFilename(fullName));
+}
+
+// Patterns GitHub's secret scanner blocks on push — many READMEs ship
+// example webhooks/tokens that look real enough to trip detection.
+// Scrub anything matching these before writing the file to disk.
+function scrubSecrets(text) {
+  return text
+    // Slack incoming webhooks
+    .replace(
+      /https:\/\/hooks\.slack\.com\/services\/[A-Z0-9\/]+/gi,
+      "https://hooks.slack.com/services/REDACTED",
+    )
+    // Discord webhooks
+    .replace(
+      /https:\/\/(?:discord|discordapp)\.com\/api\/webhooks\/\d+\/[A-Za-z0-9_-]+/gi,
+      "https://discord.com/api/webhooks/REDACTED",
+    );
+}
+
+async function fetchReadme(fullName) {
+  const url = `https://api.github.com/repos/${fullName}/readme`;
+  const response = await fetch(url, {
+    headers: {
+      Accept: "application/vnd.github.raw+json",
+      "User-Agent": "laravel-package-discovery",
+      ...(process.env.GITHUB_TOKEN && {
+        Authorization: `token ${process.env.GITHUB_TOKEN}`,
+      }),
+    },
+  });
+
+  if (response.status === 404) return { status: "missing" };
+  if (!response.ok) {
+    return { status: "error", code: response.status };
+  }
+
+  let text = await response.text();
+  if (!text || text.trim().length === 0) return { status: "empty" };
+  text = scrubSecrets(text);
+  let truncated = false;
+  const buf = Buffer.from(text, "utf8");
+  if (buf.byteLength > README_MAX_BYTES) {
+    text = buf.subarray(0, README_MAX_BYTES).toString("utf8");
+    truncated = true;
+  }
+  return { status: "ok", body: text, truncated };
+}
+
+async function syncReadmes(packages) {
+  if (!fs.existsSync(READMES_DIR)) {
+    fs.mkdirSync(READMES_DIR, { recursive: true });
+  }
+
+  // Decide which packages need a (re)fetch:
+  // - no file on disk yet
+  // - pushed_at newer than file mtime
+  const candidates = [];
+  for (const pkg of packages) {
+    const file = readmePath(pkg.name);
+    let needs = false;
+    if (!fs.existsSync(file)) {
+      needs = true;
+    } else if (pkg.pushed_at) {
+      const pushedMs = new Date(pkg.pushed_at).getTime();
+      const fileMs = fs.statSync(file).mtimeMs;
+      if (pushedMs > fileMs) needs = true;
+    }
+    if (needs) candidates.push(pkg);
+  }
+
+  // Prioritize: highest-star first (popular packages matter most),
+  // then most recently pushed.
+  candidates.sort((a, b) => {
+    if (b.stars !== a.stars) return b.stars - a.stars;
+    return new Date(b.pushed_at).getTime() - new Date(a.pushed_at).getTime();
+  });
+
+  const todo = candidates.slice(0, README_BATCH_PER_RUN);
+  if (candidates.length === 0) {
+    console.log("📚 READMEs: all up to date");
+    return { fetched: 0, skipped: 0, missing: 0, errors: 0, remaining: 0 };
+  }
+  console.log(
+    `📚 READMEs: ${candidates.length} need refresh, fetching up to ${todo.length} this run`,
+  );
+
+  let fetched = 0;
+  let missing = 0;
+  let errors = 0;
+
+  for (let i = 0; i < todo.length; i++) {
+    const pkg = todo[i];
+    try {
+      const result = await fetchReadme(pkg.name);
+      if (result.status === "ok") {
+        fs.writeFileSync(readmePath(pkg.name), result.body);
+        fetched++;
+      } else if (result.status === "missing" || result.status === "empty") {
+        // Write empty marker so we don't keep retrying
+        fs.writeFileSync(readmePath(pkg.name), "");
+        missing++;
+      } else {
+        errors++;
+        console.warn(`   ⚠️  ${pkg.name}: ${result.status} ${result.code ?? ""}`);
+      }
+    } catch (e) {
+      errors++;
+      console.warn(`   ⚠️  ${pkg.name}: ${e.message}`);
+    }
+
+    if ((i + 1) % 50 === 0) {
+      console.log(`   ...${i + 1}/${todo.length}`);
+    }
+  }
+
+  return {
+    fetched,
+    missing,
+    errors,
+    remaining: candidates.length - todo.length,
+  };
+}
+
 function loadStats() {
   try {
     if (fs.existsSync(STATS_FILE)) {
@@ -114,6 +247,17 @@ function loadStats() {
 }
 
 async function main() {
+  // README-only mode: skip discovery, just backfill READMEs from existing data
+  if (process.env.README_ONLY === "1") {
+    console.log("📚 README-only mode: skipping package discovery\n");
+    const existing = loadExisting();
+    const stats = await syncReadmes(Object.values(existing));
+    console.log(
+      `\n📚 ${stats.fetched} fetched, ${stats.missing} missing/empty, ${stats.errors} errors, ${stats.remaining} remaining`,
+    );
+    return;
+  }
+
   console.log("🔍 Fetching Laravel packages from GitHub...\n");
 
   // Load existing data
@@ -233,6 +377,14 @@ async function main() {
   // Save packages
   fs.writeFileSync(PACKAGES_FILE, JSON.stringify(existing, null, 2));
   console.log(`\n💾 Saved to ${PACKAGES_FILE}`);
+
+  // Sync READMEs (rate-limited per run)
+  const readmeStats = await syncReadmes(Object.values(existing));
+  if (readmeStats.fetched || readmeStats.missing || readmeStats.errors) {
+    console.log(
+      `📚 READMEs: ${readmeStats.fetched} fetched, ${readmeStats.missing} missing/empty, ${readmeStats.errors} errors, ${readmeStats.remaining} remaining`,
+    );
+  }
 
   // Save archived
   if (archivedCount > 0) {

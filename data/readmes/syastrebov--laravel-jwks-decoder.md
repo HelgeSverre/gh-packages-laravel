@@ -1,0 +1,1 @@
+Laravel JWKS Decoder is a package for decoding and validating JSON Web Tokens (JWT) using a JWKS endpoint, featuring automatic key fetching and caching. It enables easy token verification for microservices.

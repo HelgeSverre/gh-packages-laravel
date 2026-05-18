@@ -1,0 +1,450 @@
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/cjmellor/approval?color=rgb%2856%20189%20248%29&label=release&style=for-the-badge)](https://packagist.org/packages/cjmellor/approval)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/cjmellor/approval/run-pest.yml?branch=main&label=tests&style=for-the-badge&color=rgb%28134%20239%20128%29)](https://github.com/cjmellor/approval/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/cjmellor/approval.svg?color=rgb%28249%20115%2022%29&style=for-the-badge)](https://packagist.org/packages/cjmellor/approval)
+![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/cjmellor/approval/php?color=rgb%28165%20180%20252%29&logo=php&logoColor=rgb%28165%20180%20252%29&style=for-the-badge)
+![Laravel Version](<https://img.shields.io/badge/laravel-^12_|_^13-rgb(235%2068%2050)?style=for-the-badge&logo=laravel>)
+
+Approval is a Laravel package that provides a simple way to approve new Model data before it is persisted.
+
+![](https://banners.beyondco.de/Approval.png?theme=light&packageManager=composer+require&packageName=cjmellor%2Fapproval&pattern=brickWall&style=style_2&description=Approve+new+Model+data+before+it+is+persisted&md=1&showWatermark=0&fontSize=100px&images=check-circle&widths=300&heights=300)
+
+## Requirements
+
+- PHP 8.3 or higher
+- Laravel 12.4 or higher (or Laravel 13)
+
+> [!IMPORTANT]
+> As of v2.1, support for Laravel 11 has been dropped. Laravel 11 reached end-of-life on March 12, 2026 and no longer receives security updates. If you're still on Laravel 11, stay on `^2.0` or upgrade your Laravel application before installing this version.
+>
+> The minimum Laravel 12 version is **12.4**, because the package now uses the `#[Scope]` attribute introduced in that release.
+
+## Installation
+
+You can install the package via composer:
+
+```bash
+composer require cjmellor/approval
+```
+
+You can publish and run the migrations with:
+
+```bash
+php artisan vendor:publish --tag="approval-migrations"
+php artisan migrate
+```
+
+## Upgrading from v1
+
+If you're upgrading from v1.x to v2.x, please follow the [detailed upgrade guide](UPGRADE.md) to ensure a smooth transition. Version 2 introduces database schema changes that require running specific commands in the correct order.
+
+You can publish the config file with:
+
+```bash
+php artisan vendor:publish --tag="approval-config"
+```
+
+This is the contents of the published config file:
+
+```php
+return [
+    'approval_pivot' => 'approvalable',
+    'users_table' => 'users',
+    'states' => [
+        'approved' => ['name' => 'Approved'],
+        'pending' => ['name' => 'Pending', 'default' => true],
+        'rejected' => ['name' => 'Rejected'],
+    ],
+];
+```
+
+## Usage
+
+> [!NOTE]
+> This package does not approve/deny the data for you, it just stores the new/amended data into the database. It is up to you to decide how you implement a function to approve or deny the Model.
+
+Add the `MustBeApproved` trait to your Model and now the data will be stored in an `approvals` table, ready for you to approve or deny.
+
+For example, you add it to a `Post` Model and each time a Post is created or updated, all the _dirty_ data will be stored in the database as JSON for you to do something with it.
+
+```php
+<?php
+
+use Cjmellor\Approval\Concerns\MustBeApproved;
+
+class Post extends Model
+{
+    use MustBeApproved;
+
+    // ...
+}
+```
+
+All Models using the Trait will now be stored in a new table -- `approvals`. This is a polymorphic relationship.
+
+Here is some info about the columns in the `approvals` table:
+
+`approvalable_type` => The class name of the Model that the approval is for
+
+`approvalable_id` => The ID of the Model that the approval is for
+
+`state` => The state of the approval. This uses an Enum class. This column is cast to an `ApprovalStatus` Enum class
+
+`new_data` => All the fields created or updated in the Model. This is a JSON column. This column is cast to the `AsArrayObject` [Cast](https://laravel.com/docs/9.x/eloquent-mutators#array-object-and-collection-casting)
+
+`original_data` => All the fields in the Model before they were updated. This is a JSON column. This column is cast to the `AsArrayObject` [Cast](https://laravel.com/docs/9.x/eloquent-mutators#array-object-and-collection-casting)
+
+`rolled_back_at` => A timestamp of when this was last rolled back to its original state
+
+`audited_by` => The ID of the User who set the state
+
+`foreign_key` => A foreign key to the Model that the approval is for
+
+`creator_id` => The ID of the model who requested the approval
+
+`creator_type` => The class name of the model who requested the approval
+
+`custom_state` => A custom state name (when using configurable states beyond the defaults)
+
+`expires_at` => When this approval expires
+
+`expiration_action` => What action to take on expiry (`reject`, `postpone`, or `custom`)
+
+`actioned_at` => When an expired approval was processed
+
+`actioned_by` => The ID of the User (or null for system) who processed the expiry
+
+### Bypassing Approval Check
+
+If you want to check if the Model data will be bypassed, use the `isApprovalBypassed` method.
+
+```php
+return $model->isApprovalBypassed();
+```
+
+### Foreign Keys for New Models
+
+> [!NOTE]
+> It is recommended to read the below section on how foreign keys work in this package.
+
+> [!IMPORTANT]
+> By default, the foreign key will always be `user_id` because this is the most common foreign key used in Laravel.
+
+If you create a new Model directly via the Model, e.g.
+
+```php
+Post::create(['title' => 'Some Title']);
+```
+
+be sure to also add the foreign key to the Model, e.g.
+
+```php
+Post::create(['title' => 'Some Title', 'user_id' => 1]);
+```
+
+Now when the Model is sent for approval, the foreign key will be stored in the `foreign_key` column.
+
+### Customise the Foreign Key
+
+Your Model might not use the `user_id` as the foreign key, so you can customise it by adding this method to your Model:
+
+```php
+public function getApprovalForeignKeyName(): string
+{
+    return 'author_id';
+}
+```
+
+## Scopes
+
+The package comes with some helper methods for the Builder, utilising a custom scope - `ApprovalStateScope`
+
+By default, all queries to the `approvals` table will return all the Models' no matter the state.
+
+There are three methods to help you retrieve the state of the Approval.
+
+```php
+<?php
+
+use Cjmellor\Approval\Models\Approval;
+
+Approval::approved()->get();
+Approval::rejected()->get();
+Approval::pending()->count();
+```
+
+You can also set a state for an approval:
+
+```php
+<?php
+
+use Cjmellor\Approval\Models\Approval;
+
+Approval::where('id', 1)->approve();
+Approval::where('id', 2)->reject();
+Approval::where('id', 3)->postpone();
+```
+
+In the event you need to reset a state, you can use the `withAnyState` helper.
+
+### Helpers
+
+Conditional helper methods are used, so you can set the state of an Approval when a condition is met.
+
+```php
+$approval->approveIf(true);
+$approval->rejectIf(false);
+$approval->postponeIf(true);
+
+$approval->approveUnless(false);
+$approval->rejectUnless(true);
+$approval->postponeUnless(false);
+```
+
+### Requestor Functionality
+
+The package includes methods to work with the creator/requestor of an approval:
+
+```php
+// Get the requestor (creator) of the approval
+$requestor = $approval->requestor;
+```
+
+```php
+// Filter approvals by requestor
+$userApprovals = Approval::requestedBy($user)->get();
+```
+
+```php
+// Check if an approval was requested by a specific user
+if ($approval->wasRequestedBy($user)) {
+    // Do something
+}
+```
+
+### Events
+
+Once a Model's state has been changed, an event will be fired.
+
+```php
+- ApprovalCreated::class
+- ModelApproved::class
+- ModelSetPending::class
+- ModelRejected::class
+```
+
+### Configurable Approval States
+
+The package allows you to define custom approval states beyond the default set (`Pending`, `Approved`, `Rejected`).
+
+#### Configuring Custom States
+
+Define your custom states in the `config/approval.php` file:
+
+```php
+'states' => [
+    'pending' => [
+        'name' => 'Pending',
+        'default' => true,
+    ],
+    'approved' => [
+        'name' => 'Approved',
+    ],
+    'rejected' => [
+        'name' => 'Rejected',
+    ],
+    'in_review' => [
+        'name' => 'In Review',
+    ],
+    'needs_info' => [
+        'name' => 'Needs Clarification',
+    ],
+],
+```
+
+#### Using Custom States
+
+You can set any configured state on an approval:
+
+```php
+// Set a custom state
+$approval->setState('in_review');
+
+// Check the current state
+$currentState = $approval->getState();
+```
+
+#### Querying by State
+
+The package provides a flexible way to query approvals by any state:
+
+```php
+// Query approvals with a specific state
+$inReviewApprovals = Approval::whereState('in_review')->get();
+
+// The standard scopes still work for the default states
+$pendingApprovals = Approval::pending()->get();
+```
+
+Standard states (`pending`, `approved`, `rejected`) continue to work with all existing methods, ensuring backward compatibility.
+
+## Rollbacks
+
+If you need to roll back an approval, you can use the `rollback` method.
+
+> [!NOTE]
+> By default, a Rollback will bypass been added back to the `approvals` table
+
+```php
+Approval::first()->rollback();
+```
+
+This will revert the data and set the state to `pending` and touch the `rolled_back_at` timestamp, so you have a record of when it was rolled back.
+
+If you want a Rollback to be re-approved, pass the `bypass` parameter as `false` to the `rollback` method
+
+```php
+Approval::first()->rollback(bypass: false); // default is true
+```
+
+### Conditional Rollbacks
+
+A roll-back can be conditional, so you can roll back an approval if a condition is met.
+
+```php
+Approval::first()->rollback(fn () => true);
+```
+
+### Events
+
+When a Model has been rolled back, a `ModelRolledBack` event will be fired with the Approval Model that was rolled back, as well as the User that rolled it back.
+
+```php
+// ModelRolledBack::class
+
+public Approval $approval,
+public ?Authenticatable $user,
+```
+
+## Time-Based Approvals
+
+The package supports automatic actions for approvals that aren't completed within a set time frame.
+
+### Setting Expiration Times
+
+You can set an expiration time on any approval:
+
+```php
+// Set expiration in hours (most common)
+Approval::find(1)->expiresIn(hours: 24);
+
+// Set expiration in minutes
+Approval::find(1)->expiresIn(minutes: 30);
+
+// Set expiration in days
+Approval::find(1)->expiresIn(days: 7);
+
+// Set specific expiration datetime
+Approval::find(1)->expiresIn(datetime: now()->addWeek());
+```
+
+### Automatic Actions
+
+You can define what happens when an approval expires:
+
+```php
+// Automatically reject when expired
+Approval::find(1)->expiresIn(hours: 48)->thenReject();
+
+// Automatically postpone (set to pending) when expired
+Approval::find(1)->expiresIn(hours: 48)->thenPostpone();
+
+// Mark for custom handling — listen for the ApprovalExpired event
+Approval::find(1)->expiresIn(hours: 48)->thenCustom();
+```
+
+### Processing Expired Approvals
+
+To process expired approvals, add this command to your scheduler:
+
+```php
+// In routes/console.php (Laravel 11+) or App\Console\Kernel.php
+Schedule::command('approval:process-expired')->everyMinute();
+```
+
+### Querying Expirations
+
+You can query approvals based on their expiration status:
+
+```php
+// Get all expired approvals
+Approval::expired()->get();
+
+// Get all non-expired approvals (including those with no expiration)
+Approval::notExpired()->get();
+
+// Get all approvals that have an expiration set
+Approval::hasExpiration()->get();
+
+// Check if a specific approval is expired
+$approval->isExpired();
+```
+
+### Events
+
+When an approval expires and is processed, these events are fired:
+
+- `ApprovalExpired`: Fired for all expired approvals
+- Followed by the specific action event (`ModelRejected`, `ModelSetPending`, etc.)
+
+## Disable Approvals
+
+If you don't want Model data to be approved, you can bypass it with the `withoutApproval` method.
+
+```php
+$model->withoutApproval()->update(['title' => 'Some Title']);
+```
+
+## Specify Approvable Attributes
+
+By default, all attributes of the model will go through the approval process, however if you only wish certain attributes to go through this process, you can specify them using the `approvalAttributes` property in your model.
+
+```php
+<?php
+
+use Cjmellor\Approval\Concerns\MustBeApproved;
+
+class Post extends Model
+{
+    use MustBeApproved;
+
+    protected array $approvalAttributes = ['name'];
+
+    // ...
+}
+```
+
+In this example, only the name attribute of this model will go through the approval process, all mutations on other attributes will bypass the approval process.
+
+If you omit the `approvalAttributes` property from your model, all attributes will go through the approval process.
+
+## Testing
+
+```bash
+composer test
+```
+
+## Changelog
+
+Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
+## Contributing
+
+Please open a PR with as much detail as possible about what you're trying to achieve.
+
+## Credits
+
+-   [Chris Mellor](https://github.com/cjmellor)
+
+## License
+
+The MIT Licence (MIT). Please see [Licence File](LICENSE.md) for more information.

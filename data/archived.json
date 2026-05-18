@@ -480,5 +480,51 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-05-15T13:58:40.193Z",
     "archive_reason": "Stale: not seen in search results and last pushed 1212 days ago"
+  },
+  "elfassimohamed/medical-mangment-app": {
+    "name": "ELfassiMohamed/medical-mangment-app",
+    "url": "https://github.com/ELfassiMohamed/medical-mangment-app",
+    "description": "This project is a medical client management application that’s currently under development. It’s built using Laravel and Filament components.",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "filament",
+      "filament-plugin",
+      "filamentphp",
+      "laravel",
+      "laravel-framework"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2023-10-24T16:21:24Z",
+    "updated_at": "2026-03-15T20:42:18Z",
+    "pushed_at": "2023-11-08T20:59:41Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-05-18T13:15:28.230Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 921 days ago"
+  },
+  "artmin96/filament-jet": {
+    "name": "ArtMin96/filament-jet",
+    "url": "https://github.com/ArtMin96/filament-jet",
+    "description": "Authentication starter kit for your next Filament application.",
+    "stars": 48,
+    "forks": 12,
+    "topics": [
+      "filament",
+      "filament-authentication",
+      "filament-plugin",
+      "filamentadmin",
+      "filamentphp",
+      "laravel",
+      "laravel-sanctum"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2022-10-20T10:03:58Z",
+    "updated_at": "2025-09-22T15:01:23Z",
+    "pushed_at": "2023-11-03T12:39:14Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-05-18T13:15:28.230Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 927 days ago"
   }
 }

@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4194  
-**Last updated:** 2026-05-19T13:07:10.321Z
+**Total packages tracked:** 4200  
+**Last updated:** 2026-05-19T18:38:48.532Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [CornellCustomDev/CD-LaravelLdap](https://github.com/CornellCustomDev/CD-LaravelLdap) | 0 | A Laravel package for retrieving Cornell University LDAP data |
+| [banulalakwindu/filament-pricing](https://github.com/banulalakwindu/filament-pricing) | 0 | A Filament V3 administrative package to manage the banulakwin/laravel-pricing co... |
+| [yahyadeveloper9/Laravel-AI-Bridge](https://github.com/yahyadeveloper9/Laravel-AI-Bridge) | 0 | Laravel package for integrating multiple LLM providers with a unified API. |
+| [iainheng/laravel-geocode-distance](https://github.com/iainheng/laravel-geocode-distance) | 0 | Package use to calculate real world distance between 2 points with Google Maps A... |
+| [JoggApp/laravel-mux](https://github.com/JoggApp/laravel-mux) | 1 | A Laravel package for Mux' API |
+| [JoggApp/laravel-source](https://github.com/JoggApp/laravel-source) | 0 | Laravel package for Jogg Source |
 | [renanvolpato/rnv-sync](https://github.com/renanvolpato/rnv-sync) | 0 | Cliente OneDrive self-hosted e bonito para Linux — sincronização seletiva, arqui... |
 | [JaydeepGadhiya/laravel-guarddog](https://github.com/JaydeepGadhiya/laravel-guarddog) | 7 | Laravel security scanner — detects SQL injection, missing auth middleware, XSS r... |
 | [hamdyelbatal122/corewatch](https://github.com/hamdyelbatal122/corewatch) | 2 | A comprehensive, production-ready DevOps & Server Health Dashboard for Laravel ,... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [DyanGalih/laravel-regions](https://github.com/DyanGalih/laravel-regions) | 3 | High-performance Laravel package for Indonesian regional data (Provinces, Regenc... |
 | [haydulski/wydatkomierz](https://github.com/haydulski/wydatkomierz) | 0 | Expenses tracker in Laravel and Livewire. |
 | [shweshi/OpenGraph](https://github.com/shweshi/OpenGraph) | 167 | A Laravel package to fetch Open Graph data of a website. |
-| [kblais/query-filter](https://github.com/kblais/query-filter) | 24 | Define filters for your Eloquent models based on your request |
-| [samettemizer/filament_tinyfinder](https://github.com/samettemizer/filament_tinyfinder) | 0 | extend filament project with tinyfinder web file manager |
-| [poldixd/laravel-filament-rich-editor-insert-html](https://github.com/poldixd/laravel-filament-rich-editor-insert-html) | 0 | A Filament rich editor plugin for inserting raw HTML from a modal. |
-| [mashb1t/terms](https://github.com/mashb1t/terms) | 2 | vocabulary trainer similar to a cardboard box, but more fancy 🤓 |
-| [Pod-Point/countries](https://github.com/Pod-Point/countries) | 0 | A little package that provides Laravel and Lumen applications with full and part... |
-| [DevFactoryCH/imagecache](https://github.com/DevFactoryCH/imagecache) | 16 | Laravel 4/5 Package that crops and creates thumbnails of images |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-05-19 | Resrv is a booking engine for Statamic. |
+| [rxcod9/joy-voyager-crm-demo](https://github.com/rxcod9/joy-voyager-crm-demo) | 1 | 2026-05-19 | Joy Voyager Crm Demo shows integration of Joy Voyager CRM pa... |
+| [ctrlwebinc/laravel-badgefactor2](https://github.com/ctrlwebinc/laravel-badgefactor2) | 1 | 2026-05-19 | Badge Factor 2 - Laravel package |
+| [larament/seokit](https://github.com/larament/seokit) | 45 | 2026-05-19 | A complete SEO package for Laravel, covering everything from... |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 0 | 2026-05-19 | A Laravel package to track revisions of Eloquent models, all... |
 | [Helvetitec/messaging](https://github.com/Helvetitec/messaging) | 0 | 2026-05-19 | Laravel Messaging package for Whatsapp and others. |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-19 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-19 | Track and display Matomo analytics data directly within Lara... |
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-05-19 | Laravel Package to access AI CAD |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-19 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-19 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-19 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-19 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-19 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-19 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-19 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 174 | 2026-05-19 | The Laravel Filament Flexible Content Blocks package helps y... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-19 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-19 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-19 | The Moox Project - Packages for Filament and Laravel |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-19 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-19 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-19 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-19 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-19 |  |
+| [ejosterberg/opensalestax-bagisto](https://github.com/ejosterberg/opensalestax-bagisto) | 0 | 2026-05-19 | Bagisto package: destination-based US sales tax via the self... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 118 | 2026-05-19 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [rxcod9/joy-voyager-bread-package](https://github.com/rxcod9/joy-voyager-bread-package) | 0 | 2026-05-19 |  Joy Voyager Bread Packages scaffolding template  |
+| [slimani-dev/filament-media-manager](https://github.com/slimani-dev/filament-media-manager) | 11 | 2026-05-19 | A media manager plugin for Filament. |
+| [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | 2026-05-19 | Laravel package for AI Bridge — unified streaming interface ... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 163 | 2026-05-19 | Filament plugin that allows to add dynamic, user-defined for... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-05-19 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
+| [CornellCustomDev/CD-LaravelLdap](https://github.com/CornellCustomDev/CD-LaravelLdap) | 0 | 2026-05-19 | A Laravel package for retrieving Cornell University LDAP dat... |
+| [daudmabena/Vendite-Maestria](https://github.com/daudmabena/Vendite-Maestria) | 0 | 2026-05-19 | Vendite & Maestria is a Laravel e-commerce codebase organize... |
+| [7span/laravel-chat](https://github.com/7span/laravel-chat) | 18 | 2026-05-19 | The Laravel Chat package simplifies one-to-one and group cha... |
+| [banulalakwindu/filament-pricing](https://github.com/banulalakwindu/filament-pricing) | 0 | 2026-05-19 | A Filament V3 administrative package to manage the banulakwi... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 325 | 2026-05-19 | The NativePHP website |
+| [mikeyperes/laravel-hexa-package-chatgpt](https://github.com/mikeyperes/laravel-hexa-package-chatgpt) | 0 | 2026-05-19 | HWS Package: ChatGPT/OpenAI API integration |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-05-19 | HWS Package: WordPress REST API connector (create posts, upl... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-19T18:38 | 6 | 1724 | 4200 |
 | 2026-05-19T13:07 | 5 | 1726 | 4194 |
 | 2026-05-19T07:15 | 1 | 1732 | 4189 |
 | 2026-05-19T00:42 | 3 | 1730 | 4188 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-18T07:25 | 2 | 1704 | 4136 |
 | 2026-05-18T00:40 | 6 | 1698 | 4134 |
 | 2026-05-17T18:23 | 11 | 1692 | 4128 |
-| 2026-05-17T12:21 | 4 | 1698 | 4117 |
 
 ---
 

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4189  
-**Last updated:** 2026-05-19T07:15:01.404Z
+**Total packages tracked:** 4194  
+**Last updated:** 2026-05-19T13:07:10.321Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [renanvolpato/rnv-sync](https://github.com/renanvolpato/rnv-sync) | 0 | Cliente OneDrive self-hosted e bonito para Linux — sincronização seletiva, arqui... |
+| [JaydeepGadhiya/laravel-guarddog](https://github.com/JaydeepGadhiya/laravel-guarddog) | 7 | Laravel security scanner — detects SQL injection, missing auth middleware, XSS r... |
+| [hamdyelbatal122/corewatch](https://github.com/hamdyelbatal122/corewatch) | 2 | A comprehensive, production-ready DevOps & Server Health Dashboard for Laravel ,... |
+| [AuroraWebSoftware/ArFlow](https://github.com/AuroraWebSoftware/ArFlow) | 23 | ArFlow is a Laravel package that allows you to implement workflow management for... |
+| [masterix21/laravel-bookings](https://github.com/masterix21/laravel-bookings) | 4 | A comprehensive Laravel package that adds powerful booking functionality to any ... |
 | [dockcodes/assistforwcag-laravel](https://github.com/dockcodes/assistforwcag-laravel) | 0 | Laravel package to easily embed the Assist for WCAG accessibility widget on your... |
 | [square-bit/laravel-pt-localization](https://github.com/square-bit/laravel-pt-localization) | 11 | Portuguese (PT) translations for Laravel |
 | [zealouscreations/tranquil-model-controller](https://github.com/zealouscreations/tranquil-model-controller) | 1 | This package contains base Laravel Eloquent models and controllers that contain ... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mashb1t/terms](https://github.com/mashb1t/terms) | 2 | vocabulary trainer similar to a cardboard box, but more fancy 🤓 |
 | [Pod-Point/countries](https://github.com/Pod-Point/countries) | 0 | A little package that provides Laravel and Lumen applications with full and part... |
 | [DevFactoryCH/imagecache](https://github.com/DevFactoryCH/imagecache) | 16 | Laravel 4/5 Package that crops and creates thumbnails of images |
-| [xnoire666/db-diff](https://github.com/xnoire666/db-diff) | 0 | Lightweight Laravel artisan command that diffs two MySQL databases and generates... |
-| [payavel/orchestration](https://github.com/payavel/orchestration) | 5 | Service generator for Laravel. |
-| [laractrl/controlled](https://github.com/laractrl/controlled) | 3 | Secure Your Right After Delivered Your web app Before they can pay you, your cus... |
-| [salahhusa9/laravel-template-components](https://github.com/salahhusa9/laravel-template-components) | 2 | Laravel template components, can use with vuexy and metronic templates |
-| [payavel/checkout](https://github.com/payavel/checkout) | 0 | Checkout solution that integrates with any payment service provider and Laravel. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [SrGnis/hub01-shop](https://github.com/SrGnis/hub01-shop) | 7 | 2026-05-19 | A Cataclysm Games project repository and management platform... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-19 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Helvetitec/messaging](https://github.com/Helvetitec/messaging) | 0 | 2026-05-19 | Laravel Messaging package for Whatsapp and others. |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-19 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-19 | Track and display Matomo analytics data directly within Lara... |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-05-19 | Laravel Package to access AI CAD |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-19 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-19 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-19 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-19 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-19 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-19 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-19 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 174 | 2026-05-19 | The Laravel Filament Flexible Content Blocks package helps y... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-19 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-19 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-19 | The Moox Project - Packages for Filament and Laravel |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-19 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-05-19 | Laravel package for Indonesia regions selection with postal ... |
-| [blissjaspis/laravel-whatsapp-cloud-api](https://github.com/blissjaspis/laravel-whatsapp-cloud-api) | 0 | 2026-05-19 | Laravel package to interact with the WhatsApp Cloud API. |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-19 | 💳 Streamline payment processing with this PHP package that ... |
-| [lemoba/mobile-monetization](https://github.com/lemoba/mobile-monetization) | 1 | 2026-05-19 | Laravel package for Apple/Google login verification, mobile ... |
-| [cslant/blog-core](https://github.com/cslant/blog-core) | 0 | 2026-05-19 | A Laravel package for CSlant Blog Core. Take care of importa... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-05-19 | Resrv is a booking engine for Statamic. |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-19 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-19 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-19 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [ryoogenmedia/absensi-sekolah-qrcode](https://github.com/ryoogenmedia/absensi-sekolah-qrcode) | 0 | 2026-05-19 | Sistem aplikasi sekolah berbasis qr code dengan menggunakan ... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 30 | 2026-05-19 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-05-19 | Main Webampp laravel package for GEOBOX 2.0 |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-05-19 | Package para Laravel y facturacion |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-05-19 | Laravel package untuk data wilayah administratif Indonesia (... |
-| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 9 | 2026-05-19 | MFAKit starter kit built on Laravel 12.x and Filament 4.x wi... |
-| [solutionforest/filament-tree](https://github.com/solutionforest/filament-tree) | 191 | 2026-05-19 | Filament Tree is a plugin for Filament Admin that creates a ... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-19 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-19 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-19 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-19 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-19 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-19T13:07 | 5 | 1726 | 4194 |
 | 2026-05-19T07:15 | 1 | 1732 | 4189 |
 | 2026-05-19T00:42 | 3 | 1730 | 4188 |
 | 2026-05-18T18:37 | 0 | 1731 | 4185 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-18T00:40 | 6 | 1698 | 4134 |
 | 2026-05-17T18:23 | 11 | 1692 | 4128 |
 | 2026-05-17T12:21 | 4 | 1698 | 4117 |
-| 2026-05-17T06:59 | 6 | 1695 | 4113 |
 
 ---
 

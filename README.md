@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4185  
-**Last updated:** 2026-05-18T18:37:57.867Z
+**Total packages tracked:** 4188  
+**Last updated:** 2026-05-19T00:42:56.562Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [square-bit/laravel-pt-localization](https://github.com/square-bit/laravel-pt-localization) | 11 | Portuguese (PT) translations for Laravel |
+| [zealouscreations/tranquil-model-controller](https://github.com/zealouscreations/tranquil-model-controller) | 1 | This package contains base Laravel Eloquent models and controllers that contain ... |
+| [satheez/laravel-package-doctor](https://github.com/satheez/laravel-package-doctor) | 0 | Laravel-first Composer dependency health and upgrade risk analyzer. |
 | [vimatech-io/laravel-membership](https://github.com/vimatech-io/laravel-membership) | 1 | Polymorphic memberships for Laravel. |
 | [alimranedx/runtime-feature-toggle](https://github.com/alimranedx/runtime-feature-toggle) | 0 | A simple Laravel package to enable or disable features at runtime without changi... |
 | [DyanGalih/laravel-regions](https://github.com/DyanGalih/laravel-regions) | 3 | High-performance Laravel package for Indonesian regional data (Provinces, Regenc... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [salahhusa9/laravel-template-components](https://github.com/salahhusa9/laravel-template-components) | 2 | Laravel template components, can use with vuexy and metronic templates |
 | [payavel/checkout](https://github.com/payavel/checkout) | 0 | Checkout solution that integrates with any payment service provider and Laravel. |
 | [OnrampLab/laravel-log-enhancement](https://github.com/OnrampLab/laravel-log-enhancement) | 0 | An enhanced logging package for Laravel |
-| [CaneBayComputers/ip-api](https://github.com/CaneBayComputers/ip-api) | 0 | A simple Laravel package to get IP address information from ip-api.com |
-| [hatamiarash7/Laravel-OpenALPR](https://github.com/hatamiarash7/Laravel-OpenALPR) | 3 | OpenALPR package for laravel |
-| [rxcod9/joy-voyager-bread-package](https://github.com/rxcod9/joy-voyager-bread-package) | 0 |  Joy Voyager Bread Packages scaffolding template  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-18 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-18 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-18 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-18 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-18 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-18 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [alimranedx/runtime-feature-toggle](https://github.com/alimranedx/runtime-feature-toggle) | 0 | 2026-05-18 | A simple Laravel package to enable or disable features at ru... |
-| [karoldabro/validation-codes](https://github.com/karoldabro/validation-codes) | 8 | 2026-05-18 | Laravel pacakge that add validation codes to the API respons... |
-| [VitalSaas/proexna-backend](https://github.com/VitalSaas/proexna-backend) | 0 | 2026-05-18 | Backend project for ProExna with Laravel and packages |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-05-18 | Empower your users with a modern, intuitive visual editor. T... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-05-18 | The flexible backbone for your next CMS. This powerful frame... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-18 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-18 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-18 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-18 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-18 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-18 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-18 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-19 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-19 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-19 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) | 146 | 2026-05-19 | Commentions is a drop-in package for Filament that allows yo... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-19 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-19 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-19 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-19 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-19 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [cslant/blog-api-package](https://github.com/cslant/blog-api-package) | 3 | 2026-05-18 | A Laravel package for CSlant Blog API. Using in the blog-adm... |
+| [cslant/laravel-telegram-git-notifier](https://github.com/cslant/laravel-telegram-git-notifier) | 38 | 2026-05-18 | The Laravel package to custom and send notifications from Gi... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-05-18 | A Laravel-based web application that tracks, analyzes, and p... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-05-18 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-05-18 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-05-18 | Dedicated Instagram account attach, authenticated browser sc... |
+| [cboxdk/laravel-queue-monitor](https://github.com/cboxdk/laravel-queue-monitor) | 3 | 2026-05-18 | Queue visibility without Horizon or Redis. Track every job o... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-18 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [ArtisanPack-UI/security](https://github.com/ArtisanPack-UI/security) | 0 | 2026-05-18 | Core security utilities for Laravel — input sanitization, ou... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-05-18 | Provides email verification on the go. |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-18 | Track and display Matomo analytics data directly within Lara... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-19T00:42 | 3 | 1730 | 4188 |
 | 2026-05-18T18:37 | 0 | 1731 | 4185 |
 | 2026-05-18T18:20 | 3 | 1728 | 4185 |
 | 2026-05-18T13:15 | 48 | 1685 | 4182 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-17T12:21 | 4 | 1698 | 4117 |
 | 2026-05-17T06:59 | 6 | 1695 | 4113 |
 | 2026-05-17T00:40 | 3 | 1698 | 4107 |
-| 2026-05-16T18:59 | 3 | 1698 | 4104 |
 
 ---
 

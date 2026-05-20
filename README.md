@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4200  
-**Last updated:** 2026-05-19T18:38:48.532Z
+**Total packages tracked:** 4205  
+**Last updated:** 2026-05-20T00:44:30.469Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ajma3abdo/LaraveInstaller](https://github.com/ajma3abdo/LaraveInstaller) | 2 | Laravel package to install your website |
+| [mortezaa97/vlaravel-reviews](https://github.com/mortezaa97/vlaravel-reviews) | 0 | comprehensive Laravel package designed to implement a robust review and rating s... |
+| [mortezaa97/vlaravel-bookmarks](https://github.com/mortezaa97/vlaravel-bookmarks) | 0 | A Laravel package for managing user bookmarks, allowing users to save, categoriz... |
+| [sashalenz/ebay-mip](https://github.com/sashalenz/ebay-mip) | 0 | A modern Laravel package for eBay Merchant Integration Platform (MIP). Generate ... |
+| [emaia/laravel-hotwire-turbo](https://github.com/emaia/laravel-hotwire-turbo) | 0 | Laravel package to integrate Hotwire Turbo |
 | [CornellCustomDev/CD-LaravelLdap](https://github.com/CornellCustomDev/CD-LaravelLdap) | 0 | A Laravel package for retrieving Cornell University LDAP data |
 | [banulalakwindu/filament-pricing](https://github.com/banulalakwindu/filament-pricing) | 0 | A Filament V3 administrative package to manage the banulakwin/laravel-pricing co... |
 | [yahyadeveloper9/Laravel-AI-Bridge](https://github.com/yahyadeveloper9/Laravel-AI-Bridge) | 0 | Laravel package for integrating multiple LLM providers with a unified API. |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [square-bit/laravel-pt-localization](https://github.com/square-bit/laravel-pt-localization) | 11 | Portuguese (PT) translations for Laravel |
 | [zealouscreations/tranquil-model-controller](https://github.com/zealouscreations/tranquil-model-controller) | 1 | This package contains base Laravel Eloquent models and controllers that contain ... |
 | [satheez/laravel-package-doctor](https://github.com/satheez/laravel-package-doctor) | 0 | Laravel-first Composer dependency health and upgrade risk analyzer. |
-| [vimatech-io/laravel-membership](https://github.com/vimatech-io/laravel-membership) | 1 | Polymorphic memberships for Laravel. |
-| [alimranedx/runtime-feature-toggle](https://github.com/alimranedx/runtime-feature-toggle) | 0 | A simple Laravel package to enable or disable features at runtime without changi... |
-| [DyanGalih/laravel-regions](https://github.com/DyanGalih/laravel-regions) | 3 | High-performance Laravel package for Indonesian regional data (Provinces, Regenc... |
-| [haydulski/wydatkomierz](https://github.com/haydulski/wydatkomierz) | 0 | Expenses tracker in Laravel and Livewire. |
-| [shweshi/OpenGraph](https://github.com/shweshi/OpenGraph) | 167 | A Laravel package to fetch Open Graph data of a website. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -43,7 +43,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 467 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
-| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 456 | Add kanban boards to your Filament pages |
+| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 457 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 447 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-05-19 | Resrv is a booking engine for Statamic. |
-| [rxcod9/joy-voyager-crm-demo](https://github.com/rxcod9/joy-voyager-crm-demo) | 1 | 2026-05-19 | Joy Voyager Crm Demo shows integration of Joy Voyager CRM pa... |
-| [ctrlwebinc/laravel-badgefactor2](https://github.com/ctrlwebinc/laravel-badgefactor2) | 1 | 2026-05-19 | Badge Factor 2 - Laravel package |
-| [larament/seokit](https://github.com/larament/seokit) | 45 | 2026-05-19 | A complete SEO package for Laravel, covering everything from... |
-| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 0 | 2026-05-19 | A Laravel package to track revisions of Eloquent models, all... |
-| [Helvetitec/messaging](https://github.com/Helvetitec/messaging) | 0 | 2026-05-19 | Laravel Messaging package for Whatsapp and others. |
-| [ejosterberg/opensalestax-bagisto](https://github.com/ejosterberg/opensalestax-bagisto) | 0 | 2026-05-19 | Bagisto package: destination-based US sales tax via the self... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 118 | 2026-05-19 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [rxcod9/joy-voyager-bread-package](https://github.com/rxcod9/joy-voyager-bread-package) | 0 | 2026-05-19 |  Joy Voyager Bread Packages scaffolding template  |
-| [slimani-dev/filament-media-manager](https://github.com/slimani-dev/filament-media-manager) | 11 | 2026-05-19 | A media manager plugin for Filament. |
-| [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | 2026-05-19 | Laravel package for AI Bridge — unified streaming interface ... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 163 | 2026-05-19 | Filament plugin that allows to add dynamic, user-defined for... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-05-19 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
-| [CornellCustomDev/CD-LaravelLdap](https://github.com/CornellCustomDev/CD-LaravelLdap) | 0 | 2026-05-19 | A Laravel package for retrieving Cornell University LDAP dat... |
-| [daudmabena/Vendite-Maestria](https://github.com/daudmabena/Vendite-Maestria) | 0 | 2026-05-19 | Vendite & Maestria is a Laravel e-commerce codebase organize... |
-| [7span/laravel-chat](https://github.com/7span/laravel-chat) | 18 | 2026-05-19 | The Laravel Chat package simplifies one-to-one and group cha... |
-| [banulalakwindu/filament-pricing](https://github.com/banulalakwindu/filament-pricing) | 0 | 2026-05-19 | A Filament V3 administrative package to manage the banulakwi... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-20 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [storviaio/vantage](https://github.com/storviaio/vantage) | 252 | 2026-05-20 | Vantage : Advanced Laravel Queue Monitoring & Insights packa... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-20 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-20 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-20 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-20 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-20 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-20 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-20 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [ajma3abdo/LaraveInstaller](https://github.com/ajma3abdo/LaraveInstaller) | 2 | 2026-05-20 | Laravel package to install your website |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-20 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-20 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-20 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-20 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-20 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-19 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-19 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-19 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-19 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 325 | 2026-05-19 | The NativePHP website |
-| [mikeyperes/laravel-hexa-package-chatgpt](https://github.com/mikeyperes/laravel-hexa-package-chatgpt) | 0 | 2026-05-19 | HWS Package: ChatGPT/OpenAI API integration |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-05-19 | HWS Package: WordPress REST API connector (create posts, upl... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-20T00:44 | 5 | 1726 | 4205 |
 | 2026-05-19T18:38 | 6 | 1724 | 4200 |
 | 2026-05-19T13:07 | 5 | 1726 | 4194 |
 | 2026-05-19T07:15 | 1 | 1732 | 4189 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-18T13:15 | 48 | 1685 | 4182 |
 | 2026-05-18T07:25 | 2 | 1704 | 4136 |
 | 2026-05-18T00:40 | 6 | 1698 | 4134 |
-| 2026-05-17T18:23 | 11 | 1692 | 4128 |
 
 ---
 

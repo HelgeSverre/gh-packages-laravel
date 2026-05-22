@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4234  
-**Last updated:** 2026-05-22T00:42:34.375Z
+**Total packages tracked:** 4236  
+**Last updated:** 2026-05-22T07:15:12.245Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [sdon2/cloud-sass](https://github.com/sdon2/cloud-sass) | 0 | Package to Convert LARAVEL APPLICATION to SASS |
+| [AbhishekPriy9/bs5larastarter](https://github.com/AbhishekPriy9/bs5larastarter) | 2 | A Bootstrap 5 Laravel 11/12/13 admin panel starter package using Sneat theme. |
 | [satheez/laravel-message-contracts](https://github.com/satheez/laravel-message-contracts) | 0 | Laravel Message Contracts is a transport-agnostic package for defining, validati... |
 | [DevSajjadAli/laravel](https://github.com/DevSajjadAli/laravel) | 0 | Official Laravel package for Genvoris Virtual Try-On |
 | [gabebritto/laravel-simple-sqs](https://github.com/gabebritto/laravel-simple-sqs) | 1 | A Laravel package for asynchronous microservice communication via SQS with raw J... |
@@ -20,15 +22,13 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Harman-7680/reverb-chat](https://github.com/Harman-7680/reverb-chat) | 1 | Real-time chat package for Laravel using Laravel Reverb WebSockets. |
 | [novay/Feeder](https://github.com/novay/Feeder) | 0 | Laravel package for interacting with Feeder API using automatic token retrieval,... |
 | [mateusjunges/trackable-jobs-for-laravel](https://github.com/mateusjunges/trackable-jobs-for-laravel) | 315 | This package allows you to easily track your laravel jobs! |
-| [mbs047/model-mind](https://github.com/mbs047/model-mind) | 5 | ModelMind: secure model-aware AI chat assistant package for Laravel |
+| [mbs047/model-mind](https://github.com/mbs047/model-mind) | 6 | ModelMind: secure model-aware AI chat assistant package for Laravel |
 | [mikeyperes/laravel-hexa-package-wordpress-seo](https://github.com/mikeyperes/laravel-hexa-package-wordpress-seo) | 0 | Abstract WordPress SEO orchestration package for scanning, inventory, proposals,... |
 | [sohrab-az/laravel-otp](https://github.com/sohrab-az/laravel-otp) | 0 | A flexible otp package for Laravel |
 | [Alhumsiabdo/filament-admin-panel](https://github.com/Alhumsiabdo/filament-admin-panel) | 0 | E-commerce admin panel built with Laravel 11, Filament v3, roles & permissions, ... |
 | [numaxlab/laravel-dinahosting](https://github.com/numaxlab/laravel-dinahosting) | 0 | Laravel utilities for Dinahosting hosted projects |
 | [SpartnerNL/Laravel-Nova-Excel](https://github.com/SpartnerNL/Laravel-Nova-Excel) | 398 | 🚀 Supercharged Excel exports for Laravel Nova Resources |
 | [bensondevs/laravel-mayar](https://github.com/bensondevs/laravel-mayar) | 0 | Laravel  Eloquent-style integration for the Mayar Headless API |
-| [iamahmadishtiaq/comfykure-alerts](https://github.com/iamahmadishtiaq/comfykure-alerts) | 0 | A production-ready Laravel package that catches controller crashes in real-time ... |
-| [Grazulex/laravel-snapshot](https://github.com/Grazulex/laravel-snapshot) | 10 | 📸 Track, store and compare snapshots of your Eloquent models — cleanly and safe... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,21 +59,21 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-05-22 | An event sourcing laravel package, complete with all the ess... |
+| [CodeWithDennis/filament-select-tree](https://github.com/CodeWithDennis/filament-select-tree) | 325 | 2026-05-22 | The multi-level select field lets you pick one or multiple o... |
+| [satheez/laravel-message-contracts](https://github.com/satheez/laravel-message-contracts) | 0 | 2026-05-22 | Laravel Message Contracts is a transport-agnostic package fo... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-22 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [DevSajjadAli/laravel](https://github.com/DevSajjadAli/laravel) | 0 | 2026-05-22 | Official Laravel package for Genvoris Virtual Try-On |
-| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 8 | 2026-05-22 | FilaKit starter kit built on Laravel 12.x and Filament 3.x w... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-22 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-22 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-22 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-22 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-22 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-22 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-22 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-22 | Build and manage help desk ticket systems with a Laravel 12 ... |
 | [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-22 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-22 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-22 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-22 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-22 | Generate GitHub repository statistics and insights directly ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-22 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 391 | 2026-05-22 | Open Source Laravel CRM Package |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-22 | Prevent risky Laravel database migrations with static analys... |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-22 | Enable Laravel apps to build AI agents using Claude Code for... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-22 | Integrate Mixpanel analytics into Filament projects to track... |
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-22T07:15 | 2 | 1730 | 4236 |
 | 2026-05-22T00:42 | 2 | 1729 | 4234 |
 | 2026-05-21T18:40 | 1 | 1731 | 4232 |
 | 2026-05-21T13:08 | 4 | 1729 | 4231 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-20T12:53 | 12 | 1718 | 4220 |
 | 2026-05-20T07:15 | 3 | 1728 | 4208 |
 | 2026-05-20T00:44 | 5 | 1726 | 4205 |
-| 2026-05-19T18:38 | 6 | 1724 | 4200 |
 
 ---
 

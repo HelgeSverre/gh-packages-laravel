@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 4247  
-**Last updated:** 2026-05-23T00:41:21.287Z
+**Last updated:** 2026-05-23T06:56:51.744Z
 
 ## 📦 Recently Discovered
 
@@ -43,7 +43,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 467 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
-| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 457 | Add kanban boards to your Filament pages |
+| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 458 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 447 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-23 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [LucasCavalheri/laravel-abacatepay](https://github.com/LucasCavalheri/laravel-abacatepay) | 1 | 2026-05-23 | Laravel package for integrating AbacatePay payments seamless... |
+| [budiardianata/plain-sqs-driver](https://github.com/budiardianata/plain-sqs-driver) | 0 | 2026-05-23 | Laravel package to handle plain SQS queue. |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-23 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-23 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-23 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-23 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-23 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-23 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [hatamiarash7/Laravel-OpenALPR](https://github.com/hatamiarash7/Laravel-OpenALPR) | 3 | 2026-05-23 | OpenALPR package for laravel |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-23 | 🧾 Generate professional, multi-language invoices with Larav... |
 | [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-23 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-05-23 | Provides email verification on the go. |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-05-23 | Laravel package for Indonesia regions selection with postal ... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-23 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-23 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
 | [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-23 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-23 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-23 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-22 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-22 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-22 | 💳 Streamline payment processing with this PHP package that ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-22 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-22 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-23 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-23 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-23 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-23 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-23 | Enhance your Laravel applications with the ecommerce.cart pa... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-23T06:56 | 0 | 1728 | 4247 |
 | 2026-05-23T00:41 | 2 | 1726 | 4247 |
 | 2026-05-22T18:37 | 5 | 1723 | 4245 |
 | 2026-05-22T12:50 | 4 | 1725 | 4240 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-21T13:08 | 4 | 1729 | 4231 |
 | 2026-05-21T07:18 | 3 | 1729 | 4227 |
 | 2026-05-21T00:44 | 1 | 1733 | 4224 |
-| 2026-05-20T18:49 | 3 | 1730 | 4223 |
 
 ---
 

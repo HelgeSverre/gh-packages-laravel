@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4271  
-**Last updated:** 2026-05-24T12:25:03.109Z
+**Total packages tracked:** 4273  
+**Last updated:** 2026-05-24T18:23:16.242Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [padosoft/laravel-ai-price-intelligence](https://github.com/padosoft/laravel-ai-price-intelligence) | 0 | Enterprise Product Price Intelligence / Competitor Monitoring per e-commerce |
+| [codeat3/blade-zondicons](https://github.com/codeat3/blade-zondicons) | 49 | A package to easily make use of Zondicons in your Laravel Blade views. |
 | [AhmadMuzayyin/raudlatul-iman.sch.id](https://github.com/AhmadMuzayyin/raudlatul-iman.sch.id) | 0 | Aplikasi website resmi Pondok Pesantren Raudlatul Iman dibangun dengan Laravel, ... |
 | [softscholar/laravel-payments](https://github.com/softscholar/laravel-payments) | 3 | Laravel Payments is a service package for integrating payment gateways into your... |
 | [iabduul7/laravel-moyasar](https://github.com/iabduul7/laravel-moyasar) | 0 | Modern Laravel package for the Moyasar payment gateway. Mada, Visa, Mastercard, ... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [satheez/laravel-rate-limit-dashboard](https://github.com/satheez/laravel-rate-limit-dashboard) | 0 | Laravel package providing an intuitive dashboard for monitoring API rate limits.... |
 | [mikailfaruqali/localization](https://github.com/mikailfaruqali/localization) | 1 | A comprehensive Laravel package that provides an intuitive web interface for man... |
 | [mortezaa97/vlaravel-support](https://github.com/mortezaa97/vlaravel-support) | 0 | A Laravel support package providing ticket management with departments and prior... |
-| [mortezaa97/vlaravel-stories](https://github.com/mortezaa97/vlaravel-stories) | 0 | Laravel package designed to implement a stories feature similar to Instagram Sto... |
-| [mortezaa97/vlaravel-sliders](https://github.com/mortezaa97/vlaravel-sliders) | 0 | A Laravel package for creating and managing sliders |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -42,7 +42,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 480 | A full-featured Laravel package for aiding in Shopify App development |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
-| [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 467 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
+| [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 458 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-24 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-24 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-24 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [softscholar/laravel-payments](https://github.com/softscholar/laravel-payments) | 3 | 2026-05-24 | Laravel Payments is a service package for integrating paymen... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-24 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-05-24 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-05-24 | 💳 Streamline payment processing with this PHP package that ... |
-| [Kwaadpepper/Laravel-Storage-Manager](https://github.com/Kwaadpepper/Laravel-Storage-Manager) | 0 | 2026-05-24 | Laravel File Manager with multiple storages handling |
-| [ashrafic/laravel-ai-orbit](https://github.com/ashrafic/laravel-ai-orbit) | 0 | 2026-05-24 | Standalone observability dashboard and developer playground ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-05-24 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-24 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-24 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [AhmadMuzayyin/raudlatul-iman.sch.id](https://github.com/AhmadMuzayyin/raudlatul-iman.sch.id) | 0 | 2026-05-24 | Aplikasi website resmi Pondok Pesantren Raudlatul Iman diban... |
-| [developermithu/tallcraftui](https://github.com/developermithu/tallcraftui) | 166 | 2026-05-24 | TallCraftUI is a Laravel blade UI components library built o... |
-| [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 2 | 2026-05-24 | Bring Tempest Discovery to Laravel |
-| [LaraArabDev/filament-gatekeeper](https://github.com/LaraArabDev/filament-gatekeeper) | 0 | 2026-05-24 | Advanced Role and Permission management for Laravel Filament |
-| [AhmadIkbalDjaya/momentum](https://github.com/AhmadIkbalDjaya/momentum) | 2 | 2026-05-24 | Momentum is a computer-based test platform designed to simpl... |
-| [outatime-io/ensemble-calendar](https://github.com/outatime-io/ensemble-calendar) | 1 | 2026-05-24 | Modern, GDPR‑compliant rehearsal calendar for musical ensemb... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-05-24 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
-| [idehen-divine/laravel-dynamic-helpers](https://github.com/idehen-divine/laravel-dynamic-helpers) | 4 | 2026-05-24 | Laravel Dynamic Helpers is a package that dynamically resolv... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-24 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-24 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-24 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-24 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-24 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-24 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-24 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-24 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-24 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-24 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-24 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [codeat3/blade-weather-icons](https://github.com/codeat3/blade-weather-icons) | 1 | 2026-05-24 |  A package to easily make use of "Weather Icons" in your Lar... |
+| [codeat3/blade-vaadin-icons](https://github.com/codeat3/blade-vaadin-icons) | 0 | 2026-05-24 | A package to easily make use of "Vaadin Icons" in your Larav... |
+| [codeat3/blade-unicons](https://github.com/codeat3/blade-unicons) | 2 | 2026-05-24 | A package to easily make use of "Unicons" in your Laravel Bl... |
+| [codeat3/blade-uiw-icons](https://github.com/codeat3/blade-uiw-icons) | 0 | 2026-05-24 | A package to easily make use of Uiw Icons in your Laravel Bl... |
+| [codeat3/blade-typicons](https://github.com/codeat3/blade-typicons) | 0 | 2026-05-24 | A package to easily make use of "Typicons" in your Laravel B... |
+| [codeat3/blade-teeny-icons](https://github.com/codeat3/blade-teeny-icons) | 0 | 2026-05-24 | A package to easily make use of "Teeny Icons" in your Larave... |
+| [codeat3/blade-system-uicons](https://github.com/codeat3/blade-system-uicons) | 3 | 2026-05-24 | A package to easily make use of "System UIcons" in your Lara... |
+| [codeat3/blade-solar-icons](https://github.com/codeat3/blade-solar-icons) | 5 | 2026-05-24 | A package to easily make use of Solar Icons in your Laravel ... |
+| [codeat3/blade-simple-line-icons](https://github.com/codeat3/blade-simple-line-icons) | 0 | 2026-05-24 | A package to easily make use of Simple Line Icons in your La... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-24T18:23 | 2 | 1735 | 4273 |
 | 2026-05-24T12:25 | 3 | 1723 | 4271 |
 | 2026-05-24T07:07 | 5 | 1721 | 4268 |
 | 2026-05-24T00:42 | 3 | 1726 | 4263 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-23T00:41 | 2 | 1726 | 4247 |
 | 2026-05-22T18:37 | 5 | 1723 | 4245 |
 | 2026-05-22T12:50 | 4 | 1725 | 4240 |
-| 2026-05-22T07:15 | 2 | 1730 | 4236 |
 
 ---
 

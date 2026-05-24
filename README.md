@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4263  
-**Last updated:** 2026-05-24T00:42:33.194Z
+**Total packages tracked:** 4268  
+**Last updated:** 2026-05-24T07:07:50.361Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ashrafic/laravel-ai-orbit](https://github.com/ashrafic/laravel-ai-orbit) | 0 | Standalone observability dashboard and developer playground for the Laravel AI S... |
+| [YacoubAl-hardari/firebasenotificationphp](https://github.com/YacoubAl-hardari/firebasenotificationphp) | 10 | Package For php  or laravel To  Seding firebase notificationphp  |
+| [Serenity-Technologies/admin-dashboard-guard](https://github.com/Serenity-Technologies/admin-dashboard-guard) | 1 | A Laravel package that places a two-factor passphrase + password authentication ... |
+| [milenmk/laravel-rate-limiting](https://github.com/milenmk/laravel-rate-limiting) | 9 | An advanced rate limiting package for Laravel with exponential backoff, custom m... |
+| [milenmk/laravel-email-change-confirmation](https://github.com/milenmk/laravel-email-change-confirmation) | 2 | A Laravel package for secure email change confirmation with support for both tra... |
 | [toadfix/minishop](https://github.com/toadfix/minishop) | 0 | Headless ecommerce Laravel package |
 | [alinaderifar/Laravel-wallet-auth-demo](https://github.com/alinaderifar/Laravel-wallet-auth-demo) | 0 | The demo for wallet authentication package. |
 | [joelbutcher/laravel-archivable](https://github.com/joelbutcher/laravel-archivable) | 126 | An archivable trait package for Laravel Eloquent models |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mortezaa97/vlaravel-regions](https://github.com/mortezaa97/vlaravel-regions) | 0 | A Laravel package for managing provinces and counties |
 | [mortezaa97/catalog](https://github.com/mortezaa97/catalog) | 0 | A package for adding list and list items features to a Laravel application. |
 | [AuroraWebSoftware/ACalendar](https://github.com/AuroraWebSoftware/ACalendar) | 24 | The Laravel ACalendar package is designed to enrich Laravel applications with ad... |
-| [SaAkSin/Laravel-Administrator](https://github.com/SaAkSin/Laravel-Administrator) | 1 | An administrative interface package for Laravel |
-| [pou/telegraph2](https://github.com/pou/telegraph2) | 0 | Telegraph is a Laravel package for fluently interacting with Telegram Bots |
-| [LucasCavalheri/laravel-abacatepay](https://github.com/LucasCavalheri/laravel-abacatepay) | 1 | Laravel package for integrating AbacatePay payments seamlessly into Laravel appl... |
-| [younes-sedki/sedkiy-faker](https://github.com/younes-sedki/sedkiy-faker) | 1 | A FakerPHP extension for culturally accurate, hyper-localized test data generati... |
-| [hughcube/laravel-knight](https://github.com/hughcube/laravel-knight) | 1 | A powerful Laravel extension package providing enhanced Eloquent models, query b... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-05-24 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
+| [YacoubAl-hardari/firebasenotificationphp](https://github.com/YacoubAl-hardari/firebasenotificationphp) | 10 | 2026-05-24 | Package For php  or laravel To  Seding firebase notification... |
+| [OctopyID/LaraPersonate](https://github.com/OctopyID/LaraPersonate) | 325 | 2026-05-24 | Login as a different user quickly for Laravel |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-05-24 | Simple package for adding directives to show/hide content fr... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-24 | Build reusable Filament dashboard widgets for Laravel, inclu... |
 | [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 392 | 2026-05-24 | Open Source Laravel CRM Package |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-05-24 | An event sourcing laravel package, complete with all the ess... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-05-24 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [emaia/laravel-hotwire-turbo](https://github.com/emaia/laravel-hotwire-turbo) | 0 | 2026-05-24 | Laravel package to integrate Hotwire Turbo |
-| [toadfix/minishop](https://github.com/toadfix/minishop) | 0 | 2026-05-24 | Headless ecommerce Laravel package |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-23 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-23 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-23 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-23 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-23 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-23 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-23 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-23 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-23 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-23 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-23 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-23 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-23 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-23 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-23 | Integrate Mixpanel analytics into Filament projects to track... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-24 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-24 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-24 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-24 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-24 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-24 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-24 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-24 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-24 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-24 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-24 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-24 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-24 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-24 | Integrate Mixpanel analytics into Filament projects to track... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-24T07:07 | 5 | 1721 | 4268 |
 | 2026-05-24T00:42 | 3 | 1726 | 4263 |
 | 2026-05-23T18:22 | 11 | 1718 | 4260 |
 | 2026-05-23T12:21 | 2 | 1726 | 4249 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-22T12:50 | 4 | 1725 | 4240 |
 | 2026-05-22T07:15 | 2 | 1730 | 4236 |
 | 2026-05-22T00:42 | 2 | 1729 | 4234 |
-| 2026-05-21T18:40 | 1 | 1731 | 4232 |
 
 ---
 

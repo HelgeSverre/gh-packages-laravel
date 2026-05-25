@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4274  
-**Last updated:** 2026-05-25T00:43:29.260Z
+**Total packages tracked:** 4277  
+**Last updated:** 2026-05-25T07:35:39.108Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [amitdevgit/calculator](https://github.com/amitdevgit/calculator) | 0 | laravel calculation package |
+| [laraditz/xendit](https://github.com/laraditz/xendit) | 0 | Laravel package for interacting with Xendit API. |
+| [restu-lomboe/laravel-security-linter](https://github.com/restu-lomboe/laravel-security-linter) | 0 | A static analysis package for Laravel 11+ that scans your codebase for common se... |
 | [cmercado93/laravel-simple-sitemap](https://github.com/cmercado93/laravel-simple-sitemap) | 0 | Esta librería te permite crear un sitemap.xml de forma dinamica |
 | [padosoft/laravel-ai-price-intelligence](https://github.com/padosoft/laravel-ai-price-intelligence) | 0 | Enterprise Product Price Intelligence / Competitor Monitoring per e-commerce |
 | [codeat3/blade-zondicons](https://github.com/codeat3/blade-zondicons) | 49 | A package to easily make use of Zondicons in your Laravel Blade views. |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 2 | Bring Tempest Discovery to Laravel |
 | [ferdiunal/laravel-translator](https://github.com/ferdiunal/laravel-translator) | 6 | A powerful and flexible translation package for Laravel applications that suppor... |
 | [thejano/areeba-payment-laravel](https://github.com/thejano/areeba-payment-laravel) | 4 | A Laravel package for Areeba payment gateway integration. |
-| [padosoft/laravel-ai-search-providers](https://github.com/padosoft/laravel-ai-search-providers) | 0 | A plug-and-play Laravel package that exposes a single contract over the modern A... |
-| [satheez/laravel-rate-limit-dashboard](https://github.com/satheez/laravel-rate-limit-dashboard) | 0 | Laravel package providing an intuitive dashboard for monitoring API rate limits.... |
-| [mikailfaruqali/localization](https://github.com/mikailfaruqali/localization) | 1 | A comprehensive Laravel package that provides an intuitive web interface for man... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-05-25 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-05-25 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [padosoft/laravel-ai-price-intelligence](https://github.com/padosoft/laravel-ai-price-intelligence) | 0 | 2026-05-25 | Enterprise Product Price Intelligence / Competitor Monitorin... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-05-25 | An event sourcing laravel package, complete with all the ess... |
-| [VictorMGomes/auto-translate](https://github.com/VictorMGomes/auto-translate) | 1 | 2026-05-25 | Auto translate package for Laravel applications |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-05-25 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-05-25 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-05-25 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [skywarth/chaotic-schedule](https://github.com/skywarth/chaotic-schedule) | 122 | 2026-05-25 | Randomize scheduled command execution time and date interval... |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-05-25 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [sunaoka/laravel-facade-generator](https://github.com/sunaoka/laravel-facade-generator) | 16 | 2026-05-25 | Facade generator for Laravel |
-| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-05-25 | Laravel OTP is a Laravel package that enables developers to ... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-25 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-25 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [toadfix/minishop](https://github.com/toadfix/minishop) | 0 | 2026-05-25 | Headless ecommerce Laravel package |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-25 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-05-24 | The flexible backbone for your next CMS. This powerful frame... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-24 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-24 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-24 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [ades4827/sprintflow](https://github.com/ades4827/sprintflow) | 1 | 2026-05-25 | Laravel Package for speed up your project development |
+| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-05-25 | A Laravel Package providing seamless integration for the wun... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-25 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-25 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-25 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-25 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-25 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-25 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-25 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-25 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-25 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-25 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-25 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-25 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-25 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-25 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-25 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-25 |  |
+| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-05-25 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
+| [DevSajjadAli/laravel](https://github.com/DevSajjadAli/laravel) | 0 | 2026-05-25 | Official Laravel package for Genvoris Virtual Try-On |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-25T07:35 | 3 | 1733 | 4277 |
 | 2026-05-25T00:43 | 1 | 1736 | 4274 |
 | 2026-05-24T18:23 | 2 | 1735 | 4273 |
 | 2026-05-24T12:25 | 3 | 1723 | 4271 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-23T12:21 | 2 | 1726 | 4249 |
 | 2026-05-23T06:56 | 0 | 1728 | 4247 |
 | 2026-05-23T00:41 | 2 | 1726 | 4247 |
-| 2026-05-22T18:37 | 5 | 1723 | 4245 |
 
 ---
 

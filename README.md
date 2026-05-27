@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4314  
-**Last updated:** 2026-05-27T13:11:16.099Z
+**Total packages tracked:** 4320  
+**Last updated:** 2026-05-27T18:48:26.929Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | The official reference theme for Bagisto Visual — lightweight, responsive, and f... |
+| [mtownsend5512/collection-xml](https://github.com/mtownsend5512/collection-xml) | 44 | The missing XML support for Laravel's Collection class. |
+| [mykemeynell/laravel-decorators](https://github.com/mykemeynell/laravel-decorators) | 0 | A Laravel package that brings Python and TypeScript-style method decorators to P... |
+| [devappsteam/laravel-modules-kit](https://github.com/devappsteam/laravel-modules-kit) | 0 | Reusable Laravel package for generating and loading application modules with API... |
+| [Pest-Register/phpaccounting-myobaccountrightlive](https://github.com/Pest-Register/phpaccounting-myobaccountrightlive) | 0 | MYOB AccountRight Live Package for Laravel Accounting Sync (Pest Register) |
+| [mtorres-lechuganegra/package-settingmanager](https://github.com/mtorres-lechuganegra/package-settingmanager) | 0 | Este paquete de Laravel proporciona un comando para creación de variables de con... |
 | [adelinferaru/nestedflowtracker](https://github.com/adelinferaru/nestedflowtracker) | 0 | Laravel package that helps tracking nested execution flows. |
 | [wazzac/laravel-translate](https://github.com/wazzac/laravel-translate) | 4 | The Laravel Auto-Translation Package enables seamless multilingual support by al... |
 | [Rahman-Shaikat/laravel-imageresize](https://github.com/Rahman-Shaikat/laravel-imageresize) | 0 | A Laravel package to upload and resize images easily with automatic aspect ratio... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ComfyCodersBV/laravel-vue-crud-builder](https://github.com/ComfyCodersBV/laravel-vue-crud-builder) | 0 |  A VueJS/Inertia CRUD Builder package for Laravel  |
 | [ikarolaborda/heartbeat](https://github.com/ikarolaborda/heartbeat) | 0 | Personal health & fitness tracker (Laravel 13 + Livewire/Volt) with an AI coach ... |
 | [agatanga/relay](https://github.com/agatanga/relay) | 11 | A better way to create and manage complex batch job queues in Laravel |
-| [agatanga/flags](https://github.com/agatanga/flags) | 7 | Country flags in SVG format for Laravel application. |
-| [josmarh/jvzoo-ipn](https://github.com/josmarh/jvzoo-ipn) | 0 | JVZoo IPN integration laravel package |
-| [josuapsianturi/velflix](https://github.com/josuapsianturi/velflix) | 137 | Velflix is a Laravel Netflix clone project using the TALL stack |
-| [RenderbitTechnologies/laravel-whatsapp](https://github.com/RenderbitTechnologies/laravel-whatsapp) | 0 | Framework-agnostic PHP library for sending WhatsApp messages via Renderbit, with... |
-| [RajeshKumarGuptaRock/laravelFilamentPackage](https://github.com/RajeshKumarGuptaRock/laravelFilamentPackage) | 0 |  |
-| [scabarcas17/laravel-config-explorer](https://github.com/scabarcas17/laravel-config-explorer) | 2 | phpinfo() for Laravel — a searchable, dev-only browser for the merged config() t... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [adelinferaru/nestedflowtracker](https://github.com/adelinferaru/nestedflowtracker) | 0 | 2026-05-27 | Laravel package that helps tracking nested execution flows. |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-27 | The Moox Project - Packages for Filament and Laravel |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-05-27 | ShieldCI Laravel Package - Open-source code quality analysis... |
+| [cosmicspork/laravel-rag-chat](https://github.com/cosmicspork/laravel-rag-chat) | 0 | 2026-05-27 | Laravel 12 RAG chat widget with SAML SSO and a pluggable RAG... |
 | [ikarolaborda/heartbeat](https://github.com/ikarolaborda/heartbeat) | 0 | 2026-05-27 | Personal health & fitness tracker (Laravel 13 + Livewire/Vol... |
-| [cjmellor/approval](https://github.com/cjmellor/approval) | 367 | 2026-05-27 | Approve new Model data before it is persisted |
-| [mozex/laravel-modules](https://github.com/mozex/laravel-modules) | 4 | 2026-05-27 | Laravel package that auto-discovers and registers module ass... |
-| [jeffersongoncalves/nativekitv4](https://github.com/jeffersongoncalves/nativekitv4) | 3 | 2026-05-27 | NativeKit starter kit built on Laravel 12.x, Filament 4.x an... |
-| [bardh78/laravel-wisra](https://github.com/bardh78/laravel-wisra) | 0 | 2026-05-27 | Laravel package that injects HTML comments with Blade view f... |
-| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 119 | 2026-05-27 | HTTP Idempotency Middleware for Laravel applications |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-05-27 | Main Webampp laravel package for GEOBOX 2.0 |
-| [xchimx/Laravel-Filament-CRM-CMS](https://github.com/xchimx/Laravel-Filament-CRM-CMS) | 2 | 2026-05-27 | This is a customer relationship management / content managem... |
-| [wazzac/laravel-translate](https://github.com/wazzac/laravel-translate) | 4 | 2026-05-27 | The Laravel Auto-Translation Package enables seamless multil... |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-05-27 | A developer-friendly package for creating advanced Wordpress... |
-| [wayofdev/laravel-symfony-serializer](https://github.com/wayofdev/laravel-symfony-serializer) | 21 | 2026-05-27 | 🔧 Laravel + Symfony Serializer. This package provides a bri... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-27 | Build reusable Filament dashboard widgets for Laravel, inclu... |
 | [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 120 | 2026-05-27 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
-| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 1 | 2026-05-27 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
-| [MyParcelCOM/resource-cleanup](https://github.com/MyParcelCOM/resource-cleanup) | 0 | 2026-05-27 | A Laravel package to permanently delete soft-deleted or expi... |
-| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-05-27 | The Laravel Quick Start package covers the basics of connect... |
-| [rakhavirgiandi/laravel-apigator](https://github.com/rakhavirgiandi/laravel-apigator) | 0 | 2026-05-27 | Laravel package to auto-generate CRUD API (Controller, Model... |
-| [typicms/core](https://github.com/typicms/core) | 7 | 2026-05-27 | The core package of TypiCMS, containing the base architectur... |
-| [defstudio/wired-tables](https://github.com/defstudio/wired-tables) | 2 | 2026-05-27 | Laravel Livewire Datatables |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-27 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-27 | Track and display Matomo analytics data directly within Lara... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-27 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-27 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-27 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-27 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-27 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-27 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-27 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [osoobe/dimepay-laravel-sdk](https://github.com/osoobe/dimepay-laravel-sdk) | 0 | 2026-05-27 | Reusable Laravel SDK package for DimePay API integration |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-27 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-27 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 247 | 2026-05-27 | A Laravel package to detect and block disposable email addre... |
+| [ArtisanPack-UI/forms](https://github.com/ArtisanPack-UI/forms) | 0 | 2026-05-27 | A comprehensive form builder and management package for Lara... |
+| [mykemeynell/laravel-decorators](https://github.com/mykemeynell/laravel-decorators) | 0 | 2026-05-27 | A Laravel package that brings Python and TypeScript-style me... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-27T18:48 | 6 | 1723 | 4320 |
 | 2026-05-27T13:11 | 3 | 1725 | 4314 |
 | 2026-05-27T07:28 | 4 | 1725 | 4311 |
 | 2026-05-27T00:43 | 3 | 1726 | 4307 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-26T00:42 | 3 | 1732 | 4295 |
 | 2026-05-25T18:35 | 12 | 1724 | 4292 |
 | 2026-05-25T13:10 | 3 | 1734 | 4280 |
-| 2026-05-25T07:35 | 3 | 1733 | 4277 |
 
 ---
 

@@ -2,15 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4311  
-**Last updated:** 2026-05-27T07:28:24.989Z
+**Total packages tracked:** 4314  
+**Last updated:** 2026-05-27T13:11:16.099Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [adelinferaru/nestedflowtracker](https://github.com/adelinferaru/nestedflowtracker) | 0 | Laravel package that helps tracking nested execution flows. |
+| [wazzac/laravel-translate](https://github.com/wazzac/laravel-translate) | 4 | The Laravel Auto-Translation Package enables seamless multilingual support by al... |
+| [Rahman-Shaikat/laravel-imageresize](https://github.com/Rahman-Shaikat/laravel-imageresize) | 0 | A Laravel package to upload and resize images easily with automatic aspect ratio... |
 | [emberrenewed/Ai-error-Laravel](https://github.com/emberrenewed/Ai-error-Laravel) | 0 | AI-powered error analyzer for Laravel 13 with multi-provider AI (OpenAI, Gemini,... |
-| [harris21/laravel-aegis](https://github.com/harris21/laravel-aegis) | 14 | Aegis for Laravel — scaffolding and validation helpers for Value Objects. |
+| [harris21/laravel-aegis](https://github.com/harris21/laravel-aegis) | 15 | Aegis for Laravel — scaffolding and validation helpers for Value Objects. |
 | [albawebstudio/petfinder-api](https://github.com/albawebstudio/petfinder-api) | 0 | PHP/Laravel Petfinder API package |
 | [AonoDevs/laravel-cloudinary-upload](https://github.com/AonoDevs/laravel-cloudinary-upload) | 1 | Package to upload images and videos on cloudinary and save their url into model'... |
 | [innoaya/mojura-laravel-starter](https://github.com/innoaya/mojura-laravel-starter) | 14 | Starter Kit for Laravel 11 using mojura architecture and package |
@@ -25,10 +28,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [josuapsianturi/velflix](https://github.com/josuapsianturi/velflix) | 137 | Velflix is a Laravel Netflix clone project using the TALL stack |
 | [RenderbitTechnologies/laravel-whatsapp](https://github.com/RenderbitTechnologies/laravel-whatsapp) | 0 | Framework-agnostic PHP library for sending WhatsApp messages via Renderbit, with... |
 | [RajeshKumarGuptaRock/laravelFilamentPackage](https://github.com/RajeshKumarGuptaRock/laravelFilamentPackage) | 0 |  |
-| [scabarcas17/laravel-config-explorer](https://github.com/scabarcas17/laravel-config-explorer) | 1 | phpinfo() for Laravel — a searchable, dev-only browser for the merged config() t... |
-| [webrek/laravel-telescope-mongodb](https://github.com/webrek/laravel-telescope-mongodb) | 0 | Native MongoDB storage driver for Laravel Telescope |
-| [jebauza/softelebyte-synchronize](https://github.com/jebauza/softelebyte-synchronize) | 0 | Unified Laravel package for ETL data synchronization — includes query builder, r... |
-| [Kh125/movies-api](https://github.com/Kh125/movies-api) | 0 | movie_for_u |
+| [scabarcas17/laravel-config-explorer](https://github.com/scabarcas17/laravel-config-explorer) | 2 | phpinfo() for Laravel — a searchable, dev-only browser for the merged config() t... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cybex-gmbh/laravel-protector](https://github.com/cybex-gmbh/laravel-protector) | 5 | 2026-05-27 | Laravel package to provide and receive database dumps in a s... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 30 | 2026-05-27 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [AonoDevs/laravel-cloudinary-upload](https://github.com/AonoDevs/laravel-cloudinary-upload) | 1 | 2026-05-27 | Package to upload images and videos on cloudinary and save t... |
-| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | 2026-05-27 | A VueJS/Inertia TableBuilder package for Laravel |
-| [promptphp/deck](https://github.com/promptphp/deck) | 92 | 2026-05-27 | A Laravel package for versioned AI prompt management with va... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-05-27 | An event sourcing laravel package, complete with all the ess... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-27 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [rxcod9/joy-voyager-api-laravel-demo](https://github.com/rxcod9/joy-voyager-api-laravel-demo) | 5 | 2026-05-27 | Joy VoyagerApi Laravel Demo shows integration of Joy Voyager... |
-| [laravel/roster](https://github.com/laravel/roster) | 155 | 2026-05-27 | Detect packages & approaches in use within a Laravel project |
-| [EscolaLMS/API](https://github.com/EscolaLMS/API) | 17 | 2026-05-27 | Laravel REST API. Main module that compose all Laravel packa... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-27 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-27 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-27 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-27 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-27 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-27 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-27 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-27 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-27 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-27 | Generate GitHub repository statistics and insights directly ... |
+| [adelinferaru/nestedflowtracker](https://github.com/adelinferaru/nestedflowtracker) | 0 | 2026-05-27 | Laravel package that helps tracking nested execution flows. |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-05-27 | The Moox Project - Packages for Filament and Laravel |
+| [ikarolaborda/heartbeat](https://github.com/ikarolaborda/heartbeat) | 0 | 2026-05-27 | Personal health & fitness tracker (Laravel 13 + Livewire/Vol... |
+| [cjmellor/approval](https://github.com/cjmellor/approval) | 367 | 2026-05-27 | Approve new Model data before it is persisted |
+| [mozex/laravel-modules](https://github.com/mozex/laravel-modules) | 4 | 2026-05-27 | Laravel package that auto-discovers and registers module ass... |
+| [jeffersongoncalves/nativekitv4](https://github.com/jeffersongoncalves/nativekitv4) | 3 | 2026-05-27 | NativeKit starter kit built on Laravel 12.x, Filament 4.x an... |
+| [bardh78/laravel-wisra](https://github.com/bardh78/laravel-wisra) | 0 | 2026-05-27 | Laravel package that injects HTML comments with Blade view f... |
+| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 119 | 2026-05-27 | HTTP Idempotency Middleware for Laravel applications |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-05-27 | Main Webampp laravel package for GEOBOX 2.0 |
+| [xchimx/Laravel-Filament-CRM-CMS](https://github.com/xchimx/Laravel-Filament-CRM-CMS) | 2 | 2026-05-27 | This is a customer relationship management / content managem... |
+| [wazzac/laravel-translate](https://github.com/wazzac/laravel-translate) | 4 | 2026-05-27 | The Laravel Auto-Translation Package enables seamless multil... |
+| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-05-27 | A developer-friendly package for creating advanced Wordpress... |
+| [wayofdev/laravel-symfony-serializer](https://github.com/wayofdev/laravel-symfony-serializer) | 21 | 2026-05-27 | 🔧 Laravel + Symfony Serializer. This package provides a bri... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 120 | 2026-05-27 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
+| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 1 | 2026-05-27 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
+| [MyParcelCOM/resource-cleanup](https://github.com/MyParcelCOM/resource-cleanup) | 0 | 2026-05-27 | A Laravel package to permanently delete soft-deleted or expi... |
+| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-05-27 | The Laravel Quick Start package covers the basics of connect... |
+| [rakhavirgiandi/laravel-apigator](https://github.com/rakhavirgiandi/laravel-apigator) | 0 | 2026-05-27 | Laravel package to auto-generate CRUD API (Controller, Model... |
+| [typicms/core](https://github.com/typicms/core) | 7 | 2026-05-27 | The core package of TypiCMS, containing the base architectur... |
+| [defstudio/wired-tables](https://github.com/defstudio/wired-tables) | 2 | 2026-05-27 | Laravel Livewire Datatables |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-27T13:11 | 3 | 1725 | 4314 |
 | 2026-05-27T07:28 | 4 | 1725 | 4311 |
 | 2026-05-27T00:43 | 3 | 1726 | 4307 |
 | 2026-05-26T18:49 | 2 | 1729 | 4304 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-25T18:35 | 12 | 1724 | 4292 |
 | 2026-05-25T13:10 | 3 | 1734 | 4280 |
 | 2026-05-25T07:35 | 3 | 1733 | 4277 |
-| 2026-05-25T00:43 | 1 | 1736 | 4274 |
 
 ---
 

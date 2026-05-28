@@ -526,5 +526,28 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-05-18T13:15:28.230Z",
     "archive_reason": "Stale: not seen in search results and last pushed 927 days ago"
+  },
+  "elfassimohamed/admin-panel": {
+    "name": "ELfassiMohamed/Admin-Panel",
+    "url": "https://github.com/ELfassiMohamed/Admin-Panel",
+    "description": "This project is a user-friendly admin panel for an employee management application. It’s built using Laravel and Filament components",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "filament-form",
+      "filament-plugin",
+      "filamentadmin",
+      "filamentphp",
+      "laravel",
+      "laravel-framework"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2023-10-16T16:10:37Z",
+    "updated_at": "2026-03-15T20:42:22Z",
+    "pushed_at": "2024-01-23T13:43:57Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-05-28T13:15:24.934Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 855 days ago"
   }
 }

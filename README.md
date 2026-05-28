@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4321  
-**Last updated:** 2026-05-28T00:39:37.409Z
+**Total packages tracked:** 4324  
+**Last updated:** 2026-05-28T07:22:04.853Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ZanichelliEditore/health-check](https://github.com/ZanichelliEditore/health-check) | 4 | This Laravel package can be used to add an healthcheck route on your projects in... |
+| [damms005/laravel-flutterwave](https://github.com/damms005/laravel-flutterwave) | 3 | A Laravel package that makes it easy to use Flutterwave APIs |
+| [damms005/laravel-activitylog-ui](https://github.com/damms005/laravel-activitylog-ui) | 6 | A Voyager-powered UI for the spatie/laravel-activitylog package that we all love... |
 | [HandRolled/transvel](https://github.com/HandRolled/transvel) | 0 | Laravel Package for automatic translation using Google API  |
 | [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | The official reference theme for Bagisto Visual — lightweight, responsive, and f... |
 | [mtownsend5512/collection-xml](https://github.com/mtownsend5512/collection-xml) | 44 | The missing XML support for Laravel's Collection class. |
@@ -20,22 +23,19 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [wazzac/laravel-translate](https://github.com/wazzac/laravel-translate) | 4 | The Laravel Auto-Translation Package enables seamless multilingual support by al... |
 | [Rahman-Shaikat/laravel-imageresize](https://github.com/Rahman-Shaikat/laravel-imageresize) | 0 | A Laravel package to upload and resize images easily with automatic aspect ratio... |
 | [emberrenewed/Ai-error-Laravel](https://github.com/emberrenewed/Ai-error-Laravel) | 0 | AI-powered error analyzer for Laravel 13 with multi-provider AI (OpenAI, Gemini,... |
-| [harris21/laravel-aegis](https://github.com/harris21/laravel-aegis) | 18 | Aegis for Laravel — scaffolding and validation helpers for Value Objects. |
+| [harris21/laravel-aegis](https://github.com/harris21/laravel-aegis) | 19 | Aegis for Laravel — scaffolding and validation helpers for Value Objects. |
 | [albawebstudio/petfinder-api](https://github.com/albawebstudio/petfinder-api) | 0 | PHP/Laravel Petfinder API package |
 | [AonoDevs/laravel-cloudinary-upload](https://github.com/AonoDevs/laravel-cloudinary-upload) | 1 | Package to upload images and videos on cloudinary and save their url into model'... |
 | [innoaya/mojura-laravel-starter](https://github.com/innoaya/mojura-laravel-starter) | 14 | Starter Kit for Laravel 11 using mojura architecture and package |
 | [gogh-idawoodjee/shortcode](https://github.com/gogh-idawoodjee/shortcode) | 0 | Encode integers and UUIDs to short, URL-safe Base62 strings and back. A lightwei... |
 | [sertxudeveloper/laravel-pagination](https://github.com/sertxudeveloper/laravel-pagination) | 0 | Package for overriding Laravel's default pagination |
-| [jdiassdev/laravel-types-gen](https://github.com/jdiassdev/laravel-types-gen) | 0 | Generate TypeScript interfaces from Laravel FormRequests and API Resources |
-| [ComfyCodersBV/laravel-vue-crud-builder](https://github.com/ComfyCodersBV/laravel-vue-crud-builder) | 0 |  A VueJS/Inertia CRUD Builder package for Laravel  |
-| [ikarolaborda/heartbeat](https://github.com/ikarolaborda/heartbeat) | 0 | Personal health & fitness tracker (Laravel 13 + Livewire/Volt) with an AI coach ... |
 
 ## 🌟 Top Starred (Under 500)
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
-| [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 497 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
+| [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 498 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [developermithu/tallcraftui](https://github.com/developermithu/tallcraftui) | 166 | 2026-05-28 | TallCraftUI is a Laravel blade UI components library built o... |
-| [barsch123/activity](https://github.com/barsch123/activity) | 5 | 2026-05-28 | Logger is a lightweight, opinionated activity logging packag... |
-| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 8 | 2026-05-28 | Complete gamification package with optional UI |
-| [yahongie2014/MaarfTask](https://github.com/yahongie2014/MaarfTask) | 0 | 2026-05-28 |  |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-05-28 | Empower your users with a modern, intuitive visual editor. T... |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-05-28 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 394 | 2026-05-28 | Open Source Laravel CRM Package |
-| [jooservices/laravel-repository](https://github.com/jooservices/laravel-repository) | 0 | 2026-05-28 | PHP 8.5+ Laravel repository package for trait-based CRUD, fi... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-05-28 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-05-28 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [snoeren-development/laravel-admin-users](https://github.com/snoeren-development/laravel-admin-users) | 2 | 2026-05-28 | Define and check for admin users in your application! |
+| [Power-Components/powergrid-demo](https://github.com/Power-Components/powergrid-demo) | 61 | 2026-05-28 | 🌎 Live Demo with ⚡ PowerGrid  examples |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 120 | 2026-05-28 | AWS Cognito package (with MFA Feature) using the AWS SDK for... |
+| [EscolaLMS/API](https://github.com/EscolaLMS/API) | 17 | 2026-05-28 | Laravel REST API. Main module that compose all Laravel packa... |
+| [snoeren-development/laravel-discord-webhook-channel](https://github.com/snoeren-development/laravel-discord-webhook-channel) | 15 | 2026-05-28 | Send notifications to a Discord webhook. |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-05-28 | An event sourcing laravel package, complete with all the ess... |
+| [ZanichelliEditore/health-check](https://github.com/ZanichelliEditore/health-check) | 4 | 2026-05-28 | This Laravel package can be used to add an healthcheck route... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-28 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [lfv-greven/lfv-intranet](https://github.com/lfv-greven/lfv-intranet) | 0 | 2026-05-28 | LfV Intranet is the internal platform of Luftfahrtvereinigun... |
-| [leek/laravel-vendor-cleanup](https://github.com/leek/laravel-vendor-cleanup) | 70 | 2026-05-28 | Detect and clean up unchanged vendor-published files in your... |
-| [daudmabena/Vendite-Maestria](https://github.com/daudmabena/Vendite-Maestria) | 0 | 2026-05-28 | Vendite & Maestria is a Laravel e-commerce codebase organize... |
-| [tzsk/payu](https://github.com/tzsk/payu) | 47 | 2026-05-28 | Payu Laravel Payment Gateway with Payment Verification Packa... |
-| [42dx/whatsapp-laravel-sdk](https://github.com/42dx/whatsapp-laravel-sdk) | 1 | 2026-05-28 | A laravel package that abstracts all the whatsapp api integr... |
-| [codebar-ag/laravel-microsoft-entra-sso](https://github.com/codebar-ag/laravel-microsoft-entra-sso) | 0 | 2026-05-28 |  |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 44 | 2026-05-28 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [yahongie2014/LMS-Task](https://github.com/yahongie2014/LMS-Task) | 0 | 2026-05-28 | core foundation of a scalable Mini-LMS |
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 144 | 2026-05-28 | A Laravel package that provides a Cookies consent floating w... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-28 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-28 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-28 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-28 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-28 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-28 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-28 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-28 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-28 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-28 | Generate GitHub repository statistics and insights directly ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-28T07:22 | 3 | 1726 | 4324 |
 | 2026-05-28T00:39 | 1 | 1726 | 4321 |
 | 2026-05-27T18:48 | 6 | 1723 | 4320 |
 | 2026-05-27T13:11 | 3 | 1725 | 4314 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-26T13:00 | 4 | 1729 | 4302 |
 | 2026-05-26T07:14 | 3 | 1732 | 4298 |
 | 2026-05-26T00:42 | 3 | 1732 | 4295 |
-| 2026-05-25T18:35 | 12 | 1724 | 4292 |
 
 ---
 

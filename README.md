@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4347  
-**Last updated:** 2026-05-29T07:22:05.051Z
+**Total packages tracked:** 4349  
+**Last updated:** 2026-05-29T13:06:58.233Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jegex/laravel-priceable](https://github.com/jegex/laravel-priceable) | 0 | Laravel package for multi-currency price management. Easily support fiat and cry... |
+| [getdebugcat/laravel](https://github.com/getdebugcat/laravel) | 0 | Laravel package for DebugCat |
 | [FabianOkky/splitbill](https://github.com/FabianOkky/splitbill) | 0 | Bill-splitting web app for Indonesian groups: Laravel + Livewire + Python OCR. M... |
 | [pphatdev/laravel-otp](https://github.com/pphatdev/laravel-otp) | 7 | OTP Package for Laravel using class based system.  |
 | [firevel/api](https://github.com/firevel/api) | 0 | A Laravel package offering base classes for efficient RESTful API development. |
@@ -25,10 +27,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [laymont/container-repair-cedex](https://github.com/laymont/container-repair-cedex) | 0 | Laravel package for ISO 9897 (CEDEX) container repair management with DDD archit... |
 | [nightworksio/beatrax](https://github.com/nightworksio/beatrax) | 0 | Local-first personal finance dashboard that resolves cross-account routing chain... |
 | [hyperlinkgroup/laravel-created-by](https://github.com/hyperlinkgroup/laravel-created-by) | 2 | Annoyed by writing the created by foreign user id for every model? Use our bluep... |
-| [WendellAdriel/laravel-expressive](https://github.com/WendellAdriel/laravel-expressive) | 16 | Typed Objects for Eloquent |
+| [WendellAdriel/laravel-expressive](https://github.com/WendellAdriel/laravel-expressive) | 20 | Typed Objects for Eloquent |
 | [curder/filament-rich-editor-source-code](https://github.com/curder/filament-rich-editor-source-code) | 0 | Allow Filament 4.x or 5.x View and edit the source code of the rich text editor ... |
-| [avto-dev/rabbitmq-api-client](https://github.com/avto-dev/rabbitmq-api-client) | 0 | RabbitMQ API client |
-| [nilanjan-k/tempmailblocker](https://github.com/nilanjan-k/tempmailblocker) | 0 | A Laravel package to detect and block disposable/temporary email addresses durin... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-29 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-29 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-29 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-29 |  |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-05-29 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 1 | 2026-05-29 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-05-29 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-05-29 | 📈 Access real-time cryptocurrency data easily with this PHP... |
-| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-05-29 | ⚡ Enhance Laravel applications with async caching, improving... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-05-29 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [snb4crazy/notifyhub-laravel](https://github.com/snb4crazy/notifyhub-laravel) | 0 | 2026-05-29 | Laravel client package for sending events to a NotifyHub ser... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-05-29 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-05-29 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-05-29 |  |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-05-29 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-05-29 | Resrv is a booking engine for Statamic. |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-05-29 | A practical work management information system built with La... |
+| [eramitgupta/laravel-lang-sync-inertia](https://github.com/eramitgupta/laravel-lang-sync-inertia) | 46 | 2026-05-29 | Laravel package for syncing translations with Inertia.js in ... |
 | [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-05-29 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [SanderMuller/package-boost-laravel](https://github.com/SanderMuller/package-boost-laravel) | 1 | 2026-05-29 | AI agent skills for Laravel package authors. Adds Laravel sk... |
 | [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-05-29 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
 | [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-05-29 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-05-29 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 211 | 2026-05-29 | Laravel SmartCache - Optimize Caching for Large Data |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 1 | 2026-05-29 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-05-29 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-05-29 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-05-29 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-05-29 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-05-29 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 14 | 2026-05-29 | Resrv is a booking engine for Statamic. |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-05-29 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-05-29 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-05-29 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-05-29 | Laravel Package to access AI CAD |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-05-29 | ✨ Build robust Laravel applications with the Filament Starte... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-29T13:06 | 2 | 1729 | 4349 |
 | 2026-05-29T07:22 | 4 | 1727 | 4347 |
 | 2026-05-29T00:46 | 5 | 1726 | 4343 |
 | 2026-05-28T18:53 | 5 | 1724 | 4338 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-27T18:48 | 6 | 1723 | 4320 |
 | 2026-05-27T13:11 | 3 | 1725 | 4314 |
 | 2026-05-27T07:28 | 4 | 1725 | 4311 |
-| 2026-05-27T00:43 | 3 | 1726 | 4307 |
 
 ---
 

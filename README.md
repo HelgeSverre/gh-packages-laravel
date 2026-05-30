@@ -2,14 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4358  
-**Last updated:** 2026-05-30T12:27:00.245Z
+**Total packages tracked:** 4362  
+**Last updated:** 2026-05-30T18:24:49.063Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [b7s/fluentvision](https://github.com/b7s/fluentvision) | 0 | FluentVision is a fluent API package, that provides a unified interface to two o... |
+| [chrisjohnleah/sage-business-cloud-accounting-api-laravel](https://github.com/chrisjohnleah/sage-business-cloud-accounting-api-laravel) | 0 | Laravel bridge for the Sage Business Cloud Accounting API SDK — facade, Eloquent... |
+| [CROKMOLE/student-enrollment-server-side](https://github.com/CROKMOLE/student-enrollment-server-side) | 0 | Package for Filament 3 and Laravel 12 that is a backend part of the enrollment t... |
+| [premmohantyagi/google-charts-laravel](https://github.com/premmohantyagi/google-charts-laravel) | 0 | A Laravel package to easily create Google Charts using PHP, Blade components, co... |
+| [premmohantyagi/apihub-laravel](https://github.com/premmohantyagi/apihub-laravel) | 0 | ApiHub Laravel is a unified integration package for Laravel applications, provid... |
+| [b7s/fluentvision](https://github.com/b7s/fluentvision) | 1 | FluentVision is a fluent API package, that provides a unified interface to two o... |
 | [VernSG/nusa-filament](https://github.com/VernSG/nusa-filament) | 0 | Filament 4 components for Indonesian administrative region selects powered by la... |
 | [sadegh19b/laravel-iran-cities](https://github.com/sadegh19b/laravel-iran-cities) | 13 | A Laravel package for Iran provinces, counties and cities seeder and models. |
 | [WilberGroup/airdrop](https://github.com/WilberGroup/airdrop) | 197 | A Laravel package to speed up deployment by skipping asset compilation whenever ... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [FabianOkky/splitbill](https://github.com/FabianOkky/splitbill) | 0 | Bill-splitting web app for Indonesian groups: Laravel + Livewire + Python OCR. M... |
 | [pphatdev/laravel-otp](https://github.com/pphatdev/laravel-otp) | 7 | OTP Package for Laravel using class based system.  |
 | [firevel/api](https://github.com/firevel/api) | 0 | A Laravel package offering base classes for efficient RESTful API development. |
-| [snb4crazy/notifyhub-laravel](https://github.com/snb4crazy/notifyhub-laravel) | 0 | Laravel client package for sending events to a NotifyHub server |
-| [NikoAuso/100_GIORNI](https://github.com/NikoAuso/100_GIORNI) | 0 | Template Laravel 13 + Filament 5 white-label per la gestione dell'evento "100 Gi... |
-| [mtalavi/mini-cms](https://github.com/mtalavi/mini-cms) | 0 | A lightweight multilingual Laravel CMS with Filament, Livewire, Tailwind CSS, SQ... |
-| [skylence-be/filament-glass-theme](https://github.com/skylence-be/filament-glass-theme) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jegex/laravel-priceable](https://github.com/jegex/laravel-priceable) | 0 | 2026-05-30 | Laravel package for multi-currency price management. Easily ... |
-| [iranapporg2/laravel-package-tools](https://github.com/iranapporg2/laravel-package-tools) | 0 | 2026-05-30 |  |
-| [Laravel-Lang/config](https://github.com/Laravel-Lang/config) | 6 | 2026-05-30 | Config repository for Laravel-Lang packages |
-| [rastographer/igdownloader](https://github.com/rastographer/igdownloader) | 0 | 2026-05-30 | Igdownloader is a Laravel package for extracting Instagram m... |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 74 | 2026-05-30 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
-| [b7s/fluentvision](https://github.com/b7s/fluentvision) | 0 | 2026-05-30 | FluentVision is a fluent API package, that provides a unifie... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 395 | 2026-05-30 | Open Source Laravel CRM Package |
-| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 6 | 2026-05-30 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
-| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | 2026-05-30 | An opinionated Laravel package for handling payments, batter... |
-| [ovidiurosu90/laravel-package-myfinance2](https://github.com/ovidiurosu90/laravel-package-myfinance2) | 0 | 2026-05-30 | Laravel package for managing my finances |
+| [premmohantyagi/google-charts-laravel](https://github.com/premmohantyagi/google-charts-laravel) | 0 | 2026-05-30 | A Laravel package to easily create Google Charts using PHP, ... |
+| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-05-30 |  |
+| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-05-30 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
+| [mykemeynell/inkstone](https://github.com/mykemeynell/inkstone) | 0 | 2026-05-30 | Generate static documentation sites from Markdown for Larave... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-30 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [joe-nassar-tech/laravel-auth](https://github.com/joe-nassar-tech/laravel-auth) | 2 | 2026-05-30 | Drop-in authentication library for Laravel 13 — OTP + magic-... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-30 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-05-30 | Laravel package providing AI-powered search with Pagefind. D... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-30 | Track and display Matomo analytics data directly within Lara... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-30 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-30 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-30 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-30 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 | [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-30 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-30 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-30 | Build and manage help desk ticket systems with a Laravel 12 ... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-30 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-30 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-30 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [twdnhfr/deepagents-chat](https://github.com/twdnhfr/deepagents-chat) | 0 | 2026-05-30 | A Laravel demo chat app for the twdnhfr/laravel-deepagents p... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-30 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-30 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-30 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-30 | Enable Laravel apps to build AI agents using Claude Code for... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-30T18:24 | 4 | 1727 | 4362 |
 | 2026-05-30T12:27 | 1 | 1731 | 4358 |
 | 2026-05-30T07:02 | 2 | 1729 | 4357 |
 | 2026-05-30T00:42 | 1 | 1729 | 4356 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-29T00:46 | 5 | 1726 | 4343 |
 | 2026-05-28T18:53 | 5 | 1724 | 4338 |
 | 2026-05-28T13:15 | 10 | 1719 | 4333 |
-| 2026-05-28T07:22 | 3 | 1726 | 4324 |
 
 ---
 

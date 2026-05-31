@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 4368  
-**Last updated:** 2026-05-31T07:20:06.428Z
+**Last updated:** 2026-05-31T12:30:06.115Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-05-31 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-05-31 | A practical work management information system built with La... |
-| [arnautdev/filament-deploy-indicator](https://github.com/arnautdev/filament-deploy-indicator) | 1 | 2026-05-31 | Show application ENV and latest deployment info inside your ... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-05-31 | Laravel package providing AI-powered search with Pagefind. D... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-05-31 | Simple package for adding directives to show/hide content fr... |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-05-31 | Laravel package untuk data wilayah administratif Indonesia (... |
-| [Dictator90/laravel-seo](https://github.com/Dictator90/laravel-seo) | 0 | 2026-05-31 | Reusable Laravel SEO package |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-31 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 60 | 2026-05-31 |  |
+| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-05-31 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 133 | 2026-05-31 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-31 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-31 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-31 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-31 | Build and manage help desk ticket systems with a Laravel 12 ... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-31 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-31 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-31 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-31 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-31 | Build and manage help desk ticket systems with a Laravel 12 ... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-31 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-31 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-31 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-31 | Generate GitHub repository statistics and insights directly ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-31 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [stats4sd/laravel-shiny-loader](https://github.com/stats4sd/laravel-shiny-loader) | 0 | 2026-05-31 | A package that lets you embed an R Shiny app inside an ifram... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-31 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-31 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-05-31 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-05-31 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 1 | 2026-05-31 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-31T12:30 | 0 | 1732 | 4368 |
 | 2026-05-31T07:20 | 0 | 1732 | 4368 |
 | 2026-05-31T00:45 | 6 | 1725 | 4368 |
 | 2026-05-30T18:24 | 4 | 1727 | 4362 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-29T18:53 | 7 | 1723 | 4355 |
 | 2026-05-29T13:06 | 2 | 1729 | 4349 |
 | 2026-05-29T07:22 | 4 | 1727 | 4347 |
-| 2026-05-29T00:46 | 5 | 1726 | 4343 |
 
 ---
 

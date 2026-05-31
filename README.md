@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4362  
-**Last updated:** 2026-05-30T18:24:49.063Z
+**Total packages tracked:** 4368  
+**Last updated:** 2026-05-31T00:45:11.320Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Panajotc/Medical-Desk](https://github.com/Panajotc/Medical-Desk) | 0 | Laravel and Livewire medical test booking form with appointment scheduling, form... |
+| [jesscarlos/tmdb-laravel](https://github.com/jesscarlos/tmdb-laravel) | 0 | A lightweight TMDB API wrapper using Laravel's HTTP Client |
+| [cstea/factura-electronica](https://github.com/cstea/factura-electronica) | 0 | Native PHP 8.5 / Laravel package for Costa Rica factura electrónica v4.4: build ... |
+| [suprun-bohdan/laravel-ip-info](https://github.com/suprun-bohdan/laravel-ip-info) | 0 | Laravel package for IP detection, normalization, client IP resolution, geo looku... |
+| [cheema14/sso-package](https://github.com/cheema14/sso-package) | 0 | Generic Laravel package for token-based SSO with reusable token creation, valida... |
+| [abrouter/laravel-abtest](https://github.com/abrouter/laravel-abtest) | 108 | ABRouter Laravel AB test is a simple package for the base library to run ab-test... |
 | [chrisjohnleah/sage-business-cloud-accounting-api-laravel](https://github.com/chrisjohnleah/sage-business-cloud-accounting-api-laravel) | 0 | Laravel bridge for the Sage Business Cloud Accounting API SDK — facade, Eloquent... |
 | [CROKMOLE/student-enrollment-server-side](https://github.com/CROKMOLE/student-enrollment-server-side) | 0 | Package for Filament 3 and Laravel 12 that is a backend part of the enrollment t... |
 | [premmohantyagi/google-charts-laravel](https://github.com/premmohantyagi/google-charts-laravel) | 0 | A Laravel package to easily create Google Charts using PHP, Blade components, co... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [SubhanRaj/laravel-db-provisioner](https://github.com/SubhanRaj/laravel-db-provisioner) | 0 | A Laravel package that automates local database and user creation for new projec... |
 | [sabbajohn/pulse-laravel-ui](https://github.com/sabbajohn/pulse-laravel-ui) | 0 | Optional Inertia/Vue UI package for VoraPulse Laravel integrations. |
 | [HopekellDev/laravel-payvessel](https://github.com/HopekellDev/laravel-payvessel) | 0 | A Laravel package for interacting with Payvessel API |
-| [twdnhfr/deepagents-chat](https://github.com/twdnhfr/deepagents-chat) | 0 | A Laravel demo chat app for the twdnhfr/laravel-deepagents package: tools, human... |
-| [jegex/laravel-priceable](https://github.com/jegex/laravel-priceable) | 0 | Laravel package for multi-currency price management. Easily support fiat and cry... |
-| [getdebugcat/laravel](https://github.com/getdebugcat/laravel) | 0 | Laravel package for DebugCat |
-| [FabianOkky/splitbill](https://github.com/FabianOkky/splitbill) | 0 | Bill-splitting web app for Indonesian groups: Laravel + Livewire + Python OCR. M... |
-| [pphatdev/laravel-otp](https://github.com/pphatdev/laravel-otp) | 7 | OTP Package for Laravel using class based system.  |
-| [firevel/api](https://github.com/firevel/api) | 0 | A Laravel package offering base classes for efficient RESTful API development. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [premmohantyagi/google-charts-laravel](https://github.com/premmohantyagi/google-charts-laravel) | 0 | 2026-05-30 | A Laravel package to easily create Google Charts using PHP, ... |
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-05-30 |  |
-| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-05-30 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
-| [mykemeynell/inkstone](https://github.com/mykemeynell/inkstone) | 0 | 2026-05-30 | Generate static documentation sites from Markdown for Larave... |
+| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 143 | 2026-05-31 | Accounting application written in Laravel 12 / PHP 8.5 using... |
+| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 177 | 2026-05-31 | Full genealogy and family tree building application using La... |
+| [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) | 148 | 2026-05-31 | Commentions is a drop-in package for Filament that allows yo... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-05-31 | A Laravel-based web application that tracks, analyzes, and p... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-05-31 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 395 | 2026-05-31 | Open Source Laravel CRM Package |
+| [cstea/factura-electronica](https://github.com/cstea/factura-electronica) | 0 | 2026-05-31 | Native PHP 8.5 / Laravel package for Costa Rica factura elec... |
+| [suprun-bohdan/laravel-ip-info](https://github.com/suprun-bohdan/laravel-ip-info) | 0 | 2026-05-31 | Laravel package for IP detection, normalization, client IP r... |
+| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-05-31 |  |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-05-30 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-05-30 | Laravel package providing AI-powered search with Pagefind. D... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-30 | Track and display Matomo analytics data directly within Lara... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-05-30 | Empower your users with a modern, intuitive visual editor. T... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-05-30 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-30 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-30 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-30 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-05-30 | Track and display Matomo analytics data directly within Lara... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-05-30 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-05-30 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-05-30 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-05-30 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-05-30 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-05-30 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-05-30 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [twdnhfr/deepagents-chat](https://github.com/twdnhfr/deepagents-chat) | 0 | 2026-05-30 | A Laravel demo chat app for the twdnhfr/laravel-deepagents p... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-05-30 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 0 | 2026-05-30 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-05-30 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-05-30 | Enable Laravel apps to build AI agents using Claude Code for... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-05-31T00:45 | 6 | 1725 | 4368 |
 | 2026-05-30T18:24 | 4 | 1727 | 4362 |
 | 2026-05-30T12:27 | 1 | 1731 | 4358 |
 | 2026-05-30T07:02 | 2 | 1729 | 4357 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-05-29T07:22 | 4 | 1727 | 4347 |
 | 2026-05-29T00:46 | 5 | 1726 | 4343 |
 | 2026-05-28T18:53 | 5 | 1724 | 4338 |
-| 2026-05-28T13:15 | 10 | 1719 | 4333 |
 
 ---
 

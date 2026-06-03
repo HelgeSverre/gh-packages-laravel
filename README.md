@@ -2,13 +2,25 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4407  
-**Last updated:** 2026-06-03T07:43:38.867Z
+**Total packages tracked:** 4419  
+**Last updated:** 2026-06-03T13:39:12.882Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [techrays-labs/laravel-debt-tracker](https://github.com/techrays-labs/laravel-debt-tracker) | 3 | Scan, score, and report technical debt in your Laravel application — from the CL... |
+| [m-hidayatullahh/laravel-api-kit](https://github.com/m-hidayatullahh/laravel-api-kit) | 0 | laravel-api-kit |
+| [Genius-Groupsgit/geniuspay-laravel](https://github.com/Genius-Groupsgit/geniuspay-laravel) | 0 | ⚡ Package Laravel pour intégrer facilement les paiements GeniusPay avec support ... |
+| [PicoBaz/jalaliflow](https://github.com/PicoBaz/jalaliflow) | 16 | JalaliFlow: A robust Laravel package for Persian (Jalali) calendar operations. S... |
+| [binafy/laravel-discount](https://github.com/binafy/laravel-discount) | 20 | The Laravel-Discount is a Laravel package designed to handle discounts in your a... |
+| [sneakylenny/laravel-sourced-attributes](https://github.com/sneakylenny/laravel-sourced-attributes) | 0 | A Laravel package that allows you override model attributes without updating the... |
+| [m2collective/laravel-package-kit](https://github.com/m2collective/laravel-package-kit) | 0 |  |
+| [padosoft/laravel-rebel-auth](https://github.com/padosoft/laravel-rebel-auth) | 0 | Meta-package for the padosoft/laravel-rebel-* enterprise authentication control ... |
+| [padosoft/laravel-rebel-demo](https://github.com/padosoft/laravel-rebel-demo) | 0 | demo app for laravel rebel packages suite |
+| [axazara/bankai](https://github.com/axazara/bankai) | 6 | A Laravel Envoy deployment package for streamlined and consistent deployment pro... |
+| [Shaykhnazar/hikvision-isapi](https://github.com/Shaykhnazar/hikvision-isapi) | 14 | This is a Laravel package for integrating with Hikvision ISAPI Face Recognition ... |
+| [padosoft/laravel-rebel-bridge-otpz](https://github.com/padosoft/laravel-rebel-bridge-otpz) | 0 | Bridge verso il package otpz come driver/provider OTP. |
 | [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 0 |  |
 | [vojt1kk/LaravelPackages](https://github.com/vojt1kk/LaravelPackages) | 0 |  |
 | [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | Artisan command to scaffold Spatie event sourcing domains - events, projectors, ... |
@@ -17,18 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [typesense/laravel-scout-typesense-driver](https://github.com/typesense/laravel-scout-typesense-driver) | 144 | Laravel Scout Driver for Typesense |
 | [Maya-AQSS/shared-editor-laravel](https://github.com/Maya-AQSS/shared-editor-laravel) | 0 | TipTap/BlockNote → HTML renderer + DOCX exporter for Laravel (Maya shared editor... |
 | [ajaylove1shi/laravel-form-bridge](https://github.com/ajaylove1shi/laravel-form-bridge) | 0 | Laravel Form Bridge bridges the gap between your backend validation rules and fr... |
-| [glamorous/laravel-data-loader](https://github.com/glamorous/laravel-data-loader) | 0 | Small package to provide tools for data migrations and initial data |
-| [quangbahoa/laravel-vietqr](https://github.com/quangbahoa/laravel-vietqr) | 0 | Laravel package for generating VietQR codes |
-| [sneakylenny/laravel-attribute-overrides](https://github.com/sneakylenny/laravel-attribute-overrides) | 0 | A Laravel package that allows you override model attributes without updating the... |
-| [shirokovnv/model-reflection](https://github.com/shirokovnv/model-reflection) | 3 | The package for reflecting laravel eloquent model properties, relations and scop... |
-| [arham-solcoders/backupguard](https://github.com/arham-solcoders/backupguard) | 1 | Backup Guard is a package for laravel that maintains database backup of last 3 d... |
-| [iabduul7/filament-auto-transliterate](https://github.com/iabduul7/filament-auto-transliterate) | 0 | Inline, as-you-type transliteration and translation for Filament form inputs. Ty... |
-| [pdro-lucas/filament-tour](https://github.com/pdro-lucas/filament-tour) | 1 | Filament v5 plugin for guided product tours, onboarding flows, and contextual UI... |
-| [octadecimal-studio/laravel-filament-cms-showcase](https://github.com/octadecimal-studio/laravel-filament-cms-showcase) | 0 | Sanitized portfolio mirror: Laravel 12, Filament, Livewire, Tailwind, Vite, Dock... |
-| [octadecimal-studio/octadecimal-platform-showcase](https://github.com/octadecimal-studio/octadecimal-platform-showcase) | 0 | Sanitized portfolio mirror: Laravel, Filament, Livewire, GraphQL, MCP, TypeScrip... |
-| [octadecimal-studio/laravel-przelewy24-package-showcase](https://github.com/octadecimal-studio/laravel-przelewy24-package-showcase) | 0 | Sanitized portfolio mirror: Laravel/Filament Przelewy24 payment package |
-| [piotradamczyk78/shellgate](https://github.com/piotradamczyk78/shellgate) | 0 | Laravel/Filament Shell Gate package: controlled terminal access, JWT gateway and... |
-| [octadecimal-studio/laravel-reservation-system-showcase](https://github.com/octadecimal-studio/laravel-reservation-system-showcase) | 0 | Sanitized portfolio mirror: Laravel reservation package, Filament admin, payment... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [teoprayoga/laravel-teorion](https://github.com/teoprayoga/laravel-teorion) | 0 | 2026-06-03 | Request-driven query filter package for Laravel — declarativ... |
-| [blax-software/laravel-shop](https://github.com/blax-software/laravel-shop) | 1 | 2026-06-03 | A comprehensive headless e-commerce package for Laravel with... |
-| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 0 | 2026-06-03 |  |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-03 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-03 | Main Webampp laravel package for GEOBOX 2.0 |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 30 | 2026-06-03 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 355 | 2026-06-03 | The official Laravel Nightwatch package. |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-03 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [sneakylenny/laravel-attribute-overrides](https://github.com/sneakylenny/laravel-attribute-overrides) | 0 | 2026-06-03 | A Laravel package that allows you override model attributes ... |
+| [devappsteam/laravel-modules-kit](https://github.com/devappsteam/laravel-modules-kit) | 0 | 2026-06-03 | Reusable Laravel package for generating and loading applicat... |
+| [OgBek/Telebirr-laravel-package](https://github.com/OgBek/Telebirr-laravel-package) | 0 | 2026-06-03 | This package prioritizes exact interoperability, determinism... |
+| [m2collective/laravel-package-kit](https://github.com/m2collective/laravel-package-kit) | 0 | 2026-06-03 |  |
+| [nightworksio/beatrax](https://github.com/nightworksio/beatrax) | 3 | 2026-06-03 | Local-first personal finance dashboard that resolves cross-a... |
 | [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-03 | A practical work management information system built with La... |
-| [SanderMuller/package-boost-laravel](https://github.com/SanderMuller/package-boost-laravel) | 1 | 2026-06-03 | AI agent skills for Laravel package authors. Adds Laravel sk... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-03 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-03 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-03 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-03 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-03 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-03 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-03 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-03 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-03 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-03 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-06-03 | The Moox Project - Packages for Filament and Laravel |
+| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 8 | 2026-06-03 | Kompass A Laravel CMS |
+| [Flobbos/laravel-image-cache](https://github.com/Flobbos/laravel-image-cache) | 0 | 2026-06-03 | Attempt at replacing the now abandoned intervention imagecac... |
+| [padosoft/laravel-rebel-auth](https://github.com/padosoft/laravel-rebel-auth) | 0 | 2026-06-03 | Meta-package for the padosoft/laravel-rebel-* enterprise aut... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-06-03 | A package to create datatables using alpinejs, tailwind, liv... |
+| [padosoft/laravel-rebel-demo](https://github.com/padosoft/laravel-rebel-demo) | 0 | 2026-06-03 | demo app for laravel rebel packages suite |
+| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 50 | 2026-06-03 | A Laravel package for orchestrating AI-driven features using... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-03 | Resrv is a booking engine for Statamic. |
+| [Capevace/cabinet](https://github.com/Capevace/cabinet) | 19 | 2026-06-03 | Cabinet is a turn-key file management solution for Laravel, ... |
+| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | 2026-06-03 | A VueJS/Inertia TableBuilder package for Laravel |
+| [axazara/bankai](https://github.com/axazara/bankai) | 6 | 2026-06-03 | A Laravel Envoy deployment package for streamlined and consi... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-03 | Main Webampp laravel package for GEOBOX 2.0 |
+| [akira-io/laravel-commentable](https://github.com/akira-io/laravel-commentable) | 5 | 2026-06-03 | Commentable is a lightweight and flexible comment system pac... |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-06-03 | Collect everything about sent mails in your Filament app. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-03T13:39 | 12 | 1714 | 4419 |
 | 2026-06-03T07:43 | 2 | 1723 | 4407 |
 | 2026-06-03T00:53 | 3 | 1722 | 4405 |
 | 2026-06-02T19:15 | 4 | 1721 | 4402 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-01T19:39 | 2 | 1725 | 4389 |
 | 2026-06-01T14:02 | 5 | 1726 | 4387 |
 | 2026-06-01T07:47 | 7 | 1726 | 4382 |
-| 2026-06-01T00:47 | 4 | 1729 | 4375 |
 
 ---
 

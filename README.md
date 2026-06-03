@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4419  
-**Last updated:** 2026-06-03T13:39:12.882Z
+**Total packages tracked:** 4429  
+**Last updated:** 2026-06-03T19:21:16.163Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [prodelpe/studiio](https://github.com/prodelpe/studiio) | 0 | Art marketplace where collectors buy original works directly from independent ar... |
+| [sebdesign/artisan-cloudflare](https://github.com/sebdesign/artisan-cloudflare) | 77 | Laravel artisan commands for CloudFlare |
+| [al3x5dev/xbot-laravel](https://github.com/al3x5dev/xbot-laravel) | 0 | Integrating xBot with Laravel. |
+| [makepay-io/makepay-laravel](https://github.com/makepay-io/makepay-laravel) | 0 | Laravel package for MakePay payment links, checkout helpers, bookkeeping, and we... |
+| [omercanfs/laravel-blog](https://github.com/omercanfs/laravel-blog) | 0 | Production-ready Laravel 11 blog package with Filament admin panel |
+| [m2collective/laravel-crawler-detect](https://github.com/m2collective/laravel-crawler-detect) | 0 |  |
+| [m2collective/laravel-device-detect](https://github.com/m2collective/laravel-device-detect) | 0 |  |
+| [codemonster-ru/ssr-bridge](https://github.com/codemonster-ru/ssr-bridge) | 0 | Read-only split of codemonster-ru/annabel packages/ssr-bridge |
+| [sbtsdev/laravel-clickup-error-reporting](https://github.com/sbtsdev/laravel-clickup-error-reporting) | 2 | laravel package to send error reports to clickup |
+| [landreiiii/Laravel-Package-Revolut-Payments](https://github.com/landreiiii/Laravel-Package-Revolut-Payments) | 0 | An unofficial Laravel Package for Revolut Payments |
 | [techrays-labs/laravel-debt-tracker](https://github.com/techrays-labs/laravel-debt-tracker) | 3 | Scan, score, and report technical debt in your Laravel application — from the CL... |
 | [m-hidayatullahh/laravel-api-kit](https://github.com/m-hidayatullahh/laravel-api-kit) | 0 | laravel-api-kit |
 | [Genius-Groupsgit/geniuspay-laravel](https://github.com/Genius-Groupsgit/geniuspay-laravel) | 0 | ⚡ Package Laravel pour intégrer facilement les paiements GeniusPay avec support ... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [padosoft/laravel-rebel-auth](https://github.com/padosoft/laravel-rebel-auth) | 0 | Meta-package for the padosoft/laravel-rebel-* enterprise authentication control ... |
 | [padosoft/laravel-rebel-demo](https://github.com/padosoft/laravel-rebel-demo) | 0 | demo app for laravel rebel packages suite |
 | [axazara/bankai](https://github.com/axazara/bankai) | 6 | A Laravel Envoy deployment package for streamlined and consistent deployment pro... |
-| [Shaykhnazar/hikvision-isapi](https://github.com/Shaykhnazar/hikvision-isapi) | 14 | This is a Laravel package for integrating with Hikvision ISAPI Face Recognition ... |
-| [padosoft/laravel-rebel-bridge-otpz](https://github.com/padosoft/laravel-rebel-bridge-otpz) | 0 | Bridge verso il package otpz come driver/provider OTP. |
-| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 0 |  |
-| [vojt1kk/LaravelPackages](https://github.com/vojt1kk/LaravelPackages) | 0 |  |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | Artisan command to scaffold Spatie event sourcing domains - events, projectors, ... |
-| [teoprayoga/laravel-teorion](https://github.com/teoprayoga/laravel-teorion) | 0 | Request-driven query filter package for Laravel — declarative filters, whitelist... |
-| [PerfilovStanislav/abilara](https://github.com/PerfilovStanislav/abilara) | 0 | Laravel authorization package with RBAC + ABAC support, nested groups, hierarchi... |
-| [typesense/laravel-scout-typesense-driver](https://github.com/typesense/laravel-scout-typesense-driver) | 144 | Laravel Scout Driver for Typesense |
-| [Maya-AQSS/shared-editor-laravel](https://github.com/Maya-AQSS/shared-editor-laravel) | 0 | TipTap/BlockNote → HTML renderer + DOCX exporter for Laravel (Maya shared editor... |
-| [ajaylove1shi/laravel-form-bridge](https://github.com/ajaylove1shi/laravel-form-bridge) | 0 | Laravel Form Bridge bridges the gap between your backend validation rules and fr... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [devappsteam/laravel-modules-kit](https://github.com/devappsteam/laravel-modules-kit) | 0 | 2026-06-03 | Reusable Laravel package for generating and loading applicat... |
-| [OgBek/Telebirr-laravel-package](https://github.com/OgBek/Telebirr-laravel-package) | 0 | 2026-06-03 | This package prioritizes exact interoperability, determinism... |
-| [m2collective/laravel-package-kit](https://github.com/m2collective/laravel-package-kit) | 0 | 2026-06-03 |  |
-| [nightworksio/beatrax](https://github.com/nightworksio/beatrax) | 3 | 2026-06-03 | Local-first personal finance dashboard that resolves cross-a... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-03 | A practical work management information system built with La... |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-03 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 151 | 2026-06-03 | The Moox Project - Packages for Filament and Laravel |
-| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 8 | 2026-06-03 | Kompass A Laravel CMS |
-| [Flobbos/laravel-image-cache](https://github.com/Flobbos/laravel-image-cache) | 0 | 2026-06-03 | Attempt at replacing the now abandoned intervention imagecac... |
-| [padosoft/laravel-rebel-auth](https://github.com/padosoft/laravel-rebel-auth) | 0 | 2026-06-03 | Meta-package for the padosoft/laravel-rebel-* enterprise aut... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-06-03 | A package to create datatables using alpinejs, tailwind, liv... |
-| [padosoft/laravel-rebel-demo](https://github.com/padosoft/laravel-rebel-demo) | 0 | 2026-06-03 | demo app for laravel rebel packages suite |
-| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 50 | 2026-06-03 | A Laravel package for orchestrating AI-driven features using... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-03 | Resrv is a booking engine for Statamic. |
-| [Capevace/cabinet](https://github.com/Capevace/cabinet) | 19 | 2026-06-03 | Cabinet is a turn-key file management solution for Laravel, ... |
-| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | 2026-06-03 | A VueJS/Inertia TableBuilder package for Laravel |
-| [axazara/bankai](https://github.com/axazara/bankai) | 6 | 2026-06-03 | A Laravel Envoy deployment package for streamlined and consi... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-03 | Main Webampp laravel package for GEOBOX 2.0 |
 | [akira-io/laravel-commentable](https://github.com/akira-io/laravel-commentable) | 5 | 2026-06-03 | Commentable is a lightweight and flexible comment system pac... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-06-03 | Collect everything about sent mails in your Filament app. |
+| [omercanfs/laravel-blog](https://github.com/omercanfs/laravel-blog) | 0 | 2026-06-03 | Production-ready Laravel 11 blog package with Filament admin... |
+| [anasnashat/laravel-easy-dev](https://github.com/anasnashat/laravel-easy-dev) | 13 | 2026-06-03 |  A powerful CRUD and model relationship generator for Larave... |
+| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 6 | 2026-06-03 | A Laravel package that adds NATS messaging support to Larave... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-03 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-03 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-03 | A Laravel-based web application that tracks, analyzes, and p... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-06-03 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [stefanzweifel/laravel-backup-restore](https://github.com/stefanzweifel/laravel-backup-restore) | 210 | 2026-06-03 | A package to restore database backups made with spatie/larav... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-03 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | 2026-06-03 | Laravel package for AI Bridge — unified streaming interface ... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-03 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-06-03 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-06-03 | 💳 Streamline payment processing with this PHP package that ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [liberu-cms/cms-laravel](https://github.com/liberu-cms/cms-laravel) | 110 | 2026-06-03 | CMS application written in Laravel 12 / PHP 8.5 using Filame... |
+| [anilkumarthakur60/fast-api-crud](https://github.com/anilkumarthakur60/fast-api-crud) | 9 | 2026-06-03 | The GitHub repository "Fast-Api-Crud" is a package that prov... |
+| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 1 | 2026-06-03 | A file-based CMS package for Laravel. Renders documentation,... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-03 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-03T19:21 | 10 | 1715 | 4429 |
 | 2026-06-03T13:39 | 12 | 1714 | 4419 |
 | 2026-06-03T07:43 | 2 | 1723 | 4407 |
 | 2026-06-03T00:53 | 3 | 1722 | 4405 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-02T00:49 | 5 | 1722 | 4394 |
 | 2026-06-01T19:39 | 2 | 1725 | 4389 |
 | 2026-06-01T14:02 | 5 | 1726 | 4387 |
-| 2026-06-01T07:47 | 7 | 1726 | 4382 |
 
 ---
 

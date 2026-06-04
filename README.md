@@ -2,17 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4440  
-**Last updated:** 2026-06-04T13:05:48.338Z
+**Total packages tracked:** 4443  
+**Last updated:** 2026-06-04T18:48:09.439Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [unicon-rocks/unicon-laravel](https://github.com/unicon-rocks/unicon-laravel) | 26 | :unicorn: Universal icon component for Laravel |
+| [cosmira/sandbox](https://github.com/cosmira/sandbox) | 0 | Laravel package for dual-table sandbox editing |
+| [bad-mushroom/Shorties](https://github.com/bad-mushroom/Shorties) | 0 | Easily add URL shortening functionality to your existing Laravel app with this p... |
 | [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | Toolkit with testing utilities for php and Laravel |
 | [aghfatehi/laravel-tamara](https://github.com/aghfatehi/laravel-tamara) | 0 | Tamara Payment Gateway Integration for Laravel - Buy Now Pay Later (BNPL) soluti... |
 | [AmjadGhzlangit/paymera-payment-package-laravel](https://github.com/AmjadGhzlangit/paymera-payment-package-laravel) | 0 | Laravel package for integrating with the [Paymera eGate](https://paymera.cc) pay... |
-| [aghfatehi/laravel-tap](https://github.com/aghfatehi/laravel-tap) | 0 | A professional Laravel payment gateway integration package for Tap Payments, the... |
+| [aghfatehi/laravel-tap](https://github.com/aghfatehi/laravel-tap) | 0 | A professional Laravel payment gateway integration package for Tap company gatew... |
 | [ajaylove1shi/laravel-notifyer](https://github.com/ajaylove1shi/laravel-notifyer) | 0 | A powerful, flexible Laravel notifyer (notification) package with multiple posit... |
 | [whitecube/laravel-search-builder](https://github.com/whitecube/laravel-search-builder) | 27 | A package to build fast, index-friendly search queries for Laravel |
 | [aghfatehi/laravel-zatca](https://github.com/aghfatehi/laravel-zatca) | 0 | A production-grade Laravel package for Saudi Arabia ZATCA e-invoicing (FATOORA).... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [makepay-io/makepay-laravel](https://github.com/makepay-io/makepay-laravel) | 0 | Laravel package for MakePay payment links, checkout helpers, bookkeeping, and we... |
 | [omercanfs/laravel-blog](https://github.com/omercanfs/laravel-blog) | 0 | Production-ready Laravel 11 blog package with Filament admin panel |
 | [m2collective/laravel-crawler-detect](https://github.com/m2collective/laravel-crawler-detect) | 0 |  |
-| [m2collective/laravel-device-detect](https://github.com/m2collective/laravel-device-detect) | 0 |  |
-| [codemonster-ru/ssr-bridge](https://github.com/codemonster-ru/ssr-bridge) | 0 | Read-only split of codemonster-ru/annabel packages/ssr-bridge |
-| [sbtsdev/laravel-clickup-error-reporting](https://github.com/sbtsdev/laravel-clickup-error-reporting) | 2 | laravel package to send error reports to clickup |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | 2026-06-04 | Toolkit with testing utilities for php and Laravel |
-| [SanderMuller/package-boost-laravel](https://github.com/SanderMuller/package-boost-laravel) | 1 | 2026-06-04 | AI agent skills for Laravel package authors. Adds Laravel sk... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-04 | Resrv is a booking engine for Statamic. |
-| [AmjadGhzlangit/paymera-payment-package-laravel](https://github.com/AmjadGhzlangit/paymera-payment-package-laravel) | 0 | 2026-06-04 | Laravel package for integrating with the [Paymera eGate](htt... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-04 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-06-04 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [cboxdk/laravel-queue-autoscale](https://github.com/cboxdk/laravel-queue-autoscale) | 8 | 2026-06-04 | Autoscaling for Laravel queues based on SLA targets and queu... |
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-06-04 |  |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-06-04 | Laravel package providing AI-powered search with Pagefind. D... |
-| [sneakylenny/laravel-sourced-attributes](https://github.com/sneakylenny/laravel-sourced-attributes) | 0 | 2026-06-04 | A Laravel package that allows you override model attributes ... |
-| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-06-04 | A laravel based E Commerce Package Developed using PHP |
-| [bkhim/laravel-geolocation](https://github.com/bkhim/laravel-geolocation) | 1 | 2026-06-04 | Modern Laravel geolocation package with 5+ drivers (IpInfo, ... |
-| [asheek21-baaboo/laravel-auth-package](https://github.com/asheek21-baaboo/laravel-auth-package) | 0 | 2026-06-04 |  |
-| [centrex/laravel-crm](https://github.com/centrex/laravel-crm) | 0 | 2026-06-04 | crm package for laravel |
-| [Nembie/iban-rule](https://github.com/Nembie/iban-rule) | 9 | 2026-06-04 | IBAN Rule is a Laravel package that provides a validation ru... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-04 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 2 | 2026-06-04 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
 | [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-04 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 59 | 2026-06-04 | [READ ONLY] API Platform for Laravel |
-| [aghfatehi/laravel-tap](https://github.com/aghfatehi/laravel-tap) | 0 | 2026-06-04 | A professional Laravel payment gateway integration package f... |
-| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-06-04 | Laravel GeeTest Captcha for Laravel 9 10 11 |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-04 | A practical work management information system built with La... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-06-04 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-04 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-06-04 | Empower your users with a modern, intuitive visual editor. T... |
+| [XternalSoft/laravel-patrowl](https://github.com/XternalSoft/laravel-patrowl) | 0 | 2026-06-04 | A clean, fluent, and developer-friendly PHP wrapper for the ... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-06-04 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 387 | 2026-06-04 | Worldwide postal code validation for Laravel and Lumen |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-04 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-04 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [YacoubAl-hardari/filament-tour](https://github.com/YacoubAl-hardari/filament-tour) | 12 | 2026-06-04 | An interactive guided tour for the Filament admin panel powe... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-06-04 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 97 | 2026-06-04 | A Filament package to manage adjacency lists (aka trees). |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-04 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-04 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-04 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-06-04 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [InterWorks/laravel-powerbi](https://github.com/InterWorks/laravel-powerbi) | 1 | 2026-06-04 | A comprehensive Laravel package for interacting with the Mic... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-06-04 | 💳 Streamline payment processing with this PHP package that ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-04T18:48 | 3 | 1720 | 4443 |
 | 2026-06-04T13:05 | 9 | 1714 | 4440 |
 | 2026-06-04T07:39 | 1 | 1725 | 4431 |
 | 2026-06-04T00:54 | 1 | 1725 | 4430 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-03T00:53 | 3 | 1722 | 4405 |
 | 2026-06-02T19:15 | 4 | 1721 | 4402 |
 | 2026-06-02T13:17 | 4 | 1722 | 4398 |
-| 2026-06-02T07:40 | 2 | 1724 | 4394 |
 
 ---
 

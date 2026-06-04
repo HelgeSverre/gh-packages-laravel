@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4431  
-**Last updated:** 2026-06-04T07:39:46.645Z
+**Total packages tracked:** 4440  
+**Last updated:** 2026-06-04T13:05:48.338Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | Toolkit with testing utilities for php and Laravel |
+| [aghfatehi/laravel-tamara](https://github.com/aghfatehi/laravel-tamara) | 0 | Tamara Payment Gateway Integration for Laravel - Buy Now Pay Later (BNPL) soluti... |
+| [AmjadGhzlangit/paymera-payment-package-laravel](https://github.com/AmjadGhzlangit/paymera-payment-package-laravel) | 0 | Laravel package for integrating with the [Paymera eGate](https://paymera.cc) pay... |
+| [aghfatehi/laravel-tap](https://github.com/aghfatehi/laravel-tap) | 0 | A professional Laravel payment gateway integration package for Tap Payments, the... |
+| [ajaylove1shi/laravel-notifyer](https://github.com/ajaylove1shi/laravel-notifyer) | 0 | A powerful, flexible Laravel notifyer (notification) package with multiple posit... |
+| [whitecube/laravel-search-builder](https://github.com/whitecube/laravel-search-builder) | 27 | A package to build fast, index-friendly search queries for Laravel |
+| [aghfatehi/laravel-zatca](https://github.com/aghfatehi/laravel-zatca) | 0 | A production-grade Laravel package for Saudi Arabia ZATCA e-invoicing (FATOORA).... |
+| [aghfatehi/laravel-whatsapp-api](https://github.com/aghfatehi/laravel-whatsapp-api) | 0 | A production-grade Laravel package for Meta WhatsApp Cloud API integration. Prov... |
+| [aghfatehi/laravel-tabby](https://github.com/aghfatehi/laravel-tabby) | 0 | A production-grade Laravel package for integrating Tabby Pay in 4 Buy Now Pay La... |
 | [sixersoft/eps](https://github.com/sixersoft/eps) | 0 | An easy-to-use Laravel package for seamless EPS (Easy Payment System) gateway in... |
 | [theRanken/laravel-sr](https://github.com/theRanken/laravel-sr) | 0 | A package to generate service and repository classes for Laravel 10.x |
 | [prodelpe/studiio](https://github.com/prodelpe/studiio) | 0 | Art marketplace where collectors buy original works directly from independent ar... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [m2collective/laravel-device-detect](https://github.com/m2collective/laravel-device-detect) | 0 |  |
 | [codemonster-ru/ssr-bridge](https://github.com/codemonster-ru/ssr-bridge) | 0 | Read-only split of codemonster-ru/annabel packages/ssr-bridge |
 | [sbtsdev/laravel-clickup-error-reporting](https://github.com/sbtsdev/laravel-clickup-error-reporting) | 2 | laravel package to send error reports to clickup |
-| [landreiiii/Laravel-Package-Revolut-Payments](https://github.com/landreiiii/Laravel-Package-Revolut-Payments) | 0 | An unofficial Laravel Package for Revolut Payments |
-| [techrays-labs/laravel-debt-tracker](https://github.com/techrays-labs/laravel-debt-tracker) | 3 | Scan, score, and report technical debt in your Laravel application — from the CL... |
-| [m-hidayatullahh/laravel-api-kit](https://github.com/m-hidayatullahh/laravel-api-kit) | 0 | laravel-api-kit |
-| [Genius-Groupsgit/geniuspay-laravel](https://github.com/Genius-Groupsgit/geniuspay-laravel) | 0 | ⚡ Package Laravel pour intégrer facilement les paiements GeniusPay avec support ... |
-| [PicoBaz/jalaliflow](https://github.com/PicoBaz/jalaliflow) | 16 | JalaliFlow: A robust Laravel package for Persian (Jalali) calendar operations. S... |
-| [binafy/laravel-discount](https://github.com/binafy/laravel-discount) | 20 | The Laravel-Discount is a Laravel package designed to handle discounts in your a... |
-| [sneakylenny/laravel-sourced-attributes](https://github.com/sneakylenny/laravel-sourced-attributes) | 0 | A Laravel package that allows you override model attributes without updating the... |
-| [m2collective/laravel-package-kit](https://github.com/m2collective/laravel-package-kit) | 0 |  |
-| [padosoft/laravel-rebel-auth](https://github.com/padosoft/laravel-rebel-auth) | 0 | Meta-package for the padosoft/laravel-rebel-* enterprise authentication control ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [lfv-greven/lfv-intranet](https://github.com/lfv-greven/lfv-intranet) | 0 | 2026-06-04 | LfV Intranet is the internal platform of Luftfahrtvereinigun... |
-| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-06-04 | A structured logging package for Laravel that writes logs in... |
-| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-06-04 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | 2026-06-04 | Toolkit with testing utilities for php and Laravel |
 | [SanderMuller/package-boost-laravel](https://github.com/SanderMuller/package-boost-laravel) | 1 | 2026-06-04 | AI agent skills for Laravel package authors. Adds Laravel sk... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | 2026-06-04 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [felixmuhoro/laravel-mpesa](https://github.com/felixmuhoro/laravel-mpesa) | 0 | 2026-06-04 | Modern, fully-typed M-Pesa Daraja 2.0 integration for Larave... |
-| [padosoft/laravel-rebel-demo](https://github.com/padosoft/laravel-rebel-demo) | 0 | 2026-06-04 | demo app for laravel rebel packages suite |
-| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 143 | 2026-06-04 | Accounting application written in Laravel 12 / PHP 8.5 using... |
-| [christopheraseidl/laravel-email-composer](https://github.com/christopheraseidl/laravel-email-composer) | 0 | 2026-06-04 | A simple Laravel package to compose email drafts and send to... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-06-04 | An event sourcing laravel package, complete with all the ess... |
-| [asheek21-baaboo/laravel-auth-package](https://github.com/asheek21-baaboo/laravel-auth-package) | 0 | 2026-06-04 |  |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-04 | Resrv is a booking engine for Statamic. |
+| [AmjadGhzlangit/paymera-payment-package-laravel](https://github.com/AmjadGhzlangit/paymera-payment-package-laravel) | 0 | 2026-06-04 | Laravel package for integrating with the [Paymera eGate](htt... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-04 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-06-04 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [cboxdk/laravel-queue-autoscale](https://github.com/cboxdk/laravel-queue-autoscale) | 8 | 2026-06-04 | Autoscaling for Laravel queues based on SLA targets and queu... |
+| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-06-04 |  |
 | [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-06-04 | Laravel package providing AI-powered search with Pagefind. D... |
-| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 0 | 2026-06-04 |  |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-06-04 | Laravel package untuk data wilayah administratif Indonesia (... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-04 | Package para Laravel y facturacion |
-| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-06-04 | Laravel package for AEAT Verifactu compliance with agnostic ... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-04 | Main Webampp laravel package for GEOBOX 2.0 |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-04 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [faridhafizh/kabar-kurir](https://github.com/faridhafizh/kabar-kurir) | 0 | 2026-06-04 | KabarKurir - Corporate news aggregator and independent packa... |
-| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-06-04 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [sneakylenny/laravel-sourced-attributes](https://github.com/sneakylenny/laravel-sourced-attributes) | 0 | 2026-06-04 | A Laravel package that allows you override model attributes ... |
+| [Algowrite-software-solution/arkenstone-core](https://github.com/Algowrite-software-solution/arkenstone-core) | 0 | 2026-06-04 | A laravel based E Commerce Package Developed using PHP |
+| [bkhim/laravel-geolocation](https://github.com/bkhim/laravel-geolocation) | 1 | 2026-06-04 | Modern Laravel geolocation package with 5+ drivers (IpInfo, ... |
+| [asheek21-baaboo/laravel-auth-package](https://github.com/asheek21-baaboo/laravel-auth-package) | 0 | 2026-06-04 |  |
+| [centrex/laravel-crm](https://github.com/centrex/laravel-crm) | 0 | 2026-06-04 | crm package for laravel |
+| [Nembie/iban-rule](https://github.com/Nembie/iban-rule) | 9 | 2026-06-04 | IBAN Rule is a Laravel package that provides a validation ru... |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-04 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 59 | 2026-06-04 | [READ ONLY] API Platform for Laravel |
+| [aghfatehi/laravel-tap](https://github.com/aghfatehi/laravel-tap) | 0 | 2026-06-04 | A professional Laravel payment gateway integration package f... |
+| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-06-04 | Laravel GeeTest Captcha for Laravel 9 10 11 |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-04 | A practical work management information system built with La... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-04T13:05 | 9 | 1714 | 4440 |
 | 2026-06-04T07:39 | 1 | 1725 | 4431 |
 | 2026-06-04T00:54 | 1 | 1725 | 4430 |
 | 2026-06-03T19:21 | 10 | 1715 | 4429 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-02T19:15 | 4 | 1721 | 4402 |
 | 2026-06-02T13:17 | 4 | 1722 | 4398 |
 | 2026-06-02T07:40 | 2 | 1724 | 4394 |
-| 2026-06-02T00:49 | 5 | 1722 | 4394 |
 
 ---
 

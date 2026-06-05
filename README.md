@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4446  
-**Last updated:** 2026-06-05T00:46:35.304Z
+**Total packages tracked:** 4448  
+**Last updated:** 2026-06-05T07:31:24.421Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [AdolfoSiseG/laravel-task-api-dashboard](https://github.com/AdolfoSiseG/laravel-task-api-dashboard) | 0 | Collaborative task manager with a drag-and-drop Kanban board — built with Larave... |
+| [HASSAN-22/generate_validation](https://github.com/HASSAN-22/generate_validation) | 1 | A Laravel package to automatically generate validation rules from models. |
 | [OgBek/Telebirr-laravel-package-sdk](https://github.com/OgBek/Telebirr-laravel-package-sdk) | 1 | This package prioritizes exact interoperability, determinism, and maintainabilit... |
 | [hassamulhaq/PayFast-Laravel-Package](https://github.com/hassamulhaq/PayFast-Laravel-Package) | 0 | Drop-in Laravel package for PayFast Pakistan (gopayfast.com). Signed external-st... |
 | [muneeb9000/LIFE-TIME-SMS-](https://github.com/muneeb9000/LIFE-TIME-SMS-) | 0 | Lifeitmesms laravel package to send single or bulk text and voice sms and balanc... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [sixersoft/eps](https://github.com/sixersoft/eps) | 0 | An easy-to-use Laravel package for seamless EPS (Easy Payment System) gateway in... |
 | [theRanken/laravel-sr](https://github.com/theRanken/laravel-sr) | 0 | A package to generate service and repository classes for Laravel 10.x |
 | [prodelpe/studiio](https://github.com/prodelpe/studiio) | 0 | Art marketplace where collectors buy original works directly from independent ar... |
-| [sebdesign/artisan-cloudflare](https://github.com/sebdesign/artisan-cloudflare) | 77 | Laravel artisan commands for CloudFlare |
-| [al3x5dev/xbot-laravel](https://github.com/al3x5dev/xbot-laravel) | 0 | Integrating xBot with Laravel. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Streats22/LaraGrapePackage](https://github.com/Streats22/LaraGrapePackage) | 4 | 2026-06-05 | LaraGrape is a Laravel package that provides a powerful, ext... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-06-05 | A package to create datatables using alpinejs, tailwind, liv... |
+| [ryanlovett-au/WireTier](https://github.com/ryanlovett-au/WireTier) | 1 | 2026-06-05 | A self-hosted ZeroTier controller UI built with Laravel and ... |
+| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 9 | 2026-06-05 | Complete gamification package with optional UI |
+| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-06-05 | Laravel Paystack is a Laravel package that integrates the Pa... |
+| [Foysal50x/tashil](https://github.com/Foysal50x/tashil) | 0 | 2026-06-05 | A comprehensive subscription management package for Laravel ... |
+| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 239 | 2026-06-05 | form builder for your users, with so many use cases |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 0 | 2026-06-05 | A Laravel package to track revisions of Eloquent models, all... |
+| [sunaoka/laravel-query-logger](https://github.com/sunaoka/laravel-query-logger) | 3 | 2026-06-05 | Query logger for Laravel |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | 2026-06-05 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-05 | Resrv is a booking engine for Statamic. |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-05 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [rxcod9/joy-package](https://github.com/rxcod9/joy-package) | 0 | 2026-06-05 |  Joy Laravel Packages scaffolding template  |
+| [HASSAN-22/generate_validation](https://github.com/HASSAN-22/generate_validation) | 1 | 2026-06-05 | A Laravel package to automatically generate validation rules... |
 | [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-05 | A practical work management information system built with La... |
-| [ArtisanPack-UI/visual-editor](https://github.com/ArtisanPack-UI/visual-editor) | 0 | 2026-06-05 | Empower your users with a modern, intuitive visual editor. T... |
-| [liberu-cms/cms-laravel](https://github.com/liberu-cms/cms-laravel) | 110 | 2026-06-05 | CMS application written in Laravel 12 / PHP 8.5 using Filame... |
-| [hatamiarash7/Laravel-OpenALPR](https://github.com/hatamiarash7/Laravel-OpenALPR) | 3 | 2026-06-05 | OpenALPR package for laravel |
-| [tomshaw/electricgrid](https://github.com/tomshaw/electricgrid) | 11 | 2026-06-04 | A feature-rich Livewire package designed for projects that r... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-04 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 133 | 2026-06-04 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [pixelated-au/streamline](https://github.com/pixelated-au/streamline) | 0 | 2026-06-04 | A tool to update Laravel Packages from Github Releases |
-| [cstea/factura-electronica](https://github.com/cstea/factura-electronica) | 0 | 2026-06-04 | Native PHP 8.5 / Laravel package for Costa Rica factura elec... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-04 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-04 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-04 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-04 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-04 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-04 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-04 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-04 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-04 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-06-04 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-04 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-05 | Main Webampp laravel package for GEOBOX 2.0 |
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-06-05 | Laravel package untuk data wilayah administratif Indonesia (... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-05 | Package para Laravel y facturacion |
+| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-06-05 | Laravel package for AEAT Verifactu compliance with agnostic ... |
+| [rxcod9/joy-voyager-package](https://github.com/rxcod9/joy-voyager-package) | 0 | 2026-06-05 | Joy Voyager Packages scaffolding template |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-05T07:31 | 2 | 1723 | 4448 |
 | 2026-06-05T00:46 | 3 | 1720 | 4446 |
 | 2026-06-04T18:48 | 3 | 1720 | 4443 |
 | 2026-06-04T13:05 | 9 | 1714 | 4440 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-03T13:39 | 12 | 1714 | 4419 |
 | 2026-06-03T07:43 | 2 | 1723 | 4407 |
 | 2026-06-03T00:53 | 3 | 1722 | 4405 |
-| 2026-06-02T19:15 | 4 | 1721 | 4402 |
 
 ---
 

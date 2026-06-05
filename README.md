@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4448  
-**Last updated:** 2026-06-05T07:31:24.421Z
+**Total packages tracked:** 4451  
+**Last updated:** 2026-06-05T13:02:29.017Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [beeyev/thumbor-php](https://github.com/beeyev/thumbor-php) | 29 | PHP implementation of URL generator for Thumbor |
+| [webbycrown/laraknow-ai](https://github.com/webbycrown/laraknow-ai) | 0 | LaraKnow AI adds a configurable assistant to any Laravel application. |
+| [square1-io/resized-php-laravel](https://github.com/square1-io/resized-php-laravel) | 2 | Laravel 5 package for resized.co - the on-demand image resizing service. |
 | [AdolfoSiseG/laravel-task-api-dashboard](https://github.com/AdolfoSiseG/laravel-task-api-dashboard) | 0 | Collaborative task manager with a drag-and-drop Kanban board — built with Larave... |
 | [HASSAN-22/generate_validation](https://github.com/HASSAN-22/generate_validation) | 1 | A Laravel package to automatically generate validation rules from models. |
 | [OgBek/Telebirr-laravel-package-sdk](https://github.com/OgBek/Telebirr-laravel-package-sdk) | 1 | This package prioritizes exact interoperability, determinism, and maintainabilit... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [aghfatehi/laravel-zatca](https://github.com/aghfatehi/laravel-zatca) | 0 | A production-grade Laravel package for Saudi Arabia ZATCA e-invoicing (FATOORA).... |
 | [aghfatehi/laravel-whatsapp-api](https://github.com/aghfatehi/laravel-whatsapp-api) | 0 | A production-grade Laravel package for Meta WhatsApp Cloud API integration. Prov... |
 | [aghfatehi/laravel-tabby](https://github.com/aghfatehi/laravel-tabby) | 0 | A production-grade Laravel package for integrating Tabby Pay in 4 Buy Now Pay La... |
-| [sixersoft/eps](https://github.com/sixersoft/eps) | 0 | An easy-to-use Laravel package for seamless EPS (Easy Payment System) gateway in... |
-| [theRanken/laravel-sr](https://github.com/theRanken/laravel-sr) | 0 | A package to generate service and repository classes for Laravel 10.x |
-| [prodelpe/studiio](https://github.com/prodelpe/studiio) | 0 | Art marketplace where collectors buy original works directly from independent ar... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -49,8 +49,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 447 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
+| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 436 | A modern PostGIS toolbox for Laravel |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | A media picker plugin for Filament Panels. |
-| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 435 | A modern PostGIS toolbox for Laravel |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 433 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 432 | A package to keep track of your pages & understand your audience |
 | [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 415 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Streats22/LaraGrapePackage](https://github.com/Streats22/LaraGrapePackage) | 4 | 2026-06-05 | LaraGrape is a Laravel package that provides a powerful, ext... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-06-05 | A package to create datatables using alpinejs, tailwind, liv... |
-| [ryanlovett-au/WireTier](https://github.com/ryanlovett-au/WireTier) | 1 | 2026-06-05 | A self-hosted ZeroTier controller UI built with Laravel and ... |
-| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 9 | 2026-06-05 | Complete gamification package with optional UI |
-| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-06-05 | Laravel Paystack is a Laravel package that integrates the Pa... |
-| [Foysal50x/tashil](https://github.com/Foysal50x/tashil) | 0 | 2026-06-05 | A comprehensive subscription management package for Laravel ... |
-| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 239 | 2026-06-05 | form builder for your users, with so many use cases |
-| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 0 | 2026-06-05 | A Laravel package to track revisions of Eloquent models, all... |
-| [sunaoka/laravel-query-logger](https://github.com/sunaoka/laravel-query-logger) | 3 | 2026-06-05 | Query logger for Laravel |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | 2026-06-05 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-05 | Resrv is a booking engine for Statamic. |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-05 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [rxcod9/joy-package](https://github.com/rxcod9/joy-package) | 0 | 2026-06-05 |  Joy Laravel Packages scaffolding template  |
-| [HASSAN-22/generate_validation](https://github.com/HASSAN-22/generate_validation) | 1 | 2026-06-05 | A Laravel package to automatically generate validation rules... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-05 | A practical work management information system built with La... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-05 | Main Webampp laravel package for GEOBOX 2.0 |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-06-05 | Laravel package untuk data wilayah administratif Indonesia (... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-05 | Package para Laravel y facturacion |
-| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-06-05 | Laravel package for AEAT Verifactu compliance with agnostic ... |
-| [rxcod9/joy-voyager-package](https://github.com/rxcod9/joy-voyager-package) | 0 | 2026-06-05 | Joy Voyager Packages scaffolding template |
+| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 1 | 2026-06-05 | A file-based CMS package for Laravel. Renders documentation,... |
+| [SanderMuller/package-boost-laravel](https://github.com/SanderMuller/package-boost-laravel) | 1 | 2026-06-05 | AI agent skills for Laravel package authors. Adds Laravel sk... |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-06-05 | Collect everything about sent mails in your Filament app. |
+| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-06-05 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-06-05 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-06-05 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-06-05 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-06-05 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 246 | 2026-06-05 | Collect everything about sent mails in your Laravel app |
+| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 6 | 2026-06-05 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
+| [Muhammed2024Salama/LaravelBase](https://github.com/Muhammed2024Salama/LaravelBase) | 1 | 2026-06-05 | A lightweight, version-agnostic Laravel package providing a ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-05 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-05 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-05 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-05 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-05 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-05 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-05 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-05 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-05T13:02 | 3 | 1722 | 4451 |
 | 2026-06-05T07:31 | 2 | 1723 | 4448 |
 | 2026-06-05T00:46 | 3 | 1720 | 4446 |
 | 2026-06-04T18:48 | 3 | 1720 | 4443 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-03T19:21 | 10 | 1715 | 4429 |
 | 2026-06-03T13:39 | 12 | 1714 | 4419 |
 | 2026-06-03T07:43 | 2 | 1723 | 4407 |
-| 2026-06-03T00:53 | 3 | 1722 | 4405 |
 
 ---
 

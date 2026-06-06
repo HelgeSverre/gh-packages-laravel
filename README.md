@@ -3,12 +3,13 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 4465  
-**Last updated:** 2026-06-06T00:44:17.877Z
+**Last updated:** 2026-06-06T07:05:53.203Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [janczakb/filament-short-url](https://github.com/janczakb/filament-short-url) | 5 | Self-hosted alternative to Bitly & Dub.co for Filament v5. Full link management,... |
 | [wearepixel/foundry-feature-comments](https://github.com/wearepixel/foundry-feature-comments) | 0 | Foundry: Polymorphic comments for any Eloquent model |
 | [stagerightlabs/Centaur](https://github.com/stagerightlabs/Centaur) | 59 | An opinionated implementation of Cartalyst's Sentinel package for Laravel |
 | [AbirHasanArko/HelloMed-DB](https://github.com/AbirHasanArko/HelloMed-DB) | 0 | Enterprise-grade Oracle PL/SQL database schema powering the HelloMed digital hea... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [square1-io/resized-php-laravel](https://github.com/square1-io/resized-php-laravel) | 2 | Laravel 5 package for resized.co - the on-demand image resizing service. |
 | [AdolfoSiseG/laravel-task-api-dashboard](https://github.com/AdolfoSiseG/laravel-task-api-dashboard) | 0 | Collaborative task manager with a drag-and-drop Kanban board — built with Larave... |
 | [HASSAN-22/generate_validation](https://github.com/HASSAN-22/generate_validation) | 1 | A Laravel package to automatically generate validation rules from models. |
-| [OgBek/Telebirr-laravel-package-sdk](https://github.com/OgBek/Telebirr-laravel-package-sdk) | 1 | This package prioritizes exact interoperability, determinism, and maintainabilit... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-06 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 2 | 2026-06-06 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-06-06 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-06 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-06-06 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-06 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-06 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-06-06 | 🚀 Simplify database interactions with this lightweight PHP ... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-06 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-06 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-06 | ✨ Build robust Laravel applications with the Filament Starte... |
 | [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-06-06 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-06-06 | Provides email verification on the go. |
 | [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-06-06 | 💳 Streamline payment processing with this PHP package that ... |
-| [AbirHasanArko/HelloMed-DB](https://github.com/AbirHasanArko/HelloMed-DB) | 0 | 2026-06-06 | Enterprise-grade Oracle PL/SQL database schema powering the ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-05 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-05 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-06-05 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [tzsk/payu](https://github.com/tzsk/payu) | 46 | 2026-06-05 | Payu Laravel Payment Gateway with Payment Verification Packa... |
-| [wearepixel/foundry-feature-comments](https://github.com/wearepixel/foundry-feature-comments) | 0 | 2026-06-05 | Foundry: Polymorphic comments for any Eloquent model |
-| [mahmoudmohamedramadan/custom-fresh](https://github.com/mahmoudmohamedramadan/custom-fresh) | 19 | 2026-06-05 | A Laravel package to specify the tables that you do not want... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-06 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-06 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-06-06 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [janczakb/filament-short-url](https://github.com/janczakb/filament-short-url) | 5 | 2026-06-06 | Self-hosted alternative to Bitly & Dub.co for Filament v5. F... |
+| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 388 | 2026-06-06 | Worldwide postal code validation for Laravel and Lumen |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | 2026-06-06 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-06-06 | An event sourcing laravel package, complete with all the ess... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-06 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 0 | 2026-06-06 | A package for using and generating unique urls for each Eloq... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-06 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-06 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-06 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-06 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-06 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-06 | Accelerate web app development with a Laravel 12 and Filamen... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-06T07:05 | 1 | 1722 | 4465 |
 | 2026-06-06T00:44 | 6 | 1717 | 4465 |
 | 2026-06-05T18:41 | 8 | 1715 | 4459 |
 | 2026-06-05T13:02 | 3 | 1722 | 4451 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-04T13:05 | 9 | 1714 | 4440 |
 | 2026-06-04T07:39 | 1 | 1725 | 4431 |
 | 2026-06-04T00:54 | 1 | 1725 | 4430 |
-| 2026-06-03T19:21 | 10 | 1715 | 4429 |
 
 ---
 

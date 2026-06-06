@@ -298,7 +298,7 @@
     "url": "https://github.com/tomatophp/filament-fcm",
     "description": "Firebase Cloud Messaging integration to Native FilamentPHP Notification Package",
     "stars": 20,
-    "forks": 4,
+    "forks": 5,
     "topics": [
       "filament-plugin",
       "filamentphp",
@@ -311,9 +311,9 @@
     "created_at": "2024-06-11T14:06:00Z",
     "updated_at": "2026-01-08T21:26:37Z",
     "pushed_at": "2024-09-11T15:09:04Z",
-    "discovered_at": "2026-02-19T00:44:48.867Z",
-    "archived_at": "2026-04-27T18:29:29.898Z",
-    "archive_reason": "Stale: not seen in search results and last pushed 593 days ago"
+    "discovered_at": "2026-04-28T00:36:13.019Z",
+    "archived_at": "2026-06-06T18:28:34.014Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 633 days ago"
   },
   "tomatophp/filament-discord": {
     "name": "tomatophp/filament-discord",

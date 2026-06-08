@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4499  
-**Last updated:** 2026-06-08T07:43:53.205Z
+**Total packages tracked:** 4501  
+**Last updated:** 2026-06-08T13:29:14.842Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [siefhesham-boca/boca-payments](https://github.com/siefhesham-boca/boca-payments) | 0 | Unified payment gateway package for Laravel. One interface for Stripe, PayPal, P... |
+| [ghostcompiler/laravel-querybuilder](https://github.com/ghostcompiler/laravel-querybuilder) | 0 | Laravel query builder package that simplifies dynamic filtering, searching, sort... |
 | [qbifyhq/laravel-installer-wizard](https://github.com/qbifyhq/laravel-installer-wizard) | 1 | A modern installation wizard for Laravel 13 applications with Livewire 4, multi-... |
 | [webrek/laravel-health-ui](https://github.com/webrek/laravel-health-ui) | 0 | A production health dashboard for Laravel: pluggable checks, a JSON endpoint for... |
 | [webrek/laravel-feature-flags](https://github.com/webrek/laravel-feature-flags) | 0 | Feature flags for Laravel with percentage rollouts, rule-based targeting and A/B... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [gammamatrix/playground-auth](https://github.com/gammamatrix/playground-auth) | 0 | The Playground authentication and authorization package for Laravel applications... |
 | [ikhsanaryaaa/egudang-website](https://github.com/ikhsanaryaaa/egudang-website) | 0 | E-Gudang, Aplikasi inventory & warehouse management |
 | [html2img/html2img-laravel](https://github.com/html2img/html2img-laravel) | 0 | Laravel integration for https://html2img.com service (HTML to Image API/Screensh... |
-| [Hostnasi-Technonologies/nasimail](https://github.com/Hostnasi-Technonologies/nasimail) | 0 | laravel package for nasitransact |
-| [MahavirTechnologies/mudra](https://github.com/MahavirTechnologies/mudra) | 0 | A high-performance Filament v4 school fees collection package for Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-06-08 |  |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-08 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [PHP-CMSIG/seal-laravel-package](https://github.com/PHP-CMSIG/seal-laravel-package) | 4 | 2026-06-08 | An integration of CMS-IG SEAL search abstraction into Larave... |
-| [marksitko/laravel-unsplash](https://github.com/marksitko/laravel-unsplash) | 90 | 2026-06-08 | Powerful Unsplash package for Laravel |
-| [adelinferaru/nestedflowtracker](https://github.com/adelinferaru/nestedflowtracker) | 0 | 2026-06-08 | Laravel package that helps tracking nested execution flows. |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | 2026-06-08 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-08 | Resrv is a booking engine for Statamic. |
-| [ZackyPratama/E-Commerce-PT-GMU](https://github.com/ZackyPratama/E-Commerce-PT-GMU) | 0 | 2026-06-08 | Project Akhir Semester E-Commerce |
-| [hwkdo/bue-laravel](https://github.com/hwkdo/bue-laravel) | 0 | 2026-06-08 | a package to use bue hwk-universal in laravel |
-| [laraditz/xendit](https://github.com/laraditz/xendit) | 0 | 2026-06-08 | Laravel package for interacting with Xendit API. |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-06-08 | Laravel package untuk data wilayah administratif Indonesia (... |
-| [stackmasteraliza/laravel-api-response-builder](https://github.com/stackmasteraliza/laravel-api-response-builder) | 30 | 2026-06-08 | A clean and consistent API response builder for Laravel appl... |
-| [belovai/laravel-schedule-log](https://github.com/belovai/laravel-schedule-log) | 0 | 2026-06-08 | A lightweight Laravel package that automatically records eve... |
-| [jigar-dhulla/laravel-whatsapp-ai-agent](https://github.com/jigar-dhulla/laravel-whatsapp-ai-agent) | 25 | 2026-06-08 | A Laravel package for building WhatsApp AI agents on top of ... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-08 | Package para Laravel y facturacion |
-| [larament/seokit](https://github.com/larament/seokit) | 45 | 2026-06-08 | A complete SEO package for Laravel, covering everything from... |
-| [payavel/orchestration](https://github.com/payavel/orchestration) | 5 | 2026-06-08 | Service generator for Laravel. |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-08 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-08 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-08 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-08 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-08 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-08 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-08 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-06-08 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-08 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-08 | A Laravel-based web application that tracks, analyzes, and p... |
+| [emaia/laravel-hotwire-turbo](https://github.com/emaia/laravel-hotwire-turbo) | 1 | 2026-06-08 | Laravel package to integrate Hotwire Turbo |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 152 | 2026-06-08 | The Moox Project - Packages for Filament and Laravel |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-08 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-06-08 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-08 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-08 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 2 | 2026-06-08 |  |
 | [laobinghu/BingLOGy](https://github.com/laobinghu/BingLOGy) | 0 | 2026-06-08 | A self-hosted blog on Laravel 13, Livewire 4, and Tailwind 4... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-08 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [kaungkhantjc/blade-hugeicons](https://github.com/kaungkhantjc/blade-hugeicons) | 0 | 2026-06-08 | A package to easily make use of Hugeicons ~5,000+ (Stroke Ro... |
+| [open-southeners/laravel-apiable](https://github.com/open-southeners/laravel-apiable) | 13 | 2026-06-08 | Integrate JSON:API resources on your Laravel API project. |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-08 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-08T13:29 | 2 | 1718 | 4501 |
 | 2026-06-08T07:43 | 11 | 1711 | 4499 |
 | 2026-06-08T00:48 | 5 | 1717 | 4488 |
 | 2026-06-07T18:28 | 5 | 1718 | 4483 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-06T18:28 | 6 | 1717 | 4474 |
 | 2026-06-06T12:28 | 4 | 1719 | 4469 |
 | 2026-06-06T07:05 | 1 | 1722 | 4465 |
-| 2026-06-06T00:44 | 6 | 1717 | 4465 |
 
 ---
 

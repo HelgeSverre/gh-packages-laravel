@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4488  
-**Last updated:** 2026-06-08T00:48:25.159Z
+**Total packages tracked:** 4499  
+**Last updated:** 2026-06-08T07:43:53.205Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [qbifyhq/laravel-installer-wizard](https://github.com/qbifyhq/laravel-installer-wizard) | 1 | A modern installation wizard for Laravel 13 applications with Livewire 4, multi-... |
+| [webrek/laravel-health-ui](https://github.com/webrek/laravel-health-ui) | 0 | A production health dashboard for Laravel: pluggable checks, a JSON endpoint for... |
+| [webrek/laravel-feature-flags](https://github.com/webrek/laravel-feature-flags) | 0 | Feature flags for Laravel with percentage rollouts, rule-based targeting and A/B... |
+| [marksitko/laravel-unsplash](https://github.com/marksitko/laravel-unsplash) | 90 | Powerful Unsplash package for Laravel |
+| [belovai/laravel-schedule-log](https://github.com/belovai/laravel-schedule-log) | 0 | A lightweight Laravel package that automatically records every scheduled task ru... |
+| [ZippyWolf/chirper](https://github.com/ZippyWolf/chirper) | 0 | A production-ready Twitter clone in Laravel 13 with modular architecture and ret... |
+| [DCODE-GROUP/laravel-xero-employee](https://github.com/DCODE-GROUP/laravel-xero-employee) | 1 | Package that provides the base functionality to add linkage between employee and... |
+| [DCODE-GROUP/laravel-timesheets](https://github.com/DCODE-GROUP/laravel-timesheets) | 3 | This package provides the standard timesheets migration and provides a base mode... |
+| [DCODE-GROUP/laravel-xero-timesheet-sync](https://github.com/DCODE-GROUP/laravel-xero-timesheet-sync) | 2 | Base package to handle the syncing of timesheets with Xero |
+| [DCODE-GROUP/laravel-xero-payroll-au](https://github.com/DCODE-GROUP/laravel-xero-payroll-au) | 3 | Base package for xero that handles the syncing of payroll data and migrations |
+| [DCODE-GROUP/laravel-xero-leave](https://github.com/DCODE-GROUP/laravel-xero-leave) | 2 | This package provides the base requirements for adding leave to Xero |
 | [psyao/aguet.dev](https://github.com/psyao/aguet.dev) | 0 | Personal one-page portfolio — bilingual (FR/EN) Laravel 13 + Filament 5, termina... |
 | [webrek/laravel-state-machine](https://github.com/webrek/laravel-state-machine) | 0 | Declarative state machines for Eloquent models with guards, events and transitio... |
 | [webrek/laravel-money](https://github.com/webrek/laravel-money) | 0 | An immutable money value object for Laravel with safe arithmetic, allocation and... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [html2img/html2img-laravel](https://github.com/html2img/html2img-laravel) | 0 | Laravel integration for https://html2img.com service (HTML to Image API/Screensh... |
 | [Hostnasi-Technonologies/nasimail](https://github.com/Hostnasi-Technonologies/nasimail) | 0 | laravel package for nasitransact |
 | [MahavirTechnologies/mudra](https://github.com/MahavirTechnologies/mudra) | 0 | A high-performance Filament v4 school fees collection package for Laravel |
-| [kodpreneur-dooel/sent-dm](https://github.com/kodpreneur-dooel/sent-dm) | 0 | Laravel package for the official Sent DM PHP SDK. It gives Laravel apps a zero-b... |
-| [latitudeinnovation/filament-raraxuan](https://github.com/latitudeinnovation/filament-raraxuan) | 0 | Official Filament plugin for the Raraxuan AI Platform. Add AI playgrounds, assis... |
-| [aghfatehi/laravel-smartsearch](https://github.com/aghfatehi/laravel-smartsearch) | 0 | Laravel SmartSearch — production-grade search abstraction layer for Laravel with... |
-| [laobinghu/BingLOGy](https://github.com/laobinghu/BingLOGy) | 0 | A self-hosted blog on Laravel 13, Livewire 4, and Tailwind 4. Milkdown editor, f... |
-| [Timadey/trailscope](https://github.com/Timadey/trailscope) | 0 | TrailScope is a Laravel package for request traces and user journey observabilit... |
-| [axazara/mailbluster-laravel](https://github.com/axazara/mailbluster-laravel) | 0 | Laravel package to interact with the MailBluster email marketing API (leads, cus... |
-| [aghfatehi/laravel-saudi-fda](https://github.com/aghfatehi/laravel-saudi-fda) | 0 | Saudi Food and Drug Authority (SFDA) API SDK for Laravel. Integrate SFDA Cosmeti... |
-| [bernskiold/laravel-blame](https://github.com/bernskiold/laravel-blame) | 0 | Automatically track which user created, updated and soft-deleted your Eloquent m... |
-| [bernskiold/laravel-activatable](https://github.com/bernskiold/laravel-activatable) | 0 | Give Eloquent models an active/inactive state with scopes, events, factory state... |
-| [furic/filament-redeem-codes](https://github.com/furic/filament-redeem-codes) | 1 | Filament v5 plugin for batch-issued, multi-reward redeem codes — for games, even... |
-| [sosupp/questionable](https://github.com/sosupp/questionable) | 0 | A laravel flexible and extensible package for adding extra functionality such as... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [webrek/laravel-state-machine](https://github.com/webrek/laravel-state-machine) | 0 | 2026-06-08 | Declarative state machines for Eloquent models with guards, ... |
-| [sunaoka/laravel-ses-template-driver](https://github.com/sunaoka/laravel-ses-template-driver) | 9 | 2026-06-08 | Amazon SES template mail driver for Laravel |
-| [webrek/laravel-money](https://github.com/webrek/laravel-money) | 0 | 2026-06-08 | An immutable money value object for Laravel with safe arithm... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 9 | 2026-06-08 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-06-08 | Laravel OTP is a Laravel package that enables developers to ... |
-| [webrek/laravel-idempotency](https://github.com/webrek/laravel-idempotency) | 0 | 2026-06-08 | Safe request retries for Laravel APIs via the Idempotency-Ke... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-07 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-07 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-07 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-07 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-07 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-07 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-07 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-07 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-07 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-07 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-06-07 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-07 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-07 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-06-07 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-06-08 |  |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-08 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [PHP-CMSIG/seal-laravel-package](https://github.com/PHP-CMSIG/seal-laravel-package) | 4 | 2026-06-08 | An integration of CMS-IG SEAL search abstraction into Larave... |
+| [marksitko/laravel-unsplash](https://github.com/marksitko/laravel-unsplash) | 90 | 2026-06-08 | Powerful Unsplash package for Laravel |
+| [adelinferaru/nestedflowtracker](https://github.com/adelinferaru/nestedflowtracker) | 0 | 2026-06-08 | Laravel package that helps tracking nested execution flows. |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | 2026-06-08 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-08 | Resrv is a booking engine for Statamic. |
+| [ZackyPratama/E-Commerce-PT-GMU](https://github.com/ZackyPratama/E-Commerce-PT-GMU) | 0 | 2026-06-08 | Project Akhir Semester E-Commerce |
+| [hwkdo/bue-laravel](https://github.com/hwkdo/bue-laravel) | 0 | 2026-06-08 | a package to use bue hwk-universal in laravel |
+| [laraditz/xendit](https://github.com/laraditz/xendit) | 0 | 2026-06-08 | Laravel package for interacting with Xendit API. |
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-06-08 | Laravel package untuk data wilayah administratif Indonesia (... |
+| [stackmasteraliza/laravel-api-response-builder](https://github.com/stackmasteraliza/laravel-api-response-builder) | 30 | 2026-06-08 | A clean and consistent API response builder for Laravel appl... |
+| [belovai/laravel-schedule-log](https://github.com/belovai/laravel-schedule-log) | 0 | 2026-06-08 | A lightweight Laravel package that automatically records eve... |
+| [jigar-dhulla/laravel-whatsapp-ai-agent](https://github.com/jigar-dhulla/laravel-whatsapp-ai-agent) | 25 | 2026-06-08 | A Laravel package for building WhatsApp AI agents on top of ... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-08 | Package para Laravel y facturacion |
+| [larament/seokit](https://github.com/larament/seokit) | 45 | 2026-06-08 | A complete SEO package for Laravel, covering everything from... |
+| [payavel/orchestration](https://github.com/payavel/orchestration) | 5 | 2026-06-08 | Service generator for Laravel. |
+| [laobinghu/BingLOGy](https://github.com/laobinghu/BingLOGy) | 0 | 2026-06-08 | A self-hosted blog on Laravel 13, Livewire 4, and Tailwind 4... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-08 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [kaungkhantjc/blade-hugeicons](https://github.com/kaungkhantjc/blade-hugeicons) | 0 | 2026-06-08 | A package to easily make use of Hugeicons ~5,000+ (Stroke Ro... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-08T07:43 | 11 | 1711 | 4499 |
 | 2026-06-08T00:48 | 5 | 1717 | 4488 |
 | 2026-06-07T18:28 | 5 | 1718 | 4483 |
 | 2026-06-07T12:34 | 2 | 1720 | 4478 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-06T12:28 | 4 | 1719 | 4469 |
 | 2026-06-06T07:05 | 1 | 1722 | 4465 |
 | 2026-06-06T00:44 | 6 | 1717 | 4465 |
-| 2026-06-05T18:41 | 8 | 1715 | 4459 |
 
 ---
 

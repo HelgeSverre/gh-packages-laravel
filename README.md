@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4514  
-**Last updated:** 2026-06-09T00:42:20.323Z
+**Total packages tracked:** 4516  
+**Last updated:** 2026-06-09T07:15:53.395Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Sabs19/remediation-laravel-package](https://github.com/Sabs19/remediation-laravel-package) | 0 |  |
+| [Dagimassefa/Telebirr-Package-Laravel](https://github.com/Dagimassefa/Telebirr-Package-Laravel) | 2 |  |
 | [SayedEnam/sayed-dashboard](https://github.com/SayedEnam/sayed-dashboard) | 0 | A complete admin dashboard package for Laravel applications |
 | [ActiveEngagement/media](https://github.com/ActiveEngagement/media) | 0 | A media management package for Laravel. |
 | [cleaniquecoders/laravel-config-sso](https://github.com/cleaniquecoders/laravel-config-sso) | 0 | Database-backed SSO provider management for Laravel (Socialite) with a Livewire ... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [qbifyhq/laravel-installer-wizard](https://github.com/qbifyhq/laravel-installer-wizard) | 1 | A modern installation wizard for Laravel 13 applications with Livewire 4, multi-... |
 | [webrek/laravel-health-ui](https://github.com/webrek/laravel-health-ui) | 0 | A production health dashboard for Laravel: pluggable checks, a JSON endpoint for... |
 | [webrek/laravel-feature-flags](https://github.com/webrek/laravel-feature-flags) | 0 | Feature flags for Laravel with percentage rollouts, rule-based targeting and A/B... |
-| [marksitko/laravel-unsplash](https://github.com/marksitko/laravel-unsplash) | 90 | Powerful Unsplash package for Laravel |
-| [belovai/laravel-schedule-log](https://github.com/belovai/laravel-schedule-log) | 0 | A lightweight Laravel package that automatically records every scheduled task ru... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-06-09 | An event sourcing laravel package, complete with all the ess... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [svenluijten/env-providers](https://github.com/svenluijten/env-providers) | 76 | 2026-06-09 | :construction_worker: Load Laravel service providers based o... |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-09 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-09 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-09 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-09 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-09 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-09 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-09 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-09 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-09 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-09 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-09 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-09 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-06-09 | Generate GitHub repository statistics and insights directly ... |
+| [eliseekn/laravel-metrics](https://github.com/eliseekn/laravel-metrics) | 132 | 2026-06-09 | Generate easily metrics and trends data of your models for y... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-09 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-06-09 | Laravel package for Indonesia regions selection with postal ... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-09 | Prevent risky Laravel database migrations with static analys... |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-06-09 | Enable Laravel apps to build AI agents using Claude Code for... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-09 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-09 | Manage and track inventory with a PHP package that integrate... |
 | [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 2 | 2026-06-09 |  |
 | [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-06-09 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
-| [verseles/Possession](https://github.com/verseles/Possession) | 4 | 2026-06-09 | Laravel user impersonation package with Sanctum compatibilit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-09T07:15 | 2 | 1719 | 4516 |
 | 2026-06-09T00:42 | 2 | 1721 | 4514 |
 | 2026-06-08T18:51 | 11 | 1711 | 4512 |
 | 2026-06-08T13:29 | 2 | 1718 | 4501 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-07T12:34 | 2 | 1720 | 4478 |
 | 2026-06-07T07:25 | 1 | 1723 | 4477 |
 | 2026-06-07T00:47 | 2 | 1722 | 4476 |
-| 2026-06-06T18:28 | 6 | 1717 | 4474 |
 
 ---
 

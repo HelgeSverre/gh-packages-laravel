@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4532  
-**Last updated:** 2026-06-10T00:48:18.546Z
+**Total packages tracked:** 4534  
+**Last updated:** 2026-06-10T07:30:47.765Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tolawho/phpswag](https://github.com/tolawho/phpswag) | 2 | PHP OpenAPI/Swagger generator using AST, PHPDoc and PHP 8 Attributes |
+| [auto-junction/laravel-communication-relay-service](https://github.com/auto-junction/laravel-communication-relay-service) | 0 | Laravel Package For Communication Relay Service |
 | [EG-Mohamed/laravel-http-client-cache](https://github.com/EG-Mohamed/laravel-http-client-cache) | 0 | Cache Laravel HTTP client responses with a simple fluent API, while keeping the ... |
 | [mateuslecchi/filament-rich-editor-extender](https://github.com/mateuslecchi/filament-rich-editor-extender) | 1 | A set of extra extensions that expand the FilamentPHP Rich Editor. |
 | [at9596/role-based-product-management](https://github.com/at9596/role-based-product-management) | 0 | Role-Based Product Management System built with Laravel 13, featuring RBAC using... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [marshmallow-packages/nova-4-menu-builder](https://github.com/marshmallow-packages/nova-4-menu-builder) | 0 | This Laravel Nova package allows you to create and manage menus and menu items. |
 | [Sabs19/remediation-laravel-package](https://github.com/Sabs19/remediation-laravel-package) | 0 |  |
 | [Dagimassefa/Telebirr-Package-Laravel](https://github.com/Dagimassefa/Telebirr-Package-Laravel) | 2 |  |
-| [SayedEnam/sayed-dashboard](https://github.com/SayedEnam/sayed-dashboard) | 0 | A complete admin dashboard package for Laravel applications |
-| [ActiveEngagement/media](https://github.com/ActiveEngagement/media) | 0 | A media management package for Laravel. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-10 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-10 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-06-10 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-06-10 | 💳 Streamline payment processing with this PHP package that ... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 30 | 2026-06-10 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-10 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
 | [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-06-10 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-06-10 | A comprehensive SEO management package for Laravel applicati... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-10 | A practical work management information system built with La... |
-| [liberu-cms/cms-laravel](https://github.com/liberu-cms/cms-laravel) | 113 | 2026-06-10 | CMS application written in Laravel 12 / PHP 8.5 using Filame... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-06-10 | An event sourcing laravel package, complete with all the ess... |
-| [at9596/role-based-product-management](https://github.com/at9596/role-based-product-management) | 0 | 2026-06-10 | Role-Based Product Management System built with Laravel 13, ... |
-| [adelinferaru/nestedflowtracker](https://github.com/adelinferaru/nestedflowtracker) | 0 | 2026-06-09 | Laravel package that helps tracking nested execution flows. |
-| [canyongbs/filament-tiptap-editor](https://github.com/canyongbs/filament-tiptap-editor) | 5 | 2026-06-09 | This enables rich text editing in Filament with the core cap... |
-| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 1 | 2026-06-09 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
-| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-06-09 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
-| [ArtisanPack-UI/security](https://github.com/ArtisanPack-UI/security) | 0 | 2026-06-09 | Core security utilities for Laravel — input sanitization, ou... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [Ercogx/filament-openai-assistant](https://github.com/Ercogx/filament-openai-assistant) | 17 | 2026-06-09 | Filament OpenAI Assistant is a filament plugin that adds a c... |
-| [athwari/laravel-zkteco-adms-server](https://github.com/athwari/laravel-zkteco-adms-server) | 0 | 2026-06-09 | Laravel package implementing the ZKTeco ADMS protocol for bi... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-09 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-09 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-09 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-09 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-09 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | 2026-06-10 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [sashalenz/nhtsa-laravel-api](https://github.com/sashalenz/nhtsa-laravel-api) | 0 | 2026-06-10 | Laravel package that integrates with the NHTSA vPIC API prov... |
+| [zingimmick/package-skeleton-laravel](https://github.com/zingimmick/package-skeleton-laravel) | 6 | 2026-06-10 | A skeleton repository for Laravel Packages |
+| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | 2026-06-10 | Toolkit with testing utilities for php and Laravel |
+| [smart-dato/desk365-sdk](https://github.com/smart-dato/desk365-sdk) | 0 | 2026-06-10 | Desk365 Laravel SDK - A Laravel package to interact with the... |
+| [demyanenkomaks/helpers](https://github.com/demyanenkomaks/helpers) | 0 | 2026-06-10 | Помощник для Filament |
+| [robinsonryan/permixion](https://github.com/robinsonryan/permixion) | 0 | 2026-06-10 | Laravel permission management package |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-10 | Main Webampp laravel package for GEOBOX 2.0 |
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-06-10 | Laravel package untuk data wilayah administratif Indonesia (... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-10 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [faridhafizh/kabar-kurir](https://github.com/faridhafizh/kabar-kurir) | 0 | 2026-06-10 | KabarKurir - Corporate news aggregator and independent packa... |
+| [JaydeepGadhiya/laravel-xray](https://github.com/JaydeepGadhiya/laravel-xray) | 2 | 2026-06-10 | Analyze and understand large Laravel applications through ar... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-10T07:30 | 2 | 1718 | 4534 |
 | 2026-06-10T00:48 | 3 | 1719 | 4532 |
 | 2026-06-09T18:45 | 6 | 1717 | 4530 |
 | 2026-06-09T13:01 | 8 | 1717 | 4524 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-08T13:29 | 2 | 1718 | 4501 |
 | 2026-06-08T07:43 | 11 | 1711 | 4499 |
 | 2026-06-08T00:48 | 5 | 1717 | 4488 |
-| 2026-06-07T18:28 | 5 | 1718 | 4483 |
 
 ---
 

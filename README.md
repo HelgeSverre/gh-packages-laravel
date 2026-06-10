@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4534  
-**Last updated:** 2026-06-10T07:30:47.765Z
+**Total packages tracked:** 4540  
+**Last updated:** 2026-06-10T13:11:51.741Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Zwriter/RN-Movies](https://github.com/Zwriter/RN-Movies) | 0 | A IMDB inspired movie catalogue made using Laravel |
+| [SofianeLasri/laravel-request-logger](https://github.com/SofianeLasri/laravel-request-logger) | 0 | A Laravel package to log all incoming HTTP requests |
+| [contoweb/laravel-abacus-api](https://github.com/contoweb/laravel-abacus-api) | 0 | Laravel package for Abacus integration. Access Abacus REST endpoints with Eloque... |
+| [aghfatehi/laravel-meta-conversions](https://github.com/aghfatehi/laravel-meta-conversions) | 0 | Laravel Meta Pixel & Facebook Conversions API package with server-side tracking,... |
+| [awaresoftware/custom-id](https://github.com/awaresoftware/custom-id) | 0 | A Laravel package for generating unique custom IDs |
+| [testmonitor/laravel-vue-i18n-generator](https://github.com/testmonitor/laravel-vue-i18n-generator) | 3 | This package compiles your Laravel translation files into a Vue i18n compatible ... |
 | [tolawho/phpswag](https://github.com/tolawho/phpswag) | 2 | PHP OpenAPI/Swagger generator using AST, PHPDoc and PHP 8 Attributes |
 | [auto-junction/laravel-communication-relay-service](https://github.com/auto-junction/laravel-communication-relay-service) | 0 | Laravel Package For Communication Relay Service |
 | [EG-Mohamed/laravel-http-client-cache](https://github.com/EG-Mohamed/laravel-http-client-cache) | 0 | Cache Laravel HTTP client responses with a simple fluent API, while keeping the ... |
@@ -21,14 +27,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [lacodix/laravel-global-or-scope](https://github.com/lacodix/laravel-global-or-scope) | 5 | A Laravel package to add possibility to use global scopes with an or operation i... |
 | [lacodix/laravel-plans](https://github.com/lacodix/laravel-plans) | 5 | A Laravel package to manage plans, features and subscriptions and track billing ... |
 | [JulioOxalis/oxalis](https://github.com/JulioOxalis/oxalis) | 0 | Advanced multi-method authentication for Laravel (passkeys, OTP, TOTP, magic lin... |
-| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 0 | Production-ready Laravel multi-tenant SaaS starter with Stripe billing, teams, r... |
+| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 1 | Production-ready Laravel multi-tenant SaaS starter with Stripe billing, teams, r... |
 | [marshmallow-packages/priceable](https://github.com/marshmallow-packages/priceable) | 1 | A Laravel Nova package to handle prices easily. This is done by a morph relation... |
-| [marshmallow-packages/breadcrumb](https://github.com/marshmallow-packages/breadcrumb) | 0 | Where are you? I don't know. Do you know? You know who knows? Your breadcrumbs! ... |
-| [marshmallow-packages/reviews-kiyoh](https://github.com/marshmallow-packages/reviews-kiyoh) | 0 | A Laravel package to connect your website to the Kiyoh review system. Collect yo... |
-| [marshmallow-packages/nova-multiselect-field](https://github.com/marshmallow-packages/nova-multiselect-field) | 0 | A Laravel Nova package that adds a multiselect to Nova's arsenal of fields. |
-| [marshmallow-packages/nova-4-menu-builder](https://github.com/marshmallow-packages/nova-4-menu-builder) | 0 | This Laravel Nova package allows you to create and manage menus and menu items. |
-| [Sabs19/remediation-laravel-package](https://github.com/Sabs19/remediation-laravel-package) | 0 |  |
-| [Dagimassefa/Telebirr-Package-Laravel](https://github.com/Dagimassefa/Telebirr-Package-Laravel) | 2 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [contoweb/laravel-abacus-api](https://github.com/contoweb/laravel-abacus-api) | 0 | 2026-06-10 | Laravel package for Abacus integration. Access Abacus REST e... |
 | [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-10 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-10 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-06-10 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-06-10 | 💳 Streamline payment processing with this PHP package that ... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 30 | 2026-06-10 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-10 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-06-10 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 17 | 2026-06-10 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [sashalenz/nhtsa-laravel-api](https://github.com/sashalenz/nhtsa-laravel-api) | 0 | 2026-06-10 | Laravel package that integrates with the NHTSA vPIC API prov... |
-| [zingimmick/package-skeleton-laravel](https://github.com/zingimmick/package-skeleton-laravel) | 6 | 2026-06-10 | A skeleton repository for Laravel Packages |
-| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | 2026-06-10 | Toolkit with testing utilities for php and Laravel |
-| [smart-dato/desk365-sdk](https://github.com/smart-dato/desk365-sdk) | 0 | 2026-06-10 | Desk365 Laravel SDK - A Laravel package to interact with the... |
-| [demyanenkomaks/helpers](https://github.com/demyanenkomaks/helpers) | 0 | 2026-06-10 | Помощник для Filament |
-| [robinsonryan/permixion](https://github.com/robinsonryan/permixion) | 0 | 2026-06-10 | Laravel permission management package |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-10 | Main Webampp laravel package for GEOBOX 2.0 |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-06-10 | Laravel package untuk data wilayah administratif Indonesia (... |
+| [SofianeLasri/laravel-request-logger](https://github.com/SofianeLasri/laravel-request-logger) | 0 | 2026-06-10 | A Laravel package to log all incoming HTTP requests |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 64 | 2026-06-10 |  |
+| [heycahya/kelana-v2.0](https://github.com/heycahya/kelana-v2.0) | 0 | 2026-06-10 | Project Laravel: Build Web Kelana - Tour Package Booking |
+| [rakhavirgiandi/laravel-apigator](https://github.com/rakhavirgiandi/laravel-apigator) | 0 | 2026-06-10 | Laravel package to auto-generate CRUD API (Controller, Model... |
+| [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 176 | 2026-06-10 | The Laravel Filament Flexible Content Blocks package helps y... |
+| [adelinferaru/nestedflowtracker](https://github.com/adelinferaru/nestedflowtracker) | 0 | 2026-06-10 | Zero-infra flow tracing for Laravel — wrap any block of code... |
+| [OgBek/Telebirr-laravel-package-sdk](https://github.com/OgBek/Telebirr-laravel-package-sdk) | 2 | 2026-06-10 | This package prioritizes exact interoperability, determinism... |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 59 | 2026-06-10 | [READ ONLY] API Platform for Laravel |
+| [SaAkSin/Laravel-Administrator](https://github.com/SaAkSin/Laravel-Administrator) | 1 | 2026-06-10 | An administrative interface package for Laravel |
+| [at9596/role-based-product-management](https://github.com/at9596/role-based-product-management) | 0 | 2026-06-10 | Role-Based Product Management System built with Laravel 13, ... |
+| [vmadhu29/chinhari-tattoo](https://github.com/vmadhu29/chinhari-tattoo) | 1 | 2026-06-10 | A premium, modern web application for Chinhari Tattoo Studio... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-06-10 | Chief admin package |
+| [Zwriter/RN-Movies](https://github.com/Zwriter/RN-Movies) | 0 | 2026-06-10 | A IMDB inspired movie catalogue made using Laravel |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-10 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [faridhafizh/kabar-kurir](https://github.com/faridhafizh/kabar-kurir) | 0 | 2026-06-10 | KabarKurir - Corporate news aggregator and independent packa... |
-| [JaydeepGadhiya/laravel-xray](https://github.com/JaydeepGadhiya/laravel-xray) | 2 | 2026-06-10 | Analyze and understand large Laravel applications through ar... |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-06-10 | Laravel Package to access AI CAD |
+| [aghfatehi/laravel-meta-conversions](https://github.com/aghfatehi/laravel-meta-conversions) | 0 | 2026-06-10 | Laravel Meta Pixel & Facebook Conversions API package with s... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-10 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-10 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-10T13:11 | 6 | 1716 | 4540 |
 | 2026-06-10T07:30 | 2 | 1718 | 4534 |
 | 2026-06-10T00:48 | 3 | 1719 | 4532 |
 | 2026-06-09T18:45 | 6 | 1717 | 4530 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-08T18:51 | 11 | 1711 | 4512 |
 | 2026-06-08T13:29 | 2 | 1718 | 4501 |
 | 2026-06-08T07:43 | 11 | 1711 | 4499 |
-| 2026-06-08T00:48 | 5 | 1717 | 4488 |
 
 ---
 

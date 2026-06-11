@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4567  
-**Last updated:** 2026-06-11T13:19:39.859Z
+**Total packages tracked:** 4571  
+**Last updated:** 2026-06-11T19:00:46.660Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [fuzzyfox/lucide-for-laravel](https://github.com/fuzzyfox/lucide-for-laravel) | 0 | An always-current Lucide icon set and PHP enum for Laravel and Filament — genera... |
+| [therealmchaggis/definition-types](https://github.com/therealmchaggis/definition-types) | 0 | Definition-driven data types for PHP. It is a framework-agnostic package that ca... |
+| [it-healer/laravel-evm](https://github.com/it-healer/laravel-evm) | 0 | A Laravel package for working with any EVM network (Ethereum, BSC, Polygon, Arbi... |
+| [khaliqueahmed-laraveldeveloper/laravel-local-ai](https://github.com/khaliqueahmed-laraveldeveloper/laravel-local-ai) | 0 | A Laravel package for running local LLM with a simple facade interface |
 | [adelinferaru/laravel-websms](https://github.com/adelinferaru/laravel-websms) | 0 | Send SMS from Laravel through the WebSMS.com.cy gateway — SOAP and REST transpor... |
 | [derian-cordoba/laravel-ab-testing](https://github.com/derian-cordoba/laravel-ab-testing) | 0 | Standalone Laravel A/B testing and feature flag framework with deterministic buc... |
 | [dream-hun/laravel-pawapay](https://github.com/dream-hun/laravel-pawapay) | 0 | Laravel package for the PawaPay mobile money payment gateway |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [miladev95/laracart](https://github.com/miladev95/laracart) | 1 | Laravel shopping cart package with session-based cart management, multiple cart ... |
 | [Go2Stone/filament-translatable](https://github.com/Go2Stone/filament-translatable) | 1 | This Filament package allows you to make any input field spatie/laravel-translat... |
 | [scarneros/laravel-japan-postal-codes](https://github.com/scarneros/laravel-japan-postal-codes) | 1 | Laravel package for looking up Japanese addresses by postal code. Supports kanji... |
-| [tomatophp/filament-twilio](https://github.com/tomatophp/filament-twilio) | 11 | Send Whatsapp messages using Twilio and native filament Notification Facade clas... |
-| [zerofyi/shipit](https://github.com/zerofyi/shipit) | 1 | A zero-dependency dual-protocol deployment wizard for Hostinger shared hosting. |
-| [fissible/phone](https://github.com/fissible/phone) | 0 | Laravel package for Twilio-backed business voice and SMS workflows. |
-| [karimalik/laravel-fast-setup](https://github.com/karimalik/laravel-fast-setup) | 0 | Laravel Fast Setup is a developer-focused package that automates the repetitive ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Maya-AQSS/shared-messaging-laravel](https://github.com/Maya-AQSS/shared-messaging-laravel) | 0 | 2026-06-11 | Read-only mirror of packages/php/shared-messaging-laravel fr... |
+| [Maya-AQSS/shared-profile-laravel](https://github.com/Maya-AQSS/shared-profile-laravel) | 0 | 2026-06-11 | Read-only mirror of packages/php/shared-profile-laravel from... |
+| [Maya-AQSS/shared-http-laravel](https://github.com/Maya-AQSS/shared-http-laravel) | 0 | 2026-06-11 | Read-only mirror of packages/php/shared-http-laravel from ma... |
+| [Maya-AQSS/shared-editor-laravel](https://github.com/Maya-AQSS/shared-editor-laravel) | 0 | 2026-06-11 | TipTap/BlockNote → HTML renderer + DOCX exporter for Laravel... |
+| [Maya-AQSS/shared-platform-laravel](https://github.com/Maya-AQSS/shared-platform-laravel) | 0 | 2026-06-11 | Read-only mirror of packages/php/shared-platform-laravel fro... |
+| [Maya-AQSS/shared-translations-laravel](https://github.com/Maya-AQSS/shared-translations-laravel) | 0 | 2026-06-11 | Read-only mirror of packages/php/shared-translations-laravel... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-11 | 💰 Simplify your financial management with Finova, an open-s... |
+| [whilesmartphp/eloquent-workspaces](https://github.com/whilesmartphp/eloquent-workspaces) | 0 | 2026-06-11 | A teams or workspace package for Laravel |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-11 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 50 | 2026-06-11 | A Laravel package for orchestrating AI-driven features using... |
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 152 | 2026-06-11 | The Moox Project - Packages for Filament and Laravel |
-| [SaAkSin/Laravel-Administrator](https://github.com/SaAkSin/Laravel-Administrator) | 1 | 2026-06-11 | An administrative interface package for Laravel |
-| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-06-11 | 💬 Build scalable chat applications with a polymorphic chat ... |
-| [codewithagents/openapi-laravel](https://github.com/codewithagents/openapi-laravel) | 1 | 2026-06-11 |  |
-| [Sultonisky/Slogy](https://github.com/Sultonisky/Slogy) | 0 | 2026-06-11 | Simple Laravel activity logging package for tracking user ac... |
-| [heycahya/kelana-v2.0](https://github.com/heycahya/kelana-v2.0) | 0 | 2026-06-11 | Project Laravel: Build Web Kelana - Tour Package Booking |
-| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-06-11 | 🌍 Validate Turkish identity numbers and addresses efficient... |
-| [dream-hun/laravel-pawapay](https://github.com/dream-hun/laravel-pawapay) | 0 | 2026-06-11 | Laravel package for the PawaPay mobile money payment gateway |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 31 | 2026-06-11 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter) | 132 | 2026-06-11 | A opponiated Laravel 12 Livewire Components Starter Kit, wit... |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-11 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [codebar-ag/laravel-docuware](https://github.com/codebar-ag/laravel-docuware) | 11 | 2026-06-11 | Laravel DocuWare Package |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 0 | 2026-06-11 | Ptah — Laravel package that forges complete module structure... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-06-11 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-06-11 |  |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-06-11 | A package to create datatables using alpinejs, tailwind, liv... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-06-11 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-06-11 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-11 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 2 | 2026-06-11 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [psyao/aguet.dev](https://github.com/psyao/aguet.dev) | 0 | 2026-06-11 | Personal one-page portfolio — bilingual (FR/EN) Laravel 13 +... |
+| [derian-cordoba/laravel-ab-testing](https://github.com/derian-cordoba/laravel-ab-testing) | 0 | 2026-06-11 | Standalone Laravel A/B testing and feature flag framework wi... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-06-11 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-11 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-11 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-11 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [khaliqueahmed-laraveldeveloper/laravel-local-ai](https://github.com/khaliqueahmed-laraveldeveloper/laravel-local-ai) | 0 | 2026-06-11 | A Laravel package for running local LLM with a simple facade... |
+| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-06-11 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
+| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-06-11 | 💳 Streamline payment processing with this PHP package that ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-11T19:00 | 4 | 1718 | 4571 |
 | 2026-06-11T13:19 | 12 | 1710 | 4567 |
 | 2026-06-11T07:42 | 4 | 1720 | 4555 |
 | 2026-06-11T00:48 | 5 | 1718 | 4551 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-10T00:48 | 3 | 1719 | 4532 |
 | 2026-06-09T18:45 | 6 | 1717 | 4530 |
 | 2026-06-09T13:01 | 8 | 1717 | 4524 |
-| 2026-06-09T07:15 | 2 | 1719 | 4516 |
 
 ---
 

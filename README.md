@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4551  
-**Last updated:** 2026-06-11T00:48:08.776Z
+**Total packages tracked:** 4555  
+**Last updated:** 2026-06-11T07:42:21.905Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [dskripchenko/laravel-api](https://github.com/dskripchenko/laravel-api) | 8 | Versioned Laravel APIs with OpenAPI 3.0 docs generated from PHPDoc — no annotati... |
+| [miladev95/laracart](https://github.com/miladev95/laracart) | 1 | Laravel shopping cart package with session-based cart management, multiple cart ... |
+| [Go2Stone/filament-translatable](https://github.com/Go2Stone/filament-translatable) | 1 | This Filament package allows you to make any input field spatie/laravel-translat... |
+| [scarneros/laravel-japan-postal-codes](https://github.com/scarneros/laravel-japan-postal-codes) | 1 | Laravel package for looking up Japanese addresses by postal code. Supports kanji... |
 | [tomatophp/filament-twilio](https://github.com/tomatophp/filament-twilio) | 11 | Send Whatsapp messages using Twilio and native filament Notification Facade clas... |
 | [zerofyi/shipit](https://github.com/zerofyi/shipit) | 0 | A zero-dependency dual-protocol deployment wizard for Hostinger shared hosting. |
 | [fissible/phone](https://github.com/fissible/phone) | 0 | Laravel package for Twilio-backed business voice and SMS workflows. |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [contoweb/laravel-abacus-api](https://github.com/contoweb/laravel-abacus-api) | 2 | Laravel package for Abacus integration. Access Abacus REST endpoints with Eloque... |
 | [aghfatehi/laravel-meta-conversions](https://github.com/aghfatehi/laravel-meta-conversions) | 0 | Laravel Meta Pixel & Facebook Conversions API package with server-side tracking,... |
 | [awaresoftware/custom-id](https://github.com/awaresoftware/custom-id) | 0 | A Laravel package for generating unique custom IDs |
-| [testmonitor/laravel-vue-i18n-generator](https://github.com/testmonitor/laravel-vue-i18n-generator) | 3 | This package compiles your Laravel translation files into a Vue i18n compatible ... |
-| [tolawho/phpswag](https://github.com/tolawho/phpswag) | 2 | PHP OpenAPI/Swagger generator using AST, PHPDoc and PHP 8 Attributes |
-| [auto-junction/laravel-communication-relay-service](https://github.com/auto-junction/laravel-communication-relay-service) | 0 | Laravel Package For Communication Relay Service |
-| [EG-Mohamed/laravel-http-client-cache](https://github.com/EG-Mohamed/laravel-http-client-cache) | 0 | Cache Laravel HTTP client responses with a simple fluent API, while keeping the ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-06-11 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [karimalik/laravel-fast-setup](https://github.com/karimalik/laravel-fast-setup) | 0 | 2026-06-11 | Laravel Fast Setup is a developer-focused package that autom... |
-| [fissible/phone](https://github.com/fissible/phone) | 0 | 2026-06-11 | Laravel package for Twilio-backed business voice and SMS wor... |
+| [codewithagents/openapi-laravel](https://github.com/codewithagents/openapi-laravel) | 1 | 2026-06-11 |  |
+| [cybex-gmbh/laravel-protector](https://github.com/cybex-gmbh/laravel-protector) | 5 | 2026-06-11 | Laravel package to provide and receive database dumps in a s... |
+| [marshmallow-packages/priceable](https://github.com/marshmallow-packages/priceable) | 1 | 2026-06-11 | A Laravel Nova package to handle prices easily. This is done... |
+| [contoweb/laravel-abacus-api](https://github.com/contoweb/laravel-abacus-api) | 2 | 2026-06-11 | Laravel package for Abacus integration. Access Abacus REST e... |
+| [Benefits-me/php-api-auth](https://github.com/Benefits-me/php-api-auth) | 0 | 2026-06-11 | Laravel package for checking the API token. |
 | [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-11 | Track and display Matomo analytics data directly within Lara... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-11 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-11 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 18 | 2026-06-11 | Artisan command to scaffold Spatie event sourcing domains - ... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-11 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-11 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-11 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-11 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-11 | Build efficient help desk systems with a Laravel 12 and Fila... |
 | [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-11 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-11 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-11 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-11 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-06-11 | Generate GitHub repository statistics and insights directly ... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-11 | Resrv is a booking engine for Statamic. |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-11 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-11 | Prevent risky Laravel database migrations with static analys... |
 | [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-06-11 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-11 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-11 | Manage and track inventory with a PHP package that integrate... |
-| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 2 | 2026-06-11 |  |
-| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-06-11 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-11T07:42 | 4 | 1720 | 4555 |
 | 2026-06-11T00:48 | 5 | 1718 | 4551 |
 | 2026-06-10T18:54 | 6 | 1716 | 4546 |
 | 2026-06-10T13:11 | 6 | 1716 | 4540 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-09T13:01 | 8 | 1717 | 4524 |
 | 2026-06-09T07:15 | 2 | 1719 | 4516 |
 | 2026-06-09T00:42 | 2 | 1721 | 4514 |
-| 2026-06-08T18:51 | 11 | 1711 | 4512 |
 
 ---
 

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4546  
-**Last updated:** 2026-06-10T18:54:48.218Z
+**Total packages tracked:** 4551  
+**Last updated:** 2026-06-11T00:48:08.776Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tomatophp/filament-twilio](https://github.com/tomatophp/filament-twilio) | 11 | Send Whatsapp messages using Twilio and native filament Notification Facade clas... |
+| [zerofyi/shipit](https://github.com/zerofyi/shipit) | 0 | A zero-dependency dual-protocol deployment wizard for Hostinger shared hosting. |
+| [fissible/phone](https://github.com/fissible/phone) | 0 | Laravel package for Twilio-backed business voice and SMS workflows. |
+| [karimalik/laravel-fast-setup](https://github.com/karimalik/laravel-fast-setup) | 0 | Laravel Fast Setup is a developer-focused package that automates the repetitive ... |
+| [YasserElgammal/pure-text](https://github.com/YasserElgammal/pure-text) | 10 | PureText: A Laravel package for automatic filtering and replacement of unwanted ... |
 | [shiyuetc/utakeep](https://github.com/shiyuetc/utakeep) | 0 | A social web application for managing and sharing karaoke repertoires built with... |
 | [codewithagents/openapi-laravel](https://github.com/codewithagents/openapi-laravel) | 1 |  |
 | [IsmailElbery/laravel-ldap-sync](https://github.com/IsmailElbery/laravel-ldap-sync) | 0 | An opinionated Laravel package to sync Active Directory users from multiple OUs ... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [tolawho/phpswag](https://github.com/tolawho/phpswag) | 2 | PHP OpenAPI/Swagger generator using AST, PHPDoc and PHP 8 Attributes |
 | [auto-junction/laravel-communication-relay-service](https://github.com/auto-junction/laravel-communication-relay-service) | 0 | Laravel Package For Communication Relay Service |
 | [EG-Mohamed/laravel-http-client-cache](https://github.com/EG-Mohamed/laravel-http-client-cache) | 0 | Cache Laravel HTTP client responses with a simple fluent API, while keeping the ... |
-| [mateuslecchi/filament-rich-editor-extender](https://github.com/mateuslecchi/filament-rich-editor-extender) | 1 | A set of extra extensions that expand the FilamentPHP Rich Editor. |
-| [at9596/role-based-product-management](https://github.com/at9596/role-based-product-management) | 0 | Role-Based Product Management System built with Laravel 13, featuring RBAC using... |
-| [balkar1998/laravel-priority-queue-manager](https://github.com/balkar1998/laravel-priority-queue-manager) | 0 | A Laravel package to dispatch and manage jobs with priority levels — critical, h... |
-| [heycahya/kelana-v2.0](https://github.com/heycahya/kelana-v2.0) | 0 | Project Laravel: Build Web Kelana - Tour Package Booking |
-| [debjyotikar001/media-lazy-load](https://github.com/debjyotikar001/media-lazy-load) | 2 | A Laravel package to help users implement media lazy loading using PHP and JavaS... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [IsmailElbery/laravel-ldap-sync](https://github.com/IsmailElbery/laravel-ldap-sync) | 0 | 2026-06-10 | An opinionated Laravel package to sync Active Directory user... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 1 | 2026-06-10 | Automated code analysis for Laravel applications with 73 com... |
-| [codewithagents/openapi-laravel](https://github.com/codewithagents/openapi-laravel) | 1 | 2026-06-10 |  |
-| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 50 | 2026-06-10 | A Laravel package for orchestrating AI-driven features using... |
-| [MarcelWeidum/filament-passkeys](https://github.com/MarcelWeidum/filament-passkeys) | 66 | 2026-06-10 | Use passkeys in your filament app |
-| [Streats22/LaraGrapePackage](https://github.com/Streats22/LaraGrapePackage) | 4 | 2026-06-10 | LaraGrape is a Laravel package that provides a powerful, ext... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-10 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [MarcelWeidum/filament-expiration-notice](https://github.com/MarcelWeidum/filament-expiration-notice) | 94 | 2026-06-10 | Customize the 'Page expired' livewire message into a filamen... |
-| [RomaLytar/yammi-jobs-monitoring-laravel](https://github.com/RomaLytar/yammi-jobs-monitoring-laravel) | 20 | 2026-06-10 | A lightweight Laravel queue monitoring package that tracks j... |
-| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 409 | 2026-06-10 | Laravel Kanban boards with intelligent pagination, drag-and-... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-06-10 | Filament plugin that allows to add dynamic, user-defined for... |
-| [lfv-greven/lfv-intranet](https://github.com/lfv-greven/lfv-intranet) | 0 | 2026-06-10 | LfV Intranet is the internal platform of Luftfahrtvereinigun... |
-| [TappNetwork/filament-maillog](https://github.com/TappNetwork/filament-maillog) | 30 | 2026-06-10 | Log outgoing emails and view them in Filament admin panel |
-| [preprio/laravel-complete-starter](https://github.com/preprio/laravel-complete-starter) | 0 | 2026-06-10 | The Complete Laravel Starter package offers a sample project... |
-| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-06-10 | The Laravel Quick Start package covers the basics of connect... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-10 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-10 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-10 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-10 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-10 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-06-11 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [karimalik/laravel-fast-setup](https://github.com/karimalik/laravel-fast-setup) | 0 | 2026-06-11 | Laravel Fast Setup is a developer-focused package that autom... |
+| [fissible/phone](https://github.com/fissible/phone) | 0 | 2026-06-11 | Laravel package for Twilio-backed business voice and SMS wor... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-11 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-11 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-11 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-11 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-11 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-11 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-11 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-11 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-11 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-06-11 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-11 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-11 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-06-11 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-11 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-11 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 2 | 2026-06-11 |  |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-06-11 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-11T00:48 | 5 | 1718 | 4551 |
 | 2026-06-10T18:54 | 6 | 1716 | 4546 |
 | 2026-06-10T13:11 | 6 | 1716 | 4540 |
 | 2026-06-10T07:30 | 2 | 1718 | 4534 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-09T07:15 | 2 | 1719 | 4516 |
 | 2026-06-09T00:42 | 2 | 1721 | 4514 |
 | 2026-06-08T18:51 | 11 | 1711 | 4512 |
-| 2026-06-08T13:29 | 2 | 1718 | 4501 |
 
 ---
 

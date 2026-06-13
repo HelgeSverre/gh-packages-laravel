@@ -2,15 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4593  
-**Last updated:** 2026-06-12T18:41:05.544Z
+**Total packages tracked:** 4596  
+**Last updated:** 2026-06-13T00:49:34.733Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [HolgerHatGarKeineNode/einundzwanzig-mobile-app](https://github.com/HolgerHatGarKeineNode/einundzwanzig-mobile-app) | 1 | Bitcoin-Community-App für Einundzwanzig – Meetups, Events, Kurse und Karte. Geba... |
+| [henrygodev/laranest](https://github.com/henrygodev/laranest) | 0 | A simple scaffolding package for Laravel |
+| [seyiAjibola/laravel-ng-fintech](https://github.com/seyiAjibola/laravel-ng-fintech) | 0 | An open-source Laravel package providing a unified, driver-based interface for N... |
 | [MahdiMajidzadeh/prompt-library](https://github.com/MahdiMajidzadeh/prompt-library) | 0 | Library of Prompts that use for product managers |
-| [RomaLytar/yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 1 | Laravel audit log & change history with real actor attribution (user / job / com... |
+| [RomaLytar/yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 3 | Laravel audit log & change history with real actor attribution (user / job / com... |
 | [samlik-craxinno/eddyter-laravel-package](https://github.com/samlik-craxinno/eddyter-laravel-package) | 0 |  |
 | [omaressaouaf/laravel-statistician](https://github.com/omaressaouaf/laravel-statistician) | 0 | A Laravel package for generating clean application statistics from Eloquent mode... |
 | [HebeStark/adopciones-mvc-livewire](https://github.com/HebeStark/adopciones-mvc-livewire) | 0 | Plataforma de adopción de animales con Laravel MVC, Blade y Livewire |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [iankibet/redis-sub](https://github.com/iankibet/redis-sub) | 0 | A Laravel package to listen to Redis published messages. |
 | [HelloWorldDevs/autotix-laravel](https://github.com/HelloWorldDevs/autotix-laravel) | 0 | Autotix Laravel package — error/exception/log capture for Autotix (autotix/larav... |
 | [bambamboole/laravel-translation-dumper](https://github.com/bambamboole/laravel-translation-dumper) | 10 | A laravel package to automatically dump missing keys into the translation files |
-| [tonegabes/laravel-make-model-plus](https://github.com/tonegabes/laravel-make-model-plus) | 0 | A Laravel package to generate custom model and other classes with Filament Resou... |
-| [mohammedelkarsh/validators-laravel-ae](https://github.com/mohammedelkarsh/validators-laravel-ae) | 0 | validators/laravel-ae split package. |
-| [mohammedelkarsh/validators-laravel-eg](https://github.com/mohammedelkarsh/validators-laravel-eg) | 0 | validators/laravel-eg split package. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-12 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [maliang/lartrix](https://github.com/maliang/lartrix) | 0 | 2026-06-12 | Laravel Admin Package. Build modern admin panels quickly wit... |
-| [RomaLytar/yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 1 | 2026-06-12 | Laravel audit log & change history with real actor attributi... |
-| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 2 | 2026-06-12 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
-| [samlik-craxinno/eddyter-laravel-package](https://github.com/samlik-craxinno/eddyter-laravel-package) | 0 | 2026-06-12 |  |
-| [codewithagents/openapi-laravel](https://github.com/codewithagents/openapi-laravel) | 1 | 2026-06-12 |  |
-| [BabelQueue/laravel](https://github.com/BabelQueue/laravel) | 1 | 2026-06-12 | Drop-in Laravel queue driver for BabelQueue — dispatch polyg... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-06-12 | Ptah — Laravel package that forges complete module structure... |
-| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-06-12 | LaraWebhook is an open-source Laravel package for securely a... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-12 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-12 | Track and display Matomo analytics data directly within Lara... |
+| [derian-cordoba/laravel-ab-testing](https://github.com/derian-cordoba/laravel-ab-testing) | 0 | 2026-06-13 | Standalone Laravel A/B testing and feature flag framework wi... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-13 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-13 | Laravel package for mk-director monorepo — admin module scaf... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-12 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-12 | Track and display Matomo analytics data directly within Lara... |
 | [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-12 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-12 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-12 | Build and manage help desk ticket systems with a Laravel 12 ... |
 | [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-12 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
 | [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-12 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [lara-zeus/demo](https://github.com/lara-zeus/demo) | 12 | 2026-06-12 | demo for all zeus packages based on filamentphp plugins |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-12 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-12 | Accelerate Laravel 12 and Filament 5 app development with a ... |
 | [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-12 | Accelerate web app development with a Laravel 12 and Filamen... |
 | [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-12 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 64 | 2026-06-12 |  |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-06-12 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-12 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-12 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-12 | Integrate Mixpanel analytics into Filament projects to track... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-06-12 | Enable Laravel apps to build AI agents using Claude Code for... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-12 | Manage and track inventory with a PHP package that integrate... |
+| [DespacitoHax/laravel-ai-database](https://github.com/DespacitoHax/laravel-ai-database) | 2 | 2026-06-12 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-13T00:49 | 3 | 1723 | 4596 |
 | 2026-06-12T18:41 | 4 | 1722 | 4593 |
 | 2026-06-12T13:10 | 6 | 1719 | 4589 |
 | 2026-06-12T07:39 | 3 | 1721 | 4583 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-11T07:42 | 4 | 1720 | 4555 |
 | 2026-06-11T00:48 | 5 | 1718 | 4551 |
 | 2026-06-10T18:54 | 6 | 1716 | 4546 |
-| 2026-06-10T13:11 | 6 | 1716 | 4540 |
 
 ---
 

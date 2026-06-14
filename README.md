@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4619  
-**Last updated:** 2026-06-14T12:40:50.051Z
+**Total packages tracked:** 4621  
+**Last updated:** 2026-06-14T18:31:11.514Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [itstructure/laravel-rbac](https://github.com/itstructure/laravel-rbac) | 55 | Laravel package for RBAC manage |
+| [itstructure/laravel-grid-view](https://github.com/itstructure/laravel-grid-view) | 24 | This package is to displaying the model data in a Grid table. |
 | [ghostcompiler/laravel-model-caching](https://github.com/ghostcompiler/laravel-model-caching) | 6 | High-performance Eloquent model caching for Laravel with automatic cache invalid... |
 | [dcarrero/contratacion-publica-abierta](https://github.com/dcarrero/contratacion-publica-abierta) | 0 | Portal open source de transparencia en contratación pública de España. ~8,2M con... |
 | [oi-lab/oi-laravel-attachments](https://github.com/oi-lab/oi-laravel-attachments) | 0 | A Laravel package for polymorphic file attachments. Attach files to any Eloquent... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [neokofg/laravel-architecture-commands](https://github.com/neokofg/laravel-architecture-commands) | 5 | composer package to create generated architecture files |
 | [wiwichai/thai-address](https://github.com/wiwichai/thai-address) | 0 | Laravel Package สำหรับจัดการข้อมูลที่อยู่ไทย (ตำบล / อำเภอ / จังหวัด / รหัสไปรษณ... |
 | [yehia-tarek/laravel-erpnext](https://github.com/yehia-tarek/laravel-erpnext) | 0 | A Laravel package for interacting with ERPNext / Frappe REST API |
-| [YasserElgammal/easy-wallet](https://github.com/YasserElgammal/easy-wallet) | 8 | Laravel Easy Wallet Package lets you manage balances and transactions with ease. |
-| [ilogus/laravel-honeypotplus](https://github.com/ilogus/laravel-honeypotplus) | 2 | A Laravel package that detects malicious IPs attempting to access sensitive file... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -53,32 +53,32 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | A media picker plugin for Filament Panels. |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 433 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 432 | A package to keep track of your pages & understand your audience |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 416 | Open Source Laravel CRM Package |
+| [lukeraymonddowning/honey](https://github.com/lukeraymonddowning/honey) | 415 | A spam prevention package for Laravel, providing honeypot techniques, ip blockin... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-14 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-06-14 | 📁 Manage files effortlessly with this Laravel and Filament ... |
-| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-06-14 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
-| [businesstilto/commentable](https://github.com/businesstilto/commentable) | 16 | 2026-06-14 | An extensive and very customizable package that adds comment... |
-| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-06-14 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
-| [oi-lab/oi-laravel-attachments](https://github.com/oi-lab/oi-laravel-attachments) | 0 | 2026-06-14 | A Laravel package for polymorphic file attachments. Attach f... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-14 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 2 | 2026-06-14 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
-| [orchestral/workbench](https://github.com/orchestral/workbench) | 82 | 2026-06-14 | Workbench Companion for Laravel Packages Development |
-| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-06-14 | 🧾 Generate professional, multi-language invoices with Larav... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-14 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-06-14 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
-| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-06-14 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-14 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-14 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-06-14 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-14 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-14 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [whilesmartphp/eloquent-workspaces](https://github.com/whilesmartphp/eloquent-workspaces) | 0 | 2026-06-14 | A teams or workspace package for Laravel |
-| [RomaLytar/yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 6 | 2026-06-14 | Laravel audit log & change history with real actor attributi... |
+| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-14 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
+| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-06-14 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
+| [toadfix/minishop](https://github.com/toadfix/minishop) | 1 | 2026-06-14 | Headless ecommerce Laravel package |
+| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 1 | 2026-06-14 | A file-based CMS package for Laravel. Renders documentation,... |
+| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 9 | 2026-06-14 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-06-14 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-06-14 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [rahulhaque/soketi-app-manager-filament](https://github.com/rahulhaque/soketi-app-manager-filament) | 113 | 2026-06-14 | Manage soketi websocket server and apps with ease. |
+| [itstructure/laravel-rbac](https://github.com/itstructure/laravel-rbac) | 55 | 2026-06-14 | Laravel package for RBAC manage |
+| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-06-14 | A structured logging package for Laravel that writes logs in... |
+| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-06-14 | A developer-friendly package for creating advanced Wordpress... |
+| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 7 | 2026-06-14 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
+| [offload-project/laravel-invite-only](https://github.com/offload-project/laravel-invite-only) | 72 | 2026-06-14 | A Laravel package for managing user invitations with polymor... |
+| [itstructure/laravel-grid-view](https://github.com/itstructure/laravel-grid-view) | 24 | 2026-06-14 | This package is to displaying the model data in a Grid table... |
+| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-06-14 | A Filament plugin to add markdown-based documentation to you... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-06-14 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-14 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [jeffersongoncalves/filament-ace-editor-field](https://github.com/jeffersongoncalves/filament-ace-editor-field) | 4 | 2026-06-14 | A Laravel Filament field that integrates the Ace code editor... |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-06-14 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-06-14 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-14T18:31 | 2 | 1728 | 4621 |
 | 2026-06-14T12:40 | 4 | 1728 | 4619 |
 | 2026-06-14T07:37 | 5 | 1726 | 4615 |
 | 2026-06-14T00:49 | 1 | 1727 | 4610 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-13T00:49 | 3 | 1723 | 4596 |
 | 2026-06-12T18:41 | 4 | 1722 | 4593 |
 | 2026-06-12T13:10 | 6 | 1719 | 4589 |
-| 2026-06-12T07:39 | 3 | 1721 | 4583 |
 
 ---
 

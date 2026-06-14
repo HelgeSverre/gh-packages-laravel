@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4615  
-**Last updated:** 2026-06-14T07:37:16.245Z
+**Total packages tracked:** 4619  
+**Last updated:** 2026-06-14T12:40:50.051Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ghostcompiler/laravel-model-caching](https://github.com/ghostcompiler/laravel-model-caching) | 6 | High-performance Eloquent model caching for Laravel with automatic cache invalid... |
+| [dcarrero/contratacion-publica-abierta](https://github.com/dcarrero/contratacion-publica-abierta) | 0 | Portal open source de transparencia en contratación pública de España. ~8,2M con... |
+| [oi-lab/oi-laravel-attachments](https://github.com/oi-lab/oi-laravel-attachments) | 0 | A Laravel package for polymorphic file attachments. Attach files to any Eloquent... |
+| [AnandKumar2002/ip-intelligence](https://github.com/AnandKumar2002/ip-intelligence) | 0 | A robust, ultra-fast, and zero-dependency Laravel package that collects and anal... |
 | [ghostcompiler/laravel-hetzner-cloud](https://github.com/ghostcompiler/laravel-hetzner-cloud) | 1 | Production-ready Laravel SDK for the Hetzner Cloud API with support for servers,... |
 | [salehhashemi1992/laravel-repository](https://github.com/salehhashemi1992/laravel-repository) | 20 | A Laravel package to abstract the database layer, simplifying application mainte... |
 | [rzl-zone/blade-minify](https://github.com/rzl-zone/blade-minify) | 0 | A Laravel package to seamlessly minify Blade HTML output for faster pages and a ... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [yehia-tarek/laravel-erpnext](https://github.com/yehia-tarek/laravel-erpnext) | 0 | A Laravel package for interacting with ERPNext / Frappe REST API |
 | [YasserElgammal/easy-wallet](https://github.com/YasserElgammal/easy-wallet) | 8 | Laravel Easy Wallet Package lets you manage balances and transactions with ease. |
 | [ilogus/laravel-honeypotplus](https://github.com/ilogus/laravel-honeypotplus) | 2 | A Laravel package that detects malicious IPs attempting to access sensitive file... |
-| [YasserElgammal/laravel-egypt-national-id-parser](https://github.com/YasserElgammal/laravel-egypt-national-id-parser) | 0 | A Laravel package to parse and validate Egyptian National ID numbers, extracting... |
-| [teksite/systeminfo-laravel](https://github.com/teksite/systeminfo-laravel) | 0 | a package to get information about the system resources such as OS, CPU, RAM |
-| [mohammadwaqas908/laravel-variant-generator](https://github.com/mohammadwaqas908/laravel-variant-generator) | 2 | A powerful and fluent Laravel package to generate all possible product variants ... |
-| [icode4life007/Bikedelivery](https://github.com/icode4life007/Bikedelivery) | 0 | Laravel-based bike delivery management system with multi-role access (Super Admi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Maya-AQSS/shared-editor-laravel](https://github.com/Maya-AQSS/shared-editor-laravel) | 0 | 2026-06-14 | TipTap/BlockNote → HTML renderer + DOCX exporter for Laravel... |
-| [Maya-AQSS/shared-http-laravel](https://github.com/Maya-AQSS/shared-http-laravel) | 0 | 2026-06-14 | Read-only mirror of packages/php/shared-http-laravel from ma... |
-| [Maya-AQSS/shared-platform-laravel](https://github.com/Maya-AQSS/shared-platform-laravel) | 0 | 2026-06-14 | Read-only mirror of packages/php/shared-platform-laravel fro... |
-| [Maya-AQSS/shared-profile-laravel](https://github.com/Maya-AQSS/shared-profile-laravel) | 0 | 2026-06-14 | Read-only mirror of packages/php/shared-profile-laravel from... |
-| [Maya-AQSS/shared-translations-laravel](https://github.com/Maya-AQSS/shared-translations-laravel) | 0 | 2026-06-14 | Read-only mirror of packages/php/shared-translations-laravel... |
-| [Maya-AQSS/shared-auth-laravel](https://github.com/Maya-AQSS/shared-auth-laravel) | 0 | 2026-06-14 | Read-only mirror of packages/php/shared-auth-laravel from ma... |
-| [Maya-AQSS/shared-messaging-laravel](https://github.com/Maya-AQSS/shared-messaging-laravel) | 0 | 2026-06-14 | Read-only mirror of packages/php/shared-messaging-laravel fr... |
-| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-14 | Laravel package for mk-director monorepo — admin module scaf... |
-| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 409 | 2026-06-14 | Laravel Kanban boards with intelligent pagination, drag-and-... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-06-14 | Simple package for adding directives to show/hide content fr... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 18 | 2026-06-14 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [MahdiMajidzadeh/prompt-library](https://github.com/MahdiMajidzadeh/prompt-library) | 0 | 2026-06-14 | Library of Prompts that use for product managers |
-| [Streats22/LaraGrapePackage](https://github.com/Streats22/LaraGrapePackage) | 4 | 2026-06-14 | LaraGrape is a Laravel package that provides a powerful, ext... |
-| [derian-cordoba/laravel-ab-testing](https://github.com/derian-cordoba/laravel-ab-testing) | 1 | 2026-06-14 | Standalone Laravel A/B testing and feature flag framework wi... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-14 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [BabelQueue/laravel](https://github.com/BabelQueue/laravel) | 1 | 2026-06-14 | Drop-in Laravel queue driver for BabelQueue — dispatch polyg... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-06-14 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-14 | Track and display Matomo analytics data directly within Lara... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-14 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-14 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-14 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [pedezim362/filemanager](https://github.com/pedezim362/filemanager) | 3 | 2026-06-14 | 📁 Manage files effortlessly with this Laravel and Filament ... |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-06-14 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [businesstilto/commentable](https://github.com/businesstilto/commentable) | 16 | 2026-06-14 | An extensive and very customizable package that adds comment... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-06-14 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [oi-lab/oi-laravel-attachments](https://github.com/oi-lab/oi-laravel-attachments) | 0 | 2026-06-14 | A Laravel package for polymorphic file attachments. Attach f... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-14 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [YamateKudashai/PHind](https://github.com/YamateKudashai/PHind) | 2 | 2026-06-14 | 🔍 Enhance search in Laravel with PHind, a semantic search p... |
+| [orchestral/workbench](https://github.com/orchestral/workbench) | 82 | 2026-06-14 | Workbench Companion for Laravel Packages Development |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-06-14 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-14 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-06-14 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-06-14 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-14 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-14 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-06-14 | 🚀 Simplify database interactions with this lightweight PHP ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-14 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-14 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [whilesmartphp/eloquent-workspaces](https://github.com/whilesmartphp/eloquent-workspaces) | 0 | 2026-06-14 | A teams or workspace package for Laravel |
+| [RomaLytar/yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 6 | 2026-06-14 | Laravel audit log & change history with real actor attributi... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-14T12:40 | 4 | 1728 | 4619 |
 | 2026-06-14T07:37 | 5 | 1726 | 4615 |
 | 2026-06-14T00:49 | 1 | 1727 | 4610 |
 | 2026-06-13T18:30 | 3 | 1725 | 4609 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-12T18:41 | 4 | 1722 | 4593 |
 | 2026-06-12T13:10 | 6 | 1719 | 4589 |
 | 2026-06-12T07:39 | 3 | 1721 | 4583 |
-| 2026-06-12T00:50 | 9 | 1715 | 4580 |
 
 ---
 

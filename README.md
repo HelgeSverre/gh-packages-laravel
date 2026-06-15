@@ -2,20 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4631  
-**Last updated:** 2026-06-15T08:00:29.150Z
+**Total packages tracked:** 4634  
+**Last updated:** 2026-06-15T14:08:33.858Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [lobotomised/laravel-autocrawler](https://github.com/lobotomised/laravel-autocrawler) | 2 | Check your website for dead links |
+| [imabbas8/laravel-ai-monitor](https://github.com/imabbas8/laravel-ai-monitor) | 0 | Open-source Laravel package for analyzing PHP packages and generating health sco... |
+| [Brennii96/address-lookup-package](https://github.com/Brennii96/address-lookup-package) | 0 | Laravel package that normalizes address lookup responses from different provider... |
 | [miladev95/ip-whitelist](https://github.com/miladev95/ip-whitelist) | 0 | Laravel middleware package that restricts access by IP address using configurabl... |
 | [sopheaksem9999/sp-jwt-auth](https://github.com/sopheaksem9999/sp-jwt-auth) | 1 | SP JWT Auth Package JWT Authentication Package for Laravel |
 | [pedrosalpr/laravel-api-problem](https://github.com/pedrosalpr/laravel-api-problem) | 10 | The objective of this package is to facilitate error outputs from API requests i... |
-| [DanielMabadeje/laravel-dao-generator](https://github.com/DanielMabadeje/laravel-dao-generator) | 0 | Manually scaffolding the Service → DAO → Repository pattern for every model is r... |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 1 | The ultimate form components kit and custom fields builder for Filament v5. Over... |
+| [DanielMabadeje/laravel-dao-generator](https://github.com/DanielMabadeje/laravel-dao-generator) | 1 | Manually scaffolding the Service → DAO → Repository pattern for every model is r... |
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 6 | The ultimate form components kit and custom fields builder for Filament v5. Over... |
 | [san-ratul/shopassist-ai](https://github.com/san-ratul/shopassist-ai) | 0 | AI Chatbot package for Laravel E-commerce applications with multi-provider suppo... |
-| [oi-lab/oi-laravel-notes](https://github.com/oi-lab/oi-laravel-notes) | 0 | A Laravel package for polymorphic notes. Attach notes to **any** Eloquent model,... |
+| [oi-lab/oi-laravel-notes](https://github.com/oi-lab/oi-laravel-notes) | 1 | A Laravel package for polymorphic notes. Attach notes to **any** Eloquent model,... |
 | [Rosengate/sigil](https://github.com/Rosengate/sigil) | 2 | Laravel-Exedra PHP 8 attributes based routing controller package |
 | [andydefer/laravel-search](https://github.com/andydefer/laravel-search) | 0 | Fuzzy search package for Laravel |
 | [Monoverse1/voicebot-laravel-sync](https://github.com/Monoverse1/voicebot-laravel-sync) | 0 | VoiceBot Laravel sync — push your catalog & content to VoiceBot (signed, increme... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [dcarrero/contratacion-publica-abierta](https://github.com/dcarrero/contratacion-publica-abierta) | 0 | Portal open source de transparencia en contratación pública de España. ~8,2M con... |
 | [oi-lab/oi-laravel-attachments](https://github.com/oi-lab/oi-laravel-attachments) | 0 | A Laravel package for polymorphic file attachments. Attach files to any Eloquent... |
 | [AnandKumar2002/ip-intelligence](https://github.com/AnandKumar2002/ip-intelligence) | 0 | A robust, ultra-fast, and zero-dependency Laravel package that collects and anal... |
-| [ghostcompiler/laravel-hetzner-cloud](https://github.com/ghostcompiler/laravel-hetzner-cloud) | 1 | Production-ready Laravel SDK for the Hetzner Cloud API with support for servers,... |
-| [salehhashemi1992/laravel-repository](https://github.com/salehhashemi1992/laravel-repository) | 20 | A Laravel package to abstract the database layer, simplifying application mainte... |
-| [rzl-zone/blade-minify](https://github.com/rzl-zone/blade-minify) | 0 | A Laravel package to seamlessly minify Blade HTML output for faster pages and a ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 152 | 2026-06-15 | The Moox Project - Packages for Filament and Laravel |
-| [Wagner-Souza/eloquent-orm](https://github.com/Wagner-Souza/eloquent-orm) | 0 | 2026-06-15 | 🚀 Simplify database interactions with this lightweight PHP ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-15 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-15 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ComfyCodersBV/laravel-vue-crud-builder](https://github.com/ComfyCodersBV/laravel-vue-crud-builder) | 0 | 2026-06-15 |  A VueJS/Inertia CRUD Builder package for Laravel  |
-| [dcarrero/contratacion-publica-abierta](https://github.com/dcarrero/contratacion-publica-abierta) | 0 | 2026-06-15 | Portal open source de transparencia en contratación pública ... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-15 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [eyadislam/laravel-ai-factory](https://github.com/eyadislam/laravel-ai-factory) | 0 | 2026-06-15 | 🤖 Generate realistic test data effortlessly with Laravel AI... |
-| [dgf1969/payment-gateway](https://github.com/dgf1969/payment-gateway) | 1 | 2026-06-15 | 💳 Streamline payment processing with this PHP package that ... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-06-15 | Collect everything about sent mails in your Filament app. |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 248 | 2026-06-15 | Collect everything about sent mails in your Laravel app |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-15 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-15 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-06-15 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
 | [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-15 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [smart-dato/desk365-sdk](https://github.com/smart-dato/desk365-sdk) | 0 | 2026-06-15 | Desk365 Laravel SDK - A Laravel package to interact with the... |
-| [woduda/civicrm-laravel](https://github.com/woduda/civicrm-laravel) | 0 | 2026-06-15 | Laravel package for CiviCRM REST APIv4 |
-| [MatthewYeend/Laravel-Model-Service](https://github.com/MatthewYeend/Laravel-Model-Service) | 1 | 2026-06-15 | Laravel Package to add Service flag |
-| [andydefer/laravel-search](https://github.com/andydefer/laravel-search) | 0 | 2026-06-15 | Fuzzy search package for Laravel |
-| [lalalili/subscription-core](https://github.com/lalalili/subscription-core) | 0 | 2026-06-15 | Reusable subscription domain package for Laravel application... |
+| [lobotomised/laravel-autocrawler](https://github.com/lobotomised/laravel-autocrawler) | 2 | 2026-06-15 | Check your website for dead links |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-15 | A practical work management information system built with La... |
+| [typicms/core](https://github.com/typicms/core) | 7 | 2026-06-15 | The core package of TypiCMS, containing the base architectur... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-15 | A Laravel-based web application that tracks, analyzes, and p... |
+| [ComfyCodersBV/laravel-vue-crud-builder](https://github.com/ComfyCodersBV/laravel-vue-crud-builder) | 0 | 2026-06-15 |  A VueJS/Inertia CRUD Builder package for Laravel  |
+| [ArtemYurov/moonshine-db-joblog](https://github.com/ArtemYurov/moonshine-db-joblog) | 1 | 2026-06-15 | Job queue logging with MoonShine admin panel for Laravel |
+| [ArtemYurov/moonshine-command-schedule-job](https://github.com/ArtemYurov/moonshine-command-schedule-job) | 1 | 2026-06-15 | MoonShine Command Schedule Job Service |
+| [oi-lab/oi-laravel-insee](https://github.com/oi-lab/oi-laravel-insee) | 0 | 2026-06-15 | A Laravel package for INSEE SIRENE API integration |
+| [oi-lab/oi-laravel-documentation](https://github.com/oi-lab/oi-laravel-documentation) | 1 | 2026-06-15 | A Laravel package for managing markdown-based documentation ... |
+| [oi-lab/oi-laravel-attachments](https://github.com/oi-lab/oi-laravel-attachments) | 0 | 2026-06-15 | A Laravel package for polymorphic file attachments. Attach f... |
+| [oi-lab/oi-laravel-development](https://github.com/oi-lab/oi-laravel-development) | 0 | 2026-06-15 | A Laravel package providing essential development and initia... |
+| [oi-lab/oi-laravel-notes](https://github.com/oi-lab/oi-laravel-notes) | 1 | 2026-06-15 | A Laravel package for polymorphic notes. Attach notes to **a... |
+| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-06-15 | Laravel package for AEAT Verifactu compliance with agnostic ... |
+| [Baspa/laravel-timezones](https://github.com/Baspa/laravel-timezones) | 2 | 2026-06-15 | This package offers a convenient solution for Laravel develo... |
+| [toadfix/minishop](https://github.com/toadfix/minishop) | 1 | 2026-06-15 | Headless ecommerce Laravel package |
+| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | 2026-06-15 | A VueJS/Inertia TableBuilder package for Laravel |
+| [VanOns/laravel-environment-importer](https://github.com/VanOns/laravel-environment-importer) | 0 | 2026-06-15 | A Laravel package for easy importing of a configured environ... |
+| [VanOns/laravel-translations-sync](https://github.com/VanOns/laravel-translations-sync) | 0 | 2026-06-15 | A package that synchronizes translations between your Larave... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-15T14:08 | 3 | 1727 | 4634 |
 | 2026-06-15T08:00 | 4 | 1725 | 4631 |
 | 2026-06-15T00:50 | 7 | 1722 | 4627 |
 | 2026-06-14T18:31 | 2 | 1728 | 4621 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-13T18:30 | 3 | 1725 | 4609 |
 | 2026-06-13T12:37 | 9 | 1719 | 4606 |
 | 2026-06-13T07:20 | 2 | 1724 | 4598 |
-| 2026-06-13T00:49 | 3 | 1723 | 4596 |
 
 ---
 

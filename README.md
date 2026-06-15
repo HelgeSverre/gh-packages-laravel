@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4621  
-**Last updated:** 2026-06-14T18:31:11.514Z
+**Total packages tracked:** 4627  
+**Last updated:** 2026-06-15T00:50:57.173Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 1 | The ultimate form components kit and custom fields builder for Filament v5. Over... |
+| [san-ratul/shopassist-ai](https://github.com/san-ratul/shopassist-ai) | 0 | AI Chatbot package for Laravel E-commerce applications with multi-provider suppo... |
+| [oi-lab/oi-laravel-notes](https://github.com/oi-lab/oi-laravel-notes) | 0 | A Laravel package for polymorphic notes. Attach notes to **any** Eloquent model,... |
+| [Rosengate/sigil](https://github.com/Rosengate/sigil) | 2 | Laravel-Exedra PHP 8 attributes based routing controller package |
+| [andydefer/laravel-search](https://github.com/andydefer/laravel-search) | 0 | Fuzzy search package for Laravel |
+| [Monoverse1/voicebot-laravel-sync](https://github.com/Monoverse1/voicebot-laravel-sync) | 0 | VoiceBot Laravel sync — push your catalog & content to VoiceBot (signed, increme... |
+| [lucaspatraodev/laravel-logai](https://github.com/lucaspatraodev/laravel-logai) | 0 | Open-source observability package for Laravel with AI-powered log and exception ... |
 | [itstructure/laravel-rbac](https://github.com/itstructure/laravel-rbac) | 55 | Laravel package for RBAC manage |
 | [itstructure/laravel-grid-view](https://github.com/itstructure/laravel-grid-view) | 24 | This package is to displaying the model data in a Grid table. |
 | [ghostcompiler/laravel-model-caching](https://github.com/ghostcompiler/laravel-model-caching) | 6 | High-performance Eloquent model caching for Laravel with automatic cache invalid... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | PHP / Laravel packages used by Visns Studio |
 | [BigTechnologie/laravel-entity-tools](https://github.com/BigTechnologie/laravel-entity-tools) | 0 | Laravel package to generate Entities and CRUDs automatically via Artisan. |
 | [tracefast/laravel-ai-observability](https://github.com/tracefast/laravel-ai-observability) | 0 | OpenInference-compatible tracing and observability for Laravel AI SDK apps and a... |
-| [estin92/laravel-dvla-ves](https://github.com/estin92/laravel-dvla-ves) | 0 | Laravel package to look up UK vehicle tax, MOT, fuel & emissions by registration... |
-| [Chizzoz/laravel-pawapay](https://github.com/Chizzoz/laravel-pawapay) | 0 | Laravel PawaPay Package |
-| [riteshsingh1/livewire-crud](https://github.com/riteshsingh1/livewire-crud) | 28 | Basic Crud Generator (With Code Files, like GII (YII2)) Using Laravel, Livewire ... |
-| [iamdenzen/Warehouse-Management-System](https://github.com/iamdenzen/Warehouse-Management-System) | 0 | Laravel Warehouse Management System using Picklight ESP32, DHL, PrintNode API, a... |
-| [neokofg/laravel-architecture-commands](https://github.com/neokofg/laravel-architecture-commands) | 5 | composer package to create generated architecture files |
-| [wiwichai/thai-address](https://github.com/wiwichai/thai-address) | 0 | Laravel Package สำหรับจัดการข้อมูลที่อยู่ไทย (ตำบล / อำเภอ / จังหวัด / รหัสไปรษณ... |
-| [yehia-tarek/laravel-erpnext](https://github.com/yehia-tarek/laravel-erpnext) | 0 | A Laravel package for interacting with ERPNext / Frappe REST API |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [LuciferMax/online_store](https://github.com/LuciferMax/online_store) | 0 | 2026-06-14 | Projet de boutique en ligne développé avec Laravel, Vite et ... |
-| [Astrr3/Laravel-Argonaut-DTO](https://github.com/Astrr3/Laravel-Argonaut-DTO) | 0 | 2026-06-14 | Argonaut is a lightweight Data Transfer Object (DTO) package... |
-| [toadfix/minishop](https://github.com/toadfix/minishop) | 1 | 2026-06-14 | Headless ecommerce Laravel package |
-| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 1 | 2026-06-14 | A file-based CMS package for Laravel. Renders documentation,... |
-| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 9 | 2026-06-14 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-06-14 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-06-14 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [rahulhaque/soketi-app-manager-filament](https://github.com/rahulhaque/soketi-app-manager-filament) | 113 | 2026-06-14 | Manage soketi websocket server and apps with ease. |
-| [itstructure/laravel-rbac](https://github.com/itstructure/laravel-rbac) | 55 | 2026-06-14 | Laravel package for RBAC manage |
-| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-06-14 | A structured logging package for Laravel that writes logs in... |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-06-14 | A developer-friendly package for creating advanced Wordpress... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 7 | 2026-06-14 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [offload-project/laravel-invite-only](https://github.com/offload-project/laravel-invite-only) | 72 | 2026-06-14 | A Laravel package for managing user invitations with polymor... |
-| [itstructure/laravel-grid-view](https://github.com/itstructure/laravel-grid-view) | 24 | 2026-06-14 | This package is to displaying the model data in a Grid table... |
-| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-06-14 | A Filament plugin to add markdown-based documentation to you... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-06-14 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 9 | 2026-06-15 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [ArtisanPack-UI/livewire-ui-components](https://github.com/ArtisanPack-UI/livewire-ui-components) | 1 | 2026-06-15 | Stop reinventing the wheel and start building dynamic Livewi... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-15 | A Laravel-based web application that tracks, analyzes, and p... |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-06-15 | Laravel OTP is a Laravel package that enables developers to ... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-14 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [jeffersongoncalves/filament-ace-editor-field](https://github.com/jeffersongoncalves/filament-ace-editor-field) | 4 | 2026-06-14 | A Laravel Filament field that integrates the Ace code editor... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-06-14 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-06-14 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
+| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-14 | Track and display Matomo analytics data directly within Lara... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-14 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-14 | Build efficient help desk systems with a Laravel 12 and Fila... |
+| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-14 | Accelerate Laravel 12 and Filament 5 app development with a ... |
+| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-14 | Build and manage help desk ticket systems with a Laravel 12 ... |
+| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-14 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
+| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-14 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-14 | Accelerate web app development with a Laravel 12 and Filamen... |
+| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-14 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
+| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-06-14 | Generate GitHub repository statistics and insights directly ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-14 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [andydefer/laravel-search](https://github.com/andydefer/laravel-search) | 0 | 2026-06-14 | Fuzzy search package for Laravel |
+| [HolgerHatGarKeineNode/einundzwanzig-mobile-app](https://github.com/HolgerHatGarKeineNode/einundzwanzig-mobile-app) | 2 | 2026-06-14 | Bitcoin-Community-App für Einundzwanzig – Meetups, Events, K... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-14 | Prevent risky Laravel database migrations with static analys... |
+| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-06-14 | Enable Laravel apps to build AI agents using Claude Code for... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-15T00:50 | 7 | 1722 | 4627 |
 | 2026-06-14T18:31 | 2 | 1728 | 4621 |
 | 2026-06-14T12:40 | 4 | 1728 | 4619 |
 | 2026-06-14T07:37 | 5 | 1726 | 4615 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-13T07:20 | 2 | 1724 | 4598 |
 | 2026-06-13T00:49 | 3 | 1723 | 4596 |
 | 2026-06-12T18:41 | 4 | 1722 | 4593 |
-| 2026-06-12T13:10 | 6 | 1719 | 4589 |
 
 ---
 

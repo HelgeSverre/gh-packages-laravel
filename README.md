@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4641  
-**Last updated:** 2026-06-16T07:58:51.974Z
+**Total packages tracked:** 4645  
+**Last updated:** 2026-06-16T13:47:33.616Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ghostcompiler/laravel-hetzner-robot](https://github.com/ghostcompiler/laravel-hetzner-robot) | 6 | Laravel SDK for the Hetzner Robot API with fluent resources, type-safe responses... |
+| [open-southeners/laravel-console-file-menu](https://github.com/open-southeners/laravel-console-file-menu) | 6 | Like NunoMaduro's console file menu package but for files. |
+| [itz4mesays/Laravel-Api-Response-Handler](https://github.com/itz4mesays/Laravel-Api-Response-Handler) | 0 | A lightweight Laravel package for standardizing API responses across your applic... |
+| [itz4mesays/Laravel-Custom-Pagination](https://github.com/itz4mesays/Laravel-Custom-Pagination) | 0 | A lightweight Laravel package for custom query pagination with a standardized pa... |
 | [ashrafic/filament-white-label](https://github.com/ashrafic/filament-white-label) | 0 | Total panel rebranding. For you and every tenant. No code. Logo, colors, fonts, ... |
 | [quasarstream/shaka-php](https://github.com/quasarstream/shaka-php) | 92 | 🎞 Shaka PHP is a library that uses Shaka Packager for DASH and HLS packaging an... |
 | [RPillz/laravel-feature-access](https://github.com/RPillz/laravel-feature-access) | 3 | Laravel package to add tiered plans and feature access for users and teams. |
@@ -24,11 +28,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [sopheaksem9999/sp-jwt-auth](https://github.com/sopheaksem9999/sp-jwt-auth) | 1 | SP JWT Auth Package JWT Authentication Package for Laravel |
 | [pedrosalpr/laravel-api-problem](https://github.com/pedrosalpr/laravel-api-problem) | 10 | The objective of this package is to facilitate error outputs from API requests i... |
 | [DanielMabadeje/laravel-dao-generator](https://github.com/DanielMabadeje/laravel-dao-generator) | 2 | Manually scaffolding the Service → DAO → Repository pattern for every model is r... |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 12 | The ultimate form components kit and custom fields builder for Filament v5. Over... |
-| [san-ratul/shopassist-ai](https://github.com/san-ratul/shopassist-ai) | 0 | AI Chatbot package for Laravel E-commerce applications with multi-provider suppo... |
-| [oi-lab/oi-laravel-notes](https://github.com/oi-lab/oi-laravel-notes) | 1 | A Laravel package for polymorphic notes. Attach notes to **any** Eloquent model,... |
-| [Rosengate/sigil](https://github.com/Rosengate/sigil) | 2 | Laravel-Exedra PHP 8 attributes based routing controller package |
-| [andydefer/laravel-search](https://github.com/andydefer/laravel-search) | 0 | Fuzzy search package for Laravel |
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 13 | The ultimate form components kit and custom fields builder for Filament v5. Over... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [snoeren-development/laravel-discord-webhook-channel](https://github.com/snoeren-development/laravel-discord-webhook-channel) | 15 | 2026-06-16 | Send notifications to a Discord webhook. |
-| [SanderMuller/package-boost-laravel](https://github.com/SanderMuller/package-boost-laravel) | 1 | 2026-06-16 | AI agent skills for Laravel package authors. Adds Laravel sk... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-16 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [yusdi/laravel-metrics-matomo](https://github.com/yusdi/laravel-metrics-matomo) | 0 | 2026-06-16 | Track and display Matomo analytics data directly within Lara... |
-| [Manvendra171006/servicedeskkitv4](https://github.com/Manvendra171006/servicedeskkitv4) | 0 | 2026-06-16 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Mazar77/helpdeskkitv4](https://github.com/Mazar77/helpdeskkitv4) | 0 | 2026-06-16 | Build and manage help desk ticket systems with a Laravel 12 ... |
-| [Darpan013/helpdeskkitv3](https://github.com/Darpan013/helpdeskkitv3) | 0 | 2026-06-16 | Build a multi-panel help desk with Laravel 12 and Filament 3... |
-| [MarxDeFaust/evolutionkitv5](https://github.com/MarxDeFaust/evolutionkitv5) | 0 | 2026-06-16 | Accelerate Laravel 12 and Filament 5 app development with a ... |
-| [Senji-ul/helpdeskkitv5](https://github.com/Senji-ul/helpdeskkitv5) | 0 | 2026-06-16 | Build efficient help desk systems with a Laravel 12 and Fila... |
-| [TitoSalinas/servicedeskkitv3](https://github.com/TitoSalinas/servicedeskkitv3) | 0 | 2026-06-16 | Accelerate web app development with a Laravel 12 and Filamen... |
-| [Purabd/mfakitv5](https://github.com/Purabd/mfakitv5) | 0 | 2026-06-16 | Provide a starter kit with Laravel 12 and Filament 5 that se... |
 | [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-16 | Main Webampp laravel package for GEOBOX 2.0 |
-| [Jatin5784/laravel-github-stats](https://github.com/Jatin5784/laravel-github-stats) | 0 | 2026-06-16 | Generate GitHub repository statistics and insights directly ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-16 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [42dx/whatsapp-laravel-sdk](https://github.com/42dx/whatsapp-laravel-sdk) | 1 | 2026-06-16 | A laravel package that abstracts all the whatsapp api integr... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-16 | Prevent risky Laravel database migrations with static analys... |
-| [cbt4free/claude-agent-sdk-laravel](https://github.com/cbt4free/claude-agent-sdk-laravel) | 1 | 2026-06-16 | Enable Laravel apps to build AI agents using Claude Code for... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-16 | Integrate Mixpanel analytics into Filament projects to track... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-06-16 | Collect everything about sent mails in your Filament app. |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-16 | Manage and track inventory with a PHP package that integrate... |
+| [hhhhKijo/laravel-oidc-server](https://github.com/hhhhKijo/laravel-oidc-server) | 0 | 2026-06-16 | 🔒 Extend Laravel Passport with full OpenID Connect support,... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-06-16 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-06-16 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [rahiez9/coinmarketcap-php](https://github.com/rahiez9/coinmarketcap-php) | 0 | 2026-06-16 | 📈 Access real-time cryptocurrency data easily with this PHP... |
+| [VedangGupta123/async-cache-bridge-laravel](https://github.com/VedangGupta123/async-cache-bridge-laravel) | 0 | 2026-06-16 | ⚡ Enhance Laravel applications with async caching, improving... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-06-16 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-06-16 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laouamtaha/laravel-chat-engine](https://github.com/laouamtaha/laravel-chat-engine) | 0 | 2026-06-16 | 💬 Build scalable chat applications with a polymorphic chat ... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 152 | 2026-06-16 | The Moox Project - Packages for Filament and Laravel |
+| [angg12346/turkiye-validator](https://github.com/angg12346/turkiye-validator) | 0 | 2026-06-16 | 🌍 Validate Turkish identity numbers and addresses efficient... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-16 | Resrv is a booking engine for Statamic. |
+| [F-Codex/Apexio](https://github.com/F-Codex/Apexio) | 0 | 2026-06-16 | 🚀 Manage your projects efficiently with Apexio, a web-based... |
+| [Dante9581/laravel-elevenlabs](https://github.com/Dante9581/laravel-elevenlabs) | 0 | 2026-06-16 | 🎤 Integrate ElevenLabs Text-to-Speech and Speech-to-Text AP... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-16 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Don121415/laravel-invoicelite](https://github.com/Don121415/laravel-invoicelite) | 0 | 2026-06-16 | 🧾 Generate professional, multi-language invoices with Larav... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-16 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Georgieselflocking582/laravel-translate](https://github.com/Georgieselflocking582/laravel-translate) | 0 | 2026-06-16 | 🌐 Elevate your Laravel app with a powerful multi-source tra... |
+| [it-healer/laravel-evm](https://github.com/it-healer/laravel-evm) | 0 | 2026-06-16 | A Laravel package for working with any EVM network (Ethereum... |
+| [ArefShojaei/KitDash](https://github.com/ArefShojaei/KitDash) | 0 | 2026-06-16 | A lightweight and flexible PHP utility library |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-16T13:47 | 4 | 1727 | 4645 |
 | 2026-06-16T07:58 | 1 | 1729 | 4641 |
 | 2026-06-16T00:55 | 3 | 1727 | 4641 |
 | 2026-06-15T19:21 | 4 | 1727 | 4638 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-14T18:31 | 2 | 1728 | 4621 |
 | 2026-06-14T12:40 | 4 | 1728 | 4619 |
 | 2026-06-14T07:37 | 5 | 1726 | 4615 |
-| 2026-06-14T00:49 | 1 | 1727 | 4610 |
 
 ---
 

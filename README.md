@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4674  
-**Last updated:** 2026-06-17T13:17:20.738Z
+**Total packages tracked:** 4681  
+**Last updated:** 2026-06-17T18:50:50.721Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 0 | Integrate spatie/laravel-event-sourcing v7 with Filament v4: write through aggre... |
+| [rpwebdevelopment/has-image-laravel](https://github.com/rpwebdevelopment/has-image-laravel) | 0 | A package for simplifying image handling on Laravel eloquent models |
+| [m2collective/laravel-defining-user-device](https://github.com/m2collective/laravel-defining-user-device) | 0 | A package for detecting the user's device. |
+| [mikeyperes/laravel-hexa-package-smp-wordpress-text-to-speech](https://github.com/mikeyperes/laravel-hexa-package-smp-wordpress-text-to-speech) | 0 | Scale My Publication WordPress text-to-speech credential, detection, and integri... |
+| [fschirinzi/translation-manager-for-laravel](https://github.com/fschirinzi/translation-manager-for-laravel) | 5 | Package to manage Laravel translations locally |
+| [sky-hackeR/ai-test-13](https://github.com/sky-hackeR/ai-test-13) | 0 | Implementing Laravel 13 AI SDK Package in the creation of a chatbot |
+| [ervinsvilumsons/laravel-eloqeuntql](https://github.com/ervinsvilumsons/laravel-eloqeuntql) | 0 | A small Laravel package to extend Eloquent models with JSON:API sparse fieldsets... |
+| [m2collective/laravel-blade-directive](https://github.com/m2collective/laravel-blade-directive) | 0 | This package simplifies and systematizes the creation and registration of user d... |
 | [melimelimeli18/sentosa-quiz](https://github.com/melimelimeli18/sentosa-quiz) | 0 | Assesment Evaluation Quiz for Sentosa High School |
 | [ghostcompiler/laravel-cloudflare](https://github.com/ghostcompiler/laravel-cloudflare) | 0 | Complete Laravel Cloudflare API SDK for managing DNS records, zones, cache, SSL,... |
 | [salehhashemi1992/laravel-otp-manager](https://github.com/salehhashemi1992/laravel-otp-manager) | 188 | Generate, send, verify, and manage one-time passwords for Laravel |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Rafiki23/WatermarkCredits](https://github.com/Rafiki23/WatermarkCredits) | 0 | WatermarkCredits is a Laravel package for easily applying watermarks with names/... |
 | [testmonitor/eloquent-calculated-columns](https://github.com/testmonitor/eloquent-calculated-columns) | 2 | A Laravel package for adding calculated columns to Eloquent models using SQL for... |
 | [testmonitor/eloquent-searchable](https://github.com/testmonitor/eloquent-searchable) | 3 | A Laravel package that adds search functionality to Eloquent models, allowing fo... |
-| [mohammadrezagohari/RepositoryPattern](https://github.com/mohammadrezagohari/RepositoryPattern) | 3 | Laravel package for generating repository classes, interfaces, and reusable Eloq... |
-| [zeroit789/meetcita](https://github.com/zeroit789/meetcita) | 0 | Self-hosted appointment booking for Laravel — availability calendar, online (Goo... |
-| [ArielEspinoza07/tenancy-laravel](https://github.com/ArielEspinoza07/tenancy-laravel) | 0 | Laravel adapter for tenancy-core. Middleware, Eloquent scoping, events, and queu... |
-| [haianibrahim/tiktok-scraper-laravel](https://github.com/haianibrahim/tiktok-scraper-laravel) | 0 | Laravel package of: https://github.com/haianibrahim/tiktok-scraper |
-| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | a standalone, deterministic, offline-first Laravel package that closes the promp... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | Laravel integration for Custd (read-only mirror of custd-sdk/laravel-package) |
-| [rajurayhan/laravel-eloquent-order-manager](https://github.com/rajurayhan/laravel-eloquent-order-manager) | 1 | A Laravel package for effortlessly managing the order of Eloquent models. Simpli... |
-| [noscrape/noscrape-laravel](https://github.com/noscrape/noscrape-laravel) | 0 | A laravel package for noscrape |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 152 | 2026-06-17 | The Moox Project - Packages for Filament and Laravel |
-| [toadfix/minishop](https://github.com/toadfix/minishop) | 1 | 2026-06-17 | Headless ecommerce Laravel package |
-| [m2collective/laravel-package-kit](https://github.com/m2collective/laravel-package-kit) | 0 | 2026-06-17 |  |
 | [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-17 | a standalone, deterministic, offline-first Laravel package t... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-06-17 | Runtime base library for building Laravel packages: fluent P... |
-| [iquesters/integration](https://github.com/iquesters/integration) | 0 | 2026-06-17 | A Laravel package for managing third-party integrations (e.g... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-17 | Main Webampp laravel package for GEOBOX 2.0 |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 59 | 2026-06-17 | [READ ONLY] API Platform for Laravel |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-06-17 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
 | [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-17 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-06-17 | A structured logging package for Laravel that writes logs in... |
-| [EscolaLMS/API](https://github.com/EscolaLMS/API) | 17 | 2026-06-17 | Laravel REST API. Main module that compose all Laravel packa... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 32 | 2026-06-17 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [Benefits-me/php-api-auth](https://github.com/Benefits-me/php-api-auth) | 0 | 2026-06-17 | Laravel package for checking the API token. |
+| [eramitgupta/laravel-lang-sync-inertia](https://github.com/eramitgupta/laravel-lang-sync-inertia) | 48 | 2026-06-17 | Laravel package for syncing translations with Inertia.js in ... |
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 18 | 2026-06-17 | The ultimate form components kit and custom fields builder f... |
+| [Xmk/infoflot-laravel](https://github.com/Xmk/infoflot-laravel) | 2 | 2026-06-17 | Laravel Package for Infoflot PHP Client |
+| [rpwebdevelopment/has-image-laravel](https://github.com/rpwebdevelopment/has-image-laravel) | 0 | 2026-06-17 | A package for simplifying image handling on Laravel eloquent... |
+| [m2collective/laravel-defining-user-device](https://github.com/m2collective/laravel-defining-user-device) | 0 | 2026-06-17 | A package for detecting the user's device. |
+| [Monoverse1/voicebot-laravel-sync](https://github.com/Monoverse1/voicebot-laravel-sync) | 0 | 2026-06-17 | VoiceBot Laravel sync — push your catalog & content to Voice... |
+| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 252 | 2026-06-17 | A Laravel package to detect and block disposable email addre... |
+| [mikeyperes/laravel-hexa-package-smp-wordpress-text-to-speech](https://github.com/mikeyperes/laravel-hexa-package-smp-wordpress-text-to-speech) | 0 | 2026-06-17 | Scale My Publication WordPress text-to-speech credential, de... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-06-17 | Runtime base library for building Laravel packages: fluent P... |
+| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-06-17 | Laravel package for AEAT Verifactu compliance with agnostic ... |
+| [therealmchaggis/definition-types](https://github.com/therealmchaggis/definition-types) | 0 | 2026-06-17 | Definition-driven data types for PHP. It is a framework-agno... |
 | [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-06-17 | A lightweight Laravel package that keeps cached configuratio... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-06-17 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
-| [m2collective/laravel-crawler-detect](https://github.com/m2collective/laravel-crawler-detect) | 0 | 2026-06-17 |  |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-06-17 | Resrv is a booking engine for Statamic. |
-| [korfra/filament-sqids](https://github.com/korfra/filament-sqids) | 2 | 2026-06-17 | 💡 Laravel Filament package that automatically encodes and d... |
-| [Flobbos/laravel-crudable](https://github.com/Flobbos/laravel-crudable) | 16 | 2026-06-17 | Crud package to make CRUD operations faster and simpler. |
-| [creopse/laravel-package](https://github.com/creopse/laravel-package) | 0 | 2026-06-17 | Creopse laravel package. |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-06-17 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [mindtwo/laravel-auto-translatable](https://github.com/mindtwo/laravel-auto-translatable) | 0 | 2026-06-17 | AI-powered translation package for Laravel with smart markdo... |
+| [fschirinzi/translation-manager-for-laravel](https://github.com/fschirinzi/translation-manager-for-laravel) | 5 | 2026-06-17 | Package to manage Laravel translations locally |
+| [salehye/subscription-core](https://github.com/salehye/subscription-core) | 0 | 2026-06-17 | Subscription Core - A powerful Laravel subscription manageme... |
+| [meshu-dev/devjobs](https://github.com/meshu-dev/devjobs) | 0 | 2026-06-17 | Imports and displays developer jobs |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-17T18:50 | 8 | 1724 | 4681 |
 | 2026-06-17T13:17 | 10 | 1721 | 4674 |
 | 2026-06-17T07:52 | 3 | 1728 | 4664 |
 | 2026-06-17T00:50 | 7 | 1724 | 4661 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-16T00:55 | 3 | 1727 | 4641 |
 | 2026-06-15T19:21 | 4 | 1727 | 4638 |
 | 2026-06-15T14:08 | 3 | 1727 | 4634 |
-| 2026-06-15T08:00 | 4 | 1725 | 4631 |
 
 ---
 

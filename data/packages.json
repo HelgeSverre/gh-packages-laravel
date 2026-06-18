@@ -1123,8 +1123,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-10-07T07:13:35Z",
-    "updated_at": "2026-06-11T16:05:11Z",
-    "pushed_at": "2026-06-17T14:28:27Z",
+    "updated_at": "2026-06-17T19:25:29Z",
+    "pushed_at": "2026-06-17T19:25:36Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "team-nifty-gmbh/tall-datatables": {
@@ -14059,7 +14059,7 @@
     "license": "MIT",
     "created_at": "2024-06-25T22:17:07Z",
     "updated_at": "2026-05-13T20:58:53Z",
-    "pushed_at": "2026-06-16T07:43:50Z",
+    "pushed_at": "2026-06-18T00:48:02Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "sharpapi/laravel-tth-ta-product-categories": {
@@ -18749,8 +18749,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-06T16:06:20Z",
-    "updated_at": "2026-06-17T18:43:48Z",
-    "pushed_at": "2026-06-17T18:43:44Z",
+    "updated_at": "2026-06-17T18:50:19Z",
+    "pushed_at": "2026-06-17T18:50:14Z",
     "discovered_at": "2026-02-04T18:17:25.549Z"
   },
   "paytabscom/paytabs-php-laravel-package": {
@@ -20455,8 +20455,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-06-22T12:11:42Z",
-    "updated_at": "2026-04-09T18:24:17Z",
-    "pushed_at": "2026-04-20T18:08:30Z",
+    "updated_at": "2026-06-17T19:49:25Z",
+    "pushed_at": "2026-06-17T19:49:21Z",
     "discovered_at": "2026-02-10T00:28:59.636Z"
   },
   "jobmetric/laravel-package-tester": {
@@ -23450,7 +23450,7 @@
     "license": "AGPL-3.0",
     "created_at": "2024-09-11T16:29:11Z",
     "updated_at": "2026-06-17T14:03:57Z",
-    "pushed_at": "2026-06-17T14:02:28Z",
+    "pushed_at": "2026-06-17T20:08:23Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "mostafaarafatt/laravel-ai-database": {
@@ -24910,7 +24910,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-31T08:45:57Z",
-    "updated_at": "2026-06-13T11:31:59Z",
+    "updated_at": "2026-06-17T18:55:38Z",
     "pushed_at": "2026-05-18T09:49:33Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
@@ -30874,7 +30874,7 @@
     "license": "MIT",
     "created_at": "2024-07-27T17:01:08Z",
     "updated_at": "2026-06-15T15:48:31Z",
-    "pushed_at": "2026-06-15T15:46:58Z",
+    "pushed_at": "2026-06-17T21:27:22Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "zvizvi/filament-relation-manager-repeater": {
@@ -33162,7 +33162,7 @@
     "language": "PHP",
     "license": null,
     "created_at": "2024-02-04T14:40:42Z",
-    "updated_at": "2026-06-09T17:00:55Z",
+    "updated_at": "2026-06-17T18:55:41Z",
     "pushed_at": "2026-06-09T16:55:07Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -33356,7 +33356,7 @@
     "language": "PHP",
     "license": null,
     "created_at": "2024-02-04T14:44:58Z",
-    "updated_at": "2026-06-11T10:10:00Z",
+    "updated_at": "2026-06-17T19:17:05Z",
     "pushed_at": "2026-06-11T07:04:46Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -40972,8 +40972,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-07-09T19:55:12Z",
-    "updated_at": "2026-06-11T01:21:45Z",
-    "pushed_at": "2026-06-11T01:21:47Z",
+    "updated_at": "2026-06-18T00:10:25Z",
+    "pushed_at": "2026-06-18T00:10:07Z",
     "discovered_at": "2026-02-24T18:21:47.432Z"
   },
   "jeffersongoncalves/mobilekit": {
@@ -48903,7 +48903,7 @@
     "name": "algoyounes/circuit-breaker",
     "url": "https://github.com/algoyounes/circuit-breaker",
     "description": "⚡️ A Laravel package to prevent circuit breaker",
-    "stars": 55,
+    "stars": 56,
     "forks": 1,
     "topics": [
       "circuit-breaker",
@@ -48916,7 +48916,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-07-09T14:47:59Z",
-    "updated_at": "2026-06-11T22:05:22Z",
+    "updated_at": "2026-06-17T20:39:08Z",
     "pushed_at": "2026-06-11T22:05:09Z",
     "discovered_at": "2026-03-15T00:27:10.183Z"
   },
@@ -60570,7 +60570,7 @@
     "name": "jeffersongoncalves/laravel-mail",
     "url": "https://github.com/jeffersongoncalves/laravel-mail",
     "description": "Complete email management for Laravel: logging, database templates with translation, delivery tracking via webhooks (SES, SendGrid, Postmark, Mailgun, Resend), pixel tracking (open & click), suppression list, inline CSS, unsubscribe headers, browser preview, statistics, notification channel, retry, attachment storage, pruning, and analytics.",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "topics": [
       "delivery-tracking",
@@ -60597,7 +60597,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-05T23:00:33Z",
-    "updated_at": "2026-06-01T04:50:33Z",
+    "updated_at": "2026-06-17T23:39:48Z",
     "pushed_at": "2026-05-23T03:32:21Z",
     "discovered_at": "2026-04-06T06:39:21.578Z"
   },
@@ -60902,7 +60902,7 @@
     "name": "NativeBlade/NativeBlade",
     "url": "https://github.com/NativeBlade/NativeBlade",
     "description": "Build desktop & mobile apps with Laravel + Livewire. No Electron. No React Native. Just PHP.",
-    "stars": 169,
+    "stars": 171,
     "forks": 8,
     "topics": [
       "desktop",
@@ -60916,8 +60916,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-06T04:14:52Z",
-    "updated_at": "2026-06-17T08:12:09Z",
-    "pushed_at": "2026-06-15T16:09:10Z",
+    "updated_at": "2026-06-18T00:31:48Z",
+    "pushed_at": "2026-06-18T00:32:10Z",
     "discovered_at": "2026-04-07T00:28:00.593Z"
   },
   "yousefaltohamy/huma-volve-medical-platform": {
@@ -65852,8 +65852,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-19T20:44:05Z",
-    "updated_at": "2026-04-21T11:43:30Z",
-    "pushed_at": "2026-04-21T11:43:26Z",
+    "updated_at": "2026-06-17T22:19:56Z",
+    "pushed_at": "2026-06-17T22:19:59Z",
     "discovered_at": "2026-04-20T02:24:13.038Z"
   },
   "yasintqvi/laravel-postman": {
@@ -66819,7 +66819,7 @@
     "name": "escapeboy/agent-fleet-o",
     "url": "https://github.com/escapeboy/agent-fleet-o",
     "description": "Open-source AI agent orchestration platform — self-hosted mission control for autonomous multi-agent systems. Visual DAG workflows, 450+ MCP tools, human-in-the-loop approvals. Works with Claude, GPT-4o, Gemini, Ollama, Codex.",
-    "stars": 32,
+    "stars": 33,
     "forks": 5,
     "topics": [
       "agent-orchestration",
@@ -66846,8 +66846,8 @@
     "language": "PHP",
     "license": "AGPL-3.0",
     "created_at": "2026-02-08T19:27:13Z",
-    "updated_at": "2026-06-17T12:46:18Z",
-    "pushed_at": "2026-06-17T12:46:14Z",
+    "updated_at": "2026-06-17T22:34:49Z",
+    "pushed_at": "2026-06-17T22:34:45Z",
     "discovered_at": "2026-04-22T12:23:22.917Z"
   },
   "doobert-team/aws-secrets-manager": {
@@ -73928,8 +73928,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2020-06-28T12:55:53Z",
-    "updated_at": "2026-05-20T16:29:00Z",
-    "pushed_at": "2026-05-20T16:40:47Z",
+    "updated_at": "2026-06-17T20:40:10Z",
+    "pushed_at": "2026-06-17T20:43:20Z",
     "discovered_at": "2026-05-14T02:47:12.368Z"
   },
   "agencetwogether/filament-alert-box": {
@@ -77163,8 +77163,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-05-21T22:22:03Z",
-    "updated_at": "2026-06-16T00:32:24Z",
-    "pushed_at": "2026-06-16T00:32:20Z",
+    "updated_at": "2026-06-17T21:58:21Z",
+    "pushed_at": "2026-06-17T21:58:16Z",
     "discovered_at": "2026-05-22T00:42:34.349Z"
   },
   "satheez/laravel-message-contracts": {
@@ -78685,8 +78685,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-20T07:16:12Z",
-    "updated_at": "2026-06-17T14:24:43Z",
-    "pushed_at": "2026-06-17T15:26:12Z",
+    "updated_at": "2026-06-17T22:41:07Z",
+    "pushed_at": "2026-06-17T22:42:20Z",
     "discovered_at": "2026-05-27T18:48:26.908Z"
   },
   "handrolled/transvel": {
@@ -79842,8 +79842,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-05-31T21:18:22Z",
-    "updated_at": "2026-06-17T16:06:58Z",
-    "pushed_at": "2026-06-17T18:44:57Z",
+    "updated_at": "2026-06-17T22:10:08Z",
+    "pushed_at": "2026-06-17T22:10:05Z",
     "discovered_at": "2026-06-01T07:47:28.668Z"
   },
   "limi-mathew/electraa-crm": {
@@ -79924,8 +79924,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-05-31T16:52:51Z",
-    "updated_at": "2026-06-13T21:45:27Z",
-    "pushed_at": "2026-06-12T21:55:20Z",
+    "updated_at": "2026-06-17T23:54:30Z",
+    "pushed_at": "2026-06-17T23:55:08Z",
     "discovered_at": "2026-06-01T14:02:51.495Z"
   },
   "picobaz/laravel-sentinel": {
@@ -83731,7 +83731,7 @@
     "license": null,
     "created_at": "2026-06-12T01:54:25Z",
     "updated_at": "2026-06-12T02:23:37Z",
-    "pushed_at": "2026-06-15T23:24:05Z",
+    "pushed_at": "2026-06-17T22:09:47Z",
     "discovered_at": "2026-06-12T07:39:24.377Z"
   },
   "kamerk22/amazongiftcode": {
@@ -83893,7 +83893,7 @@
     "name": "omaressaouaf/laravel-statistician",
     "url": "https://github.com/omaressaouaf/laravel-statistician",
     "description": "A Laravel package for generating clean application statistics from Eloquent models, query builders, or plain tables",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "analytics",
@@ -83907,7 +83907,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-26T03:31:54Z",
-    "updated_at": "2026-06-16T21:51:32Z",
+    "updated_at": "2026-06-17T22:50:33Z",
     "pushed_at": "2026-06-12T15:46:18Z",
     "discovered_at": "2026-06-12T18:41:05.518Z"
   },
@@ -84306,8 +84306,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-14T03:34:30Z",
-    "updated_at": "2026-06-16T04:43:38Z",
-    "pushed_at": "2026-06-16T04:43:35Z",
+    "updated_at": "2026-06-17T23:16:41Z",
+    "pushed_at": "2026-06-17T23:16:37Z",
     "discovered_at": "2026-06-14T07:37:16.218Z"
   },
   "ghostcompiler/laravel-hetzner-storagebox": {
@@ -84632,8 +84632,8 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2026-06-09T14:11:16Z",
-    "updated_at": "2026-06-17T18:38:01Z",
-    "pushed_at": "2026-06-17T18:36:12Z",
+    "updated_at": "2026-06-17T21:35:58Z",
+    "pushed_at": "2026-06-17T21:35:55Z",
     "discovered_at": "2026-06-15T00:50:57.139Z"
   },
   "miladev95/ip-whitelist": {
@@ -85187,8 +85187,8 @@
     "language": "PHP",
     "license": "Apache-2.0",
     "created_at": "2026-06-16T14:21:27Z",
-    "updated_at": "2026-06-17T17:27:18Z",
-    "pushed_at": "2026-06-17T18:46:31Z",
+    "updated_at": "2026-06-17T21:34:13Z",
+    "pushed_at": "2026-06-17T21:43:14Z",
     "discovered_at": "2026-06-17T00:50:24.091Z"
   },
   "haakco/custd-sdk-laravel": {
@@ -85445,7 +85445,7 @@
     "name": "ghostcompiler/laravel-cloudflare",
     "url": "https://github.com/ghostcompiler/laravel-cloudflare",
     "description": "Complete Laravel Cloudflare API SDK for managing DNS records, zones, cache, SSL, firewall rules, workers, analytics, and Cloudflare services with a fluent Laravel-first developer experience.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [
       "api-client",
@@ -85472,7 +85472,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-17T10:21:13Z",
-    "updated_at": "2026-06-17T11:56:26Z",
+    "updated_at": "2026-06-17T19:55:07Z",
     "pushed_at": "2026-06-17T10:46:01Z",
     "discovered_at": "2026-06-17T13:17:20.715Z"
   },
@@ -85646,8 +85646,36 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-16T09:18:43Z",
-    "updated_at": "2026-06-17T15:21:10Z",
-    "pushed_at": "2026-06-17T15:27:32Z",
+    "updated_at": "2026-06-17T20:57:04Z",
+    "pushed_at": "2026-06-17T20:56:59Z",
     "discovered_at": "2026-06-17T18:50:50.696Z"
+  },
+  "kazistm/vargo": {
+    "name": "KaziSTM/vargo",
+    "url": "https://github.com/KaziSTM/vargo",
+    "description": "A unified Laravel integration package for 90+ Algerian delivery providers (Yalidine, EcoTrack, Procolis, ZR Express, Maystro, Noest, MDM, Zimou). Standardizes shipment creation, tracking, and location normalization with a single consistent API.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-03-31T09:30:56Z",
+    "updated_at": "2026-06-17T21:30:51Z",
+    "pushed_at": "2026-06-17T21:08:46Z",
+    "discovered_at": "2026-06-18T00:50:30.392Z"
+  },
+  "ervinsvilumsons/laravel-eloquentql": {
+    "name": "ervinsvilumsons/laravel-eloquentql",
+    "url": "https://github.com/ervinsvilumsons/laravel-eloquentql",
+    "description": "A small Laravel package to extend Eloquent models with JSON:API sparse fieldsets, include relation loading, and resource filtering.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-06-17T13:36:10Z",
+    "updated_at": "2026-06-17T19:27:30Z",
+    "pushed_at": "2026-06-17T20:32:19Z",
+    "discovered_at": "2026-06-18T00:50:30.392Z"
   }
 }

@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4681  
-**Last updated:** 2026-06-17T18:50:50.721Z
+**Total packages tracked:** 4683  
+**Last updated:** 2026-06-18T00:50:30.417Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [KaziSTM/vargo](https://github.com/KaziSTM/vargo) | 0 | A unified Laravel integration package for 90+ Algerian delivery providers (Yalid... |
+| [ervinsvilumsons/laravel-eloquentql](https://github.com/ervinsvilumsons/laravel-eloquentql) | 0 | A small Laravel package to extend Eloquent models with JSON:API sparse fieldsets... |
 | [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 0 | Integrate spatie/laravel-event-sourcing v7 with Filament v4: write through aggre... |
 | [rpwebdevelopment/has-image-laravel](https://github.com/rpwebdevelopment/has-image-laravel) | 0 | A package for simplifying image handling on Laravel eloquent models |
 | [m2collective/laravel-defining-user-device](https://github.com/m2collective/laravel-defining-user-device) | 0 | A package for detecting the user's device. |
@@ -18,7 +20,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ervinsvilumsons/laravel-eloqeuntql](https://github.com/ervinsvilumsons/laravel-eloqeuntql) | 0 | A small Laravel package to extend Eloquent models with JSON:API sparse fieldsets... |
 | [m2collective/laravel-blade-directive](https://github.com/m2collective/laravel-blade-directive) | 0 | This package simplifies and systematizes the creation and registration of user d... |
 | [melimelimeli18/sentosa-quiz](https://github.com/melimelimeli18/sentosa-quiz) | 0 | Assesment Evaluation Quiz for Sentosa High School |
-| [ghostcompiler/laravel-cloudflare](https://github.com/ghostcompiler/laravel-cloudflare) | 0 | Complete Laravel Cloudflare API SDK for managing DNS records, zones, cache, SSL,... |
+| [ghostcompiler/laravel-cloudflare](https://github.com/ghostcompiler/laravel-cloudflare) | 1 | Complete Laravel Cloudflare API SDK for managing DNS records, zones, cache, SSL,... |
 | [salehhashemi1992/laravel-otp-manager](https://github.com/salehhashemi1992/laravel-otp-manager) | 188 | Generate, send, verify, and manage one-time passwords for Laravel |
 | [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | Runtime base library for building Laravel packages: fluent Package builder, attr... |
 | [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | A lightweight Laravel package that keeps cached configuration in sync when confi... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [sanjeevturkauli/crypt](https://github.com/sanjeevturkauli/crypt) | 0 | Laravel package for automatic API request/response encryption and decryption |
 | [phpblaze/bladelib](https://github.com/phpblaze/bladelib) | 0 | phpblade/bladelib is an optimized Blade-based vendor package designed to enhance... |
 | [Rafiki23/WatermarkCredits](https://github.com/Rafiki23/WatermarkCredits) | 0 | WatermarkCredits is a Laravel package for easily applying watermarks with names/... |
-| [testmonitor/eloquent-calculated-columns](https://github.com/testmonitor/eloquent-calculated-columns) | 2 | A Laravel package for adding calculated columns to Eloquent models using SQL for... |
-| [testmonitor/eloquent-searchable](https://github.com/testmonitor/eloquent-searchable) | 3 | A Laravel package that adds search functionality to Eloquent models, allowing fo... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-17 | a standalone, deterministic, offline-first Laravel package t... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-06-17 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [42dx/whatsapp-laravel-sdk](https://github.com/42dx/whatsapp-laravel-sdk) | 1 | 2026-06-18 | A laravel package that abstracts all the whatsapp api integr... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 171 | 2026-06-18 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-06-18 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [Muhammed2024Salama/LaravelBase](https://github.com/Muhammed2024Salama/LaravelBase) | 5 | 2026-06-17 | A lightweight, version-agnostic Laravel package providing a ... |
+| [rzl-zone/blade-minify](https://github.com/rzl-zone/blade-minify) | 0 | 2026-06-17 | A Laravel package to seamlessly minify Blade HTML output for... |
+| [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | 2026-06-17 | The official reference theme for Bagisto Visual — lightweigh... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 33 | 2026-06-17 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [cslash/laravel-sharedsync](https://github.com/cslash/laravel-sharedsync) | 0 | 2026-06-17 | SharedSync is a Laravel package designed for deploying appli... |
 | [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-17 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [eramitgupta/laravel-lang-sync-inertia](https://github.com/eramitgupta/laravel-lang-sync-inertia) | 48 | 2026-06-17 | Laravel package for syncing translations with Inertia.js in ... |
+| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-17 | Laravel package for mk-director monorepo — admin module scaf... |
+| [DevSajjadAli/laravel](https://github.com/DevSajjadAli/laravel) | 0 | 2026-06-17 | Official Laravel package for Genvoris Virtual Try-On |
+| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-17 | a standalone, deterministic, offline-first Laravel package t... |
 | [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 18 | 2026-06-17 | The ultimate form components kit and custom fields builder f... |
-| [Xmk/infoflot-laravel](https://github.com/Xmk/infoflot-laravel) | 2 | 2026-06-17 | Laravel Package for Infoflot PHP Client |
-| [rpwebdevelopment/has-image-laravel](https://github.com/rpwebdevelopment/has-image-laravel) | 0 | 2026-06-17 | A package for simplifying image handling on Laravel eloquent... |
-| [m2collective/laravel-defining-user-device](https://github.com/m2collective/laravel-defining-user-device) | 0 | 2026-06-17 | A package for detecting the user's device. |
-| [Monoverse1/voicebot-laravel-sync](https://github.com/Monoverse1/voicebot-laravel-sync) | 0 | 2026-06-17 | VoiceBot Laravel sync — push your catalog & content to Voice... |
-| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 252 | 2026-06-17 | A Laravel package to detect and block disposable email addre... |
-| [mikeyperes/laravel-hexa-package-smp-wordpress-text-to-speech](https://github.com/mikeyperes/laravel-hexa-package-smp-wordpress-text-to-speech) | 0 | 2026-06-17 | Scale My Publication WordPress text-to-speech credential, de... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-06-17 | Runtime base library for building Laravel packages: fluent P... |
-| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-06-17 | Laravel package for AEAT Verifactu compliance with agnostic ... |
-| [therealmchaggis/definition-types](https://github.com/therealmchaggis/definition-types) | 0 | 2026-06-17 | Definition-driven data types for PHP. It is a framework-agno... |
-| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-06-17 | A lightweight Laravel package that keeps cached configuratio... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-06-17 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [mindtwo/laravel-auto-translatable](https://github.com/mindtwo/laravel-auto-translatable) | 0 | 2026-06-17 | AI-powered translation package for Laravel with smart markdo... |
-| [fschirinzi/translation-manager-for-laravel](https://github.com/fschirinzi/translation-manager-for-laravel) | 5 | 2026-06-17 | Package to manage Laravel translations locally |
-| [salehye/subscription-core](https://github.com/salehye/subscription-core) | 0 | 2026-06-17 | Subscription Core - A powerful Laravel subscription manageme... |
-| [meshu-dev/devjobs](https://github.com/meshu-dev/devjobs) | 0 | 2026-06-17 | Imports and displays developer jobs |
+| [canyongbs/filament-tiptap-editor](https://github.com/canyongbs/filament-tiptap-editor) | 5 | 2026-06-17 | This enables rich text editing in Filament with the core cap... |
+| [KaziSTM/vargo](https://github.com/KaziSTM/vargo) | 0 | 2026-06-17 | A unified Laravel integration package for 90+ Algerian deliv... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 0 | 2026-06-17 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [usinatech/cepwebservice](https://github.com/usinatech/cepwebservice) | 2 | 2026-06-17 | CEP Webservice API REST Laravel Package  |
+| [ervinsvilumsons/laravel-eloquentql](https://github.com/ervinsvilumsons/laravel-eloquentql) | 0 | 2026-06-17 | A small Laravel package to extend Eloquent models with JSON:... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-06-17 | Filament plugin that allows to add dynamic, user-defined for... |
+| [steelants/Livewire-DataTable](https://github.com/steelants/Livewire-DataTable) | 2 | 2026-06-17 | Laravel Package for creating simple Livewire data tables |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-18T00:50 | 2 | 1729 | 4683 |
 | 2026-06-17T18:50 | 8 | 1724 | 4681 |
 | 2026-06-17T13:17 | 10 | 1721 | 4674 |
 | 2026-06-17T07:52 | 3 | 1728 | 4664 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-16T07:58 | 1 | 1729 | 4641 |
 | 2026-06-16T00:55 | 3 | 1727 | 4641 |
 | 2026-06-15T19:21 | 4 | 1727 | 4638 |
-| 2026-06-15T14:08 | 3 | 1727 | 4634 |
 
 ---
 

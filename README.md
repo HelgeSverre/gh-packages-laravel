@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4692  
-**Last updated:** 2026-06-18T13:10:55.378Z
+**Total packages tracked:** 4701  
+**Last updated:** 2026-06-18T18:49:28.628Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [omar-haris/filament-timezone-field](https://github.com/omar-haris/filament-timezone-field) | 17 | A Laravel Filament component that enables users to choose a specific timezone gr... |
+| [juanfc03/trabajo-fin-de-grado-carai](https://github.com/juanfc03/trabajo-fin-de-grado-carai) | 0 | Plataforma e-commerce de venta de vehículos con búsqueda semántica y asistente v... |
+| [AfshinEfati/Laravel-Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder) | 2 | Generate complete, test-ready Laravel modules from a single Artisan command. The... |
+| [abdo10rabea472/laravel-deployment-installer](https://github.com/abdo10rabea472/laravel-deployment-installer) | 1 | installer laravel php smart-installer |
+| [lucaspatraodev/traceflow](https://github.com/lucaspatraodev/traceflow) | 0 | A Laravel package that shows the business flow behind every request. |
+| [bitdreamit/mikopbx-laravel](https://github.com/bitdreamit/mikopbx-laravel) | 0 | The most complete, professional & premium open-source Laravel package for MikoPB... |
+| [xJunoo/nso-auto-capture](https://github.com/xJunoo/nso-auto-capture) | 0 | Package Laravel hỗ trợ gửi account Ninja School Online sang worker chụp ảnh và n... |
+| [amreljako/laravel-ledger-guard](https://github.com/amreljako/laravel-ledger-guard) | 0 | Laravel LedgerGuard is a highly secure, production-grade, and tamper-evident fin... |
+| [deasytech/oncue-logistics](https://github.com/deasytech/oncue-logistics) | 0 | On-Cue Logistics is a smart event delivery platform designed to automate and sim... |
 | [tfpritam/laravel-communication-relay-service](https://github.com/tfpritam/laravel-communication-relay-service) | 0 | Laravel Package For Communication Relay Service |
 | [AYDcompany/api-response-laravel](https://github.com/AYDcompany/api-response-laravel) | 0 | An API response package for Laravel applications at INF Company. |
 | [AYDcompany/authorize](https://github.com/AYDcompany/authorize) | 0 | A shared authorization package for Hyperf and Laravel applications at AYD Compan... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [nathandb7/laravel-audit-trail-starter](https://github.com/nathandb7/laravel-audit-trail-starter) | 1 | A modern Laravel package to record important user actions and model changes in a... |
 | [KaziSTM/vargo](https://github.com/KaziSTM/vargo) | 0 | A unified Laravel integration package for 90+ Algerian delivery providers (Yalid... |
 | [ervinsvilumsons/laravel-eloquentql](https://github.com/ervinsvilumsons/laravel-eloquentql) | 0 | A small Laravel package to extend Eloquent models with JSON:API sparse fieldsets... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 0 | Integrate spatie/laravel-event-sourcing v7 with Filament v4: write through aggre... |
-| [rpwebdevelopment/has-image-laravel](https://github.com/rpwebdevelopment/has-image-laravel) | 0 | A package for simplifying image handling on Laravel eloquent models |
-| [m2collective/laravel-defining-user-device](https://github.com/m2collective/laravel-defining-user-device) | 0 | A package for detecting the user's device. |
-| [mikeyperes/laravel-hexa-package-smp-wordpress-text-to-speech](https://github.com/mikeyperes/laravel-hexa-package-smp-wordpress-text-to-speech) | 0 | Scale My Publication WordPress text-to-speech credential, detection, and integri... |
-| [fschirinzi/translation-manager-for-laravel](https://github.com/fschirinzi/translation-manager-for-laravel) | 5 | Package to manage Laravel translations locally |
-| [sky-hackeR/ai-test-13](https://github.com/sky-hackeR/ai-test-13) | 0 | Implementing Laravel 13 AI SDK Package in the creation of a chatbot |
-| [ervinsvilumsons/laravel-eloqeuntql](https://github.com/ervinsvilumsons/laravel-eloqeuntql) | 0 | A small Laravel package to extend Eloquent models with JSON:API sparse fieldsets... |
-| [m2collective/laravel-blade-directive](https://github.com/m2collective/laravel-blade-directive) | 0 | This package simplifies and systematizes the creation and registration of user d... |
-| [melimelimeli18/sentosa-quiz](https://github.com/melimelimeli18/sentosa-quiz) | 0 | Assesment Evaluation Quiz for Sentosa High School |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 15 | 2026-06-18 | A simple content page management system with a flexible cont... |
-| [openric/service](https://github.com/openric/service) | 0 | 2026-06-18 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 330 | 2026-06-18 | The NativePHP website |
-| [AYDcompany/api-response-laravel](https://github.com/AYDcompany/api-response-laravel) | 0 | 2026-06-18 | An API response package for Laravel applications at INF Comp... |
-| [saeedvir/laravel-modular](https://github.com/saeedvir/laravel-modular) | 26 | 2026-06-18 | A powerful modular architecture package for Laravel applicat... |
-| [cboxdk/laravel-queue-autoscale](https://github.com/cboxdk/laravel-queue-autoscale) | 8 | 2026-06-18 | Autoscaling for Laravel queues based on SLA targets and queu... |
-| [AYDcompany/authorize](https://github.com/AYDcompany/authorize) | 0 | 2026-06-18 | A shared authorization package for Hyperf and Laravel applic... |
-| [WatheqAlshowaiter/filament-sticky-table-header](https://github.com/WatheqAlshowaiter/filament-sticky-table-header) | 35 | 2026-06-18 | Make FilamentPHP tables stick when scrolling down for better... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-06-18 | Runtime base library for building Laravel packages: fluent P... |
-| [codebar-ag/laravel-bexio](https://github.com/codebar-ag/laravel-bexio) | 4 | 2026-06-18 | Laravel Bexio Package |
-| [AYDcompany/api-response-base](https://github.com/AYDcompany/api-response-base) | 0 | 2026-06-18 | An base API response package for Hyperf or Laravel applicati... |
-| [cybex-gmbh/laravel-protector](https://github.com/cybex-gmbh/laravel-protector) | 5 | 2026-06-18 | Laravel package to provide and receive database dumps in a s... |
+| [m2collective/laravel-defining-user-device](https://github.com/m2collective/laravel-defining-user-device) | 0 | 2026-06-18 | A package for detecting the user's device. |
+| [tehwave/laravel-shortcodes](https://github.com/tehwave/laravel-shortcodes) | 12 | 2026-06-18 | Simple, elegant WordPress-like Shortcodes the Laravel way |
+| [noscrape/noscrape-laravel](https://github.com/noscrape/noscrape-laravel) | 0 | 2026-06-18 | A laravel package for noscrape |
+| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-18 | a standalone, deterministic, offline-first Laravel package t... |
 | [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-18 | Laravel package for mk-director monorepo — admin module scaf... |
-| [CodeWithDennis/filament-select-tree](https://github.com/CodeWithDennis/filament-select-tree) | 328 | 2026-06-18 | The multi-level select field lets you pick one or multiple o... |
-| [ZackyPratama/E-Commerce-PT-GMU](https://github.com/ZackyPratama/E-Commerce-PT-GMU) | 0 | 2026-06-18 | Project Akhir Semester E-Commerce |
-| [iquesters/integration](https://github.com/iquesters/integration) | 0 | 2026-06-18 | A Laravel package for managing third-party integrations (e.g... |
-| [justbetter/laravel-magento-products](https://github.com/justbetter/laravel-magento-products) | 16 | 2026-06-18 | This package tracks if products exist in Magento by storing ... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-06-18 | An event sourcing laravel package, complete with all the ess... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-18 | A practical work management information system built with La... |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 99 | 2026-06-18 | Complete, ready-to-use Indonesian administrative region data... |
+| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-06-18 | Laravel GeeTest Captcha for Laravel 9 10 11 |
+| [samuelterra22/filament-pwa](https://github.com/samuelterra22/filament-pwa) | 0 | 2026-06-18 | Progressive Web App (PWA) integration for FilamentPHP panels... |
+| [lucaspatraodev/traceflow](https://github.com/lucaspatraodev/traceflow) | 0 | 2026-06-18 | A Laravel package that shows the business flow behind every ... |
+| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 9 | 2026-06-18 | FilaKit starter kit built on Laravel 12.x and Filament 3.x w... |
+| [mindtwo/laravel-auto-translatable](https://github.com/mindtwo/laravel-auto-translatable) | 0 | 2026-06-18 | AI-powered translation package for Laravel with smart markdo... |
+| [jeffersongoncalves/filament-keyable](https://github.com/jeffersongoncalves/filament-keyable) | 4 | 2026-06-18 | This is a Laravel Filament package that provides API Key man... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-06-18 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-06-18 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [mikeyperes/laravel-hexa-package-telegram](https://github.com/mikeyperes/laravel-hexa-package-telegram) | 0 | 2026-06-18 | HWS Package: Telegram bot notifications and commands |
+| [mikeyperes/laravel-hexa-package-openai](https://github.com/mikeyperes/laravel-hexa-package-openai) | 0 | 2026-06-18 | OpenAI Integration — Whisper audio transcription service for... |
+| [mikeyperes/laravel-hexa-package-chatgpt](https://github.com/mikeyperes/laravel-hexa-package-chatgpt) | 0 | 2026-06-18 | HWS Package: ChatGPT/OpenAI API integration |
+| [AfshinEfati/Laravel-Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder) | 2 | 2026-06-18 | Generate complete, test-ready Laravel modules from a single ... |
+| [WatheqAlshowaiter/backup-tables](https://github.com/WatheqAlshowaiter/backup-tables) | 38 | 2026-06-18 | Backup single or multiple database tables with ease. |
+| [njoguamos/laravel-plausible](https://github.com/njoguamos/laravel-plausible) | 20 | 2026-06-18 | Laravel Plausible is a Laravel package designed to integrate... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-06-18 | Automated code analysis for Laravel applications with 73 com... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-18T18:49 | 9 | 1719 | 4701 |
 | 2026-06-18T13:10 | 5 | 1726 | 4692 |
 | 2026-06-18T07:42 | 4 | 1726 | 4687 |
 | 2026-06-18T00:50 | 2 | 1729 | 4683 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-17T00:50 | 7 | 1724 | 4661 |
 | 2026-06-16T19:14 | 9 | 1721 | 4654 |
 | 2026-06-16T13:47 | 4 | 1727 | 4645 |
-| 2026-06-16T07:58 | 1 | 1729 | 4641 |
 
 ---
 

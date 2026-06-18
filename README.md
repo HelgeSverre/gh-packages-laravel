@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4683  
-**Last updated:** 2026-06-18T00:50:30.417Z
+**Total packages tracked:** 4687  
+**Last updated:** 2026-06-18T07:42:43.440Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [2amigos/qrcode-library](https://github.com/2amigos/qrcode-library) | 219 | Create QrCodes with ease |
+| [licensetorun/php-sdk](https://github.com/licensetorun/php-sdk) | 0 | A framework-agnostic PHP client for Licensetorun.com. Zero dependencies — just P... |
+| [licensetorun/laravel-license-client](https://github.com/licensetorun/laravel-license-client) | 0 | A drop-in Laravel client for Licensetorun.com. Add your product id and license k... |
+| [nathandb7/laravel-audit-trail-starter](https://github.com/nathandb7/laravel-audit-trail-starter) | 1 | A modern Laravel package to record important user actions and model changes in a... |
 | [KaziSTM/vargo](https://github.com/KaziSTM/vargo) | 0 | A unified Laravel integration package for 90+ Algerian delivery providers (Yalid... |
 | [ervinsvilumsons/laravel-eloquentql](https://github.com/ervinsvilumsons/laravel-eloquentql) | 0 | A small Laravel package to extend Eloquent models with JSON:API sparse fieldsets... |
 | [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 0 | Integrate spatie/laravel-event-sourcing v7 with Filament v4: write through aggre... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | Runtime base library for building Laravel packages: fluent Package builder, attr... |
 | [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | A lightweight Laravel package that keeps cached configuration in sync when confi... |
 | [korfra/filament-sqids](https://github.com/korfra/filament-sqids) | 2 | 💡 Laravel Filament package that automatically encodes and decodes model IDs usi... |
-| [Coder71-Ltd/ServerPulse-LaravelAgent](https://github.com/Coder71-Ltd/ServerPulse-LaravelAgent) | 0 | ServerPulse monitoring and license agent for Laravel applications. A zero-config... |
-| [sanjeevturkauli/crypt](https://github.com/sanjeevturkauli/crypt) | 0 | Laravel package for automatic API request/response encryption and decryption |
-| [phpblaze/bladelib](https://github.com/phpblaze/bladelib) | 0 | phpblade/bladelib is an optimized Blade-based vendor package designed to enhance... |
-| [Rafiki23/WatermarkCredits](https://github.com/Rafiki23/WatermarkCredits) | 0 | WatermarkCredits is a Laravel package for easily applying watermarks with names/... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [42dx/whatsapp-laravel-sdk](https://github.com/42dx/whatsapp-laravel-sdk) | 1 | 2026-06-18 | A laravel package that abstracts all the whatsapp api integr... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 171 | 2026-06-18 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-06-18 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [Muhammed2024Salama/LaravelBase](https://github.com/Muhammed2024Salama/LaravelBase) | 5 | 2026-06-17 | A lightweight, version-agnostic Laravel package providing a ... |
-| [rzl-zone/blade-minify](https://github.com/rzl-zone/blade-minify) | 0 | 2026-06-17 | A Laravel package to seamlessly minify Blade HTML output for... |
-| [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | 2026-06-17 | The official reference theme for Bagisto Visual — lightweigh... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 33 | 2026-06-17 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [cslash/laravel-sharedsync](https://github.com/cslash/laravel-sharedsync) | 0 | 2026-06-17 | SharedSync is a Laravel package designed for deploying appli... |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-17 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-17 | Laravel package for mk-director monorepo — admin module scaf... |
-| [DevSajjadAli/laravel](https://github.com/DevSajjadAli/laravel) | 0 | 2026-06-17 | Official Laravel package for Genvoris Virtual Try-On |
-| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-17 | a standalone, deterministic, offline-first Laravel package t... |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 18 | 2026-06-17 | The ultimate form components kit and custom fields builder f... |
-| [canyongbs/filament-tiptap-editor](https://github.com/canyongbs/filament-tiptap-editor) | 5 | 2026-06-17 | This enables rich text editing in Filament with the core cap... |
-| [KaziSTM/vargo](https://github.com/KaziSTM/vargo) | 0 | 2026-06-17 | A unified Laravel integration package for 90+ Algerian deliv... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 0 | 2026-06-17 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [usinatech/cepwebservice](https://github.com/usinatech/cepwebservice) | 2 | 2026-06-17 | CEP Webservice API REST Laravel Package  |
-| [ervinsvilumsons/laravel-eloquentql](https://github.com/ervinsvilumsons/laravel-eloquentql) | 0 | 2026-06-17 | A small Laravel package to extend Eloquent models with JSON:... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-06-17 | Filament plugin that allows to add dynamic, user-defined for... |
-| [steelants/Livewire-DataTable](https://github.com/steelants/Livewire-DataTable) | 2 | 2026-06-17 | Laravel Package for creating simple Livewire data tables |
+| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-18 | a standalone, deterministic, offline-first Laravel package t... |
+| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-06-18 | This project collects the most commonly used Laravel extensi... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 33 | 2026-06-18 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 0 | 2026-06-18 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [ghostcompiler/laravel-upload](https://github.com/ghostcompiler/laravel-upload) | 17 | 2026-06-18 | Secure file upload and storage management for Laravel with E... |
+| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 145 | 2026-06-18 | Accounting application written in Laravel 12 / PHP 8.5 using... |
+| [endorbithu/module-micro-hybrid](https://github.com/endorbithu/module-micro-hybrid) | 3 | 2026-06-18 | Laravel Package for creating Laravel local module that can b... |
+| [lati111/laravel_dataproviders](https://github.com/lati111/laravel_dataproviders) | 1 | 2026-06-18 | A composer package for laravel to create interactable and cu... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-18 | Package para Laravel y facturacion |
+| [ghostcompiler/laravel-model-caching](https://github.com/ghostcompiler/laravel-model-caching) | 21 | 2026-06-18 | High-performance Eloquent model caching for Laravel with aut... |
+| [ghostcompiler/laravel-querybuilder](https://github.com/ghostcompiler/laravel-querybuilder) | 17 | 2026-06-18 | API-ready Eloquent query builder for Laravel with filtering,... |
+| [ghostcompiler/laravel-hetzner-storagebox](https://github.com/ghostcompiler/laravel-hetzner-storagebox) | 17 | 2026-06-18 | Production-ready Laravel package for integrating Hetzner Sto... |
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 1 | 2026-06-18 | Laravel package untuk data wilayah administratif Indonesia (... |
+| [ghostcompiler/laravel-hetzner-robot](https://github.com/ghostcompiler/laravel-hetzner-robot) | 17 | 2026-06-18 | Laravel SDK for the Hetzner Robot API with fluent resources,... |
+| [ghostcompiler/laravel-hetzner-cloud](https://github.com/ghostcompiler/laravel-hetzner-cloud) | 17 | 2026-06-18 | Production-ready Laravel SDK for the Hetzner Cloud API with ... |
+| [ghostcompiler/laravel-cloudflare](https://github.com/ghostcompiler/laravel-cloudflare) | 1 | 2026-06-18 | Complete Laravel Cloudflare API SDK for managing DNS records... |
+| [CodeWithDennis/filament-select-tree](https://github.com/CodeWithDennis/filament-select-tree) | 328 | 2026-06-18 | The multi-level select field lets you pick one or multiple o... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-06-18 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [verseles/progressable](https://github.com/verseles/progressable) | 12 | 2026-06-18 | A Laravel (not only) package to track and manage progress fo... |
+| [2amigos/qrcode-library](https://github.com/2amigos/qrcode-library) | 219 | 2026-06-18 | Create QrCodes with ease |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-18T07:42 | 4 | 1726 | 4687 |
 | 2026-06-18T00:50 | 2 | 1729 | 4683 |
 | 2026-06-17T18:50 | 8 | 1724 | 4681 |
 | 2026-06-17T13:17 | 10 | 1721 | 4674 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-16T13:47 | 4 | 1727 | 4645 |
 | 2026-06-16T07:58 | 1 | 1729 | 4641 |
 | 2026-06-16T00:55 | 3 | 1727 | 4641 |
-| 2026-06-15T19:21 | 4 | 1727 | 4638 |
 
 ---
 

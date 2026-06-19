@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4703  
-**Last updated:** 2026-06-19T00:55:04.978Z
+**Total packages tracked:** 4709  
+**Last updated:** 2026-06-19T07:53:43.445Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [saakiiib/laravel-spa](https://github.com/saakiiib/laravel-spa) | 29 | Zero-reload SPA engine for Laravel Blade — no jQuery, no Livewire, no Inertia. |
+| [Golden-Developer/Socialite-Paypal-oAuth](https://github.com/Golden-Developer/Socialite-Paypal-oAuth) | 1 | Socialite-Paypal-oAuth is an integration package that provides seamless PayPal a... |
+| [Golden-Developer/Socialite-Twitch-oAuth](https://github.com/Golden-Developer/Socialite-Twitch-oAuth) | 1 | Socialite-Twitch-oAuth is a Laravel package that facilitates Twitch OAuth integr... |
+| [bitdreamit/laravel-mikopbx](https://github.com/bitdreamit/laravel-mikopbx) | 0 | The most complete, professional & premium open-source Laravel package for MikoPB... |
+| [ajangsupardi/laravel-postcode-id](https://github.com/ajangsupardi/laravel-postcode-id) | 0 | Laravel package for downloading and seeding Indonesian address data (provinces, ... |
+| [musa-labs/robinhood](https://github.com/musa-labs/robinhood) | 0 | Laravel Package for Robinhood Trading Platform |
 | [ajangsupardi/laravel-kodepos](https://github.com/ajangsupardi/laravel-kodepos) | 0 | Laravel package for seeding Indonesian address data (provinces, regencies, distr... |
 | [ka4ivan/laravel-logger](https://github.com/ka4ivan/laravel-logger) | 5 | A Laravel package for advanced logging, providing structured logs, contextual in... |
 | [omar-haris/filament-timezone-field](https://github.com/omar-haris/filament-timezone-field) | 17 | A Laravel Filament component that enables users to choose a specific timezone gr... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [tfpritam/laravel-communication-relay-service](https://github.com/tfpritam/laravel-communication-relay-service) | 0 | Laravel Package For Communication Relay Service |
 | [AYDcompany/api-response-laravel](https://github.com/AYDcompany/api-response-laravel) | 0 | An API response package for Laravel applications at INF Company. |
 | [AYDcompany/authorize](https://github.com/AYDcompany/authorize) | 0 | A shared authorization package for Hyperf and Laravel applications at AYD Compan... |
-| [AYDcompany/api-response-base](https://github.com/AYDcompany/api-response-base) | 0 | An base API response package for Hyperf or Laravel applications at AYD Company. |
-| [cc-layman/laravel-architect](https://github.com/cc-layman/laravel-architect) | 0 | Laravel package for generating controllers, requests, models, and repositories f... |
-| [2amigos/qrcode-library](https://github.com/2amigos/qrcode-library) | 219 | Create QrCodes with ease |
-| [licensetorun/php-sdk](https://github.com/licensetorun/php-sdk) | 0 | A framework-agnostic PHP client for Licensetorun.com. Zero dependencies — just P... |
-| [licensetorun/laravel-license-client](https://github.com/licensetorun/laravel-license-client) | 0 | A drop-in Laravel client for Licensetorun.com. Add your product id and license k... |
-| [nathandb7/laravel-audit-trail-starter](https://github.com/nathandb7/laravel-audit-trail-starter) | 1 | A modern Laravel package to record important user actions and model changes in a... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 3 | 2026-06-19 | Filament v5 plugin exposing Livewire Flux Pro components — D... |
-| [ajangsupardi/laravel-kodepos](https://github.com/ajangsupardi/laravel-kodepos) | 0 | 2026-06-19 | Laravel package for seeding Indonesian address data (provinc... |
-| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-06-19 | Build privacy-conscious applications with tools designed for... |
-| [solutionforest/filament-tree](https://github.com/solutionforest/filament-tree) | 194 | 2026-06-19 | Filament Tree is a plugin for Filament Admin that creates a ... |
-| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-06-19 | A lightweight Laravel package that keeps cached configuratio... |
-| [AfshinEfati/Laravel-Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder) | 2 | 2026-06-18 | Generate complete, test-ready Laravel modules from a single ... |
-| [deasytech/oncue-logistics](https://github.com/deasytech/oncue-logistics) | 0 | 2026-06-18 | On-Cue Logistics is a smart event delivery platform designed... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-18 | A Laravel-based web application that tracks, analyzes, and p... |
-| [tzsk/payu](https://github.com/tzsk/payu) | 46 | 2026-06-18 | Payu Laravel Payment Gateway with Payment Verification Packa... |
-| [meshu-dev/devjobs](https://github.com/meshu-dev/devjobs) | 0 | 2026-06-18 | Imports and displays developer jobs |
-| [zingimmick/package-skeleton-laravel](https://github.com/zingimmick/package-skeleton-laravel) | 6 | 2026-06-18 | A skeleton repository for Laravel Packages |
-| [Laravel-Lang/config](https://github.com/Laravel-Lang/config) | 6 | 2026-06-18 | Config repository for Laravel-Lang packages |
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-06-18 |  |
-| [TheDragonCode/laravel-route-names](https://github.com/TheDragonCode/laravel-route-names) | 25 | 2026-06-18 | Automatic generation of route names for your project |
-| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-18 | a standalone, deterministic, offline-first Laravel package t... |
-| [aporat/laravel-appstore-purchases](https://github.com/aporat/laravel-appstore-purchases) | 3 | 2026-06-18 | Laravel package for handling App Store (Apple, iTunes, Amazo... |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 46 | 2026-06-18 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 152 | 2026-06-18 | The Moox Project - Packages for Filament and Laravel |
-| [Ercogx/filament-openai-assistant](https://github.com/Ercogx/filament-openai-assistant) | 17 | 2026-06-18 | Filament OpenAI Assistant is a filament plugin that adds a c... |
-| [cslant/blog-core](https://github.com/cslant/blog-core) | 0 | 2026-06-18 | A Laravel package for CSlant Blog Core. Take care of importa... |
+| [melimelimeli18/sentosa-quiz](https://github.com/melimelimeli18/sentosa-quiz) | 0 | 2026-06-19 | Assesment Evaluation Quiz for Sentosa High School |
+| [lara-zeus/matrix-choice](https://github.com/lara-zeus/matrix-choice) | 27 | 2026-06-19 | multiple choice grid form component for filamentPHP |
+| [njoguamos/laravel-kenya-mobile](https://github.com/njoguamos/laravel-kenya-mobile) | 9 | 2026-06-19 | Laravel Kenya Mobile is a Laravel package that provides a va... |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-06-19 | Laravel package for interacting with Traccar api |
+| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-06-19 | A structured logging package for Laravel that writes logs in... |
+| [andydefer/laravel-search](https://github.com/andydefer/laravel-search) | 0 | 2026-06-19 | Fuzzy search package for Laravel |
+| [Golden-Developer/Socialite-Paypal-oAuth](https://github.com/Golden-Developer/Socialite-Paypal-oAuth) | 1 | 2026-06-19 | Socialite-Paypal-oAuth is an integration package that provid... |
+| [arnautdev/filament-deploy-indicator](https://github.com/arnautdev/filament-deploy-indicator) | 1 | 2026-06-19 | Show application ENV and latest deployment info inside your ... |
+| [Golden-Developer/Socialite-Twitch-oAuth](https://github.com/Golden-Developer/Socialite-Twitch-oAuth) | 1 | 2026-06-19 | Socialite-Twitch-oAuth is a Laravel package that facilitates... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 34 | 2026-06-19 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 41 | 2026-06-19 | This project collects the most commonly used Laravel extensi... |
+| [testmonitor/eloquent-searchable](https://github.com/testmonitor/eloquent-searchable) | 3 | 2026-06-19 | A Laravel package that adds search functionality to Eloquent... |
+| [jeffersongoncalves/filament-gtag](https://github.com/jeffersongoncalves/filament-gtag) | 5 | 2026-06-19 | Filament plugin for managing Google Analytics (Gtag) setting... |
+| [aporat/laravel-api-middleware](https://github.com/aporat/laravel-api-middleware) | 0 | 2026-06-19 | A Laravel package for API middleware including trust proxies... |
+| [hwkdo/bue-laravel](https://github.com/hwkdo/bue-laravel) | 0 | 2026-06-19 | a package to use bue hwk-universal in laravel |
+| [bitdreamit/laravel-mikopbx](https://github.com/bitdreamit/laravel-mikopbx) | 0 | 2026-06-19 | The most complete, professional & premium open-source Larave... |
+| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-06-19 | Laravel package for AEAT Verifactu compliance with agnostic ... |
+| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 0 | 2026-06-19 | A package for using and generating unique urls for each Eloq... |
+| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 388 | 2026-06-19 | Worldwide postal code validation for Laravel and Lumen |
+| [faridhafizh/kabar-kurir](https://github.com/faridhafizh/kabar-kurir) | 0 | 2026-06-19 | KabarKurir - Corporate news aggregator and independent packa... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-19T07:53 | 6 | 1722 | 4709 |
 | 2026-06-19T00:55 | 2 | 1726 | 4703 |
 | 2026-06-18T18:49 | 9 | 1719 | 4701 |
 | 2026-06-18T13:10 | 5 | 1726 | 4692 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-17T13:17 | 10 | 1721 | 4674 |
 | 2026-06-17T07:52 | 3 | 1728 | 4664 |
 | 2026-06-17T00:50 | 7 | 1724 | 4661 |
-| 2026-06-16T19:14 | 9 | 1721 | 4654 |
 
 ---
 

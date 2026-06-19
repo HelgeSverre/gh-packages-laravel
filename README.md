@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4701  
-**Last updated:** 2026-06-18T18:49:28.628Z
+**Total packages tracked:** 4703  
+**Last updated:** 2026-06-19T00:55:04.978Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ajangsupardi/laravel-kodepos](https://github.com/ajangsupardi/laravel-kodepos) | 0 | Laravel package for seeding Indonesian address data (provinces, regencies, distr... |
+| [ka4ivan/laravel-logger](https://github.com/ka4ivan/laravel-logger) | 5 | A Laravel package for advanced logging, providing structured logs, contextual in... |
 | [omar-haris/filament-timezone-field](https://github.com/omar-haris/filament-timezone-field) | 17 | A Laravel Filament component that enables users to choose a specific timezone gr... |
 | [juanfc03/trabajo-fin-de-grado-carai](https://github.com/juanfc03/trabajo-fin-de-grado-carai) | 0 | Plataforma e-commerce de venta de vehículos con búsqueda semántica y asistente v... |
 | [AfshinEfati/Laravel-Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder) | 2 | Generate complete, test-ready Laravel modules from a single Artisan command. The... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [licensetorun/php-sdk](https://github.com/licensetorun/php-sdk) | 0 | A framework-agnostic PHP client for Licensetorun.com. Zero dependencies — just P... |
 | [licensetorun/laravel-license-client](https://github.com/licensetorun/laravel-license-client) | 0 | A drop-in Laravel client for Licensetorun.com. Add your product id and license k... |
 | [nathandb7/laravel-audit-trail-starter](https://github.com/nathandb7/laravel-audit-trail-starter) | 1 | A modern Laravel package to record important user actions and model changes in a... |
-| [KaziSTM/vargo](https://github.com/KaziSTM/vargo) | 0 | A unified Laravel integration package for 90+ Algerian delivery providers (Yalid... |
-| [ervinsvilumsons/laravel-eloquentql](https://github.com/ervinsvilumsons/laravel-eloquentql) | 0 | A small Laravel package to extend Eloquent models with JSON:API sparse fieldsets... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -53,32 +53,32 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | A media picker plugin for Filament Panels. |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 433 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 432 | A package to keep track of your pages & understand your audience |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 418 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 419 | Open Source Laravel CRM Package |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [m2collective/laravel-defining-user-device](https://github.com/m2collective/laravel-defining-user-device) | 0 | 2026-06-18 | A package for detecting the user's device. |
-| [tehwave/laravel-shortcodes](https://github.com/tehwave/laravel-shortcodes) | 12 | 2026-06-18 | Simple, elegant WordPress-like Shortcodes the Laravel way |
-| [noscrape/noscrape-laravel](https://github.com/noscrape/noscrape-laravel) | 0 | 2026-06-18 | A laravel package for noscrape |
-| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-18 | a standalone, deterministic, offline-first Laravel package t... |
-| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-18 | Laravel package for mk-director monorepo — admin module scaf... |
-| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-06-18 | Laravel GeeTest Captcha for Laravel 9 10 11 |
-| [samuelterra22/filament-pwa](https://github.com/samuelterra22/filament-pwa) | 0 | 2026-06-18 | Progressive Web App (PWA) integration for FilamentPHP panels... |
-| [lucaspatraodev/traceflow](https://github.com/lucaspatraodev/traceflow) | 0 | 2026-06-18 | A Laravel package that shows the business flow behind every ... |
-| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 9 | 2026-06-18 | FilaKit starter kit built on Laravel 12.x and Filament 3.x w... |
-| [mindtwo/laravel-auto-translatable](https://github.com/mindtwo/laravel-auto-translatable) | 0 | 2026-06-18 | AI-powered translation package for Laravel with smart markdo... |
-| [jeffersongoncalves/filament-keyable](https://github.com/jeffersongoncalves/filament-keyable) | 4 | 2026-06-18 | This is a Laravel Filament package that provides API Key man... |
-| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-06-18 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-06-18 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [mikeyperes/laravel-hexa-package-telegram](https://github.com/mikeyperes/laravel-hexa-package-telegram) | 0 | 2026-06-18 | HWS Package: Telegram bot notifications and commands |
-| [mikeyperes/laravel-hexa-package-openai](https://github.com/mikeyperes/laravel-hexa-package-openai) | 0 | 2026-06-18 | OpenAI Integration — Whisper audio transcription service for... |
-| [mikeyperes/laravel-hexa-package-chatgpt](https://github.com/mikeyperes/laravel-hexa-package-chatgpt) | 0 | 2026-06-18 | HWS Package: ChatGPT/OpenAI API integration |
+| [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 3 | 2026-06-19 | Filament v5 plugin exposing Livewire Flux Pro components — D... |
+| [ajangsupardi/laravel-kodepos](https://github.com/ajangsupardi/laravel-kodepos) | 0 | 2026-06-19 | Laravel package for seeding Indonesian address data (provinc... |
+| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-06-19 | Build privacy-conscious applications with tools designed for... |
+| [solutionforest/filament-tree](https://github.com/solutionforest/filament-tree) | 194 | 2026-06-19 | Filament Tree is a plugin for Filament Admin that creates a ... |
+| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-06-19 | A lightweight Laravel package that keeps cached configuratio... |
 | [AfshinEfati/Laravel-Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder) | 2 | 2026-06-18 | Generate complete, test-ready Laravel modules from a single ... |
-| [WatheqAlshowaiter/backup-tables](https://github.com/WatheqAlshowaiter/backup-tables) | 38 | 2026-06-18 | Backup single or multiple database tables with ease. |
-| [njoguamos/laravel-plausible](https://github.com/njoguamos/laravel-plausible) | 20 | 2026-06-18 | Laravel Plausible is a Laravel package designed to integrate... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-06-18 | Automated code analysis for Laravel applications with 73 com... |
+| [deasytech/oncue-logistics](https://github.com/deasytech/oncue-logistics) | 0 | 2026-06-18 | On-Cue Logistics is a smart event delivery platform designed... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-18 | A Laravel-based web application that tracks, analyzes, and p... |
+| [tzsk/payu](https://github.com/tzsk/payu) | 46 | 2026-06-18 | Payu Laravel Payment Gateway with Payment Verification Packa... |
+| [meshu-dev/devjobs](https://github.com/meshu-dev/devjobs) | 0 | 2026-06-18 | Imports and displays developer jobs |
+| [zingimmick/package-skeleton-laravel](https://github.com/zingimmick/package-skeleton-laravel) | 6 | 2026-06-18 | A skeleton repository for Laravel Packages |
+| [Laravel-Lang/config](https://github.com/Laravel-Lang/config) | 6 | 2026-06-18 | Config repository for Laravel-Lang packages |
+| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-06-18 |  |
+| [TheDragonCode/laravel-route-names](https://github.com/TheDragonCode/laravel-route-names) | 25 | 2026-06-18 | Automatic generation of route names for your project |
+| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-18 | a standalone, deterministic, offline-first Laravel package t... |
+| [aporat/laravel-appstore-purchases](https://github.com/aporat/laravel-appstore-purchases) | 3 | 2026-06-18 | Laravel package for handling App Store (Apple, iTunes, Amazo... |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 46 | 2026-06-18 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 152 | 2026-06-18 | The Moox Project - Packages for Filament and Laravel |
+| [Ercogx/filament-openai-assistant](https://github.com/Ercogx/filament-openai-assistant) | 17 | 2026-06-18 | Filament OpenAI Assistant is a filament plugin that adds a c... |
+| [cslant/blog-core](https://github.com/cslant/blog-core) | 0 | 2026-06-18 | A Laravel package for CSlant Blog Core. Take care of importa... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-19T00:55 | 2 | 1726 | 4703 |
 | 2026-06-18T18:49 | 9 | 1719 | 4701 |
 | 2026-06-18T13:10 | 5 | 1726 | 4692 |
 | 2026-06-18T07:42 | 4 | 1726 | 4687 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-17T07:52 | 3 | 1728 | 4664 |
 | 2026-06-17T00:50 | 7 | 1724 | 4661 |
 | 2026-06-16T19:14 | 9 | 1721 | 4654 |
-| 2026-06-16T13:47 | 4 | 1727 | 4645 |
 
 ---
 

@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4715  
-**Last updated:** 2026-06-19T13:12:50.051Z
+**Total packages tracked:** 4723  
+**Last updated:** 2026-06-19T18:38:07.191Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [gboquizosanchez/hew](https://github.com/gboquizosanchez/hew) | 0 | Schema-driven Laravel migrations. Define your DB once, generate migrations autom... |
+| [banditconsult/laravel-db-sync](https://github.com/banditconsult/laravel-db-sync) | 0 | A laravel package to handle database synchronisation |
+| [andreiio/blade-iconoir](https://github.com/andreiio/blade-iconoir) | 6 | A package to easily make use of Iconoir in your Laravel Blade views. |
+| [designmynight/laravel-recursive-collection](https://github.com/designmynight/laravel-recursive-collection) | 8 | A package to convert nested arrays and associative arrays into nested collection... |
+| [designmynight/laravel-log-mailer](https://github.com/designmynight/laravel-log-mailer) | 15 | A package to support logging via email in Laravel |
+| [gigabyte-software/package-report-pdf](https://github.com/gigabyte-software/package-report-pdf) | 0 | Sectioned PDF report generation for Laravel (gigabyte/laravel-report-pdf) |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | Laravel package providing polymorphic comments with Repository pattern, DTOs, En... |
+| [zillur-web/zkteco-php-sdk](https://github.com/zillur-web/zkteco-php-sdk) | 0 | ZKTeco PHP SDK for Laravel - A Laravel package for ZKTeco device integration |
 | [coderflexx/filament-turnstile](https://github.com/coderflexx/filament-turnstile) | 30 | Integrate Cloudflare Turnstile CAPTCHA protection into your FilamentPHP forms wi... |
 | [coderflexx/laravel-presenter](https://github.com/coderflexx/laravel-presenter) | 31 | Decouple display logic from your Eloquent models using the clean Presenter patte... |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Golden-Developer/Socialite-Twitch-oAuth](https://github.com/Golden-Developer/Socialite-Twitch-oAuth) | 1 | Socialite-Twitch-oAuth is a Laravel package that facilitates Twitch OAuth integr... |
 | [bitdreamit/laravel-mikopbx](https://github.com/bitdreamit/laravel-mikopbx) | 0 | The most complete, professional & premium open-source Laravel package for MikoPB... |
 | [ajangsupardi/laravel-postcode-id](https://github.com/ajangsupardi/laravel-postcode-id) | 0 | Laravel package for downloading and seeding Indonesian address data (provinces, ... |
-| [musa-labs/robinhood](https://github.com/musa-labs/robinhood) | 0 | Laravel Package for Robinhood Trading Platform |
-| [ajangsupardi/laravel-kodepos](https://github.com/ajangsupardi/laravel-kodepos) | 0 | Laravel package for seeding Indonesian address data (provinces, regencies, distr... |
-| [ka4ivan/laravel-logger](https://github.com/ka4ivan/laravel-logger) | 5 | A Laravel package for advanced logging, providing structured logs, contextual in... |
-| [juanfc03/trabajo-fin-de-grado-carai](https://github.com/juanfc03/trabajo-fin-de-grado-carai) | 0 | Plataforma e-commerce de venta de vehículos con búsqueda semántica y asistente v... |
-| [AfshinEfati/Laravel-Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder) | 2 | Generate complete, test-ready Laravel modules from a single Artisan command. The... |
-| [abdo10rabea472/laravel-deployment-installer](https://github.com/abdo10rabea472/laravel-deployment-installer) | 1 | installer laravel php smart-installer |
-| [lucaspatraodev/traceflow](https://github.com/lucaspatraodev/traceflow) | 0 | A Laravel package that shows the business flow behind every request. |
-| [bitdreamit/mikopbx-laravel](https://github.com/bitdreamit/mikopbx-laravel) | 0 | The most complete, professional & premium open-source Laravel package for MikoPB... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [typicms/core](https://github.com/typicms/core) | 7 | 2026-06-19 | The core package of TypiCMS, containing the base architectur... |
-| [GraystackIT/laravel-helpspace-api](https://github.com/GraystackIT/laravel-helpspace-api) | 0 | 2026-06-19 | Laravel package to consume Helpspace API |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 34 | 2026-06-19 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-06-19 | Laravel-based API for storing sensor data from distributed n... |
-| [TanDuy03/cloudflare-d1-database](https://github.com/TanDuy03/cloudflare-d1-database) | 27 | 2026-06-19 | Laravel database driver for Cloudflare D1 - supports REST & ... |
-| [Pratibha9312/laravel-package](https://github.com/Pratibha9312/laravel-package) | 0 | 2026-06-19 |  |
-| [GraystackIT/laravel-dymo-printer](https://github.com/GraystackIT/laravel-dymo-printer) | 0 | 2026-06-19 | Laravel package to use dymo printers in an easy way |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-06-19 | A personal portfolio built as an interactive browser-based t... |
-| [Monoverse1/voicebot-laravel-sync](https://github.com/Monoverse1/voicebot-laravel-sync) | 0 | 2026-06-19 | VoiceBot Laravel sync — push your catalog & content to Voice... |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 5 | 2026-06-19 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [GraystackIT/laravel-brave-api](https://github.com/GraystackIT/laravel-brave-api) | 0 | 2026-06-19 | Laravel package to consume Brave search API |
-| [enflow/livewire-twig](https://github.com/enflow/livewire-twig) | 28 | 2026-06-19 | Add Livewire components in your Twig templates |
-| [khody2012/LaravelAmiToolkit](https://github.com/khody2012/LaravelAmiToolkit) | 2 | 2026-06-19 | Laravel AMI Toolkit is a powerful, developer-friendly Larave... |
-| [aporat/laravel-filter-var](https://github.com/aporat/laravel-filter-var) | 2 | 2026-06-19 | Laravel package for filtering and sanitizing request variabl... |
-| [estin92/laravel-dvla-ves](https://github.com/estin92/laravel-dvla-ves) | 0 | 2026-06-19 | Laravel package to look up UK vehicle tax, MOT, fuel & emiss... |
-| [wekser/laragram](https://github.com/wekser/laragram) | 7 | 2026-06-19 | A Laravel package for building Telegram bots in MVC style. |
-| [GraystackIT/laravel-testo-api](https://github.com/GraystackIT/laravel-testo-api) | 0 | 2026-06-19 | Laravel package to consume API for Testo cloud, used to read... |
-| [bernskiold/laravel-currency-converter](https://github.com/bernskiold/laravel-currency-converter) | 0 | 2026-06-19 | A driver-based currency conversion package for Laravel with ... |
-| [jeffersongoncalves/filament-fathom](https://github.com/jeffersongoncalves/filament-fathom) | 3 | 2026-06-19 | Filament plugin for Fathom analytics with a built-in setting... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-06-19 | Laravel package providing polymorphic comments with Reposito... |
+| [sanjeevturkauli/crypt](https://github.com/sanjeevturkauli/crypt) | 0 | 2026-06-19 | Laravel package for automatic API request/response encryptio... |
+| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-06-19 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
+| [erik-ros-devilsberg/laravel-mariadb-vector](https://github.com/erik-ros-devilsberg/laravel-mariadb-vector) | 2 | 2026-06-19 | a package that connects the laravel vector functionality wit... |
+| [Finjineers-com/sisly-laravel-package](https://github.com/Finjineers-com/sisly-laravel-package) | 0 | 2026-06-19 |  |
+| [cboxdk/laravel-queue-autoscale](https://github.com/cboxdk/laravel-queue-autoscale) | 8 | 2026-06-19 | Autoscaling for Laravel queues based on SLA targets and queu... |
+| [solutionforest/filament-firewall](https://github.com/solutionforest/filament-firewall) | 44 | 2026-06-19 | This package provides a whitelist and blacklist feature to r... |
+| [zillur-web/zkteco-php-sdk](https://github.com/zillur-web/zkteco-php-sdk) | 0 | 2026-06-19 | ZKTeco PHP SDK for Laravel - A Laravel package for ZKTeco de... |
+| [2amigos/qrcode-library](https://github.com/2amigos/qrcode-library) | 219 | 2026-06-19 | Create QrCodes with ease |
+| [banditconsult/laravel-db-sync](https://github.com/banditconsult/laravel-db-sync) | 0 | 2026-06-19 | A laravel package to handle database synchronisation |
+| [Benefits-me/php-api-auth](https://github.com/Benefits-me/php-api-auth) | 0 | 2026-06-19 | Laravel package for checking the API token. |
+| [hamdyelbatal122/corewatch](https://github.com/hamdyelbatal122/corewatch) | 3 | 2026-06-19 | A comprehensive, production-ready DevOps & Server Health Das... |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-06-19 | Laravel Package to access AI CAD |
 | [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 330 | 2026-06-19 | The NativePHP website |
+| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-06-19 | Build privacy-conscious applications with tools designed for... |
+| [GraystackIT/laravel-ahasend-api](https://github.com/GraystackIT/laravel-ahasend-api) | 0 | 2026-06-19 | Laravel package to consume AhaSend API |
+| [andreiio/blade-iconoir](https://github.com/andreiio/blade-iconoir) | 6 | 2026-06-19 | A package to easily make use of Iconoir in your Laravel Blad... |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-06-19 | Collect everything about sent mails in your Filament app. |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 248 | 2026-06-19 | Collect everything about sent mails in your Laravel app |
+| [gowelle/google-moderator](https://github.com/gowelle/google-moderator) | 0 | 2026-06-19 | Laravel package for text and image moderation using Google A... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-19T18:38 | 8 | 1723 | 4723 |
 | 2026-06-19T13:12 | 7 | 1722 | 4715 |
 | 2026-06-19T07:53 | 6 | 1722 | 4709 |
 | 2026-06-19T00:55 | 2 | 1726 | 4703 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-18T00:50 | 2 | 1729 | 4683 |
 | 2026-06-17T18:50 | 8 | 1724 | 4681 |
 | 2026-06-17T13:17 | 10 | 1721 | 4674 |
-| 2026-06-17T07:52 | 3 | 1728 | 4664 |
 
 ---
 

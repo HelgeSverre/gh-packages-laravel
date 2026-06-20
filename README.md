@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4734  
-**Last updated:** 2026-06-20T12:37:57.682Z
+**Total packages tracked:** 4741  
+**Last updated:** 2026-06-20T18:31:39.473Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [abdian/laravel-upload-guard](https://github.com/abdian/laravel-upload-guard) | 0 | Fail-closed file-upload validation for Laravel. Blocks polyglot web shells, mali... |
+| [abdian/loglens](https://github.com/abdian/loglens) | 0 | Production-scale log viewer for Laravel — persistent on-disk index, instant mult... |
+| [Bhaveshsoni26/Laravel-Postman-Sync](https://github.com/Bhaveshsoni26/Laravel-Postman-Sync) | 1 | Automatically sync Laravel API routes, Form Requests, validation rules, and auth... |
+| [ailuracode/bladcn-cli](https://github.com/ailuracode/bladcn-cli) | 1 | CLI and Laravel package for installing shadcn-style Blade components |
+| [anu-avology26/sql-crud-generator-module](https://github.com/anu-avology26/sql-crud-generator-module) | 0 | Add SQL CRUD Generator — Laravel package for SQL |
+| [Heccubernny/laravel-multi-package-gateway](https://github.com/Heccubernny/laravel-multi-package-gateway) | 0 | A Laravel package that acts as a multiple payment gateway API package, supportin... |
+| [paperscissors/Laravel-Encryption-At-Rest](https://github.com/paperscissors/Laravel-Encryption-At-Rest) | 3 | A Laravel package for encrypting sensitive data at rest and automatically decryp... |
 | [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | PHP and Laravel Cursor rules — coding standards, testing, and conventions for th... |
 | [shaxzodbek-uzb/laravel-model-mcp](https://github.com/shaxzodbek-uzb/laravel-model-mcp) | 0 | Auto-expose Eloquent models as policy-enforced MCP tools — safe-by-default CRUD ... |
 | [shaxzodbek-uzb/laravel-mcp-auth](https://github.com/shaxzodbek-uzb/laravel-mcp-auth) | 0 | Bring-your-own-IdP OAuth 2.1 resource server for the official laravel/mcp packag... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | Laravel package providing polymorphic reactions (like, love, haha, wow, sad, ang... |
 | [gboquizosanchez/hew](https://github.com/gboquizosanchez/hew) | 0 | Schema-driven Laravel migrations. Define your DB once, generate migrations autom... |
 | [banditconsult/laravel-db-sync](https://github.com/banditconsult/laravel-db-sync) | 0 | A laravel package to handle database synchronisation |
-| [andreiio/blade-iconoir](https://github.com/andreiio/blade-iconoir) | 6 | A package to easily make use of Iconoir in your Laravel Blade views. |
-| [designmynight/laravel-recursive-collection](https://github.com/designmynight/laravel-recursive-collection) | 8 | A package to convert nested arrays and associative arrays into nested collection... |
-| [designmynight/laravel-log-mailer](https://github.com/designmynight/laravel-log-mailer) | 15 | A package to support logging via email in Laravel |
-| [gigabyte-software/package-report-pdf](https://github.com/gigabyte-software/package-report-pdf) | 0 | Sectioned PDF report generation for Laravel (gigabyte/laravel-report-pdf) |
-| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | Laravel package providing polymorphic comments with Repository pattern, DTOs, En... |
-| [zillur-web/zkteco-php-sdk](https://github.com/zillur-web/zkteco-php-sdk) | 0 | ZKTeco PHP SDK for Laravel - A Laravel package for ZKTeco device integration |
-| [coderflexx/filament-turnstile](https://github.com/coderflexx/filament-turnstile) | 30 | Integrate Cloudflare Turnstile CAPTCHA protection into your FilamentPHP forms wi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -36,10 +36,10 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 |---------|-----|-------------|
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 500 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
-| [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 486 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
+| [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 488 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 482 | A full-featured Laravel package for aiding in Shopify App development |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 480 | A full-featured Laravel package for aiding in Shopify App development |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mohammadrezagohari/RepositoryPattern](https://github.com/mohammadrezagohari/RepositoryPattern) | 3 | 2026-06-20 | Laravel package for generating repository classes, interface... |
-| [yehia-tarek/laravel-erpnext](https://github.com/yehia-tarek/laravel-erpnext) | 1 | 2026-06-20 | A Laravel package for interacting with ERPNext / Frappe REST... |
 | [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-06-20 | PHP and Laravel Cursor rules — coding standards, testing, an... |
-| [shaxzodbek-uzb/laravel-model-mcp](https://github.com/shaxzodbek-uzb/laravel-model-mcp) | 0 | 2026-06-20 | Auto-expose Eloquent models as policy-enforced MCP tools — s... |
-| [shaxzodbek-uzb/laravel-mcp-auth](https://github.com/shaxzodbek-uzb/laravel-mcp-auth) | 0 | 2026-06-20 | Bring-your-own-IdP OAuth 2.1 resource server for the officia... |
-| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-06-20 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
-| [sprout-laravel/sprout](https://github.com/sprout-laravel/sprout) | 364 | 2026-06-20 | A flexible, seamless and easy to use multitenancy solution f... |
-| [cosmicspork/laravel-rag-chat](https://github.com/cosmicspork/laravel-rag-chat) | 0 | 2026-06-20 | Laravel 12 RAG chat widget with SAML SSO and a provider-agno... |
-| [padosoft/laravel-rebel-bridge-otpz](https://github.com/padosoft/laravel-rebel-bridge-otpz) | 0 | 2026-06-20 | Bridge verso il package otpz come driver/provider OTP. |
-| [padosoft/laravel-rebel-auth](https://github.com/padosoft/laravel-rebel-auth) | 0 | 2026-06-20 | Meta-package for the padosoft/laravel-rebel-* enterprise aut... |
-| [Muhammed2024Salama/LaravelBase](https://github.com/Muhammed2024Salama/LaravelBase) | 5 | 2026-06-20 | A lightweight, version-agnostic Laravel package providing a ... |
-| [padosoft/laravel-rebel-demo](https://github.com/padosoft/laravel-rebel-demo) | 0 | 2026-06-20 | demo app for laravel rebel packages suite |
-| [AbirHasanArko/HelloMed-DB](https://github.com/AbirHasanArko/HelloMed-DB) | 0 | 2026-06-20 | 🏥🗄️ Enterprise-grade Oracle PL/SQL database schema powerin... |
-| [codebar-ag/laravel-docuware](https://github.com/codebar-ag/laravel-docuware) | 11 | 2026-06-20 | Laravel DocuWare Package |
-| [bernskiold/laravel-activatable](https://github.com/bernskiold/laravel-activatable) | 0 | 2026-06-20 | Give Eloquent models an active/inactive state with scopes, e... |
-| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 7 | 2026-06-20 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
-| [jeffersongoncalves/filament-cookie-consent](https://github.com/jeffersongoncalves/filament-cookie-consent) | 8 | 2026-06-20 | Filament plugin for cookie consent with settings page - GDPR... |
+| [PascalKleindienst/laravel-glimpse](https://github.com/PascalKleindienst/laravel-glimpse) | 2 | 2026-06-20 | Privacy-first, server-side analytics for Laravel 12+. |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-06-20 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [AlfredoRamos/parsedown-extra-laravel](https://github.com/AlfredoRamos/parsedown-extra-laravel) | 27 | 2026-06-20 | A Parsedown Extra package for Laravel and Lumen |
+| [ailuracode/bladcn-cli](https://github.com/ailuracode/bladcn-cli) | 1 | 2026-06-20 | CLI and Laravel package for installing shadcn-style Blade co... |
+| [anu-avology26/sql-crud-generator-module](https://github.com/anu-avology26/sql-crud-generator-module) | 0 | 2026-06-20 | Add SQL CRUD Generator — Laravel package for SQL |
+| [maliang/lartrix](https://github.com/maliang/lartrix) | 1 | 2026-06-20 | Laravel Admin Package. Build modern admin panels quickly wit... |
+| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-06-20 |  |
+| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-06-20 | Build privacy-conscious applications with tools designed for... |
+| [Laravel-Lang/config](https://github.com/Laravel-Lang/config) | 6 | 2026-06-20 | Config repository for Laravel-Lang packages |
+| [TheDragonCode/laravel-data-dumper](https://github.com/TheDragonCode/laravel-data-dumper) | 34 | 2026-06-20 | Adding data from certain tables when executing the `php arti... |
+| [TheDragonCode/laravel-cache](https://github.com/TheDragonCode/laravel-cache) | 69 | 2026-06-20 | An improved helper for working with cache |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-06-20 | A lightweight, convention-driven modular architecture packag... |
+| [pboivin/filament-peek](https://github.com/pboivin/filament-peek) | 252 | 2026-06-20 | Full-screen page preview modal for Filament |
+| [dhunganaroshan341/NepalGeographyComposerLaravel](https://github.com/dhunganaroshan341/NepalGeographyComposerLaravel) | 0 | 2026-06-20 | " it's a nepal geography package state district and municipa... |
+| [awcodes/shout](https://github.com/awcodes/shout) | 71 | 2026-06-20 | A simple inline contextual notice for Filament forms and inf... |
+| [awcodes/palette](https://github.com/awcodes/palette) | 24 | 2026-06-20 | A color picker field for Filament Forms that uses preset col... |
+| [awcodes/recently](https://github.com/awcodes/recently) | 43 | 2026-06-20 | Easily track and access recently viewed records in your fila... |
 | [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-20 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [outatime-io/ensemble-calendar](https://github.com/outatime-io/ensemble-calendar) | 1 | 2026-06-20 | Modern, GDPR‑compliant rehearsal calendar for musical ensemb... |
-| [lara-zeus/sky](https://github.com/lara-zeus/sky) | 214 | 2026-06-20 | CMS for your website. it include posts, pages, tags, and cat... |
+| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-06-20 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-20T18:31 | 7 | 1724 | 4741 |
 | 2026-06-20T12:37 | 3 | 1727 | 4734 |
 | 2026-06-20T07:21 | 5 | 1725 | 4731 |
 | 2026-06-20T00:45 | 3 | 1727 | 4726 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-19T00:55 | 2 | 1726 | 4703 |
 | 2026-06-18T18:49 | 9 | 1719 | 4701 |
 | 2026-06-18T13:10 | 5 | 1726 | 4692 |
-| 2026-06-18T07:42 | 4 | 1726 | 4687 |
 
 ---
 

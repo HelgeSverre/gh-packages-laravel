@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4731  
-**Last updated:** 2026-06-20T07:21:52.184Z
+**Total packages tracked:** 4734  
+**Last updated:** 2026-06-20T12:37:57.682Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | PHP and Laravel Cursor rules — coding standards, testing, and conventions for th... |
+| [shaxzodbek-uzb/laravel-model-mcp](https://github.com/shaxzodbek-uzb/laravel-model-mcp) | 0 | Auto-expose Eloquent models as policy-enforced MCP tools — safe-by-default CRUD ... |
+| [shaxzodbek-uzb/laravel-mcp-auth](https://github.com/shaxzodbek-uzb/laravel-mcp-auth) | 0 | Bring-your-own-IdP OAuth 2.1 resource server for the official laravel/mcp packag... |
 | [devfaysal/laravel-muthofun-sms](https://github.com/devfaysal/laravel-muthofun-sms) | 4 | Simple Laravel wrapper for MuthoFun SMS Gateway API |
 | [MoanaSoft/support-flow-core](https://github.com/MoanaSoft/support-flow-core) | 0 | Laravel package for embeddable support/contact flows, public widgets, AJAX endpo... |
 | [SiddharthaGF/bladcn-cli](https://github.com/SiddharthaGF/bladcn-cli) | 0 | CLI and Laravel package for installing shadcn-style Blade components |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | Laravel package providing polymorphic comments with Repository pattern, DTOs, En... |
 | [zillur-web/zkteco-php-sdk](https://github.com/zillur-web/zkteco-php-sdk) | 0 | ZKTeco PHP SDK for Laravel - A Laravel package for ZKTeco device integration |
 | [coderflexx/filament-turnstile](https://github.com/coderflexx/filament-turnstile) | 30 | Integrate Cloudflare Turnstile CAPTCHA protection into your FilamentPHP forms wi... |
-| [coderflexx/laravel-presenter](https://github.com/coderflexx/laravel-presenter) | 31 | Decouple display logic from your Eloquent models using the clean Presenter patte... |
-| [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
-| [Pratibha9312/laravel-package](https://github.com/Pratibha9312/laravel-package) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-20 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-06-20 | Filament plugin that allows to add dynamic, user-defined for... |
-| [snoeren-development/laravel-admin-users](https://github.com/snoeren-development/laravel-admin-users) | 2 | 2026-06-20 | Define and check for admin users in your application! |
-| [awcodes/recently](https://github.com/awcodes/recently) | 43 | 2026-06-20 | Easily track and access recently viewed records in your fila... |
-| [preprio/laravel-complete-starter](https://github.com/preprio/laravel-complete-starter) | 0 | 2026-06-20 | The Complete Laravel Starter package offers a sample project... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 18 | 2026-06-20 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [yahongie2014/MaarfTask](https://github.com/yahongie2014/MaarfTask) | 0 | 2026-06-20 |  |
-| [MoanaSoft/support-flow-core](https://github.com/MoanaSoft/support-flow-core) | 0 | 2026-06-20 | Laravel package for embeddable support/contact flows, public... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 0 | 2026-06-20 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [leek/laravel-vendor-cleanup](https://github.com/leek/laravel-vendor-cleanup) | 70 | 2026-06-20 | Detect and clean up unchanged vendor-published files in your... |
-| [fissible/phone](https://github.com/fissible/phone) | 0 | 2026-06-20 | Laravel package for Twilio-backed business voice and SMS wor... |
+| [mohammadrezagohari/RepositoryPattern](https://github.com/mohammadrezagohari/RepositoryPattern) | 3 | 2026-06-20 | Laravel package for generating repository classes, interface... |
+| [yehia-tarek/laravel-erpnext](https://github.com/yehia-tarek/laravel-erpnext) | 1 | 2026-06-20 | A Laravel package for interacting with ERPNext / Frappe REST... |
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-06-20 | PHP and Laravel Cursor rules — coding standards, testing, an... |
+| [shaxzodbek-uzb/laravel-model-mcp](https://github.com/shaxzodbek-uzb/laravel-model-mcp) | 0 | 2026-06-20 | Auto-expose Eloquent models as policy-enforced MCP tools — s... |
+| [shaxzodbek-uzb/laravel-mcp-auth](https://github.com/shaxzodbek-uzb/laravel-mcp-auth) | 0 | 2026-06-20 | Bring-your-own-IdP OAuth 2.1 resource server for the officia... |
+| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-06-20 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
+| [sprout-laravel/sprout](https://github.com/sprout-laravel/sprout) | 364 | 2026-06-20 | A flexible, seamless and easy to use multitenancy solution f... |
+| [cosmicspork/laravel-rag-chat](https://github.com/cosmicspork/laravel-rag-chat) | 0 | 2026-06-20 | Laravel 12 RAG chat widget with SAML SSO and a provider-agno... |
 | [padosoft/laravel-rebel-bridge-otpz](https://github.com/padosoft/laravel-rebel-bridge-otpz) | 0 | 2026-06-20 | Bridge verso il package otpz come driver/provider OTP. |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-20 | Package para Laravel y facturacion |
-| [dsbilling/dsbilling.no](https://github.com/dsbilling/dsbilling.no) | 5 | 2026-06-20 | Just my personal website, built with the TALL stack. |
-| [SiddharthaGF/bladcn-cli](https://github.com/SiddharthaGF/bladcn-cli) | 0 | 2026-06-20 | CLI and Laravel package for installing shadcn-style Blade co... |
-| [jeffersongoncalves/filament-cookie-consent](https://github.com/jeffersongoncalves/filament-cookie-consent) | 8 | 2026-06-20 | Filament plugin for cookie consent with settings page - GDPR... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 318 | 2026-06-20 | Laravel SMS Gateway Integration Package |
-| [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter) | 133 | 2026-06-20 | A opponiated Laravel 12 Livewire Components Starter Kit, wit... |
+| [padosoft/laravel-rebel-auth](https://github.com/padosoft/laravel-rebel-auth) | 0 | 2026-06-20 | Meta-package for the padosoft/laravel-rebel-* enterprise aut... |
+| [Muhammed2024Salama/LaravelBase](https://github.com/Muhammed2024Salama/LaravelBase) | 5 | 2026-06-20 | A lightweight, version-agnostic Laravel package providing a ... |
+| [padosoft/laravel-rebel-demo](https://github.com/padosoft/laravel-rebel-demo) | 0 | 2026-06-20 | demo app for laravel rebel packages suite |
 | [AbirHasanArko/HelloMed-DB](https://github.com/AbirHasanArko/HelloMed-DB) | 0 | 2026-06-20 | 🏥🗄️ Enterprise-grade Oracle PL/SQL database schema powerin... |
-| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-06-20 | Laravel package for AEAT Verifactu compliance with agnostic ... |
+| [codebar-ag/laravel-docuware](https://github.com/codebar-ag/laravel-docuware) | 11 | 2026-06-20 | Laravel DocuWare Package |
+| [bernskiold/laravel-activatable](https://github.com/bernskiold/laravel-activatable) | 0 | 2026-06-20 | Give Eloquent models an active/inactive state with scopes, e... |
+| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 7 | 2026-06-20 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
+| [jeffersongoncalves/filament-cookie-consent](https://github.com/jeffersongoncalves/filament-cookie-consent) | 8 | 2026-06-20 | Filament plugin for cookie consent with settings page - GDPR... |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-20 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [outatime-io/ensemble-calendar](https://github.com/outatime-io/ensemble-calendar) | 1 | 2026-06-20 | Modern, GDPR‑compliant rehearsal calendar for musical ensemb... |
+| [lara-zeus/sky](https://github.com/lara-zeus/sky) | 214 | 2026-06-20 | CMS for your website. it include posts, pages, tags, and cat... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-20T12:37 | 3 | 1727 | 4734 |
 | 2026-06-20T07:21 | 5 | 1725 | 4731 |
 | 2026-06-20T00:45 | 3 | 1727 | 4726 |
 | 2026-06-19T18:38 | 8 | 1723 | 4723 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-18T18:49 | 9 | 1719 | 4701 |
 | 2026-06-18T13:10 | 5 | 1726 | 4692 |
 | 2026-06-18T07:42 | 4 | 1726 | 4687 |
-| 2026-06-18T00:50 | 2 | 1729 | 4683 |
 
 ---
 

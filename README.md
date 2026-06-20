@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4723  
-**Last updated:** 2026-06-19T18:38:07.191Z
+**Total packages tracked:** 4726  
+**Last updated:** 2026-06-20T00:45:34.246Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [promptphp/intercept-support](https://github.com/promptphp/intercept-support) | 0 | [READ ONLY] Shared support utilities and configuration for Intercept middleware ... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | Laravel package providing OTP (One-Time Password) management with Repository pat... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | Laravel package providing polymorphic reactions (like, love, haha, wow, sad, ang... |
 | [gboquizosanchez/hew](https://github.com/gboquizosanchez/hew) | 0 | Schema-driven Laravel migrations. Define your DB once, generate migrations autom... |
 | [banditconsult/laravel-db-sync](https://github.com/banditconsult/laravel-db-sync) | 0 | A laravel package to handle database synchronisation |
 | [andreiio/blade-iconoir](https://github.com/andreiio/blade-iconoir) | 6 | A package to easily make use of Iconoir in your Laravel Blade views. |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [1stevengrant/cloudflare-super-images](https://github.com/1stevengrant/cloudflare-super-images) | 0 | A Laravel package for Cloudflare Images: build delivery URLs, mint direct creato... |
 | [saakiiib/laravel-spa](https://github.com/saakiiib/laravel-spa) | 29 | Zero-reload SPA engine for Laravel Blade — no jQuery, no Livewire, no Inertia. |
 | [Golden-Developer/Socialite-Paypal-oAuth](https://github.com/Golden-Developer/Socialite-Paypal-oAuth) | 1 | Socialite-Paypal-oAuth is an integration package that provides seamless PayPal a... |
-| [Golden-Developer/Socialite-Twitch-oAuth](https://github.com/Golden-Developer/Socialite-Twitch-oAuth) | 1 | Socialite-Twitch-oAuth is a Laravel package that facilitates Twitch OAuth integr... |
-| [bitdreamit/laravel-mikopbx](https://github.com/bitdreamit/laravel-mikopbx) | 0 | The most complete, professional & premium open-source Laravel package for MikoPB... |
-| [ajangsupardi/laravel-postcode-id](https://github.com/ajangsupardi/laravel-postcode-id) | 0 | Laravel package for downloading and seeding Indonesian address data (provinces, ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-06-19 | Laravel package providing polymorphic comments with Reposito... |
-| [sanjeevturkauli/crypt](https://github.com/sanjeevturkauli/crypt) | 0 | 2026-06-19 | Laravel package for automatic API request/response encryptio... |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-06-19 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [erik-ros-devilsberg/laravel-mariadb-vector](https://github.com/erik-ros-devilsberg/laravel-mariadb-vector) | 2 | 2026-06-19 | a package that connects the laravel vector functionality wit... |
-| [Finjineers-com/sisly-laravel-package](https://github.com/Finjineers-com/sisly-laravel-package) | 0 | 2026-06-19 |  |
-| [cboxdk/laravel-queue-autoscale](https://github.com/cboxdk/laravel-queue-autoscale) | 8 | 2026-06-19 | Autoscaling for Laravel queues based on SLA targets and queu... |
-| [solutionforest/filament-firewall](https://github.com/solutionforest/filament-firewall) | 44 | 2026-06-19 | This package provides a whitelist and blacklist feature to r... |
-| [zillur-web/zkteco-php-sdk](https://github.com/zillur-web/zkteco-php-sdk) | 0 | 2026-06-19 | ZKTeco PHP SDK for Laravel - A Laravel package for ZKTeco de... |
-| [2amigos/qrcode-library](https://github.com/2amigos/qrcode-library) | 219 | 2026-06-19 | Create QrCodes with ease |
-| [banditconsult/laravel-db-sync](https://github.com/banditconsult/laravel-db-sync) | 0 | 2026-06-19 | A laravel package to handle database synchronisation |
-| [Benefits-me/php-api-auth](https://github.com/Benefits-me/php-api-auth) | 0 | 2026-06-19 | Laravel package for checking the API token. |
-| [hamdyelbatal122/corewatch](https://github.com/hamdyelbatal122/corewatch) | 3 | 2026-06-19 | A comprehensive, production-ready DevOps & Server Health Das... |
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-06-19 | Laravel Package to access AI CAD |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 330 | 2026-06-19 | The NativePHP website |
-| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-06-19 | Build privacy-conscious applications with tools designed for... |
-| [GraystackIT/laravel-ahasend-api](https://github.com/GraystackIT/laravel-ahasend-api) | 0 | 2026-06-19 | Laravel package to consume AhaSend API |
-| [andreiio/blade-iconoir](https://github.com/andreiio/blade-iconoir) | 6 | 2026-06-19 | A package to easily make use of Iconoir in your Laravel Blad... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-06-19 | Collect everything about sent mails in your Filament app. |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 248 | 2026-06-19 | Collect everything about sent mails in your Laravel app |
-| [gowelle/google-moderator](https://github.com/gowelle/google-moderator) | 0 | 2026-06-19 | Laravel package for text and image moderation using Google A... |
+| [foxws/wireuse](https://github.com/foxws/wireuse) | 7 | 2026-06-20 | Collection of useful Livewire utilities. |
+| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-06-20 | Build privacy-conscious applications with tools designed for... |
+| [padosoft/laravel-ai-price-intelligence](https://github.com/padosoft/laravel-ai-price-intelligence) | 3 | 2026-06-20 | Enterprise Product Price Intelligence / Competitor Monitorin... |
+| [padosoft/laravel-ai-search-providers](https://github.com/padosoft/laravel-ai-search-providers) | 0 | 2026-06-20 | A plug-and-play Laravel package that exposes a single contra... |
+| [padosoft/laravel-patent-box-tracker](https://github.com/padosoft/laravel-patent-box-tracker) | 0 | 2026-06-20 | Laravel package that classifies R&D activity across one or m... |
+| [Muhammed2024Salama/LaravelBase](https://github.com/Muhammed2024Salama/LaravelBase) | 5 | 2026-06-20 | A lightweight, version-agnostic Laravel package providing a ... |
+| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-19 | Laravel package for mk-director monorepo — admin module scaf... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-19 | A Laravel-based web application that tracks, analyzes, and p... |
+| [padosoft/laravel-ai-guardrails](https://github.com/padosoft/laravel-ai-guardrails) | 0 | 2026-06-19 | a standalone, deterministic, offline-first Laravel package t... |
+| [RobertBoes/inertia-breadcrumbs](https://github.com/RobertBoes/inertia-breadcrumbs) | 59 | 2026-06-19 | Laravel package to automatically share breadcrumbs to Inerti... |
+| [kaungkhantjc/blade-hugeicons](https://github.com/kaungkhantjc/blade-hugeicons) | 0 | 2026-06-19 | A package to easily make use of Hugeicons ~5,000+ (Stroke Ro... |
+| [fissible/phone](https://github.com/fissible/phone) | 0 | 2026-06-19 | Laravel package for Twilio-backed business voice and SMS wor... |
+| [promptphp/intercept-support](https://github.com/promptphp/intercept-support) | 0 | 2026-06-19 | [READ ONLY] Shared support utilities and configuration for I... |
+| [gboquizosanchez/hew](https://github.com/gboquizosanchez/hew) | 0 | 2026-06-19 | Schema-driven Laravel migrations. Define your DB once, gener... |
+| [mykemeynell/inkstone](https://github.com/mykemeynell/inkstone) | 0 | 2026-06-19 | Generate static documentation sites from Markdown for Larave... |
+| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-06-19 | 🔒 The missing package for Laravel Nova that lets you know w... |
+| [TanDuy03/cloudflare-d1-database](https://github.com/TanDuy03/cloudflare-d1-database) | 27 | 2026-06-19 | Laravel database driver for Cloudflare D1 - supports REST & ... |
+| [visualbuilder/youtrack-cli](https://github.com/visualbuilder/youtrack-cli) | 1 | 2026-06-19 | Laravel package providing CLI tools for JetBrains Youtrack t... |
+| [elyerrlabs/laravel-runtime](https://github.com/elyerrlabs/laravel-runtime) | 0 | 2026-06-19 | Laravel Runtime is a lightweight runtime control layer built... |
+| [flexpik/filament-studio](https://github.com/flexpik/filament-studio) | 42 | 2026-06-19 | Dynamic data model manager for Filament — EAV storage, 33 fi... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-20T00:45 | 3 | 1727 | 4726 |
 | 2026-06-19T18:38 | 8 | 1723 | 4723 |
 | 2026-06-19T13:12 | 7 | 1722 | 4715 |
 | 2026-06-19T07:53 | 6 | 1722 | 4709 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-18T07:42 | 4 | 1726 | 4687 |
 | 2026-06-18T00:50 | 2 | 1729 | 4683 |
 | 2026-06-17T18:50 | 8 | 1724 | 4681 |
-| 2026-06-17T13:17 | 10 | 1721 | 4674 |
 
 ---
 

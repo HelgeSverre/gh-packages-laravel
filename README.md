@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4757  
-**Last updated:** 2026-06-21T12:41:34.429Z
+**Total packages tracked:** 4760  
+**Last updated:** 2026-06-21T18:32:53.143Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 1 | A self-hosted ActivityPub server implementation for Laravel 13, enabling federat... |
+| [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | Easy-to-integrate multi-tenant authentication package for Laravel featuring pass... |
+| [qbe-digital/payments](https://github.com/qbe-digital/payments) | 2 | A Laravel payments package providing a clean and extensible architecture for int... |
 | [kobe-developer/saprfc-manager](https://github.com/kobe-developer/saprfc-manager) | 0 | Laravel package for SAP NW RFC integration with Circuit Breaker and Octane suppo... |
 | [rcor8app/wellcms](https://github.com/rcor8app/wellcms) | 0 | WellCMS core package - a customizable admin panel for Laravel applications. |
 | [mrezdev/laravel-talkto](https://github.com/mrezdev/laravel-talkto) | 0 | Secure Laravel service-to-service command transport with signed envelopes, outbo... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/laravel-html-sanitizer](https://github.com/jeffersongoncalves/laravel-html-sanitizer) | 1 | Sanitize untrusted HTML (READMEs, user content) — strip scripts, event handlers ... |
 | [jeffersongoncalves/laravel-security-headers](https://github.com/jeffersongoncalves/laravel-security-headers) | 1 | Stamp configurable baseline security headers (CSP, HSTS, COOP, Permissions-Polic... |
 | [jeffersongoncalves/laravel-github-client](https://github.com/jeffersongoncalves/laravel-github-client) | 1 | Rate-limit-aware GitHub REST client — tri-state repo probe, branches, manifests ... |
-| [jeffersongoncalves/laravel-github-contributions](https://github.com/jeffersongoncalves/laravel-github-contributions) | 1 | Fetch a GitHub contribution calendar (0-4 heatmap cells) via the GraphQL API. |
-| [iamsabbiralam/ghost-notes](https://github.com/iamsabbiralam/ghost-notes) | 2 | 👻 Transform hidden code tags into a professional dev-diary. Features a sleek da... |
-| [abdian/laravel-upload-guard](https://github.com/abdian/laravel-upload-guard) | 0 | Fail-closed file-upload validation for Laravel. Blocks polyglot web shells, mali... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [rcor8app/wellcms](https://github.com/rcor8app/wellcms) | 0 | 2026-06-21 | WellCMS core package - a customizable admin panel for Larave... |
+| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 1 | 2026-06-21 | Simple Laravel scraping package |
+| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 2 | 2026-06-21 | A file-based CMS package for Laravel. Renders documentation,... |
+| [VictorMGomes/rest-messages](https://github.com/VictorMGomes/rest-messages) | 1 | 2026-06-21 | Rest API message standardization package for Laravel applica... |
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-06-21 | PHP and Laravel Cursor rules — coding standards, testing, an... |
+| [jeffersongoncalves/filament-pwa](https://github.com/jeffersongoncalves/filament-pwa) | 1 | 2026-06-21 | Inject PWA head tags (manifest, theme-color, apple-touch) in... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-06-21 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-21 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [jeffersongoncalves/laravel-pwa-favicon](https://github.com/jeffersongoncalves/laravel-pwa-favicon) | 1 | 2026-06-21 | Serve a PWA manifest, browserconfig and favicons (512 + mask... |
+| [franbarbalopez/mirror](https://github.com/franbarbalopez/mirror) | 160 | 2026-06-21 | Mirror is an elegant user impersonation package for Laravel.... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-21 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-21 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-21 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-21 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-21 | Manage and track inventory with a PHP package that integrate... |
+| [openric/service](https://github.com/openric/service) | 0 | 2026-06-21 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-06-21 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | 2026-06-21 | Easy-to-integrate multi-tenant authentication package for La... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-06-21 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-21 | Package para Laravel y facturacion |
-| [jeffersongoncalves/laravel-mail](https://github.com/jeffersongoncalves/laravel-mail) | 9 | 2026-06-21 | Complete email management for Laravel: logging, database tem... |
+| [harris21/laravel-aegis](https://github.com/harris21/laravel-aegis) | 57 | 2026-06-21 | Scaffolding and validation helpers for Laravel Value Objects |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-06-21 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-06-21 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-06-21 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-21 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-21 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-21 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-21 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [asciisd/autochartist-laravel](https://github.com/asciisd/autochartist-laravel) | 0 | 2026-06-21 | A Laravel package to integrate autochartist platform with La... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-21 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-21 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-21 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [abdian/loglens](https://github.com/abdian/loglens) | 0 | 2026-06-21 | Production-scale log viewer for Laravel — persistent on-disk... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-21T18:32 | 3 | 1724 | 4760 |
 | 2026-06-21T12:41 | 2 | 1728 | 4757 |
 | 2026-06-21T07:39 | 2 | 1727 | 4755 |
 | 2026-06-21T00:50 | 15 | 1713 | 4753 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-20T00:45 | 3 | 1727 | 4726 |
 | 2026-06-19T18:38 | 8 | 1723 | 4723 |
 | 2026-06-19T13:12 | 7 | 1722 | 4715 |
-| 2026-06-19T07:53 | 6 | 1722 | 4709 |
 
 ---
 

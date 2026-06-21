@@ -2,15 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4755  
-**Last updated:** 2026-06-21T07:39:59.651Z
+**Total packages tracked:** 4757  
+**Last updated:** 2026-06-21T12:41:34.429Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [kobe-developer/saprfc-manager](https://github.com/kobe-developer/saprfc-manager) | 0 | Laravel package for SAP NW RFC integration with Circuit Breaker and Octane suppo... |
+| [rcor8app/wellcms](https://github.com/rcor8app/wellcms) | 0 | WellCMS core package - a customizable admin panel for Laravel applications. |
 | [mrezdev/laravel-talkto](https://github.com/mrezdev/laravel-talkto) | 0 | Secure Laravel service-to-service command transport with signed envelopes, outbo... |
-| [danielpetrica/laravel-activitypub](https://github.com/danielpetrica/laravel-activitypub) | 0 | A self-hosted ActivityPub server implementation for Laravel 13, enabling federat... |
+| [danielpetrica/laravel-activitypub](https://github.com/danielpetrica/laravel-activitypub) | 1 | A self-hosted ActivityPub server implementation for Laravel 13, enabling federat... |
 | [DeM1-off/laravel-modular](https://github.com/DeM1-off/laravel-modular) | 0 |  |
 | [jeffersongoncalves/filament-additional-information](https://github.com/jeffersongoncalves/filament-additional-information) | 1 | Reusable created/updated timestamps section for Filament infolists. |
 | [jeffersongoncalves/laravel-pwa-favicon](https://github.com/jeffersongoncalves/laravel-pwa-favicon) | 1 | Serve a PWA manifest, browserconfig and favicons (512 + maskable icons, apple-to... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/laravel-github-contributions](https://github.com/jeffersongoncalves/laravel-github-contributions) | 1 | Fetch a GitHub contribution calendar (0-4 heatmap cells) via the GraphQL API. |
 | [iamsabbiralam/ghost-notes](https://github.com/iamsabbiralam/ghost-notes) | 2 | 👻 Transform hidden code tags into a professional dev-diary. Features a sleek da... |
 | [abdian/laravel-upload-guard](https://github.com/abdian/laravel-upload-guard) | 0 | Fail-closed file-upload validation for Laravel. Blocks polyglot web shells, mali... |
-| [abdian/loglens](https://github.com/abdian/loglens) | 0 | Production-scale log viewer for Laravel — persistent on-disk index, instant mult... |
-| [Bhaveshsoni26/Laravel-Postman-Sync](https://github.com/Bhaveshsoni26/Laravel-Postman-Sync) | 1 | Automatically sync Laravel API routes, Form Requests, validation rules, and auth... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [abdian/loglens](https://github.com/abdian/loglens) | 0 | 2026-06-21 | Production-scale log viewer for Laravel — persistent on-disk... |
+| [rcor8app/wellcms](https://github.com/rcor8app/wellcms) | 0 | 2026-06-21 | WellCMS core package - a customizable admin panel for Larave... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-21 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-21 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-21 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-06-21 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-06-21 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
 | [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-21 | Package para Laravel y facturacion |
-| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-06-21 | Laravel package for AEAT Verifactu compliance with agnostic ... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 0 | 2026-06-21 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [BabelQueue/laravel](https://github.com/BabelQueue/laravel) | 1 | 2026-06-21 | Drop-in Laravel queue driver for BabelQueue — dispatch polyg... |
-| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 0 | 2026-06-21 | A package for using and generating unique urls for each Eloq... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-06-21 | Simple package for adding directives to show/hide content fr... |
-| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 4 | 2026-06-21 | A package for laravel to enable High-performance bulk seedin... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-06-21 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | 2026-06-21 | A media picker plugin for Filament Panels. |
-| [2amigos/qrcode-library](https://github.com/2amigos/qrcode-library) | 219 | 2026-06-21 | Create QrCodes with ease |
-| [iamsabbiralam/ghost-notes](https://github.com/iamsabbiralam/ghost-notes) | 2 | 2026-06-21 | 👻 Transform hidden code tags into a professional dev-diary.... |
-| [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter) | 133 | 2026-06-21 | A opponiated Laravel 12 Livewire Components Starter Kit, wit... |
-| [jeffersongoncalves/filament-whatsapp-widget](https://github.com/jeffersongoncalves/filament-whatsapp-widget) | 11 | 2026-06-21 | This Filament package provides a simple yet customizable Wha... |
-| [afsakar/filament-otp-login](https://github.com/afsakar/filament-otp-login) | 61 | 2026-06-21 | OTP Login for FilamentPHP |
-| [faridhafizh/kabar-kurir](https://github.com/faridhafizh/kabar-kurir) | 0 | 2026-06-21 | KabarKurir - Corporate news aggregator and independent packa... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-06-21 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-06-21 | Runtime base library for building Laravel packages: fluent P... |
-| [devsarfo/laraprunable](https://github.com/devsarfo/laraprunable) | 0 | 2026-06-21 | Laravel Prunable Package that supports SoftDeletes trait |
-| [maliang/lartrix](https://github.com/maliang/lartrix) | 1 | 2026-06-21 | Laravel Admin Package. Build modern admin panels quickly wit... |
+| [jeffersongoncalves/laravel-mail](https://github.com/jeffersongoncalves/laravel-mail) | 9 | 2026-06-21 | Complete email management for Laravel: logging, database tem... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-06-21 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-06-21 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-06-21 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-21 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-21 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-21 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-21 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [asciisd/autochartist-laravel](https://github.com/asciisd/autochartist-laravel) | 0 | 2026-06-21 | A Laravel package to integrate autochartist platform with La... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-21 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-21 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-21 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [abdian/loglens](https://github.com/abdian/loglens) | 0 | 2026-06-21 | Production-scale log viewer for Laravel — persistent on-disk... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-21T12:41 | 2 | 1728 | 4757 |
 | 2026-06-21T07:39 | 2 | 1727 | 4755 |
 | 2026-06-21T00:50 | 15 | 1713 | 4753 |
 | 2026-06-20T18:31 | 7 | 1724 | 4741 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-19T18:38 | 8 | 1723 | 4723 |
 | 2026-06-19T13:12 | 7 | 1722 | 4715 |
 | 2026-06-19T07:53 | 6 | 1722 | 4709 |
-| 2026-06-19T00:55 | 2 | 1726 | 4703 |
 
 ---
 

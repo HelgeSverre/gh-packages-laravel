@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4772  
-**Last updated:** 2026-06-22T00:49:46.713Z
+**Total packages tracked:** 4779  
+**Last updated:** 2026-06-22T08:03:15.447Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [AhmadIkbalDjaya/simkar](https://github.com/AhmadIkbalDjaya/simkar) | 0 | A Laravel-based Room Transfer Information System for managing WBP records, room ... |
+| [One-Learning-Community/grease](https://github.com/One-Learning-Community/grease) | 0 | Opt-in performance for Laravel's hot paths. One trait, byte-identical output, bu... |
+| [hsmyv/summernote-laravel](https://github.com/hsmyv/summernote-laravel) | 0 | Easy Summernote integration for Laravel with Base64 image handling. |
+| [nasrinrezaei-dev/laravel-payment-gateway](https://github.com/nasrinrezaei-dev/laravel-payment-gateway) | 0 | Unified Laravel payment gateway package supporting Stripe, PayPal & Razorpay — S... |
+| [mtorres-lechuganegra/package-accessmanager](https://github.com/mtorres-lechuganegra/package-accessmanager) | 0 | Este paquete de Laravel proporciona una solución integral para la gestión de acc... |
+| [canggoreng/starter](https://github.com/canggoreng/starter) | 0 | Laravel 13 Stable, Skills, Dependencies Full Packages |
+| [algoyounes/Bindify](https://github.com/algoyounes/Bindify) | 15 | 🔗 Bindify is a laravel package that simplifies service binding lazily via attri... |
 | [Garalulu/tourney-method](https://github.com/Garalulu/tourney-method) | 0 | Open-source osu! tournament discovery, history, and community contribution platf... |
 | [jeffersongoncalves/laravel-topic-normalizer](https://github.com/jeffersongoncalves/laravel-topic-normalizer) | 1 | Merge GitHub topics + composer/npm/Packagist keywords into one slugged, deduplic... |
 | [jeffersongoncalves/laravel-favicon-proxy](https://github.com/jeffersongoncalves/laravel-favicon-proxy) | 1 | Same-origin favicon proxy with server-side caching (Google S2 by default) — keep... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [VictorStochero/Warden-panel](https://github.com/VictorStochero/Warden-panel) | 0 | Self-hosted dedicated parent dashboard for the Warden Laravel APM package — stan... |
 | [jeffersongoncalves/laravel-npm-readme](https://github.com/jeffersongoncalves/laravel-npm-readme) | 1 | Fetch, render and cache an npm package README from the registry document. The np... |
 | [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 1 | A self-hosted ActivityPub server implementation for Laravel 13, enabling federat... |
-| [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | Easy-to-integrate multi-tenant authentication package for Laravel featuring pass... |
-| [qbe-digital/payments](https://github.com/qbe-digital/payments) | 1 | A Laravel payments package providing a clean and extensible architecture for int... |
-| [kobe-developer/saprfc-manager](https://github.com/kobe-developer/saprfc-manager) | 0 | Laravel package for SAP NW RFC integration with Circuit Breaker and Octane suppo... |
-| [rcor8app/wellcms](https://github.com/rcor8app/wellcms) | 0 | WellCMS core package - a customizable admin panel for Laravel applications. |
-| [mrezdev/laravel-talkto](https://github.com/mrezdev/laravel-talkto) | 0 | Secure Laravel service-to-service command transport with signed envelopes, outbo... |
-| [danielpetrica/laravel-activitypub](https://github.com/danielpetrica/laravel-activitypub) | 1 | A self-hosted ActivityPub server implementation for Laravel 13, enabling federat... |
-| [DeM1-off/laravel-modular](https://github.com/DeM1-off/laravel-modular) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -37,7 +37,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 500 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 488 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 482 | A full-featured Laravel package for aiding in Shopify App development |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 483 | A full-featured Laravel package for aiding in Shopify App development |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [MarcelWeidum/filament-expiration-notice](https://github.com/MarcelWeidum/filament-expiration-notice) | 94 | 2026-06-22 | Customize the 'Page expired' livewire message into a filamen... |
-| [jeffersongoncalves/filament-metrics-fathom](https://github.com/jeffersongoncalves/filament-metrics-fathom) | 1 | 2026-06-22 | Filament plugin for Fathom Analytics metrics - dashboard wid... |
-| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 19 | 2026-06-22 | Event-driven state machines for Laravel with event sourcing,... |
-| [yahongie2014/MaarfTask](https://github.com/yahongie2014/MaarfTask) | 0 | 2026-06-22 |  |
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-06-22 | PHP and Laravel Cursor rules — coding standards, testing, an... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-06-22 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-06-22 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-06-22 | Collect everything about sent mails in your Filament app. |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 248 | 2026-06-22 | Collect everything about sent mails in your Laravel app |
+| [open-southeners/laravel-console-file-menu](https://github.com/open-southeners/laravel-console-file-menu) | 6 | 2026-06-22 | Like NunoMaduro's console file menu package but for files. |
+| [hyperlinkgroup/laravel-json-structure](https://github.com/hyperlinkgroup/laravel-json-structure) | 2 | 2026-06-22 | A helper package for the assert json structure test method. ... |
+| [GrapheneICT/laravel-cognito-guard](https://github.com/GrapheneICT/laravel-cognito-guard) | 3 | 2026-06-22 | Lean Laravel auth guard that validates AWS Cognito User Pool... |
+| [snoeren-development/laravel-discord-webhook-channel](https://github.com/snoeren-development/laravel-discord-webhook-channel) | 15 | 2026-06-22 | Send notifications to a Discord webhook. |
+| [webbycrown/laraknow-ai](https://github.com/webbycrown/laraknow-ai) | 0 | 2026-06-22 | LaraKnow AI adds a configurable assistant to any Laravel app... |
+| [snoeren-development/laravel-admin-users](https://github.com/snoeren-development/laravel-admin-users) | 2 | 2026-06-22 | Define and check for admin users in your application! |
+| [ziming/laravel-email-sniper-link](https://github.com/ziming/laravel-email-sniper-link) | 15 | 2026-06-22 | Laravel package to generate email sniper link. Making it eas... |
+| [Kovah/laravel-html-meta](https://github.com/Kovah/laravel-html-meta) | 8 | 2026-06-22 | A simple helper to retrieve the HTML meta tags of a website. |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 360 | 2026-06-22 | The official Laravel Nightwatch package. |
+| [farbcodegmbh/laravel-stateful-resources](https://github.com/farbcodegmbh/laravel-stateful-resources) | 5 | 2026-06-22 | A Laravel package for managing state in API resources. |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-22 | Main Webampp laravel package for GEOBOX 2.0 |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-22 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-22 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [jeffersongoncalves/laravel-locale-cookie](https://github.com/jeffersongoncalves/laravel-locale-cookie) | 1 | 2026-06-22 | Resolve the application locale from a cookie, validated agai... |
-| [yannelli/attempt](https://github.com/yannelli/attempt) | 48 | 2026-06-22 | Attempt is a Laravel package provides a fluent, composable r... |
-| [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor) | 410 | 2026-06-22 | A Rich Text Editor plugin for Filament Forms. |
+| [ajangsupardi/laravel-postcode-id](https://github.com/ajangsupardi/laravel-postcode-id) | 1 | 2026-06-22 | Laravel package for downloading and seeding Indonesian addre... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-22 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-22 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-22 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-22 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [wotzebra/filament-translatable-strings](https://github.com/wotzebra/filament-translatable-strings) | 1 | 2026-06-22 | This package manages translatable strings for Laravel in Fil... |
-| [omaralalwi/laravel-trash-cleaner](https://github.com/omaralalwi/laravel-trash-cleaner) | 21 | 2026-06-22 | clean logs and debug files for debugging packages (clockwork... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-22 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [VictorStochero/Warden-panel](https://github.com/VictorStochero/Warden-panel) | 0 | 2026-06-22 | Self-hosted dedicated parent dashboard for the Warden Larave... |
-| [jeffersongoncalves/laravel-topic-normalizer](https://github.com/jeffersongoncalves/laravel-topic-normalizer) | 1 | 2026-06-22 | Merge GitHub topics + composer/npm/Packagist keywords into o... |
-| [nightworksio/beatrax](https://github.com/nightworksio/beatrax) | 6 | 2026-06-22 | Local-first personal finance dashboard that resolves cross-a... |
-| [jeffersongoncalves/laravel-favicon-proxy](https://github.com/jeffersongoncalves/laravel-favicon-proxy) | 1 | 2026-06-22 | Same-origin favicon proxy with server-side caching (Google S... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-22T08:03 | 7 | 1726 | 4779 |
 | 2026-06-22T00:49 | 12 | 1721 | 4772 |
 | 2026-06-21T18:32 | 3 | 1724 | 4760 |
 | 2026-06-21T12:41 | 2 | 1728 | 4757 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-20T12:37 | 3 | 1727 | 4734 |
 | 2026-06-20T07:21 | 5 | 1725 | 4731 |
 | 2026-06-20T00:45 | 3 | 1727 | 4726 |
-| 2026-06-19T18:38 | 8 | 1723 | 4723 |
 
 ---
 

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4815  
-**Last updated:** 2026-06-24T00:40:11.439Z
+**Total packages tracked:** 4819  
+**Last updated:** 2026-06-24T07:13:19.821Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [schaefersoft/laravel-llms-txt](https://github.com/schaefersoft/laravel-llms-txt) | 1 | Automatically generate llms.txt and llms-full.txt files for Laravel applications... |
+| [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | Read-only Filament panel plugin for Chronicle |
+| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 0 | Zero-config interactive API docs for Laravel — auto-inferred from your routes, F... |
+| [n2ns/laravel-post2site](https://github.com/n2ns/laravel-post2site) | 2 | Laravel backend package for the N2N Post2Site content publishing API contract. |
+| [lalalili/commerce-payment](https://github.com/lalalili/commerce-payment) | 0 | Unified, configurable Taiwan payment package (ECPay credit/UnionPay, E.SUN) with... |
 | [jeffersongoncalves/filament-analytics-core](https://github.com/jeffersongoncalves/filament-analytics-core) | 1 | Shared base classes for jeffersongoncalves Filament analytics-injector plugins (... |
 | [jeffersongoncalves/filament-plugin-core](https://github.com/jeffersongoncalves/filament-plugin-core) | 1 | Shared base classes and helpers for jeffersongoncalves Filament plugins (Plugin ... |
 | [blockshiftnetwork/chat-markdown-converter](https://github.com/blockshiftnetwork/chat-markdown-converter) | 7 | Convert AI-generated Markdown to WhatsApp, Telegram, Discord, Slack and Instagra... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [andes2912/indobank](https://github.com/andes2912/indobank) | 21 | Package Laravel Daftar Bank di Indonesia |
 | [padosoft/laravel-invitations-admin](https://github.com/padosoft/laravel-invitations-admin) | 0 | Professional admin panel for laravel-invitations package. |
 | [nelc/laravel-lrs-package](https://github.com/nelc/laravel-lrs-package) | 3 |  |
-| [yousefkadah/laravel-pelecard-package](https://github.com/yousefkadah/laravel-pelecard-package) | 1 | A comprehensive Laravel package for integrating with the Pelecard payment gatewa... |
-| [AhmedEzz20/laravel-query-filters](https://github.com/AhmedEzz20/laravel-query-filters) | 0 | Laravel query filtering package |
-| [Strides-hovo/Laravel-api-module](https://github.com/Strides-hovo/Laravel-api-module) | 0 |  |
-| [gausoft/laravel-modules-poc](https://github.com/gausoft/laravel-modules-poc) | 0 | Trying modular monolith approach with laravel 11 using laravel-modules package |
-| [vidareversa/qrdenadas](https://github.com/vidareversa/qrdenadas) | 0 | Juego sin fines comerciales de coordenadas y creatividad. Solo fines educativos |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-06-24 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-06-24 | An event sourcing laravel package, complete with all the ess... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-24 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-24 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 173 | 2026-06-24 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-24 | A practical work management information system built with La... |
-| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-06-24 | Open core Laravel package for building a self-hosted Trustbi... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-24 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-24 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-06-24 | Laravel Dusk Testing Helper for Package Development |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-24 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-24 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 6 | 2026-06-24 | Filament plugin for Help Desk ticket management — User, Oper... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-24 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 4 | 2026-06-24 | Filament plugin to integrate Plausible Analytics with a sett... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-06-23 | Automated code analysis for Laravel applications with 73 com... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-23 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [jeffersongoncalves/filament-action-export](https://github.com/jeffersongoncalves/filament-action-export) | 5 | 2026-06-23 | Export Filament tables to CSV, XLSX and PDF with preview and... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-06-23 | A lightweight, convention-driven modular architecture packag... |
-| [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 3 | 2026-06-23 | Filament v5 plugin exposing Livewire Flux Pro components — D... |
+| [internetguru/laravel-translatable](https://github.com/internetguru/laravel-translatable) | 0 | 2026-06-24 | A Laravel package for translating Eloquent model attributes. |
+| [lalalili/commerce-payment](https://github.com/lalalili/commerce-payment) | 0 | 2026-06-24 | Unified, configurable Taiwan payment package (ECPay credit/U... |
+| [RumenDamyanov/php-assets](https://github.com/RumenDamyanov/php-assets) | 104 | 2026-06-24 | Framework-agnostic PHP package to manage frontend assets in ... |
+| [RumenDamyanov/php-calendar](https://github.com/RumenDamyanov/php-calendar) | 4 | 2026-06-24 | Framework-agnostic PHP package for generating events and cal... |
+| [RumenDamyanov/php-vcard](https://github.com/RumenDamyanov/php-vcard) | 3 | 2026-06-24 | Framework-agnostic PHP package to generate vCard files with ... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-06-24 | The Moox Project - Packages for Filament and Laravel |
+| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-06-24 | save audit/activity logs into elasticsearch |
+| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 0 | 2026-06-24 | Zero-config interactive API docs for Laravel — auto-inferred... |
+| [aporat/laravel-api-middleware](https://github.com/aporat/laravel-api-middleware) | 0 | 2026-06-24 | A Laravel package for API middleware including trust proxies... |
+| [n2ns/laravel-post2site](https://github.com/n2ns/laravel-post2site) | 2 | 2026-06-24 | Laravel backend package for the N2N Post2Site content publis... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-06-24 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [stats4sd/filament-team-management](https://github.com/stats4sd/filament-team-management) | 7 | 2026-06-24 | Package for an opinionated 'teams' setup, including invites ... |
+| [AhmadIkbalDjaya/simkar](https://github.com/AhmadIkbalDjaya/simkar) | 0 | 2026-06-24 | A Laravel-based Room Transfer Information System for managin... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 1 | 2026-06-24 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [elyerrlabs/laravel-runtime](https://github.com/elyerrlabs/laravel-runtime) | 0 | 2026-06-24 | Laravel Runtime is a lightweight runtime control layer built... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-24 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-24 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-24 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [arnautdev/filament-deploy-indicator](https://github.com/arnautdev/filament-deploy-indicator) | 1 | 2026-06-24 | Show application ENV and latest deployment info inside your ... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-24 | Prevent risky Laravel database migrations with static analys... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-24T07:13 | 5 | 1726 | 4819 |
 | 2026-06-24T00:40 | 7 | 1723 | 4815 |
 | 2026-06-23T18:43 | 5 | 1729 | 4810 |
 | 2026-06-23T12:58 | 5 | 1726 | 4805 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-22T13:54 | 14 | 1723 | 4793 |
 | 2026-06-22T08:03 | 7 | 1726 | 4779 |
 | 2026-06-22T00:49 | 12 | 1721 | 4772 |
-| 2026-06-21T18:32 | 3 | 1724 | 4760 |
 
 ---
 

@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4825  
-**Last updated:** 2026-06-24T12:46:21.732Z
+**Total packages tracked:** 4834  
+**Last updated:** 2026-06-24T18:37:11.517Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-ban](https://github.com/jeffersongoncalves/filament-ban) | 1 | Ban and unban any Eloquent model directly from Filament tables: actions, bulk ac... |
+| [ashrafic/filament-automation-bridge](https://github.com/ashrafic/filament-automation-bridge) | 0 | Turn any Eloquent model event into an automation trigger for Zapier, Make, or n8... |
+| [rakshitbharat/laravel-bucket](https://github.com/rakshitbharat/laravel-bucket) | 0 | LaraBucket is a self-hosted, lightweight object storage solution designed to dec... |
+| [coverzen/sns-fanout-notification](https://github.com/coverzen/sns-fanout-notification) | 0 | Laravel notification system for AWS SNS as fanout |
+| [xchimx/laravel-unsplash](https://github.com/xchimx/laravel-unsplash) | 24 | Laravel package for easy integration with the Unsplash API. It allows you to use... |
+| [Charlesuwaje/laravel-response-macros](https://github.com/Charlesuwaje/laravel-response-macros) | 1 | This is a package for responces  |
+| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | A Laravel package for making payments through the EuPago API. |
+| [awaisjameel/texto](https://github.com/awaisjameel/texto) | 0 | A Laravel package to handle messaging (SMS, MMS) using services Twilio or Telnyx |
+| [DENMOUNS/statisty](https://github.com/DENMOUNS/statisty) | 0 | package de statistique pour laravel |
+| [dp-0/filament-sanchaya](https://github.com/dp-0/filament-sanchaya) | 0 | In Nepali, Sanchaya (सञ्चय) represents the act of gathering or amassing somethin... |
+| [mojtba-allam/iwindoor](https://github.com/mojtba-allam/iwindoor) | 0 | Laravel package for door & window design, calculation, and cost estimation |
 | [jeffersongoncalves/filament-webhooks](https://github.com/jeffersongoncalves/filament-webhooks) | 1 | Filament plugin to manage outgoing webhooks (jeffersongoncalves/laravel-webhooks... |
 | [omartins-zs/sistema-reserva-recursos](https://github.com/omartins-zs/sistema-reserva-recursos) | 0 | 📅 Sistema de Reserva de Recursos Corporativos (Salas, Notebooks, Carros) com Va... |
 | [jeffersongoncalves/laravel-webhooks](https://github.com/jeffersongoncalves/laravel-webhooks) | 1 | Outgoing webhooks for Laravel fired by Eloquent model events — dispatch via spat... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [schaefersoft/laravel-swiss-eid](https://github.com/schaefersoft/laravel-swiss-eid) | 1 | Laravel package for Swiss eID / swiyu verification with OpenID4VP, QR codes, web... |
 | [schaefersoft/laravel-llms-txt](https://github.com/schaefersoft/laravel-llms-txt) | 2 | Automatically generate llms.txt and llms-full.txt files for Laravel applications... |
 | [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | Read-only Filament panel plugin for Chronicle |
-| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 0 | Zero-config interactive API docs for Laravel — auto-inferred from your routes, F... |
-| [n2ns/laravel-post2site](https://github.com/n2ns/laravel-post2site) | 2 | Laravel backend package for the N2N Post2Site content publishing API contract. |
-| [lalalili/commerce-payment](https://github.com/lalalili/commerce-payment) | 0 | Unified, configurable Taiwan payment package (ECPay credit/UnionPay, E.SUN) with... |
-| [jeffersongoncalves/filament-analytics-core](https://github.com/jeffersongoncalves/filament-analytics-core) | 1 | Shared base classes for jeffersongoncalves Filament analytics-injector plugins (... |
-| [jeffersongoncalves/filament-plugin-core](https://github.com/jeffersongoncalves/filament-plugin-core) | 1 | Shared base classes and helpers for jeffersongoncalves Filament plugins (Plugin ... |
-| [blockshiftnetwork/chat-markdown-converter](https://github.com/blockshiftnetwork/chat-markdown-converter) | 7 | Convert AI-generated Markdown to WhatsApp, Telegram, Discord, Slack and Instagra... |
-| [byjesper/laravel-package-template](https://github.com/byjesper/laravel-package-template) | 0 | Starter template for byjesper Laravel packages |
-| [anakadote/ImageManager](https://github.com/anakadote/ImageManager) | 6 | Image resizing and cropping package for Laravel. |
-| [byjesper/laravel-coding-guidelines](https://github.com/byjesper/laravel-coding-guidelines) | 0 | Shared AI coding guidelines + generator for byjesper Laravel packages and apps |
-| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | Open core Laravel package for building a self-hosted Trustbird ISMS. |
-| [padosoft/laravel-invitations](https://github.com/padosoft/laravel-invitations) | 1 | The enterprise invite‑by‑code, referral, rewards, waitlist & anti‑abuse suite fo... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-24 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-24 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-24 | Laravel package for mk-director monorepo — admin module scaf... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-06-24 | The Moox Project - Packages for Filament and Laravel |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-24 | Main Webampp laravel package for GEOBOX 2.0 |
-| [kpebedko22/filament-yandex-map](https://github.com/kpebedko22/filament-yandex-map) | 5 | 2026-06-24 | Yandex Map package for Filament PHP |
-| [omartins-zs/sistema-reserva-recursos](https://github.com/omartins-zs/sistema-reserva-recursos) | 0 | 2026-06-24 | 📅 Sistema de Reserva de Recursos Corporativos (Salas, Noteb... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-06-24 | Laravel package to handle requests are ensured sent |
-| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-06-24 | Laravel package that logs third-party HTTP traffic (outgoing... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-06-24 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
-| [jeffersongoncalves/filament-webhooks](https://github.com/jeffersongoncalves/filament-webhooks) | 1 | 2026-06-24 | Filament plugin to manage outgoing webhooks (jeffersongoncal... |
-| [jeffersongoncalves/laravel-teams](https://github.com/jeffersongoncalves/laravel-teams) | 1 | 2026-06-24 | A Laravel package that adds Teams, memberships, and team inv... |
-| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 0 | 2026-06-24 | Zero-config interactive API docs for Laravel — auto-inferred... |
-| [hosseinhezami/laravel-permission-manager](https://github.com/hosseinhezami/laravel-permission-manager) | 38 | 2026-06-24 | A comprehensive and advanced permission management system fo... |
-| [aghfatehi/laravel-tamara](https://github.com/aghfatehi/laravel-tamara) | 0 | 2026-06-24 | Tamara Payment Gateway Integration for Laravel - Buy Now Pay... |
-| [rivalex/lingua](https://github.com/rivalex/lingua) | 2 | 2026-06-24 | The complete database-driven translation management system f... |
+| [ElegantEngineeringTech/laravel-forex](https://github.com/ElegantEngineeringTech/laravel-forex) | 4 | 2026-06-24 | Forex, exchange rates and currency conversion for your Larav... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-24 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-24 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | 2026-06-24 | Read-only Filament panel plugin for Chronicle |
+| [andydefer/laravel-search](https://github.com/andydefer/laravel-search) | 0 | 2026-06-24 | Fuzzy search package for Laravel |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-06-24 | Ptah — Laravel package that forges complete module structure... |
+| [elyerrlabs/laravel-runtime](https://github.com/elyerrlabs/laravel-runtime) | 0 | 2026-06-24 | Laravel Runtime is a lightweight runtime control layer built... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-24 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-24 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
 | [franbarbalopez/mirror](https://github.com/franbarbalopez/mirror) | 161 | 2026-06-24 | Mirror is an elegant user impersonation package for Laravel.... |
-| [christmex/filament-toggle-table-group-action](https://github.com/christmex/filament-toggle-table-group-action) | 4 | 2026-06-24 | Easily toggle row grouping in your Filament tables |
-| [jeffersongoncalves/laravel-webhooks](https://github.com/jeffersongoncalves/laravel-webhooks) | 1 | 2026-06-24 | Outgoing webhooks for Laravel fired by Eloquent model events... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-24 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-24 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-24 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | 2026-06-24 | A Laravel package for making payments through the EuPago API... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-24 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [xchimx/laravel-unsplash](https://github.com/xchimx/laravel-unsplash) | 24 | 2026-06-24 | Laravel package for easy integration with the Unsplash API. ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-24 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Charlesuwaje/laravel-response-macros](https://github.com/Charlesuwaje/laravel-response-macros) | 1 | 2026-06-24 | This is a package for responces  |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-06-24 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [fnx-software/filament-astrotomic](https://github.com/fnx-software/filament-astrotomic) | 3 | 2026-06-24 | Manage multilingual content in Filament v4 & v5+ with astrot... |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-06-24 | Magic Framework Laravel backend starter package. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-24T18:37 | 11 | 1717 | 4834 |
 | 2026-06-24T12:46 | 7 | 1721 | 4825 |
 | 2026-06-24T07:13 | 5 | 1726 | 4819 |
 | 2026-06-24T00:40 | 7 | 1723 | 4815 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-23T00:44 | 3 | 1733 | 4798 |
 | 2026-06-22T19:06 | 2 | 1735 | 4795 |
 | 2026-06-22T13:54 | 14 | 1723 | 4793 |
-| 2026-06-22T08:03 | 7 | 1726 | 4779 |
 
 ---
 

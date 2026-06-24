@@ -247,16 +247,16 @@
     "created_at": "2024-04-08T06:03:12Z",
     "updated_at": "2025-11-28T09:24:34Z",
     "pushed_at": "2025-04-16T04:51:28Z",
-    "discovered_at": "2026-02-19T00:44:48.867Z",
-    "archived_at": "2026-04-27T18:29:29.898Z",
-    "archive_reason": "Stale: not seen in search results and last pushed 376 days ago"
+    "discovered_at": "2026-04-28T00:36:13.019Z",
+    "archived_at": "2026-06-24T18:37:11.493Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 434 days ago"
   },
   "tomatophp/filament-subscriptions": {
     "name": "tomatophp/filament-subscriptions",
     "url": "https://github.com/tomatophp/filament-subscriptions",
     "description": "Manage your subscriptions Like Spark for FilamentPHP ",
-    "stars": 63,
-    "forks": 15,
+    "stars": 64,
+    "forks": 14,
     "topics": [
       "filament-plugin",
       "payments",
@@ -266,11 +266,11 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-08-21T15:09:31Z",
-    "updated_at": "2026-04-14T03:49:50Z",
+    "updated_at": "2026-06-11T19:51:50Z",
     "pushed_at": "2025-04-16T04:46:56Z",
-    "discovered_at": "2026-02-19T00:44:48.867Z",
-    "archived_at": "2026-04-27T18:29:29.898Z",
-    "archive_reason": "Stale: not seen in search results and last pushed 376 days ago"
+    "discovered_at": "2026-04-28T00:36:13.019Z",
+    "archived_at": "2026-06-24T18:37:11.493Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 434 days ago"
   },
   "tomatophp/filament-twilio": {
     "name": "tomatophp/filament-twilio",

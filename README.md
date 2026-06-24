@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4810  
-**Last updated:** 2026-06-23T18:43:20.887Z
+**Total packages tracked:** 4815  
+**Last updated:** 2026-06-24T00:40:11.439Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-analytics-core](https://github.com/jeffersongoncalves/filament-analytics-core) | 1 | Shared base classes for jeffersongoncalves Filament analytics-injector plugins (... |
+| [jeffersongoncalves/filament-plugin-core](https://github.com/jeffersongoncalves/filament-plugin-core) | 1 | Shared base classes and helpers for jeffersongoncalves Filament plugins (Plugin ... |
+| [blockshiftnetwork/chat-markdown-converter](https://github.com/blockshiftnetwork/chat-markdown-converter) | 7 | Convert AI-generated Markdown to WhatsApp, Telegram, Discord, Slack and Instagra... |
+| [byjesper/laravel-package-template](https://github.com/byjesper/laravel-package-template) | 0 | Starter template for byjesper Laravel packages |
+| [anakadote/ImageManager](https://github.com/anakadote/ImageManager) | 6 | Image resizing and cropping package for Laravel. |
+| [byjesper/laravel-coding-guidelines](https://github.com/byjesper/laravel-coding-guidelines) | 0 | Shared AI coding guidelines + generator for byjesper Laravel packages and apps |
+| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | Open core Laravel package for building a self-hosted Trustbird ISMS. |
 | [padosoft/laravel-invitations](https://github.com/padosoft/laravel-invitations) | 1 | The enterprise invite‑by‑code, referral, rewards, waitlist & anti‑abuse suite fo... |
 | [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | save audit/activity logs into elasticsearch |
 | [juniyasyos/nexaid-client](https://github.com/juniyasyos/nexaid-client) | 0 | Laravel package for IAM Single Sign-On (SSO), JWT verification, and JIT user pro... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Strides-hovo/Laravel-api-module](https://github.com/Strides-hovo/Laravel-api-module) | 0 |  |
 | [gausoft/laravel-modules-poc](https://github.com/gausoft/laravel-modules-poc) | 0 | Trying modular monolith approach with laravel 11 using laravel-modules package |
 | [vidareversa/qrdenadas](https://github.com/vidareversa/qrdenadas) | 0 | Juego sin fines comerciales de coordenadas y creatividad. Solo fines educativos |
-| [algoyounes/laravel-idempotency](https://github.com/algoyounes/laravel-idempotency) | 25 | 🛡️ Laravel Idempotency Middleware package to prevent duplicate requests |
-| [algoyounes/laravel-package-skeleton](https://github.com/algoyounes/laravel-package-skeleton) | 28 | 🧱 Laravel Package Skeleton for streamlined package development |
-| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 2 | Passwordless email magic-link & OTP authentication for Laravel — standalone or w... |
-| [cbaconnier/laravel-http-pool-callback](https://github.com/cbaconnier/laravel-http-pool-callback) | 2 | A Laravel package that enhances the HTTP pool functionality by allowing users to... |
-| [sonole/laratermio](https://github.com/sonole/laratermio) | 0 | Laravel & Livewire portfolio with a browser terminal UI, Filament admin panel, a... |
-| [podio-labs/podio-laravel](https://github.com/podio-labs/podio-laravel) | 3 | Laravel integration for the Podio API. A Podio facade with config-driven auth an... |
-| [a2zwebltd/laravel-feature-voting](https://github.com/a2zwebltd/laravel-feature-voting) | 0 | A portable Laravel engine for feature requests, voting, and status updates — wit... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [franbarbalopez/mirror](https://github.com/franbarbalopez/mirror) | 161 | 2026-06-23 | Mirror is an elegant user impersonation package for Laravel.... |
-| [bagussatoto/Aplikasi-Data-Penjualan-Laravel-8](https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8) | 73 | 2026-06-23 | Membuat Aplikasi Berbasis Web Data Penjualan Menggunakan Lar... |
-| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-23 | Laravel package for mk-director monorepo — admin module scaf... |
-| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-06-23 | A foundational package providing base classes and utilities ... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 160 | 2026-06-23 | Collect everything about sent mails in your Filament app. |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 248 | 2026-06-23 | Collect everything about sent mails in your Laravel app |
-| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-06-23 | LaraWebhook is an open-source Laravel package for securely a... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 35 | 2026-06-23 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-06-23 | Ptah — Laravel package that forges complete module structure... |
-| [wekser/laragram](https://github.com/wekser/laragram) | 7 | 2026-06-23 | A Laravel package for building Telegram bots in MVC style. |
-| [padosoft/laravel-invitations](https://github.com/padosoft/laravel-invitations) | 1 | 2026-06-23 | The enterprise invite‑by‑code, referral, rewards, waitlist &... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-23 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-06-23 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [it-healer/laravel-evm](https://github.com/it-healer/laravel-evm) | 1 | 2026-06-23 | A Laravel package for working with any EVM network (Ethereum... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-23 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-23 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [creopse/laravel-package](https://github.com/creopse/laravel-package) | 0 | 2026-06-23 | Creopse laravel package. |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-23 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-23 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-23 | Manage and track inventory with a PHP package that integrate... |
+| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-06-24 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-06-24 | An event sourcing laravel package, complete with all the ess... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-24 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-24 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 173 | 2026-06-24 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-06-24 | A practical work management information system built with La... |
+| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-06-24 | Open core Laravel package for building a self-hosted Trustbi... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-24 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-24 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-06-24 | Laravel Dusk Testing Helper for Package Development |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-24 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-24 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 6 | 2026-06-24 | Filament plugin for Help Desk ticket management — User, Oper... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-24 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 4 | 2026-06-24 | Filament plugin to integrate Plausible Analytics with a sett... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-06-23 | Automated code analysis for Laravel applications with 73 com... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-23 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [jeffersongoncalves/filament-action-export](https://github.com/jeffersongoncalves/filament-action-export) | 5 | 2026-06-23 | Export Filament tables to CSV, XLSX and PDF with preview and... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-06-23 | A lightweight, convention-driven modular architecture packag... |
+| [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 3 | 2026-06-23 | Filament v5 plugin exposing Livewire Flux Pro components — D... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-24T00:40 | 7 | 1723 | 4815 |
 | 2026-06-23T18:43 | 5 | 1729 | 4810 |
 | 2026-06-23T12:58 | 5 | 1726 | 4805 |
 | 2026-06-23T07:16 | 2 | 1733 | 4800 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-22T08:03 | 7 | 1726 | 4779 |
 | 2026-06-22T00:49 | 12 | 1721 | 4772 |
 | 2026-06-21T18:32 | 3 | 1724 | 4760 |
-| 2026-06-21T12:41 | 2 | 1728 | 4757 |
 
 ---
 

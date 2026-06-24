@@ -2,14 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4819  
-**Last updated:** 2026-06-24T07:13:19.821Z
+**Total packages tracked:** 4825  
+**Last updated:** 2026-06-24T12:46:21.732Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [schaefersoft/laravel-llms-txt](https://github.com/schaefersoft/laravel-llms-txt) | 1 | Automatically generate llms.txt and llms-full.txt files for Laravel applications... |
+| [jeffersongoncalves/filament-webhooks](https://github.com/jeffersongoncalves/filament-webhooks) | 1 | Filament plugin to manage outgoing webhooks (jeffersongoncalves/laravel-webhooks... |
+| [omartins-zs/sistema-reserva-recursos](https://github.com/omartins-zs/sistema-reserva-recursos) | 0 | 📅 Sistema de Reserva de Recursos Corporativos (Salas, Notebooks, Carros) com Va... |
+| [jeffersongoncalves/laravel-webhooks](https://github.com/jeffersongoncalves/laravel-webhooks) | 1 | Outgoing webhooks for Laravel fired by Eloquent model events — dispatch via spat... |
+| [kpebedko22/filament-yandex-map](https://github.com/kpebedko22/filament-yandex-map) | 5 | Yandex Map package for Filament PHP |
+| [jeffersongoncalves/laravel-teams](https://github.com/jeffersongoncalves/laravel-teams) | 1 | A Laravel package that adds Teams, memberships, and team invitations with multi-... |
+| [hosseinhezami/laravel-permission-manager](https://github.com/hosseinhezami/laravel-permission-manager) | 38 | A comprehensive and advanced permission management system for Laravel applicatio... |
+| [schaefersoft/laravel-swiss-eid](https://github.com/schaefersoft/laravel-swiss-eid) | 1 | Laravel package for Swiss eID / swiyu verification with OpenID4VP, QR codes, web... |
+| [schaefersoft/laravel-llms-txt](https://github.com/schaefersoft/laravel-llms-txt) | 2 | Automatically generate llms.txt and llms-full.txt files for Laravel applications... |
 | [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | Read-only Filament panel plugin for Chronicle |
 | [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 0 | Zero-config interactive API docs for Laravel — auto-inferred from your routes, F... |
 | [n2ns/laravel-post2site](https://github.com/n2ns/laravel-post2site) | 2 | Laravel backend package for the N2N Post2Site content publishing API contract. |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [byjesper/laravel-coding-guidelines](https://github.com/byjesper/laravel-coding-guidelines) | 0 | Shared AI coding guidelines + generator for byjesper Laravel packages and apps |
 | [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | Open core Laravel package for building a self-hosted Trustbird ISMS. |
 | [padosoft/laravel-invitations](https://github.com/padosoft/laravel-invitations) | 1 | The enterprise invite‑by‑code, referral, rewards, waitlist & anti‑abuse suite fo... |
-| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | save audit/activity logs into elasticsearch |
-| [juniyasyos/nexaid-client](https://github.com/juniyasyos/nexaid-client) | 0 | Laravel package for IAM Single Sign-On (SSO), JWT verification, and JIT user pro... |
-| [quillbytes/payroll-engine](https://github.com/quillbytes/payroll-engine) | 4 | A Laravel-friendly payroll computation package for Philippine-based payroll syst... |
-| [cable8mm/enum-getter](https://github.com/cable8mm/enum-getter) | 0 | This package simplifies working with Enums by providing convenient functionality... |
-| [andes2912/indobank](https://github.com/andes2912/indobank) | 21 | Package Laravel Daftar Bank di Indonesia |
-| [padosoft/laravel-invitations-admin](https://github.com/padosoft/laravel-invitations-admin) | 0 | Professional admin panel for laravel-invitations package. |
-| [nelc/laravel-lrs-package](https://github.com/nelc/laravel-lrs-package) | 3 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [internetguru/laravel-translatable](https://github.com/internetguru/laravel-translatable) | 0 | 2026-06-24 | A Laravel package for translating Eloquent model attributes. |
-| [lalalili/commerce-payment](https://github.com/lalalili/commerce-payment) | 0 | 2026-06-24 | Unified, configurable Taiwan payment package (ECPay credit/U... |
-| [RumenDamyanov/php-assets](https://github.com/RumenDamyanov/php-assets) | 104 | 2026-06-24 | Framework-agnostic PHP package to manage frontend assets in ... |
-| [RumenDamyanov/php-calendar](https://github.com/RumenDamyanov/php-calendar) | 4 | 2026-06-24 | Framework-agnostic PHP package for generating events and cal... |
-| [RumenDamyanov/php-vcard](https://github.com/RumenDamyanov/php-vcard) | 3 | 2026-06-24 | Framework-agnostic PHP package to generate vCard files with ... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-24 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-24 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-24 | Laravel package for mk-director monorepo — admin module scaf... |
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-06-24 | The Moox Project - Packages for Filament and Laravel |
-| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-06-24 | save audit/activity logs into elasticsearch |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-06-24 | Main Webampp laravel package for GEOBOX 2.0 |
+| [kpebedko22/filament-yandex-map](https://github.com/kpebedko22/filament-yandex-map) | 5 | 2026-06-24 | Yandex Map package for Filament PHP |
+| [omartins-zs/sistema-reserva-recursos](https://github.com/omartins-zs/sistema-reserva-recursos) | 0 | 2026-06-24 | 📅 Sistema de Reserva de Recursos Corporativos (Salas, Noteb... |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-06-24 | Laravel package to handle requests are ensured sent |
+| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-06-24 | Laravel package that logs third-party HTTP traffic (outgoing... |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-06-24 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [jeffersongoncalves/filament-webhooks](https://github.com/jeffersongoncalves/filament-webhooks) | 1 | 2026-06-24 | Filament plugin to manage outgoing webhooks (jeffersongoncal... |
+| [jeffersongoncalves/laravel-teams](https://github.com/jeffersongoncalves/laravel-teams) | 1 | 2026-06-24 | A Laravel package that adds Teams, memberships, and team inv... |
 | [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 0 | 2026-06-24 | Zero-config interactive API docs for Laravel — auto-inferred... |
-| [aporat/laravel-api-middleware](https://github.com/aporat/laravel-api-middleware) | 0 | 2026-06-24 | A Laravel package for API middleware including trust proxies... |
-| [n2ns/laravel-post2site](https://github.com/n2ns/laravel-post2site) | 2 | 2026-06-24 | Laravel backend package for the N2N Post2Site content publis... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-06-24 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [stats4sd/filament-team-management](https://github.com/stats4sd/filament-team-management) | 7 | 2026-06-24 | Package for an opinionated 'teams' setup, including invites ... |
-| [AhmadIkbalDjaya/simkar](https://github.com/AhmadIkbalDjaya/simkar) | 0 | 2026-06-24 | A Laravel-based Room Transfer Information System for managin... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 1 | 2026-06-24 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [elyerrlabs/laravel-runtime](https://github.com/elyerrlabs/laravel-runtime) | 0 | 2026-06-24 | Laravel Runtime is a lightweight runtime control layer built... |
+| [hosseinhezami/laravel-permission-manager](https://github.com/hosseinhezami/laravel-permission-manager) | 38 | 2026-06-24 | A comprehensive and advanced permission management system fo... |
+| [aghfatehi/laravel-tamara](https://github.com/aghfatehi/laravel-tamara) | 0 | 2026-06-24 | Tamara Payment Gateway Integration for Laravel - Buy Now Pay... |
+| [rivalex/lingua](https://github.com/rivalex/lingua) | 2 | 2026-06-24 | The complete database-driven translation management system f... |
+| [franbarbalopez/mirror](https://github.com/franbarbalopez/mirror) | 161 | 2026-06-24 | Mirror is an elegant user impersonation package for Laravel.... |
+| [christmex/filament-toggle-table-group-action](https://github.com/christmex/filament-toggle-table-group-action) | 4 | 2026-06-24 | Easily toggle row grouping in your Filament tables |
+| [jeffersongoncalves/laravel-webhooks](https://github.com/jeffersongoncalves/laravel-webhooks) | 1 | 2026-06-24 | Outgoing webhooks for Laravel fired by Eloquent model events... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-24 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-24 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-24 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [arnautdev/filament-deploy-indicator](https://github.com/arnautdev/filament-deploy-indicator) | 1 | 2026-06-24 | Show application ENV and latest deployment info inside your ... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-24 | Prevent risky Laravel database migrations with static analys... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-24T12:46 | 7 | 1721 | 4825 |
 | 2026-06-24T07:13 | 5 | 1726 | 4819 |
 | 2026-06-24T00:40 | 7 | 1723 | 4815 |
 | 2026-06-23T18:43 | 5 | 1729 | 4810 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-22T19:06 | 2 | 1735 | 4795 |
 | 2026-06-22T13:54 | 14 | 1723 | 4793 |
 | 2026-06-22T08:03 | 7 | 1726 | 4779 |
-| 2026-06-22T00:49 | 12 | 1721 | 4772 |
 
 ---
 

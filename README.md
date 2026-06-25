@@ -2,15 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4847  
-**Last updated:** 2026-06-25T12:49:45.715Z
+**Total packages tracked:** 4850  
+**Last updated:** 2026-06-25T18:46:10.450Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 0 | Privacy-first Matomo analytics for Laravel with cookieless tracking, reports, We... |
-| [jeffersongoncalves/filament-queue-management](https://github.com/jeffersongoncalves/filament-queue-management) | 1 | A Filament plugin to manage Laravel's database queue tables (jobs, failed_jobs, ... |
+| [xSirLalo/livewire-laravel-coreui-starter](https://github.com/xSirLalo/livewire-laravel-coreui-starter) | 1 | Laravel 12 Starter Kit with Livewire + Breeze Auth + CoreUI 5.4 |
+| [ziming/laravel-cloudflare-workers-kv](https://github.com/ziming/laravel-cloudflare-workers-kv) | 0 | Laravel Package for Cloudflare Workers KV |
+| [SlowBearDigger/xmr-pay-php](https://github.com/SlowBearDigger/xmr-pay-php) | 1 | Non-custodial Monero payment verification in pure PHP. View-key only, no monero-... |
+| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 2 | Privacy-first Matomo analytics for Laravel with cookieless tracking, reports, We... |
+| [jeffersongoncalves/filament-queue-management](https://github.com/jeffersongoncalves/filament-queue-management) | 2 | A Filament plugin to manage Laravel's database queue tables (jobs, failed_jobs, ... |
 | [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | Laravel package for building complex eloquent filters in a simple, structured wa... |
 | [QuickPayGe/laravel-package](https://github.com/QuickPayGe/laravel-package) | 0 |  |
 | [yamut/laravel-redacted](https://github.com/yamut/laravel-redacted) | 0 | Laravel plugin for integration with configuration management |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ashrafic/filament-automation-bridge](https://github.com/ashrafic/filament-automation-bridge) | 0 | Turn any Eloquent model event into an automation trigger for Zapier, Make, or n8... |
 | [rakshitbharat/laravel-bucket](https://github.com/rakshitbharat/laravel-bucket) | 0 | LaraBucket is a self-hosted, lightweight object storage solution designed to dec... |
 | [coverzen/sns-fanout-notification](https://github.com/coverzen/sns-fanout-notification) | 0 | Laravel notification system for AWS SNS as fanout |
-| [xchimx/laravel-unsplash](https://github.com/xchimx/laravel-unsplash) | 24 | Laravel package for easy integration with the Unsplash API. It allows you to use... |
-| [Charlesuwaje/laravel-response-macros](https://github.com/Charlesuwaje/laravel-response-macros) | 1 | This is a package for responces Production based |
-| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | A Laravel package for making payments through the EuPago API. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-25 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [DENMOUNS/statisty](https://github.com/DENMOUNS/statisty) | 0 | 2026-06-25 | package de statistique pour laravel |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-06-25 | Automated code analysis for Laravel applications with 73 com... |
+| [diekantankys/strepen](https://github.com/diekantankys/strepen) | 5 | 2026-06-25 | The strepen system of Scouting Die Kantanky's |
+| [AIArmada/engagement](https://github.com/AIArmada/engagement) | 0 | 2026-06-25 | Laravel engagement package: follow, bookmark, respond, react... |
+| [One-Learning-Community/grease](https://github.com/One-Learning-Community/grease) | 0 | 2026-06-25 | Opt-in performance for Laravel's hot paths. One trait, byte-... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-25 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Muhammed2024Salama/LaravelBase](https://github.com/Muhammed2024Salama/LaravelBase) | 7 | 2026-06-25 | A lightweight, version-agnostic Laravel package providing a ... |
+| [tomshaw/electricgrid](https://github.com/tomshaw/electricgrid) | 11 | 2026-06-25 | A feature-rich Livewire package designed for projects that r... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-25 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-25 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-25 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-25 | Manage and track inventory with a PHP package that integrate... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 1 | 2026-06-25 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [artryazanov/yt-cover-gen](https://github.com/artryazanov/yt-cover-gen) | 1 | 2026-06-25 | YouTube AI Cover Generator is a framework-agnostic PHP packa... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-06-25 | Magic Framework Laravel backend starter package. |
-| [jeffersongoncalves/filament-ban](https://github.com/jeffersongoncalves/filament-ban) | 1 | 2026-06-25 | Ban and unban any Eloquent model directly from Filament tabl... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-06-25 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-06-25 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [jeffersongoncalves/filament-oidc](https://github.com/jeffersongoncalves/filament-oidc) | 2 | 2026-06-25 | Drop-in OpenID Connect (OIDC) SSO for Filament v5 panels wit... |
-| [awcodes/botly](https://github.com/awcodes/botly) | 4 | 2026-06-25 | Botly is a Filament plugin to manage your site's robots.txt ... |
-| [waadmawlood/media](https://github.com/waadmawlood/media) | 18 | 2026-06-25 | Media managment package to save your files local | S3, witho... |
+| [maliang/lartrix](https://github.com/maliang/lartrix) | 1 | 2026-06-25 | Laravel Admin Package. Build modern admin panels quickly wit... |
+| [xSirLalo/livewire-laravel-coreui-starter](https://github.com/xSirLalo/livewire-laravel-coreui-starter) | 1 | 2026-06-25 | Laravel 12 Starter Kit with Livewire + Breeze Auth + CoreUI ... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-06-25 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [iquesters/integration](https://github.com/iquesters/integration) | 0 | 2026-06-25 | A Laravel package for managing third-party integrations (e.g... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-06-25 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-06-25 | Laravel Package to access AI CAD |
-| [yamut/laravel-redacted](https://github.com/yamut/laravel-redacted) | 0 | 2026-06-25 | Laravel plugin for integration with configuration management |
-| [preprio/opsgenie](https://github.com/preprio/opsgenie) | 2 | 2026-06-25 | Opsgenie is the #1 alerting and incident response tool. Neve... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-06-25 | The Moox Project - Packages for Filament and Laravel |
-| [lara-zeus/dynamic-dashboard](https://github.com/lara-zeus/dynamic-dashboard) | 16 | 2026-06-25 | simple way to manage widgets and layout for your website lan... |
+| [ziming/laravel-cloudflare-workers-kv](https://github.com/ziming/laravel-cloudflare-workers-kv) | 0 | 2026-06-25 | Laravel Package for Cloudflare Workers KV |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-25T18:46 | 3 | 1722 | 4850 |
 | 2026-06-25T12:49 | 2 | 1722 | 4847 |
 | 2026-06-25T07:13 | 2 | 1724 | 4845 |
 | 2026-06-25T00:44 | 9 | 1719 | 4843 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-24T00:40 | 7 | 1723 | 4815 |
 | 2026-06-23T18:43 | 5 | 1729 | 4810 |
 | 2026-06-23T12:58 | 5 | 1726 | 4805 |
-| 2026-06-23T07:16 | 2 | 1733 | 4800 |
 
 ---
 

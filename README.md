@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4853  
-**Last updated:** 2026-06-26T00:46:30.747Z
+**Total packages tracked:** 4857  
+**Last updated:** 2026-06-26T07:19:44.651Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ephpm/cache-laravel](https://github.com/ephpm/cache-laravel) | 0 | Laravel cache store backed by ePHPm's in-process KV via the ephpm_kv_* SAPI func... |
+| [gonza1212/laravel-json-driver](https://github.com/gonza1212/laravel-json-driver) | 0 | JSON database driver for Laravel 13+. Local persistence without an external data... |
+| [wouterdeberg/laravel-elastic-email](https://github.com/wouterdeberg/laravel-elastic-email) | 16 | Laravel Elastic Email is a wrapper for Elastic Email. You can send e-mails in yo... |
+| [jinomdeveloper/helpers](https://github.com/jinomdeveloper/helpers) | 2 | Laravel package for Indonesian financial calculations including PPN tax (11%) an... |
 | [glhd/laravel-package-template](https://github.com/glhd/laravel-package-template) | 6 | Template for Laravel packages |
 | [ChrisHardie/laravel-synced-ip-allowlist](https://github.com/ChrisHardie/laravel-synced-ip-allowlist) | 1 | A Laravel package that provides HTTP middleware to allow access from a centraliz... |
 | [MohammadZarifiyan/Laravel-Locale-Kit](https://github.com/MohammadZarifiyan/Laravel-Locale-Kit) | 0 | A Laravel package that provides structured locale metadata alongside traditional... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [dirkblack/blog-package](https://github.com/dirkblack/blog-package) | 0 | Laravel 12 Blog Package |
 | [almamuncsit/web-course-api](https://github.com/almamuncsit/web-course-api) | 3 | A laravel package for providing api for web-courses-vue  |
 | [virtunus/frdb-notification](https://github.com/virtunus/frdb-notification) | 0 | Laravel package for firebase realtime database notification |
-| [Visanduma/laravel-lite-subscription](https://github.com/Visanduma/laravel-lite-subscription) | 0 | The simple subscription management package with built in pricing plan/ feature u... |
-| [Visanduma/laravel-invoice](https://github.com/Visanduma/laravel-invoice) | 1 | Simple Invoice package with own database |
-| [lahirulhr/exchange-rates-lk](https://github.com/lahirulhr/exchange-rates-lk) | 0 | Simple Laravel package for calculate currency exchange rates in Srilanka |
-| [jeffersongoncalves/filament-ban](https://github.com/jeffersongoncalves/filament-ban) | 1 | Ban and unban any Eloquent model directly from Filament tables: actions, bulk ac... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-26 | Laravel package for mk-director monorepo — admin module scaf... |
+| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | 2026-06-26 | A Laravel package for making payments through the EuPago API... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-06-26 | Laravel package providing AI-powered search with Pagefind. D... |
+| [Uzziahlukeka/maisha-pay](https://github.com/Uzziahlukeka/maisha-pay) | 0 | 2026-06-26 | This is a package allowing easy integration of maishapay.net... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-06-26 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [AbirHasanArko/HelloMed-DB](https://github.com/AbirHasanArko/HelloMed-DB) | 0 | 2026-06-26 | 🏥🗄️ Enterprise-grade Oracle PL/SQL database schema powerin... |
+| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 0 | 2026-06-26 | Zero-config interactive API docs for Laravel — auto-inferred... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 1 | 2026-06-26 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-26 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-26 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-26 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-26 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-26 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-26 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [ziming/laravel-cloudflare-workers-kv](https://github.com/ziming/laravel-cloudflare-workers-kv) | 0 | 2026-06-26 | Laravel Package for Cloudflare Workers KV |
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 3 | 2026-06-26 | Laravel package untuk data wilayah administratif Indonesia (... |
+| [faridhafizh/kabar-kurir](https://github.com/faridhafizh/kabar-kurir) | 0 | 2026-06-26 | KabarKurir - Corporate news aggregator and independent packa... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-06-26 | A package to create datatables using alpinejs, tailwind, liv... |
+| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-06-26 |  |
+| [wouterdeberg/laravel-elastic-email](https://github.com/wouterdeberg/laravel-elastic-email) | 16 | 2026-06-26 | Laravel Elastic Email is a wrapper for Elastic Email. You ca... |
 | [One-Learning-Community/grease](https://github.com/One-Learning-Community/grease) | 0 | 2026-06-26 | Opt-in performance for Laravel's hot paths. One trait, byte-... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-25 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-25 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-25 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-25 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-25 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-25 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-06-25 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-06-25 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-06-25 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-06-25 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 46 | 2026-06-25 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | 2026-06-25 | A Laravel package for making payments through the EuPago API... |
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-06-25 |  |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-06-25 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-06-25 | Automated code analysis for Laravel applications with 73 com... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-25 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-25 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-25 | 💰 Simplify your financial management with Finova, an open-s... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-26T07:19 | 4 | 1719 | 4857 |
 | 2026-06-26T00:46 | 3 | 1721 | 4853 |
 | 2026-06-25T18:46 | 3 | 1722 | 4850 |
 | 2026-06-25T12:49 | 2 | 1722 | 4847 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-24T12:46 | 7 | 1721 | 4825 |
 | 2026-06-24T07:13 | 5 | 1726 | 4819 |
 | 2026-06-24T00:40 | 7 | 1723 | 4815 |
-| 2026-06-23T18:43 | 5 | 1729 | 4810 |
 
 ---
 

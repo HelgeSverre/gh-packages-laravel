@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4850  
-**Last updated:** 2026-06-25T18:46:10.450Z
+**Total packages tracked:** 4853  
+**Last updated:** 2026-06-26T00:46:30.747Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [glhd/laravel-package-template](https://github.com/glhd/laravel-package-template) | 6 | Template for Laravel packages |
+| [ChrisHardie/laravel-synced-ip-allowlist](https://github.com/ChrisHardie/laravel-synced-ip-allowlist) | 1 | A Laravel package that provides HTTP middleware to allow access from a centraliz... |
+| [MohammadZarifiyan/Laravel-Locale-Kit](https://github.com/MohammadZarifiyan/Laravel-Locale-Kit) | 0 | A Laravel package that provides structured locale metadata alongside traditional... |
 | [xSirLalo/livewire-laravel-coreui-starter](https://github.com/xSirLalo/livewire-laravel-coreui-starter) | 1 | Laravel 12 Starter Kit with Livewire + Breeze Auth + CoreUI 5.4 |
 | [ziming/laravel-cloudflare-workers-kv](https://github.com/ziming/laravel-cloudflare-workers-kv) | 0 | Laravel Package for Cloudflare Workers KV |
 | [SlowBearDigger/xmr-pay-php](https://github.com/SlowBearDigger/xmr-pay-php) | 1 | Non-custodial Monero payment verification in pure PHP. View-key only, no monero-... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Visanduma/laravel-invoice](https://github.com/Visanduma/laravel-invoice) | 1 | Simple Invoice package with own database |
 | [lahirulhr/exchange-rates-lk](https://github.com/lahirulhr/exchange-rates-lk) | 0 | Simple Laravel package for calculate currency exchange rates in Srilanka |
 | [jeffersongoncalves/filament-ban](https://github.com/jeffersongoncalves/filament-ban) | 1 | Ban and unban any Eloquent model directly from Filament tables: actions, bulk ac... |
-| [ashrafic/filament-automation-bridge](https://github.com/ashrafic/filament-automation-bridge) | 0 | Turn any Eloquent model event into an automation trigger for Zapier, Make, or n8... |
-| [rakshitbharat/laravel-bucket](https://github.com/rakshitbharat/laravel-bucket) | 0 | LaraBucket is a self-hosted, lightweight object storage solution designed to dec... |
-| [coverzen/sns-fanout-notification](https://github.com/coverzen/sns-fanout-notification) | 0 | Laravel notification system for AWS SNS as fanout |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-26 | Laravel package for mk-director monorepo — admin module scaf... |
+| [One-Learning-Community/grease](https://github.com/One-Learning-Community/grease) | 0 | 2026-06-26 | Opt-in performance for Laravel's hot paths. One trait, byte-... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-25 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [DENMOUNS/statisty](https://github.com/DENMOUNS/statisty) | 0 | 2026-06-25 | package de statistique pour laravel |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-06-25 | Automated code analysis for Laravel applications with 73 com... |
-| [diekantankys/strepen](https://github.com/diekantankys/strepen) | 5 | 2026-06-25 | The strepen system of Scouting Die Kantanky's |
-| [AIArmada/engagement](https://github.com/AIArmada/engagement) | 0 | 2026-06-25 | Laravel engagement package: follow, bookmark, respond, react... |
-| [One-Learning-Community/grease](https://github.com/One-Learning-Community/grease) | 0 | 2026-06-25 | Opt-in performance for Laravel's hot paths. One trait, byte-... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-25 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Muhammed2024Salama/LaravelBase](https://github.com/Muhammed2024Salama/LaravelBase) | 7 | 2026-06-25 | A lightweight, version-agnostic Laravel package providing a ... |
-| [tomshaw/electricgrid](https://github.com/tomshaw/electricgrid) | 11 | 2026-06-25 | A feature-rich Livewire package designed for projects that r... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-25 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-25 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-25 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-25 | Manage and track inventory with a PHP package that integrate... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-06-25 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-06-25 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [maliang/lartrix](https://github.com/maliang/lartrix) | 1 | 2026-06-25 | Laravel Admin Package. Build modern admin panels quickly wit... |
-| [xSirLalo/livewire-laravel-coreui-starter](https://github.com/xSirLalo/livewire-laravel-coreui-starter) | 1 | 2026-06-25 | Laravel 12 Starter Kit with Livewire + Breeze Auth + CoreUI ... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-06-25 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-06-25 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [ziming/laravel-cloudflare-workers-kv](https://github.com/ziming/laravel-cloudflare-workers-kv) | 0 | 2026-06-25 | Laravel Package for Cloudflare Workers KV |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 46 | 2026-06-25 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
+| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | 2026-06-25 | A Laravel package for making payments through the EuPago API... |
+| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 36 | 2026-06-25 |  |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-06-25 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-06-25 | Automated code analysis for Laravel applications with 73 com... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-25 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-25 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-25 | 💰 Simplify your financial management with Finova, an open-s... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-26T00:46 | 3 | 1721 | 4853 |
 | 2026-06-25T18:46 | 3 | 1722 | 4850 |
 | 2026-06-25T12:49 | 2 | 1722 | 4847 |
 | 2026-06-25T07:13 | 2 | 1724 | 4845 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-24T07:13 | 5 | 1726 | 4819 |
 | 2026-06-24T00:40 | 7 | 1723 | 4815 |
 | 2026-06-23T18:43 | 5 | 1729 | 4810 |
-| 2026-06-23T12:58 | 5 | 1726 | 4805 |
 
 ---
 

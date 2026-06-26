@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4859  
-**Last updated:** 2026-06-26T12:45:32.935Z
+**Total packages tracked:** 4864  
+**Last updated:** 2026-06-26T18:38:04.091Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [GuilhermeOtsugua/Kourier](https://github.com/GuilhermeOtsugua/Kourier) | 1 | Secure dataset tooling built with Laravel w/ private storage, signed downloads, ... |
+| [dbflow-labs/dbflow-filament](https://github.com/dbflow-labs/dbflow-filament) | 0 | Standard Filament integration for DBFlow Core — workflow tasks, instances, defin... |
+| [laranail/database-tools](https://github.com/laranail/database-tools) | 0 | Standalone Laravel database utilities: UUID/ULID traits, schema macros, soft-arc... |
+| [ghostcompiler/laravel-uploads](https://github.com/ghostcompiler/laravel-uploads) | 18 | Secure file upload and storage management for Laravel with Eloquent integration,... |
+| [hansajith18/laravel-paycorp](https://github.com/hansajith18/laravel-paycorp) | 0 | Laravel package for integrating the Paycorp (Bancstac) payment gateway with supp... |
+| [thecodezone/filament-mediazone](https://github.com/thecodezone/filament-mediazone) | 0 | A media manager package for Laravel Filament. |
 | [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | A security-first Swiss-army toolkit for Laravel: utilities, traits, middleware, ... |
 | [fastaar/fastaar-laravel](https://github.com/fastaar/fastaar-laravel) | 0 | Laravel package for the Fastaar payment gateway |
 | [ephpm/cache-laravel](https://github.com/ephpm/cache-laravel) | 0 | Laravel cache store backed by ePHPm's in-process KV via the ephpm_kv_* SAPI func... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [SlowBearDigger/xmr-pay-php](https://github.com/SlowBearDigger/xmr-pay-php) | 1 | Non-custodial Monero payment verification in pure PHP. View-key only, no monero-... |
 | [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 2 | Privacy-first Matomo analytics for Laravel with cookieless tracking, reports, We... |
 | [jeffersongoncalves/filament-queue-management](https://github.com/jeffersongoncalves/filament-queue-management) | 2 | A Filament plugin to manage Laravel's database queue tables (jobs, failed_jobs, ... |
-| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | Laravel package for building complex eloquent filters in a simple, structured wa... |
-| [QuickPayGe/laravel-package](https://github.com/QuickPayGe/laravel-package) | 0 |  |
-| [yamut/laravel-redacted](https://github.com/yamut/laravel-redacted) | 0 | Laravel plugin for integration with configuration management |
-| [jeffersongoncalves/laravel-queue-management](https://github.com/jeffersongoncalves/laravel-queue-management) | 1 | Manage Laravel's database queue tables (jobs, failed_jobs, job_batches) through ... |
-| [virtunus/translator](https://github.com/virtunus/translator) | 0 | Detect language using Google Translation API |
-| [dirkblack/blog-package](https://github.com/dirkblack/blog-package) | 0 | Laravel 12 Blog Package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [novius/laravel-filament-news](https://github.com/novius/laravel-filament-news) | 6 | 2026-06-26 | A Laravel Filament package for news and blog posts managemen... |
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-06-26 | Laravel Package to access AI CAD |
+| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | 2026-06-26 | A Laravel package for making payments through the EuPago API... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-06-26 | Laravel-based API for storing sensor data from distributed n... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-06-26 | Laravel package providing polymorphic comments with Reposito... |
+| [hansajith18/laravel-paycorp](https://github.com/hansajith18/laravel-paycorp) | 0 | 2026-06-26 | Laravel package for integrating the Paycorp (Bancstac) payme... |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-06-26 | A personal portfolio built as an interactive browser-based t... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-26 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-26 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [dbflow-labs/dbflow-filament](https://github.com/dbflow-labs/dbflow-filament) | 0 | 2026-06-26 | Standard Filament integration for DBFlow Core — workflow tas... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-06-26 | Laravel package providing polymorphic reactions (like, love,... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-06-26 | Laravel package providing OTP (One-Time Password) management... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-06-26 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-06-26 | Laravel TOTP package for two-factor authentication with poly... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-26 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-26 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [farad-tech/laravel-auto-shield](https://github.com/farad-tech/laravel-auto-shield) | 0 | 2026-06-26 | Laravel Auto IP Blocker - A lightweight Laravel package that... |
+| [thecodezone/filament-mediazone](https://github.com/thecodezone/filament-mediazone) | 0 | 2026-06-26 | A media manager package for Laravel Filament. |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-26 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-26 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-06-26 | Runtime base library for building Laravel packages: fluent P... |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 5 | 2026-06-26 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-06-26 | [READ ONLY] API Platform for Laravel |
-| [RenderbitTechnologies/Indos-Checker-Laravel](https://github.com/RenderbitTechnologies/Indos-Checker-Laravel) | 0 | 2026-06-26 | A Laravel package to check for the validity of INDOS numbers... |
-| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | 2026-06-26 | Laravel package for building complex eloquent filters in a s... |
-| [jooservices/laravel-controller](https://github.com/jooservices/laravel-controller) | 0 | 2026-06-26 | Laravel API controller foundation for standardized JSON resp... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-26 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 249 | 2026-06-26 | Collect everything about sent mails in your Laravel app |
-| [bitdreamit/laravel-mikopbx](https://github.com/bitdreamit/laravel-mikopbx) | 0 | 2026-06-26 | The most complete, professional & premium open-source Larave... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-26 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [novius/laravel-filament-page-manager](https://github.com/novius/laravel-filament-page-manager) | 3 | 2026-06-26 | A Laravel Filament package to manage pages. |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-26 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [jeffersongoncalves/mobilekitv5](https://github.com/jeffersongoncalves/mobilekitv5) | 3 | 2026-06-26 | MobileKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 15 | 2026-06-26 | FilaKit starter kit built on Laravel 13.x and Filament 5.x w... |
 | [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-06-26 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-26 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-26 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-26 | Manage and track inventory with a PHP package that integrate... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-26T18:38 | 6 | 1715 | 4864 |
 | 2026-06-26T12:45 | 2 | 1720 | 4859 |
 | 2026-06-26T07:19 | 4 | 1719 | 4857 |
 | 2026-06-26T00:46 | 3 | 1721 | 4853 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-25T00:44 | 9 | 1719 | 4843 |
 | 2026-06-24T18:37 | 11 | 1717 | 4834 |
 | 2026-06-24T12:46 | 7 | 1721 | 4825 |
-| 2026-06-24T07:13 | 5 | 1726 | 4819 |
 
 ---
 

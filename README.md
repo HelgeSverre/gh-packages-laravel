@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4905  
-**Last updated:** 2026-06-28T12:30:07.202Z
+**Total packages tracked:** 4914  
+**Last updated:** 2026-06-28T18:26:04.214Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | Tailwind + Blade + Livewire 4 install wizard for laranail/installer-headless — d... |
+| [oi-lab/oi-laravel-ts](https://github.com/oi-lab/oi-laravel-ts) | 1 | Generate TypeScript interfaces from Laravel Eloquent models |
+| [oi-lab/oi-laravel-seeds](https://github.com/oi-lab/oi-laravel-seeds) | 1 | Export and import Laravel seeders to/from JSON files with dependency management |
+| [MdTayoburRahman/LARAVEL-AI-CHAT-AGENT](https://github.com/MdTayoburRahman/LARAVEL-AI-CHAT-AGENT) | 0 | A universal, application-agnostic AI agent package for any Laravel application. |
+| [MuhammedMSalama/LaravelBase](https://github.com/MuhammedMSalama/LaravelBase) | 7 | A lightweight, version-agnostic Laravel package providing a clean Repository–Ser... |
+| [nadimtuhin/laravel-package-boilerplate](https://github.com/nadimtuhin/laravel-package-boilerplate) | 3 | Boilerplate for creating Laravel packages |
+| [stobys/laravel-settings](https://github.com/stobys/laravel-settings) | 0 | laravel-settings package |
+| [MCA43/mca-hub](https://github.com/MCA43/mca-hub) | 0 | Laravel MCA package hub — /mca dashboard, installed package cards, framework fil... |
+| [eliel-elie/laravel-connection-guard](https://github.com/eliel-elie/laravel-connection-guard) | 0 | Laravel Connection Guard is a clean, robust, and elegant package designed to pro... |
 | [trianity/laravel-pdf-viewer](https://github.com/trianity/laravel-pdf-viewer) | 0 | Secure PDF.js based PDF viewer for Laravel 13, Livewire 4 and Tailwind CSS 4. |
 | [laravelsecurityaudit/laravel-secret-scanner](https://github.com/laravelsecurityaudit/laravel-secret-scanner) | 0 | Framework-agnostic secret and PII detection engine: rules, scanner, redactor, se... |
 | [jeffersongoncalves/filament-erp](https://github.com/jeffersongoncalves/filament-erp) | 1 | The complete Laravel ERP as a single Filament v5 panel plugin — bundles all 13 E... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/filament-erp-subcontracting](https://github.com/jeffersongoncalves/filament-erp-subcontracting) | 1 | Filament v5 panel resources for the Laravel ERP subcontracting module — subcontr... |
 | [jeffersongoncalves/filament-erp-assets](https://github.com/jeffersongoncalves/filament-erp-assets) | 1 | Filament v5 panel resources for the Laravel ERP assets module — fixed asset regi... |
 | [jeffersongoncalves/filament-erp-manufacturing](https://github.com/jeffersongoncalves/filament-erp-manufacturing) | 1 | Filament v5 panel resources for the Laravel ERP manufacturing module — BOMs, wor... |
-| [jeffersongoncalves/filament-erp-buying](https://github.com/jeffersongoncalves/filament-erp-buying) | 1 | Filament v5 panel resources for the Laravel ERP buying module — suppliers, RFQs,... |
-| [jeffersongoncalves/filament-erp-selling](https://github.com/jeffersongoncalves/filament-erp-selling) | 1 | Filament v5 panel resources for the Laravel ERP selling module — customers, quot... |
-| [jeffersongoncalves/filament-erp-stock](https://github.com/jeffersongoncalves/filament-erp-stock) | 1 | Filament v5 panel resources for the Laravel ERP stock module — items, warehouses... |
-| [jeffersongoncalves/filament-erp-accounting](https://github.com/jeffersongoncalves/filament-erp-accounting) | 1 | Filament v5 panel resources for the Laravel ERP accounting module — chart of acc... |
-| [jeffersongoncalves/filament-erp-core](https://github.com/jeffersongoncalves/filament-erp-core) | 1 | Filament v5 panel resources for the Laravel ERP core — companies, currencies, un... |
-| [jeffersongoncalves/laravel-erp-maintenance](https://github.com/jeffersongoncalves/laravel-erp-maintenance) | 1 | ERP maintenance for Laravel — maintenance schedules and visits |
-| [jeffersongoncalves/laravel-erp-quality](https://github.com/jeffersongoncalves/laravel-erp-quality) | 1 | ERP quality management for Laravel — inspections, goals, procedures and non-conf... |
-| [jeffersongoncalves/laravel-erp-support](https://github.com/jeffersongoncalves/laravel-erp-support) | 1 | ERP support for Laravel — issues, service level agreements and warranty claims |
-| [jeffersongoncalves/laravel-erp-projects](https://github.com/jeffersongoncalves/laravel-erp-projects) | 1 | ERP projects for Laravel — projects, tasks and timesheets billing to sales invoi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laravelsecurityaudit/laravel-secret-scanner](https://github.com/laravelsecurityaudit/laravel-secret-scanner) | 0 | 2026-06-28 | Framework-agnostic secret and PII detection engine: rules, s... |
-| [Vinksyunit/NotTodayHoney](https://github.com/Vinksyunit/NotTodayHoney) | 2 | 2026-06-28 | Turn your Laravel application into an intelligent trap. This... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-28 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-28 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-06-28 | A comprehensive toolkit providing foundational building bloc... |
-| [ilogus/laravel-honeypotplus](https://github.com/ilogus/laravel-honeypotplus) | 8 | 2026-06-28 | A Laravel package that detects malicious IPs attempting to a... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-28 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-28 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-28 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-28 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 18 | 2026-06-28 | AI observability package for Laravel |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-28 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-28 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 248 | 2026-06-28 | Collect everything about sent mails in your Laravel app |
-| [trianity/laravel-pdf-viewer](https://github.com/trianity/laravel-pdf-viewer) | 0 | 2026-06-28 | Secure PDF.js based PDF viewer for Laravel 13, Livewire 4 an... |
-| [lucaspatraodev/laravel-logai](https://github.com/lucaspatraodev/laravel-logai) | 0 | 2026-06-28 | Open-source observability package for Laravel with AI-powere... |
-| [franbarbalopez/mirror](https://github.com/franbarbalopez/mirror) | 162 | 2026-06-28 | Mirror is an elegant user impersonation package for Laravel.... |
-| [istvanmolitor/scraper](https://github.com/istvanmolitor/scraper) | 0 | 2026-06-28 | Scraper package for laravel |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-06-28 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
-| [Maya-AQSS/shared-auth-laravel](https://github.com/Maya-AQSS/shared-auth-laravel) | 0 | 2026-06-28 | Read-only mirror of packages/php/shared-auth-laravel from ma... |
+| [bitdreamit/laravel-mikopbx](https://github.com/bitdreamit/laravel-mikopbx) | 0 | 2026-06-28 | The most complete, professional & premium open-source Larave... |
+| [diekantankys/strepen](https://github.com/diekantankys/strepen) | 5 | 2026-06-28 | The strepen system of Scouting Die Kantanky's |
+| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 3 | 2026-06-28 | A file-based CMS package for Laravel. Renders documentation,... |
+| [jeffersongoncalves/filament-erp-core](https://github.com/jeffersongoncalves/filament-erp-core) | 1 | 2026-06-28 | Filament v5 panel resources for the Laravel ERP core — compa... |
+| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 147 | 2026-06-28 | Accounting application written in Laravel 12 / PHP 8.5 using... |
+| [meego47/artisan-wizard](https://github.com/meego47/artisan-wizard) | 3 | 2026-06-28 | ArtisanWizard is a user-friendly Laravel package that brings... |
+| [nadimtuhin/laravel-package-boilerplate](https://github.com/nadimtuhin/laravel-package-boilerplate) | 3 | 2026-06-28 | Boilerplate for creating Laravel packages |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-28 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-28 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-28 | Prevent risky Laravel database migrations with static analys... |
+| [jeffersongoncalves/filament-erp](https://github.com/jeffersongoncalves/filament-erp) | 1 | 2026-06-28 | The complete Laravel ERP as a single Filament v5 panel plugi... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-28 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-28 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-06-28 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-06-28 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [stobys/laravel-settings](https://github.com/stobys/laravel-settings) | 0 | 2026-06-28 | laravel-settings package |
+| [jeffersongoncalves/filament-erp-maintenance](https://github.com/jeffersongoncalves/filament-erp-maintenance) | 1 | 2026-06-28 | Filament v5 panel resources for the Laravel ERP maintenance ... |
+| [jeffersongoncalves/filament-erp-quality](https://github.com/jeffersongoncalves/filament-erp-quality) | 1 | 2026-06-28 | Filament v5 panel resources for the Laravel ERP quality modu... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-06-28 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [jeffersongoncalves/filament-erp-support](https://github.com/jeffersongoncalves/filament-erp-support) | 1 | 2026-06-28 | Filament v5 panel resources for the Laravel ERP support modu... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-28T18:26 | 9 | 1713 | 4914 |
 | 2026-06-28T12:30 | 2 | 1720 | 4905 |
 | 2026-06-28T07:22 | 28 | 1696 | 4903 |
 | 2026-06-28T00:45 | 0 | 1722 | 4875 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-27T00:43 | 2 | 1719 | 4866 |
 | 2026-06-26T18:38 | 6 | 1715 | 4864 |
 | 2026-06-26T12:45 | 2 | 1720 | 4859 |
-| 2026-06-26T07:19 | 4 | 1719 | 4857 |
 
 ---
 

@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4903  
-**Last updated:** 2026-06-28T07:22:56.171Z
+**Total packages tracked:** 4905  
+**Last updated:** 2026-06-28T12:30:07.202Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [trianity/laravel-pdf-viewer](https://github.com/trianity/laravel-pdf-viewer) | 0 | Secure PDF.js based PDF viewer for Laravel 13, Livewire 4 and Tailwind CSS 4. |
+| [laravelsecurityaudit/laravel-secret-scanner](https://github.com/laravelsecurityaudit/laravel-secret-scanner) | 0 | Framework-agnostic secret and PII detection engine: rules, scanner, redactor, se... |
 | [jeffersongoncalves/filament-erp](https://github.com/jeffersongoncalves/filament-erp) | 1 | The complete Laravel ERP as a single Filament v5 panel plugin — bundles all 13 E... |
 | [jeffersongoncalves/filament-erp-maintenance](https://github.com/jeffersongoncalves/filament-erp-maintenance) | 1 | Filament v5 panel resources for the Laravel ERP maintenance module — maintenance... |
 | [jeffersongoncalves/filament-erp-quality](https://github.com/jeffersongoncalves/filament-erp-quality) | 1 | Filament v5 panel resources for the Laravel ERP quality module — inspections, go... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/laravel-erp-quality](https://github.com/jeffersongoncalves/laravel-erp-quality) | 1 | ERP quality management for Laravel — inspections, goals, procedures and non-conf... |
 | [jeffersongoncalves/laravel-erp-support](https://github.com/jeffersongoncalves/laravel-erp-support) | 1 | ERP support for Laravel — issues, service level agreements and warranty claims |
 | [jeffersongoncalves/laravel-erp-projects](https://github.com/jeffersongoncalves/laravel-erp-projects) | 1 | ERP projects for Laravel — projects, tasks and timesheets billing to sales invoi... |
-| [jeffersongoncalves/laravel-erp-assets](https://github.com/jeffersongoncalves/laravel-erp-assets) | 1 | ERP fixed assets for Laravel — asset register, depreciation schedules and moveme... |
-| [jeffersongoncalves/laravel-erp-crm](https://github.com/jeffersongoncalves/laravel-erp-crm) | 1 | ERP CRM for Laravel — leads, opportunities and campaigns converting to customers... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 0 | 2026-06-28 | A package for using and generating unique urls for each Eloq... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-06-28 | Simple package for adding directives to show/hide content fr... |
-| [forxer/blade-components-ide-helper](https://github.com/forxer/blade-components-ide-helper) | 0 | 2026-06-28 | Generate IDE metadata (VS Code snippets & Custom Data, PhpSt... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-06-28 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
+| [laravelsecurityaudit/laravel-secret-scanner](https://github.com/laravelsecurityaudit/laravel-secret-scanner) | 0 | 2026-06-28 | Framework-agnostic secret and PII detection engine: rules, s... |
+| [Vinksyunit/NotTodayHoney](https://github.com/Vinksyunit/NotTodayHoney) | 2 | 2026-06-28 | Turn your Laravel application into an intelligent trap. This... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-28 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-28 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-06-28 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-06-28 | A comprehensive toolkit providing foundational building bloc... |
+| [ilogus/laravel-honeypotplus](https://github.com/ilogus/laravel-honeypotplus) | 8 | 2026-06-28 | A Laravel package that detects malicious IPs attempting to a... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-28 | 💰 Simplify your financial management with Finova, an open-s... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 2 | 2026-06-28 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-28 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-28 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-06-28 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-06-28 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 18 | 2026-06-28 | AI observability package for Laravel |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-06-28 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 437 | 2026-06-28 | A media picker plugin for Filament Panels. |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-06-28 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-28 | Package para Laravel y facturacion |
-| [One-Learning-Community/grease](https://github.com/One-Learning-Community/grease) | 5 | 2026-06-28 | Opt-in performance for Laravel's hot paths. One trait, byte-... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-06-28 | An event sourcing laravel package, complete with all the ess... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-28 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [faridhafizh/kabar-kurir](https://github.com/faridhafizh/kabar-kurir) | 0 | 2026-06-28 | KabarKurir - Corporate news aggregator and independent packa... |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 248 | 2026-06-28 | Collect everything about sent mails in your Laravel app |
+| [trianity/laravel-pdf-viewer](https://github.com/trianity/laravel-pdf-viewer) | 0 | 2026-06-28 | Secure PDF.js based PDF viewer for Laravel 13, Livewire 4 an... |
+| [lucaspatraodev/laravel-logai](https://github.com/lucaspatraodev/laravel-logai) | 0 | 2026-06-28 | Open-source observability package for Laravel with AI-powere... |
+| [franbarbalopez/mirror](https://github.com/franbarbalopez/mirror) | 162 | 2026-06-28 | Mirror is an elegant user impersonation package for Laravel.... |
+| [istvanmolitor/scraper](https://github.com/istvanmolitor/scraper) | 0 | 2026-06-28 | Scraper package for laravel |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-06-28 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
+| [Maya-AQSS/shared-auth-laravel](https://github.com/Maya-AQSS/shared-auth-laravel) | 0 | 2026-06-28 | Read-only mirror of packages/php/shared-auth-laravel from ma... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-28T12:30 | 2 | 1720 | 4905 |
 | 2026-06-28T07:22 | 28 | 1696 | 4903 |
 | 2026-06-28T00:45 | 0 | 1722 | 4875 |
 | 2026-06-27T18:26 | 4 | 1718 | 4875 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-26T18:38 | 6 | 1715 | 4864 |
 | 2026-06-26T12:45 | 2 | 1720 | 4859 |
 | 2026-06-26T07:19 | 4 | 1719 | 4857 |
-| 2026-06-26T00:46 | 3 | 1721 | 4853 |
 
 ---
 

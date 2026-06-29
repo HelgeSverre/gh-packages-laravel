@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4931  
-**Last updated:** 2026-06-29T13:30:25.742Z
+**Total packages tracked:** 4936  
+**Last updated:** 2026-06-29T18:42:12.502Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [vizor-vr/laravel-vizor](https://github.com/vizor-vr/laravel-vizor) | 0 | A Laravel Package for the Vixor VR Player |
+| [jacksoon0804/laravel-inventory-tracker](https://github.com/jacksoon0804/laravel-inventory-tracker) | 0 | Laravel package for monitoring inventory metrics and warehouse KPIs. |
+| [jeffersongoncalves/laravel-erp](https://github.com/jeffersongoncalves/laravel-erp) | 1 | Monorepo (source-of-truth) for the Laravel ERP domain package ecosystem. Splits ... |
+| [jeffersongoncalves/laravel-erp-suite](https://github.com/jeffersongoncalves/laravel-erp-suite) | 0 | Laravel ERP suite (package jeffersongoncalves/laravel-erp) — aggregates all doma... |
+| [samojeyinka/synchrome-laravel-ai-guidelines-package](https://github.com/samojeyinka/synchrome-laravel-ai-guidelines-package) | 1 |  |
 | [morpheusadam/rtl-dashboard](https://github.com/morpheusadam/rtl-dashboard) | 10 | RTL Dashboard — a fully responsive, feature-rich Laravel 11 admin dashboard temp... |
 | [morpheusadam/Laravel-Phone-Shop](https://github.com/morpheusadam/Laravel-Phone-Shop) | 0 | Modular Laravel 10 mobile-phone & electronics e-commerce store built with Livewi... |
 | [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | A framework-agnostic web UI for editing .env — JSON API and themed panel that dr... |
@@ -16,7 +21,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [statview-app/satellite-laravel](https://github.com/statview-app/satellite-laravel) | 1 | A satellite package for Statview |
 | [joskolenberg/eloquent-reflector](https://github.com/joskolenberg/eloquent-reflector) | 2 | Laravel package for inspecting model classes on relations en attributes. |
 | [morpheusadam/elanak](https://github.com/morpheusadam/elanak) | 4 | Robust Laravel/PHP SMS package: send text and pattern (OTP) messages through mul... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 0 | Martis — Laravel Admin Engine. A modern, override-first admin engine for Laravel... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 3 | Martis — Laravel Admin Engine. A modern, override-first admin engine for Laravel... |
 | [surrealdb/surrealdb.laravel](https://github.com/surrealdb/surrealdb.laravel) | 0 | A Laravel package for building with SurrealDB through fluent queries, live updat... |
 | [leonardofilhogm/eloquent-countries](https://github.com/leonardofilhogm/eloquent-countries) | 0 | A Small Laravel package to consume Countries Data as Eloquent ORM from Laravel  |
 | [teknyo/laravel-locale-helper](https://github.com/teknyo/laravel-locale-helper) | 0 | A simple Laravel package for languages, timezones, currencies, date formats, cou... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [lomhodev/rithy-zkteco-adms](https://github.com/lomhodev/rithy-zkteco-adms) | 0 | A production-ready Laravel package for integrating  ZKTeco biometric devices usi... |
 | [CarvingIT/laravel-user-roles](https://github.com/CarvingIT/laravel-user-roles) | 0 | Composer package for user roles in a Laravel project. |
 | [MCA43/mca-address](https://github.com/MCA43/mca-address) | 0 | Laravel package: country, city, district & neighborhood CRUD, cascading API, and... |
-| [JSalazarLl/laravel-chilean-rut](https://github.com/JSalazarLl/laravel-chilean-rut) | 0 | A comprehensive Chilean RUT (National ID) package for Laravel. It provides custo... |
-| [emendo-web/blade-google-material-symbols-icons](https://github.com/emendo-web/blade-google-material-symbols-icons) | 2 | A package to easily make use of "Google Material Symbols Icons" in your Laravel ... |
-| [kaizen108/multicloud](https://github.com/kaizen108/multicloud) | 1 | 🌩️ Laravel MultiCloud — manage AWS, Azure, GCP, Cloudinary, Alibaba, & Cloudfla... |
-| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | Tailwind + Blade + Livewire 4 install wizard for laranail/installer-headless — d... |
-| [oi-lab/oi-laravel-ts](https://github.com/oi-lab/oi-laravel-ts) | 1 | Generate TypeScript interfaces from Laravel Eloquent models |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-06-29 | Laravel Package to access AI CAD |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 187 | 2026-06-29 | Laravel 12, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [joskolenberg/eloquent-reflector](https://github.com/joskolenberg/eloquent-reflector) | 2 | 2026-06-29 | Laravel package for inspecting model classes on relations en... |
-| [jeffersongoncalves/laravel-gtag](https://github.com/jeffersongoncalves/laravel-gtag) | 2 | 2026-06-29 | Laravel package for Google Analytics (Gtag) with database-ba... |
-| [sertxudeveloper/laravel-pagination](https://github.com/sertxudeveloper/laravel-pagination) | 0 | 2026-06-29 | Package for overriding Laravel's default pagination |
-| [RomaLytar/yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 35 | 2026-06-29 | Laravel audit log & change history with real actor attributi... |
-| [morpheusadam/rtl-dashboard](https://github.com/morpheusadam/rtl-dashboard) | 10 | 2026-06-29 | RTL Dashboard — a fully responsive, feature-rich Laravel 11 ... |
-| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-06-29 | Official Laravel package for seamless ProofAge API integrati... |
-| [morpheusadam/elanak](https://github.com/morpheusadam/elanak) | 4 | 2026-06-29 | Robust Laravel/PHP SMS package: send text and pattern (OTP) ... |
-| [morpheusadam/Laravel-Phone-Shop](https://github.com/morpheusadam/Laravel-Phone-Shop) | 0 | 2026-06-29 | Modular Laravel 10 mobile-phone & electronics e-commerce sto... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-29 | A Laravel-based web application that tracks, analyzes, and p... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-29 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [admin9-labs/laravel-oidc-server](https://github.com/admin9-labs/laravel-oidc-server) | 2 | 2026-06-29 | OpenID Connect Server for Laravel Passport — Discovery, JWKS... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-29 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-29 | Prevent risky Laravel database migrations with static analys... |
+| [vizor-vr/laravel-vizor](https://github.com/vizor-vr/laravel-vizor) | 0 | 2026-06-29 | A Laravel Package for the Vixor VR Player |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-29 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-29 | Manage and track inventory with a PHP package that integrate... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-06-29 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [svenluijten/package-skeleton](https://github.com/svenluijten/package-skeleton) | 6 | 2026-06-29 | :package: My base for PHP packages. |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-29 | Package para Laravel y facturacion |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-06-29 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [jacksoon0804/laravel-inventory-tracker](https://github.com/jacksoon0804/laravel-inventory-tracker) | 0 | 2026-06-29 | Laravel package for monitoring inventory metrics and warehou... |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 9 | 2026-06-29 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-06-29 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-06-29 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 | [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-06-29 | A Laravel package to track revisions of Eloquent models, all... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 333 | 2026-06-29 | The NativePHP website |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-06-29 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-06-29 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-06-29 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-06-29 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-29T18:42 | 5 | 1717 | 4936 |
 | 2026-06-29T13:30 | 11 | 1710 | 4931 |
 | 2026-06-29T07:44 | 3 | 1720 | 4920 |
 | 2026-06-29T00:46 | 4 | 1718 | 4917 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-28T00:45 | 0 | 1722 | 4875 |
 | 2026-06-27T18:26 | 4 | 1718 | 4875 |
 | 2026-06-27T12:28 | 1 | 1720 | 4871 |
-| 2026-06-27T07:06 | 5 | 1716 | 4870 |
 
 ---
 

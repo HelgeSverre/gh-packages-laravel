@@ -591,5 +591,31 @@
     "discovered_at": "2026-02-20T06:20:29.362Z",
     "archived_at": "2026-06-27T07:06:26.747Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "nightmare5831/tall-craft": {
+    "name": "nightmare5831/Tall-Craft",
+    "url": "https://github.com/nightmare5831/Tall-Craft",
+    "description": "TallCraftUI is a Laravel blade UI components library built on TALL stack (TailwindCSS, Alpine.js, Laravel, Livewire)",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "alphinejs",
+      "css",
+      "laravel",
+      "livewire",
+      "nextjs",
+      "php",
+      "shell",
+      "tailwindcss",
+      "typescript"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-06-28T21:23:21Z",
+    "updated_at": "2025-06-30T04:49:26Z",
+    "pushed_at": "2025-06-28T21:26:41Z",
+    "discovered_at": "2026-02-19T00:44:48.868Z",
+    "archived_at": "2026-06-29T00:46:22.276Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

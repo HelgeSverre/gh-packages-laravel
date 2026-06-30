@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4953  
-**Last updated:** 2026-06-30T12:42:46.662Z
+**Total packages tracked:** 5010  
+**Last updated:** 2026-06-30T18:38:24.024Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [rt1893/laravel-redis-throttle](https://github.com/rt1893/laravel-redis-throttle) | 0 | Built a complete, working Laravel package: laravel-redis-throttle — a Redis-back... |
-| [mecomedia/centaurus-ai](https://github.com/mecomedia/centaurus-ai) | 0 | Centaurus-AI – Laravel package by mecomedia |
-| [Ikong217/sku-generator](https://github.com/Ikong217/sku-generator) | 0 | A configurable SKU generation package for Laravel with customizable formats and ... |
-| [One-Learning-Community/laravel-model-explorer](https://github.com/One-Learning-Community/laravel-model-explorer) | 6 | Model Explorer for Laravel — a zero-config browser UI and MCP server for explori... |
-| [yezzmedia/laravel-user-support](https://github.com/yezzmedia/laravel-user-support) | 0 | laravel-user-support package |
-| [andrecorugda/synapse-app-builder](https://github.com/andrecorugda/synapse-app-builder) | 3 | Self-hosted, data-driven app builder for Laravel + Filament — visual pages, type... |
-| [Bruted/sentinel-laravel](https://github.com/Bruted/sentinel-laravel) | 0 |  Laravel package for Sentinel, Redeyed's human-verification captcha — Blade dire... |
-| [muhammadahmadhammad-dot/spatie-laravel-roles-and-permission](https://github.com/muhammadahmadhammad-dot/spatie-laravel-roles-and-permission) | 0 | Simple project using laravel 11 spatie package for roles and permission from you... |
-| [sellmate/laravel-multi-tenant](https://github.com/sellmate/laravel-multi-tenant) | 0 | Laravel Multi Tenant Package |
-| [rr-mdalauddin-alamin/laravel-currency-converter](https://github.com/rr-mdalauddin-alamin/laravel-currency-converter) | 0 | A Laravel Package which convert currency value according to current conversion r... |
-| [vishalxtyagi/php-ghost-wall](https://github.com/vishalxtyagi/php-ghost-wall) | 0 | PhpGhostWall is a Laravel package for monitoring code integrity, alerting on tam... |
-| [yezzmedia/laravel-user-projects](https://github.com/yezzmedia/laravel-user-projects) | 0 | laravel-user-projects package |
-| [yezzmedia/laravel-user-consent](https://github.com/yezzmedia/laravel-user-consent) | 0 | laravel-user-consent package |
-| [yezzmedia/laravel-account](https://github.com/yezzmedia/laravel-account) | 0 | laravel-account package |
-| [webrek/laravel-data-retention](https://github.com/webrek/laravel-data-retention) | 0 | Declarative data retention for Laravel: keep records for a window, then delete o... |
-| [skycoder026/laravel-securify-audit](https://github.com/skycoder026/laravel-securify-audit) | 0 | Laravel Security & Performance Scanner Package — 50+ checks, weighted scoring, H... |
-| [oi-lab/oi-laravel-metadata](https://github.com/oi-lab/oi-laravel-metadata) | 0 | A Laravel package to attach polymorphic SEO metadata and Open Graph data to any ... |
-| [vizor-vr/laravel-vizor](https://github.com/vizor-vr/laravel-vizor) | 0 | A Laravel Package for the Vixor VR Player |
-| [jacksoon0804/laravel-inventory-tracker](https://github.com/jacksoon0804/laravel-inventory-tracker) | 0 | Laravel package for monitoring inventory metrics and warehouse KPIs. |
-| [jeffersongoncalves/laravel-erp](https://github.com/jeffersongoncalves/laravel-erp) | 1 | Monorepo (source-of-truth) for the Laravel ERP domain package ecosystem. Splits ... |
+| [jeffersongoncalves/filament-commerce-core](https://github.com/jeffersongoncalves/filament-commerce-core) | 1 | Read-only split mirror of jeffersongoncalves/filament-commerce (core). Do not op... |
+| [jeffersongoncalves/filament-commerce-store](https://github.com/jeffersongoncalves/filament-commerce-store) | 1 | Read-only split mirror of jeffersongoncalves/filament-commerce (store). Do not o... |
+| [jeffersongoncalves/filament-commerce-auth](https://github.com/jeffersongoncalves/filament-commerce-auth) | 1 | Read-only split mirror of jeffersongoncalves/filament-commerce (auth). Do not op... |
+| [jeffersongoncalves/laravel-commerce-storefront](https://github.com/jeffersongoncalves/laravel-commerce-storefront) | 0 | Read-only split mirror of jeffersongoncalves/laravel-commerce (storefront). Do n... |
+| [jeffersongoncalves/laravel-commerce-suite](https://github.com/jeffersongoncalves/laravel-commerce-suite) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (suite). Do not op... |
+| [jeffersongoncalves/laravel-commerce-order](https://github.com/jeffersongoncalves/laravel-commerce-order) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (order). Do not op... |
+| [jeffersongoncalves/laravel-commerce-currency](https://github.com/jeffersongoncalves/laravel-commerce-currency) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (currency). Do not... |
+| [jeffersongoncalves/laravel-commerce-checkout](https://github.com/jeffersongoncalves/laravel-commerce-checkout) | 0 | Read-only split mirror of jeffersongoncalves/laravel-commerce (checkout). Do not... |
+| [jeffersongoncalves/laravel-commerce-payment](https://github.com/jeffersongoncalves/laravel-commerce-payment) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (payment). Do not ... |
+| [jeffersongoncalves/laravel-commerce-cart](https://github.com/jeffersongoncalves/laravel-commerce-cart) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (cart). Do not ope... |
+| [jeffersongoncalves/laravel-commerce-product](https://github.com/jeffersongoncalves/laravel-commerce-product) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (product). Do not ... |
+| [jeffersongoncalves/laravel-commerce-user](https://github.com/jeffersongoncalves/laravel-commerce-user) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (user). Do not ope... |
+| [jeffersongoncalves/laravel-commerce-store-credit](https://github.com/jeffersongoncalves/laravel-commerce-store-credit) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (store-credit). Do... |
+| [jeffersongoncalves/laravel-commerce-inventory](https://github.com/jeffersongoncalves/laravel-commerce-inventory) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (inventory). Do no... |
+| [jeffersongoncalves/laravel-commerce-customer](https://github.com/jeffersongoncalves/laravel-commerce-customer) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (customer). Do not... |
+| [jeffersongoncalves/laravel-commerce-pricing](https://github.com/jeffersongoncalves/laravel-commerce-pricing) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (pricing). Do not ... |
+| [jeffersongoncalves/laravel-commerce-region](https://github.com/jeffersongoncalves/laravel-commerce-region) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (region). Do not o... |
+| [jeffersongoncalves/laravel-commerce-translation](https://github.com/jeffersongoncalves/laravel-commerce-translation) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (translation). Do ... |
+| [jeffersongoncalves/laravel-commerce-core](https://github.com/jeffersongoncalves/laravel-commerce-core) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (core). Do not ope... |
+| [jeffersongoncalves/laravel-commerce-loyalty](https://github.com/jeffersongoncalves/laravel-commerce-loyalty) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (loyalty). Do not ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -37,13 +37,13 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 500 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 488 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 485 | A full-featured Laravel package for aiding in Shopify App development |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 486 | A full-featured Laravel package for aiding in Shopify App development |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
-| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 460 | Add kanban boards to your Filament pages |
+| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 461 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [huriellopes/cantin](https://github.com/huriellopes/cantin) | 0 | 2026-06-30 | Site do Cadastro Nacional de Terreiros Inclusivos |
-| [tomakakwark/wafy](https://github.com/tomakakwark/wafy) | 1 | 2026-06-30 | Laravel WAF (Web Application Firewall) |
-| [RomaLytar/yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 38 | 2026-06-30 | Laravel audit log & change history with real actor attributi... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 36 | 2026-06-30 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [MuhammedMSalama/LaravelBase](https://github.com/MuhammedMSalama/LaravelBase) | 7 | 2026-06-30 | A lightweight, version-agnostic Laravel package providing a ... |
-| [hwkdo/seventhings-laravel](https://github.com/hwkdo/seventhings-laravel) | 0 | 2026-06-30 | my package for interacting with seventhings REST-API |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-06-30 | A personal portfolio built as an interactive browser-based t... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-30 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [rt1893/laravel-redis-throttle](https://github.com/rt1893/laravel-redis-throttle) | 0 | 2026-06-30 | Built a complete, working Laravel package: laravel-redis-thr... |
-| [asciisd/autochartist-laravel](https://github.com/asciisd/autochartist-laravel) | 0 | 2026-06-30 | A Laravel package to integrate autochartist platform with La... |
-| [amit-eiitech/laravel-installer](https://github.com/amit-eiitech/laravel-installer) | 3 | 2026-06-30 | A package to install Laravel applications with wizard steps. |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-30 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-30 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-30 | A Laravel-based web application that tracks, analyzes, and p... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-30 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-30 | Integrate Mixpanel analytics into Filament projects to track... |
-| [mohammedelkarsh/validators-laravel-ae](https://github.com/mohammedelkarsh/validators-laravel-ae) | 0 | 2026-06-30 | validators/laravel-ae split package. |
-| [mohammedelkarsh/validators-laravel-eg](https://github.com/mohammedelkarsh/validators-laravel-eg) | 0 | 2026-06-30 | validators/laravel-eg split package. |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-30 | Manage and track inventory with a PHP package that integrate... |
-| [mohammedelkarsh/validators-laravel-sa](https://github.com/mohammedelkarsh/validators-laravel-sa) | 0 | 2026-06-30 | validators/laravel-sa split package. |
+| [jeffersongoncalves/filament-commerce-order](https://github.com/jeffersongoncalves/filament-commerce-order) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-loyalty](https://github.com/jeffersongoncalves/filament-commerce-loyalty) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-auth](https://github.com/jeffersongoncalves/filament-commerce-auth) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-region](https://github.com/jeffersongoncalves/filament-commerce-region) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-sales-channel](https://github.com/jeffersongoncalves/filament-commerce-sales-channel) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-cart](https://github.com/jeffersongoncalves/filament-commerce-cart) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-pricing](https://github.com/jeffersongoncalves/filament-commerce-pricing) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-currency](https://github.com/jeffersongoncalves/filament-commerce-currency) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-payment](https://github.com/jeffersongoncalves/filament-commerce-payment) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-stock-location](https://github.com/jeffersongoncalves/filament-commerce-stock-location) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-tax](https://github.com/jeffersongoncalves/filament-commerce-tax) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-store](https://github.com/jeffersongoncalves/filament-commerce-store) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-user](https://github.com/jeffersongoncalves/filament-commerce-user) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-api-key](https://github.com/jeffersongoncalves/filament-commerce-api-key) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-translation](https://github.com/jeffersongoncalves/filament-commerce-translation) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-core](https://github.com/jeffersongoncalves/filament-commerce-core) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-fulfillment](https://github.com/jeffersongoncalves/filament-commerce-fulfillment) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-promotion](https://github.com/jeffersongoncalves/filament-commerce-promotion) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-product](https://github.com/jeffersongoncalves/filament-commerce-product) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
+| [jeffersongoncalves/filament-commerce-inventory](https://github.com/jeffersongoncalves/filament-commerce-inventory) | 1 | 2026-06-30 | Read-only split mirror of jeffersongoncalves/filament-commer... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-30T18:38 | 57 | 1664 | 5010 |
 | 2026-06-30T12:42 | 3 | 1719 | 4953 |
 | 2026-06-30T07:19 | 11 | 1711 | 4950 |
 | 2026-06-30T00:44 | 3 | 1718 | 4939 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-29T00:46 | 4 | 1718 | 4917 |
 | 2026-06-28T18:26 | 9 | 1713 | 4914 |
 | 2026-06-28T12:30 | 2 | 1720 | 4905 |
-| 2026-06-28T07:22 | 28 | 1696 | 4903 |
 
 ---
 

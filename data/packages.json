@@ -86,8 +86,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-05-22T07:29:48Z",
-    "updated_at": "2026-06-30T10:02:49Z",
-    "pushed_at": "2026-06-30T10:02:45Z",
+    "updated_at": "2026-06-30T15:44:51Z",
+    "pushed_at": "2026-06-30T15:44:46Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "astrr3/laravel-argonaut-dto": {
@@ -161,8 +161,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2021-08-15T13:08:44Z",
-    "updated_at": "2026-06-30T11:01:22Z",
-    "pushed_at": "2026-06-30T11:01:18Z",
+    "updated_at": "2026-06-30T16:45:03Z",
+    "pushed_at": "2026-06-30T16:44:58Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "pedezim362/filemanager": {
@@ -254,8 +254,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-29T18:47:56Z",
-    "updated_at": "2026-06-30T10:35:16Z",
-    "pushed_at": "2026-06-30T10:35:13Z",
+    "updated_at": "2026-06-30T16:18:13Z",
+    "pushed_at": "2026-06-30T16:18:08Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "yamatekudashai/phind": {
@@ -353,8 +353,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-09-13T08:32:59Z",
-    "updated_at": "2026-06-30T10:17:38Z",
-    "pushed_at": "2026-06-30T10:17:34Z",
+    "updated_at": "2026-06-30T16:00:08Z",
+    "pushed_at": "2026-06-30T16:00:02Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "romeran14/laravel-quotes-package": {
@@ -375,7 +375,7 @@
     "name": "laravel/nightwatch",
     "url": "https://github.com/laravel/nightwatch",
     "description": "The official Laravel Nightwatch package.",
-    "stars": 361,
+    "stars": 362,
     "forks": 76,
     "topics": [
       "insights",
@@ -385,7 +385,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-05-28T07:02:51Z",
-    "updated_at": "2026-06-30T07:09:13Z",
+    "updated_at": "2026-06-30T15:54:09Z",
     "pushed_at": "2026-06-30T07:11:27Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
@@ -429,8 +429,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-26T16:12:07Z",
-    "updated_at": "2026-06-30T10:33:53Z",
-    "pushed_at": "2026-06-30T10:33:48Z",
+    "updated_at": "2026-06-30T16:16:52Z",
+    "pushed_at": "2026-06-30T16:16:46Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "njoguamos/laravel-pesapal": {
@@ -555,8 +555,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-26T15:55:48Z",
-    "updated_at": "2026-06-29T20:35:51Z",
-    "pushed_at": "2026-06-29T20:35:48Z",
+    "updated_at": "2026-06-30T13:19:44Z",
+    "pushed_at": "2026-06-30T13:19:40Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "bhaidar/laravel-checkeeper": {
@@ -1001,7 +1001,7 @@
     "license": "MIT",
     "created_at": "2022-04-21T10:37:51Z",
     "updated_at": "2026-06-30T10:08:08Z",
-    "pushed_at": "2026-06-30T10:11:36Z",
+    "pushed_at": "2026-06-30T16:44:30Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "thingstelemetry/laravel-traccar": {
@@ -1123,8 +1123,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-10-07T07:13:35Z",
-    "updated_at": "2026-06-29T15:57:17Z",
-    "pushed_at": "2026-06-30T10:52:50Z",
+    "updated_at": "2026-06-30T17:02:00Z",
+    "pushed_at": "2026-06-30T17:02:17Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "team-nifty-gmbh/tall-datatables": {
@@ -1752,8 +1752,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-12-17T15:45:34Z",
-    "updated_at": "2026-06-24T10:20:01Z",
-    "pushed_at": "2026-06-29T08:08:28Z",
+    "updated_at": "2026-06-30T13:57:01Z",
+    "pushed_at": "2026-06-30T13:56:57Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "larahubkit/api-response-kit": {
@@ -4122,8 +4122,8 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2025-10-03T06:33:33Z",
-    "updated_at": "2026-06-30T07:20:27Z",
-    "pushed_at": "2026-06-30T07:20:25Z",
+    "updated_at": "2026-06-30T16:32:45Z",
+    "pushed_at": "2026-06-30T16:32:43Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "squareetlabs/laravelsimplepermissions": {
@@ -4553,7 +4553,7 @@
     "name": "scify/laravel-cookie-guard",
     "url": "https://github.com/scify/laravel-cookie-guard",
     "description": "A Laravel package that provides a Cookies consent floating window and publishes the Cookies for all consent categories",
-    "stars": 146,
+    "stars": 147,
     "forks": 4,
     "topics": [
       "cookies",
@@ -4576,7 +4576,7 @@
     "language": "PHP",
     "license": "Apache-2.0",
     "created_at": "2022-11-18T09:46:02Z",
-    "updated_at": "2026-06-30T06:39:10Z",
+    "updated_at": "2026-06-30T13:30:33Z",
     "pushed_at": "2026-06-30T06:39:09Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -5096,7 +5096,7 @@
     "name": "ultraviolettes/filament-jobs-monitor",
     "url": "https://github.com/ultraviolettes/filament-jobs-monitor",
     "description": "Queue Monitoring Package for Filament ",
-    "stars": 273,
+    "stars": 274,
     "forks": 69,
     "topics": [
       "filamentphp",
@@ -5105,7 +5105,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-03-27T08:17:08Z",
-    "updated_at": "2026-06-19T16:59:08Z",
+    "updated_at": "2026-06-30T16:51:27Z",
     "pushed_at": "2026-06-22T04:32:28Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -5246,8 +5246,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-11-13T13:07:31Z",
-    "updated_at": "2026-06-25T14:26:42Z",
-    "pushed_at": "2026-06-25T14:25:41Z",
+    "updated_at": "2026-06-30T15:14:12Z",
+    "pushed_at": "2026-06-30T15:13:00Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "joaoolival/laravel-blog-engine": {
@@ -6039,7 +6039,7 @@
     "name": "venturedrake/laravel-crm",
     "url": "https://github.com/venturedrake/laravel-crm",
     "description": "Open Source Laravel CRM Package",
-    "stars": 431,
+    "stars": 432,
     "forks": 167,
     "topics": [
       "contact-management",
@@ -6066,7 +6066,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2020-08-31T23:31:11Z",
-    "updated_at": "2026-06-30T08:56:34Z",
+    "updated_at": "2026-06-30T14:27:08Z",
     "pushed_at": "2026-05-31T14:51:07Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -6377,7 +6377,7 @@
     "name": "achyutkneupane/filament-log-viewer",
     "url": "https://github.com/achyutkneupane/filament-log-viewer",
     "description": "A Filament package to view and manage Laravel logs.",
-    "stars": 50,
+    "stars": 51,
     "forks": 15,
     "topics": [
       "debug",
@@ -6390,7 +6390,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-07-21T11:24:14Z",
-    "updated_at": "2026-06-10T06:12:15Z",
+    "updated_at": "2026-06-30T16:23:52Z",
     "pushed_at": "2026-06-09T11:02:43Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -11104,8 +11104,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-12T09:38:27Z",
-    "updated_at": "2026-06-29T04:28:02Z",
-    "pushed_at": "2026-06-29T04:27:58Z",
+    "updated_at": "2026-06-30T14:13:22Z",
+    "pushed_at": "2026-06-30T14:11:13Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "c3n7-learning/laravel-example": {
@@ -13236,8 +13236,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-06T11:58:25Z",
-    "updated_at": "2026-06-29T00:57:12Z",
-    "pushed_at": "2026-06-29T00:57:08Z",
+    "updated_at": "2026-06-30T14:13:21Z",
+    "pushed_at": "2026-06-30T14:11:23Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "codecng/laravel-inertia-translations": {
@@ -14745,8 +14745,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-10-10T18:10:53Z",
-    "updated_at": "2026-01-08T12:59:53Z",
-    "pushed_at": "2026-01-08T13:00:10Z",
+    "updated_at": "2026-06-30T15:10:15Z",
+    "pushed_at": "2026-06-30T15:08:57Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "thefaswalker/otus-laravel-package": {
@@ -17669,8 +17669,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-03T23:34:49Z",
-    "updated_at": "2026-03-27T15:24:15Z",
-    "pushed_at": "2026-05-01T23:27:19Z",
+    "updated_at": "2026-06-30T18:28:50Z",
+    "pushed_at": "2026-06-30T18:28:47Z",
     "discovered_at": "2026-02-02T00:23:09.416Z"
   },
   "anilkumarthakur60/fast-api-crud": {
@@ -18430,8 +18430,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-03-01T15:37:01Z",
-    "updated_at": "2026-02-03T15:49:12Z",
-    "pushed_at": "2026-04-24T21:46:59Z",
+    "updated_at": "2026-06-30T15:15:47Z",
+    "pushed_at": "2026-06-30T15:17:19Z",
     "discovered_at": "2026-02-03T18:20:13.002Z"
   },
   "ermradulsharma/nanophp-framework": {
@@ -19128,7 +19128,7 @@
     "license": "MIT",
     "created_at": "2020-08-31T18:27:10Z",
     "updated_at": "2026-06-30T06:00:05Z",
-    "pushed_at": "2026-06-30T06:23:06Z",
+    "pushed_at": "2026-06-30T18:03:35Z",
     "discovered_at": "2026-02-05T12:13:05.228Z"
   },
   "midnite81/core": {
@@ -19346,8 +19346,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2021-03-04T13:03:17Z",
-    "updated_at": "2026-05-20T15:27:58Z",
-    "pushed_at": "2026-06-18T11:58:10Z",
+    "updated_at": "2026-06-30T13:36:23Z",
+    "pushed_at": "2026-06-30T13:40:10Z",
     "discovered_at": "2026-02-05T18:19:08.999Z"
   },
   "benefits-me/php-api-auth": {
@@ -19368,8 +19368,8 @@
     "name": "arif98741/laravelbdsms",
     "url": "https://github.com/arif98741/laravelbdsms",
     "description": "Xenon\\LaravelBDSms is a laravel based multi sms gateway package for sending text message to Bangladeshi mobile numbers using several gateways like sslsms, greenweb, dianahost, metronet, boomcast, bulksmsbd, adn, mobireach, tense, banglalink. You can see installation from https://youtu.be/i2wjLNoIvIo",
-    "stars": 150,
-    "forks": 56,
+    "stars": 151,
+    "forks": 57,
     "topics": [
       "alpha-sms",
       "bangladeshi-sms-gateway",
@@ -19394,7 +19394,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2021-06-28T09:54:42Z",
-    "updated_at": "2026-06-16T14:32:35Z",
+    "updated_at": "2026-06-30T14:44:00Z",
     "pushed_at": "2026-06-08T07:49:40Z",
     "discovered_at": "2026-02-05T18:19:09.000Z"
   },
@@ -20543,8 +20543,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-22T11:41:10Z",
-    "updated_at": "2026-06-30T11:13:55Z",
-    "pushed_at": "2026-06-30T11:13:54Z",
+    "updated_at": "2026-06-30T12:53:08Z",
+    "pushed_at": "2026-06-30T12:53:05Z",
     "discovered_at": "2026-02-10T12:19:10.263Z"
   },
   "netipar/szamlazzhu": {
@@ -20770,8 +20770,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-11T04:52:08Z",
-    "updated_at": "2026-05-09T20:51:14Z",
-    "pushed_at": "2026-04-28T13:17:56Z",
+    "updated_at": "2026-06-30T13:37:44Z",
+    "pushed_at": "2026-06-30T13:37:40Z",
     "discovered_at": "2026-02-11T06:26:24.704Z"
   },
   "laraditz/whatsapp": {
@@ -21152,8 +21152,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-09T13:20:31Z",
-    "updated_at": "2026-06-26T14:52:05Z",
-    "pushed_at": "2026-06-26T14:52:12Z",
+    "updated_at": "2026-06-30T15:29:53Z",
+    "pushed_at": "2026-06-30T15:26:25Z",
     "discovered_at": "2026-02-12T12:15:53.149Z"
   },
   "damms005/laravel-multipay": {
@@ -21572,8 +21572,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-14T10:09:15Z",
-    "updated_at": "2026-06-30T11:11:56Z",
-    "pushed_at": "2026-06-30T11:11:53Z",
+    "updated_at": "2026-06-30T16:55:45Z",
+    "pushed_at": "2026-06-30T16:55:40Z",
     "discovered_at": "2026-02-14T12:08:14.037Z"
   },
   "zfhassaan/payfast": {
@@ -23063,8 +23063,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-24T05:09:35Z",
-    "updated_at": "2026-06-30T10:23:52Z",
-    "pushed_at": "2026-06-30T10:23:48Z",
+    "updated_at": "2026-06-30T16:06:50Z",
+    "pushed_at": "2026-06-30T16:06:33Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "wagner-souza/eloquent-orm": {
@@ -23121,8 +23121,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-06-11T23:36:36Z",
-    "updated_at": "2026-06-30T10:17:34Z",
-    "pushed_at": "2026-06-30T10:17:31Z",
+    "updated_at": "2026-06-30T16:01:05Z",
+    "pushed_at": "2026-06-30T16:00:02Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "vedanggupta123/async-cache-bridge-laravel": {
@@ -23176,8 +23176,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-25T03:08:20Z",
-    "updated_at": "2026-06-30T11:02:19Z",
-    "pushed_at": "2026-06-30T11:02:15Z",
+    "updated_at": "2026-06-30T16:45:59Z",
+    "pushed_at": "2026-06-30T16:45:53Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "laouamtaha/laravel-chat-engine": {
@@ -23419,8 +23419,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-10-06T12:22:11Z",
-    "updated_at": "2026-06-29T11:27:05Z",
-    "pushed_at": "2026-06-29T11:27:49Z",
+    "updated_at": "2026-06-30T15:14:58Z",
+    "pushed_at": "2026-06-30T15:13:51Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "mayaramyadav/laravel-ocr": {
@@ -23466,7 +23466,7 @@
     "name": "relaticle/custom-fields",
     "url": "https://github.com/relaticle/custom-fields",
     "description": "Filament plugin that allows to add dynamic, user-defined form fields, enhancing the customization and functionality of admin panels.",
-    "stars": 164,
+    "stars": 163,
     "forks": 26,
     "topics": [
       "custom-fields",
@@ -23481,7 +23481,7 @@
     "language": "PHP",
     "license": "AGPL-3.0",
     "created_at": "2024-09-11T16:29:11Z",
-    "updated_at": "2026-06-27T14:57:00Z",
+    "updated_at": "2026-06-30T16:47:31Z",
     "pushed_at": "2026-06-27T14:56:57Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
@@ -24383,8 +24383,8 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2021-04-11T20:47:04Z",
-    "updated_at": "2026-06-29T20:42:41Z",
-    "pushed_at": "2026-06-29T20:42:37Z",
+    "updated_at": "2026-06-30T18:18:43Z",
+    "pushed_at": "2026-06-30T18:18:41Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "leek/laravel-compact-logs": {
@@ -24588,7 +24588,7 @@
     "name": "relaticle/flowforge",
     "url": "https://github.com/relaticle/flowforge",
     "description": "Laravel Kanban boards with intelligent pagination, drag-and-drop ordering, and flexible    integration patterns for Filament and Livewire applications.",
-    "stars": 412,
+    "stars": 411,
     "forks": 53,
     "topics": [
       "admin-panel",
@@ -24607,7 +24607,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-20T09:51:44Z",
-    "updated_at": "2026-06-29T16:47:56Z",
+    "updated_at": "2026-06-30T16:49:44Z",
     "pushed_at": "2026-06-29T16:47:59Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
@@ -24630,7 +24630,7 @@
     "license": "MIT",
     "created_at": "2023-04-19T08:43:19Z",
     "updated_at": "2026-06-27T15:13:42Z",
-    "pushed_at": "2026-06-30T11:20:26Z",
+    "pushed_at": "2026-06-30T16:26:23Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "mrgarest/firebase-sender": {
@@ -24969,8 +24969,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-04-22T15:53:36Z",
-    "updated_at": "2026-06-29T15:32:27Z",
-    "pushed_at": "2026-06-16T16:46:50Z",
+    "updated_at": "2026-06-30T15:36:33Z",
+    "pushed_at": "2026-06-30T15:35:40Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "admin9-labs/laravel-oidc-server": {
@@ -26004,7 +26004,7 @@
     "license": "MIT",
     "created_at": "2025-10-25T13:35:00Z",
     "updated_at": "2026-05-29T08:15:12Z",
-    "pushed_at": "2026-06-30T06:22:51Z",
+    "pushed_at": "2026-06-30T18:08:26Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "michaelbelgium/laravel-youtube-api": {
@@ -27162,8 +27162,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2022-08-11T18:10:33Z",
-    "updated_at": "2026-06-13T11:40:38Z",
-    "pushed_at": "2026-06-13T11:40:45Z",
+    "updated_at": "2026-06-30T16:43:55Z",
+    "pushed_at": "2026-06-30T16:48:24Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "ratmd/laravel-ebay-sdk": {
@@ -30249,8 +30249,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-05T22:01:59Z",
-    "updated_at": "2026-06-25T13:47:58Z",
-    "pushed_at": "2026-06-28T11:17:56Z",
+    "updated_at": "2026-06-30T18:08:47Z",
+    "pushed_at": "2026-06-30T18:10:33Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "bagussatoto/aplikasi-data-penjualan-laravel-8": {
@@ -30361,8 +30361,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-28T11:55:23Z",
-    "updated_at": "2026-06-30T10:13:22Z",
-    "pushed_at": "2026-06-30T10:13:19Z",
+    "updated_at": "2026-06-30T15:55:57Z",
+    "pushed_at": "2026-06-30T15:55:52Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "jeffersongoncalves/filament-knowledge-base": {
@@ -30868,7 +30868,7 @@
     "name": "bezhanSalleh/filament-language-switch",
     "url": "https://github.com/bezhanSalleh/filament-language-switch",
     "description": "A versatile and user-friendly plugin designed for Filament Panels.",
-    "stars": 356,
+    "stars": 358,
     "forks": 78,
     "topics": [
       "filament-plugin",
@@ -30879,7 +30879,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-06-24T01:59:15Z",
-    "updated_at": "2026-06-27T23:35:19Z",
+    "updated_at": "2026-06-30T16:08:42Z",
     "pushed_at": "2026-06-27T23:38:44Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -31047,8 +31047,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-04-13T18:31:40Z",
-    "updated_at": "2026-06-28T22:11:46Z",
-    "pushed_at": "2026-06-28T22:13:19Z",
+    "updated_at": "2026-06-30T16:02:06Z",
+    "pushed_at": "2026-06-30T16:25:10Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "lara-zeus/activity-timeline": {
@@ -31523,7 +31523,7 @@
     "name": "mokhosh/filament-kanban",
     "url": "https://github.com/mokhosh/filament-kanban",
     "description": "Add kanban boards to your Filament pages",
-    "stars": 460,
+    "stars": 461,
     "forks": 79,
     "topics": [
       "filament-plugin",
@@ -31535,7 +31535,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-11-17T11:23:36Z",
-    "updated_at": "2026-06-13T07:47:52Z",
+    "updated_at": "2026-06-30T16:37:19Z",
     "pushed_at": "2026-06-22T15:32:51Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -31629,7 +31629,7 @@
     "license": "MIT",
     "created_at": "2022-06-14T18:11:12Z",
     "updated_at": "2026-06-29T13:47:59Z",
-    "pushed_at": "2026-06-29T13:47:46Z",
+    "pushed_at": "2026-06-30T13:02:52Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "solutionforest/filament-scaffold": {
@@ -32689,8 +32689,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-26T13:33:54Z",
-    "updated_at": "2026-06-30T10:24:32Z",
-    "pushed_at": "2026-06-30T10:24:28Z",
+    "updated_at": "2026-06-30T16:07:51Z",
+    "pushed_at": "2026-06-30T16:07:12Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "liberusoftware/boilerplate-laravel": {
@@ -33165,7 +33165,7 @@
     "name": "liberu-real-estate/real-estate-laravel",
     "url": "https://github.com/liberu-real-estate/real-estate-laravel",
     "description": "Real Estate / Estate Agent, solution for your Property Agency. Application written in Laravel 12 / PHP 8.5 using Filament 5. Support for Rightmove, Zoopla, OnTheMarket",
-    "stars": 108,
+    "stars": 109,
     "forks": 62,
     "topics": [
       "database",
@@ -33183,7 +33183,7 @@
     "language": "PHP",
     "license": null,
     "created_at": "2024-02-04T14:40:42Z",
-    "updated_at": "2026-06-30T00:25:33Z",
+    "updated_at": "2026-06-30T16:29:13Z",
     "pushed_at": "2026-06-09T16:55:07Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -34840,7 +34840,7 @@
     "name": "bezhanSalleh/filament-google-analytics",
     "url": "https://github.com/bezhanSalleh/filament-google-analytics",
     "description": "Google Analytics integration with Filamentphp (FilamentAdmin)",
-    "stars": 212,
+    "stars": 213,
     "forks": 44,
     "topics": [
       "analytics",
@@ -34854,7 +34854,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-02-21T18:26:26Z",
-    "updated_at": "2026-06-28T12:10:18Z",
+    "updated_at": "2026-06-30T16:12:43Z",
     "pushed_at": "2026-06-27T23:42:24Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -36730,8 +36730,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2023-08-08T19:40:27Z",
-    "updated_at": "2026-06-30T12:37:01Z",
-    "pushed_at": "2026-06-30T12:38:02Z",
+    "updated_at": "2026-06-30T18:30:28Z",
+    "pushed_at": "2026-06-30T18:36:18Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "mahmoudsaeednst/laravel12-fullstack-course": {
@@ -39663,8 +39663,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-21T21:20:11Z",
-    "updated_at": "2026-06-30T11:14:58Z",
-    "pushed_at": "2026-06-30T11:14:55Z",
+    "updated_at": "2026-06-30T16:59:10Z",
+    "pushed_at": "2026-06-30T16:59:05Z",
     "discovered_at": "2026-02-22T00:23:04.244Z"
   },
   "jeffersongoncalves/filament-documentation": {
@@ -40208,32 +40208,36 @@
   "rivalex/lingua": {
     "name": "rivalex/lingua",
     "url": "https://github.com/rivalex/lingua",
-    "description": "The complete database-driven translation management system for Laravel. Manage 70+ languages with a beautiful Livewire + Flux UI, bi-directional sync (DB ↔ Files), and real-time statistics. Built on top of Spatie's translation loader and Laravel Lang.",
+    "description": "Self-hosted translation manager for Laravel on the TALL stack. Edit, sync, import/export and AI-translate your i18n/l10n language files from a Livewire UI. Database & file drivers, vendor translations, CSV/JSON/XLSX/ODS. A native alternative to laravel-lang — no external service required.",
     "stars": 2,
     "forks": 1,
     "topics": [
-      "database-translations",
-      "flux-ui",
+      "alpinejs",
       "i18n",
+      "import-export",
       "internationalization",
+      "l10n",
+      "language-manager",
       "laravel",
-      "laravel-lang",
+      "laravel-livewire",
       "laravel-package",
+      "laravel-translations",
       "livewire",
-      "livewire-flux",
       "localization",
       "multilingual",
       "php",
-      "rtl-support",
-      "spatie-translation-loader",
-      "translation-manager",
-      "translations"
+      "self-hosted",
+      "tailwindcss",
+      "tall-stack",
+      "translation",
+      "translation-editor",
+      "translation-management"
     ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-11T18:10:24Z",
-    "updated_at": "2026-05-11T09:29:25Z",
-    "pushed_at": "2026-06-24T11:43:21Z",
+    "updated_at": "2026-06-30T15:52:59Z",
+    "pushed_at": "2026-06-30T15:46:36Z",
     "discovered_at": "2026-02-23T12:14:23.441Z"
   },
   "ekosuprianto96/laravel-visual-migrator": {
@@ -41155,8 +41159,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-06-03T23:02:30Z",
-    "updated_at": "2026-06-24T11:17:54Z",
-    "pushed_at": "2026-06-24T11:17:56Z",
+    "updated_at": "2026-06-30T17:36:44Z",
+    "pushed_at": "2026-06-30T17:36:45Z",
     "discovered_at": "2026-02-24T18:21:47.432Z"
   },
   "akira-io/laravel-debugger": {
@@ -44475,8 +44479,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-04-27T00:19:00Z",
-    "updated_at": "2026-06-30T11:20:56Z",
-    "pushed_at": "2026-06-30T11:20:52Z",
+    "updated_at": "2026-06-30T17:05:31Z",
+    "pushed_at": "2026-06-30T17:05:21Z",
     "discovered_at": "2026-03-04T12:11:50.952Z"
   },
   "godrade/laravel-ban": {
@@ -45488,8 +45492,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-10-17T09:16:02Z",
-    "updated_at": "2026-06-30T11:21:53Z",
-    "pushed_at": "2026-06-30T11:21:48Z",
+    "updated_at": "2026-06-30T17:06:21Z",
+    "pushed_at": "2026-06-30T17:06:16Z",
     "discovered_at": "2026-03-06T18:12:54.130Z"
   },
   "datalogix/laravel-validation": {
@@ -45659,8 +45663,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-23T22:31:09Z",
-    "updated_at": "2026-06-30T11:22:19Z",
-    "pushed_at": "2026-06-30T11:22:15Z",
+    "updated_at": "2026-06-30T17:06:52Z",
+    "pushed_at": "2026-06-30T17:06:49Z",
     "discovered_at": "2026-03-06T18:12:54.134Z"
   },
   "overtrue/laravel-text-guard": {
@@ -46609,8 +46613,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-09T10:02:15Z",
-    "updated_at": "2026-06-30T11:25:23Z",
-    "pushed_at": "2026-06-30T11:25:19Z",
+    "updated_at": "2026-06-30T17:10:02Z",
+    "pushed_at": "2026-06-30T17:09:57Z",
     "discovered_at": "2026-03-09T12:12:47.622Z"
   },
   "filastudio/filament-file-output2": {
@@ -48719,8 +48723,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2024-08-12T15:19:40Z",
-    "updated_at": "2026-06-30T11:28:00Z",
-    "pushed_at": "2026-06-30T11:27:56Z",
+    "updated_at": "2026-06-30T17:12:48Z",
+    "pushed_at": "2026-06-30T17:12:44Z",
     "discovered_at": "2026-03-14T18:08:49.284Z"
   },
   "kosadchiy/laravel-parallel-db": {
@@ -49914,7 +49918,7 @@
     "license": "MIT",
     "created_at": "2022-12-28T11:09:10Z",
     "updated_at": "2026-06-30T10:15:42Z",
-    "pushed_at": "2026-06-30T10:16:21Z",
+    "pushed_at": "2026-06-30T14:43:17Z",
     "discovered_at": "2026-03-17T12:17:47.964Z"
   },
   "tiknil/wire-table": {
@@ -52802,8 +52806,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-01-24T03:18:32Z",
-    "updated_at": "2026-06-28T00:15:28Z",
-    "pushed_at": "2026-06-28T00:15:25Z",
+    "updated_at": "2026-06-30T18:05:00Z",
+    "pushed_at": "2026-06-30T18:04:55Z",
     "discovered_at": "2026-03-21T18:08:08.522Z"
   },
   "laravelfreelancernl/laravel-index-now": {
@@ -55109,7 +55113,7 @@
     "name": "tzsk/otp",
     "url": "https://github.com/tzsk/otp",
     "description": "Generate OTP with expiry for PHP without using Database",
-    "stars": 242,
+    "stars": 243,
     "forks": 32,
     "topics": [
       "generate-otp",
@@ -55121,7 +55125,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2019-01-23T16:27:49Z",
-    "updated_at": "2026-06-14T02:25:27Z",
+    "updated_at": "2026-06-30T14:22:00Z",
     "pushed_at": "2026-06-23T06:18:35Z",
     "discovered_at": "2026-03-25T06:24:44.804Z"
   },
@@ -55659,7 +55663,7 @@
     "name": "Arseno25/Filament-privacy-blur",
     "url": "https://github.com/Arseno25/Filament-privacy-blur",
     "description": "Visual privacy layer for Filament — blur and mask sensitive data in tables, forms, and infolists",
-    "stars": 5,
+    "stars": 6,
     "forks": 1,
     "topics": [
       "filament",
@@ -55669,7 +55673,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-25T04:03:01Z",
-    "updated_at": "2026-04-28T10:10:22Z",
+    "updated_at": "2026-06-30T15:52:03Z",
     "pushed_at": "2026-06-24T16:13:21Z",
     "discovered_at": "2026-03-26T00:26:31.447Z"
   },
@@ -57647,8 +57651,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2023-06-28T21:10:23Z",
-    "updated_at": "2026-06-29T17:50:14Z",
-    "pushed_at": "2026-06-29T17:50:09Z",
+    "updated_at": "2026-06-30T15:49:25Z",
+    "pushed_at": "2026-06-30T15:49:23Z",
     "discovered_at": "2026-03-30T00:27:56.777Z"
   },
   "marceloeatworld/plunk-laravel": {
@@ -62507,7 +62511,7 @@
     "name": "RomaLytar/yammi-jobs-monitoring-laravel",
     "url": "https://github.com/RomaLytar/yammi-jobs-monitoring-laravel",
     "description": "A lightweight Laravel queue monitoring package that tracks job lifecycle (processing, success, failure) across any queue driver. It provides a simple UI, execution insights, real-time metrics, failure alerts via Slack/email, and supports retries with modified payloads.",
-    "stars": 23,
+    "stars": 24,
     "forks": 3,
     "topics": [
       "dead-letter-queue",
@@ -62526,7 +62530,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-11T13:24:05Z",
-    "updated_at": "2026-06-24T02:30:50Z",
+    "updated_at": "2026-06-30T15:56:41Z",
     "pushed_at": "2026-06-10T18:06:38Z",
     "discovered_at": "2026-04-11T18:39:17.909Z"
   },
@@ -64646,8 +64650,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-04-17T10:27:39Z",
-    "updated_at": "2026-06-30T11:44:03Z",
-    "pushed_at": "2026-06-30T11:43:59Z",
+    "updated_at": "2026-06-30T17:29:49Z",
+    "pushed_at": "2026-06-30T17:29:45Z",
     "discovered_at": "2026-04-17T13:11:29.991Z"
   },
   "graystackit/laravel-helpspace-api": {
@@ -66691,8 +66695,8 @@
     "language": "PHP",
     "license": "AGPL-3.0",
     "created_at": "2026-02-08T19:27:13Z",
-    "updated_at": "2026-06-30T12:27:53Z",
-    "pushed_at": "2026-06-30T12:27:59Z",
+    "updated_at": "2026-06-30T16:43:39Z",
+    "pushed_at": "2026-06-30T16:44:02Z",
     "discovered_at": "2026-04-22T12:23:22.917Z"
   },
   "doobert-team/aws-secrets-manager": {
@@ -66859,7 +66863,7 @@
     "license": "MIT",
     "created_at": "2022-08-24T02:00:25Z",
     "updated_at": "2026-06-30T10:54:34Z",
-    "pushed_at": "2026-06-30T10:55:08Z",
+    "pushed_at": "2026-06-30T15:23:21Z",
     "discovered_at": "2026-04-23T00:34:18.857Z"
   },
   "binafy/laravel-cart": {
@@ -68283,13 +68287,13 @@
     "name": "Kyon147/laravel-shopify",
     "url": "https://github.com/Kyon147/laravel-shopify",
     "description": "A full-featured Laravel package for aiding in Shopify App development",
-    "stars": 485,
+    "stars": 486,
     "forks": 179,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-11-30T11:00:08Z",
-    "updated_at": "2026-06-28T01:23:18Z",
+    "updated_at": "2026-06-30T14:45:40Z",
     "pushed_at": "2026-06-25T14:44:11Z",
     "discovered_at": "2026-04-28T12:37:33.255Z"
   },
@@ -68298,7 +68302,7 @@
     "url": "https://github.com/eliseekn/laravel-metrics",
     "description": "Generate easily metrics and trends data of your models for your dashboards.",
     "stars": 134,
-    "forks": 9,
+    "forks": 8,
     "topics": [
       "charts",
       "dashboard",
@@ -68395,8 +68399,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-12T07:44:57Z",
-    "updated_at": "2026-04-28T15:58:59Z",
-    "pushed_at": "2026-04-28T15:59:27Z",
+    "updated_at": "2026-06-30T17:46:57Z",
+    "pushed_at": "2026-06-30T17:46:59Z",
     "discovered_at": "2026-04-28T18:33:56.104Z"
   },
   "ytake/laravel-aspect": {
@@ -68711,7 +68715,7 @@
     "url": "https://github.com/polirium/polirium",
     "description": "Polirium là một nền tảng ERP (Enterprise Resource Planning) modular, được thiết kế để dễ dàng mở rộng và tùy biến. Hệ thống được xây dựng trên Laravel với kiến trúc module hóa, cho phép các doanh nghiệp tạo và tích hợp các module nghiệp vụ riêng.",
     "stars": 41,
-    "forks": 16,
+    "forks": 15,
     "topics": [
       "crm",
       "erp",
@@ -70114,8 +70118,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-05-02T13:32:49Z",
-    "updated_at": "2026-06-03T14:34:12Z",
-    "pushed_at": "2026-06-20T08:02:41Z",
+    "updated_at": "2026-06-30T15:45:58Z",
+    "pushed_at": "2026-06-30T15:45:22Z",
     "discovered_at": "2026-05-03T06:52:58.282Z"
   },
   "authn-sh/sdk-php-laravel": {
@@ -70736,7 +70740,7 @@
     "license": "MIT",
     "created_at": "2026-05-04T19:01:57Z",
     "updated_at": "2026-06-30T10:52:01Z",
-    "pushed_at": "2026-06-30T10:52:05Z",
+    "pushed_at": "2026-06-30T15:13:51Z",
     "discovered_at": "2026-05-05T00:35:39.185Z"
   },
   "jigar-dhulla/laravel-whatsapp-ai-agent": {
@@ -75757,7 +75761,7 @@
     "name": "tzsk/payu",
     "url": "https://github.com/tzsk/payu",
     "description": "Payu Laravel Payment Gateway with Payment Verification Package. Payment for Payu Biz & PayuMoney India with Laravel.",
-    "stars": 46,
+    "stars": 47,
     "forks": 31,
     "topics": [
       "laravel",
@@ -75773,7 +75777,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2016-12-03T21:35:59Z",
-    "updated_at": "2026-06-04T07:39:23Z",
+    "updated_at": "2026-06-30T14:26:31Z",
     "pushed_at": "2026-06-29T23:32:25Z",
     "discovered_at": "2026-05-18T13:15:28.227Z"
   },
@@ -76015,8 +76019,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2016-05-09T23:31:08Z",
-    "updated_at": "2025-04-20T12:23:59Z",
-    "pushed_at": "2026-04-17T12:39:10Z",
+    "updated_at": "2026-06-30T13:32:17Z",
+    "pushed_at": "2026-06-30T13:32:12Z",
     "discovered_at": "2026-05-18T13:15:28.229Z"
   },
   "samettemizer/filament_tinyfinder": {
@@ -77418,8 +77422,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-05-20T19:03:02Z",
-    "updated_at": "2026-06-20T15:51:36Z",
-    "pushed_at": "2026-06-26T19:44:13Z",
+    "updated_at": "2026-06-30T17:34:53Z",
+    "pushed_at": "2026-06-30T17:34:50Z",
     "discovered_at": "2026-05-23T18:22:20.426Z"
   },
   "toadfix/minishop": {
@@ -78431,8 +78435,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-05-27T14:09:27Z",
-    "updated_at": "2026-06-17T00:19:50Z",
-    "pushed_at": "2026-06-16T18:14:03Z",
+    "updated_at": "2026-06-30T13:44:19Z",
+    "pushed_at": "2026-06-30T13:44:48Z",
     "discovered_at": "2026-05-27T18:48:26.905Z"
   },
   "pest-register/phpaccounting-myobaccountrightlive": {
@@ -79666,8 +79670,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-05-31T21:18:22Z",
-    "updated_at": "2026-06-29T15:14:56Z",
-    "pushed_at": "2026-06-30T07:51:48Z",
+    "updated_at": "2026-06-30T14:03:29Z",
+    "pushed_at": "2026-06-30T14:02:18Z",
     "discovered_at": "2026-06-01T07:47:28.668Z"
   },
   "limi-mathew/electraa-crm": {
@@ -79756,7 +79760,7 @@
     "name": "PicoBaz/laravel-sentinel",
     "url": "https://github.com/PicoBaz/laravel-sentinel",
     "description": "🛡️ Advanced real-time monitoring, performance tracking, and multi-channel alerting system for Laravel applications. Track slow queries, memory usage, exceptions, and response times with instant notifications via Telegram, Slack, Discord & Email.",
-    "stars": 6,
+    "stars": 7,
     "forks": 1,
     "topics": [
       "ai",
@@ -79783,7 +79787,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-23T10:28:53Z",
-    "updated_at": "2026-06-03T09:41:27Z",
+    "updated_at": "2026-06-30T15:59:20Z",
     "pushed_at": "2026-06-03T09:42:04Z",
     "discovered_at": "2026-06-01T14:02:51.497Z"
   },
@@ -83556,7 +83560,7 @@
     "license": null,
     "created_at": "2026-06-12T01:54:25Z",
     "updated_at": "2026-06-23T20:00:47Z",
-    "pushed_at": "2026-06-30T08:08:46Z",
+    "pushed_at": "2026-06-30T17:51:21Z",
     "discovered_at": "2026-06-12T07:39:24.377Z"
   },
   "kamerk22/amazongiftcode": {
@@ -83767,8 +83771,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-10T18:24:16Z",
-    "updated_at": "2026-06-30T12:28:30Z",
-    "pushed_at": "2026-06-30T12:28:28Z",
+    "updated_at": "2026-06-30T14:28:29Z",
+    "pushed_at": "2026-06-30T14:30:18Z",
     "discovered_at": "2026-06-12T18:41:05.521Z"
   },
   "mahdimajidzadeh/prompt-library": {
@@ -84450,7 +84454,7 @@
     "name": "janczakb/filament-flex-fields",
     "url": "https://github.com/janczakb/filament-flex-fields",
     "description": "The ultimate form components kit and custom fields builder for Filament v5. Over 61 premium inputs, layout cards, and dynamic JSON storage with HeroUI aesthetics and performance-first asset loading.",
-    "stars": 41,
+    "stars": 42,
     "forks": 10,
     "topics": [
       "custom-fields",
@@ -84468,7 +84472,7 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2026-06-09T14:11:16Z",
-    "updated_at": "2026-06-29T21:35:10Z",
+    "updated_at": "2026-06-30T14:06:11Z",
     "pushed_at": "2026-06-22T19:07:40Z",
     "discovered_at": "2026-06-15T00:50:57.139Z"
   },
@@ -85464,7 +85468,7 @@
     "name": "albertoarena/filament-event-sourcing",
     "url": "https://github.com/albertoarena/filament-event-sourcing",
     "description": "Integrate spatie/laravel-event-sourcing v7 with Filament v4: write through aggregates, browse stored events, and replay projectors.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "topics": [
       "aggregates",
@@ -85482,7 +85486,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-16T09:18:43Z",
-    "updated_at": "2026-06-29T18:51:01Z",
+    "updated_at": "2026-06-30T18:24:02Z",
     "pushed_at": "2026-06-30T06:44:14Z",
     "discovered_at": "2026-06-17T18:50:50.696Z"
   },
@@ -85872,8 +85876,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-19T06:32:26Z",
-    "updated_at": "2026-06-30T04:44:19Z",
-    "pushed_at": "2026-06-30T04:45:15Z",
+    "updated_at": "2026-06-30T13:58:26Z",
+    "pushed_at": "2026-06-30T13:59:31Z",
     "discovered_at": "2026-06-19T07:53:43.413Z"
   },
   "ajangsupardi/laravel-postcode-id": {
@@ -88014,7 +88018,7 @@
     "name": "blockshiftnetwork/chat-markdown-converter",
     "url": "https://github.com/blockshiftnetwork/chat-markdown-converter",
     "description": "Convert AI-generated Markdown to WhatsApp, Telegram, Discord, Slack and Instagram compatible formats using an Intermediate Representation (IR) in PHP.",
-    "stars": 11,
+    "stars": 12,
     "forks": 0,
     "topics": [
       "ai",
@@ -88036,7 +88040,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-02T02:48:00Z",
-    "updated_at": "2026-06-30T10:02:23Z",
+    "updated_at": "2026-06-30T16:44:43Z",
     "pushed_at": "2026-06-23T21:16:54Z",
     "discovered_at": "2026-06-24T00:40:11.410Z"
   },
@@ -88237,8 +88241,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-18T18:09:58Z",
-    "updated_at": "2026-06-25T15:30:28Z",
-    "pushed_at": "2026-06-25T15:37:57Z",
+    "updated_at": "2026-06-30T16:34:40Z",
+    "pushed_at": "2026-06-30T16:34:35Z",
     "discovered_at": "2026-06-24T07:13:19.796Z"
   },
   "kpebedko22/filament-yandex-map": {
@@ -89023,8 +89027,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-26T09:35:47Z",
-    "updated_at": "2026-06-30T02:45:52Z",
-    "pushed_at": "2026-06-30T02:45:48Z",
+    "updated_at": "2026-06-30T13:15:22Z",
+    "pushed_at": "2026-06-30T13:15:35Z",
     "discovered_at": "2026-06-26T12:45:32.907Z"
   },
   "hansajith18/laravel-paycorp": {
@@ -89432,8 +89436,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:48Z",
-    "updated_at": "2026-06-29T22:38:29Z",
-    "pushed_at": "2026-06-29T22:38:25Z",
+    "updated_at": "2026-06-30T17:58:40Z",
+    "pushed_at": "2026-06-30T17:58:41Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-quality": {
@@ -89446,8 +89450,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:45Z",
-    "updated_at": "2026-06-29T22:38:28Z",
-    "pushed_at": "2026-06-29T22:38:24Z",
+    "updated_at": "2026-06-30T17:58:40Z",
+    "pushed_at": "2026-06-30T17:58:49Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-support": {
@@ -89460,8 +89464,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:42Z",
-    "updated_at": "2026-06-29T22:38:29Z",
-    "pushed_at": "2026-06-29T22:38:26Z",
+    "updated_at": "2026-06-30T17:58:41Z",
+    "pushed_at": "2026-06-30T17:58:42Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-projects": {
@@ -89474,8 +89478,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:39Z",
-    "updated_at": "2026-06-29T22:39:04Z",
-    "pushed_at": "2026-06-29T22:38:27Z",
+    "updated_at": "2026-06-30T17:58:40Z",
+    "pushed_at": "2026-06-30T17:58:46Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-assets": {
@@ -89488,8 +89492,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:30Z",
-    "updated_at": "2026-06-29T22:38:28Z",
-    "pushed_at": "2026-06-29T22:38:24Z",
+    "updated_at": "2026-06-30T17:58:44Z",
+    "pushed_at": "2026-06-30T17:58:40Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-crm": {
@@ -89502,8 +89506,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:36Z",
-    "updated_at": "2026-06-29T22:38:28Z",
-    "pushed_at": "2026-06-29T22:38:25Z",
+    "updated_at": "2026-06-30T17:58:41Z",
+    "pushed_at": "2026-06-30T17:58:44Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-buying": {
@@ -89516,8 +89520,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:24Z",
-    "updated_at": "2026-06-29T22:39:09Z",
-    "pushed_at": "2026-06-29T22:38:25Z",
+    "updated_at": "2026-06-30T17:58:40Z",
+    "pushed_at": "2026-06-30T17:58:45Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-subcontracting": {
@@ -89530,8 +89534,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:33Z",
-    "updated_at": "2026-06-29T22:38:28Z",
-    "pushed_at": "2026-06-29T22:38:24Z",
+    "updated_at": "2026-06-30T17:58:45Z",
+    "pushed_at": "2026-06-30T17:58:42Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-manufacturing": {
@@ -89544,8 +89548,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:27Z",
-    "updated_at": "2026-06-29T22:38:28Z",
-    "pushed_at": "2026-06-29T22:38:24Z",
+    "updated_at": "2026-06-30T17:58:44Z",
+    "pushed_at": "2026-06-30T17:58:43Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-stock": {
@@ -89558,8 +89562,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:18Z",
-    "updated_at": "2026-06-29T22:38:28Z",
-    "pushed_at": "2026-06-29T22:38:24Z",
+    "updated_at": "2026-06-30T17:58:43Z",
+    "pushed_at": "2026-06-30T17:58:40Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-selling": {
@@ -89572,8 +89576,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:21Z",
-    "updated_at": "2026-06-29T22:39:06Z",
-    "pushed_at": "2026-06-29T22:38:27Z",
+    "updated_at": "2026-06-30T17:58:45Z",
+    "pushed_at": "2026-06-30T17:58:40Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-accounting": {
@@ -89586,8 +89590,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:15Z",
-    "updated_at": "2026-06-29T22:39:10Z",
-    "pushed_at": "2026-06-29T22:38:27Z",
+    "updated_at": "2026-06-30T17:58:50Z",
+    "pushed_at": "2026-06-30T17:58:40Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/laravel-erp-core": {
@@ -89601,7 +89605,7 @@
     "license": null,
     "created_at": "2026-06-29T13:30:10Z",
     "updated_at": "2026-06-29T22:38:33Z",
-    "pushed_at": "2026-06-29T22:38:30Z",
+    "pushed_at": "2026-06-30T17:58:47Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
   "jeffersongoncalves/filament-erp": {
@@ -90255,7 +90259,7 @@
     "name": "morpheusadam/elanak",
     "url": "https://github.com/morpheusadam/elanak",
     "description": "Robust Laravel/PHP SMS package: send text and pattern (OTP) messages through multiple providers — Kavenegar, Melipayamak, IPPanel, SMS.ir and Payamresan — behind one unified, fluent API.",
-    "stars": 4,
+    "stars": 5,
     "forks": 0,
     "topics": [
       "ippanel",
@@ -90273,7 +90277,7 @@
     "language": "PHP",
     "license": null,
     "created_at": "2024-06-07T11:15:48Z",
-    "updated_at": "2026-06-29T13:23:13Z",
+    "updated_at": "2026-06-30T14:57:49Z",
     "pushed_at": "2026-06-29T13:21:24Z",
     "discovered_at": "2026-06-29T13:30:25.714Z"
   },
@@ -90287,8 +90291,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-04T18:28:57Z",
-    "updated_at": "2026-06-29T17:00:57Z",
-    "pushed_at": "2026-06-29T17:00:43Z",
+    "updated_at": "2026-06-30T14:23:10Z",
+    "pushed_at": "2026-06-30T14:22:50Z",
     "discovered_at": "2026-06-29T13:30:25.714Z"
   },
   "surrealdb/surrealdb.laravel": {
@@ -90362,8 +90366,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-29T09:03:57Z",
-    "updated_at": "2026-06-29T11:18:25Z",
-    "pushed_at": "2026-06-29T11:19:32Z",
+    "updated_at": "2026-06-30T14:20:04Z",
+    "pushed_at": "2026-06-30T14:17:49Z",
     "discovered_at": "2026-06-29T13:30:25.716Z"
   },
   "morpheusadam/rtl-dashboard": {
@@ -90476,14 +90480,14 @@
     "name": "jeffersongoncalves/laravel-erp",
     "url": "https://github.com/jeffersongoncalves/laravel-erp",
     "description": "Monorepo (source-of-truth) for the Laravel ERP domain package ecosystem. Splits read-only into jeffersongoncalves/laravel-erp-*.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:29:19Z",
-    "updated_at": "2026-06-30T00:09:46Z",
-    "pushed_at": "2026-06-29T23:01:24Z",
+    "updated_at": "2026-06-30T17:58:28Z",
+    "pushed_at": "2026-06-30T17:58:27Z",
     "discovered_at": "2026-06-29T18:42:12.469Z"
   },
   "jeffersongoncalves/laravel-erp-suite": {
@@ -90496,8 +90500,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T16:50:22Z",
-    "updated_at": "2026-06-29T22:39:03Z",
-    "pushed_at": "2026-06-29T22:38:24Z",
+    "updated_at": "2026-06-30T17:58:42Z",
+    "pushed_at": "2026-06-30T17:58:39Z",
     "discovered_at": "2026-06-29T18:42:12.469Z"
   },
   "samojeyinka/synchrome-laravel-ai-guidelines-package": {
@@ -90590,8 +90594,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-28T11:52:46Z",
-    "updated_at": "2026-06-30T10:45:50Z",
-    "pushed_at": "2026-06-30T10:41:52Z",
+    "updated_at": "2026-06-30T12:49:58Z",
+    "pushed_at": "2026-06-30T13:29:32Z",
     "discovered_at": "2026-06-30T07:19:39.687Z"
   },
   "bruted/sentinel-laravel": {
@@ -90727,8 +90731,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-20T22:50:41Z",
-    "updated_at": "2026-06-30T05:21:02Z",
-    "pushed_at": "2026-06-30T05:21:07Z",
+    "updated_at": "2026-06-30T12:58:22Z",
+    "pushed_at": "2026-06-30T12:58:22Z",
     "discovered_at": "2026-06-30T07:19:39.690Z"
   },
   "rt1893/laravel-redis-throttle": {
@@ -90772,5 +90776,1162 @@
     "updated_at": "2026-06-30T10:44:08Z",
     "pushed_at": "2026-06-30T10:38:21Z",
     "discovered_at": "2026-06-30T12:42:46.631Z"
+  },
+  "mizancoreng/baas-laravel": {
+    "name": "mizanCoreNg/baas-laravel",
+    "url": "https://github.com/mizanCoreNg/baas-laravel",
+    "description": "Official Laravel package for the MizanCore Banking-as-a-Service (BaaS) API",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-06-30T15:21:25Z",
+    "updated_at": "2026-06-30T17:12:30Z",
+    "pushed_at": "2026-06-30T17:12:24Z",
+    "discovered_at": "2026-06-30T18:38:23.997Z"
+  },
+  "returnearly/actions-pattern": {
+    "name": "returnearly/actions-pattern",
+    "url": "https://github.com/returnearly/actions-pattern",
+    "description": "A minimal package for using the actions pattern in Laravel.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2024-09-03T12:32:56Z",
+    "updated_at": "2026-06-30T16:58:05Z",
+    "pushed_at": "2026-06-30T16:57:55Z",
+    "discovered_at": "2026-06-30T18:38:23.997Z"
+  },
+  "square1-io/www.payforgoals.com": {
+    "name": "square1-io/www.payforgoals.com",
+    "url": "https://github.com/square1-io/www.payforgoals.com",
+    "description": "Reference implementation for the Laravel MPP agentic payments package.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-06-30T14:16:43Z",
+    "updated_at": "2026-06-30T16:03:02Z",
+    "pushed_at": "2026-06-30T16:02:45Z",
+    "discovered_at": "2026-06-30T18:38:23.997Z"
+  },
+  "silassiai/laravel-email-validation": {
+    "name": "Silassiai/laravel-email-validation",
+    "url": "https://github.com/Silassiai/laravel-email-validation",
+    "description": "Validate your email with this email validation package on email filter, typos. dns and spoofing.",
+    "stars": 1,
+    "forks": 2,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2022-08-02T10:53:33Z",
+    "updated_at": "2026-06-30T14:48:59Z",
+    "pushed_at": "2026-06-30T14:48:55Z",
+    "discovered_at": "2026-06-30T18:38:23.997Z"
+  },
+  "webnuvola/laravel-i18n": {
+    "name": "Webnuvola/laravel-i18n",
+    "url": "https://github.com/Webnuvola/laravel-i18n",
+    "description": "This package allows you to split your website into multiple regions with route translation support.",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "i18n",
+      "internationalization",
+      "laravel",
+      "localization",
+      "php",
+      "translation"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2018-01-16T08:38:28Z",
+    "updated_at": "2026-06-30T13:59:28Z",
+    "pushed_at": "2026-06-30T14:02:10Z",
+    "discovered_at": "2026-06-30T18:38:23.997Z"
+  },
+  "jeffersonlab/laravel-utilities": {
+    "name": "JeffersonLab/laravel-utilities",
+    "url": "https://github.com/JeffersonLab/laravel-utilities",
+    "description": "A package of helpful utilities for use in Laravel applications.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "acg",
+      "laravel-package"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2019-02-26T16:05:52Z",
+    "updated_at": "2026-06-30T13:53:06Z",
+    "pushed_at": "2026-06-30T13:54:29Z",
+    "discovered_at": "2026-06-30T18:38:23.997Z"
+  },
+  "lbhurtado/engagespark": {
+    "name": "lbhurtado/engagespark",
+    "url": "https://github.com/lbhurtado/engagespark",
+    "description": "This package makes it easy to send SMS notifications via engageSPARK with Laravel.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2019-05-05T03:14:23Z",
+    "updated_at": "2026-06-30T13:32:00Z",
+    "pushed_at": "2026-06-30T13:32:40Z",
+    "discovered_at": "2026-06-30T18:38:23.997Z"
+  },
+  "jeffersongoncalves/laravel-commerce-storefront": {
+    "name": "jeffersongoncalves/laravel-commerce-storefront",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-storefront",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (storefront). Do not open PRs here.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php",
+      "store-api"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T18:16:35Z",
+    "updated_at": "2026-06-30T18:17:22Z",
+    "pushed_at": "2026-06-30T18:17:30Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-suite": {
+    "name": "jeffersongoncalves/laravel-commerce-suite",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-suite",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (suite). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:21:46Z",
+    "updated_at": "2026-06-30T18:17:21Z",
+    "pushed_at": "2026-06-30T18:17:17Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-order": {
+    "name": "jeffersongoncalves/laravel-commerce-order",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-order",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (order). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:29Z",
+    "updated_at": "2026-06-30T18:10:26Z",
+    "pushed_at": "2026-06-30T18:17:16Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-currency": {
+    "name": "jeffersongoncalves/laravel-commerce-currency",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-currency",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (currency). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:21:52Z",
+    "updated_at": "2026-06-30T18:10:26Z",
+    "pushed_at": "2026-06-30T18:17:32Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-checkout": {
+    "name": "jeffersongoncalves/laravel-commerce-checkout",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-checkout",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (checkout). Do not open PRs here.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T18:01:28Z",
+    "updated_at": "2026-06-30T18:10:28Z",
+    "pushed_at": "2026-06-30T18:17:25Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-payment": {
+    "name": "jeffersongoncalves/laravel-commerce-payment",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-payment",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (payment). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:31Z",
+    "updated_at": "2026-06-30T18:10:22Z",
+    "pushed_at": "2026-06-30T18:17:16Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-cart": {
+    "name": "jeffersongoncalves/laravel-commerce-cart",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-cart",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (cart). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:26Z",
+    "updated_at": "2026-06-30T18:02:28Z",
+    "pushed_at": "2026-06-30T18:17:14Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-product": {
+    "name": "jeffersongoncalves/laravel-commerce-product",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-product",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (product). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:15Z",
+    "updated_at": "2026-06-30T18:02:20Z",
+    "pushed_at": "2026-06-30T18:17:30Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-user": {
+    "name": "jeffersongoncalves/laravel-commerce-user",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-user",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (user). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:10Z",
+    "updated_at": "2026-06-30T13:36:17Z",
+    "pushed_at": "2026-06-30T18:17:15Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-store-credit": {
+    "name": "jeffersongoncalves/laravel-commerce-store-credit",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-store-credit",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (store-credit). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:46Z",
+    "updated_at": "2026-06-30T13:36:34Z",
+    "pushed_at": "2026-06-30T18:17:27Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-inventory": {
+    "name": "jeffersongoncalves/laravel-commerce-inventory",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-inventory",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (inventory). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:21Z",
+    "updated_at": "2026-06-30T13:36:22Z",
+    "pushed_at": "2026-06-30T18:17:24Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-customer": {
+    "name": "jeffersongoncalves/laravel-commerce-customer",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-customer",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (customer). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:23Z",
+    "updated_at": "2026-06-30T13:36:24Z",
+    "pushed_at": "2026-06-30T18:17:17Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-pricing": {
+    "name": "jeffersongoncalves/laravel-commerce-pricing",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-pricing",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (pricing). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:18Z",
+    "updated_at": "2026-06-30T13:36:21Z",
+    "pushed_at": "2026-06-30T18:17:30Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-region": {
+    "name": "jeffersongoncalves/laravel-commerce-region",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-region",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (region). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:00Z",
+    "updated_at": "2026-06-30T13:36:14Z",
+    "pushed_at": "2026-06-30T18:17:17Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-translation": {
+    "name": "jeffersongoncalves/laravel-commerce-translation",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-translation",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (translation). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:49Z",
+    "updated_at": "2026-06-30T13:36:35Z",
+    "pushed_at": "2026-06-30T18:17:17Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-core": {
+    "name": "jeffersongoncalves/laravel-commerce-core",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-core",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (core). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:21:49Z",
+    "updated_at": "2026-06-30T13:36:08Z",
+    "pushed_at": "2026-06-30T18:17:14Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-loyalty": {
+    "name": "jeffersongoncalves/laravel-commerce-loyalty",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-loyalty",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (loyalty). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:43Z",
+    "updated_at": "2026-06-30T13:36:33Z",
+    "pushed_at": "2026-06-30T18:17:12Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-tax": {
+    "name": "jeffersongoncalves/laravel-commerce-tax",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-tax",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (tax). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:37Z",
+    "updated_at": "2026-06-30T13:36:30Z",
+    "pushed_at": "2026-06-30T18:17:13Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-auth": {
+    "name": "jeffersongoncalves/laravel-commerce-auth",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-auth",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (auth). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:13Z",
+    "updated_at": "2026-06-30T13:36:19Z",
+    "pushed_at": "2026-06-30T18:17:25Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-sales-channel": {
+    "name": "jeffersongoncalves/laravel-commerce-sales-channel",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-sales-channel",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (sales-channel). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:21:57Z",
+    "updated_at": "2026-06-30T13:36:12Z",
+    "pushed_at": "2026-06-30T18:17:14Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-api-key": {
+    "name": "jeffersongoncalves/laravel-commerce-api-key",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-api-key",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (api-key). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:06Z",
+    "updated_at": "2026-06-30T13:36:16Z",
+    "pushed_at": "2026-06-30T18:17:29Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-promotion": {
+    "name": "jeffersongoncalves/laravel-commerce-promotion",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-promotion",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (promotion). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:40Z",
+    "updated_at": "2026-06-30T13:36:32Z",
+    "pushed_at": "2026-06-30T18:17:22Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-store": {
+    "name": "jeffersongoncalves/laravel-commerce-store",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-store",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (store). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:21:55Z",
+    "updated_at": "2026-06-30T13:36:11Z",
+    "pushed_at": "2026-06-30T18:17:17Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-stock-location": {
+    "name": "jeffersongoncalves/laravel-commerce-stock-location",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-stock-location",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (stock-location). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:03Z",
+    "updated_at": "2026-06-30T13:36:15Z",
+    "pushed_at": "2026-06-30T18:17:31Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/laravel-commerce-fulfillment": {
+    "name": "jeffersongoncalves/laravel-commerce-fulfillment",
+    "url": "https://github.com/jeffersongoncalves/laravel-commerce-fulfillment",
+    "description": "Read-only split mirror of jeffersongoncalves/laravel-commerce (fulfillment). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "medusa",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:22:34Z",
+    "updated_at": "2026-06-30T13:36:29Z",
+    "pushed_at": "2026-06-30T18:17:17Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "tawshiqulislam/laravel-llm-failover": {
+    "name": "tawshiqulislam/laravel-llm-failover",
+    "url": "https://github.com/tawshiqulislam/laravel-llm-failover",
+    "description": "A provider-agnostic LLM gateway for Laravel with retries, graceful failover, chronological chat history, and pluggable AI drivers.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "laravel-package",
+      "llm"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-23T17:28:52Z",
+    "updated_at": "2026-06-30T15:21:38Z",
+    "pushed_at": "2026-06-23T18:20:01Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-product": {
+    "name": "jeffersongoncalves/filament-commerce-product",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-product",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (product). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:25Z",
+    "updated_at": "2026-06-30T18:22:15Z",
+    "pushed_at": "2026-06-30T18:36:38Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-order": {
+    "name": "jeffersongoncalves/filament-commerce-order",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-order",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (order). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:38Z",
+    "updated_at": "2026-06-30T18:22:14Z",
+    "pushed_at": "2026-06-30T18:36:52Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce": {
+    "name": "jeffersongoncalves/filament-commerce",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce",
+    "description": "Medusa-style commerce admin for Laravel, built on Filament v5 — 21 module plugins (catalog, orders, payments, fulfillment, promotions and more). Development monorepo; components split read-only to filament-commerce-*.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "medusa",
+      "monorepo",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:24:55Z",
+    "updated_at": "2026-06-30T18:22:02Z",
+    "pushed_at": "2026-06-30T18:36:23Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-region": {
+    "name": "jeffersongoncalves/filament-commerce-region",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-region",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (region). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:11Z",
+    "updated_at": "2026-06-30T13:37:01Z",
+    "pushed_at": "2026-06-30T18:36:48Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-customer": {
+    "name": "jeffersongoncalves/filament-commerce-customer",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-customer",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (customer). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:33Z",
+    "updated_at": "2026-06-30T13:37:14Z",
+    "pushed_at": "2026-06-30T18:36:35Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-currency": {
+    "name": "jeffersongoncalves/filament-commerce-currency",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-currency",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (currency). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:03Z",
+    "updated_at": "2026-06-30T13:36:57Z",
+    "pushed_at": "2026-06-30T18:36:47Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-promotion": {
+    "name": "jeffersongoncalves/filament-commerce-promotion",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-promotion",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (promotion). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:50Z",
+    "updated_at": "2026-06-30T13:37:22Z",
+    "pushed_at": "2026-06-30T18:36:39Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-loyalty": {
+    "name": "jeffersongoncalves/filament-commerce-loyalty",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-loyalty",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (loyalty). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:53Z",
+    "updated_at": "2026-06-30T13:37:23Z",
+    "pushed_at": "2026-06-30T18:36:50Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-inventory": {
+    "name": "jeffersongoncalves/filament-commerce-inventory",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-inventory",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (inventory). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:30Z",
+    "updated_at": "2026-06-30T13:37:13Z",
+    "pushed_at": "2026-06-30T18:36:38Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-user": {
+    "name": "jeffersongoncalves/filament-commerce-user",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-user",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (user). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:20Z",
+    "updated_at": "2026-06-30T13:37:05Z",
+    "pushed_at": "2026-06-30T18:36:45Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-fulfillment": {
+    "name": "jeffersongoncalves/filament-commerce-fulfillment",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-fulfillment",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (fulfillment). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:44Z",
+    "updated_at": "2026-06-30T13:37:20Z",
+    "pushed_at": "2026-06-30T18:36:40Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-store-credit": {
+    "name": "jeffersongoncalves/filament-commerce-store-credit",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-store-credit",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (store-credit). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:55Z",
+    "updated_at": "2026-06-30T13:37:25Z",
+    "pushed_at": "2026-06-30T18:36:36Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-translation": {
+    "name": "jeffersongoncalves/filament-commerce-translation",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-translation",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (translation). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:58Z",
+    "updated_at": "2026-06-30T13:37:26Z",
+    "pushed_at": "2026-06-30T18:36:43Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-stock-location": {
+    "name": "jeffersongoncalves/filament-commerce-stock-location",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-stock-location",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (stock-location). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:14Z",
+    "updated_at": "2026-06-30T13:37:02Z",
+    "pushed_at": "2026-06-30T18:36:46Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-api-key": {
+    "name": "jeffersongoncalves/filament-commerce-api-key",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-api-key",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (api-key). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:17Z",
+    "updated_at": "2026-06-30T13:37:04Z",
+    "pushed_at": "2026-06-30T18:36:45Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-payment": {
+    "name": "jeffersongoncalves/filament-commerce-payment",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-payment",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (payment). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:41Z",
+    "updated_at": "2026-06-30T13:37:19Z",
+    "pushed_at": "2026-06-30T18:36:47Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-tax": {
+    "name": "jeffersongoncalves/filament-commerce-tax",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-tax",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (tax). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:47Z",
+    "updated_at": "2026-06-30T13:37:21Z",
+    "pushed_at": "2026-06-30T18:36:46Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-sales-channel": {
+    "name": "jeffersongoncalves/filament-commerce-sales-channel",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-sales-channel",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (sales-channel). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:09Z",
+    "updated_at": "2026-06-30T13:37:00Z",
+    "pushed_at": "2026-06-30T18:36:48Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-suite": {
+    "name": "jeffersongoncalves/filament-commerce-suite",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-suite",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (suite). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:24:58Z",
+    "updated_at": "2026-06-30T13:36:55Z",
+    "pushed_at": "2026-06-30T18:36:38Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-cart": {
+    "name": "jeffersongoncalves/filament-commerce-cart",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-cart",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (cart). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:35Z",
+    "updated_at": "2026-06-30T13:37:15Z",
+    "pushed_at": "2026-06-30T18:36:48Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-pricing": {
+    "name": "jeffersongoncalves/filament-commerce-pricing",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-pricing",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (pricing). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:28Z",
+    "updated_at": "2026-06-30T13:37:09Z",
+    "pushed_at": "2026-06-30T18:36:48Z",
+    "discovered_at": "2026-06-30T18:38:23.999Z"
+  },
+  "jeffersongoncalves/filament-commerce-core": {
+    "name": "jeffersongoncalves/filament-commerce-core",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-core",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (core). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:00Z",
+    "updated_at": "2026-06-30T13:36:56Z",
+    "pushed_at": "2026-06-30T18:36:41Z",
+    "discovered_at": "2026-06-30T18:38:24.000Z"
+  },
+  "jeffersongoncalves/filament-commerce-store": {
+    "name": "jeffersongoncalves/filament-commerce-store",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-store",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (store). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:06Z",
+    "updated_at": "2026-06-30T13:36:59Z",
+    "pushed_at": "2026-06-30T18:36:46Z",
+    "discovered_at": "2026-06-30T18:38:24.000Z"
+  },
+  "jeffersongoncalves/filament-commerce-auth": {
+    "name": "jeffersongoncalves/filament-commerce-auth",
+    "url": "https://github.com/jeffersongoncalves/filament-commerce-auth",
+    "description": "Read-only split mirror of jeffersongoncalves/filament-commerce (auth). Do not open PRs here.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "commerce",
+      "ecommerce",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T12:25:23Z",
+    "updated_at": "2026-06-30T13:37:06Z",
+    "pushed_at": "2026-06-30T18:36:49Z",
+    "discovered_at": "2026-06-30T18:38:24.000Z"
   }
 }

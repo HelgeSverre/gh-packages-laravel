@@ -2,16 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 4950  
-**Last updated:** 2026-06-30T07:19:39.717Z
+**Total packages tracked:** 4953  
+**Last updated:** 2026-06-30T12:42:46.662Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [rt1893/laravel-redis-throttle](https://github.com/rt1893/laravel-redis-throttle) | 0 | Built a complete, working Laravel package: laravel-redis-throttle — a Redis-back... |
+| [mecomedia/centaurus-ai](https://github.com/mecomedia/centaurus-ai) | 0 | Centaurus-AI – Laravel package by mecomedia |
+| [Ikong217/sku-generator](https://github.com/Ikong217/sku-generator) | 0 | A configurable SKU generation package for Laravel with customizable formats and ... |
 | [One-Learning-Community/laravel-model-explorer](https://github.com/One-Learning-Community/laravel-model-explorer) | 6 | Model Explorer for Laravel — a zero-config browser UI and MCP server for explori... |
 | [yezzmedia/laravel-user-support](https://github.com/yezzmedia/laravel-user-support) | 0 | laravel-user-support package |
-| [andrecorugda/synapse-app-builder](https://github.com/andrecorugda/synapse-app-builder) | 0 | Self-hosted, data-driven app builder for Laravel + Filament — visual pages, type... |
+| [andrecorugda/synapse-app-builder](https://github.com/andrecorugda/synapse-app-builder) | 3 | Self-hosted, data-driven app builder for Laravel + Filament — visual pages, type... |
 | [Bruted/sentinel-laravel](https://github.com/Bruted/sentinel-laravel) | 0 |  Laravel package for Sentinel, Redeyed's human-verification captcha — Blade dire... |
 | [muhammadahmadhammad-dot/spatie-laravel-roles-and-permission](https://github.com/muhammadahmadhammad-dot/spatie-laravel-roles-and-permission) | 0 | Simple project using laravel 11 spatie package for roles and permission from you... |
 | [sellmate/laravel-multi-tenant](https://github.com/sellmate/laravel-multi-tenant) | 0 | Laravel Multi Tenant Package |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [vizor-vr/laravel-vizor](https://github.com/vizor-vr/laravel-vizor) | 0 | A Laravel Package for the Vixor VR Player |
 | [jacksoon0804/laravel-inventory-tracker](https://github.com/jacksoon0804/laravel-inventory-tracker) | 0 | Laravel package for monitoring inventory metrics and warehouse KPIs. |
 | [jeffersongoncalves/laravel-erp](https://github.com/jeffersongoncalves/laravel-erp) | 1 | Monorepo (source-of-truth) for the Laravel ERP domain package ecosystem. Splits ... |
-| [jeffersongoncalves/laravel-erp-suite](https://github.com/jeffersongoncalves/laravel-erp-suite) | 0 | Laravel ERP suite (package jeffersongoncalves/laravel-erp) — aggregates all doma... |
-| [samojeyinka/synchrome-laravel-ai-guidelines-package](https://github.com/samojeyinka/synchrome-laravel-ai-guidelines-package) | 1 |  |
-| [morpheusadam/rtl-dashboard](https://github.com/morpheusadam/rtl-dashboard) | 10 | RTL Dashboard — a fully responsive, feature-rich Laravel 11 admin dashboard temp... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [huriellopes/cantin](https://github.com/huriellopes/cantin) | 0 | 2026-06-30 | Site do Cadastro Nacional de Terreiros Inclusivos |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 361 | 2026-06-30 | The official Laravel Nightwatch package. |
-| [yezzmedia/laravel-user-support](https://github.com/yezzmedia/laravel-user-support) | 0 | 2026-06-30 | laravel-user-support package |
-| [njoguamos/laravel-turnstile](https://github.com/njoguamos/laravel-turnstile) | 23 | 2026-06-30 | Laravel Turnstile is a Laravel package that integrates Cloud... |
-| [KroderDev/laravel-microservice-core](https://github.com/KroderDev/laravel-microservice-core) | 5 | 2026-06-30 | A Laravel package that simplifies building microservices in ... |
-| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-06-30 | A Laravel package to track revisions of Eloquent models, all... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-06-30 | Package para Laravel y facturacion |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-06-30 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [DENMOUNS/statisty](https://github.com/DENMOUNS/statisty) | 0 | 2026-06-30 | package de statistique pour laravel |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 3 | 2026-06-30 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [RenderbitTechnologies/laravel-db-url-replacer](https://github.com/RenderbitTechnologies/laravel-db-url-replacer) | 0 | 2026-06-30 | A Laravel Artisan command to search and replace URLs across ... |
-| [andrecorugda/synapse-app-builder](https://github.com/andrecorugda/synapse-app-builder) | 0 | 2026-06-30 | Self-hosted, data-driven app builder for Laravel + Filament ... |
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 146 | 2026-06-30 | A Laravel package that provides a Cookies consent floating w... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-06-30 | Source code for the new pokemon3d.net website |
-| [dsbilling/dsbilling.no](https://github.com/dsbilling/dsbilling.no) | 5 | 2026-06-30 | Just my personal website, built with the TALL stack. |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-06-30 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-30 | Laravel package for mk-director monorepo — admin module scaf... |
-| [oliwol/laravel-slugify](https://github.com/oliwol/laravel-slugify) | 2 | 2026-06-30 | A lightweight trait to easily add slug generation to your La... |
-| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-06-30 | Monorepo for Finity Labs' Filament packages |
+| [tomakakwark/wafy](https://github.com/tomakakwark/wafy) | 1 | 2026-06-30 | Laravel WAF (Web Application Firewall) |
+| [RomaLytar/yammi-audit-log](https://github.com/RomaLytar/yammi-audit-log) | 38 | 2026-06-30 | Laravel audit log & change history with real actor attributi... |
 | [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 36 | 2026-06-30 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [MuhammedMSalama/LaravelBase](https://github.com/MuhammedMSalama/LaravelBase) | 7 | 2026-06-30 | A lightweight, version-agnostic Laravel package providing a ... |
+| [hwkdo/seventhings-laravel](https://github.com/hwkdo/seventhings-laravel) | 0 | 2026-06-30 | my package for interacting with seventhings REST-API |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-06-30 | A personal portfolio built as an interactive browser-based t... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-30 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [rt1893/laravel-redis-throttle](https://github.com/rt1893/laravel-redis-throttle) | 0 | 2026-06-30 | Built a complete, working Laravel package: laravel-redis-thr... |
+| [asciisd/autochartist-laravel](https://github.com/asciisd/autochartist-laravel) | 0 | 2026-06-30 | A Laravel package to integrate autochartist platform with La... |
+| [amit-eiitech/laravel-installer](https://github.com/amit-eiitech/laravel-installer) | 3 | 2026-06-30 | A package to install Laravel applications with wizard steps. |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-30 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-30 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-06-30 | A Laravel-based web application that tracks, analyzes, and p... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-30 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-30 | Integrate Mixpanel analytics into Filament projects to track... |
+| [mohammedelkarsh/validators-laravel-ae](https://github.com/mohammedelkarsh/validators-laravel-ae) | 0 | 2026-06-30 | validators/laravel-ae split package. |
+| [mohammedelkarsh/validators-laravel-eg](https://github.com/mohammedelkarsh/validators-laravel-eg) | 0 | 2026-06-30 | validators/laravel-eg split package. |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-30 | Manage and track inventory with a PHP package that integrate... |
+| [mohammedelkarsh/validators-laravel-sa](https://github.com/mohammedelkarsh/validators-laravel-sa) | 0 | 2026-06-30 | validators/laravel-sa split package. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-06-30T12:42 | 3 | 1719 | 4953 |
 | 2026-06-30T07:19 | 11 | 1711 | 4950 |
 | 2026-06-30T00:44 | 3 | 1718 | 4939 |
 | 2026-06-29T18:42 | 5 | 1717 | 4936 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-28T18:26 | 9 | 1713 | 4914 |
 | 2026-06-28T12:30 | 2 | 1720 | 4905 |
 | 2026-06-28T07:22 | 28 | 1696 | 4903 |
-| 2026-06-28T00:45 | 0 | 1722 | 4875 |
 
 ---
 

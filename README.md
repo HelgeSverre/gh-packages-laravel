@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 5015  
-**Last updated:** 2026-07-01T00:46:40.737Z
+**Last updated:** 2026-07-01T07:31:39.554Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-01 | A practical work management information system built with La... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 362 | 2026-07-01 | The official Laravel Nightwatch package. |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 163 | 2026-06-30 | Filament plugin that allows to add dynamic, user-defined for... |
-| [tzsk/payu](https://github.com/tzsk/payu) | 47 | 2026-06-30 | Payu Laravel Payment Gateway with Payment Verification Packa... |
-| [makroz/mk-director-laravel](https://github.com/makroz/mk-director-laravel) | 0 | 2026-06-30 | Laravel package for mk-director monorepo — admin module scaf... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-06-30 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [n2ns/laravel-post2site](https://github.com/n2ns/laravel-post2site) | 2 | 2026-06-30 | Laravel backend package for the N2N Post2Site content publis... |
-| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-06-30 | A Laravel package for syncing database tables and data betwe... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-06-30 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-06-30 | A lightweight, convention-driven modular architecture packag... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-06-30 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-06-30 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-06-30 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-06-30 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-06-30 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-06-30 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-06-30 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [mmstewart/laravel-x-ray](https://github.com/mmstewart/laravel-x-ray) | 0 | 2026-06-30 | Know what's broken before you upgrade. Free, open source, ru... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-06-30 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [andrecorugda/synapse-app-builder](https://github.com/andrecorugda/synapse-app-builder) | 3 | 2026-07-01 | Self-hosted, data-driven app builder for Laravel + Filament ... |
+| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-07-01 | Laravel package that logs third-party HTTP traffic (outgoing... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-01 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-01 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | 2026-07-01 | Read-only Filament panel plugin for Chronicle |
+| [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) | 7 | 2026-07-01 | Check the queue size with Spatie Health Package |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-01 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-01 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-01 | Manage and track inventory with a PHP package that integrate... |
+| [AhmadIkbalDjaya/simkar](https://github.com/AhmadIkbalDjaya/simkar) | 0 | 2026-07-01 | A Laravel-based Room Transfer Information System for managin... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-01 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 36 | 2026-07-01 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-01 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [dixit1948/Restaurant-Management-System](https://github.com/dixit1948/Restaurant-Management-System) | 3 | 2026-07-01 | A modern full-stack Restaurant POS & Online Ordering System ... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-01 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 9 | 2026-07-01 | Kompass A Laravel CMS |
+| [AuroraWebSoftware/connective](https://github.com/AuroraWebSoftware/connective) | 10 | 2026-07-01 | The Laravel Connective package provides a simple and graph-l... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-01 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-01 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-01T07:31 | 0 | 1724 | 5015 |
 | 2026-07-01T00:46 | 5 | 1719 | 5015 |
 | 2026-06-30T18:38 | 57 | 1664 | 5010 |
 | 2026-06-30T12:42 | 3 | 1719 | 4953 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-29T13:30 | 11 | 1710 | 4931 |
 | 2026-06-29T07:44 | 3 | 1720 | 4920 |
 | 2026-06-29T00:46 | 4 | 1718 | 4917 |
-| 2026-06-28T18:26 | 9 | 1713 | 4914 |
 
 ---
 

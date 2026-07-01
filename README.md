@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5015  
-**Last updated:** 2026-07-01T07:31:39.554Z
+**Total packages tracked:** 5018  
+**Last updated:** 2026-07-01T12:58:45.333Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [sm-me-dev/laravel-redis-model-cache](https://github.com/sm-me-dev/laravel-redis-model-cache) | 0 | Optimize your Laravel application with a native Redis caching layer for Eloquent... |
+| [Enadabuzaid/laravel-action-logger](https://github.com/Enadabuzaid/laravel-action-logger) | 0 | A clean, reusable Action Logger / Audit Log package for Laravel with multi-tenan... |
+| [CreativeCrafts/laravel-ai-agent-kit](https://github.com/CreativeCrafts/laravel-ai-agent-kit) | 1 | Laravel AI Agent Kit is a Laravel package that delivers a full agent‑workflow to... |
 | [jeffersongoncalves/laravel-commerce-admin](https://github.com/jeffersongoncalves/laravel-commerce-admin) | 0 | Read-only split mirror of jeffersongoncalves/laravel-commerce (admin). Do not op... |
 | [mmstewart/laravel-x-ray](https://github.com/mmstewart/laravel-x-ray) | 0 | Know what's broken before you upgrade. Free, open source, runs entirely in your ... |
 | [yezzmedia/laravel-dashboard](https://github.com/yezzmedia/laravel-dashboard) | 0 | laravel-dashboard package |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/laravel-commerce-cart](https://github.com/jeffersongoncalves/laravel-commerce-cart) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (cart). Do not ope... |
 | [jeffersongoncalves/laravel-commerce-product](https://github.com/jeffersongoncalves/laravel-commerce-product) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (product). Do not ... |
 | [jeffersongoncalves/laravel-commerce-user](https://github.com/jeffersongoncalves/laravel-commerce-user) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (user). Do not ope... |
-| [jeffersongoncalves/laravel-commerce-store-credit](https://github.com/jeffersongoncalves/laravel-commerce-store-credit) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (store-credit). Do... |
-| [jeffersongoncalves/laravel-commerce-inventory](https://github.com/jeffersongoncalves/laravel-commerce-inventory) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (inventory). Do no... |
-| [jeffersongoncalves/laravel-commerce-customer](https://github.com/jeffersongoncalves/laravel-commerce-customer) | 1 | Read-only split mirror of jeffersongoncalves/laravel-commerce (customer). Do not... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [huriellopes/cantin](https://github.com/huriellopes/cantin) | 0 | 2026-07-01 | Site do Cadastro Nacional de Terreiros Inclusivos |
+| [ArtemYurov/laravel-incremental-db-sync](https://github.com/ArtemYurov/laravel-incremental-db-sync) | 2 | 2026-07-01 | Laravel package for synchronizing PostgreSQL databases from ... |
+| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 273 | 2026-07-01 | Queue Monitoring Package for Filament  |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 187 | 2026-07-01 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [yezzmedia/laravel-ops-analytics](https://github.com/yezzmedia/laravel-ops-analytics) | 0 | 2026-07-01 | Ops-facing analytics delivery posture, tracker health, and c... |
 | [andrecorugda/synapse-app-builder](https://github.com/andrecorugda/synapse-app-builder) | 3 | 2026-07-01 | Self-hosted, data-driven app builder for Laravel + Filament ... |
-| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-07-01 | Laravel package that logs third-party HTTP traffic (outgoing... |
+| [ades4827/sprintflow](https://github.com/ades4827/sprintflow) | 1 | 2026-07-01 | Laravel Package for speed up your project development |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-01 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [yezzmedia/laravel-user-support](https://github.com/yezzmedia/laravel-user-support) | 0 | 2026-07-01 | laravel-user-support package |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-01 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [kreatifIT/laravel-codice-fiscale](https://github.com/kreatifIT/laravel-codice-fiscale) | 0 | 2026-07-01 | Laravel package for Italian Codice Fiscale (Tax Code) |
+| [AhmadIkbalDjaya/simkar](https://github.com/AhmadIkbalDjaya/simkar) | 0 | 2026-07-01 | A Laravel-based Room Transfer Information System for managin... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-01 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-01 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | 2026-07-01 | Read-only Filament panel plugin for Chronicle |
-| [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) | 7 | 2026-07-01 | Check the queue size with Spatie Health Package |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-01 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-01 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-01 | Manage and track inventory with a PHP package that integrate... |
-| [AhmadIkbalDjaya/simkar](https://github.com/AhmadIkbalDjaya/simkar) | 0 | 2026-07-01 | A Laravel-based Room Transfer Information System for managin... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-01 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 36 | 2026-07-01 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-01 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [dixit1948/Restaurant-Management-System](https://github.com/dixit1948/Restaurant-Management-System) | 3 | 2026-07-01 | A modern full-stack Restaurant POS & Online Ordering System ... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-01 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 9 | 2026-07-01 | Kompass A Laravel CMS |
-| [AuroraWebSoftware/connective](https://github.com/AuroraWebSoftware/connective) | 10 | 2026-07-01 | The Laravel Connective package provides a simple and graph-l... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-01 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-01 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [sm-me-dev/laravel-redis-model-cache](https://github.com/sm-me-dev/laravel-redis-model-cache) | 0 | 2026-07-01 | Optimize your Laravel application with a native Redis cachin... |
+| [yezzmedia/laravel-user-consent](https://github.com/yezzmedia/laravel-user-consent) | 0 | 2026-07-01 | laravel-user-consent package |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-07-01 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-01T12:58 | 3 | 1721 | 5018 |
 | 2026-07-01T07:31 | 0 | 1724 | 5015 |
 | 2026-07-01T00:46 | 5 | 1719 | 5015 |
 | 2026-06-30T18:38 | 57 | 1664 | 5010 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-06-29T18:42 | 5 | 1717 | 4936 |
 | 2026-06-29T13:30 | 11 | 1710 | 4931 |
 | 2026-06-29T07:44 | 3 | 1720 | 4920 |
-| 2026-06-29T00:46 | 4 | 1718 | 4917 |
 
 ---
 

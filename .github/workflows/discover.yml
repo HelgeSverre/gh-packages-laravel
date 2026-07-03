@@ -2,7 +2,7 @@ name: Discover Laravel Packages
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '20 */6 * * *'
   workflow_dispatch:
 
 permissions:

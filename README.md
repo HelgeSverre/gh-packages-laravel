@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 5057  
-**Last updated:** 2026-07-03T09:40:45.740Z
+**Last updated:** 2026-07-03T09:44:43.407Z
 
 ## 📦 Recently Discovered
 
@@ -59,8 +59,9 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [poldixd/laravel-sa11y](https://github.com/poldixd/laravel-sa11y) | 0 | 2026-07-03 | This package integrates Sa11y into your Laravel application. |
 | [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 3 | 2026-07-03 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [maliang/lartrix](https://github.com/maliang/lartrix) | 1 | 2026-07-03 | Laravel Admin Package. Build modern admin panels quickly wit... |
+| [poldixd/laravel-sa11y](https://github.com/poldixd/laravel-sa11y) | 0 | 2026-07-03 | This package integrates Sa11y into your Laravel application. |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [padosoft/laravel-iam-console](https://github.com/padosoft/laravel-iam-console) | 1 | 2026-07-03 | Deployable Laravel IAM control plane: all IAM packages + web... |
 | [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | 2026-07-03 | Read-only Filament panel plugin for Chronicle |
@@ -78,7 +79,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mjedari/larafilter](https://github.com/mjedari/larafilter) | 8 | 2026-07-03 | This package is a simple object-oriented query string filter... |
 | [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 15 | 2026-07-03 | FilaKit starter kit built on Laravel 13.x and Filament 5.x w... |
 | [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-07-03 | Package analytics laravel + livewire |
-| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-03 | Laravel package that validates all UK post codes. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-03T09:44 | 0 | 1724 | 5057 |
 | 2026-07-03T09:40 | 3 | 1721 | 5057 |
 | 2026-07-03T07:06 | 13 | 1711 | 5054 |
 | 2026-07-03T00:36 | 1 | 1722 | 5041 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-02T00:44 | 2 | 1723 | 5029 |
 | 2026-07-01T18:40 | 9 | 1714 | 5027 |
 | 2026-07-01T12:58 | 3 | 1721 | 5018 |
-| 2026-07-01T07:31 | 0 | 1724 | 5015 |
 
 ---
 

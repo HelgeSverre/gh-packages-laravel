@@ -10,13 +10,19 @@ permissions:
   pages: write
   id-token: write
 
+# Serialize Pages deployments so overlapping runs cannot invalidate each
+# other's in-flight deployment (a cause of "Deployment failed, try again later").
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   discover:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: '22'
       
@@ -49,17 +55,17 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           ref: main
       
       - run: git pull origin main
       
-      - uses: actions/configure-pages@v4
+      - uses: actions/configure-pages@v6
       
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: docs
       
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

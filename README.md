@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5057  
-**Last updated:** 2026-07-03T09:44:43.407Z
+**Total packages tracked:** 5058  
+**Last updated:** 2026-07-03T13:02:41.891Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [GenAIIO/php-boot](https://github.com/GenAIIO/php-boot) | 0 | Application kernel with Composer-based package auto-discovery (Laravel style): r... |
 | [Promethys/revive](https://github.com/Promethys/revive) | 16 |  |
 | [mjedari/larafilter](https://github.com/mjedari/larafilter) | 8 | This package is a simple object-oriented query string filter for Laravel applica... |
 | [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 0 | Laravel + Filament 4 CMS foundation: visual page builder, installable plugins & ... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [edulazaro/laranon](https://github.com/edulazaro/laranon) | 0 | Anonymizer package for Laravel |
 | [morpheusadam/MobileMart](https://github.com/morpheusadam/MobileMart) | 1 | Modular Laravel 10 mobile & electronics store built with Livewire 3 and Tailwind... |
 | [morpheusadam/RtlForge](https://github.com/morpheusadam/RtlForge) | 10 | Responsive, feature-rich Laravel 11 admin dashboard template engineered for righ... |
-| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 1 | Customer-configurable outgoing webhooks for Laravel with endpoint subscriptions,... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -50,8 +50,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 439 | A modern PostGIS toolbox for Laravel |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 437 | A media picker plugin for Filament Panels. |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | A media picker plugin for Filament Panels. |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 433 | Track page views, visitors, and audience analytics with an elegant Laravel packa... |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 433 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 3 | 2026-07-03 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [maliang/lartrix](https://github.com/maliang/lartrix) | 1 | 2026-07-03 | Laravel Admin Package. Build modern admin panels quickly wit... |
-| [poldixd/laravel-sa11y](https://github.com/poldixd/laravel-sa11y) | 0 | 2026-07-03 | This package integrates Sa11y into your Laravel application. |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [padosoft/laravel-iam-console](https://github.com/padosoft/laravel-iam-console) | 1 | 2026-07-03 | Deployable Laravel IAM control plane: all IAM packages + web... |
-| [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | 2026-07-03 | Read-only Filament panel plugin for Chronicle |
-| [timo-de-winter/filament-modifiable-plugins](https://github.com/timo-de-winter/filament-modifiable-plugins) | 1 | 2026-07-03 | This package aims to make it easier to create filament plugi... |
-| [timo-de-winter/laravel-docker](https://github.com/timo-de-winter/laravel-docker) | 0 | 2026-07-03 | A package that adds docker features to your project for loca... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 37 | 2026-07-03 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-07-03 | Resrv is a booking engine for Statamic. |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 43 | 2026-07-03 | The ultimate form components kit and custom fields builder f... |
+| [dinushchathurya/srilankan-universities-faculties-degrees](https://github.com/dinushchathurya/srilankan-universities-faculties-degrees) | 1 | 2026-07-03 | :computer: All Srilankan Universities, Faculties and Undegra... |
 | [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 333 | 2026-07-03 | The NativePHP website |
-| [syedmahamudul/laravel-sslcommerz](https://github.com/syedmahamudul/laravel-sslcommerz) | 2 | 2026-07-03 | Simple and flexible SSLCommerz payment gateway package for L... |
-| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-07-03 | Open core Laravel package for building a self-hosted Trustbi... |
-| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-07-03 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-03 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-07-03 | The Moox Project - Packages for Filament and Laravel |
-| [mjedari/larafilter](https://github.com/mjedari/larafilter) | 8 | 2026-07-03 | This package is a simple object-oriented query string filter... |
-| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 15 | 2026-07-03 | FilaKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-03 | This Laravel package validates all Sri Lankan telephone numb... |
 | [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-07-03 | Package analytics laravel + livewire |
+| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-07-03 | Open core Laravel package for building a self-hosted Trustbi... |
+| [ArtisanPack-UI/performance](https://github.com/ArtisanPack-UI/performance) | 0 | 2026-07-03 | Optimize your Laravel application's speed and efficiency wit... |
+| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-03 | This package is a Laravel package that contains all National... |
+| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-03 |  |
+| [dinushchathurya/laravel-roles-and-permission](https://github.com/dinushchathurya/laravel-roles-and-permission) | 0 | 2026-07-03 | Laravel Role and Permission example with Spatie package |
+| [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | 2026-07-03 | Laravel Livewire CRUD |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-07-03 | The Moox Project - Packages for Filament and Laravel |
+| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-03 | This is a Laravel demo application of identifying the user's... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-03 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-07-03 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-07-03 | Resrv is a booking engine for Statamic. |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 5 | 2026-07-03 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-03 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-03 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-03 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-03T13:02 | 1 | 1721 | 5058 |
 | 2026-07-03T09:44 | 0 | 1724 | 5057 |
 | 2026-07-03T09:40 | 3 | 1721 | 5057 |
 | 2026-07-03T07:06 | 13 | 1711 | 5054 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-02T07:09 | 2 | 1722 | 5031 |
 | 2026-07-02T00:44 | 2 | 1723 | 5029 |
 | 2026-07-01T18:40 | 9 | 1714 | 5027 |
-| 2026-07-01T12:58 | 3 | 1721 | 5018 |
 
 ---
 

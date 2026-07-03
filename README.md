@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5054  
-**Last updated:** 2026-07-03T07:06:36.945Z
+**Total packages tracked:** 5057  
+**Last updated:** 2026-07-03T09:40:45.740Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Promethys/revive](https://github.com/Promethys/revive) | 16 |  |
+| [mjedari/larafilter](https://github.com/mjedari/larafilter) | 8 | This package is a simple object-oriented query string filter for Laravel applica... |
+| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 0 | Laravel + Filament 4 CMS foundation: visual page builder, installable plugins & ... |
 | [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | Laravel Livewire CRUD |
 | [dinushchathurya/srilankan-universities-faculties-degrees](https://github.com/dinushchathurya/srilankan-universities-faculties-degrees) | 1 | :computer: All Srilankan Universities, Faculties and Undegraduate Degrees. |
 | [poshtive/laravel-router](https://github.com/poshtive/laravel-router) | 0 | Laravel Router - Automatic router for Laravel 13 |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [morpheusadam/MobileMart](https://github.com/morpheusadam/MobileMart) | 1 | Modular Laravel 10 mobile & electronics store built with Livewire 3 and Tailwind... |
 | [morpheusadam/RtlForge](https://github.com/morpheusadam/RtlForge) | 10 | Responsive, feature-rich Laravel 11 admin dashboard template engineered for righ... |
 | [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 1 | Customer-configurable outgoing webhooks for Laravel with endpoint subscriptions,... |
-| [SaliBhdr/typhoon-iran-cities](https://github.com/SaliBhdr/typhoon-iran-cities) | 61 | A Laravel package for importing regions of Iran such as provinces, counties, sec... |
-| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | Package analytics laravel + livewire |
-| [morpheusadam/SmsForge](https://github.com/morpheusadam/SmsForge) | 5 | Robust Laravel/PHP SMS & OTP package with a unified API across multiple provider... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-03 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-07-03 | [READ ONLY] API Platform for Laravel |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 0 | 2026-07-03 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [SaAkSin/Laravel-Administrator](https://github.com/SaAkSin/Laravel-Administrator) | 1 | 2026-07-03 | An administrative interface package for Laravel |
-| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-07-03 | Laravel and Livewire admin panel scaffold for car-rental ope... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-03 | 💰 Simplify your financial management with Finova, an open-s... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-07-03 | The Moox Project - Packages for Filament and Laravel |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-03 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [codewithathis/paperless-ngx](https://github.com/codewithathis/paperless-ngx) | 0 | 2026-07-03 | A Laravel package for managing Paperless-ngx via its API, pr... |
-| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 1 | 2026-07-03 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-03 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-03 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [poldixd/laravel-sa11y](https://github.com/poldixd/laravel-sa11y) | 0 | 2026-07-03 | This package integrates Sa11y into your Laravel application. |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 3 | 2026-07-03 | Martis — Laravel Admin Engine. A modern, override-first admi... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-03 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-03 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-03 | An event sourcing laravel package, complete with all the ess... |
+| [padosoft/laravel-iam-console](https://github.com/padosoft/laravel-iam-console) | 1 | 2026-07-03 | Deployable Laravel IAM control plane: all IAM packages + web... |
+| [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | 2026-07-03 | Read-only Filament panel plugin for Chronicle |
+| [timo-de-winter/filament-modifiable-plugins](https://github.com/timo-de-winter/filament-modifiable-plugins) | 1 | 2026-07-03 | This package aims to make it easier to create filament plugi... |
+| [timo-de-winter/laravel-docker](https://github.com/timo-de-winter/laravel-docker) | 0 | 2026-07-03 | A package that adds docker features to your project for loca... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 37 | 2026-07-03 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-07-03 | Resrv is a booking engine for Statamic. |
 | [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 43 | 2026-07-03 | The ultimate form components kit and custom fields builder f... |
-| [oliwol/laravel-slugify](https://github.com/oliwol/laravel-slugify) | 2 | 2026-07-03 | A lightweight trait to easily add slug generation to your La... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 333 | 2026-07-03 | The NativePHP website |
+| [syedmahamudul/laravel-sslcommerz](https://github.com/syedmahamudul/laravel-sslcommerz) | 2 | 2026-07-03 | Simple and flexible SSLCommerz payment gateway package for L... |
+| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-07-03 | Open core Laravel package for building a self-hosted Trustbi... |
+| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-07-03 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-03 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-07-03 | The Moox Project - Packages for Filament and Laravel |
+| [mjedari/larafilter](https://github.com/mjedari/larafilter) | 8 | 2026-07-03 | This package is a simple object-oriented query string filter... |
+| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 15 | 2026-07-03 | FilaKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-07-03 | Package analytics laravel + livewire |
+| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-03 | Laravel package that validates all UK post codes. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-03T09:40 | 3 | 1721 | 5057 |
 | 2026-07-03T07:06 | 13 | 1711 | 5054 |
 | 2026-07-03T00:36 | 1 | 1722 | 5041 |
 | 2026-07-02T18:32 | 6 | 1716 | 5040 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-01T18:40 | 9 | 1714 | 5027 |
 | 2026-07-01T12:58 | 3 | 1721 | 5018 |
 | 2026-07-01T07:31 | 0 | 1724 | 5015 |
-| 2026-07-01T00:46 | 5 | 1719 | 5015 |
 
 ---
 

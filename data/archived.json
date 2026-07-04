@@ -617,5 +617,27 @@
     "discovered_at": "2026-02-19T00:44:48.868Z",
     "archived_at": "2026-06-29T00:46:22.276Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "tegaraditya/mmj-sales-dashboard": {
+    "name": "TegarAditya/mmj-sales-dashboard",
+    "url": "https://github.com/TegarAditya/mmj-sales-dashboard",
+    "description": "Sales Utility Dashboard",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "filament",
+      "laravel",
+      "livewire",
+      "mysql",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-04-23T09:32:47Z",
+    "updated_at": "2025-07-04T08:51:43Z",
+    "pushed_at": "2025-07-04T08:51:40Z",
+    "discovered_at": "2026-02-19T00:44:48.868Z",
+    "archived_at": "2026-07-04T12:46:56.729Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

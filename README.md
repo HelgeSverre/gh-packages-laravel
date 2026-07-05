@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5082  
-**Last updated:** 2026-07-05T01:08:35.784Z
+**Total packages tracked:** 5083  
+**Last updated:** 2026-07-05T07:32:47.394Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [vaened/laravel-authorization](https://github.com/vaened/laravel-authorization) | 3 | Package for the management of authorizations for Laravel |
 | [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | Synchronized common files for open source Laravel packages |
 | [ovarun/laravel-disposable-email-validation](https://github.com/ovarun/laravel-disposable-email-validation) | 1 | Laravel package to detect disposable email addresses using disposable email doma... |
 | [pionl/laravel-support-eloquent](https://github.com/pionl/laravel-support-eloquent) | 3 | Package with small support traits and classes for the Laravel Eloquent models |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mohamedelmasry199/elmasry-starter-kit](https://github.com/mohamedelmasry199/elmasry-starter-kit) | 0 | All-in-one Laravel starter package: Filament v5 admin panel, Arabic/English mult... |
 | [amdad121/custodian-laravel](https://github.com/amdad121/custodian-laravel) | 0 | A powerful, flexible, and developer-friendly role and permission management syst... |
 | [DevinNorgarb/devtube](https://github.com/DevinNorgarb/devtube) | 36 | Laravel YouTube and Online Video viewing and download interface.  |
-| [AMgrade/laravel-heimdall](https://github.com/AMgrade/laravel-heimdall) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -52,33 +52,33 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | A media picker plugin for Filament Panels. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 433 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 434 | Open Source Laravel CRM Package |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 433 | Track page views, visitors, and audience analytics with an elegant Laravel packa... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-05 | This package is a Laravel package that contains all National... |
-| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-05 |  |
-| [dinushchathurya/laravel-roles-and-permission](https://github.com/dinushchathurya/laravel-roles-and-permission) | 0 | 2026-07-05 | Laravel Role and Permission example with Spatie package |
-| [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | 2026-07-05 | Laravel Livewire CRUD |
-| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-05 | This is a Laravel demo application of identifying the user's... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-05 | An event sourcing laravel package, complete with all the ess... |
-| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | 2026-07-05 | Synchronized common files for open source Laravel packages |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-07-05 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [cosmira/sandbox](https://github.com/cosmira/sandbox) | 0 | 2026-07-05 | Laravel package for dual-table sandbox editing |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-05 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-04 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-04 | Prevent risky Laravel database migrations with static analys... |
-| [Mahmoud1478/MMAE-Phones](https://github.com/Mahmoud1478/MMAE-Phones) | 1 | 2026-07-04 | laravel package to make interact with phone number easier |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-04 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-04 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-04 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-04 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-04 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-05 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-05 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-05 | Provides email verification on the go. |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-05 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-05 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-07-05 | Simple package for adding directives to show/hide content fr... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-05 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-05 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-05 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-07-05 | Laravel USPS Package to integrate USPS Address |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-07-05 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-05 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-07-05 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-07-05 | Laravel and Livewire admin panel scaffold for car-rental ope... |
+| [LavioDev/eam-mes-package](https://github.com/LavioDev/eam-mes-package) | 0 | 2026-07-05 | A lightweight Laravel package with database migrations and r... |
+| [smirltech/laravel-media](https://github.com/smirltech/laravel-media) | 0 | 2026-07-05 | Associate media with your eloquent models |
+| [michaelbudd1/eventsourcerer-laravel](https://github.com/michaelbudd1/eventsourcerer-laravel) | 1 | 2026-07-05 | A Laravel package that provides support for Laravel |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-05 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [siko001/atx-ticket-event-laravel](https://github.com/siko001/atx-ticket-event-laravel) | 0 | 2026-07-05 | Laravel Package for Filament admin |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-05 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-05T07:32 | 1 | 1726 | 5083 |
 | 2026-07-05T01:08 | 3 | 1723 | 5082 |
 | 2026-07-04T18:41 | 3 | 1722 | 5079 |
 | 2026-07-04T12:46 | 9 | 1717 | 5076 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-03T13:02 | 1 | 1721 | 5058 |
 | 2026-07-03T09:44 | 0 | 1724 | 5057 |
 | 2026-07-03T09:40 | 3 | 1721 | 5057 |
-| 2026-07-03T07:06 | 13 | 1711 | 5054 |
 
 ---
 

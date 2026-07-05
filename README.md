@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5083  
-**Last updated:** 2026-07-05T07:32:47.394Z
+**Total packages tracked:** 5088  
+**Last updated:** 2026-07-05T12:48:41.128Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [pushery/polyslug-for-laravel](https://github.com/pushery/polyslug-for-laravel) | 1 | Polyslug gives Laravel Eloquent models multilingual, polymorphic, SEO-friendly U... |
+| [laravel-skir/client](https://github.com/laravel-skir/client) | 0 | Laravel SkirRPC client package powered by Saloon. |
+| [md-mojahed/Mojahed-SPA](https://github.com/md-mojahed/Mojahed-SPA) | 0 | A Laravel SPA package using Alpine.js, Axios and Bootstrap |
+| [laravel-skir/server](https://github.com/laravel-skir/server) | 0 | Laravel SkirRPC server package. |
+| [HellioSolutions/helliosms](https://github.com/HellioSolutions/helliosms) | 3 | Official Laravel package that integrates with Hellio Messaging's SMS fleets of A... |
 | [vaened/laravel-authorization](https://github.com/vaened/laravel-authorization) | 3 | Package for the management of authorizations for Laravel |
 | [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | Synchronized common files for open source Laravel packages |
 | [ovarun/laravel-disposable-email-validation](https://github.com/ovarun/laravel-disposable-email-validation) | 1 | Laravel package to detect disposable email addresses using disposable email doma... |
@@ -22,13 +27,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [team-natural/system-dev-temaplate](https://github.com/team-natural/system-dev-temaplate) | 0 |  |
 | [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | Laravel package for haddowg/json-api: idiomatic routing, content negotiation, va... |
 | [siko001/atx-ticket-event-laravel](https://github.com/siko001/atx-ticket-event-laravel) | 0 | Laravel Package for Filament admin |
-| [Mahmoud1478/MMAE-Phones](https://github.com/Mahmoud1478/MMAE-Phones) | 1 | laravel package to make interact with phone number easier |
+| [Mahmoud1478/MMAE-Phones](https://github.com/Mahmoud1478/MMAE-Phones) | 2 | laravel package to make interact with phone number easier |
 | [badrshs/email-validator](https://github.com/badrshs/email-validator) | 0 | Deep email validation for PHP - Syntax, DNS, MX, and SMTP - standalone package w... |
-| [ddysiodev/ddys-laravel-package](https://github.com/ddysiodev/ddys-laravel-package) | 0 | 低端影视 API 的官方 Laravel 扩展包，支持页面、Blade 组件、短代码、代理、缓存、诊断和求片表单。 |
-| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | Gremio Linhir |
-| [mohamedelmasry199/elmasry-starter-kit](https://github.com/mohamedelmasry199/elmasry-starter-kit) | 0 | All-in-one Laravel starter package: Filament v5 admin panel, Arabic/English mult... |
-| [amdad121/custodian-laravel](https://github.com/amdad121/custodian-laravel) | 0 | A powerful, flexible, and developer-friendly role and permission management syst... |
-| [DevinNorgarb/devtube](https://github.com/DevinNorgarb/devtube) | 36 | Laravel YouTube and Online Video viewing and download interface.  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-05 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-05 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-05 | Provides email verification on the go. |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-05 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-05 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-07-05 | Simple package for adding directives to show/hide content fr... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-05 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-05 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-05 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-07-05 | Laravel USPS Package to integrate USPS Address |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-07-05 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
 | [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-07-05 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-05 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-05 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-05 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [zarbinco/laravel-iran-locations](https://github.com/zarbinco/laravel-iran-locations) | 0 | 2026-07-05 | Laravel package for Iran locations, address data, admin UI, ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-05 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-07-05 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
-| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-07-05 | Laravel and Livewire admin panel scaffold for car-rental ope... |
-| [LavioDev/eam-mes-package](https://github.com/LavioDev/eam-mes-package) | 0 | 2026-07-05 | A lightweight Laravel package with database migrations and r... |
-| [smirltech/laravel-media](https://github.com/smirltech/laravel-media) | 0 | 2026-07-05 | Associate media with your eloquent models |
-| [michaelbudd1/eventsourcerer-laravel](https://github.com/michaelbudd1/eventsourcerer-laravel) | 1 | 2026-07-05 | A Laravel package that provides support for Laravel |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-05 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [siko001/atx-ticket-event-laravel](https://github.com/siko001/atx-ticket-event-laravel) | 0 | 2026-07-05 | Laravel Package for Filament admin |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-05 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-07-05 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
+| [BrightCreations/money-converter](https://github.com/BrightCreations/money-converter) | 0 | 2026-07-05 | A Laravel package for converting currencies using exchange r... |
+| [vpsbg/laravel-pgp-mailer](https://github.com/vpsbg/laravel-pgp-mailer) | 1 | 2026-07-05 | PGP/MIME encryption and signing for Laravel's Mail facade. |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 4 | 2026-07-05 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 149 | 2026-07-05 | Accounting application written in Laravel 13 / PHP 8.5 using... |
+| [demyanenkomaks/support](https://github.com/demyanenkomaks/support) | 1 | 2026-07-05 | Помощник для Laravel |
+| [laravel-skir/client](https://github.com/laravel-skir/client) | 0 | 2026-07-05 | Laravel SkirRPC client package powered by Saloon. |
+| [md-mojahed/Mojahed-SPA](https://github.com/md-mojahed/Mojahed-SPA) | 0 | 2026-07-05 | A Laravel SPA package using Alpine.js, Axios and Bootstrap |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-05 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [laravel-skir/server](https://github.com/laravel-skir/server) | 0 | 2026-07-05 | Laravel SkirRPC server package. |
+| [BushlanovDev/max-bot-api-client-php](https://github.com/BushlanovDev/max-bot-api-client-php) | 48 | 2026-07-05 | 🤖💬 Max Bot API Client library for PHP |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-05 | Integrate Laravel with the Agent Runner microservice to mana... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-05T12:48 | 5 | 1722 | 5088 |
 | 2026-07-05T07:32 | 1 | 1726 | 5083 |
 | 2026-07-05T01:08 | 3 | 1723 | 5082 |
 | 2026-07-04T18:41 | 3 | 1722 | 5079 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-03T18:47 | 4 | 1716 | 5062 |
 | 2026-07-03T13:02 | 1 | 1721 | 5058 |
 | 2026-07-03T09:44 | 0 | 1724 | 5057 |
-| 2026-07-03T09:40 | 3 | 1721 | 5057 |
 
 ---
 

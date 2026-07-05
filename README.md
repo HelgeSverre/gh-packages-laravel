@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5088  
-**Last updated:** 2026-07-05T12:48:41.128Z
+**Total packages tracked:** 5090  
+**Last updated:** 2026-07-05T18:42:42.601Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Derrytech-Inc/laravel-telegram-logger](https://github.com/Derrytech-Inc/laravel-telegram-logger) | 0 | A package to set up telegram logging for laravel applications |
+| [liviu-hariton/loto-ro](https://github.com/liviu-hariton/loto-ro) | 0 | A Laravel package that fetches the Romanian lottery history for the 6/49 and 5/4... |
+| [Roya-Khoshrou/my-first-package](https://github.com/Roya-Khoshrou/my-first-package) | 0 | A simple Laravel package for managing todos with CRUD operations and status mana... |
 | [pushery/polyslug-for-laravel](https://github.com/pushery/polyslug-for-laravel) | 1 | Polyslug gives Laravel Eloquent models multilingual, polymorphic, SEO-friendly U... |
 | [laravel-skir/client](https://github.com/laravel-skir/client) | 0 | Laravel SkirRPC client package powered by Saloon. |
 | [md-mojahed/Mojahed-SPA](https://github.com/md-mojahed/Mojahed-SPA) | 0 | A Laravel SPA package using Alpine.js, Axios and Bootstrap |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [yavuzscnplt/multitenant-pos](https://github.com/yavuzscnplt/multitenant-pos) | 1 | Multi-tenant restaurant POS & self-service QR ordering — portfolio showcase (Lar... |
 | [team-natural/system-dev-temaplate](https://github.com/team-natural/system-dev-temaplate) | 0 |  |
 | [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | Laravel package for haddowg/json-api: idiomatic routing, content negotiation, va... |
-| [siko001/atx-ticket-event-laravel](https://github.com/siko001/atx-ticket-event-laravel) | 0 | Laravel Package for Filament admin |
-| [Mahmoud1478/MMAE-Phones](https://github.com/Mahmoud1478/MMAE-Phones) | 2 | laravel package to make interact with phone number easier |
-| [badrshs/email-validator](https://github.com/badrshs/email-validator) | 0 | Deep email validation for PHP - Syntax, DNS, MX, and SMTP - standalone package w... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-07-05 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-07-05 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-05 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [jooservices/laravel-repository](https://github.com/jooservices/laravel-repository) | 0 | 2026-07-05 | PHP 8.5+ Laravel repository package for trait-based CRUD, fi... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-05 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-05 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [diekantankys/strepen](https://github.com/diekantankys/strepen) | 5 | 2026-07-05 | The strepen system of Scouting Die Kantanky's |
+| [One-Learning-Community/laravel-model-explorer](https://github.com/One-Learning-Community/laravel-model-explorer) | 6 | 2026-07-05 | Model Explorer for Laravel — a zero-config browser UI and MC... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-05 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-05 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 3 | 2026-07-05 | A file-based CMS package for Laravel. Renders documentation,... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-05 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-05 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-05 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [zarbinco/laravel-iran-locations](https://github.com/zarbinco/laravel-iran-locations) | 0 | 2026-07-05 | Laravel package for Iran locations, address data, admin UI, ... |
+| [Derrytech-Inc/laravel-telegram-logger](https://github.com/Derrytech-Inc/laravel-telegram-logger) | 0 | 2026-07-05 | A package to set up telegram logging for laravel application... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-07-05 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-05 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [anfibes/fluxio](https://github.com/anfibes/fluxio) | 0 | 2026-07-05 | Modular monolith for Fluxio (Laravel 12 API, Nuxt 4 frontend... |
-| [BrightCreations/money-converter](https://github.com/BrightCreations/money-converter) | 0 | 2026-07-05 | A Laravel package for converting currencies using exchange r... |
-| [vpsbg/laravel-pgp-mailer](https://github.com/vpsbg/laravel-pgp-mailer) | 1 | 2026-07-05 | PGP/MIME encryption and signing for Laravel's Mail facade. |
+| [dbflow-labs/dbflow-filament](https://github.com/dbflow-labs/dbflow-filament) | 0 | 2026-07-05 | Standard Filament integration for DBFlow Core — workflow tas... |
+| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-05 | Laravel package that validates all UK post codes. |
+| [dinushchathurya/uk-mobile-number-validator](https://github.com/dinushchathurya/uk-mobile-number-validator) | 0 | 2026-07-05 | This Laravel package validates UK mobile numbers. |
 | [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 4 | 2026-07-05 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 149 | 2026-07-05 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [demyanenkomaks/support](https://github.com/demyanenkomaks/support) | 1 | 2026-07-05 | Помощник для Laravel |
-| [laravel-skir/client](https://github.com/laravel-skir/client) | 0 | 2026-07-05 | Laravel SkirRPC client package powered by Saloon. |
-| [md-mojahed/Mojahed-SPA](https://github.com/md-mojahed/Mojahed-SPA) | 0 | 2026-07-05 | A Laravel SPA package using Alpine.js, Axios and Bootstrap |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-05 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [laravel-skir/server](https://github.com/laravel-skir/server) | 0 | 2026-07-05 | Laravel SkirRPC server package. |
-| [BushlanovDev/max-bot-api-client-php](https://github.com/BushlanovDev/max-bot-api-client-php) | 48 | 2026-07-05 | 🤖💬 Max Bot API Client library for PHP |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-05 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [dinushchathurya/srilankan-universities-faculties-degrees](https://github.com/dinushchathurya/srilankan-universities-faculties-degrees) | 1 | 2026-07-05 | :computer: All Srilankan Universities, Faculties and Undegra... |
+| [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-05 | This Laravel package validates all Sri Lankan telephone numb... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-05T18:42 | 3 | 1724 | 5090 |
 | 2026-07-05T12:48 | 5 | 1722 | 5088 |
 | 2026-07-05T07:32 | 1 | 1726 | 5083 |
 | 2026-07-05T01:08 | 3 | 1723 | 5082 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-04T01:01 | 3 | 1717 | 5065 |
 | 2026-07-03T18:47 | 4 | 1716 | 5062 |
 | 2026-07-03T13:02 | 1 | 1721 | 5058 |
-| 2026-07-03T09:44 | 0 | 1724 | 5057 |
 
 ---
 

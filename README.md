@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5079  
-**Last updated:** 2026-07-04T18:41:23.845Z
+**Total packages tracked:** 5082  
+**Last updated:** 2026-07-05T01:08:35.784Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | Synchronized common files for open source Laravel packages |
+| [ovarun/laravel-disposable-email-validation](https://github.com/ovarun/laravel-disposable-email-validation) | 1 | Laravel package to detect disposable email addresses using disposable email doma... |
+| [pionl/laravel-support-eloquent](https://github.com/pionl/laravel-support-eloquent) | 3 | Package with small support traits and classes for the Laravel Eloquent models |
 | [pirabyte/erecht24-laravel](https://github.com/pirabyte/erecht24-laravel) | 0 |  |
 | [smirltech/laravel-media](https://github.com/smirltech/laravel-media) | 0 | Associate media with your eloquent models |
 | [ITCrackers/masking-package](https://github.com/ITCrackers/masking-package) | 0 | IITCrackers Helper is a lightweight, framework-independent PHP package that prov... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [amdad121/custodian-laravel](https://github.com/amdad121/custodian-laravel) | 0 | A powerful, flexible, and developer-friendly role and permission management syst... |
 | [DevinNorgarb/devtube](https://github.com/DevinNorgarb/devtube) | 36 | Laravel YouTube and Online Video viewing and download interface.  |
 | [AMgrade/laravel-heimdall](https://github.com/AMgrade/laravel-heimdall) | 0 |  |
-| [zarbinco/laravel-iran-locations](https://github.com/zarbinco/laravel-iran-locations) | 0 | Laravel package for Iran locations, address data, admin UI, API, and Persian-fri... |
-| [shoboske/laravel-datatable-query-builder](https://github.com/shoboske/laravel-datatable-query-builder) | 0 | A package for managing the backend of a datatable request, sorting, order, serve... |
-| [t0team/laravel-panel](https://github.com/t0team/laravel-panel) | 3 | A AdminPanel For Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-04 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [ArtisanPack-UI/performance](https://github.com/ArtisanPack-UI/performance) | 0 | 2026-07-04 | Optimize your Laravel application's speed and efficiency wit... |
+| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-05 | This package is a Laravel package that contains all National... |
+| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-05 |  |
+| [dinushchathurya/laravel-roles-and-permission](https://github.com/dinushchathurya/laravel-roles-and-permission) | 0 | 2026-07-05 | Laravel Role and Permission example with Spatie package |
+| [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | 2026-07-05 | Laravel Livewire CRUD |
+| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-05 | This is a Laravel demo application of identifying the user's... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-05 | An event sourcing laravel package, complete with all the ess... |
+| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | 2026-07-05 | Synchronized common files for open source Laravel packages |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-07-05 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [cosmira/sandbox](https://github.com/cosmira/sandbox) | 0 | 2026-07-05 | Laravel package for dual-table sandbox editing |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-05 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-04 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-04 | Prevent risky Laravel database migrations with static analys... |
+| [Mahmoud1478/MMAE-Phones](https://github.com/Mahmoud1478/MMAE-Phones) | 1 | 2026-07-04 | laravel package to make interact with phone number easier |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-04 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-04 | Manage and track inventory with a PHP package that integrate... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-04 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-04 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [smirltech/laravel-media](https://github.com/smirltech/laravel-media) | 0 | 2026-07-04 | Associate media with your eloquent models |
-| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 149 | 2026-07-04 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-04 | Laravel package that validates all UK post codes. |
-| [dinushchathurya/uk-mobile-number-validator](https://github.com/dinushchathurya/uk-mobile-number-validator) | 0 | 2026-07-04 | This Laravel package validates UK mobile numbers. |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 4 | 2026-07-04 | Martis — Laravel Admin Engine. A modern, override-first admi... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-04 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [dinushchathurya/srilankan-universities-faculties-degrees](https://github.com/dinushchathurya/srilankan-universities-faculties-degrees) | 1 | 2026-07-04 | :computer: All Srilankan Universities, Faculties and Undegra... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-04 | This Laravel package validates all Sri Lankan telephone numb... |
-| [muneeb9000/LIFE-TIME-SMS-](https://github.com/muneeb9000/LIFE-TIME-SMS-) | 0 | 2026-07-04 | Lifeitmesms laravel package to send single or bulk text and ... |
-| [LavioDev/eam-mes-package](https://github.com/LavioDev/eam-mes-package) | 0 | 2026-07-04 | A lightweight Laravel package with database migrations and r... |
-| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-04 | This package is a Laravel package that contains all National... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-05T01:08 | 3 | 1723 | 5082 |
 | 2026-07-04T18:41 | 3 | 1722 | 5079 |
 | 2026-07-04T12:46 | 9 | 1717 | 5076 |
 | 2026-07-04T07:21 | 3 | 1720 | 5068 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-03T09:44 | 0 | 1724 | 5057 |
 | 2026-07-03T09:40 | 3 | 1721 | 5057 |
 | 2026-07-03T07:06 | 13 | 1711 | 5054 |
-| 2026-07-03T00:36 | 1 | 1722 | 5041 |
 
 ---
 

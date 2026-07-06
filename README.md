@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5098  
-**Last updated:** 2026-07-06T07:55:50.649Z
+**Total packages tracked:** 5102  
+**Last updated:** 2026-07-06T13:36:26.721Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [cable8mm/Youtube](https://github.com/cable8mm/Youtube) | 1 | Renewal Laravel PHP Facade/Wrapper for the Youtube Data API |
+| [syedmahamudul/laravel-ai](https://github.com/syedmahamudul/laravel-ai) | 0 | Laravel AI is a powerful and developer-friendly package that provides a unified ... |
+| [php-skir/server](https://github.com/php-skir/server) | 0 | Laravel SkirRPC server package. |
+| [php-skir/client](https://github.com/php-skir/client) | 0 | Laravel SkirRPC client package powered by Saloon. |
 | [JaydeepGadhiya/laravel-timemachine](https://github.com/JaydeepGadhiya/laravel-timemachine) | 2 | Visualize and analyze Laravel's complete request lifecycle with detailed executi... |
 | [zeevx/lara-termii](https://github.com/zeevx/lara-termii) | 8 | A Laravel package for seamless integration with Termii. |
 | [snb4crazy/webhook-manager-laravel](https://github.com/snb4crazy/webhook-manager-laravel) | 0 | Queue-aware webhook delivery package for Laravel. |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [md-mojahed/Mojahed-SPA](https://github.com/md-mojahed/Mojahed-SPA) | 0 | A Laravel SPA package using Alpine.js, Axios and Bootstrap |
 | [laravel-skir/server](https://github.com/laravel-skir/server) | 0 | Laravel SkirRPC server package. |
 | [HellioSolutions/helliosms](https://github.com/HellioSolutions/helliosms) | 3 | Official Laravel package that integrates with Hellio Messaging's SMS fleets of A... |
-| [vaened/laravel-authorization](https://github.com/vaened/laravel-authorization) | 3 | Package for the management of authorizations for Laravel |
-| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | Synchronized common files for open source Laravel packages |
-| [ovarun/laravel-disposable-email-validation](https://github.com/ovarun/laravel-disposable-email-validation) | 1 | Laravel package to detect disposable email addresses using disposable email doma... |
-| [pionl/laravel-support-eloquent](https://github.com/pionl/laravel-support-eloquent) | 3 | Package with small support traits and classes for the Laravel Eloquent models |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-06 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 2 | 2026-07-06 | Read-only Filament panel plugin for Chronicle |
-| [zeevx/lara-termii](https://github.com/zeevx/lara-termii) | 8 | 2026-07-06 | A Laravel package for seamless integration with Termii. |
-| [LavioDev/eam-mes-package](https://github.com/LavioDev/eam-mes-package) | 0 | 2026-07-06 | A lightweight Laravel package with database migrations and r... |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 99 | 2026-07-06 | Complete, ready-to-use Indonesian administrative region data... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 4 | 2026-07-06 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-06 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [laravel-skir/client](https://github.com/laravel-skir/client) | 0 | 2026-07-06 | Laravel SkirRPC client package powered by Saloon. |
-| [laravel-skir/server](https://github.com/laravel-skir/server) | 0 | 2026-07-06 | Laravel SkirRPC server package. |
-| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-07-06 | A Laravel package that crawls websites to detect broken link... |
-| [foxws/laravel-pwa](https://github.com/foxws/laravel-pwa) | 1 | 2026-07-06 | PWA manifest and Blade directives for Laravel. |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-07-06 | Laravel USPS Package to integrate USPS Address |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-07-06 | The Moox Project - Packages for Filament and Laravel |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-06 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-06 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-06 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [HopekellDev/laravel-payvessel](https://github.com/HopekellDev/laravel-payvessel) | 0 | 2026-07-06 | A Laravel package for interacting with Payvessel API |
-| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 15 | 2026-07-06 | Zero-config interactive API docs for Laravel — auto-inferred... |
-| [masmaleki/zoho-one](https://github.com/masmaleki/zoho-one) | 4 | 2026-07-06 | Laravel package for ZOHO all in one |
+| [cable8mm/Youtube](https://github.com/cable8mm/Youtube) | 1 | 2026-07-06 | Renewal Laravel PHP Facade/Wrapper for the Youtube Data API |
+| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-06 | This package is a Laravel package that contains all National... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-06 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [hwkdo/ms-graph-laravel](https://github.com/hwkdo/ms-graph-laravel) | 0 | 2026-07-06 | My Package to use ms-graph api in laravel |
+| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-06 |  |
+| [dinushchathurya/laravel-roles-and-permission](https://github.com/dinushchathurya/laravel-roles-and-permission) | 0 | 2026-07-06 | Laravel Role and Permission example with Spatie package |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-06 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | 2026-07-06 | Laravel Livewire CRUD |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-06 | A practical work management information system built with La... |
+| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-06 | This is a Laravel demo application of identifying the user's... |
+| [laravel-enso/cli](https://github.com/laravel-enso/cli) | 10 | 2026-07-06 | Enso CLI for structure management |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-06 | Prevent risky Laravel database migrations with static analys... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-07-06 | A Laravel-based web application that tracks, analyzes, and p... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-06 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-06 | Manage and track inventory with a PHP package that integrate... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-07-06 | A package to create datatables using alpinejs, tailwind, liv... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-06 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [KroderDev/laravel-microservice-core](https://github.com/KroderDev/laravel-microservice-core) | 5 | 2026-07-06 | A Laravel package that provides the infrastructure to build ... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-06 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-07-06 | Package analytics laravel + livewire |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-06T13:36 | 4 | 1720 | 5102 |
 | 2026-07-06T07:55 | 1 | 1724 | 5098 |
 | 2026-07-06T01:08 | 7 | 1720 | 5097 |
 | 2026-07-05T18:42 | 3 | 1724 | 5090 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-04T18:41 | 3 | 1722 | 5079 |
 | 2026-07-04T12:46 | 9 | 1717 | 5076 |
 | 2026-07-04T07:21 | 3 | 1720 | 5068 |
-| 2026-07-04T01:01 | 3 | 1717 | 5065 |
 
 ---
 

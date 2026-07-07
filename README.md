@@ -2,16 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5118  
-**Last updated:** 2026-07-07T07:34:45.643Z
+**Total packages tracked:** 5120  
+**Last updated:** 2026-07-07T13:08:31.678Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [oliweb-ch/laravel-cap](https://github.com/oliweb-ch/laravel-cap) | 1 | Laravel package for Cap — self-hosted proof-of-work CAPTCHA. Middleware, validat... |
+| [langleyfoxall/laravel-csv](https://github.com/langleyfoxall/laravel-csv) | 0 | A simple package to enable the export of CSV files from Laravel applications. |
 | [monciego/laravel-pwa](https://github.com/monciego/laravel-pwa) | 1 | 📦 Progressive Web App for Laravel |
 | [moaines/laravel-fts](https://github.com/moaines/laravel-fts) | 0 | SQLite FTS5 full-text search for Laravel with PHP-intl. BM25 ranking, search-as-... |
-| [l3aro/passportless-for-laravel](https://github.com/l3aro/passportless-for-laravel) | 0 | Secure token-based authentication for Laravel APIs |
+| [l3aro/passportless-for-laravel](https://github.com/l3aro/passportless-for-laravel) | 2 | Secure token-based authentication for Laravel APIs |
 | [madebyclowd/laravel-documentable](https://github.com/madebyclowd/laravel-documentable) | 0 | Attach S3-compatible document storage to any Eloquent model — dedup, versioning,... |
 | [Tarun-developer/completeopenpgp](https://github.com/Tarun-developer/completeopenpgp) | 2 | A complete OpenPGP package for Laravel that supports the ElGamal cryptosystem (w... |
 | [BaoNewbie128/LuanVanTotNghiep](https://github.com/BaoNewbie128/LuanVanTotNghiep) | 0 | Backend là Laravel,Frontend là ReactJS vite, Database là Mysql,file database nằm... |
@@ -20,15 +22,13 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Particle-Academy/laravel-courses](https://github.com/Particle-Academy/laravel-courses) | 0 | Laravel package for selling & serving curriculums, courses, tests, and certifica... |
 | [veeqtoh/laravel-active-email](https://github.com/veeqtoh/laravel-active-email) | 38 | A Laravel package providing validation rule against disposable email addresses. |
 | [Flobbos/laravel-translatable](https://github.com/Flobbos/laravel-translatable) | 5 | Translation package based on Laravel Translatable by https://github.com/dimsav |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | Artisan command suite and stubs for scaffolding new Laravel packages built on pa... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | Laravel package scaffolder: generate complete, convention-ready packages from st... |
 | [misaf/laravel-email-webhooks](https://github.com/misaf/laravel-email-webhooks) | 1 | Provider-neutral Laravel 13 package for parsing email webhook payloads into DTOs... |
 | [webreinvent/vaahsignoz](https://github.com/webreinvent/vaahsignoz) | 0 | Laravel package to integrate SigNoz with laravel applications |
 | [cable8mm/water-melon](https://github.com/cable8mm/water-melon) | 18 | Water Melon is simple melon.com api sdk for php |
 | [ahmed29920/auth-pack](https://github.com/ahmed29920/auth-pack) | 0 | A complete, starter-ready authentication package for Laravel — Blade UI, REST AP... |
 | [cable8mm/Youtube](https://github.com/cable8mm/Youtube) | 1 | Renewal Laravel PHP Facade/Wrapper for the Youtube Data API |
 | [syedmahamudul/laravel-ai](https://github.com/syedmahamudul/laravel-ai) | 0 | Laravel AI is a powerful and developer-friendly package that provides a unified ... |
-| [php-skir/server](https://github.com/php-skir/server) | 0 | Laravel SkirRPC server package. |
-| [php-skir/client](https://github.com/php-skir/client) | 0 | Laravel SkirRPC client package powered by Saloon. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -43,7 +43,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
-| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 461 | Add kanban boards to your Filament pages |
+| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 462 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -52,33 +52,33 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | A media picker plugin for Filament Panels. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 434 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 435 | Open Source Laravel CRM Package |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 433 | Track page views, visitors, and audience analytics with an elegant Laravel packa... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [achetibi/laravel-satim](https://github.com/achetibi/laravel-satim) | 15 | 2026-07-07 | Laravel Satim is a clean, extensible Laravel package that pr... |
-| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-07-07 | Open core Laravel package for building a self-hosted Trustbi... |
-| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-07-07 | Laravel package providing polymorphic comments with Reposito... |
-| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-07-07 | LaraWebhook is an open-source Laravel package for securely a... |
-| [irabbi360/laravel-api-inspector](https://github.com/irabbi360/laravel-api-inspector) | 26 | 2026-07-07 | A Laravel package to enable auto API documentation generate ... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 4 | 2026-07-07 | Martis — Laravel Admin Engine. A modern, override-first admi... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-07 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-07 | A practical work management information system built with La... |
-| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-07-07 | Laravel package providing polymorphic reactions (like, love,... |
-| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-07-07 | Laravel package providing OTP (One-Time Password) management... |
-| [andydefer/laravel-search](https://github.com/andydefer/laravel-search) | 0 | 2026-07-07 | Fuzzy search package for Laravel |
-| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-07-07 | Laravel TOTP package for two-factor authentication with poly... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-07-07 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-07-07 | Laravel USPS Package to integrate USPS Address |
-| [sm-me-dev/laravel-redis-model-cache](https://github.com/sm-me-dev/laravel-redis-model-cache) | 1 | 2026-07-07 | Optimize your Laravel application with a native Redis cachin... |
-| [dbflow-labs/dbflow-filament](https://github.com/dbflow-labs/dbflow-filament) | 0 | 2026-07-07 | Standard Filament integration for DBFlow Core — workflow tas... |
-| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | 2026-07-07 | Laravel package for building complex eloquent filters in a s... |
-| [awirhosein/redis-throttle](https://github.com/awirhosein/redis-throttle) | 0 | 2026-07-07 | A simple Redis-powered rate limiting package built with Lara... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-07-07 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-07 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-07-07 | Open core Laravel package for building a self-hosted Trustbi... |
+| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 2 | 2026-07-07 | Privacy-first Matomo analytics for Laravel with cookieless t... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-07-07 | Package analytics laravel + livewire |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-07-07 | Laravel-based API for storing sensor data from distributed n... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-07 | Main Webampp laravel package for GEOBOX 2.0 |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 161 | 2026-07-07 | Collect everything about sent mails in your Filament app. |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 248 | 2026-07-07 | Collect everything about sent mails in your Laravel app |
+| [a2zwebltd/laravel-newsletter](https://github.com/a2zwebltd/laravel-newsletter) | 0 | 2026-07-07 | Portable Laravel newsletter / broadcast-mailing engine — sub... |
+| [langleyfoxall/laravel-csv](https://github.com/langleyfoxall/laravel-csv) | 0 | 2026-07-07 | A simple package to enable the export of CSV files from Lara... |
+| [djigir/laravel-form-builder](https://github.com/djigir/laravel-form-builder) | 1 | 2026-07-07 | Laravel Form Builder package with model binding and validati... |
+| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-07-07 | Gremio Linhir |
+| [centrex/laravel-payroll](https://github.com/centrex/laravel-payroll) | 0 | 2026-07-07 | payroll package for laravel |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-07 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-07-07 | The Moox Project - Packages for Filament and Laravel |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-07 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-07 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-07 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-07 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-07 | Manage and track inventory with a PHP package that integrate... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-07T13:08 | 2 | 1723 | 5120 |
 | 2026-07-07T07:34 | 6 | 1718 | 5118 |
 | 2026-07-07T01:06 | 6 | 1717 | 5112 |
 | 2026-07-06T19:02 | 4 | 1719 | 5106 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-05T18:42 | 3 | 1724 | 5090 |
 | 2026-07-05T12:48 | 5 | 1722 | 5088 |
 | 2026-07-05T07:32 | 1 | 1726 | 5083 |
-| 2026-07-05T01:08 | 3 | 1723 | 5082 |
 
 ---
 

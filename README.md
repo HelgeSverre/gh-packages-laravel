@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5120  
-**Last updated:** 2026-07-07T13:08:31.678Z
+**Total packages tracked:** 5125  
+**Last updated:** 2026-07-07T19:03:41.591Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [thalysjuvenal/aurum-filament-theme](https://github.com/thalysjuvenal/aurum-filament-theme) | 2 | Executive gold-on-graphite theme engine and UI kit for FilamentPHP v5 — curated ... |
+| [mihirrchauhan/Laravel-RAG-Assistant](https://github.com/mihirrchauhan/Laravel-RAG-Assistant) | 1 | A Laravel-based RAG AI assistant with Livewire streaming chat, document retrieva... |
+| [AdnanSerri/Alchemist](https://github.com/AdnanSerri/Alchemist) | 8 | The JSON Revolution for Laravel, a simple, fast, and elegant alternative to Lara... |
+| [kayedspace/laravel-doctor](https://github.com/kayedspace/laravel-doctor) | 0 |  command-first  diagnostics package for Laravel applications. exposes one shared... |
+| [simone-bianco/laravel-patches](https://github.com/simone-bianco/laravel-patches) | 2 | Laravel package to manage patches for your application, like database migrations... |
 | [oliweb-ch/laravel-cap](https://github.com/oliweb-ch/laravel-cap) | 1 | Laravel package for Cap — self-hosted proof-of-work CAPTCHA. Middleware, validat... |
 | [langleyfoxall/laravel-csv](https://github.com/langleyfoxall/laravel-csv) | 0 | A simple package to enable the export of CSV files from Laravel applications. |
 | [monciego/laravel-pwa](https://github.com/monciego/laravel-pwa) | 1 | 📦 Progressive Web App for Laravel |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Flobbos/laravel-translatable](https://github.com/Flobbos/laravel-translatable) | 5 | Translation package based on Laravel Translatable by https://github.com/dimsav |
 | [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | Laravel package scaffolder: generate complete, convention-ready packages from st... |
 | [misaf/laravel-email-webhooks](https://github.com/misaf/laravel-email-webhooks) | 1 | Provider-neutral Laravel 13 package for parsing email webhook payloads into DTOs... |
-| [webreinvent/vaahsignoz](https://github.com/webreinvent/vaahsignoz) | 0 | Laravel package to integrate SigNoz with laravel applications |
-| [cable8mm/water-melon](https://github.com/cable8mm/water-melon) | 18 | Water Melon is simple melon.com api sdk for php |
-| [ahmed29920/auth-pack](https://github.com/ahmed29920/auth-pack) | 0 | A complete, starter-ready authentication package for Laravel — Blade UI, REST AP... |
-| [cable8mm/Youtube](https://github.com/cable8mm/Youtube) | 1 | Renewal Laravel PHP Facade/Wrapper for the Youtube Data API |
-| [syedmahamudul/laravel-ai](https://github.com/syedmahamudul/laravel-ai) | 0 | Laravel AI is a powerful and developer-friendly package that provides a unified ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-07 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-07-07 | Open core Laravel package for building a self-hosted Trustbi... |
-| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 2 | 2026-07-07 | Privacy-first Matomo analytics for Laravel with cookieless t... |
-| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-07-07 | Package analytics laravel + livewire |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-07-07 | Laravel-based API for storing sensor data from distributed n... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-07 | Main Webampp laravel package for GEOBOX 2.0 |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 161 | 2026-07-07 | Collect everything about sent mails in your Filament app. |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 248 | 2026-07-07 | Collect everything about sent mails in your Laravel app |
-| [a2zwebltd/laravel-newsletter](https://github.com/a2zwebltd/laravel-newsletter) | 0 | 2026-07-07 | Portable Laravel newsletter / broadcast-mailing engine — sub... |
-| [langleyfoxall/laravel-csv](https://github.com/langleyfoxall/laravel-csv) | 0 | 2026-07-07 | A simple package to enable the export of CSV files from Lara... |
-| [djigir/laravel-form-builder](https://github.com/djigir/laravel-form-builder) | 1 | 2026-07-07 | Laravel Form Builder package with model binding and validati... |
-| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-07-07 | Gremio Linhir |
-| [centrex/laravel-payroll](https://github.com/centrex/laravel-payroll) | 0 | 2026-07-07 | payroll package for laravel |
+| [AdnanSerri/Alchemist](https://github.com/AdnanSerri/Alchemist) | 8 | 2026-07-07 | The JSON Revolution for Laravel, a simple, fast, and elegant... |
+| [kayedspace/laravel-doctor](https://github.com/kayedspace/laravel-doctor) | 0 | 2026-07-07 |  command-first  diagnostics package for Laravel applications... |
+| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 2 | 2026-07-07 | Passwordless email magic-link & OTP authentication for Larav... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 176 | 2026-07-07 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [simone-bianco/laravel-patches](https://github.com/simone-bianco/laravel-patches) | 2 | 2026-07-07 | Laravel package to manage patches for your application, like... |
+| [oi-lab/oi-laravel-ts](https://github.com/oi-lab/oi-laravel-ts) | 1 | 2026-07-07 | Generate TypeScript interfaces from Laravel Eloquent models |
+| [oi-lab/oi-laravel-geo](https://github.com/oi-lab/oi-laravel-geo) | 1 | 2026-07-07 | A Laravel package for geographic data management with hierar... |
+| [oi-lab/oi-laravel-notes](https://github.com/oi-lab/oi-laravel-notes) | 1 | 2026-07-07 | A Laravel package for polymorphic notes. Attach notes to **a... |
+| [oi-lab/oi-laravel-development](https://github.com/oi-lab/oi-laravel-development) | 1 | 2026-07-07 | A Laravel package providing essential development and initia... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-07 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-07-07 | The Moox Project - Packages for Filament and Laravel |
+| [oi-lab/oi-laravel-seeds](https://github.com/oi-lab/oi-laravel-seeds) | 1 | 2026-07-07 | Export and import Laravel seeders to/from JSON files with de... |
+| [oi-lab/oi-laravel-documentation](https://github.com/oi-lab/oi-laravel-documentation) | 1 | 2026-07-07 | A Laravel package for managing markdown-based documentation ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-07-07 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-07 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-07 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-07 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-07 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-07 | Manage and track inventory with a PHP package that integrate... |
+| [MohammadZarifiyan/Laravel-Locale-Kit](https://github.com/MohammadZarifiyan/Laravel-Locale-Kit) | 0 | 2026-07-07 | A Laravel package that provides structured locale metadata a... |
+| [jackwander/Laravel-Module-Maker](https://github.com/jackwander/Laravel-Module-Maker) | 0 | 2026-07-07 | The Zero-Config Modular Engine for Laravel. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-07T19:03 | 5 | 1720 | 5125 |
 | 2026-07-07T13:08 | 2 | 1723 | 5120 |
 | 2026-07-07T07:34 | 6 | 1718 | 5118 |
 | 2026-07-07T01:06 | 6 | 1717 | 5112 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-06T01:08 | 7 | 1720 | 5097 |
 | 2026-07-05T18:42 | 3 | 1724 | 5090 |
 | 2026-07-05T12:48 | 5 | 1722 | 5088 |
-| 2026-07-05T07:32 | 1 | 1726 | 5083 |
 
 ---
 

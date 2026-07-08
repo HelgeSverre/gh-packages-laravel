@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5134  
-**Last updated:** 2026-07-08T12:54:52.243Z
+**Total packages tracked:** 5139  
+**Last updated:** 2026-07-08T18:52:06.027Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 0 | Free, read-only Filament observability panel for Laravel Swarm — inspect swarm r... |
+| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Directory, Chat, NIP-29... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | Standalone Laravel database utilities: UUID/ULID traits, schema macros, soft-arc... |
+| [WiserWebSolutions/laravel-boarddocs-scraper](https://github.com/WiserWebSolutions/laravel-boarddocs-scraper) | 0 | A Laravel package that scans public BoardDocs sites for agendas and attachments,... |
+| [rahaug/laravel-front-sms](https://github.com/rahaug/laravel-front-sms) | 2 | A Laravel package that makes it easy to send SMS to your users with the Front SM... |
 | [AlizHarb/laravel-themer](https://github.com/AlizHarb/laravel-themer) | 5 | A professional theme management system for Laravel 11/12 with first-class Livewi... |
 | [H-ishak/ors-api-service](https://github.com/H-ishak/ors-api-service) | 5 | a simple Laravel package for the OpenRouteService Api |
 | [guggach/laravel-image-manager](https://github.com/guggach/laravel-image-manager) | 0 | Laravel Package for Image Resizer, Cache, HTML component |
@@ -16,19 +21,14 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ringlesoft/jasmin-client](https://github.com/ringlesoft/jasmin-client) | 1 | A laravel package for interacting with jasmin sms api |
 | [mrlibelula/vintage-consoles](https://github.com/mrlibelula/vintage-consoles) | 0 | Browser-based retro gaming platform. Play NES, SNES, Arcade, Atari 2600 & MS-DOS... |
 | [aprendible/backup-ui](https://github.com/aprendible/backup-ui) | 0 | Laravel Backup UI for Spatie Laravel Backup package |
-| [AlwaysCuriousCo/laravel-vin](https://github.com/AlwaysCuriousCo/laravel-vin) | 2 | Use the NHTSA API to decode VIN lookups |
-| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 5 | Skeleton for Laravel packages |
+| [AlwaysCuriousCo/laravel-vin](https://github.com/AlwaysCuriousCo/laravel-vin) | 3 | Use the NHTSA API to decode VIN lookups |
+| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 6 | Skeleton for Laravel packages |
 | [thalysjuvenal/aurum-filament-theme](https://github.com/thalysjuvenal/aurum-filament-theme) | 3 | Executive gold-on-graphite theme engine and UI kit for FilamentPHP v5 — curated ... |
 | [mihirrchauhan/Laravel-RAG-Assistant](https://github.com/mihirrchauhan/Laravel-RAG-Assistant) | 1 | A Laravel-based RAG AI assistant with Livewire streaming chat, document retrieva... |
 | [AdnanSerri/Alchemist](https://github.com/AdnanSerri/Alchemist) | 8 | The JSON Revolution for Laravel, a simple, fast, and elegant alternative to Lara... |
 | [kayedspace/laravel-doctor](https://github.com/kayedspace/laravel-doctor) | 3 |  command-first  diagnostics package for Laravel applications. exposes one shared... |
 | [simone-bianco/laravel-patches](https://github.com/simone-bianco/laravel-patches) | 2 | Laravel package to manage patches for your application, like database migrations... |
 | [oliweb-ch/laravel-cap](https://github.com/oliweb-ch/laravel-cap) | 1 | Laravel package for Cap — self-hosted proof-of-work CAPTCHA. Middleware, validat... |
-| [langleyfoxall/laravel-csv](https://github.com/langleyfoxall/laravel-csv) | 0 | A simple package to enable the export of CSV files from Laravel applications. |
-| [monciego/laravel-pwa](https://github.com/monciego/laravel-pwa) | 2 | 📦 Progressive Web App for Laravel |
-| [moaines/laravel-fts](https://github.com/moaines/laravel-fts) | 0 | SQLite FTS5 full-text search for Laravel with PHP-intl. BM25 ranking, search-as-... |
-| [l3aro/passportless-for-laravel](https://github.com/l3aro/passportless-for-laravel) | 2 | Secure token-based authentication for Laravel APIs |
-| [madebyclowd/laravel-documentable](https://github.com/madebyclowd/laravel-documentable) | 0 | Attach S3-compatible document storage to any Eloquent model — dedup, versioning,... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -52,33 +52,33 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | A media picker plugin for Filament Panels. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 435 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 434 | Open Source Laravel CRM Package |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 433 | Track page views, visitors, and audience analytics with an elegant Laravel packa... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 5 | 2026-07-08 | Skeleton for Laravel packages |
+| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | 2026-07-08 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Dir... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-08 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-08 | Integrate Mixpanel analytics into Filament projects to track... |
+| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 0 | 2026-07-08 | Free, read-only Filament observability panel for Laravel Swa... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-08 | Manage and track inventory with a PHP package that integrate... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-07-08 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [webreinvent/vaahsignoz](https://github.com/webreinvent/vaahsignoz) | 0 | 2026-07-08 | Laravel package to integrate SigNoz with laravel application... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-08 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-08 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [laravel/roster](https://github.com/laravel/roster) | 158 | 2026-07-08 | Detect packages & approaches in use within a Laravel project |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-08 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-08 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-08 | A practical work management information system built with La... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-08 | Source code for the new pokemon3d.net website |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-07-08 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 0 | 2026-07-08 | Laravel + Filament 4 CMS foundation: visual page builder, in... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-07-08 | Automated code analysis for Laravel applications with 73 com... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-07-08 | Laravel package scaffolder: generate complete, convention-re... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-07-08 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-07-08 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-07-08 | Runtime base library for building Laravel packages: fluent P... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-08 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-08 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-07-08 | Package analytics laravel + livewire |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-08 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-08 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | 2026-07-08 | Easy-to-integrate multi-tenant authentication package for La... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-08 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-08 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-07-08 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-08 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-07-08 | LaraWebhook is an open-source Laravel package for securely a... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-08 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-07-08 | Resrv is a booking engine for Statamic. |
-| [wekser/laragram](https://github.com/wekser/laragram) | 7 | 2026-07-08 | A Laravel package for building Telegram bots in MVC style. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-08T18:52 | 5 | 1720 | 5139 |
 | 2026-07-08T12:54 | 4 | 1721 | 5134 |
 | 2026-07-08T07:13 | 1 | 1724 | 5130 |
 | 2026-07-08T00:56 | 4 | 1720 | 5129 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-07T01:06 | 6 | 1717 | 5112 |
 | 2026-07-06T19:02 | 4 | 1719 | 5106 |
 | 2026-07-06T13:36 | 4 | 1720 | 5102 |
-| 2026-07-06T07:55 | 1 | 1724 | 5098 |
 
 ---
 

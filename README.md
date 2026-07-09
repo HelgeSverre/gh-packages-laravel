@@ -2,16 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5145  
-**Last updated:** 2026-07-09T13:24:30.683Z
+**Total packages tracked:** 5150  
+**Last updated:** 2026-07-09T18:59:00.222Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [NasserAlbusaidi/pos-system](https://github.com/NasserAlbusaidi/pos-system) | 0 | Bite — Laravel 12 + Livewire 3 POS for restaurants: QR menus, kitchen display, s... |
+| [GononLabs/laravel-tripay](https://github.com/GononLabs/laravel-tripay) | 0 | An elegant, idiomatic Laravel integration for the official Gonon Tripay PHP SDK.... |
+| [zaber-dev/laravel-cooldown](https://github.com/zaber-dev/laravel-cooldown) | 0 | Driver-based cooldown management for Laravel with cache & database drivers, Eloq... |
+| [omaralalwi/Gpdf](https://github.com/omaralalwi/Gpdf) | 154 | Gpdf: PHP PDF Generator - HTML to PDF Converter for Laravel & PHP with native Ar... |
+| [milirezai/milipay](https://github.com/milirezai/milipay) | 2 | The milipay Payment Package is a simple and flexible solution for integrating va... |
 | [Ifsware/filament-omnisearch](https://github.com/Ifsware/filament-omnisearch) | 4 | A keyboard-first command palette for Filament v5 |
 | [utecca/ecourier-laravel](https://github.com/utecca/ecourier-laravel) | 0 | Laravel client package for working with the eCourier API |
-| [abolfazlahmadiweb/laravel-zarinpal](https://github.com/abolfazlahmadiweb/laravel-zarinpal) | 0 | Simple Laravel package for Zarinpal payment gateway. |
+| [abolfazlahmadiweb/laravel-zarinpal](https://github.com/abolfazlahmadiweb/laravel-zarinpal) | 1 | Simple Laravel package for Zarinpal payment gateway. |
 | [eighteen73/laravel-turnstile](https://github.com/eighteen73/laravel-turnstile) | 2 | A Cloudflare Turnstile package for Laravel forms |
 | [hellofromsteve/hubtel](https://github.com/hellofromsteve/hubtel) | 0 | Personal package for Hubtel Integration for Laravel 11 and above |
 | [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | Thin Livewire + Flux web UI for laranail/db-console — all UI, zero business logi... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [H-ishak/ors-api-service](https://github.com/H-ishak/ors-api-service) | 5 | a simple Laravel package for the OpenRouteService Api |
 | [guggach/laravel-image-manager](https://github.com/guggach/laravel-image-manager) | 0 | Laravel Package for Image Resizer, Cache, HTML component |
 | [KostantinoAbate/complihance](https://github.com/KostantinoAbate/complihance) | 0 | A Laravel package for cookie consent, policy acceptance, consent persistence, Go... |
-| [ringlesoft/jasmin-client](https://github.com/ringlesoft/jasmin-client) | 1 | A laravel package for interacting with jasmin sms api |
-| [mrlibelula/vintage-consoles](https://github.com/mrlibelula/vintage-consoles) | 0 | Browser-based retro gaming platform. Play NES, SNES, Arcade, Atari 2600 & MS-DOS... |
-| [aprendible/backup-ui](https://github.com/aprendible/backup-ui) | 0 | Laravel Backup UI for Spatie Laravel Backup package |
-| [AlwaysCuriousCo/laravel-vin](https://github.com/AlwaysCuriousCo/laravel-vin) | 3 | Use the NHTSA API to decode VIN lookups |
-| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 6 | Skeleton for Laravel packages |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 6 | 2026-07-09 | Skeleton for Laravel packages |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-09 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-09 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-09 | A practical work management information system built with La... |
-| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-07-09 | Laravel package for integrating with Ranetrace – error track... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-09 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-09 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 333 | 2026-07-09 | The NativePHP website |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-09 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-09 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-09 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [utecca/ecourier-laravel](https://github.com/utecca/ecourier-laravel) | 0 | 2026-07-09 | Laravel client package for working with the eCourier API |
-| [abolfazlahmadiweb/laravel-zarinpal](https://github.com/abolfazlahmadiweb/laravel-zarinpal) | 0 | 2026-07-09 | Simple Laravel package for Zarinpal payment gateway. |
+| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | 2026-07-09 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Dir... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-07-09 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-09 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [statview-app/satellite-laravel](https://github.com/statview-app/satellite-laravel) | 1 | 2026-07-09 | A satellite package for Statview |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 38 | 2026-07-09 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 153 | 2026-07-09 | The Moox Project - Packages for Filament and Laravel |
-| [eighteen73/laravel-turnstile](https://github.com/eighteen73/laravel-turnstile) | 2 | 2026-07-09 | A Cloudflare Turnstile package for Laravel forms |
-| [draftsmaninc/draftsman](https://github.com/draftsmaninc/draftsman) | 1 | 2026-07-09 | The Draftsman Laravel Package |
-| [WiserWebSolutions/laravel-boarddocs-scraper](https://github.com/WiserWebSolutions/laravel-boarddocs-scraper) | 0 | 2026-07-09 | A Laravel package that scans public BoardDocs sites for agen... |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-09 | A Laravel package to track revisions of Eloquent models, all... |
+| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-07-09 | A structured logging package for Laravel that writes logs in... |
+| [NasserAlbusaidi/pos-system](https://github.com/NasserAlbusaidi/pos-system) | 0 | 2026-07-09 | Bite — Laravel 12 + Livewire 3 POS for restaurants: QR menus... |
+| [GononLabs/laravel-tripay](https://github.com/GononLabs/laravel-tripay) | 0 | 2026-07-09 | An elegant, idiomatic Laravel integration for the official G... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-07-09 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 9 | 2026-07-09 | FilaKit starter kit built on Laravel 12.x and Filament 3.x w... |
+| [zaber-dev/laravel-cooldown](https://github.com/zaber-dev/laravel-cooldown) | 0 | 2026-07-09 | Driver-based cooldown management for Laravel with cache & da... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 178 | 2026-07-09 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [wekser/laragram](https://github.com/wekser/laragram) | 7 | 2026-07-09 | A Laravel package for building Telegram bots in MVC style. |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-07-09 | Ptah — Laravel package that forges complete module structure... |
+| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-07-09 | LaraWebhook is an open-source Laravel package for securely a... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [rohanAdhikari1/filament-nepali-datetime](https://github.com/rohanAdhikari1/filament-nepali-datetime) | 5 | 2026-07-09 | A FilamentPHP plugin that adds support for Nepali Date (Bikr... |
+| [MarcelWeidum/filament-passkeys](https://github.com/MarcelWeidum/filament-passkeys) | 67 | 2026-07-09 | Use passkeys in your filament app |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-09 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-09 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-09 | Prevent risky Laravel database migrations with static analys... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-09T18:59 | 5 | 1726 | 5150 |
 | 2026-07-09T13:24 | 5 | 1726 | 5145 |
 | 2026-07-09T07:34 | 0 | 1726 | 5140 |
 | 2026-07-09T01:02 | 1 | 1725 | 5140 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-08T00:56 | 4 | 1720 | 5129 |
 | 2026-07-07T19:03 | 5 | 1720 | 5125 |
 | 2026-07-07T13:08 | 2 | 1723 | 5120 |
-| 2026-07-07T07:34 | 6 | 1718 | 5118 |
 
 ---
 

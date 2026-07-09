@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5139  
-**Last updated:** 2026-07-08T18:52:06.027Z
+**Total packages tracked:** 5140  
+**Last updated:** 2026-07-09T01:02:45.133Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | Thin Livewire + Flux web UI for laranail/db-console — all UI, zero business logi... |
 | [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 0 | Free, read-only Filament observability panel for Laravel Swarm — inspect swarm r... |
 | [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Directory, Chat, NIP-29... |
 | [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | Standalone Laravel database utilities: UUID/ULID traits, schema macros, soft-arc... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [AdnanSerri/Alchemist](https://github.com/AdnanSerri/Alchemist) | 8 | The JSON Revolution for Laravel, a simple, fast, and elegant alternative to Lara... |
 | [kayedspace/laravel-doctor](https://github.com/kayedspace/laravel-doctor) | 3 |  command-first  diagnostics package for Laravel applications. exposes one shared... |
 | [simone-bianco/laravel-patches](https://github.com/simone-bianco/laravel-patches) | 2 | Laravel package to manage patches for your application, like database migrations... |
-| [oliweb-ch/laravel-cap](https://github.com/oliweb-ch/laravel-cap) | 1 | Laravel package for Cap — self-hosted proof-of-work CAPTCHA. Middleware, validat... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,24 +59,24 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | 2026-07-08 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Dir... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-08 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-08 | Integrate Mixpanel analytics into Filament projects to track... |
-| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 0 | 2026-07-08 | Free, read-only Filament observability panel for Laravel Swa... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-08 | Manage and track inventory with a PHP package that integrate... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-07-08 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [webreinvent/vaahsignoz](https://github.com/webreinvent/vaahsignoz) | 0 | 2026-07-08 | Laravel package to integrate SigNoz with laravel application... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-08 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-08 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [laravel/roster](https://github.com/laravel/roster) | 158 | 2026-07-08 | Detect packages & approaches in use within a Laravel project |
+| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | 2026-07-09 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Dir... |
+| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 0 | 2026-07-09 | Free, read-only Filament observability panel for Laravel Swa... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [myxiaoao/blade-blueprint-icons](https://github.com/myxiaoao/blade-blueprint-icons) | 0 | 2026-07-09 | A package to easily make use of Blueprint Icons in your Lara... |
+| [moaines/laravel-fts](https://github.com/moaines/laravel-fts) | 0 | 2026-07-09 | SQLite FTS5 full-text search for Laravel with PHP-intl. BM25... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 434 | 2026-07-09 | Open Source Laravel CRM Package |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-09 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [ArtisanPack-UI/forms](https://github.com/ArtisanPack-UI/forms) | 2 | 2026-07-09 | A comprehensive form builder and management package for Lara... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-09 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-09 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-09 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-09 | Manage and track inventory with a PHP package that integrate... |
+| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-07-09 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [Pest-Register/phpaccounting-myobaccountrightlive](https://github.com/Pest-Register/phpaccounting-myobaccountrightlive) | 0 | 2026-07-09 | MYOB AccountRight Live Package for Laravel Accounting Sync (... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-09 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-09 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-08 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-08 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 0 | 2026-07-08 | Laravel + Filament 4 CMS foundation: visual page builder, in... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-07-08 | Automated code analysis for Laravel applications with 73 com... |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-07-08 | Laravel package scaffolder: generate complete, convention-re... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-07-08 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-07-08 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-07-08 | Runtime base library for building Laravel packages: fluent P... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-08 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-08 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-09T01:02 | 1 | 1725 | 5140 |
 | 2026-07-08T18:52 | 5 | 1720 | 5139 |
 | 2026-07-08T12:54 | 4 | 1721 | 5134 |
 | 2026-07-08T07:13 | 1 | 1724 | 5130 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-07T07:34 | 6 | 1718 | 5118 |
 | 2026-07-07T01:06 | 6 | 1717 | 5112 |
 | 2026-07-06T19:02 | 4 | 1719 | 5106 |
-| 2026-07-06T13:36 | 4 | 1720 | 5102 |
 
 ---
 

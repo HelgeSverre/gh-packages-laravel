@@ -665,5 +665,25 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-07-05T18:42:42.577Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "naiemofficial/laravel-livewire-experiment": {
+    "name": "naiemofficial/Laravel-Livewire-Experiment",
+    "url": "https://github.com/naiemofficial/Laravel-Livewire-Experiment",
+    "description": "A simple Todo app built with Laravel and Livewire, featuring dynamic UI updates without page reloads. Includes efficient state management, task status tracking, and filtering options for a smooth user experience.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "laravel",
+      "livewire",
+      "todo"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-06-24T11:42:00Z",
+    "updated_at": "2025-07-10T00:13:48Z",
+    "pushed_at": "2025-07-10T00:13:45Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-07-10T01:00:50.101Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

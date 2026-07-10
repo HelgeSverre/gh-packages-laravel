@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5150  
-**Last updated:** 2026-07-09T18:59:00.222Z
+**Total packages tracked:** 5154  
+**Last updated:** 2026-07-10T01:00:50.128Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [madisoheib/resonance-laravel](https://github.com/madisoheib/resonance-laravel) | 0 | laravel package websockt |
+| [boldlygrow/okta-api-client](https://github.com/boldlygrow/okta-api-client) | 0 | Composer package for Laravel applications for connecting to Okta for provisionin... |
+| [WiserWebSolutions/laravel-lobbyist-palegis](https://github.com/WiserWebSolutions/laravel-lobbyist-palegis) | 0 | Pennsylvania (palegis.us) RSS-feed driver for the laravel-lobbyist package. |
+| [WiserWebSolutions/laravel-lobbyist](https://github.com/WiserWebSolutions/laravel-lobbyist) | 0 | A Laravel package to search, monitor, and summarize legislative actions across U... |
+| [WiserWebSolutions/laravel-lobbyist-legiscan](https://github.com/WiserWebSolutions/laravel-lobbyist-legiscan) | 0 | Default nationwide LegiScan API driver for the laravel-lobbyist package. |
 | [NasserAlbusaidi/pos-system](https://github.com/NasserAlbusaidi/pos-system) | 0 | Bite — Laravel 12 + Livewire 3 POS for restaurants: QR menus, kitchen display, s... |
 | [GononLabs/laravel-tripay](https://github.com/GononLabs/laravel-tripay) | 0 | An elegant, idiomatic Laravel integration for the official Gonon Tripay PHP SDK.... |
 | [zaber-dev/laravel-cooldown](https://github.com/zaber-dev/laravel-cooldown) | 0 | Driver-based cooldown management for Laravel with cache & database drivers, Eloq... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Directory, Chat, NIP-29... |
 | [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | Standalone Laravel database utilities: UUID/ULID traits, schema macros, soft-arc... |
 | [WiserWebSolutions/laravel-boarddocs-scraper](https://github.com/WiserWebSolutions/laravel-boarddocs-scraper) | 0 | A Laravel package that scans public BoardDocs sites for agendas and attachments,... |
-| [rahaug/laravel-front-sms](https://github.com/rahaug/laravel-front-sms) | 2 | A Laravel package that makes it easy to send SMS to your users with the Front SM... |
-| [AlizHarb/laravel-themer](https://github.com/AlizHarb/laravel-themer) | 5 | A professional theme management system for Laravel 11/12 with first-class Livewi... |
-| [H-ishak/ors-api-service](https://github.com/H-ishak/ors-api-service) | 5 | a simple Laravel package for the OpenRouteService Api |
-| [guggach/laravel-image-manager](https://github.com/guggach/laravel-image-manager) | 0 | Laravel Package for Image Resizer, Cache, HTML component |
-| [KostantinoAbate/complihance](https://github.com/KostantinoAbate/complihance) | 0 | A Laravel package for cookie consent, policy acceptance, consent persistence, Go... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | 2026-07-09 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Dir... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-07-09 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-09 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-09 | A Laravel package to track revisions of Eloquent models, all... |
-| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-07-09 | A structured logging package for Laravel that writes logs in... |
-| [NasserAlbusaidi/pos-system](https://github.com/NasserAlbusaidi/pos-system) | 0 | 2026-07-09 | Bite — Laravel 12 + Livewire 3 POS for restaurants: QR menus... |
-| [GononLabs/laravel-tripay](https://github.com/GononLabs/laravel-tripay) | 0 | 2026-07-09 | An elegant, idiomatic Laravel integration for the official G... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-07-09 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 9 | 2026-07-09 | FilaKit starter kit built on Laravel 12.x and Filament 3.x w... |
-| [zaber-dev/laravel-cooldown](https://github.com/zaber-dev/laravel-cooldown) | 0 | 2026-07-09 | Driver-based cooldown management for Laravel with cache & da... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 178 | 2026-07-09 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [wekser/laragram](https://github.com/wekser/laragram) | 7 | 2026-07-09 | A Laravel package for building Telegram bots in MVC style. |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-07-09 | Ptah — Laravel package that forges complete module structure... |
-| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-07-09 | LaraWebhook is an open-source Laravel package for securely a... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [rohanAdhikari1/filament-nepali-datetime](https://github.com/rohanAdhikari1/filament-nepali-datetime) | 5 | 2026-07-09 | A FilamentPHP plugin that adds support for Nepali Date (Bikr... |
-| [MarcelWeidum/filament-passkeys](https://github.com/MarcelWeidum/filament-passkeys) | 67 | 2026-07-09 | Use passkeys in your filament app |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-09 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-09 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-09 | Prevent risky Laravel database migrations with static analys... |
+| [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | 2026-07-10 | Easy-to-integrate multi-tenant authentication package for La... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-07-10 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [GenAIIO/php-boot](https://github.com/GenAIIO/php-boot) | 0 | 2026-07-10 | Application kernel with Composer-based package auto-discover... |
+| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | 2026-07-10 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Dir... |
+| [canyongbs/model-state-machine](https://github.com/canyongbs/model-state-machine) | 8 | 2026-07-10 | This package adds support for creating state machines for at... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-10 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [madisoheib/resonance-laravel](https://github.com/madisoheib/resonance-laravel) | 0 | 2026-07-10 | laravel package websockt |
+| [mikeyperes/laravel-hexa-package-telegram](https://github.com/mikeyperes/laravel-hexa-package-telegram) | 0 | 2026-07-10 | HWS Package: Telegram bot notifications and commands |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-10 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-10 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-10 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-10 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-10 | Manage and track inventory with a PHP package that integrate... |
+| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-10 | Laravel package that validates all UK post codes. |
+| [dinushchathurya/uk-mobile-number-validator](https://github.com/dinushchathurya/uk-mobile-number-validator) | 0 | 2026-07-10 | This Laravel package validates UK mobile numbers. |
+| [dinushchathurya/srilankan-universities-faculties-degrees](https://github.com/dinushchathurya/srilankan-universities-faculties-degrees) | 1 | 2026-07-10 | :computer: All Srilankan Universities, Faculties and Undegra... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-10 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-10 | This Laravel package validates all Sri Lankan telephone numb... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-10 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-09 | This package is a Laravel package that contains all National... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-10T01:00 | 5 | 1726 | 5154 |
 | 2026-07-09T18:59 | 5 | 1726 | 5150 |
 | 2026-07-09T13:24 | 5 | 1726 | 5145 |
 | 2026-07-09T07:34 | 0 | 1726 | 5140 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-08T07:13 | 1 | 1724 | 5130 |
 | 2026-07-08T00:56 | 4 | 1720 | 5129 |
 | 2026-07-07T19:03 | 5 | 1720 | 5125 |
-| 2026-07-07T13:08 | 2 | 1723 | 5120 |
 
 ---
 

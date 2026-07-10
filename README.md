@@ -2,14 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5161  
-**Last updated:** 2026-07-10T07:34:05.092Z
+**Total packages tracked:** 5168  
+**Last updated:** 2026-07-10T13:05:28.232Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [jeffersongoncalves/filament-newsletter](https://github.com/jeffersongoncalves/filament-newsletter) | 1 | Filament plugin for composing, scheduling and sending double opt-in email newsle... |
+| [mekedron/platform.live.tips](https://github.com/mekedron/platform.live.tips) | 1 | Open-source, self-hostable Buy Me a Coffee / Ko-fi alternative for live performe... |
+| [AlizHarb/agent-skills](https://github.com/AlizHarb/agent-skills) | 1 | A growing collection of high-quality Agent Skills for AI coding assistants. Enha... |
+| [Ririkana-Labs/ririkana-agent](https://github.com/Ririkana-Labs/ririkana-agent) | 1 | A reusable, governed, tenant-safe Laravel 13 package for building business AI ag... |
+| [NicolasKion/Esi](https://github.com/NicolasKion/Esi) | 0 | Laravel package that integrates EVE Online's ESI API — typed DTOs, OAuth token r... |
+| [NicolasKion/SDE](https://github.com/NicolasKion/SDE) | 0 | Laravel package that downloads EVE Online's Static Data Export (SDE) and seeds i... |
+| [yehia-tarek/salla-toolkit](https://github.com/yehia-tarek/salla-toolkit) | 0 | An unofficial Laravel package for building apps on the [Salla](https://salla.sa)... |
+| [hardiksolanki90/openai-laravel](https://github.com/hardiksolanki90/openai-laravel) | 0 | Implements the hardiksolanki/openai-laravel package per OPENAI_LARAVEL_PACKAGE_A... |
+| [jeffersongoncalves/filament-newsletter](https://github.com/jeffersongoncalves/filament-newsletter) | 2 | Filament plugin for composing, scheduling and sending double opt-in email newsle... |
 | [jeffersongoncalves/filament-erp-hr](https://github.com/jeffersongoncalves/filament-erp-hr) | 1 | Filament v5 UI for ERP HR & payroll — employees, attendance, leave, salary struc... |
 | [jeffersongoncalves/laravel-newsletter](https://github.com/jeffersongoncalves/laravel-newsletter) | 1 | Compose, schedule and send double opt-in email newsletters with open/click track... |
 | [jeffersongoncalves/filament-erp-suite](https://github.com/jeffersongoncalves/filament-erp-suite) | 1 | Filament ERP suite umbrella (package jeffersongoncalves/filament-erp). Read-only... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [WiserWebSolutions/laravel-lobbyist](https://github.com/WiserWebSolutions/laravel-lobbyist) | 0 | A Laravel package to search, monitor, and summarize legislative actions across U... |
 | [WiserWebSolutions/laravel-lobbyist-legiscan](https://github.com/WiserWebSolutions/laravel-lobbyist-legiscan) | 0 | Default nationwide LegiScan API driver for the laravel-lobbyist package. |
 | [NasserAlbusaidi/pos-system](https://github.com/NasserAlbusaidi/pos-system) | 0 | Bite — Laravel 12 + Livewire 3 POS for restaurants: QR menus, kitchen display, s... |
-| [GononLabs/laravel-tripay](https://github.com/GononLabs/laravel-tripay) | 0 | An elegant, idiomatic Laravel integration for the official Gonon Tripay PHP SDK.... |
-| [zaber-dev/laravel-cooldown](https://github.com/zaber-dev/laravel-cooldown) | 0 | Driver-based cooldown management for Laravel with cache & database drivers, Eloq... |
-| [omaralalwi/Gpdf](https://github.com/omaralalwi/Gpdf) | 154 | Gpdf: PHP PDF Generator - HTML to PDF Converter for Laravel & PHP with native Ar... |
-| [milirezai/milipay](https://github.com/milirezai/milipay) | 2 | The milipay Payment Package is a simple and flexible solution for integrating va... |
-| [Ifsware/filament-omnisearch](https://github.com/Ifsware/filament-omnisearch) | 4 | A keyboard-first command palette for Filament v5 |
-| [utecca/ecourier-laravel](https://github.com/utecca/ecourier-laravel) | 0 | Laravel client package for working with the eCourier API |
-| [abolfazlahmadiweb/laravel-zarinpal](https://github.com/abolfazlahmadiweb/laravel-zarinpal) | 1 | Simple Laravel package for Zarinpal payment gateway. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [wekser/laragram](https://github.com/wekser/laragram) | 7 | 2026-07-10 | A Laravel package for building Telegram bots in MVC style. |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-10 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [l3aro/passportless-for-laravel](https://github.com/l3aro/passportless-for-laravel) | 2 | 2026-07-10 | Secure token-based authentication for Laravel APIs |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [oi-lab/oi-laravel-attachments](https://github.com/oi-lab/oi-laravel-attachments) | 0 | 2026-07-10 | A Laravel package for polymorphic file attachments. Attach f... |
-| [oi-lab/oi-laravel-ts](https://github.com/oi-lab/oi-laravel-ts) | 1 | 2026-07-10 | Generate TypeScript interfaces from Laravel Eloquent models |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-10 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-10 | ✨ Build robust Laravel applications with the Filament Starte... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [WiserWebSolutions/laravel-lobbyist-palegis](https://github.com/WiserWebSolutions/laravel-lobbyist-palegis) | 0 | 2026-07-10 | Pennsylvania (palegis.us) RSS-feed driver for the laravel-lo... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-07-10 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-07-10 | Runtime base library for building Laravel packages: fluent P... |
+| [madisoheib/resonance-laravel](https://github.com/madisoheib/resonance-laravel) | 0 | 2026-07-10 | laravel package websockt |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 5 | 2026-07-10 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
 | [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | 2026-07-10 | Easy-to-integrate multi-tenant authentication package for La... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-07-10 | Laravel USPS Package to integrate USPS Address |
-| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 1 | 2026-07-10 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
-| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-10 | Laravel package that validates all UK post codes. |
-| [dinushchathurya/uk-mobile-number-validator](https://github.com/dinushchathurya/uk-mobile-number-validator) | 0 | 2026-07-10 | This Laravel package validates UK mobile numbers. |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 26 | 2026-07-10 | Laravel package for Indonesia regions selection with postal ... |
-| [dinushchathurya/srilankan-universities-faculties-degrees](https://github.com/dinushchathurya/srilankan-universities-faculties-degrees) | 1 | 2026-07-10 | :computer: All Srilankan Universities, Faculties and Undegra... |
-| [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-10 | This Laravel package validates all Sri Lankan telephone numb... |
-| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-10 | This package is a Laravel package that contains all National... |
-| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-10 |  |
-| [dinushchathurya/laravel-roles-and-permission](https://github.com/dinushchathurya/laravel-roles-and-permission) | 0 | 2026-07-10 | Laravel Role and Permission example with Spatie package |
-| [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | 2026-07-10 | Laravel Livewire CRUD |
-| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-10 | This is a Laravel demo application of identifying the user's... |
+| [typicms/core](https://github.com/typicms/core) | 7 | 2026-07-10 | The core package of TypiCMS, containing the base architectur... |
+| [justbetter/laravel-magento-products](https://github.com/justbetter/laravel-magento-products) | 16 | 2026-07-10 | This package tracks if products exist in Magento by storing ... |
+| [WiserWebSolutions/laravel-lobbyist-legiscan](https://github.com/WiserWebSolutions/laravel-lobbyist-legiscan) | 0 | 2026-07-10 | Default nationwide LegiScan API driver for the laravel-lobby... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 178 | 2026-07-10 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [WiserWebSolutions/laravel-lobbyist](https://github.com/WiserWebSolutions/laravel-lobbyist) | 0 | 2026-07-10 | A Laravel package to search, monitor, and summarize legislat... |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-10 | A Laravel package to track revisions of Eloquent models, all... |
+| [sanmaxdev/linkforge](https://github.com/sanmaxdev/linkforge) | 5 | 2026-07-10 | Self-hosted, open-source, AI-native URL shortener & link-man... |
+| [Ririkana-Labs/ririkana-agent](https://github.com/Ririkana-Labs/ririkana-agent) | 1 | 2026-07-10 | A reusable, governed, tenant-safe Laravel 13 package for bui... |
+| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-07-10 | LaraWebhook is an open-source Laravel package for securely a... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-10T13:05 | 7 | 1724 | 5168 |
 | 2026-07-10T07:34 | 7 | 1725 | 5161 |
 | 2026-07-10T01:00 | 5 | 1726 | 5154 |
 | 2026-07-09T18:59 | 5 | 1726 | 5150 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-08T18:52 | 5 | 1720 | 5139 |
 | 2026-07-08T12:54 | 4 | 1721 | 5134 |
 | 2026-07-08T07:13 | 1 | 1724 | 5130 |
-| 2026-07-08T00:56 | 4 | 1720 | 5129 |
 
 ---
 

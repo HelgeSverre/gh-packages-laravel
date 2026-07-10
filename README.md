@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5154  
-**Last updated:** 2026-07-10T01:00:50.128Z
+**Total packages tracked:** 5161  
+**Last updated:** 2026-07-10T07:34:05.092Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-newsletter](https://github.com/jeffersongoncalves/filament-newsletter) | 1 | Filament plugin for composing, scheduling and sending double opt-in email newsle... |
+| [jeffersongoncalves/filament-erp-hr](https://github.com/jeffersongoncalves/filament-erp-hr) | 1 | Filament v5 UI for ERP HR & payroll — employees, attendance, leave, salary struc... |
+| [jeffersongoncalves/laravel-newsletter](https://github.com/jeffersongoncalves/laravel-newsletter) | 1 | Compose, schedule and send double opt-in email newsletters with open/click track... |
+| [jeffersongoncalves/filament-erp-suite](https://github.com/jeffersongoncalves/filament-erp-suite) | 1 | Filament ERP suite umbrella (package jeffersongoncalves/filament-erp). Read-only... |
+| [edram/laravel-package](https://github.com/edram/laravel-package) | 0 | Laravel package template |
+| [saugat77/laravel-doctor](https://github.com/saugat77/laravel-doctor) | 0 | Laravel Doctor is an extensible health check package that scans Laravel applicat... |
+| [matmper/laravel-brazil-validation](https://github.com/matmper/laravel-brazil-validation) | 2 | Composer package for request field validation for Laravel |
 | [madisoheib/resonance-laravel](https://github.com/madisoheib/resonance-laravel) | 0 | laravel package websockt |
 | [boldlygrow/okta-api-client](https://github.com/boldlygrow/okta-api-client) | 0 | Composer package for Laravel applications for connecting to Okta for provisionin... |
 | [WiserWebSolutions/laravel-lobbyist-palegis](https://github.com/WiserWebSolutions/laravel-lobbyist-palegis) | 0 | Pennsylvania (palegis.us) RSS-feed driver for the laravel-lobbyist package. |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Ifsware/filament-omnisearch](https://github.com/Ifsware/filament-omnisearch) | 4 | A keyboard-first command palette for Filament v5 |
 | [utecca/ecourier-laravel](https://github.com/utecca/ecourier-laravel) | 0 | Laravel client package for working with the eCourier API |
 | [abolfazlahmadiweb/laravel-zarinpal](https://github.com/abolfazlahmadiweb/laravel-zarinpal) | 1 | Simple Laravel package for Zarinpal payment gateway. |
-| [eighteen73/laravel-turnstile](https://github.com/eighteen73/laravel-turnstile) | 2 | A Cloudflare Turnstile package for Laravel forms |
-| [hellofromsteve/hubtel](https://github.com/hellofromsteve/hubtel) | 0 | Personal package for Hubtel Integration for Laravel 11 and above |
-| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | Thin Livewire + Flux web UI for laranail/db-console — all UI, zero business logi... |
-| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 0 | Free, read-only Filament observability panel for Laravel Swarm — inspect swarm r... |
-| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Directory, Chat, NIP-29... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | Standalone Laravel database utilities: UUID/ULID traits, schema macros, soft-arc... |
-| [WiserWebSolutions/laravel-boarddocs-scraper](https://github.com/WiserWebSolutions/laravel-boarddocs-scraper) | 0 | A Laravel package that scans public BoardDocs sites for agendas and attachments,... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [wekser/laragram](https://github.com/wekser/laragram) | 7 | 2026-07-10 | A Laravel package for building Telegram bots in MVC style. |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-10 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [oi-lab/oi-laravel-attachments](https://github.com/oi-lab/oi-laravel-attachments) | 0 | 2026-07-10 | A Laravel package for polymorphic file attachments. Attach f... |
+| [oi-lab/oi-laravel-ts](https://github.com/oi-lab/oi-laravel-ts) | 1 | 2026-07-10 | Generate TypeScript interfaces from Laravel Eloquent models |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-10 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | 2026-07-10 | Easy-to-integrate multi-tenant authentication package for La... |
-| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-07-10 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
-| [GenAIIO/php-boot](https://github.com/GenAIIO/php-boot) | 0 | 2026-07-10 | Application kernel with Composer-based package auto-discover... |
-| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | 2026-07-10 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Dir... |
-| [canyongbs/model-state-machine](https://github.com/canyongbs/model-state-machine) | 8 | 2026-07-10 | This package adds support for creating state machines for at... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-10 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [madisoheib/resonance-laravel](https://github.com/madisoheib/resonance-laravel) | 0 | 2026-07-10 | laravel package websockt |
-| [mikeyperes/laravel-hexa-package-telegram](https://github.com/mikeyperes/laravel-hexa-package-telegram) | 0 | 2026-07-10 | HWS Package: Telegram bot notifications and commands |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-10 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-10 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-10 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-10 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-10 | Manage and track inventory with a PHP package that integrate... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-07-10 | Laravel USPS Package to integrate USPS Address |
+| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 1 | 2026-07-10 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
 | [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-10 | Laravel package that validates all UK post codes. |
 | [dinushchathurya/uk-mobile-number-validator](https://github.com/dinushchathurya/uk-mobile-number-validator) | 0 | 2026-07-10 | This Laravel package validates UK mobile numbers. |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 26 | 2026-07-10 | Laravel package for Indonesia regions selection with postal ... |
 | [dinushchathurya/srilankan-universities-faculties-degrees](https://github.com/dinushchathurya/srilankan-universities-faculties-degrees) | 1 | 2026-07-10 | :computer: All Srilankan Universities, Faculties and Undegra... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-10 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 | [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-10 | This Laravel package validates all Sri Lankan telephone numb... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-10 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-09 | This package is a Laravel package that contains all National... |
+| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-10 | This package is a Laravel package that contains all National... |
+| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-10 |  |
+| [dinushchathurya/laravel-roles-and-permission](https://github.com/dinushchathurya/laravel-roles-and-permission) | 0 | 2026-07-10 | Laravel Role and Permission example with Spatie package |
+| [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | 2026-07-10 | Laravel Livewire CRUD |
+| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-10 | This is a Laravel demo application of identifying the user's... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-10T07:34 | 7 | 1725 | 5161 |
 | 2026-07-10T01:00 | 5 | 1726 | 5154 |
 | 2026-07-09T18:59 | 5 | 1726 | 5150 |
 | 2026-07-09T13:24 | 5 | 1726 | 5145 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-08T12:54 | 4 | 1721 | 5134 |
 | 2026-07-08T07:13 | 1 | 1724 | 5130 |
 | 2026-07-08T00:56 | 4 | 1720 | 5129 |
-| 2026-07-07T19:03 | 5 | 1720 | 5125 |
 
 ---
 

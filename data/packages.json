@@ -86,8 +86,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-05-22T07:29:48Z",
-    "updated_at": "2026-07-09T22:55:03Z",
-    "pushed_at": "2026-07-09T22:54:58Z",
+    "updated_at": "2026-07-10T07:16:45Z",
+    "pushed_at": "2026-07-10T07:16:18Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "astrr3/laravel-argonaut-dto": {
@@ -161,8 +161,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2021-08-15T13:08:44Z",
-    "updated_at": "2026-07-09T23:51:21Z",
-    "pushed_at": "2026-07-09T23:51:17Z",
+    "updated_at": "2026-07-10T05:13:06Z",
+    "pushed_at": "2026-07-10T05:13:02Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "pedezim362/filemanager": {
@@ -254,8 +254,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-29T18:47:56Z",
-    "updated_at": "2026-07-09T23:26:21Z",
-    "pushed_at": "2026-07-09T23:26:17Z",
+    "updated_at": "2026-07-10T04:47:47Z",
+    "pushed_at": "2026-07-10T04:47:44Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "yamatekudashai/phind": {
@@ -353,8 +353,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-09-13T08:32:59Z",
-    "updated_at": "2026-07-09T23:09:33Z",
-    "pushed_at": "2026-07-09T23:09:28Z",
+    "updated_at": "2026-07-10T07:30:53Z",
+    "pushed_at": "2026-07-10T07:30:44Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "romeran14/laravel-quotes-package": {
@@ -429,8 +429,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-26T16:12:07Z",
-    "updated_at": "2026-07-09T23:25:06Z",
-    "pushed_at": "2026-07-09T23:25:02Z",
+    "updated_at": "2026-07-10T04:46:39Z",
+    "pushed_at": "2026-07-10T04:46:36Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "njoguamos/laravel-pesapal": {
@@ -601,7 +601,7 @@
     "license": "MIT",
     "created_at": "2025-07-14T12:06:20Z",
     "updated_at": "2026-07-07T10:43:10Z",
-    "pushed_at": "2026-07-09T09:49:08Z",
+    "pushed_at": "2026-07-10T04:58:04Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "atlas-php/atlas": {
@@ -1255,8 +1255,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-10-15T16:33:19Z",
-    "updated_at": "2026-07-09T05:08:14Z",
-    "pushed_at": "2026-07-09T05:08:11Z",
+    "updated_at": "2026-07-10T06:03:44Z",
+    "pushed_at": "2026-07-10T06:03:40Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "hasanh47/duitku-laravel": {
@@ -3627,8 +3627,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2021-07-09T16:55:25Z",
-    "updated_at": "2026-07-02T00:44:05Z",
-    "pushed_at": "2026-07-02T00:44:02Z",
+    "updated_at": "2026-07-10T02:38:07Z",
+    "pushed_at": "2026-07-10T02:38:04Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "tzsk/sms": {
@@ -6082,8 +6082,8 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2025-12-09T15:34:22Z",
-    "updated_at": "2026-07-03T23:47:15Z",
-    "pushed_at": "2026-07-03T23:49:06Z",
+    "updated_at": "2026-07-10T01:55:08Z",
+    "pushed_at": "2026-07-10T02:55:54Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "artisan-build/resonance": {
@@ -6837,7 +6837,7 @@
     "license": "MIT",
     "created_at": "2025-11-07T00:01:09Z",
     "updated_at": "2026-07-09T15:50:14Z",
-    "pushed_at": "2026-07-09T15:51:49Z",
+    "pushed_at": "2026-07-10T02:59:04Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "yuges-code/laravel-ownable": {
@@ -19137,7 +19137,7 @@
     "license": "MIT",
     "created_at": "2020-08-31T18:27:10Z",
     "updated_at": "2026-06-30T06:00:05Z",
-    "pushed_at": "2026-07-09T18:41:22Z",
+    "pushed_at": "2026-07-10T06:37:59Z",
     "discovered_at": "2026-02-05T12:13:05.228Z"
   },
   "midnite81/core": {
@@ -19778,7 +19778,7 @@
     "license": "MIT",
     "created_at": "2024-03-05T07:48:48Z",
     "updated_at": "2026-06-18T05:48:20Z",
-    "pushed_at": "2026-07-03T03:47:26Z",
+    "pushed_at": "2026-07-10T03:12:22Z",
     "discovered_at": "2026-02-07T06:13:57.999Z"
   },
   "toniel/laravel-enum-to-typescript": {
@@ -21581,8 +21581,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-14T10:09:15Z",
-    "updated_at": "2026-07-10T00:01:12Z",
-    "pushed_at": "2026-07-10T00:01:05Z",
+    "updated_at": "2026-07-10T05:23:11Z",
+    "pushed_at": "2026-07-10T05:23:07Z",
     "discovered_at": "2026-02-14T12:08:14.037Z"
   },
   "zfhassaan/payfast": {
@@ -23072,8 +23072,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-24T05:09:35Z",
-    "updated_at": "2026-07-09T23:15:43Z",
-    "pushed_at": "2026-07-09T23:15:39Z",
+    "updated_at": "2026-07-10T04:36:59Z",
+    "pushed_at": "2026-07-10T04:36:55Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "wagner-souza/eloquent-orm": {
@@ -23130,8 +23130,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-06-11T23:36:36Z",
-    "updated_at": "2026-07-09T23:09:34Z",
-    "pushed_at": "2026-07-09T23:09:30Z",
+    "updated_at": "2026-07-10T07:30:54Z",
+    "pushed_at": "2026-07-10T07:30:45Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "vedanggupta123/async-cache-bridge-laravel": {
@@ -23185,8 +23185,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-25T03:08:20Z",
-    "updated_at": "2026-07-09T23:52:07Z",
-    "pushed_at": "2026-07-09T23:52:03Z",
+    "updated_at": "2026-07-10T05:14:12Z",
+    "pushed_at": "2026-07-10T05:14:08Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "laouamtaha/laravel-chat-engine": {
@@ -23436,7 +23436,7 @@
     "name": "mayaramyadav/laravel-ocr",
     "url": "https://github.com/mayaramyadav/laravel-ocr",
     "description": "Laravel OCR & Document Data Extractor – A powerful OCR and document parsing engine for Laravel. It provides intelligent text extraction, structured data parsing, and AI-powered cleanup for documents like invoices, receipts, and PDFs.",
-    "stars": 73,
+    "stars": 74,
     "forks": 4,
     "topics": [
       "laravel",
@@ -23448,7 +23448,7 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-02-13T08:19:45Z",
-    "updated_at": "2026-06-25T18:39:23Z",
+    "updated_at": "2026-07-10T06:40:29Z",
     "pushed_at": "2026-06-22T12:11:51Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
@@ -25982,7 +25982,7 @@
     "url": "https://github.com/creasico/laravel-nusa",
     "description": "Complete, ready-to-use Indonesian administrative region data for Laravel applications",
     "stars": 100,
-    "forks": 18,
+    "forks": 19,
     "topics": [
       "indonesia",
       "laravel-package"
@@ -30163,7 +30163,7 @@
     "name": "thefireflytech/filament-blog",
     "url": "https://github.com/thefireflytech/filament-blog",
     "description": "Blog plugin for laravel filament",
-    "stars": 141,
+    "stars": 142,
     "forks": 66,
     "topics": [
       "filament",
@@ -30175,7 +30175,7 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2024-03-13T04:40:30Z",
-    "updated_at": "2026-06-03T11:02:32Z",
+    "updated_at": "2026-07-10T05:30:24Z",
     "pushed_at": "2026-06-01T04:02:22Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -30370,8 +30370,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-28T11:55:23Z",
-    "updated_at": "2026-07-09T23:05:25Z",
-    "pushed_at": "2026-07-09T23:05:19Z",
+    "updated_at": "2026-07-10T07:26:48Z",
+    "pushed_at": "2026-07-10T07:26:37Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "jeffersongoncalves/filament-knowledge-base": {
@@ -32698,8 +32698,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-26T13:33:54Z",
-    "updated_at": "2026-07-09T23:16:23Z",
-    "pushed_at": "2026-07-09T23:16:18Z",
+    "updated_at": "2026-07-10T04:37:39Z",
+    "pushed_at": "2026-07-10T04:37:35Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "liberusoftware/boilerplate-laravel": {
@@ -32851,7 +32851,7 @@
     "name": "MGeurts/genealogy",
     "url": "https://github.com/MGeurts/genealogy",
     "description": "Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 13.",
-    "stars": 349,
+    "stars": 350,
     "forks": 114,
     "topics": [
       "ancestry",
@@ -32873,7 +32873,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-01-17T21:13:35Z",
-    "updated_at": "2026-07-09T09:16:11Z",
+    "updated_at": "2026-07-10T05:44:23Z",
     "pushed_at": "2026-07-04T13:12:03Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -33315,7 +33315,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-02-03T16:26:27Z",
-    "updated_at": "2026-07-09T09:18:44Z",
+    "updated_at": "2026-07-10T05:44:25Z",
     "pushed_at": "2026-06-03T21:41:07Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -33386,7 +33386,7 @@
     "language": "PHP",
     "license": null,
     "created_at": "2024-02-04T14:44:58Z",
-    "updated_at": "2026-07-09T07:03:32Z",
+    "updated_at": "2026-07-10T06:39:10Z",
     "pushed_at": "2026-07-09T07:05:15Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -39610,8 +39610,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-21T21:20:11Z",
-    "updated_at": "2026-07-10T00:04:02Z",
-    "pushed_at": "2026-07-10T00:03:57Z",
+    "updated_at": "2026-07-10T05:26:09Z",
+    "pushed_at": "2026-07-10T05:26:06Z",
     "discovered_at": "2026-02-22T00:23:04.244Z"
   },
   "jeffersongoncalves/filament-documentation": {
@@ -44426,8 +44426,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-04-27T00:19:00Z",
-    "updated_at": "2026-07-10T00:09:45Z",
-    "pushed_at": "2026-07-10T00:09:41Z",
+    "updated_at": "2026-07-10T05:31:56Z",
+    "pushed_at": "2026-07-10T05:31:51Z",
     "discovered_at": "2026-03-04T12:11:50.952Z"
   },
   "godrade/laravel-ban": {
@@ -45439,8 +45439,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-10-17T09:16:02Z",
-    "updated_at": "2026-07-10T00:10:38Z",
-    "pushed_at": "2026-07-10T00:10:34Z",
+    "updated_at": "2026-07-10T05:32:45Z",
+    "pushed_at": "2026-07-10T05:32:41Z",
     "discovered_at": "2026-03-06T18:12:54.130Z"
   },
   "datalogix/laravel-validation": {
@@ -45610,8 +45610,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-23T22:31:09Z",
-    "updated_at": "2026-07-10T00:10:59Z",
-    "pushed_at": "2026-07-10T00:10:54Z",
+    "updated_at": "2026-07-10T05:33:17Z",
+    "pushed_at": "2026-07-10T05:33:14Z",
     "discovered_at": "2026-03-06T18:12:54.134Z"
   },
   "overtrue/laravel-text-guard": {
@@ -45671,8 +45671,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-06T21:05:11Z",
-    "updated_at": "2026-07-09T06:00:21Z",
-    "pushed_at": "2026-07-09T06:00:10Z",
+    "updated_at": "2026-07-10T05:54:15Z",
+    "pushed_at": "2026-07-10T05:54:12Z",
     "discovered_at": "2026-03-07T00:22:20.823Z"
   },
   "speniti/filament-auth0": {
@@ -45799,8 +45799,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-06T21:14:02Z",
-    "updated_at": "2026-07-09T07:24:33Z",
-    "pushed_at": "2026-07-09T07:24:31Z",
+    "updated_at": "2026-07-10T07:03:23Z",
+    "pushed_at": "2026-07-10T07:03:20Z",
     "discovered_at": "2026-03-07T06:10:50.997Z"
   },
   "system-intelligence/jirrum_laravel_starter": {
@@ -46560,8 +46560,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-09T10:02:15Z",
-    "updated_at": "2026-07-10T00:13:57Z",
-    "pushed_at": "2026-07-10T00:13:53Z",
+    "updated_at": "2026-07-10T05:36:16Z",
+    "pushed_at": "2026-07-10T05:36:12Z",
     "discovered_at": "2026-03-09T12:12:47.622Z"
   },
   "filastudio/filament-file-output2": {
@@ -48670,8 +48670,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2024-08-12T15:19:40Z",
-    "updated_at": "2026-07-10T00:16:35Z",
-    "pushed_at": "2026-07-10T00:16:28Z",
+    "updated_at": "2026-07-10T05:38:57Z",
+    "pushed_at": "2026-07-10T05:38:54Z",
     "discovered_at": "2026-03-14T18:08:49.284Z"
   },
   "kosadchiy/laravel-parallel-db": {
@@ -49569,8 +49569,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-03-17T03:07:26Z",
-    "updated_at": "2026-07-06T04:15:43Z",
-    "pushed_at": "2026-07-06T04:15:40Z",
+    "updated_at": "2026-07-10T03:26:26Z",
+    "pushed_at": "2026-07-10T03:26:22Z",
     "discovered_at": "2026-03-17T06:24:57.142Z"
   },
   "mikeyperes/laravel-hexa-package-unsplash": {
@@ -49695,8 +49695,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-03-17T03:07:40Z",
-    "updated_at": "2026-07-10T00:58:31Z",
-    "pushed_at": "2026-07-10T00:58:27Z",
+    "updated_at": "2026-07-10T01:37:01Z",
+    "pushed_at": "2026-07-10T01:36:58Z",
     "discovered_at": "2026-03-17T06:24:57.142Z"
   },
   "jbsommeling/scannr": {
@@ -55039,7 +55039,7 @@
     "license": "MIT",
     "created_at": "2016-05-12T21:05:35Z",
     "updated_at": "2026-06-05T14:00:14Z",
-    "pushed_at": "2026-07-09T07:14:17Z",
+    "pushed_at": "2026-07-10T07:13:12Z",
     "discovered_at": "2026-03-25T06:24:44.802Z"
   },
   "xuejd3/laravel-emoji": {
@@ -60029,7 +60029,7 @@
     "name": "getartisanflow/wireflow",
     "url": "https://github.com/getartisanflow/wireflow",
     "description": "Livewire components for AlpineFlow — build interactive flow diagrams in Laravel with Blade components and server-side state sync.",
-    "stars": 93,
+    "stars": 94,
     "forks": 3,
     "topics": [
       "alpineflow",
@@ -60048,7 +60048,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-02T20:00:28Z",
-    "updated_at": "2026-06-27T15:16:19Z",
+    "updated_at": "2026-07-10T01:56:18Z",
     "pushed_at": "2026-06-11T20:53:21Z",
     "discovered_at": "2026-04-04T18:10:08.549Z"
   },
@@ -60578,14 +60578,14 @@
     "name": "masterix21/laravel-licensing-client",
     "url": "https://github.com/masterix21/laravel-licensing-client",
     "description": "A comprehensive Laravel package for integrating license validation in your applications. This client package works with the masterix21/laravel-licensing server to provide secure, offline-capable license management using PASETO v4 tokens.",
-    "stars": 45,
-    "forks": 3,
+    "stars": 46,
+    "forks": 4,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-15T12:48:55Z",
-    "updated_at": "2026-05-12T09:59:59Z",
-    "pushed_at": "2026-04-20T20:58:37Z",
+    "updated_at": "2026-07-10T01:48:12Z",
+    "pushed_at": "2026-06-22T18:43:52Z",
     "discovered_at": "2026-04-06T18:20:20.912Z"
   },
   "mryeminaung/filament-dashboard-testing": {
@@ -60707,8 +60707,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-06T04:14:52Z",
-    "updated_at": "2026-07-09T18:03:18Z",
-    "pushed_at": "2026-07-09T18:03:12Z",
+    "updated_at": "2026-07-10T01:27:50Z",
+    "pushed_at": "2026-07-10T01:27:55Z",
     "discovered_at": "2026-04-07T00:28:00.593Z"
   },
   "yousefaltohamy/huma-volve-medical-platform": {
@@ -62947,7 +62947,7 @@
     "name": "masterix21/laravel-licensing",
     "url": "https://github.com/masterix21/laravel-licensing",
     "description": "A licensing package for Laravel with offline verification, seat management, cryptographic key rotation, and multi-product support.",
-    "stars": 159,
+    "stars": 160,
     "forks": 19,
     "topics": [
       "laravel",
@@ -62958,7 +62958,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-08T12:55:36Z",
-    "updated_at": "2026-07-07T18:52:49Z",
+    "updated_at": "2026-07-10T01:48:26Z",
     "pushed_at": "2026-06-24T21:08:07Z",
     "discovered_at": "2026-04-13T02:24:04.482Z"
   },
@@ -63148,13 +63148,13 @@
     "name": "codewithathis/paperless-ngx",
     "url": "https://github.com/codewithathis/paperless-ngx",
     "description": "A Laravel package for managing Paperless-ngx via its API, providing easy integration, document upload, search, tagging, and workflow automation.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-08-08T11:11:00Z",
-    "updated_at": "2026-07-03T06:47:30Z",
+    "updated_at": "2026-07-10T07:31:51Z",
     "pushed_at": "2026-07-03T06:47:33Z",
     "discovered_at": "2026-04-13T13:19:21.688Z"
   },
@@ -63788,7 +63788,7 @@
     "license": null,
     "created_at": "2024-07-16T05:04:29Z",
     "updated_at": "2026-07-09T14:24:15Z",
-    "pushed_at": "2026-07-09T14:24:08Z",
+    "pushed_at": "2026-07-10T07:10:09Z",
     "discovered_at": "2026-04-15T13:18:01.599Z"
   },
   "mtvbrianking/laravel-xml": {
@@ -64617,8 +64617,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-04-17T10:27:39Z",
-    "updated_at": "2026-07-10T00:31:47Z",
-    "pushed_at": "2026-07-10T00:31:43Z",
+    "updated_at": "2026-07-10T05:54:23Z",
+    "pushed_at": "2026-07-10T05:54:18Z",
     "discovered_at": "2026-04-17T13:11:29.991Z"
   },
   "graystackit/laravel-helpspace-api": {
@@ -79991,7 +79991,7 @@
     "license": "MIT",
     "created_at": "2026-05-31T17:37:50Z",
     "updated_at": "2026-06-02T06:55:56Z",
-    "pushed_at": "2026-06-02T06:52:28Z",
+    "pushed_at": "2026-07-10T04:41:12Z",
     "discovered_at": "2026-06-02T07:40:09.736Z"
   },
   "pdro-lucas/filament-tour": {
@@ -80203,7 +80203,7 @@
     "license": "MIT",
     "created_at": "2024-05-10T06:11:09Z",
     "updated_at": "2026-07-01T16:40:10Z",
-    "pushed_at": "2026-07-09T06:37:58Z",
+    "pushed_at": "2026-07-10T06:39:24Z",
     "discovered_at": "2026-06-03T00:53:59.862Z"
   },
   "alimarchal/laravel-chart-of-accounts-package": {
@@ -84208,8 +84208,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-14T12:20:14Z",
-    "updated_at": "2026-07-09T20:12:54Z",
-    "pushed_at": "2026-07-09T20:12:41Z",
+    "updated_at": "2026-07-10T07:29:26Z",
+    "pushed_at": "2026-07-10T07:29:09Z",
     "discovered_at": "2026-06-14T12:40:50.026Z"
   },
   "anandkumar2002/ip-intelligence": {
@@ -85470,7 +85470,7 @@
     "license": "MIT",
     "created_at": "2026-06-16T09:18:43Z",
     "updated_at": "2026-06-30T18:24:02Z",
-    "pushed_at": "2026-07-09T06:33:00Z",
+    "pushed_at": "2026-07-10T06:31:22Z",
     "discovered_at": "2026-06-17T18:50:50.696Z"
   },
   "kazistm/vargo": {
@@ -85954,8 +85954,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2019-01-31T18:09:04Z",
-    "updated_at": "2026-07-09T18:02:31Z",
-    "pushed_at": "2026-07-09T18:02:06Z",
+    "updated_at": "2026-07-10T07:31:45Z",
+    "pushed_at": "2026-07-10T07:31:21Z",
     "discovered_at": "2026-06-19T13:12:50.016Z"
   },
   "finjineers-com/sisly-laravel-package": {
@@ -85990,7 +85990,7 @@
     "name": "coderflexx/laravel-presenter",
     "url": "https://github.com/coderflexx/laravel-presenter",
     "description": "Decouple display logic from your Eloquent models using the clean Presenter pattern",
-    "stars": 31,
+    "stars": 32,
     "forks": 4,
     "topics": [
       "clean-code",
@@ -86006,7 +86006,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-02-11T20:07:09Z",
-    "updated_at": "2026-06-19T11:39:24Z",
+    "updated_at": "2026-07-10T01:37:24Z",
     "pushed_at": "2026-06-19T11:40:44Z",
     "discovered_at": "2026-06-19T13:12:50.019Z"
   },
@@ -86976,8 +86976,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-18T13:56:15Z",
-    "updated_at": "2026-07-10T00:59:59Z",
-    "pushed_at": "2026-07-10T00:59:55Z",
+    "updated_at": "2026-07-10T07:14:05Z",
+    "pushed_at": "2026-07-10T07:13:46Z",
     "discovered_at": "2026-06-21T18:32:53.116Z"
   },
   "qbe-digital/payments": {
@@ -87673,7 +87673,7 @@
     "name": "pushery/email-magic-link-for-laravel",
     "url": "https://github.com/pushery/email-magic-link-for-laravel",
     "description": "Passwordless email magic-link & OTP authentication for Laravel — standalone or with a correct, no-bypass Fortify 2FA handoff and scanner-safe link consumption.",
-    "stars": 3,
+    "stars": 4,
     "forks": 0,
     "topics": [
       "email",
@@ -87688,7 +87688,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-22T13:03:45Z",
-    "updated_at": "2026-07-09T08:41:35Z",
+    "updated_at": "2026-07-10T05:50:29Z",
     "pushed_at": "2026-07-07T18:42:52Z",
     "discovered_at": "2026-06-22T19:06:54.811Z"
   },
@@ -89415,11 +89415,16 @@
     "description": "Laravel ERP maintenance domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "laravel",
+      "maintenance",
+      "php"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:48Z",
-    "updated_at": "2026-06-30T17:58:40Z",
+    "updated_at": "2026-07-10T03:38:41Z",
     "pushed_at": "2026-06-30T21:59:59Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89429,11 +89434,17 @@
     "description": "Laravel ERP quality domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "laravel",
+      "php",
+      "quality",
+      "quality-management"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:45Z",
-    "updated_at": "2026-06-30T17:58:40Z",
+    "updated_at": "2026-07-10T03:38:33Z",
     "pushed_at": "2026-06-30T21:59:57Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89443,11 +89454,17 @@
     "description": "Laravel ERP support domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "helpdesk",
+      "laravel",
+      "php",
+      "support"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:42Z",
-    "updated_at": "2026-06-30T17:58:41Z",
+    "updated_at": "2026-07-10T03:38:25Z",
     "pushed_at": "2026-06-30T21:59:59Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89457,11 +89474,17 @@
     "description": "Laravel ERP projects domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "laravel",
+      "php",
+      "project-management",
+      "projects"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:39Z",
-    "updated_at": "2026-06-30T17:58:40Z",
+    "updated_at": "2026-07-10T03:38:16Z",
     "pushed_at": "2026-06-30T21:59:56Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89471,11 +89494,17 @@
     "description": "Laravel ERP assets domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "assets",
+      "erp",
+      "fixed-assets",
+      "laravel",
+      "php"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:30Z",
-    "updated_at": "2026-06-30T17:58:44Z",
+    "updated_at": "2026-07-10T03:37:50Z",
     "pushed_at": "2026-06-30T21:59:55Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89485,11 +89514,16 @@
     "description": "Laravel ERP crm domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "crm",
+      "erp",
+      "laravel",
+      "php"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:36Z",
-    "updated_at": "2026-06-30T17:58:41Z",
+    "updated_at": "2026-07-10T03:38:08Z",
     "pushed_at": "2026-06-30T21:59:59Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89499,11 +89533,17 @@
     "description": "Laravel ERP buying domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "buying",
+      "erp",
+      "laravel",
+      "php",
+      "purchasing"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:24Z",
-    "updated_at": "2026-06-30T19:14:59Z",
+    "updated_at": "2026-07-10T03:37:33Z",
     "pushed_at": "2026-06-30T21:59:58Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89513,11 +89553,16 @@
     "description": "Laravel ERP subcontracting domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "laravel",
+      "php",
+      "subcontracting"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:33Z",
-    "updated_at": "2026-06-30T17:58:45Z",
+    "updated_at": "2026-07-10T03:37:59Z",
     "pushed_at": "2026-06-30T21:59:58Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89527,11 +89572,16 @@
     "description": "Laravel ERP manufacturing domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "laravel",
+      "manufacturing",
+      "php"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:27Z",
-    "updated_at": "2026-06-30T17:58:44Z",
+    "updated_at": "2026-07-10T03:37:42Z",
     "pushed_at": "2026-06-30T21:59:59Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89541,11 +89591,17 @@
     "description": "Laravel ERP stock domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "inventory",
+      "laravel",
+      "php",
+      "stock"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:18Z",
-    "updated_at": "2026-06-30T19:15:00Z",
+    "updated_at": "2026-07-10T03:37:14Z",
     "pushed_at": "2026-06-30T22:02:54Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89555,11 +89611,17 @@
     "description": "Laravel ERP selling domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "laravel",
+      "php",
+      "sales",
+      "selling"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:21Z",
-    "updated_at": "2026-06-30T19:14:59Z",
+    "updated_at": "2026-07-10T03:37:24Z",
     "pushed_at": "2026-06-30T21:59:55Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89569,11 +89631,16 @@
     "description": "Laravel ERP accounting domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "accounting",
+      "erp",
+      "laravel",
+      "php"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:15Z",
-    "updated_at": "2026-06-30T19:18:24Z",
+    "updated_at": "2026-07-10T03:37:06Z",
     "pushed_at": "2026-06-30T22:00:02Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89583,11 +89650,16 @@
     "description": "Laravel ERP core domain package. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 1,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "core",
+      "erp",
+      "laravel",
+      "php"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:30:10Z",
-    "updated_at": "2026-06-29T22:38:33Z",
+    "updated_at": "2026-07-10T03:36:58Z",
     "pushed_at": "2026-06-30T21:59:57Z",
     "discovered_at": "2026-06-28T07:22:56.145Z"
   },
@@ -89617,305 +89689,293 @@
   "jeffersongoncalves/filament-erp-maintenance": {
     "name": "jeffersongoncalves/filament-erp-maintenance",
     "url": "https://github.com/jeffersongoncalves/filament-erp-maintenance",
-    "description": "Filament v5 panel resources for the Laravel ERP maintenance module — maintenance schedules and visits.",
-    "stars": 1,
+    "description": "Filament ERP maintenance UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
+    "stars": 3,
     "forks": 0,
     "topics": [
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
       "laravel",
       "maintenance",
-      "php"
+      "maintenance-schedule",
+      "maintenance-visit"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-28T00:22:33Z",
-    "updated_at": "2026-06-29T01:36:00Z",
-    "pushed_at": "2026-06-29T01:35:56Z",
+    "license": null,
+    "created_at": "2026-06-29T14:19:14Z",
+    "updated_at": "2026-07-10T03:40:47Z",
+    "pushed_at": "2026-07-01T22:27:47Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-quality": {
     "name": "jeffersongoncalves/filament-erp-quality",
     "url": "https://github.com/jeffersongoncalves/filament-erp-quality",
-    "description": "Filament v5 panel resources for the Laravel ERP quality module — inspections, goals, procedures and non-conformances.",
+    "description": "Filament ERP quality UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
+      "goal",
+      "inspection",
       "laravel",
-      "php",
+      "non-conformance",
       "quality"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-28T00:06:08Z",
-    "updated_at": "2026-06-29T01:44:16Z",
-    "pushed_at": "2026-06-29T01:44:13Z",
+    "license": null,
+    "created_at": "2026-06-29T14:19:11Z",
+    "updated_at": "2026-07-10T03:41:18Z",
+    "pushed_at": "2026-07-01T22:27:45Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-support": {
     "name": "jeffersongoncalves/filament-erp-support",
     "url": "https://github.com/jeffersongoncalves/filament-erp-support",
-    "description": "Filament v5 panel resources for the Laravel ERP support module — issues, SLAs and warranty claims.",
+    "description": "Filament ERP support UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
-      "helpdesk",
+      "issue",
       "laravel",
-      "php",
-      "sla"
+      "sla",
+      "support",
+      "warranty"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T23:49:28Z",
-    "updated_at": "2026-06-29T01:41:33Z",
-    "pushed_at": "2026-06-29T01:41:29Z",
+    "license": null,
+    "created_at": "2026-06-29T14:19:08Z",
+    "updated_at": "2026-07-10T03:42:14Z",
+    "pushed_at": "2026-07-01T22:27:44Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-projects": {
     "name": "jeffersongoncalves/filament-erp-projects",
     "url": "https://github.com/jeffersongoncalves/filament-erp-projects",
-    "description": "Filament v5 panel resources for the Laravel ERP projects module — projects, tasks and timesheets.",
+    "description": "Filament ERP projects UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
       "laravel",
-      "php",
       "projects",
+      "tasks",
       "timesheets"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T23:36:01Z",
-    "updated_at": "2026-06-29T01:32:34Z",
-    "pushed_at": "2026-06-29T01:32:31Z",
+    "license": null,
+    "created_at": "2026-06-29T14:19:06Z",
+    "updated_at": "2026-07-10T03:41:07Z",
+    "pushed_at": "2026-07-01T22:27:42Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-crm": {
     "name": "jeffersongoncalves/filament-erp-crm",
     "url": "https://github.com/jeffersongoncalves/filament-erp-crm",
-    "description": "Filament v5 panel resources for the Laravel ERP CRM module — leads, opportunities and campaigns.",
+    "description": "Filament ERP crm UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
+      "campaign",
       "crm",
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
       "laravel",
-      "php"
+      "lead",
+      "opportunity"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T23:22:00Z",
-    "updated_at": "2026-06-29T01:38:51Z",
-    "pushed_at": "2026-06-29T01:38:47Z",
+    "license": null,
+    "created_at": "2026-06-29T14:19:02Z",
+    "updated_at": "2026-07-10T03:40:27Z",
+    "pushed_at": "2026-07-01T22:27:41Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-subcontracting": {
     "name": "jeffersongoncalves/filament-erp-subcontracting",
     "url": "https://github.com/jeffersongoncalves/filament-erp-subcontracting",
-    "description": "Filament v5 panel resources for the Laravel ERP subcontracting module — subcontracting BOMs, orders and receipts.",
+    "description": "Filament ERP subcontracting UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
       "laravel",
-      "php",
-      "subcontracting"
+      "subcontracting",
+      "subcontracting-bom",
+      "subcontracting-order",
+      "subcontracting-receipt"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T21:48:37Z",
-    "updated_at": "2026-06-29T01:29:23Z",
-    "pushed_at": "2026-06-29T01:29:19Z",
+    "license": null,
+    "created_at": "2026-06-29T14:18:59Z",
+    "updated_at": "2026-07-10T03:41:52Z",
+    "pushed_at": "2026-07-01T22:27:39Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-assets": {
     "name": "jeffersongoncalves/filament-erp-assets",
     "url": "https://github.com/jeffersongoncalves/filament-erp-assets",
-    "description": "Filament v5 panel resources for the Laravel ERP assets module — fixed asset register, depreciation and movements.",
+    "description": "Filament ERP assets UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
       "assets",
       "depreciation",
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
-      "laravel",
-      "php"
+      "fixed-asset",
+      "laravel"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T21:33:21Z",
-    "updated_at": "2026-06-29T01:25:09Z",
-    "pushed_at": "2026-06-29T01:25:06Z",
+    "license": null,
+    "created_at": "2026-06-29T14:18:56Z",
+    "updated_at": "2026-07-10T03:39:58Z",
+    "pushed_at": "2026-07-01T22:27:38Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-manufacturing": {
     "name": "jeffersongoncalves/filament-erp-manufacturing",
     "url": "https://github.com/jeffersongoncalves/filament-erp-manufacturing",
-    "description": "Filament v5 panel resources for the Laravel ERP manufacturing module — BOMs, work orders and job cards.",
+    "description": "Filament ERP manufacturing UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
+      "bom",
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
+      "job-card",
       "laravel",
       "manufacturing",
-      "php"
+      "work-order"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T20:52:32Z",
-    "updated_at": "2026-06-29T01:20:56Z",
-    "pushed_at": "2026-06-29T02:19:06Z",
+    "license": null,
+    "created_at": "2026-06-29T14:18:54Z",
+    "updated_at": "2026-07-10T03:40:57Z",
+    "pushed_at": "2026-07-01T22:27:36Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-buying": {
     "name": "jeffersongoncalves/filament-erp-buying",
     "url": "https://github.com/jeffersongoncalves/filament-erp-buying",
-    "description": "Filament v5 panel resources for the Laravel ERP buying module — suppliers, RFQs, supplier quotations and purchase orders.",
+    "description": "Filament ERP buying UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
+      "buying",
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
       "laravel",
-      "php",
-      "purchasing"
+      "procurement",
+      "purchase-order",
+      "supplier"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T20:52:27Z",
-    "updated_at": "2026-06-29T01:16:52Z",
-    "pushed_at": "2026-06-29T02:16:03Z",
+    "license": null,
+    "created_at": "2026-06-29T14:18:51Z",
+    "updated_at": "2026-07-10T03:40:08Z",
+    "pushed_at": "2026-07-01T22:27:31Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-selling": {
     "name": "jeffersongoncalves/filament-erp-selling",
     "url": "https://github.com/jeffersongoncalves/filament-erp-selling",
-    "description": "Filament v5 panel resources for the Laravel ERP selling module — customers, quotations and sales orders.",
-    "stars": 2,
+    "description": "Filament ERP selling UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
+    "stars": 1,
     "forks": 0,
     "topics": [
+      "crm",
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
       "laravel",
-      "php",
-      "sales"
+      "sales",
+      "selling"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T20:52:23Z",
-    "updated_at": "2026-06-29T01:12:51Z",
-    "pushed_at": "2026-06-29T02:12:57Z",
+    "license": null,
+    "created_at": "2026-06-29T14:18:48Z",
+    "updated_at": "2026-07-10T03:41:28Z",
+    "pushed_at": "2026-07-01T22:27:30Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-stock": {
     "name": "jeffersongoncalves/filament-erp-stock",
     "url": "https://github.com/jeffersongoncalves/filament-erp-stock",
-    "description": "Filament v5 panel resources for the Laravel ERP stock module — items, warehouses, stock entries and the perpetual inventory ledger.",
+    "description": "Filament ERP stock UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
       "inventory",
       "laravel",
-      "php",
-      "stock"
+      "stock",
+      "warehouse"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T20:52:18Z",
-    "updated_at": "2026-06-29T01:05:22Z",
-    "pushed_at": "2026-06-29T01:05:18Z",
+    "license": null,
+    "created_at": "2026-06-29T14:18:45Z",
+    "updated_at": "2026-07-10T03:41:39Z",
+    "pushed_at": "2026-07-01T22:27:28Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-accounting": {
     "name": "jeffersongoncalves/filament-erp-accounting",
     "url": "https://github.com/jeffersongoncalves/filament-erp-accounting",
-    "description": "Filament v5 panel resources for the Laravel ERP accounting module — chart of accounts, journal/payment entries, invoices and the general ledger.",
+    "description": "Filament ERP accounting UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
       "accounting",
       "erp",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
       "general-ledger",
-      "laravel",
-      "php"
+      "invoice",
+      "laravel"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T20:52:13Z",
-    "updated_at": "2026-06-29T01:45:54Z",
-    "pushed_at": "2026-06-29T02:07:21Z",
+    "license": null,
+    "created_at": "2026-06-29T14:18:42Z",
+    "updated_at": "2026-07-10T03:39:48Z",
+    "pushed_at": "2026-07-01T22:27:24Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "jeffersongoncalves/filament-erp-core": {
     "name": "jeffersongoncalves/filament-erp-core",
     "url": "https://github.com/jeffersongoncalves/filament-erp-core",
-    "description": "Filament v5 panel resources for the Laravel ERP core — companies, currencies, units, fiscal years and organizational masters.",
+    "description": "Filament ERP core UI plugin (v5). Read-only split mirror of jeffersongoncalves/filament-erp.",
     "stars": 1,
     "forks": 0,
     "topics": [
+      "company",
+      "currency",
       "erp",
-      "erp-core",
-      "erp-ecosystem",
       "filament",
       "filament-plugin",
-      "filamentphp",
       "laravel",
-      "php"
+      "uom"
     ],
     "language": "PHP",
-    "license": "MIT",
-    "created_at": "2026-06-27T20:52:08Z",
-    "updated_at": "2026-06-29T00:56:55Z",
-    "pushed_at": "2026-06-29T02:04:16Z",
+    "license": null,
+    "created_at": "2026-06-29T14:18:38Z",
+    "updated_at": "2026-07-10T03:40:17Z",
+    "pushed_at": "2026-07-01T22:27:21Z",
     "discovered_at": "2026-06-28T07:22:56.146Z"
   },
   "laravelsecurityaudit/laravel-secret-scanner": {
@@ -90067,8 +90127,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-30T23:45:46Z",
-    "updated_at": "2026-07-09T20:13:33Z",
-    "pushed_at": "2026-07-09T20:13:15Z",
+    "updated_at": "2026-07-10T07:29:15Z",
+    "pushed_at": "2026-07-10T07:28:59Z",
     "discovered_at": "2026-06-28T18:26:04.189Z"
   },
   "oi-lab/oi-laravel-seeds": {
@@ -90465,11 +90525,16 @@
     "description": "Monorepo (source-of-truth) for the Laravel ERP domain package ecosystem. Splits read-only into jeffersongoncalves/laravel-erp-*.",
     "stars": 3,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "laravel",
+      "monorepo",
+      "php"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T13:29:19Z",
-    "updated_at": "2026-07-05T17:00:22Z",
+    "updated_at": "2026-07-10T03:43:58Z",
     "pushed_at": "2026-06-30T21:59:43Z",
     "discovered_at": "2026-06-29T18:42:12.469Z"
   },
@@ -90479,11 +90544,16 @@
     "description": "Laravel ERP suite (package jeffersongoncalves/laravel-erp) — aggregates all domain packages. Read-only split mirror of jeffersongoncalves/laravel-erp.",
     "stars": 0,
     "forks": 0,
-    "topics": [],
+    "topics": [
+      "erp",
+      "laravel",
+      "php",
+      "suite"
+    ],
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-29T16:50:22Z",
-    "updated_at": "2026-06-30T19:00:00Z",
+    "updated_at": "2026-07-10T03:36:46Z",
     "pushed_at": "2026-06-30T22:00:01Z",
     "discovered_at": "2026-06-29T18:42:12.469Z"
   },
@@ -92559,8 +92629,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-03-22T10:36:31Z",
-    "updated_at": "2026-07-10T00:07:28Z",
-    "pushed_at": "2026-07-10T00:07:23Z",
+    "updated_at": "2026-07-10T07:07:10Z",
+    "pushed_at": "2026-07-10T07:06:48Z",
     "discovered_at": "2026-07-03T07:06:36.911Z"
   },
   "dinushchathurya/uk-mobile-number-validator": {
@@ -92579,8 +92649,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2022-04-17T14:39:05Z",
-    "updated_at": "2026-07-10T00:07:24Z",
-    "pushed_at": "2026-07-10T00:07:19Z",
+    "updated_at": "2026-07-10T07:06:45Z",
+    "pushed_at": "2026-07-10T07:06:41Z",
     "discovered_at": "2026-07-03T07:06:36.911Z"
   },
   "dinushchathurya/srilankan-mobile-number-validator": {
@@ -92599,8 +92669,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2022-02-15T16:02:01Z",
-    "updated_at": "2026-07-10T00:03:31Z",
-    "pushed_at": "2026-07-10T00:03:27Z",
+    "updated_at": "2026-07-10T07:03:09Z",
+    "pushed_at": "2026-07-10T07:02:50Z",
     "discovered_at": "2026-07-03T07:06:36.911Z"
   },
   "dinushchathurya/nationality-list": {
@@ -92623,8 +92693,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2022-03-08T16:21:08Z",
-    "updated_at": "2026-07-09T23:52:12Z",
-    "pushed_at": "2026-07-09T23:52:09Z",
+    "updated_at": "2026-07-10T06:51:37Z",
+    "pushed_at": "2026-07-10T06:51:32Z",
     "discovered_at": "2026-07-03T07:06:36.911Z"
   },
   "dinushchathurya/laravel-test-package-development": {
@@ -92637,8 +92707,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2021-11-01T15:17:21Z",
-    "updated_at": "2026-07-09T23:49:35Z",
-    "pushed_at": "2026-07-09T23:49:31Z",
+    "updated_at": "2026-07-10T06:49:11Z",
+    "pushed_at": "2026-07-10T06:48:59Z",
     "discovered_at": "2026-07-03T07:06:36.911Z"
   },
   "dinushchathurya/laravel-roles-and-permission": {
@@ -92659,8 +92729,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2021-06-20T15:46:58Z",
-    "updated_at": "2026-07-09T23:49:08Z",
-    "pushed_at": "2026-07-09T23:49:05Z",
+    "updated_at": "2026-07-10T06:48:33Z",
+    "pushed_at": "2026-07-10T06:48:28Z",
     "discovered_at": "2026-07-03T07:06:36.911Z"
   },
   "luffyzhao/laravel-boost-trae-extension": {
@@ -92697,8 +92767,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2021-11-26T06:03:31Z",
-    "updated_at": "2026-07-09T23:46:07Z",
-    "pushed_at": "2026-07-09T23:46:03Z",
+    "updated_at": "2026-07-10T06:45:37Z",
+    "pushed_at": "2026-07-10T06:45:26Z",
     "discovered_at": "2026-07-03T07:06:36.911Z"
   },
   "rakibdevs/openweather-laravel-api": {
@@ -92758,8 +92828,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2020-04-25T07:15:05Z",
-    "updated_at": "2026-07-10T00:04:02Z",
-    "pushed_at": "2026-07-10T00:03:58Z",
+    "updated_at": "2026-07-10T07:03:25Z",
+    "pushed_at": "2026-07-10T07:03:20Z",
     "discovered_at": "2026-07-03T07:06:36.913Z"
   },
   "poshtive/laravel-router": {
@@ -92797,8 +92867,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2021-03-21T10:57:53Z",
-    "updated_at": "2026-07-09T23:47:57Z",
-    "pushed_at": "2026-07-09T23:47:54Z",
+    "updated_at": "2026-07-10T06:47:22Z",
+    "pushed_at": "2026-07-10T06:47:18Z",
     "discovered_at": "2026-07-03T07:06:36.915Z"
   },
   "mjedari/larafilter": {
@@ -92823,13 +92893,13 @@
     "name": "MiranSalehi/mksine",
     "url": "https://github.com/MiranSalehi/mksine",
     "description": "Laravel + Filament 4 CMS foundation: visual page builder, installable plugins & themes, hooks, menus, media library, settings, translations, and a Super Admin console. Composer package for building content-driven sites and extensible admin panels without forking Laravel.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-28T09:09:07Z",
-    "updated_at": "2026-07-09T15:13:04Z",
+    "updated_at": "2026-07-10T06:25:24Z",
     "pushed_at": "2026-07-09T15:12:28Z",
     "discovered_at": "2026-07-03T09:40:45.705Z"
   },
@@ -92860,8 +92930,8 @@
     "language": "PHP",
     "license": "Apache-2.0",
     "created_at": "2026-07-03T10:39:58Z",
-    "updated_at": "2026-07-03T10:49:35Z",
-    "pushed_at": "2026-07-10T00:47:52Z",
+    "updated_at": "2026-07-10T02:11:59Z",
+    "pushed_at": "2026-07-10T02:12:05Z",
     "discovered_at": "2026-07-03T13:02:41.864Z"
   },
   "shoboske/laravel-datatable-query-builder": {
@@ -93055,8 +93125,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-04T00:14:38Z",
-    "updated_at": "2026-07-09T20:18:46Z",
-    "pushed_at": "2026-07-09T20:19:01Z",
+    "updated_at": "2026-07-10T04:52:08Z",
+    "pushed_at": "2026-07-10T04:52:21Z",
     "discovered_at": "2026-07-04T12:46:56.724Z"
   },
   "siko001/atx-ticket-event-laravel": {
@@ -93875,16 +93945,16 @@
     "forks": 0,
     "topics": [
       "bm25",
-      "cjk",
       "fulltext-search",
       "laravel-package",
       "multi-language-support",
+      "self-hosted",
       "sqlite-fts5"
     ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-05T20:54:12Z",
-    "updated_at": "2026-07-09T19:36:10Z",
+    "updated_at": "2026-07-10T01:57:08Z",
     "pushed_at": "2026-07-09T19:38:19Z",
     "discovered_at": "2026-07-07T07:34:45.614Z"
   },
@@ -93907,8 +93977,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-28T10:32:46Z",
-    "updated_at": "2026-07-09T09:40:11Z",
-    "pushed_at": "2026-07-09T15:21:03Z",
+    "updated_at": "2026-07-10T02:30:26Z",
+    "pushed_at": "2026-07-10T02:30:22Z",
     "discovered_at": "2026-07-07T07:34:45.614Z"
   },
   "madebyclowd/laravel-documentable": {
@@ -94115,13 +94185,13 @@
     "name": "aprendible/backup-ui",
     "url": "https://github.com/aprendible/backup-ui",
     "description": "Laravel Backup UI for Spatie Laravel Backup package",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-07T19:23:22Z",
-    "updated_at": "2026-07-08T01:04:59Z",
+    "updated_at": "2026-07-10T03:41:10Z",
     "pushed_at": "2026-07-08T01:05:33Z",
     "discovered_at": "2026-07-08T00:56:52.693Z"
   },
@@ -94144,8 +94214,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-06T15:10:50Z",
-    "updated_at": "2026-07-09T20:00:01Z",
-    "pushed_at": "2026-07-07T22:35:42Z",
+    "updated_at": "2026-07-10T04:26:18Z",
+    "pushed_at": "2026-07-10T04:54:59Z",
     "discovered_at": "2026-07-08T00:56:52.693Z"
   },
   "laravel/package-skeleton": {
@@ -94355,8 +94425,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-07T23:00:25Z",
-    "updated_at": "2026-07-08T15:45:20Z",
-    "pushed_at": "2026-07-09T23:20:35Z",
+    "updated_at": "2026-07-10T01:38:51Z",
+    "pushed_at": "2026-07-10T02:17:58Z",
     "discovered_at": "2026-07-08T18:52:06.004Z"
   },
   "holgerhatgarkeinenode/einundzwanzig-group": {
@@ -94380,8 +94450,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-07-07T21:54:18Z",
-    "updated_at": "2026-07-10T00:45:37Z",
-    "pushed_at": "2026-07-10T00:45:33Z",
+    "updated_at": "2026-07-10T01:44:34Z",
+    "pushed_at": "2026-07-10T01:44:30Z",
     "discovered_at": "2026-07-08T18:52:06.004Z"
   },
   "laranail/db-console-webui": {
@@ -94545,8 +94615,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-09T17:03:03Z",
-    "updated_at": "2026-07-09T19:03:16Z",
-    "pushed_at": "2026-07-09T18:05:34Z",
+    "updated_at": "2026-07-10T05:16:27Z",
+    "pushed_at": "2026-07-10T05:21:00Z",
     "discovered_at": "2026-07-09T18:59:00.192Z"
   },
   "omaralalwi/gpdf": {
@@ -94616,8 +94686,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-10T00:26:53Z",
-    "updated_at": "2026-07-10T00:31:14Z",
-    "pushed_at": "2026-07-10T00:31:10Z",
+    "updated_at": "2026-07-10T01:21:00Z",
+    "pushed_at": "2026-07-10T01:20:57Z",
     "discovered_at": "2026-07-10T01:00:50.097Z"
   },
   "boldlygrow/okta-api-client": {
@@ -94630,8 +94700,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-04T22:35:21Z",
-    "updated_at": "2026-07-09T22:44:20Z",
-    "pushed_at": "2026-07-09T22:44:17Z",
+    "updated_at": "2026-07-10T02:36:41Z",
+    "pushed_at": "2026-07-10T02:36:37Z",
     "discovered_at": "2026-07-10T01:00:50.097Z"
   },
   "wiserwebsolutions/laravel-lobbyist-palegis": {
@@ -94644,8 +94714,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-09T20:06:49Z",
-    "updated_at": "2026-07-09T20:07:46Z",
-    "pushed_at": "2026-07-09T20:07:22Z",
+    "updated_at": "2026-07-10T02:56:40Z",
+    "pushed_at": "2026-07-10T02:56:36Z",
     "discovered_at": "2026-07-10T01:00:50.097Z"
   },
   "wiserwebsolutions/laravel-lobbyist": {
@@ -94658,8 +94728,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-07-09T20:02:09Z",
-    "updated_at": "2026-07-09T20:04:08Z",
-    "pushed_at": "2026-07-09T20:03:42Z",
+    "updated_at": "2026-07-10T02:53:03Z",
+    "pushed_at": "2026-07-10T02:52:59Z",
     "discovered_at": "2026-07-10T01:00:50.097Z"
   },
   "wiserwebsolutions/laravel-lobbyist-legiscan": {
@@ -94672,8 +94742,141 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-09T19:49:36Z",
-    "updated_at": "2026-07-09T19:57:52Z",
-    "pushed_at": "2026-07-09T19:57:39Z",
+    "updated_at": "2026-07-10T02:58:26Z",
+    "pushed_at": "2026-07-10T02:58:22Z",
     "discovered_at": "2026-07-10T01:00:50.097Z"
+  },
+  "edram/laravel-package": {
+    "name": "edram/laravel-package",
+    "url": "https://github.com/edram/laravel-package",
+    "description": "Laravel package template",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-07-10T06:01:18Z",
+    "updated_at": "2026-07-10T06:02:55Z",
+    "pushed_at": "2026-07-10T06:15:04Z",
+    "discovered_at": "2026-07-10T07:34:05.058Z"
+  },
+  "saugat77/laravel-doctor": {
+    "name": "saugat77/laravel-doctor",
+    "url": "https://github.com/saugat77/laravel-doctor",
+    "description": "Laravel Doctor is an extensible health check package that scans Laravel applications for configuration issues, security risks, performance bottlenecks, and best practice violations, providing actionable recommendations to improve application health.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-07-10T04:44:33Z",
+    "updated_at": "2026-07-10T04:48:00Z",
+    "pushed_at": "2026-07-10T04:47:56Z",
+    "discovered_at": "2026-07-10T07:34:05.058Z"
+  },
+  "matmper/laravel-brazil-validation": {
+    "name": "matmper/laravel-brazil-validation",
+    "url": "https://github.com/matmper/laravel-brazil-validation",
+    "description": "Composer package for request field validation for Laravel",
+    "stars": 2,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2023-09-17T19:30:49Z",
+    "updated_at": "2026-07-10T01:28:33Z",
+    "pushed_at": "2026-07-10T01:28:59Z",
+    "discovered_at": "2026-07-10T07:34:05.058Z"
+  },
+  "jeffersongoncalves/filament-erp-suite": {
+    "name": "jeffersongoncalves/filament-erp-suite",
+    "url": "https://github.com/jeffersongoncalves/filament-erp-suite",
+    "description": "Filament ERP suite umbrella (package jeffersongoncalves/filament-erp). Read-only split mirror of jeffersongoncalves/filament-erp.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "bundle",
+      "erp",
+      "filament",
+      "filament-plugin",
+      "laravel",
+      "umbrella"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-29T16:33:44Z",
+    "updated_at": "2026-07-10T03:42:02Z",
+    "pushed_at": "2026-07-01T22:27:20Z",
+    "discovered_at": "2026-07-10T07:34:05.062Z"
+  },
+  "jeffersongoncalves/laravel-newsletter": {
+    "name": "jeffersongoncalves/laravel-newsletter",
+    "url": "https://github.com/jeffersongoncalves/laravel-newsletter",
+    "description": "Compose, schedule and send double opt-in email newsletters with open/click tracking for Laravel applications.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "composer",
+      "double-opt-in",
+      "email",
+      "email-marketing",
+      "jeffersongoncalves",
+      "laravel",
+      "laravel-package",
+      "mailing-list",
+      "newsletter",
+      "php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-07-10T03:22:31Z",
+    "updated_at": "2026-07-10T03:38:17Z",
+    "pushed_at": "2026-07-10T03:38:12Z",
+    "discovered_at": "2026-07-10T07:34:05.063Z"
+  },
+  "jeffersongoncalves/filament-newsletter": {
+    "name": "jeffersongoncalves/filament-newsletter",
+    "url": "https://github.com/jeffersongoncalves/filament-newsletter",
+    "description": "Filament plugin for composing, scheduling and sending double opt-in email newsletters with open/click tracking.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "email",
+      "filament",
+      "filament-plugin",
+      "jeffersongoncalves",
+      "laravel",
+      "livewire",
+      "newsletter",
+      "php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-07-10T03:22:40Z",
+    "updated_at": "2026-07-10T03:31:55Z",
+    "pushed_at": "2026-07-10T03:48:02Z",
+    "discovered_at": "2026-07-10T07:34:05.064Z"
+  },
+  "jeffersongoncalves/filament-erp-hr": {
+    "name": "jeffersongoncalves/filament-erp-hr",
+    "url": "https://github.com/jeffersongoncalves/filament-erp-hr",
+    "description": "Filament v5 UI for ERP HR & payroll — employees, attendance, leave, salary structures and payroll. Read-only split of jeffersongoncalves/filament-erp.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "attendance",
+      "erp",
+      "filament",
+      "filament-plugin",
+      "hr",
+      "laravel",
+      "payroll"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-06-30T19:58:39Z",
+    "updated_at": "2026-07-10T03:40:37Z",
+    "pushed_at": "2026-07-01T22:27:48Z",
+    "discovered_at": "2026-07-10T07:34:05.064Z"
   }
 }

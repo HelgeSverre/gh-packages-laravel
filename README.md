@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5182  
-**Last updated:** 2026-07-11T00:54:26.844Z
+**Total packages tracked:** 5185  
+**Last updated:** 2026-07-11T07:05:34.827Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [millerphp/laravel-browserless](https://github.com/millerphp/laravel-browserless) | 12 | The Laravel Browserless Package |
+| [freshworkstudio/ChileanBundle](https://github.com/freshworkstudio/ChileanBundle) | 98 | A PHP composer package with Chilean validations, common variables, etc.  (RUT, I... |
+| [arth2o/auth-profile](https://github.com/arth2o/auth-profile) | 0 | A lightweight, secure token-based authentication and profile API package for Lar... |
 | [fuad745/luckydraw-lottery](https://github.com/fuad745/luckydraw-lottery) | 0 | LuckyDraw — full-stack Telegram Mini App lottery in Laravel 13 + Livewire 4. |
 | [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | Open-source, self-hosted video processing & delivery engine — upload, transcode ... |
 | [D1360L/laravel-role-manager](https://github.com/D1360L/laravel-role-manager) | 0 | A Laravel package to manage the relationships between users and Spatie roles, wi... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mekedron/platform.live.tips](https://github.com/mekedron/platform.live.tips) | 1 | Open-source, self-hostable Buy Me a Coffee / Ko-fi alternative for live performe... |
 | [AlizHarb/agent-skills](https://github.com/AlizHarb/agent-skills) | 1 | A growing collection of high-quality Agent Skills for AI coding assistants. Enha... |
 | [Ririkana-Labs/ririkana-agent](https://github.com/Ririkana-Labs/ririkana-agent) | 1 | A reusable, governed, tenant-safe Laravel 13 package for building business AI ag... |
-| [NicolasKion/Esi](https://github.com/NicolasKion/Esi) | 0 | Laravel package that integrates EVE Online's ESI API — typed DTOs, OAuth token r... |
-| [NicolasKion/SDE](https://github.com/NicolasKion/SDE) | 0 | Laravel package that downloads EVE Online's Static Data Export (SDE) and seeds i... |
-| [yehia-tarek/salla-toolkit](https://github.com/yehia-tarek/salla-toolkit) | 0 | An unofficial Laravel package for building apps on the [Salla](https://salla.sa)... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-11 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-11 | Laravel package that validates all UK post codes. |
+| [dinushchathurya/uk-mobile-number-validator](https://github.com/dinushchathurya/uk-mobile-number-validator) | 0 | 2026-07-11 | This Laravel package validates UK mobile numbers. |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-11 | Package para Laravel y facturacion |
+| [dinushchathurya/srilankan-universities-faculties-degrees](https://github.com/dinushchathurya/srilankan-universities-faculties-degrees) | 1 | 2026-07-11 | :computer: All Srilankan Universities, Faculties and Undegra... |
+| [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-11 | This Laravel package validates all Sri Lankan telephone numb... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-07-11 | Laravel USPS Package to integrate USPS Address |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-11 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [millerphp/laravel-browserless](https://github.com/millerphp/laravel-browserless) | 12 | 2026-07-11 | The Laravel Browserless Package |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-11 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-11 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-11 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-11 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-11 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-11 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [psyao/aguet.dev](https://github.com/psyao/aguet.dev) | 0 | 2026-07-11 | Personal one-page portfolio — bilingual (FR/EN) Laravel 13 +... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-11 | Provides email verification on the go. |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-11 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-11 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-07-11 | Runtime base library for building Laravel packages: fluent P... |
-| [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-11 | This Laravel package validates all Sri Lankan telephone numb... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-11 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Shankar-Tom/laravel-basic-setting](https://github.com/Shankar-Tom/laravel-basic-setting) | 0 | 2026-07-11 | Laravel Basic Setting Package with middleware, traits, and v... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-11 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-11 | This package is a Laravel package that contains all National... |
-| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-11 |  |
-| [dinushchathurya/laravel-roles-and-permission](https://github.com/dinushchathurya/laravel-roles-and-permission) | 0 | 2026-07-11 | Laravel Role and Permission example with Spatie package |
-| [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | 2026-07-11 | Laravel Livewire CRUD |
-| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-11 | This is a Laravel demo application of identifying the user's... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-11 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-11 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [romegasoftware/laravel-schema-generator](https://github.com/romegasoftware/laravel-schema-generator) | 32 | 2026-07-11 | Generate typescript schemas for zod and others from your Lar... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-11 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-11 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-11 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-07-11 | Open-source, self-hosted video processing & delivery engine ... |
-| [ultra-bugs/flex2cell](https://github.com/ultra-bugs/flex2cell) | 2 | 2026-07-11 | A flexible and efficient library for exporting data to Excel... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-11 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-11T07:05 | 3 | 1725 | 5185 |
 | 2026-07-11T00:54 | 4 | 1725 | 5182 |
 | 2026-07-10T18:52 | 10 | 1718 | 5178 |
 | 2026-07-10T13:05 | 7 | 1724 | 5168 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-09T13:24 | 5 | 1726 | 5145 |
 | 2026-07-09T07:34 | 0 | 1726 | 5140 |
 | 2026-07-09T01:02 | 1 | 1725 | 5140 |
-| 2026-07-08T18:52 | 5 | 1720 | 5139 |
 
 ---
 

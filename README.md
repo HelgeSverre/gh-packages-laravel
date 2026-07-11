@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5185  
-**Last updated:** 2026-07-11T07:05:34.827Z
+**Total packages tracked:** 5187  
+**Last updated:** 2026-07-11T12:40:54.824Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 1 | Built to support GDPR/DSGVO-compliant legal consent workflows in Laravel. Render... |
+| [skywalker-labs/sitemapper](https://github.com/skywalker-labs/sitemapper) | 0 | sitemapper is a modern, framework-agnostic PHP package for generating sitemaps i... |
+| [coufal/laravel-http-cronjob](https://github.com/coufal/laravel-http-cronjob) | 1 | A Laravel package to trigger the scheduler using cronjobs over HTTP. |
 | [millerphp/laravel-browserless](https://github.com/millerphp/laravel-browserless) | 12 | The Laravel Browserless Package |
 | [freshworkstudio/ChileanBundle](https://github.com/freshworkstudio/ChileanBundle) | 98 | A PHP composer package with Chilean validations, common variables, etc.  (RUT, I... |
 | [arth2o/auth-profile](https://github.com/arth2o/auth-profile) | 0 | A lightweight, secure token-based authentication and profile API package for Lar... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [BeGenius-Innovator/laravel-ussd](https://github.com/BeGenius-Innovator/laravel-ussd) | 0 | A Laravel package to build scalable USSD applications and workflows. |
 | [laricekl/ProximaJob-livrable](https://github.com/laricekl/ProximaJob-livrable) | 0 | Laravel livrable package for deployment |
 | [xPapay/localhoist-laravel](https://github.com/xPapay/localhoist-laravel) | 0 | php artisan share — Laravel package for localhoist. Read-only split of github.co... |
-| [mekedron/platform.live.tips](https://github.com/mekedron/platform.live.tips) | 1 | Open-source, self-hostable Buy Me a Coffee / Ko-fi alternative for live performe... |
-| [AlizHarb/agent-skills](https://github.com/AlizHarb/agent-skills) | 1 | A growing collection of high-quality Agent Skills for AI coding assistants. Enha... |
-| [Ririkana-Labs/ririkana-agent](https://github.com/Ririkana-Labs/ririkana-agent) | 1 | A reusable, governed, tenant-safe Laravel 13 package for building business AI ag... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -52,33 +52,33 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 436 | A media picker plugin for Filament Panels. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 434 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 435 | Open Source Laravel CRM Package |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 433 | Track page views, visitors, and audience analytics with an elegant Laravel packa... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-11 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-11 | Laravel package that validates all UK post codes. |
-| [dinushchathurya/uk-mobile-number-validator](https://github.com/dinushchathurya/uk-mobile-number-validator) | 0 | 2026-07-11 | This Laravel package validates UK mobile numbers. |
+| [InteractionDesignFoundation/coding-standard](https://github.com/InteractionDesignFoundation/coding-standard) | 7 | 2026-07-11 | PHPCS coding-standard for Laravel applications and packages |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-07-11 | Laravel package scaffolder: generate complete, convention-re... |
+| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-07-11 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-07-11 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-11 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-07-11 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
+| [pushery/polyslug-for-laravel](https://github.com/pushery/polyslug-for-laravel) | 1 | 2026-07-11 | Polyslug gives Laravel Eloquent models multilingual, polymor... |
+| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 1 | 2026-07-11 | Customer-configurable outgoing webhooks for Laravel with end... |
+| [ramonrietdijk/livewire-tables](https://github.com/ramonrietdijk/livewire-tables) | 212 | 2026-07-11 | Dynamic tables for models with Laravel Livewire |
 | [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-11 | Package para Laravel y facturacion |
-| [dinushchathurya/srilankan-universities-faculties-degrees](https://github.com/dinushchathurya/srilankan-universities-faculties-degrees) | 1 | 2026-07-11 | :computer: All Srilankan Universities, Faculties and Undegra... |
-| [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-11 | This Laravel package validates all Sri Lankan telephone numb... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-07-11 | Laravel USPS Package to integrate USPS Address |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-11 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [millerphp/laravel-browserless](https://github.com/millerphp/laravel-browserless) | 12 | 2026-07-11 | The Laravel Browserless Package |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-11 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-11 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-11 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-11 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-11 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-11 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [psyao/aguet.dev](https://github.com/psyao/aguet.dev) | 0 | 2026-07-11 | Personal one-page portfolio — bilingual (FR/EN) Laravel 13 +... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-11 | Provides email verification on the go. |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-11 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-11 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-11 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-11 | This package is a Laravel package that contains all National... |
+| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 22 | 2026-07-11 | Passwordless email magic-link & OTP authentication for Larav... |
+| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-11 |  |
+| [dinushchathurya/laravel-roles-and-permission](https://github.com/dinushchathurya/laravel-roles-and-permission) | 0 | 2026-07-11 | Laravel Role and Permission example with Spatie package |
+| [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | 2026-07-11 | Laravel Livewire CRUD |
+| [sm-me-dev/laravel-redis-model-cache](https://github.com/sm-me-dev/laravel-redis-model-cache) | 1 | 2026-07-11 | Optimize your Laravel application with a native Redis cachin... |
+| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-11 | This is a Laravel demo application of identifying the user's... |
+| [fastaar/fastaar-laravel](https://github.com/fastaar/fastaar-laravel) | 0 | 2026-07-11 | Laravel package for the Fastaar payment gateway |
+| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-11 | Bitcoin-Community-App für Einundzwanzig – Meetups, Events, K... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-07-11 | Resrv is a booking engine for Statamic. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-11T12:40 | 3 | 1725 | 5187 |
 | 2026-07-11T07:05 | 3 | 1725 | 5185 |
 | 2026-07-11T00:54 | 4 | 1725 | 5182 |
 | 2026-07-10T18:52 | 10 | 1718 | 5178 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-09T18:59 | 5 | 1726 | 5150 |
 | 2026-07-09T13:24 | 5 | 1726 | 5145 |
 | 2026-07-09T07:34 | 0 | 1726 | 5140 |
-| 2026-07-09T01:02 | 1 | 1725 | 5140 |
 
 ---
 

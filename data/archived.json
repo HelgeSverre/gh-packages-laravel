@@ -685,5 +685,28 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-07-10T01:00:50.101Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "ramiro1982/livewire-infinite-feed": {
+    "name": "RAMIRO1982/livewire-infinite-feed",
+    "url": "https://github.com/RAMIRO1982/livewire-infinite-feed",
+    "description": "Livewire + Alpine infinite scroll for your Laravel feeds.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "alpinejs",
+      "flux",
+      "infinite-scroll",
+      "laravel",
+      "livewire",
+      "pagination"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-06-27T17:03:30Z",
+    "updated_at": "2025-07-11T10:53:36Z",
+    "pushed_at": "2025-07-11T10:53:33Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-07-11T12:40:54.797Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

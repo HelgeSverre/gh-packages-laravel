@@ -2,15 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5178  
-**Last updated:** 2026-07-10T18:52:35.489Z
+**Total packages tracked:** 5182  
+**Last updated:** 2026-07-11T00:54:26.844Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [fuad745/luckydraw-lottery](https://github.com/fuad745/luckydraw-lottery) | 0 | LuckyDraw — full-stack Telegram Mini App lottery in Laravel 13 + Livewire 4. |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | Open-source, self-hosted video processing & delivery engine — upload, transcode ... |
+| [D1360L/laravel-role-manager](https://github.com/D1360L/laravel-role-manager) | 0 | A Laravel package to manage the relationships between users and Spatie roles, wi... |
+| [imhcode/localvector-laravel](https://github.com/imhcode/localvector-laravel) | 0 | Laravel package for LocalVector semantic search engine (Scout driver + Artisan c... |
 | [NikoAuso/tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker) | 0 | Personal TV Time-style tracker for series, episodes and movies |
-| [zaber-dev/laravel-lock](https://github.com/zaber-dev/laravel-lock) | 0 | Application-level distributed locking for Laravel with automatic owner detection... |
+| [zaber-dev/laravel-lock](https://github.com/zaber-dev/laravel-lock) | 0 | Application-level distributed locking for Laravel with Eloquent integration, mid... |
 | [dominion-solutions/laravel-mysqlite](https://github.com/dominion-solutions/laravel-mysqlite) | 7 | A Laravel Service Provider that injects select MySQL functions into SQLite |
 | [resultvector/resultvector-laravel](https://github.com/resultvector/resultvector-laravel) | 0 | Report conversion events from a Laravel application to the Result Vector API. |
 | [AesirCloud/Sluggable](https://github.com/AesirCloud/Sluggable) | 0 | A Laravel package to automatically generate slugs for Eloquent models. |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [NicolasKion/Esi](https://github.com/NicolasKion/Esi) | 0 | Laravel package that integrates EVE Online's ESI API — typed DTOs, OAuth token r... |
 | [NicolasKion/SDE](https://github.com/NicolasKion/SDE) | 0 | Laravel package that downloads EVE Online's Static Data Export (SDE) and seeds i... |
 | [yehia-tarek/salla-toolkit](https://github.com/yehia-tarek/salla-toolkit) | 0 | An unofficial Laravel package for building apps on the [Salla](https://salla.sa)... |
-| [hardiksolanki90/openai-laravel](https://github.com/hardiksolanki90/openai-laravel) | 0 | Implements the hardiksolanki/openai-laravel package per OPENAI_LARAVEL_PACKAGE_A... |
-| [jeffersongoncalves/filament-newsletter](https://github.com/jeffersongoncalves/filament-newsletter) | 2 | Filament plugin for composing, scheduling and sending double opt-in email newsle... |
-| [jeffersongoncalves/filament-erp-hr](https://github.com/jeffersongoncalves/filament-erp-hr) | 1 | Filament v5 UI for ERP HR & payroll — employees, attendance, leave, salary struc... |
-| [jeffersongoncalves/laravel-newsletter](https://github.com/jeffersongoncalves/laravel-newsletter) | 1 | Compose, schedule and send double opt-in email newsletters with open/click track... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laricekl/ProximaJob-livrable](https://github.com/laricekl/ProximaJob-livrable) | 0 | 2026-07-10 | Laravel livrable package for deployment |
-| [amdad121/custodian-laravel](https://github.com/amdad121/custodian-laravel) | 1 | 2026-07-10 | A powerful, flexible, and developer-friendly role and permis... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-10 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [HolgerHatGarKeineNode/einundzwanzig-group](https://github.com/HolgerHatGarKeineNode/einundzwanzig-group) | 1 | 2026-07-10 | Nostr-Community-Client für EINUNDZWANZIG (Spaces, Räume, Dir... |
-| [zaber-dev/laravel-lock](https://github.com/zaber-dev/laravel-lock) | 0 | 2026-07-10 | Application-level distributed locking for Laravel with autom... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-10 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [dominion-solutions/laravel-mysqlite](https://github.com/dominion-solutions/laravel-mysqlite) | 7 | 2026-07-10 | A Laravel Service Provider that injects select MySQL functio... |
-| [zaber-dev/laravel-cooldown](https://github.com/zaber-dev/laravel-cooldown) | 0 | 2026-07-10 | Driver-based cooldown management for Laravel with cache & da... |
-| [CreativeCrafts/laravel-ai-agent-kit](https://github.com/CreativeCrafts/laravel-ai-agent-kit) | 1 | 2026-07-10 | Laravel AI Agent Kit is a Laravel package that delivers a fu... |
-| [moaines/laravel-fts](https://github.com/moaines/laravel-fts) | 0 | 2026-07-10 | SQLite FTS5 full-text search for Laravel with PHP-intl. BM25... |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 49 | 2026-07-10 | The ultimate form components kit and custom fields builder f... |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-07-10 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [psyao/aguet.dev](https://github.com/psyao/aguet.dev) | 0 | 2026-07-10 | Personal one-page portfolio — bilingual (FR/EN) Laravel 13 +... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-07-10 | Runtime base library for building Laravel packages: fluent P... |
-| [xPapay/localhoist-laravel](https://github.com/xPapay/localhoist-laravel) | 0 | 2026-07-10 | php artisan share — Laravel package for localhoist. Read-onl... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-10 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [fissible/phone](https://github.com/fissible/phone) | 0 | 2026-07-10 | Laravel package for Twilio-backed business voice and SMS wor... |
-| [dcarrero/contratacion-publica-abierta](https://github.com/dcarrero/contratacion-publica-abierta) | 0 | 2026-07-10 | Portal open source de transparencia en contratación pública ... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-11 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-11 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-07-11 | Runtime base library for building Laravel packages: fluent P... |
+| [dinushchathurya/srilankan-mobile-number-validator](https://github.com/dinushchathurya/srilankan-mobile-number-validator) | 1 | 2026-07-11 | This Laravel package validates all Sri Lankan telephone numb... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-11 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Shankar-Tom/laravel-basic-setting](https://github.com/Shankar-Tom/laravel-basic-setting) | 0 | 2026-07-11 | Laravel Basic Setting Package with middleware, traits, and v... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-11 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-11 | This package is a Laravel package that contains all National... |
+| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-11 |  |
+| [dinushchathurya/laravel-roles-and-permission](https://github.com/dinushchathurya/laravel-roles-and-permission) | 0 | 2026-07-11 | Laravel Role and Permission example with Spatie package |
+| [dinushchathurya/laravel-livewire-crud](https://github.com/dinushchathurya/laravel-livewire-crud) | 1 | 2026-07-11 | Laravel Livewire CRUD |
+| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-11 | This is a Laravel demo application of identifying the user's... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-11 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-11 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [romegasoftware/laravel-schema-generator](https://github.com/romegasoftware/laravel-schema-generator) | 32 | 2026-07-11 | Generate typescript schemas for zod and others from your Lar... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-11 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-11 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-11 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-07-11 | Open-source, self-hosted video processing & delivery engine ... |
+| [ultra-bugs/flex2cell](https://github.com/ultra-bugs/flex2cell) | 2 | 2026-07-11 | A flexible and efficient library for exporting data to Excel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-11T00:54 | 4 | 1725 | 5182 |
 | 2026-07-10T18:52 | 10 | 1718 | 5178 |
 | 2026-07-10T13:05 | 7 | 1724 | 5168 |
 | 2026-07-10T07:34 | 7 | 1725 | 5161 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-09T07:34 | 0 | 1726 | 5140 |
 | 2026-07-09T01:02 | 1 | 1725 | 5140 |
 | 2026-07-08T18:52 | 5 | 1720 | 5139 |
-| 2026-07-08T12:54 | 4 | 1721 | 5134 |
 
 ---
 

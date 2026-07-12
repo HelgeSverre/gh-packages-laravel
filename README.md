@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5190  
-**Last updated:** 2026-07-11T18:38:50.658Z
+**Total packages tracked:** 5192  
+**Last updated:** 2026-07-12T00:59:57.949Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [lfsc09/kdongs](https://github.com/lfsc09/kdongs) | 0 | Kdongs system |
+| [madisoheib/ripple-laravel](https://github.com/madisoheib/ripple-laravel) | 0 | laravel package websockt |
 | [zaber-dev/laravel-quota](https://github.com/zaber-dev/laravel-quota) | 0 | Application-level quota management for Laravel with calendar periods, Eloquent i... |
 | [veekthoven/laravel-cashier-paystack](https://github.com/veekthoven/laravel-cashier-paystack) | 3 | This is a Cashier inspired package for payment provider Paystack (https://paysta... |
 | [builtbyberry/laravel-swarm-mcp](https://github.com/builtbyberry/laravel-swarm-mcp) | 0 | Read-only Model Context Protocol (MCP) server for Laravel Swarm — exposes durabl... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [dominion-solutions/laravel-mysqlite](https://github.com/dominion-solutions/laravel-mysqlite) | 7 | A Laravel Service Provider that injects select MySQL functions into SQLite |
 | [resultvector/resultvector-laravel](https://github.com/resultvector/resultvector-laravel) | 0 | Report conversion events from a Laravel application to the Result Vector API. |
 | [AesirCloud/Sluggable](https://github.com/AesirCloud/Sluggable) | 0 | A Laravel package to automatically generate slugs for Eloquent models. |
-| [boldlygrow/google-api-client](https://github.com/boldlygrow/google-api-client) | 0 | Composer package for Laravel applications for connecting to Google for provision... |
-| [motomedialab/impersonate](https://github.com/motomedialab/impersonate) | 0 | 🎭 A sleek, secure, and lightweight user impersonation package for Laravel. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-07-11 | Laravel package providing polymorphic reactions (like, love,... |
-| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-07-11 | Laravel package providing OTP (One-Time Password) management... |
-| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-07-11 | Laravel TOTP package for two-factor authentication with poly... |
-| [vaened/laravel-authorization](https://github.com/vaened/laravel-authorization) | 3 | 2026-07-11 | Package for the management of authorizations for Laravel |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-11 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-11 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-11 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-11 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-11 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-12 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-12 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [visualbuilder/youtrack-cli](https://github.com/visualbuilder/youtrack-cli) | 1 | 2026-07-12 | Laravel package providing CLI tools for JetBrains Youtrack t... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-12 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-12 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-07-12 | Laravel-based API for storing sensor data from distributed n... |
+| [mrezdev/laravel-talkto](https://github.com/mrezdev/laravel-talkto) | 1 | 2026-07-12 | Secure Laravel service-to-service command transport with sig... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-07-12 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-12 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-12 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-12 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-12 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-12 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-12 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-12 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-11 | Laravel package that validates all UK post codes. |
+| [dinushchathurya/uk-mobile-number-validator](https://github.com/dinushchathurya/uk-mobile-number-validator) | 0 | 2026-07-11 | This Laravel package validates UK mobile numbers. |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-11 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-07-11 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
-| [sm-me-dev/laravel-redis-model-cache](https://github.com/sm-me-dev/laravel-redis-model-cache) | 1 | 2026-07-11 | Optimize your Laravel application with a native Redis cachin... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-11 | Package para Laravel y facturacion |
-| [veekthoven/laravel-cashier-paystack](https://github.com/veekthoven/laravel-cashier-paystack) | 3 | 2026-07-11 | This is a Cashier inspired package for payment provider Pays... |
-| [StuMason/laravel-coolify](https://github.com/StuMason/laravel-coolify) | 10 | 2026-07-11 | Laravel package for deploying to Coolify. Dashboard, CLI com... |
-| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-11 | Bitcoin-Community-App für Einundzwanzig – Meetups, Events, K... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 0 | 2026-07-11 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [polirium/polirium](https://github.com/polirium/polirium) | 41 | 2026-07-11 | Polirium là một nền tảng ERP (Enterprise Resource Planning) ... |
-| [mrezdev/laravel-talkto](https://github.com/mrezdev/laravel-talkto) | 1 | 2026-07-11 | Secure Laravel service-to-service command transport with sig... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-07-11 | Resrv is a booking engine for Statamic. |
+| [dinushchathurya/nationality-list](https://github.com/dinushchathurya/nationality-list) | 0 | 2026-07-11 | This package is a Laravel package that contains all National... |
+| [dinushchathurya/laravel-test-package-development](https://github.com/dinushchathurya/laravel-test-package-development) | 0 | 2026-07-11 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-12T00:59 | 2 | 1726 | 5192 |
 | 2026-07-11T18:38 | 3 | 1725 | 5190 |
 | 2026-07-11T12:40 | 3 | 1725 | 5187 |
 | 2026-07-11T07:05 | 3 | 1725 | 5185 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-10T07:34 | 7 | 1725 | 5161 |
 | 2026-07-10T01:00 | 5 | 1726 | 5154 |
 | 2026-07-09T18:59 | 5 | 1726 | 5150 |
-| 2026-07-09T13:24 | 5 | 1726 | 5145 |
 
 ---
 

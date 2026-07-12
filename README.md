@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5204  
-**Last updated:** 2026-07-12T12:40:01.779Z
+**Total packages tracked:** 5218  
+**Last updated:** 2026-07-12T18:39:55.338Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 0 | Laravel Podman brings Podman Quadlet support to your Laravel application. |
+| [mikeferry/laravel-docker-devkit](https://github.com/mikeferry/laravel-docker-devkit) | 0 | A Docker-only local development environment for Laravel, distributed as a Compos... |
+| [visualbuilder/versionable](https://github.com/visualbuilder/versionable) | 0 | Laravel Versionable Package supporting morphable users |
+| [daniyousefifar/laravel-captcha](https://github.com/daniyousefifar/laravel-captcha) | 0 | A modern, secure, and highly customizable image captcha package for Laravel. |
+| [fntneves/laravel-transactional-events](https://github.com/fntneves/laravel-transactional-events) | 320 | Transaction-aware Event Dispatcher for Laravel |
+| [richardDobron/blade-google-material-symbols-300](https://github.com/richardDobron/blade-google-material-symbols-300) | 0 | A package to easily make use of Google's Material Symbols (300) in your Laravel ... |
+| [richardDobron/blade-google-material-symbols-100](https://github.com/richardDobron/blade-google-material-symbols-100) | 0 | A package to easily make use of Google's Material Symbols (100) in your Laravel ... |
+| [richardDobron/blade-google-material-symbols-400](https://github.com/richardDobron/blade-google-material-symbols-400) | 0 | A package to easily make use of Google's Material Symbols (400) in your Laravel ... |
+| [richardDobron/blade-google-material-symbols-700](https://github.com/richardDobron/blade-google-material-symbols-700) | 0 | A package to easily make use of Google's Material Symbols (700) in your Laravel ... |
+| [richardDobron/blade-google-material-symbols-500](https://github.com/richardDobron/blade-google-material-symbols-500) | 0 | A package to easily make use of Google's Material Symbols (500) in your Laravel ... |
+| [richardDobron/blade-google-material-symbols-600](https://github.com/richardDobron/blade-google-material-symbols-600) | 0 | A package to easily make use of Google's Material Symbols (600) in your Laravel ... |
+| [richardDobron/blade-google-material-symbols-200](https://github.com/richardDobron/blade-google-material-symbols-200) | 0 | A package to easily make use of Google's Material Symbols (200) in your Laravel ... |
+| [richardDobron/blade-google-material-symbols](https://github.com/richardDobron/blade-google-material-symbols) | 0 | A package to easily make use of Google's Material Symbols in your Laravel Blade ... |
+| [laranail/package-tools89](https://github.com/laranail/package-tools89) | 0 | Runtime base library for building Laravel packages: fluent Package builder, attr... |
 | [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | Structured REST API responses for Laravel with exception handling, localization,... |
 | [dev-asp-id/laravel-id-generator](https://github.com/dev-asp-id/laravel-id-generator) | 1 | Generate sequential invoice numbers, transaction IDs, purchase orders, and busin... |
 | [md-mojahed/AIAPI-laravel](https://github.com/md-mojahed/AIAPI-laravel) | 0 | A Laravel AI API package — connect to any LLM provider with a clean, unified int... |
 | [luilliarcec/laravel-username-generator](https://github.com/luilliarcec/laravel-username-generator) | 10 | Laravel Username Generator is a package that allows the versatile generation of ... |
 | [Trigger-engage/laravel-sdk](https://github.com/Trigger-engage/laravel-sdk) | 0 | Fail-open Laravel SDK for Trigger Engage — identify() and track() from your app,... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 0 | Extensible Laravel CMS built on Filament, with multi-site and multilingual conte... |
-| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | Multilingual, multi-site Capell navigation with visual menus, nested links, and ... |
-| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | Visual Capell page composition with reusable widgets, named areas, and clean pub... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | Filament admin panel, editor workflows, settings, and extension points for Capel... |
-| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | Private expiring previews of unsaved Capell page and Layout Builder changes. |
-| [laranex/laravel-myanmar-payments](https://github.com/laranex/laravel-myanmar-payments) | 26 | A Laravel Package to deal with Payment Packages from Myanmar |
-| [mortogo321/laravel-2fa](https://github.com/mortogo321/laravel-2fa) | 0 | Laravel two-factor authentication package - TOTP, WebAuthn/Passkey, SMS, and ema... |
-| [lfsc09/kdongs](https://github.com/lfsc09/kdongs) | 0 | Kdongs system |
-| [madisoheib/ripple-laravel](https://github.com/madisoheib/ripple-laravel) | 0 | laravel package websockt |
-| [zaber-dev/laravel-quota](https://github.com/zaber-dev/laravel-quota) | 0 | Application-level quota management for Laravel with calendar periods, Eloquent i... |
-| [veekthoven/laravel-cashier-paystack](https://github.com/veekthoven/laravel-cashier-paystack) | 3 | This is a Cashier inspired package for payment provider Paystack (https://paysta... |
-| [builtbyberry/laravel-swarm-mcp](https://github.com/builtbyberry/laravel-swarm-mcp) | 0 | Read-only Model Context Protocol (MCP) server for Laravel Swarm — exposes durabl... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 1 | Built to support GDPR/DSGVO-compliant legal consent workflows in Laravel. Render... |
-| [skywalker-labs/sitemapper](https://github.com/skywalker-labs/sitemapper) | 0 | sitemapper is a modern, framework-agnostic PHP package for generating sitemaps i... |
-| [coufal/laravel-http-cronjob](https://github.com/coufal/laravel-http-cronjob) | 1 | A Laravel package to trigger the scheduler using cronjobs over HTTP. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [bagussatoto/Aplikasi-Data-Penjualan-Laravel-8](https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8) | 73 | 2026-07-12 | Membuat Aplikasi Berbasis Web Data Penjualan Menggunakan Lar... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-12 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-12 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [NicolasKion/Esi](https://github.com/NicolasKion/Esi) | 0 | 2026-07-12 | Laravel package that integrates EVE Online's ESI API — typed... |
-| [sergeybruhin/page-meta](https://github.com/sergeybruhin/page-meta) | 0 | 2026-07-12 | Laravel Page Meta Package |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-12 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-12 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [dinushchathurya/uk-post-code](https://github.com/dinushchathurya/uk-post-code) | 1 | 2026-07-12 | Laravel package that validates all UK post codes. |
-| [dinushchathurya/uk-mobile-number-validator](https://github.com/dinushchathurya/uk-mobile-number-validator) | 0 | 2026-07-12 | This Laravel package validates UK mobile numbers. |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-12 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-12 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-12 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [nizaamomer/laravel-fastpay](https://github.com/nizaamomer/laravel-fastpay) | 0 | 2026-07-12 | Modern Laravel SDK for FastPay Iraq — payment gateway, QR ve... |
+| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-12 | Bitcoin-Community-App für Einundzwanzig – Meetups, Events, K... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-12 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 0 | 2026-07-12 | Laravel Podman brings Podman Quadlet support to your Laravel... |
+| [fuad745/luckydraw-lottery](https://github.com/fuad745/luckydraw-lottery) | 0 | 2026-07-12 | LuckyDraw — full-stack Telegram Mini App lottery in Laravel ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-12 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 3 | 2026-07-12 | A file-based CMS package for Laravel. Renders documentation,... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-12 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-12 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-12 | Manage and track inventory with a PHP package that integrate... |
+| [fazzinipierluigi/laravel-rails](https://github.com/fazzinipierluigi/laravel-rails) | 0 | 2026-07-12 | A Laravel package to create and execute workflows (rails) in... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-12 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-07-12 | A Laravel-based web application that tracks, analyzes, and p... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-12 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-12 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-12 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 | [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-12 | Filament admin panel, editor workflows, settings, and extens... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-12 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-12 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | 2026-07-12 | Structured REST API responses for Laravel with exception han... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-07-12 | Resrv is a booking engine for Statamic. |
-| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-07-12 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
-| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-07-12 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
-| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-07-12 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-07-12 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-12 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-07-12 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-12T18:39 | 14 | 1710 | 5218 |
 | 2026-07-12T12:40 | 5 | 1722 | 5204 |
 | 2026-07-12T07:13 | 7 | 1721 | 5199 |
 | 2026-07-12T00:59 | 2 | 1726 | 5192 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-11T00:54 | 4 | 1725 | 5182 |
 | 2026-07-10T18:52 | 10 | 1718 | 5178 |
 | 2026-07-10T13:05 | 7 | 1724 | 5168 |
-| 2026-07-10T07:34 | 7 | 1725 | 5161 |
 
 ---
 

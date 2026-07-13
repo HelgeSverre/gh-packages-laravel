@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5218  
-**Last updated:** 2026-07-12T18:39:55.338Z
+**Total packages tracked:** 5221  
+**Last updated:** 2026-07-13T00:59:25.591Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [kamranata/queue-sql](https://github.com/kamranata/queue-sql) | 0 | Queue any Laravel write query (delete/update/insert) across parallel batched job... |
+| [NawrasBukhari/ez-ecommerce](https://github.com/NawrasBukhari/ez-ecommerce) | 0 | Headless Laravel commerce engine. Cart → checkout → order → payment → fulfillmen... |
+| [matowens/webpage-monitor](https://github.com/matowens/webpage-monitor) | 0 | Reusable Laravel package for monitoring webpages, detecting availability and con... |
 | [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 0 | Laravel Podman brings Podman Quadlet support to your Laravel application. |
 | [mikeferry/laravel-docker-devkit](https://github.com/mikeferry/laravel-docker-devkit) | 0 | A Docker-only local development environment for Laravel, distributed as a Compos... |
 | [visualbuilder/versionable](https://github.com/visualbuilder/versionable) | 0 | Laravel Versionable Package supporting morphable users |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | Structured REST API responses for Laravel with exception handling, localization,... |
 | [dev-asp-id/laravel-id-generator](https://github.com/dev-asp-id/laravel-id-generator) | 1 | Generate sequential invoice numbers, transaction IDs, purchase orders, and busin... |
 | [md-mojahed/AIAPI-laravel](https://github.com/md-mojahed/AIAPI-laravel) | 0 | A Laravel AI API package — connect to any LLM provider with a clean, unified int... |
-| [luilliarcec/laravel-username-generator](https://github.com/luilliarcec/laravel-username-generator) | 10 | Laravel Username Generator is a package that allows the versatile generation of ... |
-| [Trigger-engage/laravel-sdk](https://github.com/Trigger-engage/laravel-sdk) | 0 | Fail-open Laravel SDK for Trigger Engage — identify() and track() from your app,... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | Extensible Laravel CMS built on Filament, with multi-site and multilingual conte... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [nizaamomer/laravel-fastpay](https://github.com/nizaamomer/laravel-fastpay) | 0 | 2026-07-12 | Modern Laravel SDK for FastPay Iraq — payment gateway, QR ve... |
-| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-12 | Bitcoin-Community-App für Einundzwanzig – Meetups, Events, K... |
+| [thalysjuvenal/aurum-filament-theme](https://github.com/thalysjuvenal/aurum-filament-theme) | 9 | 2026-07-13 | Executive gold-on-graphite theme engine and UI kit for Filam... |
+| [kamranata/queue-sql](https://github.com/kamranata/queue-sql) | 0 | 2026-07-13 | Queue any Laravel write query (delete/update/insert) across ... |
+| [dinushchathurya/laravel-detect-device](https://github.com/dinushchathurya/laravel-detect-device) | 0 | 2026-07-13 | This is a Laravel demo application of identifying the user's... |
+| [vaened/laravel-authorization](https://github.com/vaened/laravel-authorization) | 3 | 2026-07-13 | Package for the management of authorizations for Laravel |
+| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-07-13 | Private expiring previews of unsaved Capell page and Layout ... |
+| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-07-13 | Multilingual, multi-site Capell navigation with visual menus... |
+| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-07-13 | Visual Capell page composition with reusable widgets, named ... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-13 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-07-13 | Laravel OTP is a Laravel package that enables developers to ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-13 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-12 | Filament admin panel, editor workflows, settings, and extens... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-12 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 0 | 2026-07-12 | Laravel Podman brings Podman Quadlet support to your Laravel... |
-| [fuad745/luckydraw-lottery](https://github.com/fuad745/luckydraw-lottery) | 0 | 2026-07-12 | LuckyDraw — full-stack Telegram Mini App lottery in Laravel ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-12 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 3 | 2026-07-12 | A file-based CMS package for Laravel. Renders documentation,... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-12 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-12 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-12 | Manage and track inventory with a PHP package that integrate... |
-| [fazzinipierluigi/laravel-rails](https://github.com/fazzinipierluigi/laravel-rails) | 0 | 2026-07-12 | A Laravel package to create and execute workflows (rails) in... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-12 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-07-12 | A Laravel-based web application that tracks, analyzes, and p... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-12 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-12 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-12 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-12 | Filament admin panel, editor workflows, settings, and extens... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-07-12 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-12 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-07-12 |  |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-07-12 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 10 | 2026-07-12 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-13T00:59 | 3 | 1720 | 5221 |
 | 2026-07-12T18:39 | 14 | 1710 | 5218 |
 | 2026-07-12T12:40 | 5 | 1722 | 5204 |
 | 2026-07-12T07:13 | 7 | 1721 | 5199 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-11T07:05 | 3 | 1725 | 5185 |
 | 2026-07-11T00:54 | 4 | 1725 | 5182 |
 | 2026-07-10T18:52 | 10 | 1718 | 5178 |
-| 2026-07-10T13:05 | 7 | 1724 | 5168 |
 
 ---
 

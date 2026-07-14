@@ -708,5 +708,37 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-07-11T12:40:54.797Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "codegenie-be/laravel-livewire-multistep-form": {
+    "name": "Codegenie-BE/laravel-livewire-multistep-form",
+    "url": "https://github.com/Codegenie-BE/laravel-livewire-multistep-form",
+    "description": "💡 A fully validated, dynamic multi-step form wizard for Laravel 12 Livewire 3. Easy to use. Developer friendly.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "blade",
+      "component",
+      "form-builder",
+      "form-wizard",
+      "laravel",
+      "laravel-package",
+      "laravel12",
+      "livewire",
+      "livewire3",
+      "multi-step-form",
+      "multi-step-form-wizard",
+      "open-source",
+      "php",
+      "starter-kit",
+      "tailwindcss"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-07-04T13:48:33Z",
+    "updated_at": "2025-07-09T11:41:48Z",
+    "pushed_at": "2025-07-14T13:19:27Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-07-14T18:45:02.735Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

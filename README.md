@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 5235  
-**Last updated:** 2026-07-14T00:51:59.713Z
+**Last updated:** 2026-07-14T07:05:13.733Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 9 | 2026-07-14 | MFAKit starter kit built on Laravel 12.x and Filament 4.x wi... |
+| [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | 2026-07-14 | Easy-to-integrate multi-tenant authentication package for La... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-14 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-14 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 154 | 2026-07-14 | The Moox Project - Packages for Filament and Laravel |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-07-14 | Laravel USPS Package to integrate USPS Address |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-14 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-14 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-14 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [minkovdev/laragdpr](https://github.com/minkovdev/laragdpr) | 0 | 2026-07-14 | GDPR Cookie consent and cookie manager for Laravel |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-14 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-14 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 180 | 2026-07-14 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-14 | Provides email verification on the go. |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-14 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-14 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-14 | Package para Laravel y facturacion |
+| [myxiaoao/blade-blueprint-icons](https://github.com/myxiaoao/blade-blueprint-icons) | 0 | 2026-07-14 | A package to easily make use of Blueprint Icons in your Lara... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-14 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-14 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-14 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [emberrenewed/auth-package](https://github.com/emberrenewed/auth-package) | 0 | 2026-07-14 | Laravel authentication kit with multi-driver support |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-14 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-07-14 | Automated code analysis for Laravel applications with 73 com... |
-| [promptphp/intercept-support](https://github.com/promptphp/intercept-support) | 0 | 2026-07-13 | [READ ONLY] Shared support utilities and configuration for I... |
-| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-13 | Bitcoin-Community-App für Einundzwanzig – Meetups, Events, K... |
-| [tzsk/payu](https://github.com/tzsk/payu) | 47 | 2026-07-13 | Payu Laravel Payment Gateway with Payment Verification Packa... |
-| [lwwcas/laravel-countries](https://github.com/lwwcas/laravel-countries) | 127 | 2026-07-13 | A comprehensive package for managing country data in Laravel... |
-| [blocs/admin](https://github.com/blocs/admin) | 2 | 2026-07-13 | Laravel BLOCS admin panel package |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 47 | 2026-07-13 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-07-13 | Laravel Paystack is a Laravel package that integrates the Pa... |
-| [IvanBaric/sanigen](https://github.com/IvanBaric/sanigen) | 0 | 2026-07-13 | Sanigen is a powerful Laravel package that provides declarat... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-14T07:05 | 0 | 1722 | 5235 |
 | 2026-07-14T00:51 | 3 | 1719 | 5235 |
 | 2026-07-13T18:52 | 1 | 1721 | 5232 |
 | 2026-07-13T13:09 | 8 | 1714 | 5231 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-12T12:40 | 5 | 1722 | 5204 |
 | 2026-07-12T07:13 | 7 | 1721 | 5199 |
 | 2026-07-12T00:59 | 2 | 1726 | 5192 |
-| 2026-07-11T18:38 | 3 | 1725 | 5190 |
 
 ---
 

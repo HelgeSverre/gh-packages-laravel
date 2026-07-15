@@ -740,5 +740,28 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-07-14T18:45:02.735Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "iamimam7/projek-absensi": {
+    "name": "IamImam7/projek-absensi",
+    "url": "https://github.com/IamImam7/projek-absensi",
+    "description": "A comprehensive HR attendance management system built as a portfolio project. Features role-based access (Admin/Employee), employee CRUD, automated tasks, real-time notifications, and advanced reporting. Powered by Laravel, Livewire, and Tailwind CSS.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "laravel",
+      "livewire",
+      "mysql",
+      "php",
+      "project-portfolio",
+      "tailwindcss"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-07-02T09:32:32Z",
+    "updated_at": "2025-07-15T05:17:22Z",
+    "pushed_at": "2025-07-15T05:17:18Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-07-15T07:05:41.779Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

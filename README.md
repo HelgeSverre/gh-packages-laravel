@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5247  
-**Last updated:** 2026-07-15T00:50:16.128Z
+**Total packages tracked:** 5250  
+**Last updated:** 2026-07-15T07:05:41.803Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Rafaelh5z/pos-lite](https://github.com/Rafaelh5z/pos-lite) | 1 | Full-featured point of sale system built with Laravel + Livewire — reactive UI w... |
+| [nilanjan-k/scheduler-hub-laravel](https://github.com/nilanjan-k/scheduler-hub-laravel) | 0 | A dashboard for Laravel's task scheduler — see every registered task, its next r... |
+| [xaniacode/xaniashield-laravel](https://github.com/xaniacode/xaniashield-laravel) | 0 | First-class Laravel package with middleware, validation rule and Blade directive... |
+| [narakode/fineauth](https://github.com/narakode/fineauth) | 0 | A simple authentication package for Laravel REST APIs. |
 | [veekthoven/laravel-cashier-bachs](https://github.com/veekthoven/laravel-cashier-bachs) | 1 | This is a Cashier inspired package for payment provider Bachs (https://bachs.io)... |
 | [Raza9798/laravel-core-modules](https://github.com/Raza9798/laravel-core-modules) | 0 | A lightweight Laravel package to generate and manage modular application structu... |
 | [chrislorando/laravel-accurate](https://github.com/chrislorando/laravel-accurate) | 0 | Laravel package for integrating with the Accurate Online accounting API |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [emberrenewed/auth-package](https://github.com/emberrenewed/auth-package) | 0 | Laravel authentication kit with multi-driver support |
 | [YasserElgammal/laravel-wasl-erental](https://github.com/YasserElgammal/laravel-wasl-erental) | 1 | This Laravel package focuses specifically on integration with the Rabet WASL eRe... |
 | [bhuba1/laravel-api-package](https://github.com/bhuba1/laravel-api-package) | 0 |  |
-| [hypertractor/laravel-eet](https://github.com/hypertractor/laravel-eet) | 0 | Laravel package for Czech EET 2.0 electronic sales registration – SOAP signing, ... |
-| [PushkinSharma/market-screenr](https://github.com/PushkinSharma/market-screenr) | 0 | Personal stock screener for India (NSE) and US markets — weighted ranks, drawdow... |
-| [valtermedeiros/laravel-sharepoint](https://github.com/valtermedeiros/laravel-sharepoint) | 1 | disk via the Microsoft Graph API.  This package includes a unique secure certifi... |
-| [Remls/hijri-date](https://github.com/Remls/hijri-date) | 10 | Laravel helper package for Hijri dates. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -49,8 +49,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | A media picker plugin for Filament Panels. |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 438 | A media picker plugin for Filament Panels. |
 | [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 437 | Open Source Laravel CRM Package |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 433 | Track page views, visitors, and audience analytics with an elegant Laravel packa... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [CodeTechAgency/laravel-api-logs](https://github.com/CodeTechAgency/laravel-api-logs) | 0 | 2026-07-15 | A lightweight package for logging requests made to your API. |
+| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 0 | 2026-07-15 | A comprehensive Laravel application bootstrap package for lo... |
+| [nilanjan-k/scheduler-hub-laravel](https://github.com/nilanjan-k/scheduler-hub-laravel) | 0 | 2026-07-15 | A dashboard for Laravel's task scheduler — see every registe... |
+| [jigar-dhulla/laravel-whatsapp-ai-agent](https://github.com/jigar-dhulla/laravel-whatsapp-ai-agent) | 25 | 2026-07-15 | A Laravel package for building WhatsApp AI agents on top of ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-07-15 | Laravel Podman brings Podman Quadlet support to your Laravel... |
+| [moaines/laravel-fts](https://github.com/moaines/laravel-fts) | 0 | 2026-07-15 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
+| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-07-15 | Laravel Core package that provides essential core functional... |
+| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | 2026-07-15 | Laravel package for building complex eloquent filters in a s... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-07-15 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [lfv-greven/lfv-intranet](https://github.com/lfv-greven/lfv-intranet) | 0 | 2026-07-15 | LfV Intranet is the internal platform of Luftfahrtvereinigun... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-15 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-15 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-15 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-15 | Provides email verification on the go. |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-15 | Prevent risky Laravel database migrations with static analys... |
-| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-07-15 | Build privacy-conscious applications with tools designed for... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-15 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-15 | Manage and track inventory with a PHP package that integrate... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-15 | Main Webampp laravel package for GEOBOX 2.0 |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-15 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-15 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 368 | 2026-07-15 | The official Laravel Nightwatch package. |
-| [minkovdev/laragdpr](https://github.com/minkovdev/laragdpr) | 0 | 2026-07-15 | GDPR Cookie consent and cookie manager for Laravel |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-15 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) | 17 | 2026-07-15 | Add importing large CSV (and TSV) data feature to your Larav... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-15 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [fidum/laravel-translation-linter](https://github.com/fidum/laravel-translation-linter) | 25 | 2026-07-15 | Commands to help you keep your laravel translations organize... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-15 | A practical work management information system built with La... |
-| [kildenhq/kilden-laravel](https://github.com/kildenhq/kilden-laravel) | 0 | 2026-07-15 | Kilden for Laravel — read-only subtree split of kilden-sdk-p... |
-| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-15 | Bitcoin-Community-App für Einundzwanzig – Meetups, Events, K... |
-| [fidum/laravel-nova-metrics-polling](https://github.com/fidum/laravel-nova-metrics-polling) | 6 | 2026-07-15 | Easily add polling to all your Laravel Nova metrics and card... |
-| [fidum/nova-package-bundler-command](https://github.com/fidum/nova-package-bundler-command) | 21 | 2026-07-15 | Improves Laravel Nova initial load speeds by combining all t... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-07-15 | Automated code analysis for Laravel applications with 73 com... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-15 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-15T07:05 | 4 | 1719 | 5250 |
 | 2026-07-15T00:50 | 3 | 1718 | 5247 |
 | 2026-07-14T18:45 | 7 | 1713 | 5244 |
 | 2026-07-14T12:48 | 3 | 1717 | 5238 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-13T13:09 | 8 | 1714 | 5231 |
 | 2026-07-13T07:31 | 2 | 1721 | 5223 |
 | 2026-07-13T00:59 | 3 | 1720 | 5221 |
-| 2026-07-12T18:39 | 14 | 1710 | 5218 |
 
 ---
 

@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5252  
-**Last updated:** 2026-07-15T12:49:57.508Z
+**Total packages tracked:** 5256  
+**Last updated:** 2026-07-15T18:43:32.261Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [pingark/pingark-laravel](https://github.com/pingark/pingark-laravel) | 0 | Cron job and scheduled task monitoring for Laravel. Chain ->pingArk() onto any t... |
+| [tigusigalpa/nansen-php](https://github.com/tigusigalpa/nansen-php) | 0 | A framework-agnostic PHP 8.1+ client for the Nansen AI API, with first-class Lar... |
+| [chrislorando/laravel-accurate-demo](https://github.com/chrislorando/laravel-accurate-demo) | 0 | Aplikasi demo untuk mencoba package chrislorando/laravel-accurate |
+| [webcraft/lunar-mollie](https://github.com/webcraft/lunar-mollie) | 7 | Mollie payment driver for Lunar, the Laravel e-commerce package |
 | [seunoseya44-tech/x-charity-ngo-management-system](https://github.com/seunoseya44-tech/x-charity-ngo-management-system) | 0 | A Laravel 12 and Filament 4 NGO management system for fundraising, projects, ben... |
 | [imohamedzaki/laravel-process-builder](https://github.com/imohamedzaki/laravel-process-builder) | 0 | A visual process builder for designing Laravel routes, controllers, actions, val... |
 | [Translators-Hive/laravel-autotranslate](https://github.com/Translators-Hive/laravel-autotranslate) | 0 | Translators-Hive.com Laravel Auto Translate Package |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [OpenAfghanistan/provinces](https://github.com/OpenAfghanistan/provinces) | 10 | Laravel Package: Afghanistan Provinces & Districts |
 | [kildenhq/kilden-laravel](https://github.com/kildenhq/kilden-laravel) | 0 | Kilden for Laravel — read-only subtree split of kilden-sdk-php/packages/laravel.... |
 | [MkBahram/shahvaar](https://github.com/MkBahram/shahvaar) | 0 | Laravel Package for monitoring your app |
-| [kakaprodo/murugo-analytic-helper](https://github.com/kakaprodo/murugo-analytic-helper) | 0 | A laravel package that lets you interact with murugo analytic APIs |
-| [CodeTechAgency/laravel-api-logs](https://github.com/CodeTechAgency/laravel-api-logs) | 0 | Laravel package for logging API requests and responses with automatic sensitive ... |
-| [pikbdesigns/laravel-translations](https://github.com/pikbdesigns/laravel-translations) | 0 | A one-stop Laravel Translation package |
-| [rahasistiyakofficial/laravel-super-artisan](https://github.com/rahasistiyakofficial/laravel-super-artisan) | 5 | Super Artisan is a powerful Laravel package that enhances the Artisan console to... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -51,7 +51,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | A media picker plugin for Filament Panels. |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 437 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 438 | Open Source Laravel CRM Package |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 | [coderflexx/laravisit](https://github.com/coderflexx/laravisit) | 433 | Track page views, visitors, and audience analytics with an elegant Laravel packa... |
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cboxdk/laravel-queue-autoscale](https://github.com/cboxdk/laravel-queue-autoscale) | 8 | 2026-07-15 | Autoscaling for Laravel queues based on SLA targets and queu... |
-| [cboxdk/laravel-queue-metrics](https://github.com/cboxdk/laravel-queue-metrics) | 11 | 2026-07-15 | Queue monitoring and metrics for Laravel. Job execution time... |
-| [SaAkSin/Laravel-Administrator](https://github.com/SaAkSin/Laravel-Administrator) | 1 | 2026-07-15 | An administrative interface package for Laravel |
-| [Translators-Hive/laravel-autotranslate](https://github.com/Translators-Hive/laravel-autotranslate) | 0 | 2026-07-15 | Translators-Hive.com Laravel Auto Translate Package |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-15 | Filament admin panel, editor workflows, settings, and extens... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 180 | 2026-07-15 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 0 | 2026-07-15 | A comprehensive Laravel application bootstrap package for lo... |
+| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 183 | 2026-07-15 | Full genealogy and family tree building application using La... |
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 51 | 2026-07-15 | The ultimate form components kit and custom fields builder f... |
+| [owenvoke/blade-fontawesome](https://github.com/owenvoke/blade-fontawesome) | 212 | 2026-07-15 | A package to easily make use of Font Awesome in your Laravel... |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-07-15 | Laravel Podman brings Podman Quadlet support to your Laravel... |
+| [chrislorando/laravel-accurate-demo](https://github.com/chrislorando/laravel-accurate-demo) | 0 | 2026-07-15 | Aplikasi demo untuk mencoba package chrislorando/laravel-acc... |
+| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 255 | 2026-07-15 | Feature-rich Laravel package for detecting and blocking disp... |
+| [anilkumarthakur60/fast-api-crud](https://github.com/anilkumarthakur60/fast-api-crud) | 9 | 2026-07-15 | The GitHub repository "Fast-Api-Crud" is a package that prov... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-15 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [mihirrchauhan/Laravel-RAG-Assistant](https://github.com/mihirrchauhan/Laravel-RAG-Assistant) | 1 | 2026-07-15 | A Laravel-based RAG AI assistant with Livewire streaming cha... |
+| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 6 | 2026-07-15 | Skeleton for Laravel packages |
+| [pingark/pingark-laravel](https://github.com/pingark/pingark-laravel) | 0 | 2026-07-15 | Cron job and scheduled task monitoring for Laravel. Chain ->... |
+| [Raza9798/laravel-core-modules](https://github.com/Raza9798/laravel-core-modules) | 0 | 2026-07-15 | A lightweight Laravel package to generate and manage modular... |
+| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | 2026-07-15 | Laravel package for integrating the EuPago payment gateway i... |
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 154 | 2026-07-15 | The Moox Project - Packages for Filament and Laravel |
-| [typicms/core](https://github.com/typicms/core) | 7 | 2026-07-15 | The core package of TypiCMS, containing the base architectur... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-15 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [RaiolaNetworks/atlas](https://github.com/RaiolaNetworks/atlas) | 3 | 2026-07-15 | Atlas is a PHP package that allows you to create new tables ... |
-| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | 2026-07-15 | A VueJS/Inertia TableBuilder package for Laravel |
+| [thecodezone/filament-mediazone](https://github.com/thecodezone/filament-mediazone) | 0 | 2026-07-15 | A media manager package for Laravel Filament. |
 | [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-15 | The NativePHP website |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-15 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-15 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) | 177 | 2026-07-15 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-15 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-15 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-15 | Manage and track inventory with a PHP package that integrate... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 180 | 2026-07-15 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [emberrenewed/auth-package](https://github.com/emberrenewed/auth-package) | 0 | 2026-07-15 | Laravel authentication kit with multi-driver support |
+| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-07-15 | Laravel Core package that provides essential core functional... |
+| [tigusigalpa/nansen-php](https://github.com/tigusigalpa/nansen-php) | 0 | 2026-07-15 | A framework-agnostic PHP 8.1+ client for the Nansen AI API, ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-15T18:43 | 4 | 1717 | 5256 |
 | 2026-07-15T12:49 | 3 | 1718 | 5252 |
 | 2026-07-15T07:05 | 4 | 1719 | 5250 |
 | 2026-07-15T00:50 | 3 | 1718 | 5247 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-14T00:51 | 3 | 1719 | 5235 |
 | 2026-07-13T18:52 | 1 | 1721 | 5232 |
 | 2026-07-13T13:09 | 8 | 1714 | 5231 |
-| 2026-07-13T07:31 | 2 | 1721 | 5223 |
 
 ---
 

@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5250  
-**Last updated:** 2026-07-15T07:05:41.803Z
+**Total packages tracked:** 5252  
+**Last updated:** 2026-07-15T12:49:57.508Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [seunoseya44-tech/x-charity-ngo-management-system](https://github.com/seunoseya44-tech/x-charity-ngo-management-system) | 0 | A Laravel 12 and Filament 4 NGO management system for fundraising, projects, ben... |
+| [imohamedzaki/laravel-process-builder](https://github.com/imohamedzaki/laravel-process-builder) | 0 | A visual process builder for designing Laravel routes, controllers, actions, val... |
+| [Translators-Hive/laravel-autotranslate](https://github.com/Translators-Hive/laravel-autotranslate) | 0 | Translators-Hive.com Laravel Auto Translate Package |
 | [Rafaelh5z/pos-lite](https://github.com/Rafaelh5z/pos-lite) | 1 | Full-featured point of sale system built with Laravel + Livewire — reactive UI w... |
 | [nilanjan-k/scheduler-hub-laravel](https://github.com/nilanjan-k/scheduler-hub-laravel) | 0 | A dashboard for Laravel's task scheduler — see every registered task, its next r... |
 | [xaniacode/xaniashield-laravel](https://github.com/xaniacode/xaniashield-laravel) | 0 | First-class Laravel package with middleware, validation rule and Blade directive... |
@@ -23,12 +26,9 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kildenhq/kilden-laravel](https://github.com/kildenhq/kilden-laravel) | 0 | Kilden for Laravel — read-only subtree split of kilden-sdk-php/packages/laravel.... |
 | [MkBahram/shahvaar](https://github.com/MkBahram/shahvaar) | 0 | Laravel Package for monitoring your app |
 | [kakaprodo/murugo-analytic-helper](https://github.com/kakaprodo/murugo-analytic-helper) | 0 | A laravel package that lets you interact with murugo analytic APIs |
-| [CodeTechAgency/laravel-api-logs](https://github.com/CodeTechAgency/laravel-api-logs) | 0 | A lightweight package for logging requests made to your API. |
+| [CodeTechAgency/laravel-api-logs](https://github.com/CodeTechAgency/laravel-api-logs) | 0 | Laravel package for logging API requests and responses with automatic sensitive ... |
 | [pikbdesigns/laravel-translations](https://github.com/pikbdesigns/laravel-translations) | 0 | A one-stop Laravel Translation package |
 | [rahasistiyakofficial/laravel-super-artisan](https://github.com/rahasistiyakofficial/laravel-super-artisan) | 5 | Super Artisan is a powerful Laravel package that enhances the Artisan console to... |
-| [emberrenewed/auth-package](https://github.com/emberrenewed/auth-package) | 0 | Laravel authentication kit with multi-driver support |
-| [YasserElgammal/laravel-wasl-erental](https://github.com/YasserElgammal/laravel-wasl-erental) | 1 | This Laravel package focuses specifically on integration with the Rabet WASL eRe... |
-| [bhuba1/laravel-api-package](https://github.com/bhuba1/laravel-api-package) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [CodeTechAgency/laravel-api-logs](https://github.com/CodeTechAgency/laravel-api-logs) | 0 | 2026-07-15 | A lightweight package for logging requests made to your API. |
-| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 0 | 2026-07-15 | A comprehensive Laravel application bootstrap package for lo... |
-| [nilanjan-k/scheduler-hub-laravel](https://github.com/nilanjan-k/scheduler-hub-laravel) | 0 | 2026-07-15 | A dashboard for Laravel's task scheduler — see every registe... |
-| [jigar-dhulla/laravel-whatsapp-ai-agent](https://github.com/jigar-dhulla/laravel-whatsapp-ai-agent) | 25 | 2026-07-15 | A Laravel package for building WhatsApp AI agents on top of ... |
+| [cboxdk/laravel-queue-autoscale](https://github.com/cboxdk/laravel-queue-autoscale) | 8 | 2026-07-15 | Autoscaling for Laravel queues based on SLA targets and queu... |
+| [cboxdk/laravel-queue-metrics](https://github.com/cboxdk/laravel-queue-metrics) | 11 | 2026-07-15 | Queue monitoring and metrics for Laravel. Job execution time... |
+| [SaAkSin/Laravel-Administrator](https://github.com/SaAkSin/Laravel-Administrator) | 1 | 2026-07-15 | An administrative interface package for Laravel |
+| [Translators-Hive/laravel-autotranslate](https://github.com/Translators-Hive/laravel-autotranslate) | 0 | 2026-07-15 | Translators-Hive.com Laravel Auto Translate Package |
 | [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-07-15 | Laravel Podman brings Podman Quadlet support to your Laravel... |
-| [moaines/laravel-fts](https://github.com/moaines/laravel-fts) | 0 | 2026-07-15 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
-| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-07-15 | Laravel Core package that provides essential core functional... |
-| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | 2026-07-15 | Laravel package for building complex eloquent filters in a s... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-07-15 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [lfv-greven/lfv-intranet](https://github.com/lfv-greven/lfv-intranet) | 0 | 2026-07-15 | LfV Intranet is the internal platform of Luftfahrtvereinigun... |
+| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-15 | Filament admin panel, editor workflows, settings, and extens... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 180 | 2026-07-15 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 0 | 2026-07-15 | A comprehensive Laravel application bootstrap package for lo... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 154 | 2026-07-15 | The Moox Project - Packages for Filament and Laravel |
+| [typicms/core](https://github.com/typicms/core) | 7 | 2026-07-15 | The core package of TypiCMS, containing the base architectur... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-15 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [RaiolaNetworks/atlas](https://github.com/RaiolaNetworks/atlas) | 3 | 2026-07-15 | Atlas is a PHP package that allows you to create new tables ... |
+| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | 2026-07-15 | A VueJS/Inertia TableBuilder package for Laravel |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-15 | The NativePHP website |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-15 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-15 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-15 | Provides email verification on the go. |
+| [liberu-ecommerce/ecommerce-laravel](https://github.com/liberu-ecommerce/ecommerce-laravel) | 177 | 2026-07-15 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-15 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-15 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-15 | Manage and track inventory with a PHP package that integrate... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-15 | Main Webampp laravel package for GEOBOX 2.0 |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-15 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-15T12:49 | 3 | 1718 | 5252 |
 | 2026-07-15T07:05 | 4 | 1719 | 5250 |
 | 2026-07-15T00:50 | 3 | 1718 | 5247 |
 | 2026-07-14T18:45 | 7 | 1713 | 5244 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-13T18:52 | 1 | 1721 | 5232 |
 | 2026-07-13T13:09 | 8 | 1714 | 5231 |
 | 2026-07-13T07:31 | 2 | 1721 | 5223 |
-| 2026-07-13T00:59 | 3 | 1720 | 5221 |
 
 ---
 

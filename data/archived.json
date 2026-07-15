@@ -763,5 +763,30 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-07-15T07:05:41.779Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "vkarchevskyi/chess-livewire": {
+    "name": "vkarchevskyi/chess-livewire",
+    "url": "https://github.com/vkarchevskyi/chess-livewire",
+    "description": "Chess game on TALL stack",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "alpinejs",
+      "chess",
+      "chess-game",
+      "laravel",
+      "livewire",
+      "php",
+      "tailwind-css",
+      "tall-stack"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2024-06-18T16:22:44Z",
+    "updated_at": "2025-07-15T09:33:23Z",
+    "pushed_at": "2025-07-15T09:33:20Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-07-15T12:49:57.480Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

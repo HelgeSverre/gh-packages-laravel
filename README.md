@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5289  
-**Last updated:** 2026-07-17T07:06:43.106Z
+**Total packages tracked:** 5294  
+**Last updated:** 2026-07-17T12:45:19.885Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [nateq-ai/sdk-php](https://github.com/nateq-ai/sdk-php) | 1 | The official PHP client for the Nateq API |
+| [chauhanvishal29/laravel-botkit](https://github.com/chauhanvishal29/laravel-botkit) | 0 | AI chatbot package for Laravel with training, widget customization, and embeddab... |
+| [sdkwala/laravel-dynamic-scheduler-ui](https://github.com/sdkwala/laravel-dynamic-scheduler-ui) | 4 | A modern, feature-rich Laravel package for managing scheduled jobs with a beauti... |
+| [its-enpii/enpii-studio-whatsapp-client](https://github.com/its-enpii/enpii-studio-whatsapp-client) | 0 | Enpii Studio WhatsApp Client Laravel package |
+| [its-enpii/enpii-studio-core](https://github.com/its-enpii/enpii-studio-core) | 0 | Enpii Studio Core Laravel package |
 | [yoosuf/laravel-api](https://github.com/yoosuf/laravel-api) | 0 | High-performance Laravel API toolkit with OpenAPI 3 generation, interactive docs... |
 | [DCODE-GROUP/laravel-form-builder](https://github.com/DCODE-GROUP/laravel-form-builder) | 0 | Laravel form builder which is working with @dcodegroup-au/form-builder npm packa... |
 | [Yeonik/laravel-legacy-password-upgrader](https://github.com/Yeonik/laravel-legacy-password-upgrader) | 0 | Transparently upgrade legacy password hashes (MD5/SH1) to bcrypt on login. A Lar... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mohamedhekal/ledgercore](https://github.com/mohamedhekal/ledgercore) | 0 | Double-entry ledger engine for Laravel ERP and fintech with period locks and tri... |
 | [mohamedhekal/integrator](https://github.com/mohamedhekal/integrator) | 0 | Resilient Laravel HTTP toolkit: retries, Retry-After, circuit breakers, and auth... |
 | [mohamedhekal/hookrelay](https://github.com/mohamedhekal/hookrelay) | 0 | Reliable Laravel webhooks: HMAC signing, retries, dead-letter queues, and inboun... |
-| [mohamedhekal/guardrail](https://github.com/mohamedhekal/guardrail) | 0 | Team-scoped roles, abilities, and audited impersonation for Laravel SaaS applica... |
-| [mohamedhekal/flowforge](https://github.com/mohamedhekal/flowforge) | 0 | Embeddable Laravel workflow engine with allowlisted actions, delays, and run his... |
-| [mohamedhekal/flagdeck](https://github.com/mohamedhekal/flagdeck) | 0 | Laravel feature flags with percentage rollouts and tenant targeting for SaaS ent... |
-| [mohamedhekal/event-outbox](https://github.com/mohamedhekal/event-outbox) | 0 | Transactional outbox pattern for reliable Laravel domain events and idempotent c... |
-| [mohamedhekal/audittrail](https://github.com/mohamedhekal/audittrail) | 0 | Compliance audit trail for Laravel models with masking, retention, and searchabl... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-17 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-07-17 |  |
-| [Yeonik/laravel-legacy-password-upgrader](https://github.com/Yeonik/laravel-legacy-password-upgrader) | 0 | 2026-07-17 | Transparently upgrade legacy password hashes (MD5/SH1) to bc... |
-| [Bruted/sentinel-laravel](https://github.com/Bruted/sentinel-laravel) | 0 | 2026-07-17 |  Laravel package for Sentinel, Redeyed's human-verification ... |
+| [grim-reapper/laravel-advanced-email](https://github.com/grim-reapper/laravel-advanced-email) | 1 | 2026-07-17 | A powerful package that enhances Laravel's email capabilitie... |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-17 | Source code for the new pokemon3d.net website |
+| [Nameless0l/laravel-api-generator](https://github.com/Nameless0l/laravel-api-generator) | 20 | 2026-07-17 | A powerful Laravel package that generates a complete API str... |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 5 | 2026-07-17 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [eerzho/opentelemetry-auto-class-laravel](https://github.com/eerzho/opentelemetry-auto-class-laravel) | 0 | 2026-07-17 | Laravel integration for automatic OpenTelemetry tracing via ... |
+| [eerzho/opentelemetry-auto-class-monorepo](https://github.com/eerzho/opentelemetry-auto-class-monorepo) | 1 | 2026-07-17 | Monorepo for automatic OpenTelemetry tracing via the #[Trace... |
+| [tomakakwark/wafy](https://github.com/tomakakwark/wafy) | 1 | 2026-07-17 | Laravel WAF (Web Application Firewall) |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-07-17 | Ptah — Laravel package that forges complete module structure... |
+| [polirium/polirium](https://github.com/polirium/polirium) | 41 | 2026-07-17 | Polirium là một nền tảng ERP (Enterprise Resource Planning) ... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-17 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [codewithagents/openapi-laravel](https://github.com/codewithagents/openapi-laravel) | 3 | 2026-07-17 |  |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-17 | Provides email verification on the go. |
+| [sanmaxdev/linkforge](https://github.com/sanmaxdev/linkforge) | 5 | 2026-07-17 | Self-hosted, open-source, AI-native URL shortener & link-man... |
+| [typicms/core](https://github.com/typicms/core) | 7 | 2026-07-17 | The core package of TypiCMS, containing the base architectur... |
+| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 298 | 2026-07-17 | Laravel error reporting tool |
+| [nateq-ai/sdk-php](https://github.com/nateq-ai/sdk-php) | 1 | 2026-07-17 | The official PHP client for the Nateq API |
+| [nb3n/filament-record-nav](https://github.com/nb3n/filament-record-nav) | 11 | 2026-07-17 | A Laravel package that adds elegant next/previous record nav... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-17 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 27 | 2026-07-17 | Laravel package for Indonesia regions selection with postal ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-17 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [laravel/roster](https://github.com/laravel/roster) | 159 | 2026-07-17 | Detect packages & approaches in use within a Laravel project |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-17 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-17 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-17 | Manage and track inventory with a PHP package that integrate... |
-| [ashraful19/laravel-mailbridge](https://github.com/ashraful19/laravel-mailbridge) | 7 | 2026-07-17 | Provider-neutral transactional and marketing email bridge fo... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-17 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-17 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [GraystackIT/laravel-ahasend-api](https://github.com/GraystackIT/laravel-ahasend-api) | 0 | 2026-07-17 | Laravel package to consume AhaSend API |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-17 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-17 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-17 | Artisan command to scaffold Spatie event sourcing domains - ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-17T12:45 | 5 | 1720 | 5294 |
 | 2026-07-17T07:06 | 3 | 1722 | 5289 |
 | 2026-07-17T00:56 | 0 | 1725 | 5286 |
 | 2026-07-16T18:44 | 22 | 1702 | 5286 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-15T18:43 | 4 | 1717 | 5256 |
 | 2026-07-15T12:49 | 3 | 1718 | 5252 |
 | 2026-07-15T07:05 | 4 | 1719 | 5250 |
-| 2026-07-15T00:50 | 3 | 1718 | 5247 |
 
 ---
 

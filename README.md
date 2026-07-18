@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5303  
-**Last updated:** 2026-07-18T00:52:13.620Z
+**Total packages tracked:** 5306  
+**Last updated:** 2026-07-18T07:02:44.226Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [savsani/wv-module-installer-kit](https://github.com/savsani/wv-module-installer-kit) | 0 | Laravel Module Installer Package for Wv Modules |
+| [xcesaralejandro/canvasoauth](https://github.com/xcesaralejandro/canvasoauth) | 1 | This package allows to carry out the Oauth2 flow between Canvas LMS and Laravel. |
+| [kamranzafar4343/breeze-spatie-package](https://github.com/kamranzafar4343/breeze-spatie-package) | 0 | used this tutorial: https://www.souysoeng.com/2025/06/laravel-12-roles-and-permi... |
 | [ikarolaborda/ritmovida](https://github.com/ikarolaborda/ritmovida) | 0 | Personal health & fitness tracker (Laravel 13 + Livewire/Volt) with an AI coach ... |
 | [walletlayerio-spec/walletlayer-laravel](https://github.com/walletlayerio-spec/walletlayer-laravel) | 0 | WalletLayer Laravel integration package for hosted non-custodial checkout. |
 | [academe/laravel-journal-window-cleaner-demo](https://github.com/academe/laravel-journal-window-cleaner-demo) | 0 | Demo window cleaner app for package academe/laravel-journal |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [its-enpii/enpii-studio-core](https://github.com/its-enpii/enpii-studio-core) | 0 | Enpii Studio Core Laravel package |
 | [yoosuf/laravel-api](https://github.com/yoosuf/laravel-api) | 0 | High-performance Laravel API toolkit with OpenAPI 3 generation, interactive docs... |
 | [DCODE-GROUP/laravel-form-builder](https://github.com/DCODE-GROUP/laravel-form-builder) | 0 | Laravel form builder which is working with @dcodegroup-au/form-builder npm packa... |
-| [Yeonik/laravel-legacy-password-upgrader](https://github.com/Yeonik/laravel-legacy-password-upgrader) | 0 | Transparently upgrade legacy password hashes (MD5/SH1) to bcrypt on login. A Lar... |
-| [yoosuf/laravel-mcp-server](https://github.com/yoosuf/laravel-mcp-server) | 0 | Laravel-native MCP server framework to expose tools, resources, and business wor... |
-| [mohamedhekal/shipbridge](https://github.com/mohamedhekal/shipbridge) | 0 | Unified Laravel shipping SDK: create, track, label, return, and exchange across ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-07-18 | Laravel Core package that provides essential core functional... |
+| [savsani/wv-module-installer-kit](https://github.com/savsani/wv-module-installer-kit) | 0 | 2026-07-18 | Laravel Module Installer Package for Wv Modules |
+| [RatMD/laravel-translatable](https://github.com/RatMD/laravel-translatable) | 2 | 2026-07-18 | Awesome translatable Laravel Eloquent models (for MySQL, Mar... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-18 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-18 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [xcesaralejandro/canvasoauth](https://github.com/xcesaralejandro/canvasoauth) | 1 | 2026-07-18 | This package allows to carry out the Oauth2 flow between Can... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-18 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-18 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-18 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-18 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-18 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [polirium/polirium](https://github.com/polirium/polirium) | 41 | 2026-07-18 | Polirium là một nền tảng ERP (Enterprise Resource Planning) ... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-07-18 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
-| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 1 | 2026-07-18 | HelpDesk starter kit built on Laravel 12.x and Filament 3.x ... |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-07-18 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 5 | 2026-07-18 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [cosmicspork/laravel-rag-chat](https://github.com/cosmicspork/laravel-rag-chat) | 0 | 2026-07-18 | Laravel 12 RAG chat widget with SAML SSO and a provider-agno... |
-| [snb4crazy/webhook-manager-laravel](https://github.com/snb4crazy/webhook-manager-laravel) | 0 | 2026-07-18 | Queue-aware webhook delivery package for Laravel. |
-| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-07-18 | TeamKit starter kit built on Laravel 12.x and Filament 3.x w... |
-| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-07-17 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
-| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 9 | 2026-07-17 | FilaKit starter kit built on Laravel 12.x and Filament 3.x w... |
-| [Jord-JD/laravel-extendable-basket](https://github.com/Jord-JD/laravel-extendable-basket) | 9 | 2026-07-17 | 🛒 Laravel Extendable Basket provides several abstract class... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-17 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [saloonphp/barstool](https://github.com/saloonphp/barstool) | 18 | 2026-07-17 | Barstool is a dedicated Laravel package to help you keep tra... |
-| [Mamdouh95/ag-sso](https://github.com/Mamdouh95/ag-sso) | 1 | 2026-07-17 | Laravel package to integrate with sso.agriserv.sa |
-| [tzsk/payu](https://github.com/tzsk/payu) | 47 | 2026-07-17 | Payu Laravel Payment Gateway with Payment Verification Packa... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-17 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-17 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [kamranzafar4343/breeze-spatie-package](https://github.com/kamranzafar4343/breeze-spatie-package) | 0 | 2026-07-18 | used this tutorial: https://www.souysoeng.com/2025/06/larave... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-18 | Provides email verification on the go. |
+| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 242 | 2026-07-18 | form builder for your users, with so many use cases |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 27 | 2026-07-18 | Laravel package for Indonesia regions selection with postal ... |
+| [moaines/laravel-fts](https://github.com/moaines/laravel-fts) | 0 | 2026-07-18 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
+| [Jord-JD/laravel-extendable-basket](https://github.com/Jord-JD/laravel-extendable-basket) | 9 | 2026-07-18 | 🛒 Laravel Extendable Basket provides several abstract class... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-18T07:02 | 3 | 1722 | 5306 |
 | 2026-07-18T00:52 | 3 | 1720 | 5303 |
 | 2026-07-17T18:41 | 7 | 1716 | 5300 |
 | 2026-07-17T12:45 | 5 | 1720 | 5294 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-16T12:54 | 3 | 1719 | 5265 |
 | 2026-07-16T07:10 | 3 | 1719 | 5262 |
 | 2026-07-16T00:53 | 3 | 1717 | 5259 |
-| 2026-07-15T18:43 | 4 | 1717 | 5256 |
 
 ---
 

@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5300  
-**Last updated:** 2026-07-17T18:41:17.836Z
+**Total packages tracked:** 5303  
+**Last updated:** 2026-07-18T00:52:13.620Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ikarolaborda/ritmovida](https://github.com/ikarolaborda/ritmovida) | 0 | Personal health & fitness tracker (Laravel 13 + Livewire/Volt) with an AI coach ... |
+| [walletlayerio-spec/walletlayer-laravel](https://github.com/walletlayerio-spec/walletlayer-laravel) | 0 | WalletLayer Laravel integration package for hosted non-custodial checkout. |
+| [academe/laravel-journal-window-cleaner-demo](https://github.com/academe/laravel-journal-window-cleaner-demo) | 0 | Demo window cleaner app for package academe/laravel-journal |
 | [KoassiAkakpo/filament-form-builder](https://github.com/KoassiAkakpo/filament-form-builder) | 0 | A Filament v5 plugin for building dynamic forms from the admin panel: compose fo... |
 | [mubarak-saeed/gpms](https://github.com/mubarak-saeed/gpms) | 0 | نظام متكامل لأتمتة وتنظيم عملية إدارة مشاريع التخرج في الكليات والجامعات، يربط ا... |
 | [MohammadrezaRahpeyma/pishropayamak-sms](https://github.com/MohammadrezaRahpeyma/pishropayamak-sms) | 0 | Official PishroPayamak SMS package for Laravel - Easy, fast, and secure SMS send... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Yeonik/laravel-legacy-password-upgrader](https://github.com/Yeonik/laravel-legacy-password-upgrader) | 0 | Transparently upgrade legacy password hashes (MD5/SH1) to bcrypt on login. A Lar... |
 | [yoosuf/laravel-mcp-server](https://github.com/yoosuf/laravel-mcp-server) | 0 | Laravel-native MCP server framework to expose tools, resources, and business wor... |
 | [mohamedhekal/shipbridge](https://github.com/mohamedhekal/shipbridge) | 0 | Unified Laravel shipping SDK: create, track, label, return, and exchange across ... |
-| [mohamedhekal/testharness](https://github.com/mohamedhekal/testharness) | 0 | Laravel and Pest testing helpers: time travel, queue asserts, and architecture c... |
-| [mohamedhekal/tenantforge](https://github.com/mohamedhekal/tenantforge) | 0 | Shared-database multi-tenancy for Laravel SaaS: domains, memberships, API keys, ... |
-| [mohamedhekal/stockpulse](https://github.com/mohamedhekal/stockpulse) | 0 | Laravel inventory engine: reserve, commit, release, transfer with locked stock b... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laravel-chronicle/filament](https://github.com/laravel-chronicle/filament) | 3 | 2026-07-17 | Read-only Filament panel plugin for Chronicle |
-| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-07-17 | Private expiring previews of unsaved Capell page and Layout ... |
-| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-07-17 | Multilingual, multi-site Capell navigation with visual menus... |
-| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-07-17 | Visual Capell page composition with reusable widgets, named ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-18 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-18 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-07-18 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
+| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 1 | 2026-07-18 | HelpDesk starter kit built on Laravel 12.x and Filament 3.x ... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-07-18 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 5 | 2026-07-18 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [cosmicspork/laravel-rag-chat](https://github.com/cosmicspork/laravel-rag-chat) | 0 | 2026-07-18 | Laravel 12 RAG chat widget with SAML SSO and a provider-agno... |
+| [snb4crazy/webhook-manager-laravel](https://github.com/snb4crazy/webhook-manager-laravel) | 0 | 2026-07-18 | Queue-aware webhook delivery package for Laravel. |
+| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-07-18 | TeamKit starter kit built on Laravel 12.x and Filament 3.x w... |
+| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-07-17 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
+| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 9 | 2026-07-17 | FilaKit starter kit built on Laravel 12.x and Filament 3.x w... |
+| [Jord-JD/laravel-extendable-basket](https://github.com/Jord-JD/laravel-extendable-basket) | 9 | 2026-07-17 | 🛒 Laravel Extendable Basket provides several abstract class... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-17 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [chrislorando/laravel-accurate](https://github.com/chrislorando/laravel-accurate) | 0 | 2026-07-17 | Laravel package for integrating with the Accurate Online acc... |
+| [saloonphp/barstool](https://github.com/saloonphp/barstool) | 18 | 2026-07-17 | Barstool is a dedicated Laravel package to help you keep tra... |
+| [Mamdouh95/ag-sso](https://github.com/Mamdouh95/ag-sso) | 1 | 2026-07-17 | Laravel package to integrate with sso.agriserv.sa |
+| [tzsk/payu](https://github.com/tzsk/payu) | 47 | 2026-07-17 | Payu Laravel Payment Gateway with Payment Verification Packa... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-17 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-17 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-17 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-17 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-17 | Manage and track inventory with a PHP package that integrate... |
-| [coderflexx/laravel-presenter](https://github.com/coderflexx/laravel-presenter) | 32 | 2026-07-17 | Decouple display logic from your Eloquent models using the c... |
-| [coderflexx/laravel-sendy](https://github.com/coderflexx/laravel-sendy) | 3 | 2026-07-17 | A clean Laravel wrapper for the Sendy API to manage email su... |
-| [AsmitNepali/resized-column](https://github.com/AsmitNepali/resized-column) | 52 | 2026-07-17 | Filament table column resize plugin. |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-17 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [coderflexx/filament-turnstile](https://github.com/coderflexx/filament-turnstile) | 31 | 2026-07-17 | Integrate Cloudflare Turnstile CAPTCHA protection into your ... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-17 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [coderflexx/laravel-turnstile](https://github.com/coderflexx/laravel-turnstile) | 115 | 2026-07-17 | Integrate Cloudflare Turnstile (CAPTCHA alternative) into yo... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-17 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-17 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-18T00:52 | 3 | 1720 | 5303 |
 | 2026-07-17T18:41 | 7 | 1716 | 5300 |
 | 2026-07-17T12:45 | 5 | 1720 | 5294 |
 | 2026-07-17T07:06 | 3 | 1722 | 5289 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-16T07:10 | 3 | 1719 | 5262 |
 | 2026-07-16T00:53 | 3 | 1717 | 5259 |
 | 2026-07-15T18:43 | 4 | 1717 | 5256 |
-| 2026-07-15T12:49 | 3 | 1718 | 5252 |
 
 ---
 

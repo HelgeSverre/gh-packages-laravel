@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5316  
-**Last updated:** 2026-07-18T18:39:18.030Z
+**Total packages tracked:** 5322  
+**Last updated:** 2026-07-19T00:58:01.922Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [KoassiAkakpo/filament-highcharts](https://github.com/KoassiAkakpo/filament-highcharts) | 1 | Highcharts integration for Filament |
+| [jetcod/eloquent-keygen](https://github.com/jetcod/eloquent-keygen) | 2 | A Laravel package for custom-format primary key generation in Eloquent models. |
+| [imgsrcdev/laravel](https://github.com/imgsrcdev/laravel) | 0 | The img src Laravel package |
+| [zerp-pk/package-template](https://github.com/zerp-pk/package-template) | 0 | Starter template for building a new Zerp module |
+| [pikbdesigns/laravel-full-translation](https://github.com/pikbdesigns/laravel-full-translation) | 0 | Laravel Full Translation — a Laravel 13 package for URL-based multilingual routi... |
+| [TitaniaAnn/makerhearth-architecture](https://github.com/TitaniaAnn/makerhearth-architecture) | 0 | Reference implementation of the multi-tenant studio-management architecture behi... |
 | [AsimNet/filament-ummulqura-date-picker](https://github.com/AsimNet/filament-ummulqura-date-picker) | 0 | A Hijri (Umm al-Qura) date & time picker for Filament that shows both calendars ... |
 | [ViniciusJPSilva/laravel-base-repository](https://github.com/ViniciusJPSilva/laravel-base-repository) | 1 | A reusable base repository implementation for Laravel. |
 | [aristonis/laravel-authentication](https://github.com/aristonis/laravel-authentication) | 0 | Backend-only, extensible Laravel 12/13 authentication with Sanctum — invokable s... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [xcesaralejandro/canvasoauth](https://github.com/xcesaralejandro/canvasoauth) | 1 | This package allows to carry out the Oauth2 flow between Canvas LMS and Laravel. |
 | [kamranzafar4343/breeze-spatie-package](https://github.com/kamranzafar4343/breeze-spatie-package) | 0 | used this tutorial: https://www.souysoeng.com/2025/06/laravel-12-roles-and-permi... |
 | [ikarolaborda/ritmovida](https://github.com/ikarolaborda/ritmovida) | 0 | Personal health & fitness tracker (Laravel 13 + Livewire/Volt) with an AI coach ... |
-| [walletlayerio-spec/walletlayer-laravel](https://github.com/walletlayerio-spec/walletlayer-laravel) | 0 | WalletLayer Laravel integration package for hosted non-custodial checkout. |
-| [academe/laravel-journal-window-cleaner-demo](https://github.com/academe/laravel-journal-window-cleaner-demo) | 0 | Demo window cleaner app for package academe/laravel-journal |
-| [KoassiAkakpo/filament-form-builder](https://github.com/KoassiAkakpo/filament-form-builder) | 0 | A Filament v5 plugin for building dynamic forms from the admin panel: compose fo... |
-| [mubarak-saeed/gpms](https://github.com/mubarak-saeed/gpms) | 0 | نظام متكامل لأتمتة وتنظيم عملية إدارة مشاريع التخرج في الكليات والجامعات، يربط ا... |
-| [MohammadrezaRahpeyma/pishropayamak-sms](https://github.com/MohammadrezaRahpeyma/pishropayamak-sms) | 0 | Official PishroPayamak SMS package for Laravel - Easy, fast, and secure SMS send... |
-| [hwkdo/bitwarden-laravel](https://github.com/hwkdo/bitwarden-laravel) | 1 | My package to interact with bitwarden api using laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-18 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-18 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [PascalKleindienst/laravel-glimpse](https://github.com/PascalKleindienst/laravel-glimpse) | 2 | 2026-07-18 | Privacy-first, server-side analytics for Laravel 12+. |
-| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-07-18 | Private expiring previews of unsaved Capell page and Layout ... |
-| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-07-18 | Multilingual, multi-site Capell navigation with visual menus... |
-| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-07-18 | Visual Capell page composition with reusable widgets, named ... |
-| [aristonis/laravel-blog-manager](https://github.com/aristonis/laravel-blog-manager) | 1 | 2026-07-18 | Core-only Laravel package to manage blog posts as ordered te... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-18 | Filament admin panel, editor workflows, settings, and extens... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-19 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-19 | Prevent risky Laravel database migrations with static analys... |
+| [KoassiAkakpo/filament-highcharts](https://github.com/KoassiAkakpo/filament-highcharts) | 1 | 2026-07-19 | Highcharts integration for Filament |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-19 | Integrate Mixpanel analytics into Filament projects to track... |
+| [hewerthomn/laravel-error-tracker](https://github.com/hewerthomn/laravel-error-tracker) | 9 | 2026-07-19 | Laravel error tracking package with local dashboard and user... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-19 | Manage and track inventory with a PHP package that integrate... |
+| [jetcod/eloquent-keygen](https://github.com/jetcod/eloquent-keygen) | 2 | 2026-07-19 | A Laravel package for custom-format primary key generation i... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-19 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-19 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-19 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-19 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-19 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-19 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-18 | 💰 Simplify your financial management with Finova, an open-s... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-18 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-18 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-18 | 🛒 Build and manage your online store effortlessly with Shop... |
 | [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-18 | 🛡️ Enhance your Filament applications with Filament-shield,... |
 | [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-07-18 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [smart-dato/brt-tracking](https://github.com/smart-dato/brt-tracking) | 0 | 2026-07-18 | Laravel package for interfacing with the BRT VAS100 tracking... |
-| [minkovdev/laragdpr](https://github.com/minkovdev/laragdpr) | 1 | 2026-07-18 | GDPR Cookie consent and cookie manager for Laravel |
-| [laravel/roster](https://github.com/laravel/roster) | 159 | 2026-07-18 | Detect packages & approaches in use within a Laravel project |
-| [StuMason/laravel-coolify](https://github.com/StuMason/laravel-coolify) | 11 | 2026-07-18 | Laravel package for deploying to Coolify. Dashboard, CLI com... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-07-18 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-07-18 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
+| [aristonis/laravel-blog-manager](https://github.com/aristonis/laravel-blog-manager) | 1 | 2026-07-18 | Core-only Laravel package to manage blog posts as ordered te... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-19T00:58 | 6 | 1713 | 5322 |
 | 2026-07-18T18:39 | 2 | 1718 | 5316 |
 | 2026-07-18T12:39 | 8 | 1713 | 5314 |
 | 2026-07-18T07:02 | 3 | 1722 | 5306 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-17T07:06 | 3 | 1722 | 5289 |
 | 2026-07-17T00:56 | 0 | 1725 | 5286 |
 | 2026-07-16T18:44 | 22 | 1702 | 5286 |
-| 2026-07-16T12:54 | 3 | 1719 | 5265 |
 
 ---
 

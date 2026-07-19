@@ -844,5 +844,25 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-07-17T18:41:17.807Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "tamkiti132/basta": {
+    "name": "tamkiti132/Basta",
+    "url": "https://github.com/tamkiti132/Basta",
+    "description": "Webページや本から学んだことなどをメモとして管理し、グループで共有できるアプリケーション（自分専用のグループを作ることで、個人での使用も可能）",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "laravel",
+      "livewire",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-05-07T17:51:25Z",
+    "updated_at": "2025-07-19T17:45:52Z",
+    "pushed_at": "2025-07-19T17:45:50Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-07-19T18:40:00.738Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

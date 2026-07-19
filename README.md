@@ -3,18 +3,19 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 5330  
-**Last updated:** 2026-07-19T12:39:10.881Z
+**Last updated:** 2026-07-19T18:40:00.866Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [onomahq/laravel-gezel](https://github.com/onomahq/laravel-gezel) | 0 | Shared Laravel package for Gezel: per-user agent containers via the middleware g... |
 | [labrodev/laravel-trello](https://github.com/labrodev/laravel-trello) | 0 | Stateless Trello REST API client for Laravel with the authorize-URL token flow.  |
 | [labrodev/laravel-linear](https://github.com/labrodev/laravel-linear) | 0 | A stateless Linear GraphQL + OAuth 2 client for Laravel. |
 | [gumslone/laravel-package-url](https://github.com/gumslone/laravel-package-url) | 0 | Package URL (purl) for Laravel — parse/build/normalize/validate (full purl-spec ... |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 1 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl. BM25 ranking, searc... |
+| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 2 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl. BM25 ranking, searc... |
 | [Jean-PierreGassin/lara-vellum](https://github.com/Jean-PierreGassin/lara-vellum) | 0 | Laravel meets Vellum: the art of writing, as a Laravel package. |
-| [EloquentWorks/Masquerade](https://github.com/EloquentWorks/Masquerade) | 0 | A feature-rich Laravel impersonation package with secure session handling, audit... |
+| [EloquentWorks/Masquerade](https://github.com/EloquentWorks/Masquerade) | 1 | A feature-rich Laravel impersonation package with secure session handling, audit... |
 | [jorgemudry/laravel-remote-token-auth](https://github.com/jorgemudry/laravel-remote-token-auth) | 3 | This package provides a hassle-free way to incorporate authentication in your ap... |
 | [nanayawkumi/nyk-logger](https://github.com/nanayawkumi/nyk-logger) | 0 | A logger mailer package for Laravel |
 | [KoassiAkakpo/filament-highcharts](https://github.com/KoassiAkakpo/filament-highcharts) | 1 | Highcharts integration for Filament |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [aristonis/laravel-authentication](https://github.com/aristonis/laravel-authentication) | 0 | Backend-only, extensible Laravel 12/13 authentication with Sanctum — invokable s... |
 | [kodefarmers/laravel-cadence](https://github.com/kodefarmers/laravel-cadence) | 2 | Progressive, strategy-based backoff for Laravel. |
 | [dskripchenko/laravel-php-pdf](https://github.com/dskripchenko/laravel-php-pdf) | 0 | Laravel bridge for dskripchenko/php-pdf — MIT PDF toolkit. Pdf facade, response(... |
-| [dominicjaeggi/laravel-snippets](https://github.com/dominicjaeggi/laravel-snippets) | 0 | Not a framework, not a package—just a personal collection of Laravel code snippe... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -37,7 +37,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 500 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 488 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 484 | A full-featured Laravel package for aiding in Shopify App development |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 485 | A full-featured Laravel package for aiding in Shopify App development |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-19 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
-| [kamranzafar4343/breeze-spatie-package](https://github.com/kamranzafar4343/breeze-spatie-package) | 0 | 2026-07-19 | started with this tutorial: https://www.souysoeng.com/2025/0... |
+| [aliziodev/laravel-taxonomy](https://github.com/aliziodev/laravel-taxonomy) | 244 | 2026-07-19 | Laravel package for managing taxonomies, categories, tags, a... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-19 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-19 | Filament admin panel, editor workflows, settings, and extens... |
-| [labrodev/laravel-trello](https://github.com/labrodev/laravel-trello) | 0 | 2026-07-19 | Stateless Trello REST API client for Laravel with the author... |
-| [labrodev/laravel-linear](https://github.com/labrodev/laravel-linear) | 0 | 2026-07-19 | A stateless Linear GraphQL + OAuth 2 client for Laravel. |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-07-19 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
+| [kamranzafar4343/breeze-spatie-package](https://github.com/kamranzafar4343/breeze-spatie-package) | 0 | 2026-07-19 | started with this tutorial: https://www.souysoeng.com/2025/0... |
+| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 183 | 2026-07-19 | Full genealogy and family tree building application using La... |
+| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 3 | 2026-07-19 | A file-based CMS package for Laravel. Renders documentation,... |
+| [minkovdev/laragdpr](https://github.com/minkovdev/laragdpr) | 2 | 2026-07-19 | GDPR Cookie consent and cookie manager for Laravel |
 | [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-19 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 1 | 2026-07-19 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-07-19 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [hybridly/laravel](https://github.com/hybridly/laravel) | 4 | 2026-07-19 | [READ ONLY] Subtree split of the Laravel package from the Hy... |
+| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 1 | 2026-07-19 | Free, read-only Filament observability panel for Laravel Swa... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-19 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-07-19 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 7 | 2026-07-19 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
 | [pikbdesigns/laravel-full-translation](https://github.com/pikbdesigns/laravel-full-translation) | 0 | 2026-07-19 | Laravel Full Translation — a Laravel 13 package for URL-base... |
-| [kodefarmers/laravel-cadence](https://github.com/kodefarmers/laravel-cadence) | 2 | 2026-07-19 | Progressive, strategy-based backoff for Laravel. |
-| [pushkin42/helper-packages](https://github.com/pushkin42/helper-packages) | 0 | 2026-07-19 | Различные пакеты для Laravel для собственных нужд |
-| [EloquentWorks/Masquerade](https://github.com/EloquentWorks/Masquerade) | 0 | 2026-07-19 | A feature-rich Laravel impersonation package with secure ses... |
-| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 5 | 2026-07-19 | A package for laravel to enable High-performance bulk seedin... |
-| [StuMason/laravel-coolify](https://github.com/StuMason/laravel-coolify) | 11 | 2026-07-19 | Laravel package for deploying to Coolify. Dashboard, CLI com... |
-| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-07-19 | Laravel and Livewire admin panel scaffold for car-rental ope... |
-| [php-skir/client](https://github.com/php-skir/client) | 0 | 2026-07-19 | Laravel SkirRPC client package powered by Saloon. |
+| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 19 | 2026-07-19 | Laritor is a Laravel-native observability platform that help... |
+| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 9 | 2026-07-19 | Skeleton for Laravel packages |
+| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-07-19 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [EloquentWorks/Masquerade](https://github.com/EloquentWorks/Masquerade) | 1 | 2026-07-19 | A feature-rich Laravel impersonation package with secure ses... |
 | [php-skir/server](https://github.com/php-skir/server) | 0 | 2026-07-19 | Laravel SkirRPC server package. |
-| [gumslone/laravel-package-url](https://github.com/gumslone/laravel-package-url) | 0 | 2026-07-19 | Package URL (purl) for Laravel — parse/build/normalize/valid... |
-| [ashrafic/filament-automation-bridge](https://github.com/ashrafic/filament-automation-bridge) | 5 | 2026-07-19 | Turn any Eloquent model event into an automation trigger for... |
+| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 298 | 2026-07-19 | Laravel error reporting tool |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-19T18:40 | 1 | 1716 | 5330 |
 | 2026-07-19T12:39 | 3 | 1716 | 5330 |
 | 2026-07-19T07:13 | 5 | 1715 | 5327 |
 | 2026-07-19T00:58 | 6 | 1713 | 5322 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-18T00:52 | 3 | 1720 | 5303 |
 | 2026-07-17T18:41 | 7 | 1716 | 5300 |
 | 2026-07-17T12:45 | 5 | 1720 | 5294 |
-| 2026-07-17T07:06 | 3 | 1722 | 5289 |
 
 ---
 

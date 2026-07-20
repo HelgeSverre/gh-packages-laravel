@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5335  
-**Last updated:** 2026-07-20T07:27:40.666Z
+**Total packages tracked:** 5340  
+**Last updated:** 2026-07-20T13:04:17.084Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [arthaud-proust-archive/fr.escalade-montesquieu.v2](https://github.com/arthaud-proust-archive/fr.escalade-montesquieu.v2) | 0 | Website of the climbing section at the school Lycée Montesquieu in Bordeaux. It ... |
+| [PemudaNegri/rental-erp-engine](https://github.com/PemudaNegri/rental-erp-engine) | 0 | A modular Rental ERP Engine built with Laravel 12 + Next.js 15. Configuration-dr... |
+| [ringlesoft/db-archive](https://github.com/ringlesoft/db-archive) | 4 | Laravel Package for Archiving old database entries |
+| [syscage/engine](https://github.com/syscage/engine) | 0 | 🚀 SysCage Engine - The core foundation for the SysCage framework ecosystem. Pro... |
+| [i-sazzad/laravel-opentelemetry](https://github.com/i-sazzad/laravel-opentelemetry) | 12 | Laravel OpenTelemetry Package |
 | [AdilAzhari/laravel-idempotency](https://github.com/AdilAzhari/laravel-idempotency) | 0 | A Laravel package providing idempotent request handling. |
 | [msulaimanmisri/easy-deploy](https://github.com/msulaimanmisri/easy-deploy) | 7 | A simple Laravel package to simplify deployment commands. Only one line needed! |
 | [kpconnell/laravel-jobwarden](https://github.com/kpconnell/laravel-jobwarden) | 0 | A database-backed alternative to Horizon & Laravel Queues — durable jobs, sophis... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jorgemudry/laravel-remote-token-auth](https://github.com/jorgemudry/laravel-remote-token-auth) | 3 | This package provides a hassle-free way to incorporate authentication in your ap... |
 | [nanayawkumi/nyk-logger](https://github.com/nanayawkumi/nyk-logger) | 0 | A logger mailer package for Laravel |
 | [KoassiAkakpo/filament-highcharts](https://github.com/KoassiAkakpo/filament-highcharts) | 1 | Highcharts integration for Filament |
-| [jetcod/eloquent-keygen](https://github.com/jetcod/eloquent-keygen) | 2 | A Laravel package for custom-format primary key generation in Eloquent models. |
-| [imgsrcdev/laravel](https://github.com/imgsrcdev/laravel) | 0 | The img src Laravel package |
-| [zerp-pk/package-template](https://github.com/zerp-pk/package-template) | 0 | Starter template for building a new Zerp module |
-| [pikbdesigns/laravel-full-translation](https://github.com/pikbdesigns/laravel-full-translation) | 0 | Laravel Full Translation — a Laravel 13 package for URL-based multilingual routi... |
-| [TitaniaAnn/makerhearth-architecture](https://github.com/TitaniaAnn/makerhearth-architecture) | 0 | Reference implementation of the multi-tenant studio-management architecture behi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [ringlesoft/db-archive](https://github.com/ringlesoft/db-archive) | 4 | 2026-07-20 | Laravel Package for Archiving old database entries |
+| [PemudaNegri/rental-erp-engine](https://github.com/PemudaNegri/rental-erp-engine) | 0 | 2026-07-20 | A modular Rental ERP Engine built with Laravel 12 + Next.js ... |
+| [blockshiftnetwork/chat-markdown-converter](https://github.com/blockshiftnetwork/chat-markdown-converter) | 12 | 2026-07-20 | Convert AI-generated Markdown to WhatsApp, Telegram, Discord... |
+| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 183 | 2026-07-20 | Full genealogy and family tree building application using La... |
+| [a2zwebltd/laravel-newsletter](https://github.com/a2zwebltd/laravel-newsletter) | 0 | 2026-07-20 | Portable Laravel newsletter / broadcast-mailing engine — sub... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-07-20 | Simple package for adding directives to show/hide content fr... |
 | [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 5 | 2026-07-20 | A package for laravel to enable High-performance bulk seedin... |
-| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-07-20 | Laravel Podman brings Podman Quadlet support to your Laravel... |
-| [php-skir/server](https://github.com/php-skir/server) | 0 | 2026-07-20 | Laravel SkirRPC server package. |
-| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-07-20 | A Laravel package that crawls websites to detect broken link... |
-| [matheusmarnt/scoutify](https://github.com/matheusmarnt/scoutify) | 1 | 2026-07-20 | ⌘K global search modal for Laravel — multi-model Livewire UI... |
-| [farbcodegmbh/laravel-stateful-resources](https://github.com/farbcodegmbh/laravel-stateful-resources) | 5 | 2026-07-20 | A Laravel package for managing state in API resources. |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-20 | Provides email verification on the go. |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 27 | 2026-07-20 | Laravel package for Indonesia regions selection with postal ... |
-| [awcodes/pounce](https://github.com/awcodes/pounce) | 10 | 2026-07-20 | A global modal/dialog plugin for Filament. |
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-07-20 | A Laravel package that provides a Cookies consent floating w... |
-| [nb3n/filament-record-nav](https://github.com/nb3n/filament-record-nav) | 11 | 2026-07-20 | A Laravel package that adds elegant next/previous record nav... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-07-20 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-07-20 | Laravel package scaffolder: generate complete, convention-re... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-07-20 | Runtime base library for building Laravel packages: fluent P... |
-| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | 2026-07-20 | Laravel package for building complex eloquent filters in a s... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-20 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-20 | Package para Laravel y facturacion |
-| [jeffreyvr/paver-for-laravel](https://github.com/jeffreyvr/paver-for-laravel) | 8 | 2026-07-20 | The drag and drop editor for PHP developers. |
+| [syscage/engine](https://github.com/syscage/engine) | 0 | 2026-07-20 | 🚀 SysCage Engine - The core foundation for the SysCage fram... |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-07-20 | Laravel package to handle requests are ensured sent |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-20 | Source code for the new pokemon3d.net website |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-20 | Main Webampp laravel package for GEOBOX 2.0 |
+| [VanOns/laravel-translations-sync](https://github.com/VanOns/laravel-translations-sync) | 0 | 2026-07-20 | A package that synchronizes translations between your Larave... |
+| [laravel-enso/image-transformer](https://github.com/laravel-enso/image-transformer) | 6 | 2026-07-20 | Laravel Enso image transformer and optimization dependency, ... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-20 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-20 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [lfsc09/kdongs](https://github.com/lfsc09/kdongs) | 0 | 2026-07-20 | Kdongs system |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-20 | The Moox Project - Packages for Filament and Laravel |
+| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 1 | 2026-07-20 | One-command Laravel setup, deploy & CI tools |
+| [pushkin42/helper-packages](https://github.com/pushkin42/helper-packages) | 0 | 2026-07-20 | Различные пакеты для Laravel для собственных нужд |
+| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 151 | 2026-07-20 | HTTP Idempotency Middleware for Laravel applications |
+| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 19 | 2026-07-20 | Laritor is a Laravel-native observability platform that help... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-20T13:04 | 5 | 1711 | 5340 |
 | 2026-07-20T07:27 | 2 | 1714 | 5335 |
 | 2026-07-20T00:58 | 3 | 1714 | 5333 |
 | 2026-07-19T18:40 | 1 | 1716 | 5330 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-18T18:39 | 2 | 1718 | 5316 |
 | 2026-07-18T12:39 | 8 | 1713 | 5314 |
 | 2026-07-18T07:02 | 3 | 1722 | 5306 |
-| 2026-07-18T00:52 | 3 | 1720 | 5303 |
 
 ---
 

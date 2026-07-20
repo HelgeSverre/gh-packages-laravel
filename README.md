@@ -2,15 +2,25 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5340  
-**Last updated:** 2026-07-20T13:04:17.084Z
+**Total packages tracked:** 5349  
+**Last updated:** 2026-07-20T19:01:17.970Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [bladepdf/bladepdf-laravel](https://github.com/bladepdf/bladepdf-laravel) | 2 | Generate production-ready PDFs from Laravel Blade views with managed Chromium, a... |
+| [zaber-dev/laravel-reservation](https://github.com/zaber-dev/laravel-reservation) | 1 | Application-level resource reservation for Laravel with stateful booking lifecyc... |
+| [dskripchenko/laravel-schemify](https://github.com/dskripchenko/laravel-schemify) | 0 | Dynamic multi-schema PostgreSQL connections for Laravel — per-layer migrate/seed... |
+| [awaisjameel/MimeTypes](https://github.com/awaisjameel/MimeTypes) | 0 | A Laravel package for dynamically fetching and resolving MIME types. |
+| [zanysoft/laravel-exception-monitor](https://github.com/zanysoft/laravel-exception-monitor) | 1 | This package notifies you when exceptions are thrown on some of your production ... |
+| [muhammed-bedran/Melbedran-Role-permession](https://github.com/muhammed-bedran/Melbedran-Role-permession) | 0 | Reusable Laravel roles & abilities package (Gates, Blade, Vue/Inertia) |
+| [ope-tech/laravel-ses](https://github.com/ope-tech/laravel-ses) | 44 | A Laravel Package that allows you to get simple sending statistics for emails yo... |
+| [wijzijnweb/laravel-inertia-permissions](https://github.com/wijzijnweb/laravel-inertia-permissions) | 20 | Easy to use package to implement spatie's permission package into a inertia proj... |
+| [ringlesoft/laravel-selectable](https://github.com/ringlesoft/laravel-selectable) | 5 | A package to populate select options from laravel collections. |
+| [djl997/simple-laravel-form-protection](https://github.com/djl997/simple-laravel-form-protection) | 0 | Simple package to protect and monitor public forms |
 | [arthaud-proust-archive/fr.escalade-montesquieu.v2](https://github.com/arthaud-proust-archive/fr.escalade-montesquieu.v2) | 0 | Website of the climbing section at the school Lycée Montesquieu in Bordeaux. It ... |
-| [PemudaNegri/rental-erp-engine](https://github.com/PemudaNegri/rental-erp-engine) | 0 | A modular Rental ERP Engine built with Laravel 12 + Next.js 15. Configuration-dr... |
+| [PemudaNegri/rental-erp-engine](https://github.com/PemudaNegri/rental-erp-engine) | 1 | A modular Rental ERP Engine built with Laravel 12 + Next.js 15. Configuration-dr... |
 | [ringlesoft/db-archive](https://github.com/ringlesoft/db-archive) | 4 | Laravel Package for Archiving old database entries |
 | [syscage/engine](https://github.com/syscage/engine) | 0 | 🚀 SysCage Engine - The core foundation for the SysCage framework ecosystem. Pro... |
 | [i-sazzad/laravel-opentelemetry](https://github.com/i-sazzad/laravel-opentelemetry) | 12 | Laravel OpenTelemetry Package |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kpconnell/laravel-jobwarden](https://github.com/kpconnell/laravel-jobwarden) | 0 | A database-backed alternative to Horizon & Laravel Queues — durable jobs, sophis... |
 | [xcesaralejandro/canvas-http](https://github.com/xcesaralejandro/canvas-http) | 0 | A Laravel package for interacting with the Canvas LMS API, automatically handlin... |
 | [farbesdev/laravel-ronin](https://github.com/farbesdev/laravel-ronin) | 0 | A simple and flexible package for managing roles and permissions in Laravel. It ... |
-| [onomahq/laravel-gezel](https://github.com/onomahq/laravel-gezel) | 0 | Shared Laravel package for Gezel: per-user agent containers via the middleware g... |
-| [labrodev/laravel-trello](https://github.com/labrodev/laravel-trello) | 0 | Stateless Trello REST API client for Laravel with the authorize-URL token flow.  |
-| [labrodev/laravel-linear](https://github.com/labrodev/laravel-linear) | 0 | A stateless Linear GraphQL + OAuth 2 client for Laravel. |
-| [gumslone/laravel-package-url](https://github.com/gumslone/laravel-package-url) | 0 | Package URL (purl) for Laravel — parse/build/normalize/validate (full purl-spec ... |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 3 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl. BM25 ranking, searc... |
-| [Jean-PierreGassin/lara-vellum](https://github.com/Jean-PierreGassin/lara-vellum) | 0 | Laravel meets Vellum: the art of writing, as a Laravel package. |
-| [EloquentWorks/Masquerade](https://github.com/EloquentWorks/Masquerade) | 1 | A feature-rich Laravel impersonation package with secure session handling, audit... |
-| [jorgemudry/laravel-remote-token-auth](https://github.com/jorgemudry/laravel-remote-token-auth) | 3 | This package provides a hassle-free way to incorporate authentication in your ap... |
-| [nanayawkumi/nyk-logger](https://github.com/nanayawkumi/nyk-logger) | 0 | A logger mailer package for Laravel |
-| [KoassiAkakpo/filament-highcharts](https://github.com/KoassiAkakpo/filament-highcharts) | 1 | Highcharts integration for Filament |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ringlesoft/db-archive](https://github.com/ringlesoft/db-archive) | 4 | 2026-07-20 | Laravel Package for Archiving old database entries |
-| [PemudaNegri/rental-erp-engine](https://github.com/PemudaNegri/rental-erp-engine) | 0 | 2026-07-20 | A modular Rental ERP Engine built with Laravel 12 + Next.js ... |
-| [blockshiftnetwork/chat-markdown-converter](https://github.com/blockshiftnetwork/chat-markdown-converter) | 12 | 2026-07-20 | Convert AI-generated Markdown to WhatsApp, Telegram, Discord... |
+| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-07-20 | The Laravel Quick Start package covers the basics of connect... |
 | [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 183 | 2026-07-20 | Full genealogy and family tree building application using La... |
-| [a2zwebltd/laravel-newsletter](https://github.com/a2zwebltd/laravel-newsletter) | 0 | 2026-07-20 | Portable Laravel newsletter / broadcast-mailing engine — sub... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-07-20 | Simple package for adding directives to show/hide content fr... |
-| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 5 | 2026-07-20 | A package for laravel to enable High-performance bulk seedin... |
-| [syscage/engine](https://github.com/syscage/engine) | 0 | 2026-07-20 | 🚀 SysCage Engine - The core foundation for the SysCage fram... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-07-20 | Laravel package to handle requests are ensured sent |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-20 | Source code for the new pokemon3d.net website |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-20 | Main Webampp laravel package for GEOBOX 2.0 |
-| [VanOns/laravel-translations-sync](https://github.com/VanOns/laravel-translations-sync) | 0 | 2026-07-20 | A package that synchronizes translations between your Larave... |
-| [laravel-enso/image-transformer](https://github.com/laravel-enso/image-transformer) | 6 | 2026-07-20 | Laravel Enso image transformer and optimization dependency, ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-20 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [lfsc09/kdongs](https://github.com/lfsc09/kdongs) | 0 | 2026-07-20 | Kdongs system |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-20 | The Moox Project - Packages for Filament and Laravel |
-| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 1 | 2026-07-20 | One-command Laravel setup, deploy & CI tools |
-| [pushkin42/helper-packages](https://github.com/pushkin42/helper-packages) | 0 | 2026-07-20 | Различные пакеты для Laravel для собственных нужд |
-| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 151 | 2026-07-20 | HTTP Idempotency Middleware for Laravel applications |
-| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 19 | 2026-07-20 | Laritor is a Laravel-native observability platform that help... |
+| [eerzho/opentelemetry-auto-class-monorepo](https://github.com/eerzho/opentelemetry-auto-class-monorepo) | 1 | 2026-07-20 | Development monorepo for the opentelemetry-auto-class packag... |
+| [awcodes/filament-table-repeater](https://github.com/awcodes/filament-table-repeater) | 265 | 2026-07-20 | A modified version of the Filament Forms Repeater to display... |
+| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-07-20 | Build privacy-conscious applications with tools designed for... |
+| [NyonCode/laravel-package-toolkit](https://github.com/NyonCode/laravel-package-toolkit) | 0 | 2026-07-20 | Laravel Package Builder is a powerful tool designed to strea... |
+| [ArtisanPack-UI/analytics](https://github.com/ArtisanPack-UI/analytics) | 0 | 2026-07-20 | A privacy-first analytics package for Laravel applications, ... |
+| [ArtisanPack-UI/ai](https://github.com/ArtisanPack-UI/ai) | 0 | 2026-07-20 | The shared AI foundation for ArtisanPack UI packages — BYOK ... |
+| [AdilAzhari/laravel-idempotency](https://github.com/AdilAzhari/laravel-idempotency) | 0 | 2026-07-20 | A Laravel package providing idempotent request handling. |
+| [jeffreyvr/paver-for-laravel](https://github.com/jeffreyvr/paver-for-laravel) | 8 | 2026-07-20 | The drag and drop editor for PHP developers. |
+| [ArtisanPack-UI/hooks](https://github.com/ArtisanPack-UI/hooks) | 0 | 2026-07-20 | This package provides a flexible hook system for extending a... |
+| [awaisjameel/MimeTypes](https://github.com/awaisjameel/MimeTypes) | 0 | 2026-07-20 | A Laravel package for dynamically fetching and resolving MIM... |
+| [fvisic/ProjectStatusApp](https://github.com/fvisic/ProjectStatusApp) | 2 | 2026-07-20 | Self-hosted portfolio health dashboard — track project statu... |
+| [alhaji-aki/laravel-sms](https://github.com/alhaji-aki/laravel-sms) | 2 | 2026-07-20 | Laravel SMS is a package that provides a simple and flexible... |
+| [businesstilto/commentable](https://github.com/businesstilto/commentable) | 16 | 2026-07-20 | An extensive and very customizable package that adds comment... |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 68 | 2026-07-20 |  |
+| [MarcelWeidum/filament-passkeys](https://github.com/MarcelWeidum/filament-passkeys) | 67 | 2026-07-20 | Use passkeys in your filament app |
+| [MarcelWeidum/filament-expiration-notice](https://github.com/MarcelWeidum/filament-expiration-notice) | 94 | 2026-07-20 | Customize the 'Page expired' livewire message into a filamen... |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-07-20 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [AbdulMannanShihab/CMS-FilamentPHP](https://github.com/AbdulMannanShihab/CMS-FilamentPHP) | 2 | 2026-07-20 | Responsive Laravel CMS (Livewire + FilamentPHP)  A clean, re... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-20T19:01 | 10 | 1707 | 5349 |
 | 2026-07-20T13:04 | 5 | 1711 | 5340 |
 | 2026-07-20T07:27 | 2 | 1714 | 5335 |
 | 2026-07-20T00:58 | 3 | 1714 | 5333 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-19T00:58 | 6 | 1713 | 5322 |
 | 2026-07-18T18:39 | 2 | 1718 | 5316 |
 | 2026-07-18T12:39 | 8 | 1713 | 5314 |
-| 2026-07-18T07:02 | 3 | 1722 | 5306 |
 
 ---
 

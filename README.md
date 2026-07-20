@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5333  
-**Last updated:** 2026-07-20T00:58:53.589Z
+**Total packages tracked:** 5335  
+**Last updated:** 2026-07-20T07:27:40.666Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [AdilAzhari/laravel-idempotency](https://github.com/AdilAzhari/laravel-idempotency) | 0 | A Laravel package providing idempotent request handling. |
+| [msulaimanmisri/easy-deploy](https://github.com/msulaimanmisri/easy-deploy) | 7 | A simple Laravel package to simplify deployment commands. Only one line needed! |
 | [kpconnell/laravel-jobwarden](https://github.com/kpconnell/laravel-jobwarden) | 0 | A database-backed alternative to Horizon & Laravel Queues — durable jobs, sophis... |
 | [xcesaralejandro/canvas-http](https://github.com/xcesaralejandro/canvas-http) | 0 | A Laravel package for interacting with the Canvas LMS API, automatically handlin... |
 | [farbesdev/laravel-ronin](https://github.com/farbesdev/laravel-ronin) | 0 | A simple and flexible package for managing roles and permissions in Laravel. It ... |
@@ -16,7 +18,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [labrodev/laravel-trello](https://github.com/labrodev/laravel-trello) | 0 | Stateless Trello REST API client for Laravel with the authorize-URL token flow.  |
 | [labrodev/laravel-linear](https://github.com/labrodev/laravel-linear) | 0 | A stateless Linear GraphQL + OAuth 2 client for Laravel. |
 | [gumslone/laravel-package-url](https://github.com/gumslone/laravel-package-url) | 0 | Package URL (purl) for Laravel — parse/build/normalize/validate (full purl-spec ... |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 2 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl. BM25 ranking, searc... |
+| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 3 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl. BM25 ranking, searc... |
 | [Jean-PierreGassin/lara-vellum](https://github.com/Jean-PierreGassin/lara-vellum) | 0 | Laravel meets Vellum: the art of writing, as a Laravel package. |
 | [EloquentWorks/Masquerade](https://github.com/EloquentWorks/Masquerade) | 1 | A feature-rich Laravel impersonation package with secure session handling, audit... |
 | [jorgemudry/laravel-remote-token-auth](https://github.com/jorgemudry/laravel-remote-token-auth) | 3 | This package provides a hassle-free way to incorporate authentication in your ap... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [zerp-pk/package-template](https://github.com/zerp-pk/package-template) | 0 | Starter template for building a new Zerp module |
 | [pikbdesigns/laravel-full-translation](https://github.com/pikbdesigns/laravel-full-translation) | 0 | Laravel Full Translation — a Laravel 13 package for URL-based multilingual routi... |
 | [TitaniaAnn/makerhearth-architecture](https://github.com/TitaniaAnn/makerhearth-architecture) | 0 | Reference implementation of the multi-tenant studio-management architecture behi... |
-| [AsimNet/filament-ummulqura-date-picker](https://github.com/AsimNet/filament-ummulqura-date-picker) | 0 | A Hijri (Umm al-Qura) date & time picker for Filament that shows both calendars ... |
-| [ViniciusJPSilva/laravel-base-repository](https://github.com/ViniciusJPSilva/laravel-base-repository) | 1 | A reusable base repository implementation for Laravel. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [World-eSports-LLC/laravel-auto-tenancy](https://github.com/World-eSports-LLC/laravel-auto-tenancy) | 33 | 2026-07-20 | This Laravel package allows any laravel installation to beco... |
-| [Jean-PierreGassin/lara-vellum](https://github.com/Jean-PierreGassin/lara-vellum) | 0 | 2026-07-20 | Laravel meets Vellum: the art of writing, as a Laravel packa... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-20 | The flexible backbone for your next CMS. This powerful frame... |
-| [coderflexx/laravel-sendy](https://github.com/coderflexx/laravel-sendy) | 3 | 2026-07-20 | A clean Laravel wrapper for the Sendy API to manage email su... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 11 | 2026-07-20 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-07-20 | Laravel OTP is a Laravel package that enables developers to ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-19 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-07-19 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-07-19 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
-| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 1 | 2026-07-19 | HelpDesk starter kit built on Laravel 12.x and Filament 3.x ... |
-| [jeffersongoncalves/teamkitv4](https://github.com/jeffersongoncalves/teamkitv4) | 9 | 2026-07-19 | TeamKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 7 | 2026-07-19 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-07-19 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [jeffersongoncalves/evolutionkitv4](https://github.com/jeffersongoncalves/evolutionkitv4) | 10 | 2026-07-19 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [jeffersongoncalves/helpdeskkitv4](https://github.com/jeffersongoncalves/helpdeskkitv4) | 3 | 2026-07-19 | HelpDesk starter kit built on Laravel 13.x and Filament 4.x ... |
-| [jeffersongoncalves/mfakitv5](https://github.com/jeffersongoncalves/mfakitv5) | 3 | 2026-07-19 | MFAKit starter kit built on Laravel 12.x and Filament 5.x wi... |
-| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-07-19 | Laravel package skeleton ⚙️ |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 2 | 2026-07-19 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
-| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 183 | 2026-07-19 | Full genealogy and family tree building application using La... |
-| [goodcat-dev/laravel-l10n](https://github.com/goodcat-dev/laravel-l10n) | 7 | 2026-07-19 | An opinionated Laravel package for app localization. |
+| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 5 | 2026-07-20 | A package for laravel to enable High-performance bulk seedin... |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-07-20 | Laravel Podman brings Podman Quadlet support to your Laravel... |
+| [php-skir/server](https://github.com/php-skir/server) | 0 | 2026-07-20 | Laravel SkirRPC server package. |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-07-20 | A Laravel package that crawls websites to detect broken link... |
+| [matheusmarnt/scoutify](https://github.com/matheusmarnt/scoutify) | 1 | 2026-07-20 | ⌘K global search modal for Laravel — multi-model Livewire UI... |
+| [farbcodegmbh/laravel-stateful-resources](https://github.com/farbcodegmbh/laravel-stateful-resources) | 5 | 2026-07-20 | A Laravel package for managing state in API resources. |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-20 | Provides email verification on the go. |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 27 | 2026-07-20 | Laravel package for Indonesia regions selection with postal ... |
+| [awcodes/pounce](https://github.com/awcodes/pounce) | 10 | 2026-07-20 | A global modal/dialog plugin for Filament. |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-07-20 | A Laravel package that provides a Cookies consent floating w... |
+| [nb3n/filament-record-nav](https://github.com/nb3n/filament-record-nav) | 11 | 2026-07-20 | A Laravel package that adds elegant next/previous record nav... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-07-20 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-07-20 | Laravel package scaffolder: generate complete, convention-re... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-07-20 | Runtime base library for building Laravel packages: fluent P... |
+| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | 2026-07-20 | Laravel package for building complex eloquent filters in a s... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-20 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-20 | Package para Laravel y facturacion |
+| [jeffreyvr/paver-for-laravel](https://github.com/jeffreyvr/paver-for-laravel) | 8 | 2026-07-20 | The drag and drop editor for PHP developers. |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-20 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-20 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-20T07:27 | 2 | 1714 | 5335 |
 | 2026-07-20T00:58 | 3 | 1714 | 5333 |
 | 2026-07-19T18:40 | 1 | 1716 | 5330 |
 | 2026-07-19T12:39 | 3 | 1716 | 5330 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-18T12:39 | 8 | 1713 | 5314 |
 | 2026-07-18T07:02 | 3 | 1722 | 5306 |
 | 2026-07-18T00:52 | 3 | 1720 | 5303 |
-| 2026-07-17T18:41 | 7 | 1716 | 5300 |
 
 ---
 

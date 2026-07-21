@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5349  
-**Last updated:** 2026-07-20T19:01:17.970Z
+**Total packages tracked:** 5352  
+**Last updated:** 2026-07-21T00:55:44.193Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [labrodev/laravel-telegram](https://github.com/labrodev/laravel-telegram) | 0 | Stateless Telegram Bot API client for Laravel with webhook update parsing and se... |
+| [Ikromjon1998/laravel-german-license-plate-validation](https://github.com/Ikromjon1998/laravel-german-license-plate-validation) | 0 | A Laravel validation rule for German vehicle license plates (Kfz-Kennzeichen). |
+| [ferdiunal/nova-settings](https://github.com/ferdiunal/nova-settings) | 8 | Nova Settings is a Laravel Nova package providing a user-friendly interface for ... |
 | [bladepdf/bladepdf-laravel](https://github.com/bladepdf/bladepdf-laravel) | 2 | Generate production-ready PDFs from Laravel Blade views with managed Chromium, a... |
 | [zaber-dev/laravel-reservation](https://github.com/zaber-dev/laravel-reservation) | 1 | Application-level resource reservation for Laravel with stateful booking lifecyc... |
 | [dskripchenko/laravel-schemify](https://github.com/dskripchenko/laravel-schemify) | 0 | Dynamic multi-schema PostgreSQL connections for Laravel — per-layer migrate/seed... |
@@ -24,11 +27,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ringlesoft/db-archive](https://github.com/ringlesoft/db-archive) | 4 | Laravel Package for Archiving old database entries |
 | [syscage/engine](https://github.com/syscage/engine) | 0 | 🚀 SysCage Engine - The core foundation for the SysCage framework ecosystem. Pro... |
 | [i-sazzad/laravel-opentelemetry](https://github.com/i-sazzad/laravel-opentelemetry) | 12 | Laravel OpenTelemetry Package |
-| [AdilAzhari/laravel-idempotency](https://github.com/AdilAzhari/laravel-idempotency) | 0 | A Laravel package providing idempotent request handling. |
+| [AdilAzhari/laravel-idempotency](https://github.com/AdilAzhari/laravel-idempotency) | 1 | A Laravel package providing idempotent request handling. |
 | [msulaimanmisri/easy-deploy](https://github.com/msulaimanmisri/easy-deploy) | 7 | A simple Laravel package to simplify deployment commands. Only one line needed! |
-| [kpconnell/laravel-jobwarden](https://github.com/kpconnell/laravel-jobwarden) | 0 | A database-backed alternative to Horizon & Laravel Queues — durable jobs, sophis... |
-| [xcesaralejandro/canvas-http](https://github.com/xcesaralejandro/canvas-http) | 0 | A Laravel package for interacting with the Canvas LMS API, automatically handlin... |
-| [farbesdev/laravel-ronin](https://github.com/farbesdev/laravel-ronin) | 0 | A simple and flexible package for managing roles and permissions in Laravel. It ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-07-20 | The Laravel Quick Start package covers the basics of connect... |
-| [liberu-genealogy/genealogy-laravel](https://github.com/liberu-genealogy/genealogy-laravel) | 183 | 2026-07-20 | Full genealogy and family tree building application using La... |
-| [eerzho/opentelemetry-auto-class-monorepo](https://github.com/eerzho/opentelemetry-auto-class-monorepo) | 1 | 2026-07-20 | Development monorepo for the opentelemetry-auto-class packag... |
-| [awcodes/filament-table-repeater](https://github.com/awcodes/filament-table-repeater) | 265 | 2026-07-20 | A modified version of the Filament Forms Repeater to display... |
-| [ArtisanPack-UI/privacy](https://github.com/ArtisanPack-UI/privacy) | 0 | 2026-07-20 | Build privacy-conscious applications with tools designed for... |
-| [NyonCode/laravel-package-toolkit](https://github.com/NyonCode/laravel-package-toolkit) | 0 | 2026-07-20 | Laravel Package Builder is a powerful tool designed to strea... |
-| [ArtisanPack-UI/analytics](https://github.com/ArtisanPack-UI/analytics) | 0 | 2026-07-20 | A privacy-first analytics package for Laravel applications, ... |
-| [ArtisanPack-UI/ai](https://github.com/ArtisanPack-UI/ai) | 0 | 2026-07-20 | The shared AI foundation for ArtisanPack UI packages — BYOK ... |
-| [AdilAzhari/laravel-idempotency](https://github.com/AdilAzhari/laravel-idempotency) | 0 | 2026-07-20 | A Laravel package providing idempotent request handling. |
-| [jeffreyvr/paver-for-laravel](https://github.com/jeffreyvr/paver-for-laravel) | 8 | 2026-07-20 | The drag and drop editor for PHP developers. |
-| [ArtisanPack-UI/hooks](https://github.com/ArtisanPack-UI/hooks) | 0 | 2026-07-20 | This package provides a flexible hook system for extending a... |
-| [awaisjameel/MimeTypes](https://github.com/awaisjameel/MimeTypes) | 0 | 2026-07-20 | A Laravel package for dynamically fetching and resolving MIM... |
-| [fvisic/ProjectStatusApp](https://github.com/fvisic/ProjectStatusApp) | 2 | 2026-07-20 | Self-hosted portfolio health dashboard — track project statu... |
-| [alhaji-aki/laravel-sms](https://github.com/alhaji-aki/laravel-sms) | 2 | 2026-07-20 | Laravel SMS is a package that provides a simple and flexible... |
-| [businesstilto/commentable](https://github.com/businesstilto/commentable) | 16 | 2026-07-20 | An extensive and very customizable package that adds comment... |
-| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 68 | 2026-07-20 |  |
-| [MarcelWeidum/filament-passkeys](https://github.com/MarcelWeidum/filament-passkeys) | 67 | 2026-07-20 | Use passkeys in your filament app |
-| [MarcelWeidum/filament-expiration-notice](https://github.com/MarcelWeidum/filament-expiration-notice) | 94 | 2026-07-20 | Customize the 'Page expired' livewire message into a filamen... |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-07-20 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [AbdulMannanShihab/CMS-FilamentPHP](https://github.com/AbdulMannanShihab/CMS-FilamentPHP) | 2 | 2026-07-20 | Responsive Laravel CMS (Livewire + FilamentPHP)  A clean, re... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-21 | The flexible backbone for your next CMS. This powerful frame... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-21 | A Laravel package to handle AWS SNS notifications, providing... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-21 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-21 | A lightweight, convention-driven modular architecture packag... |
+| [atlas-php/atlas](https://github.com/atlas-php/atlas) | 52 | 2026-07-21 | An AI SDK for building agents and tools in Laravel applicati... |
+| [anilkumarthakur60/fast-api-crud](https://github.com/anilkumarthakur60/fast-api-crud) | 9 | 2026-07-21 | The GitHub repository "Fast-Api-Crud" is a package that prov... |
+| [AdilAzhari/laravel-idempotency](https://github.com/AdilAzhari/laravel-idempotency) | 1 | 2026-07-20 | A Laravel package providing idempotent request handling. |
+| [Jean-PierreGassin/lara-vellum](https://github.com/Jean-PierreGassin/lara-vellum) | 0 | 2026-07-20 | Laravel meets Vellum: the art of writing, as a Laravel packa... |
+| [jvjvjv/CodeTalker](https://github.com/jvjvjv/CodeTalker) | 0 | 2026-07-20 | Multi-provider AI communications package for Laravel |
+| [pikbdesigns/laravel-full-translation](https://github.com/pikbdesigns/laravel-full-translation) | 0 | 2026-07-20 | Laravel Full Translation — a Laravel 13 package for URL-base... |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 47 | 2026-07-20 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
+| [academe/laravel-journal-window-cleaner-demo](https://github.com/academe/laravel-journal-window-cleaner-demo) | 0 | 2026-07-20 | Demo window cleaner app for package academe/laravel-journal |
+| [InteractionDesignFoundation/coding-standard](https://github.com/InteractionDesignFoundation/coding-standard) | 7 | 2026-07-20 | 🪷 PHPCS coding-standard for Laravel applications and packag... |
+| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-07-20 |  |
+| [fidum/nova-package-bundler-command](https://github.com/fidum/nova-package-bundler-command) | 21 | 2026-07-20 | Improves Laravel Nova initial load speeds by combining all t... |
+| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 9 | 2026-07-20 | MFAKit starter kit built on Laravel 12.x and Filament 4.x wi... |
+| [fidum/laravel-nova-metrics-polling](https://github.com/fidum/laravel-nova-metrics-polling) | 6 | 2026-07-20 | Easily add polling to all your Laravel Nova metrics and card... |
+| [CodeTechAgency/laravel-api-logs](https://github.com/CodeTechAgency/laravel-api-logs) | 0 | 2026-07-20 | Laravel package for logging API requests and responses with ... |
+| [minkovdev/laragdpr](https://github.com/minkovdev/laragdpr) | 2 | 2026-07-20 | GDPR Cookie consent and cookie manager for Laravel |
+| [oussamamadjmaa/sofizpay-laravel](https://github.com/oussamamadjmaa/sofizpay-laravel) | 1 | 2026-07-20 | A Laravel package for SofizPay CIB transactions and service ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-21T00:55 | 3 | 1713 | 5352 |
 | 2026-07-20T19:01 | 10 | 1707 | 5349 |
 | 2026-07-20T13:04 | 5 | 1711 | 5340 |
 | 2026-07-20T07:27 | 2 | 1714 | 5335 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-19T07:13 | 5 | 1715 | 5327 |
 | 2026-07-19T00:58 | 6 | 1713 | 5322 |
 | 2026-07-18T18:39 | 2 | 1718 | 5316 |
-| 2026-07-18T12:39 | 8 | 1713 | 5314 |
 
 ---
 

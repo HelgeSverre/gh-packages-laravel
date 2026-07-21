@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5360  
-**Last updated:** 2026-07-21T07:15:31.520Z
+**Total packages tracked:** 5366  
+**Last updated:** 2026-07-21T12:50:50.154Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [SamuelScar/VitaFlow](https://github.com/SamuelScar/VitaFlow) | 0 | VitaFlow é um sistema web para organização e acompanhamento de campanhas de doaç... |
+| [gubakareem/lara-architect](https://github.com/gubakareem/lara-architect) | 0 | 💡 Stop writing boilerplate code. LaraArchitect provides dynamic scaffolding for... |
+| [rahax/iranian-holidays](https://github.com/rahax/iranian-holidays) | 0 | Laravel package for Iranian official holidays and working-day adjustments, sourc... |
+| [njoguamos/laravel-zoho-oauth](https://github.com/njoguamos/laravel-zoho-oauth) | 7 | Laravel Zoho OAuth is a Laravel package designed to simplify the integration of ... |
+| [ArtisanXL/Blog](https://github.com/ArtisanXL/Blog) | 0 | Headless Laravel 13 blog package: Categories, Tags, Posts (Markdown) with SEO, A... |
+| [suleman09522/super-audit](https://github.com/suleman09522/super-audit) | 7 | A Laravel package for automatic database audit logging using MySQL triggers. |
+| [kodefarmers/nepaldata](https://github.com/kodefarmers/nepaldata) | 12 | A laravel package to fetch Nepal data (Provinces, Districts, Municipalities). |
 | [trust-medical/livewire-same-origin-embed](https://github.com/trust-medical/livewire-same-origin-embed) | 0 | Same-origin-only bridge for embedding Laravel Livewire 4 components into non-Lar... |
 | [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | Laravel admin panel constructor — Resource-first CRUD, Vue 3 SPA, JSON-API trans... |
 | [AdminUI/inertia-routes](https://github.com/AdminUI/inertia-routes) | 18 | A hybrid JS/PHP package adding Ziggy-routes functionality to your Laravel/Inerti... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ferdiunal/nova-settings](https://github.com/ferdiunal/nova-settings) | 8 | Nova Settings is a Laravel Nova package providing a user-friendly interface for ... |
 | [bladepdf/bladepdf-laravel](https://github.com/bladepdf/bladepdf-laravel) | 2 | Generate production-ready PDFs from Laravel Blade views with managed Chromium, a... |
 | [zaber-dev/laravel-reservation](https://github.com/zaber-dev/laravel-reservation) | 1 | Application-level resource reservation for Laravel with stateful booking lifecyc... |
-| [dskripchenko/laravel-schemify](https://github.com/dskripchenko/laravel-schemify) | 0 | Dynamic multi-schema PostgreSQL connections for Laravel — per-layer migrate/seed... |
-| [awaisjameel/MimeTypes](https://github.com/awaisjameel/MimeTypes) | 0 | A Laravel package for dynamically fetching and resolving MIME types. |
-| [zanysoft/laravel-exception-monitor](https://github.com/zanysoft/laravel-exception-monitor) | 1 | This package notifies you when exceptions are thrown on some of your production ... |
-| [muhammed-bedran/Melbedran-Role-permession](https://github.com/muhammed-bedran/Melbedran-Role-permession) | 0 | Reusable Laravel roles & abilities package (Gates, Blade, Vue/Inertia) |
-| [ope-tech/laravel-ses](https://github.com/ope-tech/laravel-ses) | 44 | A Laravel Package that allows you to get simple sending statistics for emails yo... |
-| [wijzijnweb/laravel-inertia-permissions](https://github.com/wijzijnweb/laravel-inertia-permissions) | 20 | Easy to use package to implement spatie's permission package into a inertia proj... |
-| [ringlesoft/laravel-selectable](https://github.com/ringlesoft/laravel-selectable) | 5 | A package to populate select options from laravel collections. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 1 | 2026-07-21 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
-| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-07-21 | Laravel package that logs third-party HTTP traffic (outgoing... |
-| [AdminUI/inertia-routes](https://github.com/AdminUI/inertia-routes) | 18 | 2026-07-21 | A hybrid JS/PHP package adding Ziggy-routes functionality to... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-21 | A practical work management information system built with La... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-21 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 3 | 2026-07-21 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-21 | The Moox Project - Packages for Filament and Laravel |
-| [its-enpii/enpii-studio-core](https://github.com/its-enpii/enpii-studio-core) | 0 | 2026-07-21 | Enpii Studio Core Laravel package |
-| [rahaug/laravel-front-sms](https://github.com/rahaug/laravel-front-sms) | 2 | 2026-07-21 | A Laravel package that makes it easy to send SMS to your use... |
-| [nb3n/filament-record-nav](https://github.com/nb3n/filament-record-nav) | 11 | 2026-07-21 | A Laravel package that adds elegant next/previous record nav... |
-| [samuelterra22/laravel-report-generator](https://github.com/samuelterra22/laravel-report-generator) | 12 | 2026-07-21 | Rapidly Generate Simple Pdf & Excel Report Package on Larave... |
-| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-07-21 | A package for Miro |
-| [nightworksio/beatrax](https://github.com/nightworksio/beatrax) | 8 | 2026-07-21 | Local-first personal finance dashboard that resolves cross-a... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-21 | Provides email verification on the go. |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-21 | Main Webampp laravel package for GEOBOX 2.0 |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 27 | 2026-07-21 | Laravel package for Indonesia regions selection with postal ... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-07-21 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
-| [Empinet/laravel-email-validation](https://github.com/Empinet/laravel-email-validation) | 3 | 2026-07-21 | Official Laravel package for email validation with EasyEmail... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-21 | Package para Laravel y facturacion |
-| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 5 | 2026-07-21 | A package for laravel to enable High-performance bulk seedin... |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-21 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [zanysoft/laravel-exception-monitor](https://github.com/zanysoft/laravel-exception-monitor) | 1 | 2026-07-21 | This package notifies you when exceptions are thrown on some... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-07-21 | Package analytics laravel + livewire |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-07-21 | Laravel package to handle requests are ensured sent |
+| [rahax/iranian-holidays](https://github.com/rahax/iranian-holidays) | 0 | 2026-07-21 | Laravel package for Iranian official holidays and working-da... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-21 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [lfsc09/kdongs](https://github.com/lfsc09/kdongs) | 0 | 2026-07-21 | Kdongs system |
+| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-21 | Filament admin panel, editor workflows, settings, and extens... |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-21 | Source code for the new pokemon3d.net website |
+| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-07-21 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 181 | 2026-07-21 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [onomahq/laravel-gezel](https://github.com/onomahq/laravel-gezel) | 0 | 2026-07-21 | Shared Laravel package for Gezel: per-user agent containers ... |
+| [Nameless0l/laravel-api-generator](https://github.com/Nameless0l/laravel-api-generator) | 22 | 2026-07-21 | A powerful Laravel package that generates a complete API str... |
+| [AdilAzhari/laravel-idempotency](https://github.com/AdilAzhari/laravel-idempotency) | 1 | 2026-07-21 | A Laravel package providing idempotent request handling. |
+| [promptphp/deck](https://github.com/promptphp/deck) | 99 | 2026-07-21 | A Laravel package for versioned AI prompt management with va... |
+| [njoguamos/laravel-zoho-oauth](https://github.com/njoguamos/laravel-zoho-oauth) | 7 | 2026-07-21 | Laravel Zoho OAuth is a Laravel package designed to simplify... |
+| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-07-21 | Detect language using Google Translation API |
+| [virtunus/frdb-notification](https://github.com/virtunus/frdb-notification) | 0 | 2026-07-21 | Laravel package for firebase realtime database notification |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-07-21 | A Laravel package that provides a Cookies consent floating w... |
+| [almamuncsit/web-course-api](https://github.com/almamuncsit/web-course-api) | 3 | 2026-07-21 | A laravel package for providing api for web-courses-vue  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-21T12:50 | 7 | 1706 | 5366 |
 | 2026-07-21T07:15 | 8 | 1706 | 5360 |
 | 2026-07-21T00:55 | 3 | 1713 | 5352 |
 | 2026-07-20T19:01 | 10 | 1707 | 5349 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-19T18:40 | 1 | 1716 | 5330 |
 | 2026-07-19T12:39 | 3 | 1716 | 5330 |
 | 2026-07-19T07:13 | 5 | 1715 | 5327 |
-| 2026-07-19T00:58 | 6 | 1713 | 5322 |
 
 ---
 

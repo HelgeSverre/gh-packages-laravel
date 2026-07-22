@@ -2,13 +2,26 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5380  
-**Last updated:** 2026-07-22T07:16:11.510Z
+**Total packages tracked:** 5393  
+**Last updated:** 2026-07-22T12:52:02.208Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [BBS-Lab/filament-password-rotation](https://github.com/BBS-Lab/filament-password-rotation) | 0 | Password rotation for Filament — forced-change page, reuse prevention & expiry w... |
+| [labrodev/laravel-slack](https://github.com/labrodev/laravel-slack) | 0 | Stateless Slack incoming-webhook client for Laravel with Block Kit message trans... |
+| [labrodev/laravel-team-paddle](https://github.com/labrodev/laravel-team-paddle) | 0 | Paddle billing adapter for labrodev/laravel-team - a Cashier-Paddle implementati... |
+| [labrodev/laravel-team](https://github.com/labrodev/laravel-team) | 0 | Teams, memberships, invitations, roles and plan/billing mechanics for Laravel Sa... |
+| [labrodev/laravel-ssl-keeper](https://github.com/labrodev/laravel-ssl-keeper) | 0 | TLS certificate expiry reader for Laravel — fetches and parses the peer certific... |
+| [labrodev/laravel-domain-verifier](https://github.com/labrodev/laravel-domain-verifier) | 0 | DNS-over-HTTPS TXT/CNAME resolver for Laravel with token-based domain-ownership ... |
+| [fbollon/lara-visitors](https://github.com/fbollon/lara-visitors) | 0 | Laravel package that provides a dashboard and statistics for visits recorded by ... |
+| [usmansher/paybysquare-laravel](https://github.com/usmansher/paybysquare-laravel) | 0 | READ-ONLY subtree split of packages/laravel from usmansher/paybysquare. Do not o... |
+| [stats4sd/laravel-backpack-section-title](https://github.com/stats4sd/laravel-backpack-section-title) | 3 | A tiny package to add a section-title field type to your Backpack project.  |
+| [labrodev/laravel-domain-keeper](https://github.com/labrodev/laravel-domain-keeper) | 0 | Domain registrar-expiry reader for Laravel — RDAP first with a port-43 WHOIS fal... |
+| [KarimEl-Kady/activity-logger](https://github.com/KarimEl-Kady/activity-logger) | 2 | A Laravel package for automatically logging authenticated users' actions (create... |
+| [la-souris/package-document-signer-laravel](https://github.com/la-souris/package-document-signer-laravel) | 0 | Laravel integration for the document signer SDK: config, service provider, manag... |
+| [zislogic/ebay-model-inventory](https://github.com/zislogic/ebay-model-inventory) | 0 | eBay inventory model package for Laravel (Eloquent models + migrations) |
 | [Thiritin/meteric](https://github.com/Thiritin/meteric) | 1 | Advanced billing engine for Laravel: subscriptions, proration, usage metering, a... |
 | [charlieuki/receipt-printer-example](https://github.com/charlieuki/receipt-printer-example) | 24 | Example usage of Laravel package to integrate ECS/POS Print Driver for PHP |
 | [andriichuk/laravel-db-query-sniffer](https://github.com/andriichuk/laravel-db-query-sniffer) | 0 | Laravel package to log SQL queries and Redis commands with raw SQL, binary-safe ... |
@@ -16,19 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [hendurhance/laracaptcha](https://github.com/hendurhance/laracaptcha) | 14 | A Laravel package to seamlessly use hCapthca or reCaptcha v2 or v3 on your forms... |
 | [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattice auth UI package |
 | [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC provider (server) pac... |
-| [bambamboole/laravel-oidc-client](https://github.com/bambamboole/laravel-oidc-client) | 0 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC relying party (client... |
-| [v4code-labs/Warden-panel](https://github.com/v4code-labs/Warden-panel) | 0 | Self-hosted dedicated parent dashboard for the Warden Laravel APM package — stan... |
-| [parselynk/laravel-ai-attributes](https://github.com/parselynk/laravel-ai-attributes) | 0 | Add AI-powered computed attributes to any Eloquent model with a single trait. |
-| [zaber-dev/laravel-workflow](https://github.com/zaber-dev/laravel-workflow) | 0 | Application-level workflow orchestration for Laravel with validated state transi... |
-| [pirumart/uganda-administrative-units](https://github.com/pirumart/uganda-administrative-units) | 4 | Laravel Package for administrative units of Uganda (Regions, Districts, Counties... |
-| [CodeTechAgency/laravel-vendus](https://github.com/CodeTechAgency/laravel-vendus) | 0 | Laravel wrapper for the waap/vendus-api package. |
-| [kokonut-ch/SwissBankCsvParser](https://github.com/kokonut-ch/SwissBankCsvParser) | 1 | Laravel Package | Parse CSV account statements exported by Swiss banks into one ... |
-| [SamuelScar/VitaFlow](https://github.com/SamuelScar/VitaFlow) | 0 | VitaFlow é um sistema web para organização e acompanhamento de campanhas de doaç... |
-| [gubakareem/lara-architect](https://github.com/gubakareem/lara-architect) | 0 | 💡 Stop writing boilerplate code. LaraArchitect provides dynamic scaffolding for... |
-| [rahax/iranian-holidays](https://github.com/rahax/iranian-holidays) | 1 | Laravel package for Iranian official holidays and working-day adjustments, sourc... |
-| [njoguamos/laravel-zoho-oauth](https://github.com/njoguamos/laravel-zoho-oauth) | 7 | Laravel Zoho OAuth is a Laravel package designed to simplify the integration of ... |
-| [ArtisanXL/Blog](https://github.com/ArtisanXL/Blog) | 0 | Headless Laravel 13 blog package: Categories, Tags, Posts (Markdown) with SEO, A... |
-| [suleman09522/super-audit](https://github.com/suleman09522/super-audit) | 7 | A Laravel package for automatic database audit logging using MySQL triggers. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-22 | Package para Laravel y facturacion |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 181 | 2026-07-22 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-07-22 | A Laravel package to store model attribute translations in a... |
+| [masmaleki/zoho-one](https://github.com/masmaleki/zoho-one) | 4 | 2026-07-22 | Laravel package for ZOHO all in one |
 | [backstagephp/mails](https://github.com/backstagephp/mails) | 163 | 2026-07-22 | Collect everything about sent mails in your Filament app. |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 249 | 2026-07-22 | Collect everything about sent mails in your Laravel app |
+| [fbollon/lara-visitors](https://github.com/fbollon/lara-visitors) | 0 | 2026-07-22 | Laravel package that provides a dashboard and statistics for... |
+| [BBS-Lab/filament-password-rotation](https://github.com/BBS-Lab/filament-password-rotation) | 0 | 2026-07-22 | Password rotation for Filament — forced-change page, reuse p... |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-07-22 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-22 | Source code for the new pokemon3d.net website |
+| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 298 | 2026-07-22 | Laravel error reporting tool |
+| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 17 | 2026-07-22 | Skeleton for Laravel packages |
+| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 1 | 2026-07-22 | One-command Laravel setup, deploy & CI tools |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-22 | The Moox Project - Packages for Filament and Laravel |
 | [ChristopheAI/blood-values-dashboard](https://github.com/ChristopheAI/blood-values-dashboard) | 0 | 2026-07-22 | Personal Laravel app: lab PDF → reviewed biomarkers, trends,... |
-| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-22 | A Laravel package to track revisions of Eloquent models, all... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-22 | Provides email verification on the go. |
-| [wotzebra/filament-translatable-strings](https://github.com/wotzebra/filament-translatable-strings) | 1 | 2026-07-22 | This package manages translatable strings for Laravel in Fil... |
-| [wotzebra/laravel-translatable-routes](https://github.com/wotzebra/laravel-translatable-routes) | 0 | 2026-07-22 | Package for Laravel to make routes translatable |
-| [wotzebra/laravel-online-scope](https://github.com/wotzebra/laravel-online-scope) | 0 | 2026-07-22 | Package that adds an online scope |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 26 | 2026-07-22 | Laravel package for Indonesia regions selection with postal ... |
-| [Thiritin/meteric](https://github.com/Thiritin/meteric) | 1 | 2026-07-22 | Advanced billing engine for Laravel: subscriptions, proratio... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-22 | An event sourcing laravel package, complete with all the ess... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-22 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-22 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-07-22 | Laravel-based API for storing sensor data from distributed n... |
-| [nb3n/filament-record-nav](https://github.com/nb3n/filament-record-nav) | 11 | 2026-07-22 | A Laravel package that adds elegant next/previous record nav... |
-| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-07-22 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
-| [charlieuki/receipt-printer-example](https://github.com/charlieuki/receipt-printer-example) | 24 | 2026-07-22 | Example usage of Laravel package to integrate ECS/POS Print ... |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-07-22 | A personal portfolio built as an interactive browser-based t... |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-07-22 | Open-source, self-hosted video processing & delivery engine ... |
+| [CodeTechAgency/laravel-vendus](https://github.com/CodeTechAgency/laravel-vendus) | 0 | 2026-07-22 | Laravel package for integrating Vendus (Cegid Vendus) invoic... |
+| [la-souris/package-document-signer-laravel](https://github.com/la-souris/package-document-signer-laravel) | 0 | 2026-07-22 | Laravel integration for the document signer SDK: config, ser... |
+| [labrodev/laravel-slack](https://github.com/labrodev/laravel-slack) | 0 | 2026-07-22 | Stateless Slack incoming-webhook client for Laravel with Blo... |
+| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-07-22 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
+| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-07-22 | Laravel Dusk Testing Helper for Package Development |
+| [usmansher/paybysquare-laravel](https://github.com/usmansher/paybysquare-laravel) | 0 | 2026-07-22 | READ-ONLY subtree split of packages/laravel from usmansher/p... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-22T12:52 | 13 | 1696 | 5393 |
 | 2026-07-22T07:16 | 3 | 1708 | 5380 |
 | 2026-07-22T00:54 | 5 | 1706 | 5377 |
 | 2026-07-21T18:49 | 6 | 1707 | 5372 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-20T19:01 | 10 | 1707 | 5349 |
 | 2026-07-20T13:04 | 5 | 1711 | 5340 |
 | 2026-07-20T07:27 | 2 | 1714 | 5335 |
-| 2026-07-20T00:58 | 3 | 1714 | 5333 |
 
 ---
 

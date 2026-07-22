@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5377  
-**Last updated:** 2026-07-22T00:54:40.476Z
+**Total packages tracked:** 5380  
+**Last updated:** 2026-07-22T07:16:11.510Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Thiritin/meteric](https://github.com/Thiritin/meteric) | 1 | Advanced billing engine for Laravel: subscriptions, proration, usage metering, a... |
+| [charlieuki/receipt-printer-example](https://github.com/charlieuki/receipt-printer-example) | 24 | Example usage of Laravel package to integrate ECS/POS Print Driver for PHP |
+| [andriichuk/laravel-db-query-sniffer](https://github.com/andriichuk/laravel-db-query-sniffer) | 0 | Laravel package to log SQL queries and Redis commands with raw SQL, binary-safe ... |
 | [hendurhance/laravel-spam-email](https://github.com/hendurhance/laravel-spam-email) | 43 | 🥳🔐 Protect your users from using spam emails on signup/form/apis in your Larav... |
 | [hendurhance/laracaptcha](https://github.com/hendurhance/laracaptcha) | 14 | A Laravel package to seamlessly use hCapthca or reCaptcha v2 or v3 on your forms... |
 | [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattice auth UI package |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [njoguamos/laravel-zoho-oauth](https://github.com/njoguamos/laravel-zoho-oauth) | 7 | Laravel Zoho OAuth is a Laravel package designed to simplify the integration of ... |
 | [ArtisanXL/Blog](https://github.com/ArtisanXL/Blog) | 0 | Headless Laravel 13 blog package: Categories, Tags, Posts (Markdown) with SEO, A... |
 | [suleman09522/super-audit](https://github.com/suleman09522/super-audit) | 7 | A Laravel package for automatic database audit logging using MySQL triggers. |
-| [kodefarmers/nepaldata](https://github.com/kodefarmers/nepaldata) | 12 | A laravel package to fetch Nepal data (Provinces, Districts, Municipalities). |
-| [trust-medical/livewire-same-origin-embed](https://github.com/trust-medical/livewire-same-origin-embed) | 0 | Same-origin-only bridge for embedding Laravel Livewire 4 components into non-Lar... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | Laravel admin panel constructor — Resource-first CRUD, Vue 3 SPA, JSON-API trans... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -48,8 +48,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 441 | Open Source Laravel CRM Package |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 440 | Open Source Laravel CRM Package |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | A media picker plugin for Filament Panels. |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-07-22 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-22 | A practical work management information system built with La... |
-| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 298 | 2026-07-21 | Laravel error reporting tool |
-| [jvjvjv/CodeTalker](https://github.com/jvjvjv/CodeTalker) | 0 | 2026-07-21 | Multi-provider AI communications package for Laravel |
-| [cosmicspork/laravel-rag-chat](https://github.com/cosmicspork/laravel-rag-chat) | 0 | 2026-07-21 | Laravel 12 RAG chat widget with SAML SSO and a provider-agno... |
-| [CreativeCrafts/laravel-ai-agent-kit](https://github.com/CreativeCrafts/laravel-ai-agent-kit) | 1 | 2026-07-21 | Laravel AI Agent Kit is a Laravel package that delivers a fu... |
-| [kpconnell/laravel-jobwarden](https://github.com/kpconnell/laravel-jobwarden) | 0 | 2026-07-21 | A database-backed alternative to Horizon & Laravel Queues — ... |
-| [hendurhance/laravel-spam-email](https://github.com/hendurhance/laravel-spam-email) | 43 | 2026-07-21 | 🥳🔐 Protect your users from using spam emails on signup/for... |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 3 | 2026-07-21 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
-| [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter) | 134 | 2026-07-21 | A opponiated Laravel 12 Livewire Components Starter Kit, wit... |
-| [CodeTechAgency/laravel-vendus](https://github.com/CodeTechAgency/laravel-vendus) | 0 | 2026-07-21 | Laravel wrapper for the waap/vendus-api package. |
-| [hendurhance/laracaptcha](https://github.com/hendurhance/laracaptcha) | 14 | 2026-07-21 | A Laravel package to seamlessly use hCapthca or reCaptcha v2... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 2 | 2026-07-21 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [fvisic/ProjectStatusApp](https://github.com/fvisic/ProjectStatusApp) | 2 | 2026-07-21 | Self-hosted portfolio health dashboard — track project statu... |
-| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-07-21 | A comprehensive SEO management package for Laravel applicati... |
-| [convenia/Pigeon](https://github.com/convenia/Pigeon) | 33 | 2026-07-21 | Laravel package for dealing with AMQP messaging with easy sy... |
-| [ArtisanPack-UI/accessibility](https://github.com/ArtisanPack-UI/accessibility) | 0 | 2026-07-21 | Build inclusive and compliant web applications with essentia... |
-| [ArtisanPack-UI/livewire-ui-components](https://github.com/ArtisanPack-UI/livewire-ui-components) | 1 | 2026-07-21 | Stop reinventing the wheel and start building dynamic Livewi... |
-| [ArtisanPack-UI/security](https://github.com/ArtisanPack-UI/security) | 0 | 2026-07-21 | Core security utilities for Laravel — input sanitization, ou... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-21 | The flexible backbone for your next CMS. This powerful frame... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-22 | Package para Laravel y facturacion |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 163 | 2026-07-22 | Collect everything about sent mails in your Filament app. |
+| [ChristopheAI/blood-values-dashboard](https://github.com/ChristopheAI/blood-values-dashboard) | 0 | 2026-07-22 | Personal Laravel app: lab PDF → reviewed biomarkers, trends,... |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-22 | A Laravel package to track revisions of Eloquent models, all... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 157 | 2026-07-22 | Provides email verification on the go. |
+| [wotzebra/filament-translatable-strings](https://github.com/wotzebra/filament-translatable-strings) | 1 | 2026-07-22 | This package manages translatable strings for Laravel in Fil... |
+| [wotzebra/laravel-translatable-routes](https://github.com/wotzebra/laravel-translatable-routes) | 0 | 2026-07-22 | Package for Laravel to make routes translatable |
+| [wotzebra/laravel-online-scope](https://github.com/wotzebra/laravel-online-scope) | 0 | 2026-07-22 | Package that adds an online scope |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 26 | 2026-07-22 | Laravel package for Indonesia regions selection with postal ... |
+| [Thiritin/meteric](https://github.com/Thiritin/meteric) | 1 | 2026-07-22 | Advanced billing engine for Laravel: subscriptions, proratio... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-22 | An event sourcing laravel package, complete with all the ess... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-22 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-22 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-07-22 | Laravel-based API for storing sensor data from distributed n... |
+| [nb3n/filament-record-nav](https://github.com/nb3n/filament-record-nav) | 11 | 2026-07-22 | A Laravel package that adds elegant next/previous record nav... |
+| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-07-22 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [charlieuki/receipt-printer-example](https://github.com/charlieuki/receipt-printer-example) | 24 | 2026-07-22 | Example usage of Laravel package to integrate ECS/POS Print ... |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-07-22 | A personal portfolio built as an interactive browser-based t... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-07-22 | Open-source, self-hosted video processing & delivery engine ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-22T07:16 | 3 | 1708 | 5380 |
 | 2026-07-22T00:54 | 5 | 1706 | 5377 |
 | 2026-07-21T18:49 | 6 | 1707 | 5372 |
 | 2026-07-21T12:50 | 7 | 1706 | 5366 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-20T13:04 | 5 | 1711 | 5340 |
 | 2026-07-20T07:27 | 2 | 1714 | 5335 |
 | 2026-07-20T00:58 | 3 | 1714 | 5333 |
-| 2026-07-19T18:40 | 1 | 1716 | 5330 |
 
 ---
 

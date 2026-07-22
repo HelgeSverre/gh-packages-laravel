@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5372  
-**Last updated:** 2026-07-21T18:49:11.004Z
+**Total packages tracked:** 5377  
+**Last updated:** 2026-07-22T00:54:40.476Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [hendurhance/laravel-spam-email](https://github.com/hendurhance/laravel-spam-email) | 43 | 🥳🔐 Protect your users from using spam emails on signup/form/apis in your Larav... |
+| [hendurhance/laracaptcha](https://github.com/hendurhance/laracaptcha) | 14 | A Laravel package to seamlessly use hCapthca or reCaptcha v2 or v3 on your forms... |
+| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattice auth UI package |
+| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC provider (server) pac... |
+| [bambamboole/laravel-oidc-client](https://github.com/bambamboole/laravel-oidc-client) | 0 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC relying party (client... |
 | [v4code-labs/Warden-panel](https://github.com/v4code-labs/Warden-panel) | 0 | Self-hosted dedicated parent dashboard for the Warden Laravel APM package — stan... |
 | [parselynk/laravel-ai-attributes](https://github.com/parselynk/laravel-ai-attributes) | 0 | Add AI-powered computed attributes to any Eloquent model with a single trait. |
 | [zaber-dev/laravel-workflow](https://github.com/zaber-dev/laravel-workflow) | 0 | Application-level workflow orchestration for Laravel with validated state transi... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kodefarmers/nepaldata](https://github.com/kodefarmers/nepaldata) | 12 | A laravel package to fetch Nepal data (Provinces, Districts, Municipalities). |
 | [trust-medical/livewire-same-origin-embed](https://github.com/trust-medical/livewire-same-origin-embed) | 0 | Same-origin-only bridge for embedding Laravel Livewire 4 components into non-Lar... |
 | [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | Laravel admin panel constructor — Resource-first CRUD, Vue 3 SPA, JSON-API trans... |
-| [AdminUI/inertia-routes](https://github.com/AdminUI/inertia-routes) | 18 | A hybrid JS/PHP package adding Ziggy-routes functionality to your Laravel/Inerti... |
-| [jeffersongoncalves/laravel-cms-menu](https://github.com/jeffersongoncalves/laravel-cms-menu) | 1 | Laravel CMS menu domain package. Read-only split mirror of jeffersongoncalves/la... |
-| [jeffersongoncalves/laravel-cms-suite](https://github.com/jeffersongoncalves/laravel-cms-suite) | 1 | Laravel CMS suite (package jeffersongoncalves/laravel-cms) — aggregates all comp... |
-| [jeffersongoncalves/laravel-cms-media](https://github.com/jeffersongoncalves/laravel-cms-media) | 1 | Laravel CMS media domain package. Read-only split mirror of jeffersongoncalves/l... |
-| [jeffersongoncalves/laravel-cms-core](https://github.com/jeffersongoncalves/laravel-cms-core) | 1 | Laravel CMS core domain package. Read-only split mirror of jeffersongoncalves/la... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -43,7 +43,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
-| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 461 | Add kanban boards to your Filament pages |
+| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 462 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [pirumart/uganda-administrative-units](https://github.com/pirumart/uganda-administrative-units) | 4 | 2026-07-21 | Laravel Package for administrative units of Uganda (Regions,... |
-| [awcodes/filament-versions](https://github.com/awcodes/filament-versions) | 44 | 2026-07-21 | A mostly useless package to display framework versions on Fi... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-21 | The Moox Project - Packages for Filament and Laravel |
-| [parselynk/laravel-ai-attributes](https://github.com/parselynk/laravel-ai-attributes) | 0 | 2026-07-21 | Add AI-powered computed attributes to any Eloquent model wit... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-07-21 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 49 | 2026-07-21 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-21 | A Laravel package to handle AWS SNS notifications, providing... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-21 | A lightweight, convention-driven modular architecture packag... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-21 | A Laravel package that provides flexible and extensible reso... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-21 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [awcodes/shout](https://github.com/awcodes/shout) | 71 | 2026-07-21 | A simple inline contextual notice for Filament forms and inf... |
-| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-07-21 | Laravel package for Firebase Cloud Messaging notifications i... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-07-21 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 2 | 2026-07-21 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [jvjvjv/CodeTalker](https://github.com/jvjvjv/CodeTalker) | 0 | 2026-07-21 | Multi-provider AI communications package for Laravel |
+| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-07-22 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-22 | A practical work management information system built with La... |
 | [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 298 | 2026-07-21 | Laravel error reporting tool |
-| [dsbilling/dsbilling.no](https://github.com/dsbilling/dsbilling.no) | 5 | 2026-07-21 | Just my personal website, built with the TALL stack. |
-| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 211 | 2026-07-21 | Laravel SmartCache - Optimize Caching for Large Data |
-| [amdad121/custodian-laravel](https://github.com/amdad121/custodian-laravel) | 1 | 2026-07-21 | A powerful, flexible, and developer-friendly role and permis... |
-| [amdad121/route-resource-paths-laravel](https://github.com/amdad121/route-resource-paths-laravel) | 1 | 2026-07-21 | Route Resource Paths Laravel Package |
+| [jvjvjv/CodeTalker](https://github.com/jvjvjv/CodeTalker) | 0 | 2026-07-21 | Multi-provider AI communications package for Laravel |
+| [cosmicspork/laravel-rag-chat](https://github.com/cosmicspork/laravel-rag-chat) | 0 | 2026-07-21 | Laravel 12 RAG chat widget with SAML SSO and a provider-agno... |
+| [CreativeCrafts/laravel-ai-agent-kit](https://github.com/CreativeCrafts/laravel-ai-agent-kit) | 1 | 2026-07-21 | Laravel AI Agent Kit is a Laravel package that delivers a fu... |
+| [kpconnell/laravel-jobwarden](https://github.com/kpconnell/laravel-jobwarden) | 0 | 2026-07-21 | A database-backed alternative to Horizon & Laravel Queues — ... |
+| [hendurhance/laravel-spam-email](https://github.com/hendurhance/laravel-spam-email) | 43 | 2026-07-21 | 🥳🔐 Protect your users from using spam emails on signup/for... |
+| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 3 | 2026-07-21 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
+| [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter) | 134 | 2026-07-21 | A opponiated Laravel 12 Livewire Components Starter Kit, wit... |
+| [CodeTechAgency/laravel-vendus](https://github.com/CodeTechAgency/laravel-vendus) | 0 | 2026-07-21 | Laravel wrapper for the waap/vendus-api package. |
+| [hendurhance/laracaptcha](https://github.com/hendurhance/laracaptcha) | 14 | 2026-07-21 | A Laravel package to seamlessly use hCapthca or reCaptcha v2... |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 2 | 2026-07-21 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [fvisic/ProjectStatusApp](https://github.com/fvisic/ProjectStatusApp) | 2 | 2026-07-21 | Self-hosted portfolio health dashboard — track project statu... |
+| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-07-21 | A comprehensive SEO management package for Laravel applicati... |
+| [convenia/Pigeon](https://github.com/convenia/Pigeon) | 33 | 2026-07-21 | Laravel package for dealing with AMQP messaging with easy sy... |
+| [ArtisanPack-UI/accessibility](https://github.com/ArtisanPack-UI/accessibility) | 0 | 2026-07-21 | Build inclusive and compliant web applications with essentia... |
+| [ArtisanPack-UI/livewire-ui-components](https://github.com/ArtisanPack-UI/livewire-ui-components) | 1 | 2026-07-21 | Stop reinventing the wheel and start building dynamic Livewi... |
+| [ArtisanPack-UI/security](https://github.com/ArtisanPack-UI/security) | 0 | 2026-07-21 | Core security utilities for Laravel — input sanitization, ou... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-21 | The flexible backbone for your next CMS. This powerful frame... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-22T00:54 | 5 | 1706 | 5377 |
 | 2026-07-21T18:49 | 6 | 1707 | 5372 |
 | 2026-07-21T12:50 | 7 | 1706 | 5366 |
 | 2026-07-21T07:15 | 8 | 1706 | 5360 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-20T07:27 | 2 | 1714 | 5335 |
 | 2026-07-20T00:58 | 3 | 1714 | 5333 |
 | 2026-07-19T18:40 | 1 | 1716 | 5330 |
-| 2026-07-19T12:39 | 3 | 1716 | 5330 |
 
 ---
 

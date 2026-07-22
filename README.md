@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5393  
-**Last updated:** 2026-07-22T12:52:02.208Z
+**Total packages tracked:** 5400  
+**Last updated:** 2026-07-22T18:45:07.969Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mubarak-saeed/gpms-admin-panel](https://github.com/mubarak-saeed/gpms-admin-panel) | 0 | An integrated system for automating and organizing the graduation project manage... |
+| [PolyMath-XK/Krubot](https://github.com/PolyMath-XK/Krubot) | 2 | Develop Story for Telegram, Bale, Rubika Bots Once! |
+| [TheSETJ/laravel-notification-foundation](https://github.com/TheSETJ/laravel-notification-foundation) | 0 | A Laravel package providing a base notification class with a dynamic channel reg... |
+| [syedmahamudul/sslcommerz-laravel](https://github.com/syedmahamudul/sslcommerz-laravel) | 2 | Simple and flexible SSLCommerz payment gateway package for Laravel. |
+| [VanOns/filament-redirects](https://github.com/VanOns/filament-redirects) | 0 | A Filament package to manage redirects in your application. |
+| [SamuelNunesDev/laravel-ddd-toolkit](https://github.com/SamuelNunesDev/laravel-ddd-toolkit) | 0 | Laravel DDD Toolkit is a Composer package for building modular Laravel applicati... |
+| [zencoreitservices/laravel-editor-js](https://github.com/zencoreitservices/laravel-editor-js) | 6 | Package converts editorjs blocks into html |
 | [BBS-Lab/filament-password-rotation](https://github.com/BBS-Lab/filament-password-rotation) | 0 | Password rotation for Filament — forced-change page, reuse prevention & expiry w... |
 | [labrodev/laravel-slack](https://github.com/labrodev/laravel-slack) | 0 | Stateless Slack incoming-webhook client for Laravel with Block Kit message trans... |
 | [labrodev/laravel-team-paddle](https://github.com/labrodev/laravel-team-paddle) | 0 | Paddle billing adapter for labrodev/laravel-team - a Cashier-Paddle implementati... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [KarimEl-Kady/activity-logger](https://github.com/KarimEl-Kady/activity-logger) | 2 | A Laravel package for automatically logging authenticated users' actions (create... |
 | [la-souris/package-document-signer-laravel](https://github.com/la-souris/package-document-signer-laravel) | 0 | Laravel integration for the document signer SDK: config, service provider, manag... |
 | [zislogic/ebay-model-inventory](https://github.com/zislogic/ebay-model-inventory) | 0 | eBay inventory model package for Laravel (Eloquent models + migrations) |
-| [Thiritin/meteric](https://github.com/Thiritin/meteric) | 1 | Advanced billing engine for Laravel: subscriptions, proration, usage metering, a... |
-| [charlieuki/receipt-printer-example](https://github.com/charlieuki/receipt-printer-example) | 24 | Example usage of Laravel package to integrate ECS/POS Print Driver for PHP |
-| [andriichuk/laravel-db-query-sniffer](https://github.com/andriichuk/laravel-db-query-sniffer) | 0 | Laravel package to log SQL queries and Redis commands with raw SQL, binary-safe ... |
-| [hendurhance/laravel-spam-email](https://github.com/hendurhance/laravel-spam-email) | 43 | 🥳🔐 Protect your users from using spam emails on signup/form/apis in your Larav... |
-| [hendurhance/laracaptcha](https://github.com/hendurhance/laracaptcha) | 14 | A Laravel package to seamlessly use hCapthca or reCaptcha v2 or v3 on your forms... |
-| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattice auth UI package |
-| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC provider (server) pac... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 181 | 2026-07-22 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-07-22 | A Laravel package to store model attribute translations in a... |
-| [masmaleki/zoho-one](https://github.com/masmaleki/zoho-one) | 4 | 2026-07-22 | Laravel package for ZOHO all in one |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 163 | 2026-07-22 | Collect everything about sent mails in your Filament app. |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 249 | 2026-07-22 | Collect everything about sent mails in your Laravel app |
-| [fbollon/lara-visitors](https://github.com/fbollon/lara-visitors) | 0 | 2026-07-22 | Laravel package that provides a dashboard and statistics for... |
-| [BBS-Lab/filament-password-rotation](https://github.com/BBS-Lab/filament-password-rotation) | 0 | 2026-07-22 | Password rotation for Filament — forced-change page, reuse p... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-07-22 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-22 | The flexible backbone for your next CMS. This powerful frame... |
+| [axazara/bankai](https://github.com/axazara/bankai) | 6 | 2026-07-22 | A Laravel Envoy deployment package for streamlined and consi... |
+| [parselynk/laravel-ai-attributes](https://github.com/parselynk/laravel-ai-attributes) | 1 | 2026-07-22 | Add AI-powered computed attributes to any Eloquent model wit... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-22 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-22 | A lightweight, convention-driven modular architecture packag... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-22 | A Laravel package to handle AWS SNS notifications, providing... |
 | [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-22 | Source code for the new pokemon3d.net website |
-| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 298 | 2026-07-22 | Laravel error reporting tool |
-| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 17 | 2026-07-22 | Skeleton for Laravel packages |
-| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 1 | 2026-07-22 | One-command Laravel setup, deploy & CI tools |
+| [kokonut-ch/SwissBankCsvParser](https://github.com/kokonut-ch/SwissBankCsvParser) | 1 | 2026-07-22 | Laravel Package | Parse CSV account statements exported by S... |
+| [TheSETJ/laravel-notification-foundation](https://github.com/TheSETJ/laravel-notification-foundation) | 0 | 2026-07-22 | A Laravel package providing a base notification class with a... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-07-22 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-22 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-22 | A practical work management information system built with La... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [chrislorando/laravel-accurate-demo](https://github.com/chrislorando/laravel-accurate-demo) | 0 | 2026-07-22 | Aplikasi demo untuk mencoba package chrislorando/laravel-acc... |
+| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-22 | Package para Laravel y facturacion |
+| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-07-22 | Laravel package for AEAT Verifactu compliance with agnostic ... |
+| [vizor-vr/laravel-vizor](https://github.com/vizor-vr/laravel-vizor) | 0 | 2026-07-22 | A Laravel Package for the Vixor VR Player |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-22 | The NativePHP website |
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-22 | The Moox Project - Packages for Filament and Laravel |
-| [ChristopheAI/blood-values-dashboard](https://github.com/ChristopheAI/blood-values-dashboard) | 0 | 2026-07-22 | Personal Laravel app: lab PDF → reviewed biomarkers, trends,... |
-| [CodeTechAgency/laravel-vendus](https://github.com/CodeTechAgency/laravel-vendus) | 0 | 2026-07-22 | Laravel package for integrating Vendus (Cegid Vendus) invoic... |
-| [la-souris/package-document-signer-laravel](https://github.com/la-souris/package-document-signer-laravel) | 0 | 2026-07-22 | Laravel integration for the document signer SDK: config, ser... |
-| [labrodev/laravel-slack](https://github.com/labrodev/laravel-slack) | 0 | 2026-07-22 | Stateless Slack incoming-webhook client for Laravel with Blo... |
-| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-07-22 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-07-22 | Laravel Dusk Testing Helper for Package Development |
-| [usmansher/paybysquare-laravel](https://github.com/usmansher/paybysquare-laravel) | 0 | 2026-07-22 | READ-ONLY subtree split of packages/laravel from usmansher/p... |
+| [syedmahamudul/sslcommerz-laravel](https://github.com/syedmahamudul/sslcommerz-laravel) | 2 | 2026-07-22 | Simple and flexible SSLCommerz payment gateway package for L... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-22T18:45 | 7 | 1704 | 5400 |
 | 2026-07-22T12:52 | 13 | 1696 | 5393 |
 | 2026-07-22T07:16 | 3 | 1708 | 5380 |
 | 2026-07-22T00:54 | 5 | 1706 | 5377 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-21T00:55 | 3 | 1713 | 5352 |
 | 2026-07-20T19:01 | 10 | 1707 | 5349 |
 | 2026-07-20T13:04 | 5 | 1711 | 5340 |
-| 2026-07-20T07:27 | 2 | 1714 | 5335 |
 
 ---
 

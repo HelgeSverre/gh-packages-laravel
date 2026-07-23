@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 5404  
-**Last updated:** 2026-07-23T00:57:20.760Z
+**Last updated:** 2026-07-23T07:14:18.308Z
 
 ## 📦 Recently Discovered
 
@@ -48,7 +48,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 442 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 443 | Open Source Laravel CRM Package |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | A media picker plugin for Filament Panels. |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-23 | The NativePHP website |
-| [ringlesoft/jasmin-client](https://github.com/ringlesoft/jasmin-client) | 1 | 2026-07-23 | A laravel package for interacting with jasmin sms api |
-| [liberu-cms/cms-laravel](https://github.com/liberu-cms/cms-laravel) | 117 | 2026-07-23 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 181 | 2026-07-23 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 152 | 2026-07-23 | Accounting application written in Laravel 13 / PHP 8.5 using... |
+| [lati111/laravel_dataproviders](https://github.com/lati111/laravel_dataproviders) | 1 | 2026-07-23 | A composer package for laravel to create interactable and cu... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-07-23 | Laravel USPS Package to integrate USPS Address |
+| [zerp-pk/package-template](https://github.com/zerp-pk/package-template) | 0 | 2026-07-23 | Starter template for building a new Zerp module |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-23 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 98 | 2026-07-23 | A Filament package to manage adjacency lists (aka trees). |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-23 | Provides email verification on the go. |
+| [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) | 236 | 2026-07-23 | A Sidecar function to run Browsershot on Lambda. |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 26 | 2026-07-23 | Laravel package for Indonesia regions selection with postal ... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-23 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) | 148 | 2026-07-23 | Commentions is a drop-in package for Filament that allows yo... |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-23 | A Laravel package to track revisions of Eloquent models, all... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-23 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-23 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [ChristopheAI/blood-values-dashboard](https://github.com/ChristopheAI/blood-values-dashboard) | 0 | 2026-07-23 | Personal Laravel app: lab PDF → reviewed biomarkers, trends,... |
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 3 | 2026-07-23 | Laravel package untuk data wilayah administratif Indonesia (... |
 | [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-23 | A Laravel package to handle AWS SNS notifications, providing... |
-| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 19 | 2026-07-23 | Laritor is a Laravel-native observability platform that help... |
-| [mikeferry/laravel-docker-devkit](https://github.com/mikeferry/laravel-docker-devkit) | 0 | 2026-07-22 | A Docker-only local development environment for Laravel, dis... |
-| [SamuelNunesDev/laravel-ddd-toolkit](https://github.com/SamuelNunesDev/laravel-ddd-toolkit) | 0 | 2026-07-22 | Laravel DDD Toolkit is a Composer package for building modul... |
-| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-22 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-22 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [eightcedars/filament-inactivity-guard](https://github.com/eightcedars/filament-inactivity-guard) | 25 | 2026-07-22 | Gracefully auto-logout users from idle/inactive Filament ses... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-22 | The flexible backbone for your next CMS. This powerful frame... |
-| [vizor-vr/laravel-vizor](https://github.com/vizor-vr/laravel-vizor) | 0 | 2026-07-22 | A Laravel Package for the Vixor VR Player |
-| [samigitz/orivex](https://github.com/samigitz/orivex) | 0 | 2026-07-22 | Orivex is a Laravel-native content framework package for tea... |
-| [rawilk/filament-quill](https://github.com/rawilk/filament-quill) | 34 | 2026-07-22 | Quill rich text editor for Filament. |
-| [peter9x/laravel-provet-api](https://github.com/peter9x/laravel-provet-api) | 0 | 2026-07-22 | Laravel package for integrating with the Provet Cloud API. |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-22 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-22 | A lightweight, convention-driven modular architecture packag... |
-| [nthndnn/laravel-state-history](https://github.com/nthndnn/laravel-state-history) | 0 | 2026-07-22 | Laravel package for managing enum-based model states with en... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-07-23 | Open-source, self-hosted video processing & delivery engine ... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-23 | An event sourcing laravel package, complete with all the ess... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-23 | The NativePHP website |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-23T07:14 | 0 | 1709 | 5404 |
 | 2026-07-23T00:57 | 4 | 1705 | 5404 |
 | 2026-07-22T18:45 | 7 | 1704 | 5400 |
 | 2026-07-22T12:52 | 13 | 1696 | 5393 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-21T12:50 | 7 | 1706 | 5366 |
 | 2026-07-21T07:15 | 8 | 1706 | 5360 |
 | 2026-07-21T00:55 | 3 | 1713 | 5352 |
-| 2026-07-20T19:01 | 10 | 1707 | 5349 |
 
 ---
 

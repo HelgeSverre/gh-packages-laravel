@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5400  
-**Last updated:** 2026-07-22T18:45:07.969Z
+**Total packages tracked:** 5404  
+**Last updated:** 2026-07-23T00:57:20.760Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [samigitz/orivex](https://github.com/samigitz/orivex) | 0 | Orivex is a Laravel-native content framework package for teams that want structu... |
+| [peter9x/laravel-provet-api](https://github.com/peter9x/laravel-provet-api) | 0 | Laravel package for integrating with the Provet Cloud API. |
+| [peter9x/laravel-bc](https://github.com/peter9x/laravel-bc) | 2 | Laravel package for Microsoft Business Central API |
+| [ravanbabayev/ziraat-bank-php](https://github.com/ravanbabayev/ziraat-bank-php) | 0 | A modern framework-agnostic PHP 8.0+ wrapper and Laravel package for Ziraat Bank... |
 | [mubarak-saeed/gpms-admin-panel](https://github.com/mubarak-saeed/gpms-admin-panel) | 0 | An integrated system for automating and organizing the graduation project manage... |
 | [PolyMath-XK/Krubot](https://github.com/PolyMath-XK/Krubot) | 2 | Develop Story for Telegram, Bale, Rubika Bots Once! |
 | [TheSETJ/laravel-notification-foundation](https://github.com/TheSETJ/laravel-notification-foundation) | 0 | A Laravel package providing a base notification class with a dynamic channel reg... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [fbollon/lara-visitors](https://github.com/fbollon/lara-visitors) | 0 | Laravel package that provides a dashboard and statistics for visits recorded by ... |
 | [usmansher/paybysquare-laravel](https://github.com/usmansher/paybysquare-laravel) | 0 | READ-ONLY subtree split of packages/laravel from usmansher/paybysquare. Do not o... |
 | [stats4sd/laravel-backpack-section-title](https://github.com/stats4sd/laravel-backpack-section-title) | 3 | A tiny package to add a section-title field type to your Backpack project.  |
-| [labrodev/laravel-domain-keeper](https://github.com/labrodev/laravel-domain-keeper) | 0 | Domain registrar-expiry reader for Laravel — RDAP first with a port-43 WHOIS fal... |
-| [KarimEl-Kady/activity-logger](https://github.com/KarimEl-Kady/activity-logger) | 2 | A Laravel package for automatically logging authenticated users' actions (create... |
-| [la-souris/package-document-signer-laravel](https://github.com/la-souris/package-document-signer-laravel) | 0 | Laravel integration for the document signer SDK: config, service provider, manag... |
-| [zislogic/ebay-model-inventory](https://github.com/zislogic/ebay-model-inventory) | 0 | eBay inventory model package for Laravel (Eloquent models + migrations) |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -37,7 +37,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 500 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 488 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 486 | A full-featured Laravel package for aiding in Shopify App development |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 487 | A full-featured Laravel package for aiding in Shopify App development |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
@@ -48,7 +48,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 441 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 442 | Open Source Laravel CRM Package |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | A media picker plugin for Filament Panels. |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-23 | The NativePHP website |
+| [ringlesoft/jasmin-client](https://github.com/ringlesoft/jasmin-client) | 1 | 2026-07-23 | A laravel package for interacting with jasmin sms api |
+| [liberu-cms/cms-laravel](https://github.com/liberu-cms/cms-laravel) | 117 | 2026-07-23 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 181 | 2026-07-23 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-23 | A Laravel package to handle AWS SNS notifications, providing... |
+| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 19 | 2026-07-23 | Laritor is a Laravel-native observability platform that help... |
+| [mikeferry/laravel-docker-devkit](https://github.com/mikeferry/laravel-docker-devkit) | 0 | 2026-07-22 | A Docker-only local development environment for Laravel, dis... |
+| [SamuelNunesDev/laravel-ddd-toolkit](https://github.com/SamuelNunesDev/laravel-ddd-toolkit) | 0 | 2026-07-22 | Laravel DDD Toolkit is a Composer package for building modul... |
+| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-22 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-22 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [eightcedars/filament-inactivity-guard](https://github.com/eightcedars/filament-inactivity-guard) | 25 | 2026-07-22 | Gracefully auto-logout users from idle/inactive Filament ses... |
 | [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-22 | The flexible backbone for your next CMS. This powerful frame... |
-| [axazara/bankai](https://github.com/axazara/bankai) | 6 | 2026-07-22 | A Laravel Envoy deployment package for streamlined and consi... |
-| [parselynk/laravel-ai-attributes](https://github.com/parselynk/laravel-ai-attributes) | 1 | 2026-07-22 | Add AI-powered computed attributes to any Eloquent model wit... |
+| [vizor-vr/laravel-vizor](https://github.com/vizor-vr/laravel-vizor) | 0 | 2026-07-22 | A Laravel Package for the Vixor VR Player |
+| [samigitz/orivex](https://github.com/samigitz/orivex) | 0 | 2026-07-22 | Orivex is a Laravel-native content framework package for tea... |
+| [rawilk/filament-quill](https://github.com/rawilk/filament-quill) | 34 | 2026-07-22 | Quill rich text editor for Filament. |
+| [peter9x/laravel-provet-api](https://github.com/peter9x/laravel-provet-api) | 0 | 2026-07-22 | Laravel package for integrating with the Provet Cloud API. |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-22 | A Laravel package that provides flexible and extensible reso... |
 | [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-22 | A lightweight, convention-driven modular architecture packag... |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-22 | A Laravel package to handle AWS SNS notifications, providing... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-22 | Source code for the new pokemon3d.net website |
-| [kokonut-ch/SwissBankCsvParser](https://github.com/kokonut-ch/SwissBankCsvParser) | 1 | 2026-07-22 | Laravel Package | Parse CSV account statements exported by S... |
-| [TheSETJ/laravel-notification-foundation](https://github.com/TheSETJ/laravel-notification-foundation) | 0 | 2026-07-22 | A Laravel package providing a base notification class with a... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-07-22 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-22 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-22 | A practical work management information system built with La... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [chrislorando/laravel-accurate-demo](https://github.com/chrislorando/laravel-accurate-demo) | 0 | 2026-07-22 | Aplikasi demo untuk mencoba package chrislorando/laravel-acc... |
-| [AichaDigital/larabill](https://github.com/AichaDigital/larabill) | 1 | 2026-07-22 | Package para Laravel y facturacion |
-| [AichaDigital/lara-verifactu](https://github.com/AichaDigital/lara-verifactu) | 0 | 2026-07-22 | Laravel package for AEAT Verifactu compliance with agnostic ... |
-| [vizor-vr/laravel-vizor](https://github.com/vizor-vr/laravel-vizor) | 0 | 2026-07-22 | A Laravel Package for the Vixor VR Player |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-22 | The NativePHP website |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-22 | The Moox Project - Packages for Filament and Laravel |
-| [syedmahamudul/sslcommerz-laravel](https://github.com/syedmahamudul/sslcommerz-laravel) | 2 | 2026-07-22 | Simple and flexible SSLCommerz payment gateway package for L... |
+| [nthndnn/laravel-state-history](https://github.com/nthndnn/laravel-state-history) | 0 | 2026-07-22 | Laravel package for managing enum-based model states with en... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-23T00:57 | 4 | 1705 | 5404 |
 | 2026-07-22T18:45 | 7 | 1704 | 5400 |
 | 2026-07-22T12:52 | 13 | 1696 | 5393 |
 | 2026-07-22T07:16 | 3 | 1708 | 5380 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-21T07:15 | 8 | 1706 | 5360 |
 | 2026-07-21T00:55 | 3 | 1713 | 5352 |
 | 2026-07-20T19:01 | 10 | 1707 | 5349 |
-| 2026-07-20T13:04 | 5 | 1711 | 5340 |
 
 ---
 

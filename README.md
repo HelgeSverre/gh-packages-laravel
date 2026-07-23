@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5404  
-**Last updated:** 2026-07-23T07:14:18.308Z
+**Total packages tracked:** 5410  
+**Last updated:** 2026-07-23T12:52:48.932Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [DorelBesliu/muscle-arena](https://github.com/DorelBesliu/muscle-arena) | 0 | Site-ul salii de sport Muscle Arena din or. Sângerei |
+| [kirbi/ham-clinical-admin-ui](https://github.com/kirbi/ham-clinical-admin-ui) | 0 | Filament v5 admin panel for HIV clinical management — Laravel 11, PHP 8.4, Docke... |
+| [zahidhassanshaikot/settings](https://github.com/zahidhassanshaikot/settings) | 7 |  |
+| [Weble/laravel-ecommerce](https://github.com/Weble/laravel-ecommerce) | 13 | Opinionated ecommerce tools for laravel |
+| [cleaniquecoders/kickoff](https://github.com/cleaniquecoders/kickoff) | 13 | Allow configure new Laravel project with all required packages and setup. |
+| [fusic/Seaaaaarch](https://github.com/fusic/Seaaaaarch) | 13 | Laravel Search Package |
 | [samigitz/orivex](https://github.com/samigitz/orivex) | 0 | Orivex is a Laravel-native content framework package for teams that want structu... |
 | [peter9x/laravel-provet-api](https://github.com/peter9x/laravel-provet-api) | 0 | Laravel package for integrating with the Provet Cloud API. |
 | [peter9x/laravel-bc](https://github.com/peter9x/laravel-bc) | 2 | Laravel package for Microsoft Business Central API |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [BBS-Lab/filament-password-rotation](https://github.com/BBS-Lab/filament-password-rotation) | 0 | Password rotation for Filament — forced-change page, reuse prevention & expiry w... |
 | [labrodev/laravel-slack](https://github.com/labrodev/laravel-slack) | 0 | Stateless Slack incoming-webhook client for Laravel with Block Kit message trans... |
 | [labrodev/laravel-team-paddle](https://github.com/labrodev/laravel-team-paddle) | 0 | Paddle billing adapter for labrodev/laravel-team - a Cashier-Paddle implementati... |
-| [labrodev/laravel-team](https://github.com/labrodev/laravel-team) | 0 | Teams, memberships, invitations, roles and plan/billing mechanics for Laravel Sa... |
-| [labrodev/laravel-ssl-keeper](https://github.com/labrodev/laravel-ssl-keeper) | 0 | TLS certificate expiry reader for Laravel — fetches and parses the peer certific... |
-| [labrodev/laravel-domain-verifier](https://github.com/labrodev/laravel-domain-verifier) | 0 | DNS-over-HTTPS TXT/CNAME resolver for Laravel with token-based domain-ownership ... |
-| [fbollon/lara-visitors](https://github.com/fbollon/lara-visitors) | 0 | Laravel package that provides a dashboard and statistics for visits recorded by ... |
-| [usmansher/paybysquare-laravel](https://github.com/usmansher/paybysquare-laravel) | 0 | READ-ONLY subtree split of packages/laravel from usmansher/paybysquare. Do not o... |
-| [stats4sd/laravel-backpack-section-title](https://github.com/stats4sd/laravel-backpack-section-title) | 3 | A tiny package to add a section-title field type to your Backpack project.  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [liberu-accounting/accounting-laravel](https://github.com/liberu-accounting/accounting-laravel) | 152 | 2026-07-23 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [lati111/laravel_dataproviders](https://github.com/lati111/laravel_dataproviders) | 1 | 2026-07-23 | A composer package for laravel to create interactable and cu... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-07-23 | Laravel USPS Package to integrate USPS Address |
-| [zerp-pk/package-template](https://github.com/zerp-pk/package-template) | 0 | 2026-07-23 | Starter template for building a new Zerp module |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-23 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 98 | 2026-07-23 | A Filament package to manage adjacency lists (aka trees). |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-23 | Provides email verification on the go. |
-| [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) | 236 | 2026-07-23 | A Sidecar function to run Browsershot on Lambda. |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 26 | 2026-07-23 | Laravel package for Indonesia regions selection with postal ... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-23 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) | 148 | 2026-07-23 | Commentions is a drop-in package for Filament that allows yo... |
+| [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | 2026-07-23 | Fleet management for a small K-12 school district — Laravel ... |
+| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-07-23 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [liberu-cms/cms-laravel](https://github.com/liberu-cms/cms-laravel) | 117 | 2026-07-23 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-23 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [StuMason/laravel-coolify](https://github.com/StuMason/laravel-coolify) | 12 | 2026-07-23 | Laravel package for deploying to Coolify. Dashboard, CLI com... |
+| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-07-23 | The Laravel Quick Start package covers the basics of connect... |
+| [preprio/laravel-complete-starter](https://github.com/preprio/laravel-complete-starter) | 1 | 2026-07-23 | The Complete Laravel Starter package offers a sample project... |
 | [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-23 | A Laravel package to track revisions of Eloquent models, all... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-23 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-23 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [ChristopheAI/blood-values-dashboard](https://github.com/ChristopheAI/blood-values-dashboard) | 0 | 2026-07-23 | Personal Laravel app: lab PDF → reviewed biomarkers, trends,... |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 3 | 2026-07-23 | Laravel package untuk data wilayah administratif Indonesia (... |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-23 | A Laravel package to handle AWS SNS notifications, providing... |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-07-23 | Open-source, self-hosted video processing & delivery engine ... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-23 | An event sourcing laravel package, complete with all the ess... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-23 | The NativePHP website |
+| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-07-23 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-23 | Source code for the new pokemon3d.net website |
+| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-07-23 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
+| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-07-23 | Open core Laravel package for building a self-hosted Trustbi... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-23 | Main Webampp laravel package for GEOBOX 2.0 |
+| [DorelBesliu/muscle-arena](https://github.com/DorelBesliu/muscle-arena) | 0 | 2026-07-23 | Site-ul salii de sport Muscle Arena din or. Sângerei |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-07-23 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [gubakareem/lara-architect](https://github.com/gubakareem/lara-architect) | 0 | 2026-07-23 | 💡 Stop writing boilerplate code. LaraArchitect provides dyn... |
+| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-07-23 | An up-to-date SDK package for all your Teamleader API needs! |
+| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-07-23 | Laravel Core package that provides essential core functional... |
+| [laravel/roster](https://github.com/laravel/roster) | 160 | 2026-07-23 | Detect packages & approaches in use within a Laravel project |
+| [teksite/laravel-icon](https://github.com/teksite/laravel-icon) | 1 | 2026-07-23 | a tiny and small svg package icon for laravel |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-23T12:52 | 6 | 1705 | 5410 |
 | 2026-07-23T07:14 | 0 | 1709 | 5404 |
 | 2026-07-23T00:57 | 4 | 1705 | 5404 |
 | 2026-07-22T18:45 | 7 | 1704 | 5400 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-21T18:49 | 6 | 1707 | 5372 |
 | 2026-07-21T12:50 | 7 | 1706 | 5366 |
 | 2026-07-21T07:15 | 8 | 1706 | 5360 |
-| 2026-07-21T00:55 | 3 | 1713 | 5352 |
 
 ---
 

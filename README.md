@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5410  
-**Last updated:** 2026-07-23T12:52:48.932Z
+**Total packages tracked:** 5426  
+**Last updated:** 2026-07-23T18:47:23.182Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [nickdekruijk/leap-demo](https://github.com/nickdekruijk/leap-demo) | 1 | Demo app for nickdekruijk/leap + leap-template — live at leap.nickdekruijk.nl |
+| [Rudolph919/property-listings](https://github.com/Rudolph919/property-listings) | 0 | Early Laravel TALL stack project — property listings CRUD and UI patterns. |
+| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 117 | CMS application written in Laravel 13 /  PHP 8.5 using Filament 5 - WordPress or... |
+| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 109 | Real Estate / Estate Agent, solution for your Property Agency. Application writt... |
+| [liberusoftware/maintenance-laravel](https://github.com/liberusoftware/maintenance-laravel) | 58 | CMMS - Computerised maintenance management system application written in Laravel... |
+| [liberusoftware/automation-laravel](https://github.com/liberusoftware/automation-laravel) | 38 | Automatic provisioning system written in Laravel 12 / PHP 8.5 using Filament 5 |
+| [liberusoftware/accounting-laravel](https://github.com/liberusoftware/accounting-laravel) | 151 | Accounting application written in Laravel 13 / PHP 8.5 using Filament 5. QuickBo... |
+| [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 183 | Full genealogy and family tree building application using Laravel 13, PHP 8.5, F... |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 179 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filament 5 and Livewire 4... |
+| [pps-protocol/laravel-pps](https://github.com/pps-protocol/laravel-pps) | 1 | Laravel integration for PulseProof Sentinel Protocol (PPS): PPS authentication r... |
+| [BBS-Lab/laravel-password-rotation](https://github.com/BBS-Lab/laravel-password-rotation) | 0 | Force any Laravel authenticatable to rotate its password every N days — with reu... |
+| [lithium-dev/video-logs-backend](https://github.com/lithium-dev/video-logs-backend) | 0 | Read-only distribution repo for the lithium/video-logs Laravel package. Generate... |
+| [eather009/laravel-sprint-board](https://github.com/eather009/laravel-sprint-board) | 0 | Standalone Laravel Sprint Board API package — sprints, members, and linked issue... |
+| [Preverus/preverus-laravel](https://github.com/Preverus/preverus-laravel) | 0 | Official Laravel Server Package for Preverus |
+| [Nrngajurel/nepali-calendar](https://github.com/Nrngajurel/nepali-calendar) | 0 | Laravel package for Nepali (Bikram Sambat) calendar conversion, formatting, and ... |
+| [kokonut-ch/SwissCompanyRegistry](https://github.com/kokonut-ch/SwissCompanyRegistry) | 2 | Laravel Package | Search and validate Swiss companies through interchangeable of... |
 | [DorelBesliu/muscle-arena](https://github.com/DorelBesliu/muscle-arena) | 0 | Site-ul salii de sport Muscle Arena din or. Sângerei |
 | [kirbi/ham-clinical-admin-ui](https://github.com/kirbi/ham-clinical-admin-ui) | 0 | Filament v5 admin panel for HIV clinical management — Laravel 11, PHP 8.4, Docke... |
 | [zahidhassanshaikot/settings](https://github.com/zahidhassanshaikot/settings) | 7 |  |
 | [Weble/laravel-ecommerce](https://github.com/Weble/laravel-ecommerce) | 13 | Opinionated ecommerce tools for laravel |
-| [cleaniquecoders/kickoff](https://github.com/cleaniquecoders/kickoff) | 13 | Allow configure new Laravel project with all required packages and setup. |
-| [fusic/Seaaaaarch](https://github.com/fusic/Seaaaaarch) | 13 | Laravel Search Package |
-| [samigitz/orivex](https://github.com/samigitz/orivex) | 0 | Orivex is a Laravel-native content framework package for teams that want structu... |
-| [peter9x/laravel-provet-api](https://github.com/peter9x/laravel-provet-api) | 0 | Laravel package for integrating with the Provet Cloud API. |
-| [peter9x/laravel-bc](https://github.com/peter9x/laravel-bc) | 2 | Laravel package for Microsoft Business Central API |
-| [ravanbabayev/ziraat-bank-php](https://github.com/ravanbabayev/ziraat-bank-php) | 0 | A modern framework-agnostic PHP 8.0+ wrapper and Laravel package for Ziraat Bank... |
-| [mubarak-saeed/gpms-admin-panel](https://github.com/mubarak-saeed/gpms-admin-panel) | 0 | An integrated system for automating and organizing the graduation project manage... |
-| [PolyMath-XK/Krubot](https://github.com/PolyMath-XK/Krubot) | 2 | Develop Story for Telegram, Bale, Rubika Bots Once! |
-| [TheSETJ/laravel-notification-foundation](https://github.com/TheSETJ/laravel-notification-foundation) | 0 | A Laravel package providing a base notification class with a dynamic channel reg... |
-| [syedmahamudul/sslcommerz-laravel](https://github.com/syedmahamudul/sslcommerz-laravel) | 2 | Simple and flexible SSLCommerz payment gateway package for Laravel. |
-| [VanOns/filament-redirects](https://github.com/VanOns/filament-redirects) | 0 | A Filament package to manage redirects in your application. |
-| [SamuelNunesDev/laravel-ddd-toolkit](https://github.com/SamuelNunesDev/laravel-ddd-toolkit) | 0 | Laravel DDD Toolkit is a Composer package for building modular Laravel applicati... |
-| [zencoreitservices/laravel-editor-js](https://github.com/zencoreitservices/laravel-editor-js) | 6 | Package converts editorjs blocks into html |
-| [BBS-Lab/filament-password-rotation](https://github.com/BBS-Lab/filament-password-rotation) | 0 | Password rotation for Filament — forced-change page, reuse prevention & expiry w... |
-| [labrodev/laravel-slack](https://github.com/labrodev/laravel-slack) | 0 | Stateless Slack incoming-webhook client for Laravel with Block Kit message trans... |
-| [labrodev/laravel-team-paddle](https://github.com/labrodev/laravel-team-paddle) | 0 | Paddle billing adapter for labrodev/laravel-team - a Cashier-Paddle implementati... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [pps-protocol/laravel-pps](https://github.com/pps-protocol/laravel-pps) | 1 | 2026-07-23 | Laravel integration for PulseProof Sentinel Protocol (PPS): ... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-23 | The NativePHP website |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 181 | 2026-07-23 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-07-23 | Laravel Podman brings Podman Quadlet support to your Laravel... |
 | [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | 2026-07-23 | Fleet management for a small K-12 school district — Laravel ... |
-| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-07-23 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [liberu-cms/cms-laravel](https://github.com/liberu-cms/cms-laravel) | 117 | 2026-07-23 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-23 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [StuMason/laravel-coolify](https://github.com/StuMason/laravel-coolify) | 12 | 2026-07-23 | Laravel package for deploying to Coolify. Dashboard, CLI com... |
-| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-07-23 | The Laravel Quick Start package covers the basics of connect... |
-| [preprio/laravel-complete-starter](https://github.com/preprio/laravel-complete-starter) | 1 | 2026-07-23 | The Complete Laravel Starter package offers a sample project... |
-| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-23 | A Laravel package to track revisions of Eloquent models, all... |
-| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-07-23 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-23 | Source code for the new pokemon3d.net website |
+| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-07-23 | Monorepo for Finity Labs' Filament packages |
+| [lithium-dev/video-logs-backend](https://github.com/lithium-dev/video-logs-backend) | 0 | 2026-07-23 | Read-only distribution repo for the lithium/video-logs Larav... |
+| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-07-23 | Laravel package that logs third-party HTTP traffic (outgoing... |
+| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 95 | 2026-07-23 | Livewire components for AlpineFlow — build interactive flow ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-23 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-07-23 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [Trustbird/laravel-trustbird](https://github.com/Trustbird/laravel-trustbird) | 0 | 2026-07-23 | Open core Laravel package for building a self-hosted Trustbi... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-23 | Main Webampp laravel package for GEOBOX 2.0 |
-| [DorelBesliu/muscle-arena](https://github.com/DorelBesliu/muscle-arena) | 0 | 2026-07-23 | Site-ul salii de sport Muscle Arena din or. Sângerei |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-07-23 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-23 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [BBS-Lab/filament-password-rotation](https://github.com/BBS-Lab/filament-password-rotation) | 0 | 2026-07-23 | Password rotation for Filament — forced-change page, reuse p... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 52 | 2026-07-23 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [One-Learning-Community/laravel-model-explorer](https://github.com/One-Learning-Community/laravel-model-explorer) | 7 | 2026-07-23 | Model Explorer for Laravel — a zero-config browser UI and MC... |
+| [jordanpartridge/github-client](https://github.com/jordanpartridge/github-client) | 3 | 2026-07-23 | A Github client that plays nice with Laravel |
+| [nickdekruijk/leap-demo](https://github.com/nickdekruijk/leap-demo) | 1 | 2026-07-23 | Demo app for nickdekruijk/leap + leap-template — live at lea... |
+| [eather009/laravel-sprint-board](https://github.com/eather009/laravel-sprint-board) | 0 | 2026-07-23 | Standalone Laravel Sprint Board API package — sprints, membe... |
 | [gubakareem/lara-architect](https://github.com/gubakareem/lara-architect) | 0 | 2026-07-23 | 💡 Stop writing boilerplate code. LaraArchitect provides dyn... |
-| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-07-23 | An up-to-date SDK package for all your Teamleader API needs! |
-| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-07-23 | Laravel Core package that provides essential core functional... |
-| [laravel/roster](https://github.com/laravel/roster) | 160 | 2026-07-23 | Detect packages & approaches in use within a Laravel project |
-| [teksite/laravel-icon](https://github.com/teksite/laravel-icon) | 1 | 2026-07-23 | a tiny and small svg package icon for laravel |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 9 | 2026-07-23 | A Laravel-based web application that tracks, analyzes, and p... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-23T18:47 | 16 | 1697 | 5426 |
 | 2026-07-23T12:52 | 6 | 1705 | 5410 |
 | 2026-07-23T07:14 | 0 | 1709 | 5404 |
 | 2026-07-23T00:57 | 4 | 1705 | 5404 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-22T00:54 | 5 | 1706 | 5377 |
 | 2026-07-21T18:49 | 6 | 1707 | 5372 |
 | 2026-07-21T12:50 | 7 | 1706 | 5366 |
-| 2026-07-21T07:15 | 8 | 1706 | 5360 |
 
 ---
 

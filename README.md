@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5432  
-**Last updated:** 2026-07-24T00:53:53.850Z
+**Total packages tracked:** 5435  
+**Last updated:** 2026-07-24T07:14:23.531Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [m2collective/laravel-view-directives](https://github.com/m2collective/laravel-view-directives) | 0 | This package simplifies and systematizes the creation and registration of user d... |
+| [ramonov/dynamics-nav-laravel](https://github.com/ramonov/dynamics-nav-laravel) | 0 | API package for microsoft dynamic nav |
+| [livetennisapi/livetennisapi-laravel](https://github.com/livetennisapi/livetennisapi-laravel) | 0 | Laravel package for the Live Tennis API — facade, config and a Blade scores comp... |
 | [MarceloPanho/orbit](https://github.com/MarceloPanho/orbit) | 0 | Sistema pessoal em Laravel 12 + Livewire 3, empacotado como aplicativo desktop c... |
 | [Chemaclass/laravel-feature-flags](https://github.com/Chemaclass/laravel-feature-flags) | 0 |  |
 | [arthur-bpv/ERD-laravel-package](https://github.com/arthur-bpv/ERD-laravel-package) | 0 |  |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 179 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filament 5 and Livewire 4... |
 | [pps-protocol/laravel-pps](https://github.com/pps-protocol/laravel-pps) | 1 | Laravel integration for PulseProof Sentinel Protocol (PPS): PPS authentication r... |
 | [BBS-Lab/laravel-password-rotation](https://github.com/BBS-Lab/laravel-password-rotation) | 0 | Force any Laravel authenticatable to rotate its password every N days — with reu... |
-| [lithium-dev/video-logs-backend](https://github.com/lithium-dev/video-logs-backend) | 0 | Read-only distribution repo for the lithium/video-logs Laravel package. Generate... |
-| [eather009/laravel-sprint-board](https://github.com/eather009/laravel-sprint-board) | 0 | Standalone Laravel Sprint Board API package — sprints, members, and linked issue... |
-| [Preverus/preverus-laravel](https://github.com/Preverus/preverus-laravel) | 0 | Official Laravel Server Package for Preverus |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [arthur-bpv/ERD-laravel-package](https://github.com/arthur-bpv/ERD-laravel-package) | 0 | 2026-07-24 |  |
-| [MarceloPanho/orbit](https://github.com/MarceloPanho/orbit) | 0 | 2026-07-24 | Sistema pessoal em Laravel 12 + Livewire 3, empacotado como ... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 182 | 2026-07-24 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-07-24 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [Rudolph919/property-listings](https://github.com/Rudolph919/property-listings) | 0 | 2026-07-24 | Early Laravel TALL stack project — property listings CRUD an... |
-| [AmirVahedix/laravel-deploy-ftp](https://github.com/AmirVahedix/laravel-deploy-ftp) | 0 | 2026-07-23 | a package to track last deploy using a commit tag and upload... |
-| [jooservices/laravel-repository](https://github.com/jooservices/laravel-repository) | 0 | 2026-07-23 | PHP 8.5+ Laravel repository package for trait-based CRUD, fi... |
-| [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 4 | 2026-07-23 | Filament v5 plugin exposing Livewire Flux Pro components — D... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-23 | The Moox Project - Packages for Filament and Laravel |
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 37 | 2026-07-23 |  |
-| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 95 | 2026-07-23 | Livewire components for AlpineFlow — build interactive flow ... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-23 | The NativePHP website |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-07-23 | Magic Framework Laravel backend starter package. |
-| [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | 2026-07-23 | Fleet management for a small K-12 school district — Laravel ... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-23 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [gigerIT/laravel-mysql-optimize](https://github.com/gigerIT/laravel-mysql-optimize) | 3 | 2026-07-23 | A Laravel package for optimizing MySQL/MariaDB database tabl... |
-| [UniFileManager/filament-file-manager](https://github.com/UniFileManager/filament-file-manager) | 1 | 2026-07-23 | File management for Laravel Filament. https://packagist.org/... |
-| [Chemaclass/laravel-feature-flags](https://github.com/Chemaclass/laravel-feature-flags) | 0 | 2026-07-23 |  |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-07-23 | Automated code analysis for Laravel applications with 73 com... |
-| [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | 2026-07-23 | Structured REST API responses for Laravel with exception han... |
+| [Chemaclass/laravel-feature-flags](https://github.com/Chemaclass/laravel-feature-flags) | 0 | 2026-07-24 |  |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-07-24 | Laravel USPS Package to integrate USPS Address |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-07-24 | A Laravel package that provides a Cookies consent floating w... |
+| [m2collective/laravel-view-directives](https://github.com/m2collective/laravel-view-directives) | 0 | 2026-07-24 | This package simplifies and systematizes the creation and re... |
+| [sopheaksem9999/sp-jwt-auth](https://github.com/sopheaksem9999/sp-jwt-auth) | 1 | 2026-07-24 | SP JWT Auth Package JWT Authentication Package for Laravel |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-24 | A practical work management information system built with La... |
+| [Owen-oj/laravel-getid3](https://github.com/Owen-oj/laravel-getid3) | 85 | 2026-07-24 | A Laravel package to extract metadata from media files. mp3,... |
+| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 3 | 2026-07-24 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
+| [jay123anta/laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | 25 | 2026-07-24 | Passive threat detection middleware for Laravel. Logs SQL in... |
+| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 17 | 2026-07-24 | Zero-config interactive API docs for Laravel — auto-inferred... |
+| [cosmicspork/laravel-rag-chat](https://github.com/cosmicspork/laravel-rag-chat) | 0 | 2026-07-24 | Laravel 12 RAG chat widget with SAML SSO and a provider-agno... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-24 | Provides email verification on the go. |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-24 | The Moox Project - Packages for Filament and Laravel |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-07-24 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-07-24 | A structured logging package for Laravel that writes logs in... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-07-24 | Laravel package providing OTP (One-Time Password) management... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-07-24 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-07-24 | Laravel package providing polymorphic reactions (like, love,... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-07-24 | Laravel TOTP package for two-factor authentication with poly... |
+| [dockcodes/assistforwcag-laravel](https://github.com/dockcodes/assistforwcag-laravel) | 0 | 2026-07-24 | Laravel package to easily embed the Assist for WCAG accessib... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-24T07:14 | 3 | 1712 | 5435 |
 | 2026-07-24T00:53 | 6 | 1708 | 5432 |
 | 2026-07-23T18:47 | 16 | 1697 | 5426 |
 | 2026-07-23T12:52 | 6 | 1705 | 5410 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-22T12:52 | 13 | 1696 | 5393 |
 | 2026-07-22T07:16 | 3 | 1708 | 5380 |
 | 2026-07-22T00:54 | 5 | 1706 | 5377 |
-| 2026-07-21T18:49 | 6 | 1707 | 5372 |
 
 ---
 

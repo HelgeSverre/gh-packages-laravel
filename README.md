@@ -2,17 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5440  
-**Last updated:** 2026-07-24T12:51:21.383Z
+**Total packages tracked:** 5441  
+**Last updated:** 2026-07-24T18:52:02.879Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [milirezai/milirulepilot](https://github.com/milirezai/milirulepilot) | 1 | A flexible business decision engine for laravel with fluent Api. |
 | [sararzbn/queryspy](https://github.com/sararzbn/queryspy) | 0 | Laravel profiler for slow queries with smart suggestions |
 | [rocklee27/news-media-fullstack](https://github.com/rocklee27/news-media-fullstack) | 1 | This is a news portal website that I developed with Laravel 13 and uses Filament |
 | [norday-agency/api-gateway-drupal](https://github.com/norday-agency/api-gateway-drupal) | 0 | Drupal connection package for use with stadspas-api-gateway or as stand-alone wi... |
-| [GeniusAuth/laravel-sdk](https://github.com/GeniusAuth/laravel-sdk) | 0 | Official Laravel package for GeniusAuth™ Authentication & Single Sign-On. |
+| [GeniusAuth/laravel-sdk](https://github.com/GeniusAuth/laravel-sdk) | 1 | Official Laravel package for GeniusAuth™ Authentication & Single Sign-On. |
 | [Touseef-khattak/laravel-llm](https://github.com/Touseef-khattak/laravel-llm) | 0 | A Composer package giving Laravel one interface over Claude and OpenAI. |
 | [m2collective/laravel-view-directives](https://github.com/m2collective/laravel-view-directives) | 0 | This package simplifies and systematizes the creation and registration of user d... |
 | [ramonov/dynamics-nav-laravel](https://github.com/ramonov/dynamics-nav-laravel) | 0 | API package for microsoft dynamic nav |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 117 | CMS application written in Laravel 13 /  PHP 8.5 using Filament 5 - WordPress or... |
 | [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 109 | Real Estate / Estate Agent, solution for your Property Agency. Application writt... |
 | [liberusoftware/maintenance-laravel](https://github.com/liberusoftware/maintenance-laravel) | 59 | CMMS - Computerised maintenance management system application written in Laravel... |
-| [liberusoftware/automation-laravel](https://github.com/liberusoftware/automation-laravel) | 38 | Automatic provisioning system written in Laravel 12 / PHP 8.5 using Filament 5 |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -47,8 +47,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 446 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 444 | Open Source Laravel CRM Package |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | A media picker plugin for Filament Panels. |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [fomvasss/laravel-meta-tags](https://github.com/fomvasss/laravel-meta-tags) | 31 | 2026-07-24 | A package to manage SEO Meta Tags |
-| [padosoft/laravel-ai-search-providers](https://github.com/padosoft/laravel-ai-search-providers) | 1 | 2026-07-24 | A plug-and-play Laravel package that exposes a single contra... |
-| [GeniusAuth/laravel-sdk](https://github.com/GeniusAuth/laravel-sdk) | 0 | 2026-07-24 | Official Laravel package for GeniusAuth™ Authentication & Si... |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-24 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 334 | 2026-07-24 | The NativePHP website |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 5 | 2026-07-24 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [X-WMS/xwms-docs](https://github.com/X-WMS/xwms-docs) | 0 | 2026-07-24 | XWMS Package offers robust and complex login APIs designed f... |
+| [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | 2026-07-24 | Fleet management for a small K-12 school district — Laravel ... |
+| [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 183 | 2026-07-24 | Full genealogy and family tree building application using La... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-24 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-24 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 182 | 2026-07-24 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-07-24 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-24 | Prevent risky Laravel database migrations with static analys... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-24 | Integrate Mixpanel analytics into Filament projects to track... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-24 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-24 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-24 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-24 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-24 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-24 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-24 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-24 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-07-24 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-24 | Main Webampp laravel package for GEOBOX 2.0 |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-07-24 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-24 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [WendellAdriel/slidewire](https://github.com/WendellAdriel/slidewire) | 137 | 2026-07-24 | Create beautiful presentations powered by Livewire |
-| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 152 | 2026-07-24 | HTTP Idempotency Middleware for Laravel applications |
-| [WendellAdriel/laravel-expressive](https://github.com/WendellAdriel/laravel-expressive) | 69 | 2026-07-24 | Typed Objects for Eloquent |
-| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 298 | 2026-07-24 | Laravel error reporting tool |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-24 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-24 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-24 | The Moox Project - Packages for Filament and Laravel |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-24 | Extensible Laravel CMS built on Filament, with multi-site an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-24T18:52 | 1 | 1718 | 5441 |
 | 2026-07-24T12:51 | 5 | 1715 | 5440 |
 | 2026-07-24T07:14 | 3 | 1712 | 5435 |
 | 2026-07-24T00:53 | 6 | 1708 | 5432 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-23T00:57 | 4 | 1705 | 5404 |
 | 2026-07-22T18:45 | 7 | 1704 | 5400 |
 | 2026-07-22T12:52 | 13 | 1696 | 5393 |
-| 2026-07-22T07:16 | 3 | 1708 | 5380 |
 
 ---
 

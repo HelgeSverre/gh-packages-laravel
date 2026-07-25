@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5444  
-**Last updated:** 2026-07-25T00:56:52.741Z
+**Total packages tracked:** 5445  
+**Last updated:** 2026-07-25T07:06:13.652Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [corepine/modal](https://github.com/corepine/modal) | 1 | Corepine Modal is a stack-based modal system for Livewire & Blade. |
 | [siqale/laravel-pdf-indexer](https://github.com/siqale/laravel-pdf-indexer) | 0 | Laravel PDF Indexer is a high-performance server-side PDF text extraction, full-... |
 | [usamamuneerchaudhary/laraclient](https://github.com/usamamuneerchaudhary/laraclient) | 35 | Package that simplifies the process of working with multiple APIs in Laravel |
 | [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | A collection of Dockerfile examples for various programming languages, framework... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [UniFileManager/filament-file-manager](https://github.com/UniFileManager/filament-file-manager) | 1 | File management for Laravel Filament. https://packagist.org/packages/unifilemana... |
 | [infinitypaul/laravel-database-filter](https://github.com/infinitypaul/laravel-database-filter) | 26 | Need to filter database results with a query string? Here's a beautiful, easy to... |
 | [nickdekruijk/leap-demo](https://github.com/nickdekruijk/leap-demo) | 1 | Demo app for nickdekruijk/leap + leap-template — live at leap.nickdekruijk.nl |
-| [Rudolph919/property-listings](https://github.com/Rudolph919/property-listings) | 0 | Early Laravel TALL stack project — property listings CRUD and UI patterns. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 182 | 2026-07-25 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-25 | An event sourcing laravel package, complete with all the ess... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-07-25 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [kodefarmers/laravel-cadence](https://github.com/kodefarmers/laravel-cadence) | 7 | 2026-07-25 | Progressive, strategy-based backoff for Laravel. |
+| [dbflow-labs/dbflow-filament](https://github.com/dbflow-labs/dbflow-filament) | 1 | 2026-07-25 | Standard Filament integration for DBFlow Core — workflow tas... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-07-25 | Laravel USPS Package to integrate USPS Address |
+| [teksite/laravel-icon](https://github.com/teksite/laravel-icon) | 1 | 2026-07-25 | a tiny and small svg package icon for laravel |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-25 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [MarceloPanho/orbit](https://github.com/MarceloPanho/orbit) | 0 | 2026-07-25 | Sistema pessoal em Laravel 12 + Livewire 3, empacotado como ... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-25 | Provides email verification on the go. |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-25 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 117 | 2026-07-25 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [statikbe/laravel-cookie-consent](https://github.com/statikbe/laravel-cookie-consent) | 219 | 2026-07-25 | The package includes a script & styling for a cookie banner ... |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 26 | 2026-07-25 | Laravel package for Indonesia regions selection with postal ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-25 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-25 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-25 | Integrate Mixpanel analytics into Filament projects to track... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-25 | Manage and track inventory with a PHP package that integrate... |
-| [rr-mdalauddin-alamin/laravel-currency-converter](https://github.com/rr-mdalauddin-alamin/laravel-currency-converter) | 0 | 2026-07-25 | A Laravel Package which convert currency value according to ... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-25 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-25 | A Laravel package to handle AWS SNS notifications, providing... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-25 | A lightweight, convention-driven modular architecture packag... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-25 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-25 | A Laravel package to handle AWS SNS notifications, providing... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-25 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-25 | A lightweight, convention-driven modular architecture packag... |
+| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 242 | 2026-07-25 | form builder for your users, with so many use cases |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-25 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [steveneppler/teslog-web](https://github.com/steveneppler/teslog-web) | 2 | 2026-07-25 | Self-hosted Tesla vehicle data logging and analytics platfor... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-25 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 3 | 2026-07-25 | ext-sqlite3 FTS5 full-text search for Laravel with PHP-intl.... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-25T07:06 | 1 | 1719 | 5445 |
 | 2026-07-25T00:56 | 3 | 1717 | 5444 |
 | 2026-07-24T18:52 | 1 | 1718 | 5441 |
 | 2026-07-24T12:51 | 5 | 1715 | 5440 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-23T12:52 | 6 | 1705 | 5410 |
 | 2026-07-23T07:14 | 0 | 1709 | 5404 |
 | 2026-07-23T00:57 | 4 | 1705 | 5404 |
-| 2026-07-22T18:45 | 7 | 1704 | 5400 |
 
 ---
 

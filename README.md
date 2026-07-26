@@ -2,20 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5449  
-**Last updated:** 2026-07-25T18:40:33.131Z
+**Total packages tracked:** 5451  
+**Last updated:** 2026-07-26T01:00:56.537Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [seyedsinanabavi/crm-backend](https://github.com/seyedsinanabavi/crm-backend) | 0 | نه فقط بک اند رو توضیح بد ه 🚀 بک‌اند CRM با لاراول ۱۳ معماری: API-First با کنتر... |
+| [mohamadreza-rezaei/corekit-laravel](https://github.com/mohamadreza-rezaei/corekit-laravel) | 2 | laravel starter kit with React.js and Filament admin panel with required package... |
 | [ekstremedia/laravel-yr](https://github.com/ekstremedia/laravel-yr) | 0 | A Yr.no package for Laravel |
 | [theriddleofenigma/laravel-rache](https://github.com/theriddleofenigma/laravel-rache) | 23 | A super cool package for caching the laravel response dynamically. |
 | [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | Shared typed content-block primitives for Capell packages. |
 | [crenspire/laravel-whatsapp](https://github.com/crenspire/laravel-whatsapp) | 23 | A comprehensive Laravel package for integrating with the WhatsApp Business Cloud... |
 | [corepine/modal](https://github.com/corepine/modal) | 1 | Corepine Modal is a stack-based modal system for Livewire & Blade. |
 | [siqale/laravel-pdf-indexer](https://github.com/siqale/laravel-pdf-indexer) | 0 | Laravel PDF Indexer is a high-performance server-side PDF text extraction, full-... |
-| [usamamuneerchaudhary/laraclient](https://github.com/usamamuneerchaudhary/laraclient) | 35 | Package that simplifies the process of working with multiple APIs in Laravel |
+| [usamamuneerchaudhary/laraclient](https://github.com/usamamuneerchaudhary/laraclient) | 40 | Package that simplifies the process of working with multiple APIs in Laravel |
 | [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | A collection of Dockerfile examples for various programming languages, framework... |
 | [milirezai/milirulepilot](https://github.com/milirezai/milirulepilot) | 1 | A flexible business decision engine for laravel with fluent Api. |
 | [sararzbn/queryspy](https://github.com/sararzbn/queryspy) | 0 | Laravel profiler for slow queries with smart suggestions |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ramonov/dynamics-nav-laravel](https://github.com/ramonov/dynamics-nav-laravel) | 0 | API package for microsoft dynamic nav |
 | [livetennisapi/livetennisapi-laravel](https://github.com/livetennisapi/livetennisapi-laravel) | 0 | Laravel package for the Live Tennis API — facade, config and a Blade scores comp... |
 | [MarceloPanho/orbit](https://github.com/MarceloPanho/orbit) | 0 | Sistema pessoal em Laravel 12 + Livewire 3, empacotado como aplicativo desktop c... |
-| [Chemaclass/laravel-feature-flags](https://github.com/Chemaclass/laravel-feature-flags) | 0 |  |
-| [arthur-bpv/ERD-laravel-package](https://github.com/arthur-bpv/ERD-laravel-package) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [aVadim483/fast-excel-laravel](https://github.com/aVadim483/fast-excel-laravel) | 41 | 2026-07-25 | Lightweight and very fast XLSX Excel Spreadsheet Export/Impo... |
-| [korozcolt/payments](https://github.com/korozcolt/payments) | 2 | 2026-07-25 | A unified payment gateway package for Laravel supporting Wom... |
-| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-07-25 | Laravel Podman brings Podman Quadlet support to your Laravel... |
-| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-07-25 | A structured logging package for Laravel that writes logs in... |
-| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-07-25 | Laravel package for Firebase Cloud Messaging notifications i... |
-| [jmrashed/zkteco](https://github.com/jmrashed/zkteco) | 60 | 2026-07-25 | ZKTeco Package For Laravel. This package provides seamless i... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-25 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 1 | 2026-07-25 | One-command Laravel setup, deploy & CI tools |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-25 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [MrFibunacci/laravel-form-components](https://github.com/MrFibunacci/laravel-form-components) | 19 | 2026-07-25 | Ready-to-use and customizable form components. |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 2 | 2026-07-26 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [pikbdesigns/laravel-full-translation](https://github.com/pikbdesigns/laravel-full-translation) | 0 | 2026-07-26 | Laravel Full Translation — a Laravel 13 package for URL-base... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-07-26 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [Garalulu/tourney-method](https://github.com/Garalulu/tourney-method) | 0 | 2026-07-26 | Open-source osu! tournament discovery, history, and communit... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 9 | 2026-07-26 | A Laravel-based web application that tracks, analyzes, and p... |
+| [xchimx/Laravel-Filament-CRM-CMS](https://github.com/xchimx/Laravel-Filament-CRM-CMS) | 3 | 2026-07-26 | This is a customer relationship management / content managem... |
+| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 117 | 2026-07-26 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-07-26 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-07-26 | A Laravel package to store model attribute translations in a... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-25 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-07-25 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-07-25 | A collection of Dockerfile examples for various programming ... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-07-25 | Prevent risky Laravel database migrations with static analys... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-25 | Integrate Mixpanel analytics into Filament projects to track... |
+| [kainiklas/filament-scout](https://github.com/kainiklas/filament-scout) | 37 | 2026-07-25 | Filament Plugin to integrate Laravel Scout into Global Searc... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-25 | Manage and track inventory with a PHP package that integrate... |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 68 | 2026-07-25 |  |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-25 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-07-25 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-25 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-07-25 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-07-25 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-26T01:00 | 2 | 1718 | 5451 |
 | 2026-07-25T18:40 | 1 | 1719 | 5449 |
 | 2026-07-25T12:43 | 3 | 1718 | 5448 |
 | 2026-07-25T07:06 | 1 | 1719 | 5445 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-24T07:14 | 3 | 1712 | 5435 |
 | 2026-07-24T00:53 | 6 | 1708 | 5432 |
 | 2026-07-23T18:47 | 16 | 1697 | 5426 |
-| 2026-07-23T12:52 | 6 | 1705 | 5410 |
 
 ---
 

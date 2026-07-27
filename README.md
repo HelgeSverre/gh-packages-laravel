@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5465  
-**Last updated:** 2026-07-27T13:23:22.200Z
+**Total packages tracked:** 5474  
+**Last updated:** 2026-07-27T18:51:49.219Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [caalel/mesa](https://github.com/caalel/mesa) | 0 | A Laravel and Livewire application for calorie-based food equivalence. |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | Local-first personal finance dashboard that resolves cross-account routing chain... |
+| [zvizvi/filament-column-filters](https://github.com/zvizvi/filament-column-filters) | 4 | Bring familiar Excel-style filtering to your Filament tables. Add compact filter... |
+| [zvizvi/filament-user-fields](https://github.com/zvizvi/filament-user-fields) | 18 | Visually enhance your user selection fields by adding avatar support. This plugi... |
+| [m2collective/laravel-html-markup](https://github.com/m2collective/laravel-html-markup) | 0 | A package for basic HTML document markup. |
+| [m2collective/laravel-head-markup](https://github.com/m2collective/laravel-head-markup) | 0 | A package for editing basic website metadata. |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | Laravel package for HubSpot CRM: every object type, directional associations, in... |
+| [Alnoman141/laravel-idempotency](https://github.com/Alnoman141/laravel-idempotency) | 0 | laravel-idempotency-laravel-package |
+| [Taoshan98/laravel-api-watcher](https://github.com/Taoshan98/laravel-api-watcher) | 2 | A modern Laravel package to intercept, analyze, and visualize API requests. |
 | [MahdiMajidzadeh/laravel-unsplash](https://github.com/MahdiMajidzadeh/laravel-unsplash) | 11 | unsplash wrapper for laravel |
 | [Yamoon224/WAVE-DOC](https://github.com/Yamoon224/WAVE-DOC) | 0 | Package Laravel pour l'intégration de l'API Wave Business (Checkout, Payout, Bal... |
 | [wesimplycode/laravel-afas-rest-connector](https://github.com/wesimplycode/laravel-afas-rest-connector) | 9 | This package integrates the AFAS REST API with Laravel |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [EloquentWorks/Fellowship](https://github.com/EloquentWorks/Fellowship) | 1 | Laravel Fellowship provides elegant friendship and social connection tools for L... |
 | [ehsan1992-71/ai-seo-laravel](https://github.com/ehsan1992-71/ai-seo-laravel) | 1 | 🚀 Laravel package for AI-driven SEO optimization. Auto-generate meta tags, Open... |
 | [imeysam/laravel-picsize](https://github.com/imeysam/laravel-picsize) | 0 | This package helps developers to easily change images dimensions. |
-| [EloquentWorks/Persona](https://github.com/EloquentWorks/Persona) | 1 | Laravel Persona gives your users elegant public profiles with slugs, bios, avata... |
-| [ubayedtanvir/laravel-tenancy](https://github.com/ubayedtanvir/laravel-tenancy) | 0 | Single-database multi-tenancy for Laravel that fails closed—and just works. Team... |
-| [Particle-Academy/laravel-jobs](https://github.com/Particle-Academy/laravel-jobs) | 0 | Laravel package for job boards - employer job postings, public listings, and can... |
-| [seyedsinanabavi/crm-backend](https://github.com/seyedsinanabavi/crm-backend) | 0 | نه فقط بک اند رو توضیح بد ه 🚀 بک‌اند CRM با لاراول ۱۳ معماری: API-First با کنتر... |
-| [mohamadreza-rezaei/corekit-laravel](https://github.com/mohamadreza-rezaei/corekit-laravel) | 2 | laravel starter kit with React.js and Filament admin panel with required package... |
-| [ekstremedia/laravel-yr](https://github.com/ekstremedia/laravel-yr) | 0 | A Yr.no package for Laravel |
-| [theriddleofenigma/laravel-rache](https://github.com/theriddleofenigma/laravel-rache) | 23 | A super cool package for caching the laravel response dynamically. |
-| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | Shared typed content-block primitives for Capell packages. |
-| [crenspire/laravel-whatsapp](https://github.com/crenspire/laravel-whatsapp) | 23 | A comprehensive Laravel package for integrating with the WhatsApp Business Cloud... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 9 | 2026-07-27 | A Laravel-based web application that tracks, analyzes, and p... |
-| [foxws/laravel-shaka](https://github.com/foxws/laravel-shaka) | 2 | 2026-07-27 | A Laravel integration for Google's Shaka Packager, enabling ... |
-| [EloquentWorks/RatingKit](https://github.com/EloquentWorks/RatingKit) | 0 | 2026-07-27 | A flexible rating and ranking package for Laravel with Elo, ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-27 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-27 | Filament admin panel, editor workflows, settings, and extens... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-27 | An event sourcing laravel package, complete with all the ess... |
-| [KroderDev/laravel-microservice-core](https://github.com/KroderDev/laravel-microservice-core) | 5 | 2026-07-27 | A Laravel package that provides the infrastructure to build ... |
-| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-07-27 | A comprehensive toolkit providing foundational building bloc... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-07-27 | A package to create datatables using alpinejs, tailwind, liv... |
+| [m2collective/laravel-html-markup](https://github.com/m2collective/laravel-html-markup) | 0 | 2026-07-27 | A package for basic HTML document markup. |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-27 | Local-first personal finance dashboard that resolves cross-a... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-27 | The flexible backbone for your next CMS. This powerful frame... |
+| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | 2026-07-27 | Synchronized common files for open source Laravel packages |
+| [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | 2026-07-27 | Fleet management for a small K-12 school district — Laravel ... |
+| [m2collective/laravel-head-markup](https://github.com/m2collective/laravel-head-markup) | 0 | 2026-07-27 | A package for editing basic website metadata. |
+| [m2collective/laravel-defining-user-device](https://github.com/m2collective/laravel-defining-user-device) | 0 | 2026-07-27 | A package for detecting the user's device. |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-07-27 | Laravel package for HubSpot CRM: every object type, directio... |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-27 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-27 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-07-27 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-07-27 | A Laravel and Livewire application for calorie-based food eq... |
+| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-27 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
+| [draftsmaninc/draftsman](https://github.com/draftsmaninc/draftsman) | 1 | 2026-07-27 | The Draftsman Laravel Package |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-27 | A Laravel package to handle AWS SNS notifications, providing... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-27 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-27 | A lightweight, convention-driven modular architecture packag... |
+| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-07-27 | Laravel package skeleton ⚙️ |
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-27 | The Moox Project - Packages for Filament and Laravel |
-| [MahdiMajidzadeh/laravel-unsplash](https://github.com/MahdiMajidzadeh/laravel-unsplash) | 11 | 2026-07-27 | unsplash wrapper for laravel |
-| [PHP-CMSIG/seal-laravel-package](https://github.com/PHP-CMSIG/seal-laravel-package) | 4 | 2026-07-27 | An integration of CMS-IG SEAL search abstraction into Larave... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-27 | Main Webampp laravel package for GEOBOX 2.0 |
-| [masterix21/laravel-bookings](https://github.com/masterix21/laravel-bookings) | 5 | 2026-07-27 | A comprehensive Laravel package that adds powerful booking f... |
-| [devuni-cz/notifier-package](https://github.com/devuni-cz/notifier-package) | 2 | 2026-07-27 | A Laravel 12 package for automated database backups and noti... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-07-27 | Simple package for adding directives to show/hide content fr... |
-| [EG-Mohamed/OpenCharity](https://github.com/EG-Mohamed/OpenCharity) | 3 | 2026-07-27 | OpenCharity is an open-source charity management platform bu... |
-| [Yamoon224/WAVE-DOC](https://github.com/Yamoon224/WAVE-DOC) | 0 | 2026-07-27 | Package Laravel pour l'intégration de l'API Wave Business (C... |
-| [RobertBoes/blade-selfhst-icons](https://github.com/RobertBoes/blade-selfhst-icons) | 0 | 2026-07-27 | A package to easily make use of selfh.st Icons in your Larav... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-27 | Source code for the new pokemon3d.net website |
+| [MrPunyapal/laravel-extended-commands](https://github.com/MrPunyapal/laravel-extended-commands) | 81 | 2026-07-27 | This package has some commands which are not available in la... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-27T18:51 | 9 | 1714 | 5474 |
 | 2026-07-27T13:23 | 2 | 1719 | 5465 |
 | 2026-07-27T07:33 | 2 | 1718 | 5463 |
 | 2026-07-27T01:01 | 1 | 1721 | 5461 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-26T01:00 | 2 | 1718 | 5451 |
 | 2026-07-25T18:40 | 1 | 1719 | 5449 |
 | 2026-07-25T12:43 | 3 | 1718 | 5448 |
-| 2026-07-25T07:06 | 1 | 1719 | 5445 |
 
 ---
 

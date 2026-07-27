@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5461  
-**Last updated:** 2026-07-27T01:01:32.205Z
+**Total packages tracked:** 5463  
+**Last updated:** 2026-07-27T07:33:44.204Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [wesimplycode/laravel-afas-rest-connector](https://github.com/wesimplycode/laravel-afas-rest-connector) | 9 | This package integrates the AFAS REST API with Laravel |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | Reference Laravel + Inertia + Svelte host app for the rayzenai/project-managemen... |
 | [Bokshorn-IT/filament-activity-timeline](https://github.com/Bokshorn-IT/filament-activity-timeline) | 0 | Make spatie/laravel-activitylog readable in Filament: a record timeline, a filte... |
 | [admin9-labs/laravel-scramble-extensions](https://github.com/admin9-labs/laravel-scramble-extensions) | 0 | Reusable Scramble extension for Laravel APIs using the Mitoop response, form-req... |
 | [shukladeepak08/sdpayhub-laravel-payzy](https://github.com/shukladeepak08/sdpayhub-laravel-payzy) | 0 | A Laravel package for multi-gateway payments that actually behaves like one API ... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [crenspire/laravel-whatsapp](https://github.com/crenspire/laravel-whatsapp) | 23 | A comprehensive Laravel package for integrating with the WhatsApp Business Cloud... |
 | [corepine/modal](https://github.com/corepine/modal) | 1 | Corepine Modal is a stack-based modal system for Livewire & Blade. |
 | [siqale/laravel-pdf-indexer](https://github.com/siqale/laravel-pdf-indexer) | 0 | Laravel PDF Indexer is a high-performance server-side PDF text extraction, full-... |
-| [usamamuneerchaudhary/laraclient](https://github.com/usamamuneerchaudhary/laraclient) | 41 | Package that simplifies the process of working with multiple APIs in Laravel |
-| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | A collection of Dockerfile examples for various programming languages, framework... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-27 | Provides email verification on the go. |
+| [AsmitNepali/resized-column](https://github.com/AsmitNepali/resized-column) | 52 | 2026-07-27 | Filament table column resize plugin. |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-27 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-27 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 1 | 2026-07-27 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 37 | 2026-07-27 | Passwordless email magic-link & OTP authentication for Larav... |
-| [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | 2026-07-27 | Easy-to-integrate multi-tenant authentication package for La... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 2 | 2026-07-27 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | 2026-07-27 | Synchronized common files for open source Laravel packages |
-| [kpconnell/laravel-jobwarden](https://github.com/kpconnell/laravel-jobwarden) | 5 | 2026-07-27 | A database-backed alternative to Horizon & Laravel Queues — ... |
+| [wesimplycode/laravel-afas-rest-connector](https://github.com/wesimplycode/laravel-afas-rest-connector) | 9 | 2026-07-27 | This package integrates the AFAS REST API with Laravel |
+| [Bokshorn-IT/filament-activity-timeline](https://github.com/Bokshorn-IT/filament-activity-timeline) | 0 | 2026-07-27 | Make spatie/laravel-activitylog readable in Filament: a reco... |
+| [bnussbau/trmnl-blade](https://github.com/bnussbau/trmnl-blade) | 4 | 2026-07-27 | Blade Components on top of the TRMNL Design System |
+| [UniFileManager/filament-file-manager](https://github.com/UniFileManager/filament-file-manager) | 1 | 2026-07-27 | File management for Laravel Filament. https://packagist.org/... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-07-27 | A Laravel package that crawls websites to detect broken link... |
 | [moaines/illumi-search](https://github.com/moaines/illumi-search) | 4 | 2026-07-27 | Multi-engine full-text search for Laravel — SQLite FTS5, MyS... |
-| [lara-zeus/spatie-translatable](https://github.com/lara-zeus/spatie-translatable) | 34 | 2026-07-26 | Lara Zeus Translatable is Filament support for Spatie's Lara... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 12 | 2026-07-26 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 2 | 2026-07-26 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 5 | 2026-07-26 | Privacy-first Matomo analytics for Laravel with cookieless t... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-26 | Source code for the new pokemon3d.net website |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-07-26 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 2 | 2026-07-26 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-07-26 | Prevent risky Laravel database migrations with static analys... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-07-26 | Integrate Mixpanel analytics into Filament projects to track... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-07-26 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-07-26 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 2 | 2026-07-26 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-07-27 | A Laravel package that provides a Cookies consent floating w... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-07-27 | Laravel USPS Package to integrate USPS Address |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-27 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 2 | 2026-07-27 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 17 | 2026-07-27 | Zero-config interactive API docs for Laravel — auto-inferred... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 2 | 2026-07-27 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-27 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-27 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-27 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-07-27 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-27T07:33 | 2 | 1718 | 5463 |
 | 2026-07-27T01:01 | 1 | 1721 | 5461 |
 | 2026-07-26T18:41 | 3 | 1718 | 5460 |
 | 2026-07-26T12:43 | 3 | 1719 | 5457 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-25T12:43 | 3 | 1718 | 5448 |
 | 2026-07-25T07:06 | 1 | 1719 | 5445 |
 | 2026-07-25T00:56 | 3 | 1717 | 5444 |
-| 2026-07-24T18:52 | 1 | 1718 | 5441 |
 
 ---
 

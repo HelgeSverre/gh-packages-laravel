@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5463  
-**Last updated:** 2026-07-27T07:33:44.204Z
+**Total packages tracked:** 5465  
+**Last updated:** 2026-07-27T13:23:22.200Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [MahdiMajidzadeh/laravel-unsplash](https://github.com/MahdiMajidzadeh/laravel-unsplash) | 11 | unsplash wrapper for laravel |
+| [Yamoon224/WAVE-DOC](https://github.com/Yamoon224/WAVE-DOC) | 0 | Package Laravel pour l'intégration de l'API Wave Business (Checkout, Payout, Bal... |
 | [wesimplycode/laravel-afas-rest-connector](https://github.com/wesimplycode/laravel-afas-rest-connector) | 9 | This package integrates the AFAS REST API with Laravel |
 | [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | Reference Laravel + Inertia + Svelte host app for the rayzenai/project-managemen... |
 | [Bokshorn-IT/filament-activity-timeline](https://github.com/Bokshorn-IT/filament-activity-timeline) | 0 | Make spatie/laravel-activitylog readable in Filament: a record timeline, a filte... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [theriddleofenigma/laravel-rache](https://github.com/theriddleofenigma/laravel-rache) | 23 | A super cool package for caching the laravel response dynamically. |
 | [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | Shared typed content-block primitives for Capell packages. |
 | [crenspire/laravel-whatsapp](https://github.com/crenspire/laravel-whatsapp) | 23 | A comprehensive Laravel package for integrating with the WhatsApp Business Cloud... |
-| [corepine/modal](https://github.com/corepine/modal) | 1 | Corepine Modal is a stack-based modal system for Livewire & Blade. |
-| [siqale/laravel-pdf-indexer](https://github.com/siqale/laravel-pdf-indexer) | 0 | Laravel PDF Indexer is a high-performance server-side PDF text extraction, full-... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-27 | Provides email verification on the go. |
-| [AsmitNepali/resized-column](https://github.com/AsmitNepali/resized-column) | 52 | 2026-07-27 | Filament table column resize plugin. |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-27 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 9 | 2026-07-27 | A Laravel-based web application that tracks, analyzes, and p... |
+| [foxws/laravel-shaka](https://github.com/foxws/laravel-shaka) | 2 | 2026-07-27 | A Laravel integration for Google's Shaka Packager, enabling ... |
+| [EloquentWorks/RatingKit](https://github.com/EloquentWorks/RatingKit) | 0 | 2026-07-27 | A flexible rating and ranking package for Laravel with Elo, ... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-27 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [wesimplycode/laravel-afas-rest-connector](https://github.com/wesimplycode/laravel-afas-rest-connector) | 9 | 2026-07-27 | This package integrates the AFAS REST API with Laravel |
-| [Bokshorn-IT/filament-activity-timeline](https://github.com/Bokshorn-IT/filament-activity-timeline) | 0 | 2026-07-27 | Make spatie/laravel-activitylog readable in Filament: a reco... |
-| [bnussbau/trmnl-blade](https://github.com/bnussbau/trmnl-blade) | 4 | 2026-07-27 | Blade Components on top of the TRMNL Design System |
-| [UniFileManager/filament-file-manager](https://github.com/UniFileManager/filament-file-manager) | 1 | 2026-07-27 | File management for Laravel Filament. https://packagist.org/... |
-| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-07-27 | A Laravel package that crawls websites to detect broken link... |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 4 | 2026-07-27 | Multi-engine full-text search for Laravel — SQLite FTS5, MyS... |
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-07-27 | A Laravel package that provides a Cookies consent floating w... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-07-27 | Laravel USPS Package to integrate USPS Address |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-07-27 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 2 | 2026-07-27 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 17 | 2026-07-27 | Zero-config interactive API docs for Laravel — auto-inferred... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 2 | 2026-07-27 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-07-27 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-07-27 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-07-27 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-07-27 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
+| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-27 | Filament admin panel, editor workflows, settings, and extens... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-27 | An event sourcing laravel package, complete with all the ess... |
+| [KroderDev/laravel-microservice-core](https://github.com/KroderDev/laravel-microservice-core) | 5 | 2026-07-27 | A Laravel package that provides the infrastructure to build ... |
+| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-07-27 | A comprehensive toolkit providing foundational building bloc... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-07-27 | A package to create datatables using alpinejs, tailwind, liv... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-27 | The Moox Project - Packages for Filament and Laravel |
+| [MahdiMajidzadeh/laravel-unsplash](https://github.com/MahdiMajidzadeh/laravel-unsplash) | 11 | 2026-07-27 | unsplash wrapper for laravel |
+| [PHP-CMSIG/seal-laravel-package](https://github.com/PHP-CMSIG/seal-laravel-package) | 4 | 2026-07-27 | An integration of CMS-IG SEAL search abstraction into Larave... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-27 | Main Webampp laravel package for GEOBOX 2.0 |
+| [masterix21/laravel-bookings](https://github.com/masterix21/laravel-bookings) | 5 | 2026-07-27 | A comprehensive Laravel package that adds powerful booking f... |
+| [devuni-cz/notifier-package](https://github.com/devuni-cz/notifier-package) | 2 | 2026-07-27 | A Laravel 12 package for automated database backups and noti... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-07-27 | Simple package for adding directives to show/hide content fr... |
+| [EG-Mohamed/OpenCharity](https://github.com/EG-Mohamed/OpenCharity) | 3 | 2026-07-27 | OpenCharity is an open-source charity management platform bu... |
+| [Yamoon224/WAVE-DOC](https://github.com/Yamoon224/WAVE-DOC) | 0 | 2026-07-27 | Package Laravel pour l'intégration de l'API Wave Business (C... |
+| [RobertBoes/blade-selfhst-icons](https://github.com/RobertBoes/blade-selfhst-icons) | 0 | 2026-07-27 | A package to easily make use of selfh.st Icons in your Larav... |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-07-27 | Source code for the new pokemon3d.net website |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-27T13:23 | 2 | 1719 | 5465 |
 | 2026-07-27T07:33 | 2 | 1718 | 5463 |
 | 2026-07-27T01:01 | 1 | 1721 | 5461 |
 | 2026-07-26T18:41 | 3 | 1718 | 5460 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-25T18:40 | 1 | 1719 | 5449 |
 | 2026-07-25T12:43 | 3 | 1718 | 5448 |
 | 2026-07-25T07:06 | 1 | 1719 | 5445 |
-| 2026-07-25T00:56 | 3 | 1717 | 5444 |
 
 ---
 

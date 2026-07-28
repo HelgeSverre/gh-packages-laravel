@@ -2,20 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5481  
-**Last updated:** 2026-07-28T07:17:36.295Z
+**Total packages tracked:** 5484  
+**Last updated:** 2026-07-28T12:59:56.402Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Rackbeat/rackbeat-tolgee-sync](https://github.com/Rackbeat/rackbeat-tolgee-sync) | 0 | Laravel-Tolgee translation synchronization package |
+| [btekno/filesystem](https://github.com/btekno/filesystem) | 0 | A reusable Laravel package for selecting Local, Amazon S3, or Bunny CDN storage ... |
+| [puth-io/laravel](https://github.com/puth-io/laravel) | 1 | [READ ONLY] Subtree split of the Puth Laravel package (see puth-io/puth) |
 | [lianmaymesi/laravel-multidomain-starter](https://github.com/lianmaymesi/laravel-multidomain-starter) | 0 | Laravel starter kit for multi-subdomain apps: dedicated auth, account, app, and ... |
 | [jmrashed/laravel-installer](https://github.com/jmrashed/laravel-installer) | 7 | A complete web installer for Laravel applications, making the setup process simp... |
 | [ahmadrivaldi-arv/laravel-permission-registry](https://github.com/ahmadrivaldi-arv/laravel-permission-registry) | 0 | A code-first permission resource registry and synchronization toolkit for Spatie... |
 | [modularavel/cloudflare-stream-video](https://github.com/modularavel/cloudflare-stream-video) | 1 | A Laravel package that provides an idiomatic, strongly typed interface to the Cl... |
 | [shiwang-biz/cpanel-laravel-sdk](https://github.com/shiwang-biz/cpanel-laravel-sdk) | 0 | Laravel SDK for WHM and cPanel APIs, authenticated via WHM root credentials (WHM... |
 | [codeparl/app-settings](https://github.com/codeparl/app-settings) | 1 | A lightweight settings abstraction package providing a consistent API for readin... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 20 | A live database structure viewer for Laravel that renders your schema as a scrol... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 39 | A live database structure viewer for Laravel that renders your schema as a scrol... |
 | [caalel/mesa](https://github.com/caalel/mesa) | 0 | A Laravel and Livewire application for calorie-based food equivalence. |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | Local-first personal finance dashboard that resolves cross-account routing chain... |
 | [zvizvi/filament-column-filters](https://github.com/zvizvi/filament-column-filters) | 4 | Bring familiar Excel-style filtering to your Filament tables. Add compact filter... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Alnoman141/laravel-idempotency](https://github.com/Alnoman141/laravel-idempotency) | 0 | laravel-idempotency-laravel-package |
 | [Taoshan98/laravel-api-watcher](https://github.com/Taoshan98/laravel-api-watcher) | 2 | A modern Laravel package to intercept, analyze, and visualize API requests. |
 | [MahdiMajidzadeh/laravel-unsplash](https://github.com/MahdiMajidzadeh/laravel-unsplash) | 11 | unsplash wrapper for laravel |
-| [Yamoon224/WAVE-DOC](https://github.com/Yamoon224/WAVE-DOC) | 0 | Package Laravel pour l'intégration de l'API Wave Business (Checkout, Payout, Bal... |
-| [wesimplycode/laravel-afas-rest-connector](https://github.com/wesimplycode/laravel-afas-rest-connector) | 9 | This package integrates the AFAS REST API with Laravel |
-| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | Reference Laravel + Inertia + Svelte host app for the rayzenai/project-managemen... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jay123anta/laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | 26 | 2026-07-28 | Passive threat detection middleware for Laravel. Logs SQL in... |
-| [testmonitor/notify-floodgate](https://github.com/testmonitor/notify-floodgate) | 2 | 2026-07-28 | A Laravel package to buffer notifications and prevent notifi... |
-| [trust-medical/livewire-same-origin-embed](https://github.com/trust-medical/livewire-same-origin-embed) | 0 | 2026-07-28 | Same-origin-only bridge for embedding Laravel Livewire 4 com... |
-| [riteshsingh1/livewire-crud](https://github.com/riteshsingh1/livewire-crud) | 29 | 2026-07-28 | Basic Crud Generator (With Code Files, like GII (YII2)) Usin... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-28 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-07-28 | Laravel USPS Package to integrate USPS Address |
-| [kettasoft/filterable](https://github.com/kettasoft/filterable) | 40 | 2026-07-28 | A powerful and flexible Laravel package for advanced, clean,... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-28 | The Moox Project - Packages for Filament and Laravel |
+| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 110 | 2026-07-28 | Real Estate / Estate Agent, solution for your Property Agenc... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-07-28 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [masterix21/laravel-bookings](https://github.com/masterix21/laravel-bookings) | 5 | 2026-07-28 | A comprehensive Laravel package that adds powerful booking f... |
+| [btekno/filesystem](https://github.com/btekno/filesystem) | 0 | 2026-07-28 | A reusable Laravel package for selecting Local, Amazon S3, o... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-28 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-28 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-07-28 | Chief admin package |
+| [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) | 179 | 2026-07-28 | The Laravel Filament Flexible Content Blocks package helps y... |
+| [EscolaLMS/API](https://github.com/EscolaLMS/API) | 17 | 2026-07-28 | Laravel REST API. Main module that compose all Laravel packa... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 13 | 2026-07-28 | A package to create datatables using alpinejs, tailwind, liv... |
+| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-07-28 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
+| [puth-io/laravel](https://github.com/puth-io/laravel) | 1 | 2026-07-28 | [READ ONLY] Subtree split of the Puth Laravel package (see p... |
 | [steelants/Livewire-DataTable](https://github.com/steelants/Livewire-DataTable) | 2 | 2026-07-28 | Laravel Package for creating simple Livewire data tables |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-28 | Main Webampp laravel package for GEOBOX 2.0 |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-28 | Provides email verification on the go. |
-| [Particle-Academy/laravel-jobs](https://github.com/Particle-Academy/laravel-jobs) | 0 | 2026-07-28 | Laravel package for job boards - employer job postings, publ... |
-| [modularavel/cloudflare-stream-video](https://github.com/modularavel/cloudflare-stream-video) | 1 | 2026-07-28 | A Laravel package that provides an idiomatic, strongly typed... |
-| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | 2026-07-28 | Synchronized common files for open source Laravel packages |
-| [smart-dato/dpd-sdk](https://github.com/smart-dato/dpd-sdk) | 0 | 2026-07-28 | A Laravel package for integrating with the DPD shipping serv... |
+| [testmonitor/notify-floodgate](https://github.com/testmonitor/notify-floodgate) | 2 | 2026-07-28 | A Laravel package to buffer notifications and prevent notifi... |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 47 | 2026-07-28 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
 | [AsmitNepali/resized-column](https://github.com/AsmitNepali/resized-column) | 52 | 2026-07-28 | Filament table column resize plugin. |
-| [lianmaymesi/laravel-multidomain-starter](https://github.com/lianmaymesi/laravel-multidomain-starter) | 0 | 2026-07-28 | Laravel starter kit for multi-subdomain apps: dedicated auth... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 20 | 2026-07-28 | A live database structure viewer for Laravel that renders yo... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-28 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-28 | An event sourcing laravel package, complete with all the ess... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-07-28 | Filament plugin that allows to add dynamic, user-defined for... |
+| [imohamedzaki/laravel-process-builder](https://github.com/imohamedzaki/laravel-process-builder) | 3 | 2026-07-28 | A visual process builder for designing Laravel routes, contr... |
+| [cybex-gmbh/laravel-protector](https://github.com/cybex-gmbh/laravel-protector) | 5 | 2026-07-28 | Laravel package to provide and receive database dumps in a s... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-28 | The Moox Project - Packages for Filament and Laravel |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-28T12:59 | 3 | 1724 | 5484 |
 | 2026-07-28T07:17 | 4 | 1719 | 5481 |
 | 2026-07-28T00:53 | 3 | 1720 | 5477 |
 | 2026-07-27T18:51 | 9 | 1714 | 5474 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-26T18:41 | 3 | 1718 | 5460 |
 | 2026-07-26T12:43 | 3 | 1719 | 5457 |
 | 2026-07-26T07:14 | 3 | 1717 | 5454 |
-| 2026-07-26T01:00 | 2 | 1718 | 5451 |
 
 ---
 

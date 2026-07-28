@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5474  
-**Last updated:** 2026-07-27T18:51:49.219Z
+**Total packages tracked:** 5477  
+**Last updated:** 2026-07-28T00:53:08.703Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [shiwang-biz/cpanel-laravel-sdk](https://github.com/shiwang-biz/cpanel-laravel-sdk) | 0 | Laravel SDK for WHM and cPanel APIs, authenticated via WHM root credentials (WHM... |
+| [codeparl/app-settings](https://github.com/codeparl/app-settings) | 1 | A lightweight settings abstraction package providing a consistent API for readin... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 16 | A live database structure viewer for Laravel that renders your schema as a scrol... |
 | [caalel/mesa](https://github.com/caalel/mesa) | 0 | A Laravel and Livewire application for calorie-based food equivalence. |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | Local-first personal finance dashboard that resolves cross-account routing chain... |
 | [zvizvi/filament-column-filters](https://github.com/zvizvi/filament-column-filters) | 4 | Bring familiar Excel-style filtering to your Filament tables. Add compact filter... |
@@ -22,13 +25,10 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Yamoon224/WAVE-DOC](https://github.com/Yamoon224/WAVE-DOC) | 0 | Package Laravel pour l'intégration de l'API Wave Business (Checkout, Payout, Bal... |
 | [wesimplycode/laravel-afas-rest-connector](https://github.com/wesimplycode/laravel-afas-rest-connector) | 9 | This package integrates the AFAS REST API with Laravel |
 | [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | Reference Laravel + Inertia + Svelte host app for the rayzenai/project-managemen... |
-| [Bokshorn-IT/filament-activity-timeline](https://github.com/Bokshorn-IT/filament-activity-timeline) | 0 | Make spatie/laravel-activitylog readable in Filament: a record timeline, a filte... |
+| [Bokshorn-IT/filament-activity-timeline](https://github.com/Bokshorn-IT/filament-activity-timeline) | 1 | Make spatie/laravel-activitylog readable in Filament: a record timeline, a filte... |
 | [admin9-labs/laravel-scramble-extensions](https://github.com/admin9-labs/laravel-scramble-extensions) | 0 | Reusable Scramble extension for Laravel APIs using the Mitoop response, form-req... |
 | [shukladeepak08/sdpayhub-laravel-payzy](https://github.com/shukladeepak08/sdpayhub-laravel-payzy) | 0 | A Laravel package for multi-gateway payments that actually behaves like one API ... |
 | [EloquentWorks/RatingKit](https://github.com/EloquentWorks/RatingKit) | 0 | A flexible rating and ranking package for Laravel with Elo, Glicko, Glicko-2, ra... |
-| [EloquentWorks/Fellowship](https://github.com/EloquentWorks/Fellowship) | 1 | Laravel Fellowship provides elegant friendship and social connection tools for L... |
-| [ehsan1992-71/ai-seo-laravel](https://github.com/ehsan1992-71/ai-seo-laravel) | 1 | 🚀 Laravel package for AI-driven SEO optimization. Auto-generate meta tags, Open... |
-| [imeysam/laravel-picsize](https://github.com/imeysam/laravel-picsize) | 0 | This package helps developers to easily change images dimensions. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [m2collective/laravel-html-markup](https://github.com/m2collective/laravel-html-markup) | 0 | 2026-07-27 | A package for basic HTML document markup. |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-27 | Local-first personal finance dashboard that resolves cross-a... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-27 | The flexible backbone for your next CMS. This powerful frame... |
-| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | 2026-07-27 | Synchronized common files for open source Laravel packages |
-| [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | 2026-07-27 | Fleet management for a small K-12 school district — Laravel ... |
-| [m2collective/laravel-head-markup](https://github.com/m2collective/laravel-head-markup) | 0 | 2026-07-27 | A package for editing basic website metadata. |
-| [m2collective/laravel-defining-user-device](https://github.com/m2collective/laravel-defining-user-device) | 0 | 2026-07-27 | A package for detecting the user's device. |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-07-27 | Laravel package for HubSpot CRM: every object type, directio... |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-27 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-27 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-07-27 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-07-27 | A Laravel and Livewire application for calorie-based food eq... |
-| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-07-27 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
+| [Alnoman141/laravel-idempotency](https://github.com/Alnoman141/laravel-idempotency) | 0 | 2026-07-28 | laravel-idempotency-laravel-package |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 369 | 2026-07-28 | The official Laravel Nightwatch package. |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-28 | An event sourcing laravel package, complete with all the ess... |
+| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 4 | 2026-07-28 | Multi-engine full-text search for Laravel — SQLite FTS5, MyS... |
+| [crotinger/edufleet](https://github.com/crotinger/edufleet) | 0 | 2026-07-28 | Fleet management for a small K-12 school district — Laravel ... |
+| [GrafiteInc/Forms](https://github.com/GrafiteInc/Forms) | 37 | 2026-07-28 | Form Classes for Laravel - letting you generate HTML forms f... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-28 | Local-first personal finance dashboard that resolves cross-a... |
+| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 117 | 2026-07-28 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-07-28 | Laravel package for HubSpot CRM: every object type, directio... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-07-28 | Automated code analysis for Laravel applications with 73 com... |
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 58 | 2026-07-28 | The ultimate form components kit and custom fields builder f... |
+| [tzsk/payu](https://github.com/tzsk/payu) | 47 | 2026-07-27 | Payu Laravel Payment Gateway with Payment Verification Packa... |
 | [draftsmaninc/draftsman](https://github.com/draftsmaninc/draftsman) | 1 | 2026-07-27 | The Draftsman Laravel Package |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-07-27 | A Laravel package to handle AWS SNS notifications, providing... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-27 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-27 | A lightweight, convention-driven modular architecture packag... |
-| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-07-27 | Laravel package skeleton ⚙️ |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-27 | The Moox Project - Packages for Filament and Laravel |
-| [MrPunyapal/laravel-extended-commands](https://github.com/MrPunyapal/laravel-extended-commands) | 81 | 2026-07-27 | This package has some commands which are not available in la... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 0 | 2026-07-27 | ShieldCI Analyzer Core - Shared foundation for building stat... |
+| [businesstilto/commentable](https://github.com/businesstilto/commentable) | 17 | 2026-07-27 | An extensive and very customizable package that adds comment... |
+| [lara-zeus/laravel-seo](https://github.com/lara-zeus/laravel-seo) | 1 | 2026-07-27 | SEO package for Laravel |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 47 | 2026-07-27 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
+| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-07-27 | Laravel Paystack is a Laravel package that integrates the Pa... |
+| [mzaman/laravel-api-response](https://github.com/mzaman/laravel-api-response) | 0 | 2026-07-27 | A flexible and scalable API response handling package for La... |
+| [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | 2026-07-27 | Unified REST API Response formatter for Laravel with excepti... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-28T00:53 | 3 | 1720 | 5477 |
 | 2026-07-27T18:51 | 9 | 1714 | 5474 |
 | 2026-07-27T13:23 | 2 | 1719 | 5465 |
 | 2026-07-27T07:33 | 2 | 1718 | 5463 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-26T07:14 | 3 | 1717 | 5454 |
 | 2026-07-26T01:00 | 2 | 1718 | 5451 |
 | 2026-07-25T18:40 | 1 | 1719 | 5449 |
-| 2026-07-25T12:43 | 3 | 1718 | 5448 |
 
 ---
 

@@ -2,20 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5505  
-**Last updated:** 2026-07-29T13:03:03.823Z
+**Total packages tracked:** 5508  
+**Last updated:** 2026-07-29T18:41:36.901Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Super-Send/supersendtx-laravel](https://github.com/Super-Send/supersendtx-laravel) | 0 | SuperSend TX Laravel package — composer require supersendtx/laravel |
+| [m2collective/laravel-opengraph-markup](https://github.com/m2collective/laravel-opengraph-markup) | 0 | A package for adding and editing OpenGraph markup on a website. |
+| [st-man-hori/laravel-feature-template](https://github.com/st-man-hori/laravel-feature-template) | 0 | Package By Feature構成にしたLaravelのテンプレート |
 | [MantraIdeas/LaravelFonepay](https://github.com/MantraIdeas/LaravelFonepay) | 0 |  LaravelFonepay — a Laravel package to integrate the Fonepay payment gateway int... |
 | [subdomain-to/laravel](https://github.com/subdomain-to/laravel) | 0 | Laravel package for customer custom domains with an injectable API client, facad... |
 | [mohamed-elabyad/event-driven-orders](https://github.com/mohamed-elabyad/event-driven-orders) | 0 | Event-driven Laravel demo with two fully decoupled packages (Orders, Inventory) ... |
 | [subdomain-to/sdk-php](https://github.com/subdomain-to/sdk-php) | 0 | Official PHP SDKs for custom domains in SaaS, with framework-independent, Larave... |
 | [dongosiddik/etimbre-laravel](https://github.com/dongosiddik/etimbre-laravel) | 0 | etimbre-laravel-package |
 | [danielpopa26/laraiot](https://github.com/danielpopa26/laraiot) | 0 | A Laravel package for developing monitoring and control applications for Interne... |
-| [kai-init/laravel-normcache](https://github.com/kai-init/laravel-normcache) | 100 | A normalized Redis cache for Laravel Eloquent. Self-invalidating, Redis-backed. |
+| [kai-init/laravel-normcache](https://github.com/kai-init/laravel-normcache) | 102 | A normalized Redis cache for Laravel Eloquent. Self-invalidating, Redis-backed. |
 | [hammadzafar05/filament-mobile-preset](https://github.com/hammadzafar05/filament-mobile-preset) | 0 | Mobile-first defaults for Filament panels, bottom navigation, stacked tables, th... |
 | [lara-zeus/echoo](https://github.com/lara-zeus/echoo) | 1 | Echoo is filamentphp form component to record audio from your browser |
 | [nuewire/logs](https://github.com/nuewire/logs) | 0 | Platform logging package for the Nuewire Laravel suite. |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [youkeofficial/laravel-chapchap](https://github.com/youkeofficial/laravel-chapchap) | 0 | Laravel package for ChapChap payment API integration |
 | [thealirazadev/ledgerkit](https://github.com/thealirazadev/ledgerkit) | 0 | Double-entry money ledger package for Laravel: immutable postings, database-enfo... |
 | [nuewire/support](https://github.com/nuewire/support) | 0 | Shared utilities for Nuewire Laravel packages. |
-| [nuewire/platform](https://github.com/nuewire/platform) | 0 | Admin layout and shared navigation for Laravel Livewire packages. |
-| [nakanakaii/otp-service](https://github.com/nakanakaii/otp-service) | 0 | A reusable Laravel package for OTP verification with polymorphic model support a... |
-| [mish-ka-mishka/laravel-tools](https://github.com/mish-ka-mishka/laravel-tools) | 0 | This package contains simple tools for your Laravel application. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-29 | Local-first personal finance dashboard that resolves cross-a... |
-| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 3 | 2026-07-29 | Simple Laravel scraping package |
-| [outl1ne/nova-media-hub](https://github.com/outl1ne/nova-media-hub) | 46 | 2026-07-29 | This Laravel Nova package allows you to manage media and med... |
-| [mohamed-elabyad/event-driven-orders](https://github.com/mohamed-elabyad/event-driven-orders) | 0 | 2026-07-29 | Event-driven Laravel demo with two fully decoupled packages ... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-07-29 | Laravel package to handle requests are ensured sent |
-| [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | 2026-07-29 | Unified REST API Response formatter for Laravel with excepti... |
-| [subdomain-to/sdk-php](https://github.com/subdomain-to/sdk-php) | 0 | 2026-07-29 | Official PHP SDKs for custom domains in SaaS, with framework... |
-| [marshmallow-packages/payable](https://github.com/marshmallow-packages/payable) | 0 | 2026-07-29 | 🤑 This package will make it possible to accept payments on ... |
-| [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) | 236 | 2026-07-29 | A Sidecar function to run Browsershot on Lambda. |
-| [dongosiddik/etimbre-laravel](https://github.com/dongosiddik/etimbre-laravel) | 0 | 2026-07-29 | etimbre-laravel-package |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-29 | The Moox Project - Packages for Filament and Laravel |
-| [danielpopa26/laraiot](https://github.com/danielpopa26/laraiot) | 0 | 2026-07-29 | A Laravel package for developing monitoring and control appl... |
-| [nuewire/logs](https://github.com/nuewire/logs) | 0 | 2026-07-29 | Platform logging package for the Nuewire Laravel suite. |
-| [nuewire/platform](https://github.com/nuewire/platform) | 0 | 2026-07-29 | Admin layout and shared navigation for Laravel Livewire pack... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-07-29 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-07-29 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 117 | 2026-07-29 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 62 | 2026-07-29 | A live database structure viewer for Laravel that renders yo... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-29 | An event sourcing laravel package, complete with all the ess... |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-07-29 | Laravel package for HubSpot CRM: every object type, directio... |
+| [dystcz/dystore-api](https://github.com/dystcz/dystore-api) | 42 | 2026-07-29 | [READ ONLY] API layer for Lunar headless e-commerce package ... |
+| [dystcz/dystore](https://github.com/dystcz/dystore) | 12 | 2026-07-29 | Collection of ecommerce packages built on top of Lunar and L... |
+| [aprendible/backup-ui](https://github.com/aprendible/backup-ui) | 1 | 2026-07-29 | Laravel Backup UI for Spatie Laravel Backup package |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-07-29 | A personal portfolio built as an interactive browser-based t... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 64 | 2026-07-29 | A live database structure viewer for Laravel that renders yo... |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-29 | A Laravel package to track revisions of Eloquent models, all... |
+| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-07-29 | Laravel package skeleton ⚙️ |
 | [capell-app/capell](https://github.com/capell-app/capell) | 1 | 2026-07-29 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [juaniquillo/laravel-backend-component](https://github.com/juaniquillo/laravel-backend-component) | 0 | 2026-07-29 | A package that facilitates the creation of Laravel component... |
+| [ubayedtanvir/laravel-tenancy](https://github.com/ubayedtanvir/laravel-tenancy) | 0 | 2026-07-29 | Single-database multi-tenancy for Laravel that fails closed—... |
+| [softlogic-gt/neopay-laravel](https://github.com/softlogic-gt/neopay-laravel) | 0 | 2026-07-29 | Neopay Laravel Payment Package |
+| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-07-29 | Laravel package that logs third-party HTTP traffic (outgoing... |
+| [UniFileManager/filament-file-manager](https://github.com/UniFileManager/filament-file-manager) | 4 | 2026-07-29 | File management for Laravel Filament. https://packagist.org/... |
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-07-29 | PHP and Laravel Cursor rules — coding standards, testing, an... |
+| [Super-Send/supersendtx-laravel](https://github.com/Super-Send/supersendtx-laravel) | 0 | 2026-07-29 | SuperSend TX Laravel package — composer require supersendtx/... |
+| [FabianOkky/splitbill](https://github.com/FabianOkky/splitbill) | 0 | 2026-07-29 | Bill-splitting web app for Indonesian groups: Laravel + Live... |
+| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 3 | 2026-07-29 | Simple Laravel scraping package |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 181 | 2026-07-29 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-29T18:41 | 3 | 1724 | 5508 |
 | 2026-07-29T13:03 | 6 | 1722 | 5505 |
 | 2026-07-29T07:18 | 4 | 1723 | 5499 |
 | 2026-07-29T00:54 | 6 | 1721 | 5496 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-28T00:53 | 3 | 1720 | 5477 |
 | 2026-07-27T18:51 | 9 | 1714 | 5474 |
 | 2026-07-27T13:23 | 2 | 1719 | 5465 |
-| 2026-07-27T07:33 | 2 | 1718 | 5463 |
 
 ---
 

@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5490  
-**Last updated:** 2026-07-28T18:52:17.922Z
+**Total packages tracked:** 5496  
+**Last updated:** 2026-07-29T00:54:55.215Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [padosoft/laravel-settings](https://github.com/padosoft/laravel-settings) | 5 | Persistent settings with caching in Laravel |
+| [icehouse-ventures/laravel-mermaid-demo](https://github.com/icehouse-ventures/laravel-mermaid-demo) | 1 | Demo Laravel Application with Laravel Mermaid Diagram Package |
+| [icehouse-ventures/laravel-chartjs-demo](https://github.com/icehouse-ventures/laravel-chartjs-demo) | 6 | Demo Laravel Application with Laravel Chartjs Package |
+| [codeparl/queued-jobs](https://github.com/codeparl/queued-jobs) | 1 | A Laravel queue infrastructure package that preserves application execution cont... |
+| [youkeofficial/laravel-chapchap](https://github.com/youkeofficial/laravel-chapchap) | 0 | Laravel package for ChapChap payment API integration |
+| [thealirazadev/ledgerkit](https://github.com/thealirazadev/ledgerkit) | 0 | Double-entry money ledger package for Laravel: immutable postings, database-enfo... |
 | [nuewire/support](https://github.com/nuewire/support) | 0 | Shared utilities for Nuewire Laravel packages. |
 | [nuewire/platform](https://github.com/nuewire/platform) | 0 | Admin layout and shared navigation for Laravel Livewire packages. |
 | [nakanakaii/otp-service](https://github.com/nakanakaii/otp-service) | 0 | A reusable Laravel package for OTP verification with polymorphic model support a... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ahmadrivaldi-arv/laravel-permission-registry](https://github.com/ahmadrivaldi-arv/laravel-permission-registry) | 0 | A code-first permission resource registry and synchronization toolkit for Spatie... |
 | [modularavel/cloudflare-stream-video](https://github.com/modularavel/cloudflare-stream-video) | 1 | A Laravel package that provides an idiomatic, strongly typed interface to the Cl... |
 | [shiwang-biz/cpanel-laravel-sdk](https://github.com/shiwang-biz/cpanel-laravel-sdk) | 0 | Laravel SDK for WHM and cPanel APIs, authenticated via WHM root credentials (WHM... |
-| [codeparl/app-settings](https://github.com/codeparl/app-settings) | 1 | A lightweight settings abstraction package providing a consistent API for readin... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 48 | A live database structure viewer for Laravel that renders your schema as a scrol... |
-| [caalel/mesa](https://github.com/caalel/mesa) | 0 | A Laravel and Livewire application for calorie-based food equivalence. |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | Local-first personal finance dashboard that resolves cross-account routing chain... |
-| [zvizvi/filament-column-filters](https://github.com/zvizvi/filament-column-filters) | 5 | Bring familiar Excel-style filtering to your Filament tables. Add compact filter... |
-| [zvizvi/filament-user-fields](https://github.com/zvizvi/filament-user-fields) | 18 | Visually enhance your user selection fields by adding avatar support. This plugi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-28 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-07-28 | Ptah — Laravel package that forges complete module structure... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-28 | Local-first personal finance dashboard that resolves cross-a... |
-| [nuewire/support](https://github.com/nuewire/support) | 0 | 2026-07-28 | Shared utilities for Nuewire Laravel packages. |
-| [nuewire/platform](https://github.com/nuewire/platform) | 0 | 2026-07-28 | Admin layout and shared navigation for Laravel Livewire pack... |
-| [Marin-Solutions/checkybot-laravel](https://github.com/Marin-Solutions/checkybot-laravel) | 0 | 2026-07-28 | Laravel package for CheckyBot monitoring integration |
-| [modularavel/cloudflare-stream-video](https://github.com/modularavel/cloudflare-stream-video) | 1 | 2026-07-28 | A Laravel package that provides an idiomatic, strongly typed... |
-| [testmonitor/notify-floodgate](https://github.com/testmonitor/notify-floodgate) | 2 | 2026-07-28 | A Laravel package to buffer notifications and prevent notifi... |
-| [rxcod9/joy-voyager-user-settings](https://github.com/rxcod9/joy-voyager-user-settings) | 1 | 2026-07-28 | This voyager package provides settings similar as voyager gl... |
-| [MohammadZarifiyan/Laravel-Telegram-Bot](https://github.com/MohammadZarifiyan/Laravel-Telegram-Bot) | 5 | 2026-07-28 | A Laravel package that helps you to easily create scalable T... |
-| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-07-28 | A collection of Dockerfile examples for various programming ... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-07-28 | A package to create datatables using alpinejs, tailwind, liv... |
-| [fastaar/fastaar-laravel](https://github.com/fastaar/fastaar-laravel) | 0 | 2026-07-28 | Laravel package for the Fastaar payment gateway |
-| [Radiergummi/laravel-openapi](https://github.com/Radiergummi/laravel-openapi) | 1 | 2026-07-28 | Generate an OpenAPI 3.1 document from your existing Laravel ... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 48 | 2026-07-28 | A live database structure viewer for Laravel that renders yo... |
-| [dskripchenko/laravel-php-pdf](https://github.com/dskripchenko/laravel-php-pdf) | 0 | 2026-07-28 | Laravel bridge for dskripchenko/php-pdf — MIT PDF toolkit. P... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-07-28 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
+| [padosoft/laravel-settings](https://github.com/padosoft/laravel-settings) | 5 | 2026-07-29 | Persistent settings with caching in Laravel |
+| [icehouse-ventures/laravel-mermaid-demo](https://github.com/icehouse-ventures/laravel-mermaid-demo) | 1 | 2026-07-29 | Demo Laravel Application with Laravel Mermaid Diagram Packag... |
+| [icehouse-ventures/laravel-chartjs-demo](https://github.com/icehouse-ventures/laravel-chartjs-demo) | 6 | 2026-07-29 | Demo Laravel Application with Laravel Chartjs Package |
+| [vaened/laroute](https://github.com/vaened/laroute) | 4 | 2026-07-29 | An enhanced Laravel extension to export named routes to Java... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 369 | 2026-07-29 | The official Laravel Nightwatch package. |
+| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | 2026-07-29 | An opinionated Laravel package for handling payments, batter... |
+| [steveneppler/teslog-web](https://github.com/steveneppler/teslog-web) | 2 | 2026-07-29 | Self-hosted Tesla vehicle data logging and analytics platfor... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-29 | A practical work management information system built with La... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-29 | Local-first personal finance dashboard that resolves cross-a... |
+| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 117 | 2026-07-29 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | 2026-07-28 | Synchronized common files for open source Laravel packages |
 | [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-07-28 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [nakanakaii/otp-service](https://github.com/nakanakaii/otp-service) | 0 | 2026-07-28 | A reusable Laravel package for OTP verification with polymor... |
-| [amdad121/custodian-laravel](https://github.com/amdad121/custodian-laravel) | 1 | 2026-07-28 | A powerful, flexible, and developer-friendly role and permis... |
+| [Bokshorn-IT/filament-activity-timeline](https://github.com/Bokshorn-IT/filament-activity-timeline) | 3 | 2026-07-28 | Make spatie/laravel-activitylog readable in Filament: a reco... |
+| [fvisic/ProjectStatusApp](https://github.com/fvisic/ProjectStatusApp) | 2 | 2026-07-28 | Self-hosted portfolio health dashboard — track project statu... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-07-28 | Laravel-based API for storing sensor data from distributed n... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-28 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-07-28 | Private expiring previews of unsaved Capell page and Layout ... |
+| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-07-28 | Visual Capell page composition with reusable widgets, named ... |
+| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | 2026-07-28 | Shared typed content-block primitives for Capell packages. |
+| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-07-28 | Multilingual, multi-site Capell navigation with visual menus... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-29T00:54 | 6 | 1721 | 5496 |
 | 2026-07-28T18:52 | 6 | 1721 | 5490 |
 | 2026-07-28T12:59 | 3 | 1724 | 5484 |
 | 2026-07-28T07:17 | 4 | 1719 | 5481 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-27T07:33 | 2 | 1718 | 5463 |
 | 2026-07-27T01:01 | 1 | 1721 | 5461 |
 | 2026-07-26T18:41 | 3 | 1718 | 5460 |
-| 2026-07-26T12:43 | 3 | 1719 | 5457 |
 
 ---
 

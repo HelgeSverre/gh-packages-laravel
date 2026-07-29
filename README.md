@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5496  
-**Last updated:** 2026-07-29T00:54:55.215Z
+**Total packages tracked:** 5499  
+**Last updated:** 2026-07-29T07:18:55.050Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [kai-init/laravel-normcache](https://github.com/kai-init/laravel-normcache) | 97 | A normalized Redis cache for Laravel Eloquent. Self-invalidating, Redis-backed. |
+| [hammadzafar05/filament-mobile-preset](https://github.com/hammadzafar05/filament-mobile-preset) | 0 | Mobile-first defaults for Filament panels, bottom navigation, stacked tables, th... |
+| [lara-zeus/echoo](https://github.com/lara-zeus/echoo) | 1 | Echoo is filamentphp form component to record audio from your browser |
+| [nuewire/logs](https://github.com/nuewire/logs) | 0 | Platform logging package for the Nuewire Laravel suite. |
 | [padosoft/laravel-settings](https://github.com/padosoft/laravel-settings) | 5 | Persistent settings with caching in Laravel |
 | [icehouse-ventures/laravel-mermaid-demo](https://github.com/icehouse-ventures/laravel-mermaid-demo) | 1 | Demo Laravel Application with Laravel Mermaid Diagram Package |
 | [icehouse-ventures/laravel-chartjs-demo](https://github.com/icehouse-ventures/laravel-chartjs-demo) | 6 | Demo Laravel Application with Laravel Chartjs Package |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [btekno/filesystem](https://github.com/btekno/filesystem) | 0 | A reusable Laravel package for selecting Local, Amazon S3, or Bunny CDN storage ... |
 | [puth-io/laravel](https://github.com/puth-io/laravel) | 1 | [READ ONLY] Subtree split of the Puth Laravel package (see puth-io/puth) |
 | [lianmaymesi/laravel-multidomain-starter](https://github.com/lianmaymesi/laravel-multidomain-starter) | 0 | Laravel starter kit for multi-subdomain apps: dedicated auth, account, app, and ... |
-| [jmrashed/laravel-installer](https://github.com/jmrashed/laravel-installer) | 7 | A complete web installer for Laravel applications, making the setup process simp... |
-| [ahmadrivaldi-arv/laravel-permission-registry](https://github.com/ahmadrivaldi-arv/laravel-permission-registry) | 0 | A code-first permission resource registry and synchronization toolkit for Spatie... |
-| [modularavel/cloudflare-stream-video](https://github.com/modularavel/cloudflare-stream-video) | 1 | A Laravel package that provides an idiomatic, strongly typed interface to the Cl... |
-| [shiwang-biz/cpanel-laravel-sdk](https://github.com/shiwang-biz/cpanel-laravel-sdk) | 0 | Laravel SDK for WHM and cPanel APIs, authenticated via WHM root credentials (WHM... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [padosoft/laravel-settings](https://github.com/padosoft/laravel-settings) | 5 | 2026-07-29 | Persistent settings with caching in Laravel |
-| [icehouse-ventures/laravel-mermaid-demo](https://github.com/icehouse-ventures/laravel-mermaid-demo) | 1 | 2026-07-29 | Demo Laravel Application with Laravel Mermaid Diagram Packag... |
-| [icehouse-ventures/laravel-chartjs-demo](https://github.com/icehouse-ventures/laravel-chartjs-demo) | 6 | 2026-07-29 | Demo Laravel Application with Laravel Chartjs Package |
-| [vaened/laroute](https://github.com/vaened/laroute) | 4 | 2026-07-29 | An enhanced Laravel extension to export named routes to Java... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 369 | 2026-07-29 | The official Laravel Nightwatch package. |
-| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | 2026-07-29 | An opinionated Laravel package for handling payments, batter... |
-| [steveneppler/teslog-web](https://github.com/steveneppler/teslog-web) | 2 | 2026-07-29 | Self-hosted Tesla vehicle data logging and analytics platfor... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-07-29 | A practical work management information system built with La... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-29 | Local-first personal finance dashboard that resolves cross-a... |
-| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 117 | 2026-07-29 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [victormgomes/laravel-libs-shared](https://github.com/victormgomes/laravel-libs-shared) | 0 | 2026-07-28 | Synchronized common files for open source Laravel packages |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-07-28 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [Bokshorn-IT/filament-activity-timeline](https://github.com/Bokshorn-IT/filament-activity-timeline) | 3 | 2026-07-28 | Make spatie/laravel-activitylog readable in Filament: a reco... |
-| [fvisic/ProjectStatusApp](https://github.com/fvisic/ProjectStatusApp) | 2 | 2026-07-28 | Self-hosted portfolio health dashboard — track project statu... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-07-28 | Laravel-based API for storing sensor data from distributed n... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-28 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-07-28 | Private expiring previews of unsaved Capell page and Layout ... |
-| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-07-28 | Visual Capell page composition with reusable widgets, named ... |
-| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | 2026-07-28 | Shared typed content-block primitives for Capell packages. |
-| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-07-28 | Multilingual, multi-site Capell navigation with visual menus... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-07-29 | A package to create datatables using alpinejs, tailwind, liv... |
+| [stackmasteraliza/laravel-api-response-builder](https://github.com/stackmasteraliza/laravel-api-response-builder) | 31 | 2026-07-29 | A clean and consistent API response builder for Laravel appl... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-07-29 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-29 | The Moox Project - Packages for Filament and Laravel |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-07-29 | Laravel USPS Package to integrate USPS Address |
+| [RumenDamyanov/php-seo](https://github.com/RumenDamyanov/php-seo) | 10 | 2026-07-29 | AI-powered, framework-agnostic PHP package for automated SEO... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-07-29 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [hammadzafar05/filament-mobile-preset](https://github.com/hammadzafar05/filament-mobile-preset) | 0 | 2026-07-29 | Mobile-first defaults for Filament panels, bottom navigation... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 0 | 2026-07-29 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [fnx-software/filament-astrotomic](https://github.com/fnx-software/filament-astrotomic) | 3 | 2026-07-29 | Manage multilingual content in Filament v4 & v5+ with astrot... |
+| [clinically-au/laravel-companion-demo](https://github.com/clinically-au/laravel-companion-demo) | 1 | 2026-07-29 | Demo and test bed for the clinically/laravel-companion packa... |
+| [nuewire/support](https://github.com/nuewire/support) | 0 | 2026-07-29 | Shared utilities for Nuewire Laravel packages. |
+| [nuewire/platform](https://github.com/nuewire/platform) | 0 | 2026-07-29 | Admin layout and shared navigation for Laravel Livewire pack... |
+| [nuewire/logs](https://github.com/nuewire/logs) | 0 | 2026-07-29 | Platform logging package for the Nuewire Laravel suite. |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-29 | Provides email verification on the go. |
+| [codeparl/queued-jobs](https://github.com/codeparl/queued-jobs) | 1 | 2026-07-29 | A Laravel queue infrastructure package that preserves applic... |
+| [steelants/Livewire-DataTable](https://github.com/steelants/Livewire-DataTable) | 2 | 2026-07-29 | Laravel Package for creating simple Livewire data tables |
+| [kai-init/laravel-normcache](https://github.com/kai-init/laravel-normcache) | 97 | 2026-07-29 | A normalized Redis cache for Laravel Eloquent. Self-invalida... |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-07-29 | Laravel package for Indonesia regions selection with postal ... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-29 | An event sourcing laravel package, complete with all the ess... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-29T07:18 | 4 | 1723 | 5499 |
 | 2026-07-29T00:54 | 6 | 1721 | 5496 |
 | 2026-07-28T18:52 | 6 | 1721 | 5490 |
 | 2026-07-28T12:59 | 3 | 1724 | 5484 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-27T13:23 | 2 | 1719 | 5465 |
 | 2026-07-27T07:33 | 2 | 1718 | 5463 |
 | 2026-07-27T01:01 | 1 | 1721 | 5461 |
-| 2026-07-26T18:41 | 3 | 1718 | 5460 |
 
 ---
 

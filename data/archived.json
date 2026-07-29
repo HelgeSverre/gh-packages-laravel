@@ -909,5 +909,27 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-07-21T12:50:50.128Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "jhonoryza/filament-simple-role-permission": {
+    "name": "jhonoryza/filament-simple-role-permission",
+    "url": "https://github.com/jhonoryza/filament-simple-role-permission",
+    "description": "Laravel Filament Simple Role and Permission Plugin Scaffolding",
+    "stars": 4,
+    "forks": 0,
+    "topics": [
+      "filamentphp",
+      "laravel",
+      "livewire",
+      "permission",
+      "role"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2024-07-29T08:36:36Z",
+    "updated_at": "2025-07-29T03:54:54Z",
+    "pushed_at": "2025-07-29T03:56:21Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-07-29T07:18:55.023Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

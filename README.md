@@ -2,13 +2,25 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5520  
-**Last updated:** 2026-07-30T12:55:34.949Z
+**Total packages tracked:** 5532  
+**Last updated:** 2026-07-30T18:52:10.680Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [blemli/formsettings-for-filament](https://github.com/blemli/formsettings-for-filament) | 0 | rule your forms |
+| [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | 154 | Accounting application written in Laravel 13 / PHP 8.5 using Filament 5. QuickBo... |
+| [tigusigalpa/glassnode-php](https://github.com/tigusigalpa/glassnode-php) | 0 | Unofficial PHP 8.1+ SDK for the Glassnode Basic API. Framework-agnostic with a f... |
+| [ahmedsaed27/laravel-ddd](https://github.com/ahmedsaed27/laravel-ddd) | 0 | Lightweight DDD and modular architecture tooling for Laravel, with context gener... |
+| [mnapoli/dotlock](https://github.com/mnapoli/dotlock) | 0 | Secure secrets for local Laravel development |
+| [EvanSchleret/NotificationCompass](https://github.com/EvanSchleret/NotificationCompass) | 0 | Context-aware notification preferences for Laravel applications. |
+| [samuel-olavo/laravel-rt-bestpratical](https://github.com/samuel-olavo/laravel-rt-bestpratical) | 0 | A Laravel package to integrate with the Request Tracker (RT) system by Best Prac... |
+| [zoolok/laravel-ip-blocker](https://github.com/zoolok/laravel-ip-blocker) | 0 | Laravel package for blocking suspicious IP addresses (anti-spam/anti-scanner). S... |
+| [spesohq/laravel-ussd](https://github.com/spesohq/laravel-ussd) | 63 | Create ussd with ease |
+| [DoubleRCreative/laravel-config-resolver](https://github.com/DoubleRCreative/laravel-config-resolver) | 0 | Fluent configuration validation and class resolution for Laravel packages. |
+| [LaxmiAshokB/mlm-system](https://github.com/LaxmiAshokB/mlm-system) | 0 | Laravel MLM application with user registration, package purchase, sponsor manage... |
+| [salmanzafar949/MQTT-Laravel](https://github.com/salmanzafar949/MQTT-Laravel) | 102 | Laravel package to connect, publish, and subscribe to an MQTT broker |
 | [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | Public routing, rendering, caching boundaries, and theme integration for Capell ... |
 | [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | Extension discovery, account linking, install authorization, and update manageme... |
 | [capell-app/installer](https://github.com/capell-app/installer) | 0 | Guided browser installer for bootstrapping new Capell CMS applications. |
@@ -17,18 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [freerkminnema/synchronized](https://github.com/freerkminnema/synchronized) | 2 | A Laravel package that provides a `synchronized` function that uses atomic locks... |
 | [datashaman/fable](https://github.com/datashaman/fable) | 0 | Laravel MCP server for AI agents to build and query serialized narrative worlds ... |
 | [m2collective/laravel-metadata-markup](https://github.com/m2collective/laravel-metadata-markup) | 0 | A package for adding and editing meta tags on a website. |
-| [hexbatch/hbc-things](https://github.com/hexbatch/hbc-things) | 1 | Laravel package containing the things data structure |
-| [mattmy/laravel-file-magic](https://github.com/mattmy/laravel-file-magic) | 0 | A secure file storage and management package built exclusively for Laravel. |
-| [jonhassall/laravel-scout-batcher](https://github.com/jonhassall/laravel-scout-batcher) | 1 | Database-backed, search-driver-agnostic batching for Laravel Scout. |
-| [kidran/event-schedule-schema](https://github.com/kidran/event-schedule-schema) | 0 | Laravel package for generating and validating Barq-compatible furry event schedu... |
-| [stephenr85/laravel-package-topology](https://github.com/stephenr85/laravel-package-topology) | 0 |  |
-| [Super-Send/supersendtx-laravel](https://github.com/Super-Send/supersendtx-laravel) | 0 | SuperSend TX Laravel package — composer require supersendtx/laravel |
-| [m2collective/laravel-opengraph-markup](https://github.com/m2collective/laravel-opengraph-markup) | 0 | A package for adding and editing OpenGraph markup on a website. |
-| [st-man-hori/laravel-feature-template](https://github.com/st-man-hori/laravel-feature-template) | 0 | Package By Feature構成にしたLaravelのテンプレート |
-| [MantraIdeas/LaravelFonepay](https://github.com/MantraIdeas/LaravelFonepay) | 0 |  LaravelFonepay — a Laravel package to integrate the Fonepay payment gateway int... |
-| [subdomain-to/laravel](https://github.com/subdomain-to/laravel) | 0 | Laravel package for customer custom domains with an injectable API client, facad... |
-| [mohamed-elabyad/event-driven-orders](https://github.com/mohamed-elabyad/event-driven-orders) | 0 | Event-driven Laravel demo with two fully decoupled packages (Orders, Inventory) ... |
-| [subdomain-to/sdk-php](https://github.com/subdomain-to/sdk-php) | 0 | Official PHP SDKs for custom domains in SaaS, with framework-independent, Larave... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-07-30 | Laravel package that logs third-party HTTP traffic (outgoing... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-07-30 | Laravel package to handle requests are ensured sent |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-30 | Local-first personal finance dashboard that resolves cross-a... |
 | [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-30 | A lightweight, convention-driven modular architecture packag... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-07-30 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-07-30 | Extension discovery, account linking, install authorization,... |
-| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-07-30 | Guided browser installer for bootstrapping new Capell CMS ap... |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-07-30 | Public routing, rendering, caching boundaries, and theme int... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-07-30 | Filament admin panel, editor workflows, settings, and extens... |
-| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-07-30 | Shared content models, services, contracts, and extension fo... |
-| [lara-zeus/dynamic-dashboard](https://github.com/lara-zeus/dynamic-dashboard) | 16 | 2026-07-30 | simple way to manage widgets and layout for your website lan... |
-| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-07-30 | Private expiring previews of unsaved Capell page and Layout ... |
-| [freerkminnema/synchronized](https://github.com/freerkminnema/synchronized) | 2 | 2026-07-30 | A Laravel package that provides a `synchronized` function th... |
-| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-07-30 | Multilingual, multi-site Capell navigation with visual menus... |
-| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-07-30 | Visual Capell page composition with reusable widgets, named ... |
-| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | 2026-07-30 | Shared typed content-block primitives for Capell packages. |
-| [m2collective/laravel-html-markup](https://github.com/m2collective/laravel-html-markup) | 0 | 2026-07-30 | A package for basic HTML document markup. |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-07-30 | Laravel Dusk Testing Helper for Package Development |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 72 | 2026-07-30 | A live database structure viewer for Laravel that renders yo... |
-| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 9 | 2026-07-30 | Kompass A Laravel CMS |
+| [dskripchenko/laravel-schemify](https://github.com/dskripchenko/laravel-schemify) | 0 | 2026-07-30 | Dynamic multi-schema PostgreSQL connections for Laravel — pe... |
+| [blemli/formsettings-for-filament](https://github.com/blemli/formsettings-for-filament) | 0 | 2026-07-30 | rule your forms |
+| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 4 | 2026-07-30 | Simple Laravel scraping package |
+| [lithium-dev/video-logs-backend](https://github.com/lithium-dev/video-logs-backend) | 0 | 2026-07-30 | Read-only distribution repo for the lithium/video-logs Larav... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-30 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [yannelli/attempt](https://github.com/yannelli/attempt) | 43 | 2026-07-30 | Attempt is a Laravel package provides a fluent, composable r... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-30 | The Moox Project - Packages for Filament and Laravel |
+| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-07-30 |  |
+| [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | 2026-07-30 | Unified REST API Response formatter for Laravel with excepti... |
+| [AsmitNepali/resized-column](https://github.com/AsmitNepali/resized-column) | 52 | 2026-07-30 | Filament table column resize plugin. |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-07-30 | Laravel package for HubSpot CRM: every object type, directio... |
+| [samuel-olavo/laravel-rt-bestpratical](https://github.com/samuel-olavo/laravel-rt-bestpratical) | 0 | 2026-07-30 | A Laravel package to integrate with the Request Tracker (RT)... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-30 | Local-first personal finance dashboard that resolves cross-a... |
+| [zoolok/laravel-ip-blocker](https://github.com/zoolok/laravel-ip-blocker) | 0 | 2026-07-30 | Laravel package for blocking suspicious IP addresses (anti-s... |
+| [spesohq/laravel-ussd](https://github.com/spesohq/laravel-ussd) | 63 | 2026-07-30 | Create ussd with ease |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-07-30 | The flexible backbone for your next CMS. This powerful frame... |
+| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | 2026-07-30 | A VueJS/Inertia TableBuilder package for Laravel |
+| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-07-30 | Laravel package for integrating with Ranetrace – error track... |
+| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 9 | 2026-07-30 | FilaKit starter kit built on Laravel 12.x and Filament 3.x w... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-30T18:52 | 12 | 1714 | 5532 |
 | 2026-07-30T12:55 | 6 | 1720 | 5520 |
 | 2026-07-30T07:16 | 4 | 1723 | 5515 |
 | 2026-07-30T00:51 | 3 | 1724 | 5511 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-29T00:54 | 6 | 1721 | 5496 |
 | 2026-07-28T18:52 | 6 | 1721 | 5490 |
 | 2026-07-28T12:59 | 3 | 1724 | 5484 |
-| 2026-07-28T07:17 | 4 | 1719 | 5481 |
 
 ---
 

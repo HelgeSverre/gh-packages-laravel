@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5508  
-**Last updated:** 2026-07-29T18:41:36.901Z
+**Total packages tracked:** 5511  
+**Last updated:** 2026-07-30T00:51:48.698Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jonhassall/laravel-scout-batcher](https://github.com/jonhassall/laravel-scout-batcher) | 1 | Database-backed, search-driver-agnostic batching for Laravel Scout. |
+| [kidran/event-schedule-schema](https://github.com/kidran/event-schedule-schema) | 0 | Laravel package for generating and validating Barq-compatible furry event schedu... |
+| [stephenr85/laravel-package-topology](https://github.com/stephenr85/laravel-package-topology) | 0 |  |
 | [Super-Send/supersendtx-laravel](https://github.com/Super-Send/supersendtx-laravel) | 0 | SuperSend TX Laravel package — composer require supersendtx/laravel |
 | [m2collective/laravel-opengraph-markup](https://github.com/m2collective/laravel-opengraph-markup) | 0 | A package for adding and editing OpenGraph markup on a website. |
 | [st-man-hori/laravel-feature-template](https://github.com/st-man-hori/laravel-feature-template) | 0 | Package By Feature構成にしたLaravelのテンプレート |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [icehouse-ventures/laravel-mermaid-demo](https://github.com/icehouse-ventures/laravel-mermaid-demo) | 1 | Demo Laravel Application with Laravel Mermaid Diagram Package |
 | [icehouse-ventures/laravel-chartjs-demo](https://github.com/icehouse-ventures/laravel-chartjs-demo) | 6 | Demo Laravel Application with Laravel Chartjs Package |
 | [codeparl/queued-jobs](https://github.com/codeparl/queued-jobs) | 1 | A Laravel queue infrastructure package that preserves application execution cont... |
-| [youkeofficial/laravel-chapchap](https://github.com/youkeofficial/laravel-chapchap) | 0 | Laravel package for ChapChap payment API integration |
-| [thealirazadev/ledgerkit](https://github.com/thealirazadev/ledgerkit) | 0 | Double-entry money ledger package for Laravel: immutable postings, database-enfo... |
-| [nuewire/support](https://github.com/nuewire/support) | 0 | Shared utilities for Nuewire Laravel packages. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,8 +45,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 462 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 448 | Open Source Laravel CRM Package |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 447 | Open Source Laravel CRM Package |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-29 | Local-first personal finance dashboard that resolves cross-a... |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-07-29 | Laravel package for HubSpot CRM: every object type, directio... |
-| [dystcz/dystore-api](https://github.com/dystcz/dystore-api) | 42 | 2026-07-29 | [READ ONLY] API layer for Lunar headless e-commerce package ... |
-| [dystcz/dystore](https://github.com/dystcz/dystore) | 12 | 2026-07-29 | Collection of ecommerce packages built on top of Lunar and L... |
-| [aprendible/backup-ui](https://github.com/aprendible/backup-ui) | 1 | 2026-07-29 | Laravel Backup UI for Spatie Laravel Backup package |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-07-29 | A personal portfolio built as an interactive browser-based t... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 64 | 2026-07-29 | A live database structure viewer for Laravel that renders yo... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-07-30 | An event sourcing laravel package, complete with all the ess... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-30 | Local-first personal finance dashboard that resolves cross-a... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-07-30 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 1 | 2026-07-30 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 119 | 2026-07-30 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [rr-mdalauddin-alamin/laravel-currency-converter](https://github.com/rr-mdalauddin-alamin/laravel-currency-converter) | 0 | 2026-07-29 | A Laravel Package which convert currency value according to ... |
+| [tzsk/payu](https://github.com/tzsk/payu) | 47 | 2026-07-29 | Payu Laravel Payment Gateway with Payment Verification Packa... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-07-29 | A Laravel package that provides flexible and extensible reso... |
+| [kidran/event-schedule-schema](https://github.com/kidran/event-schedule-schema) | 0 | 2026-07-29 | Laravel package for generating and validating Barq-compatibl... |
+| [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | 2026-07-29 | Unified REST API Response formatter for Laravel with excepti... |
+| [rawilk/filament-quill](https://github.com/rawilk/filament-quill) | 34 | 2026-07-29 | Quill rich text editor for Filament. |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-07-29 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-29 | A lightweight, convention-driven modular architecture packag... |
 | [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-07-29 | A Laravel package to track revisions of Eloquent models, all... |
-| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-07-29 | Laravel package skeleton ⚙️ |
-| [capell-app/capell](https://github.com/capell-app/capell) | 1 | 2026-07-29 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [juaniquillo/laravel-backend-component](https://github.com/juaniquillo/laravel-backend-component) | 0 | 2026-07-29 | A package that facilitates the creation of Laravel component... |
-| [ubayedtanvir/laravel-tenancy](https://github.com/ubayedtanvir/laravel-tenancy) | 0 | 2026-07-29 | Single-database multi-tenancy for Laravel that fails closed—... |
-| [softlogic-gt/neopay-laravel](https://github.com/softlogic-gt/neopay-laravel) | 0 | 2026-07-29 | Neopay Laravel Payment Package |
-| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-07-29 | Laravel package that logs third-party HTTP traffic (outgoing... |
-| [UniFileManager/filament-file-manager](https://github.com/UniFileManager/filament-file-manager) | 4 | 2026-07-29 | File management for Laravel Filament. https://packagist.org/... |
-| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-07-29 | PHP and Laravel Cursor rules — coding standards, testing, an... |
-| [Super-Send/supersendtx-laravel](https://github.com/Super-Send/supersendtx-laravel) | 0 | 2026-07-29 | SuperSend TX Laravel package — composer require supersendtx/... |
-| [FabianOkky/splitbill](https://github.com/FabianOkky/splitbill) | 0 | 2026-07-29 | Bill-splitting web app for Indonesian groups: Laravel + Live... |
-| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 3 | 2026-07-29 | Simple Laravel scraping package |
-| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 181 | 2026-07-29 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-07-29 | Laravel package for HubSpot CRM: every object type, directio... |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-07-29 | A personal portfolio built as an interactive browser-based t... |
+| [jonhassall/laravel-scout-batcher](https://github.com/jonhassall/laravel-scout-batcher) | 1 | 2026-07-29 | Database-backed, search-driver-agnostic batching for Laravel... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-07-29 | Laravel-based API for storing sensor data from distributed n... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 65 | 2026-07-29 | A live database structure viewer for Laravel that renders yo... |
+| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | 2026-07-29 | An opinionated Laravel package for handling payments, batter... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-30T00:51 | 3 | 1724 | 5511 |
 | 2026-07-29T18:41 | 3 | 1724 | 5508 |
 | 2026-07-29T13:03 | 6 | 1722 | 5505 |
 | 2026-07-29T07:18 | 4 | 1723 | 5499 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-28T07:17 | 4 | 1719 | 5481 |
 | 2026-07-28T00:53 | 3 | 1720 | 5477 |
 | 2026-07-27T18:51 | 9 | 1714 | 5474 |
-| 2026-07-27T13:23 | 2 | 1719 | 5465 |
 
 ---
 

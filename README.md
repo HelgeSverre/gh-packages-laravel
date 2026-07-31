@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5539  
-**Last updated:** 2026-07-31T00:58:34.082Z
+**Total packages tracked:** 5540  
+**Last updated:** 2026-07-31T07:20:40.340Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [avto-dev/back2front-laravel](https://github.com/avto-dev/back2front-laravel) | 7 | Package for backend -> frontend communication in Laravel applications |
 | [tudor-constantin/monitor](https://github.com/tudor-constantin/monitor) | 0 | Self-hosted website uptime monitoring with response-time tracking, incident noti... |
 | [jeffersongoncalves/laravel-livewire-wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard) | 1 | Build multi-step wizards using Livewire 3. |
 | [warith313/laravel-fcm-httpv1](https://github.com/warith313/laravel-fcm-httpv1) | 0 | Firebase Cloud Messaging (FCM) sender for Laravel  using HTTP v1. |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [DoubleRCreative/laravel-config-resolver](https://github.com/DoubleRCreative/laravel-config-resolver) | 0 | Fluent configuration validation and class resolution for Laravel packages. |
 | [LaxmiAshokB/mlm-system](https://github.com/LaxmiAshokB/mlm-system) | 0 | Laravel MLM application with user registration, package purchase, sponsor manage... |
 | [salmanzafar949/MQTT-Laravel](https://github.com/salmanzafar949/MQTT-Laravel) | 102 | Laravel package to connect, publish, and subscribe to an MQTT broker |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | Public routing, rendering, caching boundaries, and theme integration for Capell ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-07-31 | Laravel package for HubSpot CRM: every object type, directio... |
-| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-07-31 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
-| [Adri2819/backup-ui](https://github.com/Adri2819/backup-ui) | 0 | 2026-07-31 | Laravel Backup UI for Spatie Backup package |
-| [promptphp/intercept-support](https://github.com/promptphp/intercept-support) | 0 | 2026-07-31 | [READ ONLY] Shared support utilities and configuration for I... |
-| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 4 | 2026-07-31 | Simple Laravel scraping package |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-07-31 | Automated code analysis for Laravel applications with 73 com... |
-| [Owen-oj/laravel-getid3](https://github.com/Owen-oj/laravel-getid3) | 85 | 2026-07-31 | A Laravel package to extract metadata from media files. mp3,... |
-| [yannelli/attempt](https://github.com/yannelli/attempt) | 43 | 2026-07-31 | Attempt is a Laravel package provides a fluent, composable r... |
-| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 298 | 2026-07-31 | Laravel error reporting tool |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-07-30 | Laravel Dusk Testing Helper for Package Development |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-07-30 | The Moox Project - Packages for Filament and Laravel |
-| [puth-io/laravel](https://github.com/puth-io/laravel) | 1 | 2026-07-30 | [READ ONLY] Subtree split of the Puth Laravel package (see p... |
-| [salmanzafar949/MQTT-Laravel](https://github.com/salmanzafar949/MQTT-Laravel) | 102 | 2026-07-30 | Laravel package to connect, publish, and subscribe to an MQT... |
-| [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | 2026-07-30 | Unified REST API Response formatter for Laravel with excepti... |
-| [tudor-constantin/monitor](https://github.com/tudor-constantin/monitor) | 0 | 2026-07-30 | Self-hosted website uptime monitoring with response-time tra... |
-| [jeffersongoncalves/laravel-livewire-wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard) | 1 | 2026-07-30 | Build multi-step wizards using Livewire 3. |
-| [StreetMesh/Protocol-Laravel](https://github.com/StreetMesh/Protocol-Laravel) | 0 | 2026-07-30 | The StreetMesh protocol as a Laravel package: discovery, del... |
-| [UniFileManager/filament-file-manager](https://github.com/UniFileManager/filament-file-manager) | 6 | 2026-07-30 | File management for Laravel Filament. https://filamentphp.co... |
-| [fvasquezl/backup-ui](https://github.com/fvasquezl/backup-ui) | 0 | 2026-07-30 | Laravel Backup UI for spatie Laravel Backup package |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-30 | A lightweight, convention-driven modular architecture packag... |
+| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-07-31 |  |
+| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-07-31 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [zoolok/laravel-ip-blocker](https://github.com/zoolok/laravel-ip-blocker) | 0 | 2026-07-31 | Laravel package for blocking suspicious IP addresses (anti-s... |
+| [MGeurts/genealogy](https://github.com/MGeurts/genealogy) | 354 | 2026-07-31 | Genealogy is a free and open-source family tree PHP applicat... |
+| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 9 | 2026-07-31 | Kompass A Laravel CMS |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-07-31 | Laravel USPS Package to integrate USPS Address |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-07-31 | Main Webampp laravel package for GEOBOX 2.0 |
+| [centrex/laravel-payroll](https://github.com/centrex/laravel-payroll) | 0 | 2026-07-31 | payroll package for laravel |
+| [spesohq/laravel-ussd](https://github.com/spesohq/laravel-ussd) | 63 | 2026-07-31 | Create ussd with ease |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-07-31 | Provides email verification on the go. |
+| [timo-de-winter/laravel-docker](https://github.com/timo-de-winter/laravel-docker) | 0 | 2026-07-31 | A package that adds docker features to your project for loca... |
+| [avto-dev/back2front-laravel](https://github.com/avto-dev/back2front-laravel) | 7 | 2026-07-31 | Package for backend -> frontend communication in Laravel app... |
+| [kai-init/laravel-normcache](https://github.com/kai-init/laravel-normcache) | 102 | 2026-07-31 | A normalized Redis cache for Laravel Eloquent. Self-invalida... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-07-31 | Simple package for adding directives to show/hide content fr... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 76 | 2026-07-31 | A live database structure viewer for Laravel that renders yo... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-07-31 | A lightweight, convention-driven modular architecture packag... |
+| [salmanzafar949/MQTT-Laravel](https://github.com/salmanzafar949/MQTT-Laravel) | 102 | 2026-07-31 | Laravel package to connect, publish, and subscribe to an MQT... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-07-31 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 56 | 2026-07-31 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-07-31 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-07-31T07:20 | 1 | 1726 | 5540 |
 | 2026-07-31T00:58 | 7 | 1719 | 5539 |
 | 2026-07-30T18:52 | 12 | 1714 | 5532 |
 | 2026-07-30T12:55 | 6 | 1720 | 5520 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-29T13:03 | 6 | 1722 | 5505 |
 | 2026-07-29T07:18 | 4 | 1723 | 5499 |
 | 2026-07-29T00:54 | 6 | 1721 | 5496 |
-| 2026-07-28T18:52 | 6 | 1721 | 5490 |
 
 ---
 

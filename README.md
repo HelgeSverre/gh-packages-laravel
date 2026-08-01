@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5563  
-**Last updated:** 2026-08-01T12:40:23.976Z
+**Total packages tracked:** 5566  
+**Last updated:** 2026-08-01T18:41:12.431Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-cms](https://github.com/jeffersongoncalves/filament-cms) | 1 | Filament plugin bundling the full Laravel CMS ecosystem (pages, posts, categorie... |
+| [SaulPane/backup-ui](https://github.com/SaulPane/backup-ui) | 0 | Laravel Backuo UI for Spatie Laravel Backup package |
+| [fathallah7/paymob-bagisto-package](https://github.com/fathallah7/paymob-bagisto-package) | 0 | Laravel Bagisto 2.x Paymob payment package with refund support. |
 | [siko001/atx-ticket-event-wordpress](https://github.com/siko001/atx-ticket-event-wordpress) | 0 | WordPress Ticketing plugin to connect with Laravel ticketing package for Filamen... |
 | [buzkall/laravel-ticktick](https://github.com/buzkall/laravel-ticktick) | 0 | Laravel package to connect to TickTick API v1 |
 | [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | Utility package for Laravel including Transformable proxies and helpers |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kwhorne/Felagi](https://github.com/kwhorne/Felagi) | 0 | Humans and coding agents on one board. Assign an issue — an agent claims it, run... |
 | [larapkgs/validation](https://github.com/larapkgs/validation) | 0 | An immutability-first, strongly typed validation package for Laravel. |
 | [avto-dev/app-version-laravel](https://github.com/avto-dev/app-version-laravel) | 25 | Laravel application versioning |
-| [avto-dev/app-metrics-laravel](https://github.com/avto-dev/app-metrics-laravel) | 4 | Metrics for Laravel applications |
-| [deaniliev/laravel-docling](https://github.com/deaniliev/laravel-docling) | 0 | package to work with docling |
-| [josiasmontag/laravel-localization](https://github.com/josiasmontag/laravel-localization) | 23 | Laravel Localization Package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 9 | 2026-08-01 | A Laravel-based web application that tracks, analyzes, and p... |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-01 | Local-first personal finance dashboard that resolves cross-a... |
-| [milirezai/milipay](https://github.com/milirezai/milipay) | 2 | 2026-08-01 | The milipay Payment Package is a simple and flexible solutio... |
-| [GasyCoder/smartScol](https://github.com/GasyCoder/smartScol) | 2 | 2026-08-01 | Application de Gestion des Examens - Faculté de Médecine Uni... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-08-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [laraditz/razorpay](https://github.com/laraditz/razorpay) | 0 | 2026-08-01 | Laravel package for interacting with Razorpay API. |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-08-01 | Public routing, rendering, caching boundaries, and theme int... |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 76 | 2026-08-01 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
-| [buzkall/laravel-ticktick](https://github.com/buzkall/laravel-ticktick) | 0 | 2026-08-01 | Laravel package to connect to TickTick API v1 |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 195 | 2026-08-01 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [edulazaro/laralang](https://github.com/edulazaro/laralang) | 1 | 2026-08-01 | A simple but powerful localization package for Laravel |
-| [fuelviews/laravel-parameter-tagging](https://github.com/fuelviews/laravel-parameter-tagging) | 0 | 2026-08-01 | Parameter Tagging Package |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-01 | Utility package for Laravel including Transformable proxies ... |
-| [bambamboole/laravel-mermaid-erd](https://github.com/bambamboole/laravel-mermaid-erd) | 3 | 2026-08-01 | Package to generate Mermaid ERD from the database schema |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 100 | 2026-08-01 | Complete, ready-to-use Indonesian administrative region data... |
-| [fuelviews/laravel-sabhero-articles](https://github.com/fuelviews/laravel-sabhero-articles) | 0 | 2026-08-01 | SAB Hero Articles Package |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 56 | 2026-08-01 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 10 | 2026-08-01 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
-| [ubayedtanvir/laravel-tenancy](https://github.com/ubayedtanvir/laravel-tenancy) | 0 | 2026-08-01 | Single-database multi-tenancy for Laravel that fails closed—... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-01 | An event sourcing laravel package, complete with all the ess... |
-| [richardDobron/blade-google-material-symbols-700](https://github.com/richardDobron/blade-google-material-symbols-700) | 0 | 2026-08-01 | A package to easily make use of Google's Material Symbols (7... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-01 | Laravel-based API for storing sensor data from distributed n... |
+| [SaulPane/backup-ui](https://github.com/SaulPane/backup-ui) | 0 | 2026-08-01 | Laravel Backuo UI for Spatie Laravel Backup package |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-01 | Laravel package for HubSpot CRM: every object type, directio... |
+| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 15 | 2026-08-01 | Laravel + Filament 4 CMS foundation: visual page builder, in... |
+| [edulazaro/laratext](https://github.com/edulazaro/laratext) | 77 | 2026-08-01 | A Laravel package to easily handle translated texts and tran... |
+| [academe/laravel-journal-window-cleaner-demo](https://github.com/academe/laravel-journal-window-cleaner-demo) | 0 | 2026-08-01 | Demo window cleaner app for package academe/laravel-journal |
+| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 6 | 2026-08-01 | A Laravel package that adds NATS messaging support to Larave... |
+| [fuelviews/laravel-forms](https://github.com/fuelviews/laravel-forms) | 0 | 2026-08-01 | Forms Package |
+| [jeffersongoncalves/filament-cms](https://github.com/jeffersongoncalves/filament-cms) | 1 | 2026-08-01 | Filament plugin bundling the full Laravel CMS ecosystem (pag... |
+| [mozex/laravel-modules](https://github.com/mozex/laravel-modules) | 6 | 2026-08-01 | Laravel package that auto-discovers and registers module ass... |
+| [fuelviews/laravel-redirect-if-not-found](https://github.com/fuelviews/laravel-redirect-if-not-found) | 0 | 2026-08-01 | Laravel redirect if not found package |
+| [edulazaro/laralang](https://github.com/edulazaro/laralang) | 2 | 2026-08-01 | A simple but powerful localization package for Laravel |
+| [Particle-Academy/laravel-courses](https://github.com/Particle-Academy/laravel-courses) | 0 | 2026-08-01 | Laravel package for selling & serving curriculums, courses, ... |
+| [jeffersongoncalves/laravel-erp](https://github.com/jeffersongoncalves/laravel-erp) | 3 | 2026-08-01 | Monorepo (source-of-truth) for the Laravel ERP domain packag... |
+| [jeffersongoncalves/laravel-cms](https://github.com/jeffersongoncalves/laravel-cms) | 2 | 2026-08-01 | Laravel CMS (pages, posts, categories, tags, comments, media... |
+| [brunocfalcao/blade-feather-icons](https://github.com/brunocfalcao/blade-feather-icons) | 36 | 2026-08-01 | A package to easily make use of Feather Icons in your Larave... |
+| [fuelviews/laravel-robots-txt](https://github.com/fuelviews/laravel-robots-txt) | 1 | 2026-08-01 | Robots Txt Package |
+| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-08-01 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-01T18:41 | 3 | 1723 | 5566 |
 | 2026-08-01T12:40 | 3 | 1724 | 5563 |
 | 2026-08-01T07:12 | 3 | 1722 | 5560 |
 | 2026-08-01T00:59 | 4 | 1721 | 5557 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-31T00:58 | 7 | 1719 | 5539 |
 | 2026-07-30T18:52 | 12 | 1714 | 5532 |
 | 2026-07-30T12:55 | 6 | 1720 | 5520 |
-| 2026-07-30T07:16 | 4 | 1723 | 5515 |
 
 ---
 

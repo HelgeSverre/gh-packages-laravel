@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5553  
-**Last updated:** 2026-07-31T18:50:34.123Z
+**Total packages tracked:** 5557  
+**Last updated:** 2026-08-01T00:59:28.223Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [aniftyco/kubit](https://github.com/aniftyco/kubit) | 32 | A Tailwind CSS UI library with two implementations of one design system — Blade/... |
+| [ahmadrezaei/laravel-real-client-ip](https://github.com/ahmadrezaei/laravel-real-client-ip) | 0 | Laravel middleware that restores the real client IP behind a CDN, load balancer ... |
+| [ErrorLogger-SDK/Laravel-SDK](https://github.com/ErrorLogger-SDK/Laravel-SDK) | 1 | Laravel 7.x package for logging errors |
+| [keshavmansure/laravel-chronicle](https://github.com/keshavmansure/laravel-chronicle) | 0 | Lightweight Laravel package to track Eloquent model changes automatically. |
 | [Aeronk/laravel-smilepay](https://github.com/Aeronk/laravel-smilepay) | 0 | ZB Smile and Pay Laravel package |
 | [bamboguirassy/laravel-deploy-supervisor](https://github.com/bamboguirassy/laravel-deploy-supervisor) | 0 | Package de déploiement Laravel + multi-env + supervisor realtime + command |
 | [clcarver/queue-watcher-laravel](https://github.com/clcarver/queue-watcher-laravel) | 0 | Laravel integration for the queue-watcher Go package |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [avto-dev/faker-providers](https://github.com/avto-dev/faker-providers) | 3 | Extended faker package providers |
 | [avto-dev/back2front-laravel](https://github.com/avto-dev/back2front-laravel) | 7 | Package for backend -> frontend communication in Laravel applications |
 | [tudor-constantin/monitor](https://github.com/tudor-constantin/monitor) | 0 | Self-hosted website uptime monitoring with response-time tracking, incident noti... |
-| [jeffersongoncalves/laravel-livewire-wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard) | 1 | Build multi-step wizards using Livewire 3. |
-| [warith313/laravel-fcm-httpv1](https://github.com/warith313/laravel-fcm-httpv1) | 0 | Firebase Cloud Messaging (FCM) sender for Laravel  using HTTP v1. |
-| [Adri2819/backup-ui](https://github.com/Adri2819/backup-ui) | 0 | Laravel Backup UI for Spatie Backup package |
-| [StreetMesh/Protocol-Laravel](https://github.com/StreetMesh/Protocol-Laravel) | 0 | The StreetMesh protocol as a Laravel package: discovery, delegation, records, an... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-07-31 | Local-first personal finance dashboard that resolves cross-a... |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-07-31 | Laravel package for HubSpot CRM: every object type, directio... |
-| [kwhorne/Felagi](https://github.com/kwhorne/Felagi) | 0 | 2026-07-31 | Humans and coding agents on one board. Assign an issue — an ... |
-| [blemli/formsettings-for-filament](https://github.com/blemli/formsettings-for-filament) | 0 | 2026-07-31 | rule your forms |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-07-31 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [Aeronk/laravel-smilepay](https://github.com/Aeronk/laravel-smilepay) | 0 | 2026-07-31 | ZB Smile and Pay Laravel package |
-| [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) | 149 | 2026-07-31 | Commentions is a drop-in package for Filament that allows yo... |
-| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-07-31 | Laravel package skeleton ⚙️ |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-07-31 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-07-31 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
-| [bamboguirassy/laravel-deploy-supervisor](https://github.com/bamboguirassy/laravel-deploy-supervisor) | 0 | 2026-07-31 | Package de déploiement Laravel + multi-env + supervisor real... |
-| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 12 | 2026-07-31 | Complete gamification package with optional UI |
-| [scabarcas17/laravel-permissions-redis](https://github.com/scabarcas17/laravel-permissions-redis) | 39 | 2026-07-31 | A Redis-powered roles and permissions package for Laravel de... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 42 | 2026-07-31 | This project collects the most commonly used Laravel extensi... |
-| [Marin-Solutions/checkybot-laravel](https://github.com/Marin-Solutions/checkybot-laravel) | 0 | 2026-07-31 | Laravel package for CheckyBot monitoring integration |
-| [clcarver/queue-watcher-laravel](https://github.com/clcarver/queue-watcher-laravel) | 0 | 2026-07-31 | Laravel integration for the queue-watcher Go package |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-07-31 | Automated code analysis for Laravel applications with 73 com... |
-| [src83/laravel-api-response](https://github.com/src83/laravel-api-response) | 0 | 2026-07-31 | Unified REST API Response formatter for Laravel with excepti... |
-| [tonegabes/filament-mpac](https://github.com/tonegabes/filament-mpac) | 2 | 2026-07-31 | Filament MPAC - Starter Kit idealizado para ajudar a constru... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-07-31 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [jeffersongoncalves/filament-cookie-consent](https://github.com/jeffersongoncalves/filament-cookie-consent) | 8 | 2026-08-01 | Filament plugin for cookie consent with settings page - GDPR... |
+| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 4 | 2026-08-01 | Filament plugin to integrate Plausible Analytics with a sett... |
+| [jeffersongoncalves/filament-queue-management](https://github.com/jeffersongoncalves/filament-queue-management) | 2 | 2026-08-01 | A Filament plugin to manage Laravel's database queue tables ... |
+| [jeffersongoncalves/filament-ace-editor-field](https://github.com/jeffersongoncalves/filament-ace-editor-field) | 4 | 2026-08-01 | A Laravel Filament field that integrates the Ace code editor... |
+| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 7 | 2026-08-01 | Filament plugin for Help Desk ticket management — User, Oper... |
+| [jeffersongoncalves/filament-knowledge-base](https://github.com/jeffersongoncalves/filament-knowledge-base) | 9 | 2026-08-01 | Filament plugin for Knowledge Base management with Admin, Us... |
+| [jeffersongoncalves/filament-pixel](https://github.com/jeffersongoncalves/filament-pixel) | 5 | 2026-08-01 | Filament plugin to manage Meta (Facebook) Pixel settings fro... |
+| [jeffersongoncalves/filament-keyable](https://github.com/jeffersongoncalves/filament-keyable) | 5 | 2026-08-01 | This is a Laravel Filament package that provides API Key man... |
+| [jeffersongoncalves/filament-cep-field](https://github.com/jeffersongoncalves/filament-cep-field) | 8 | 2026-08-01 | The Filament CEP Field is a custom input component designed ... |
+| [jeffersongoncalves/filament-one-time-operations](https://github.com/jeffersongoncalves/filament-one-time-operations) | 2 | 2026-08-01 | This is a Laravel Filament package that provides a One Time ... |
+| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-08-01 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [ubayedtanvir/laravel-tenancy](https://github.com/ubayedtanvir/laravel-tenancy) | 0 | 2026-08-01 | Single-database multi-tenancy for Laravel that fails closed—... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 197 | 2026-08-01 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [jeffersongoncalves/filament-oidc](https://github.com/jeffersongoncalves/filament-oidc) | 2 | 2026-08-01 | Drop-in OpenID Connect (OIDC) SSO for Filament v5 panels wit... |
+| [jeffersongoncalves/filament-pwa](https://github.com/jeffersongoncalves/filament-pwa) | 3 | 2026-08-01 | Inject PWA head tags (manifest, theme-color, apple-touch) in... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-01 | Local-first personal finance dashboard that resolves cross-a... |
+| [jeffersongoncalves/filament-newsletter](https://github.com/jeffersongoncalves/filament-newsletter) | 2 | 2026-08-01 | Filament plugin for composing, scheduling and sending double... |
+| [jeffersongoncalves/filament-multifactor-passkeys](https://github.com/jeffersongoncalves/filament-multifactor-passkeys) | 5 | 2026-08-01 | Filament 5 multi-factor authentication via WebAuthn passkeys... |
+| [jeffersongoncalves/filament-ban](https://github.com/jeffersongoncalves/filament-ban) | 1 | 2026-08-01 | Ban and unban any Eloquent model directly from Filament tabl... |
+| [jeffersongoncalves/filament-gtm](https://github.com/jeffersongoncalves/filament-gtm) | 4 | 2026-08-01 | Filament plugin for Google Tag Manager with settings page po... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-01T00:59 | 4 | 1721 | 5557 |
 | 2026-07-31T18:50 | 4 | 1729 | 5553 |
 | 2026-07-31T13:02 | 10 | 1721 | 5549 |
 | 2026-07-31T07:20 | 1 | 1726 | 5540 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-30T07:16 | 4 | 1723 | 5515 |
 | 2026-07-30T00:51 | 3 | 1724 | 5511 |
 | 2026-07-29T18:41 | 3 | 1724 | 5508 |
-| 2026-07-29T13:03 | 6 | 1722 | 5505 |
 
 ---
 

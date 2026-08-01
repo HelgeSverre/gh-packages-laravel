@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5560  
-**Last updated:** 2026-08-01T07:12:47.189Z
+**Total packages tracked:** 5563  
+**Last updated:** 2026-08-01T12:40:23.976Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [siko001/atx-ticket-event-wordpress](https://github.com/siko001/atx-ticket-event-wordpress) | 0 | WordPress Ticketing plugin to connect with Laravel ticketing package for Filamen... |
+| [buzkall/laravel-ticktick](https://github.com/buzkall/laravel-ticktick) | 0 | Laravel package to connect to TickTick API v1 |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | Utility package for Laravel including Transformable proxies and helpers |
 | [anggagewor/personal](https://github.com/anggagewor/personal) | 3 | A personal dashboard that doubles as a module incubator—where reusable Laravel m... |
 | [laraditz/razorpay](https://github.com/laraditz/razorpay) | 0 | Laravel package for interacting with Razorpay API. |
 | [Calim2020/backup-ui](https://github.com/Calim2020/backup-ui) | 0 | Laravel Backup de Spatie para curso Laravel y package |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [avto-dev/app-metrics-laravel](https://github.com/avto-dev/app-metrics-laravel) | 4 | Metrics for Laravel applications |
 | [deaniliev/laravel-docling](https://github.com/deaniliev/laravel-docling) | 0 | package to work with docling |
 | [josiasmontag/laravel-localization](https://github.com/josiasmontag/laravel-localization) | 23 | Laravel Localization Package |
-| [Webfresh-Uden/wfresourcebalance](https://github.com/Webfresh-Uden/wfresourcebalance) | 0 | Webfresh Resource balance Package for Laravel |
-| [dsins/voyager-booster](https://github.com/dsins/voyager-booster) | 1 | A Laravel package that includes Laravel-Voyager bugfixes and enhancements. |
-| [elgiborsolution/laravel-report-builder](https://github.com/elgiborsolution/laravel-report-builder) | 0 | Package to build custom report using laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-01 | Local-first personal finance dashboard that resolves cross-a... |
+| [milirezai/milipay](https://github.com/milirezai/milipay) | 2 | 2026-08-01 | The milipay Payment Package is a simple and flexible solutio... |
+| [GasyCoder/smartScol](https://github.com/GasyCoder/smartScol) | 2 | 2026-08-01 | Application de Gestion des Examens - Faculté de Médecine Uni... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-08-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [laraditz/razorpay](https://github.com/laraditz/razorpay) | 0 | 2026-08-01 | Laravel package for interacting with Razorpay API. |
+| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-08-01 | Public routing, rendering, caching boundaries, and theme int... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 76 | 2026-08-01 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [buzkall/laravel-ticktick](https://github.com/buzkall/laravel-ticktick) | 0 | 2026-08-01 | Laravel package to connect to TickTick API v1 |
 | [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 195 | 2026-08-01 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [SRWieZ/queue-size-health-check](https://github.com/SRWieZ/queue-size-health-check) | 7 | 2026-08-01 | Check the queue size with Spatie Health Package |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-08-01 | Filament plugin that allows to add dynamic, user-defined for... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-01 | Provides email verification on the go. |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-01 | Laravel USPS Package to integrate USPS Address |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-01 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-08-01 | Laravel package for Indonesia regions selection with postal ... |
-| [zoolok/laravel-ip-blocker](https://github.com/zoolok/laravel-ip-blocker) | 0 | 2026-08-01 | Laravel package for blocking suspicious IP addresses (anti-s... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 77 | 2026-08-01 | A live database structure viewer for Laravel that renders yo... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-08-01 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 4 | 2026-08-01 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-08-01 | Laravel package providing OTP (One-Time Password) management... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-08-01 | A package to create datatables using alpinejs, tailwind, liv... |
-| [fuelviews/laravel-cloudflare-cache](https://github.com/fuelviews/laravel-cloudflare-cache) | 1 | 2026-08-01 | Cloudflare Cache Package |
-| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-08-01 | Laravel package providing polymorphic comments with Reposito... |
-| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-08-01 | Laravel package providing polymorphic reactions (like, love,... |
-| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-08-01 | Laravel TOTP package for two-factor authentication with poly... |
-| [Coder71-Ltd/ServerPulse-LaravelAgent](https://github.com/Coder71-Ltd/ServerPulse-LaravelAgent) | 0 | 2026-08-01 | ServerPulse monitoring and license agent for Laravel applica... |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 3 | 2026-08-01 | Laravel package untuk data wilayah administratif Indonesia (... |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-01 | Laravel package for HubSpot CRM: every object type, directio... |
+| [edulazaro/laralang](https://github.com/edulazaro/laralang) | 1 | 2026-08-01 | A simple but powerful localization package for Laravel |
+| [fuelviews/laravel-parameter-tagging](https://github.com/fuelviews/laravel-parameter-tagging) | 0 | 2026-08-01 | Parameter Tagging Package |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-01 | Utility package for Laravel including Transformable proxies ... |
+| [bambamboole/laravel-mermaid-erd](https://github.com/bambamboole/laravel-mermaid-erd) | 3 | 2026-08-01 | Package to generate Mermaid ERD from the database schema |
+| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 100 | 2026-08-01 | Complete, ready-to-use Indonesian administrative region data... |
+| [fuelviews/laravel-sabhero-articles](https://github.com/fuelviews/laravel-sabhero-articles) | 0 | 2026-08-01 | SAB Hero Articles Package |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 56 | 2026-08-01 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 10 | 2026-08-01 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
+| [ubayedtanvir/laravel-tenancy](https://github.com/ubayedtanvir/laravel-tenancy) | 0 | 2026-08-01 | Single-database multi-tenancy for Laravel that fails closed—... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-01 | An event sourcing laravel package, complete with all the ess... |
+| [richardDobron/blade-google-material-symbols-700](https://github.com/richardDobron/blade-google-material-symbols-700) | 0 | 2026-08-01 | A package to easily make use of Google's Material Symbols (7... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-01T12:40 | 3 | 1724 | 5563 |
 | 2026-08-01T07:12 | 3 | 1722 | 5560 |
 | 2026-08-01T00:59 | 4 | 1721 | 5557 |
 | 2026-07-31T18:50 | 4 | 1729 | 5553 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-30T18:52 | 12 | 1714 | 5532 |
 | 2026-07-30T12:55 | 6 | 1720 | 5520 |
 | 2026-07-30T07:16 | 4 | 1723 | 5515 |
-| 2026-07-30T00:51 | 3 | 1724 | 5511 |
 
 ---
 

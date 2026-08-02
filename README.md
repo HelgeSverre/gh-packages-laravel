@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5577  
-**Last updated:** 2026-08-02T12:42:00.430Z
+**Total packages tracked:** 5583  
+**Last updated:** 2026-08-02T18:41:16.756Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [gaitco/basata](https://github.com/gaitco/basata) | 0 | Laravel client for the Basata Cash Collector Channel API v3.0.8 — inquiry, payme... |
+| [gaitco/friendship-filament](https://github.com/gaitco/friendship-filament) | 0 | Filament admin panel plugin for ghanem/friendship — moderate friendships, reques... |
+| [gaitco/friendship](https://github.com/gaitco/friendship) | 18 | A polymorphic friendship system for Laravel — friend requests, blocking, mutual ... |
+| [stormyboy68/middlewarePipe](https://github.com/stormyboy68/middlewarePipe) | 0 | A lightweight and framework-independent middleware pipeline for PHP.  This packa... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | Laravel package providing polymorphic image management with upload, manipulation... |
+| [fiqahmad/malaysia-property-calculator](https://github.com/fiqahmad/malaysia-property-calculator) | 0 | An open-source Laravel package that gives exact, formula-verified calculations f... |
 | [Farshad-Hasanpour/plantodo](https://github.com/Farshad-Hasanpour/plantodo) | 0 | Yet another todo list powered by Tailwind, Alpine.js, Livewire, and Laravel aka ... |
 | [AbdullahGhanem/friendship](https://github.com/AbdullahGhanem/friendship) | 18 | A polymorphic friendship system for Laravel — friend requests, blocking, mutual ... |
 | [myscode/laravel-any-trusted-proxies](https://github.com/myscode/laravel-any-trusted-proxies) | 0 | A Laravel package for dynamic loading of trusted proxy IPs from multiple CDN and... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/filament-cms](https://github.com/jeffersongoncalves/filament-cms) | 2 | Filament plugin bundling the full Laravel CMS ecosystem (pages, posts, categorie... |
 | [SaulPane/backup-ui](https://github.com/SaulPane/backup-ui) | 0 | Laravel Backuo UI for Spatie Laravel Backup package |
 | [fathallah7/paymob-bagisto-package](https://github.com/fathallah7/paymob-bagisto-package) | 0 | Laravel Bagisto 2.x Paymob payment package with refund support. |
-| [siko001/atx-ticket-event-wordpress](https://github.com/siko001/atx-ticket-event-wordpress) | 0 | WordPress Ticketing plugin to connect with Laravel ticketing package for Filamen... |
-| [buzkall/laravel-ticktick](https://github.com/buzkall/laravel-ticktick) | 0 | Laravel package to connect to TickTick API v1 |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | Utility package for Laravel including Transformable proxies and helpers |
-| [anggagewor/personal](https://github.com/anggagewor/personal) | 4 | A personal dashboard that doubles as a module incubator—where reusable Laravel m... |
-| [laraditz/razorpay](https://github.com/laraditz/razorpay) | 0 | Laravel package for interacting with Razorpay API. |
-| [Calim2020/backup-ui](https://github.com/Calim2020/backup-ui) | 0 | Laravel Backup de Spatie para curso Laravel y package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [myscode/laravel-any-trusted-proxies](https://github.com/myscode/laravel-any-trusted-proxies) | 0 | 2026-08-02 | A Laravel package for dynamic loading of trusted proxy IPs f... |
 | [spesohq/laravel-ussd](https://github.com/spesohq/laravel-ussd) | 63 | 2026-08-02 | Create ussd with ease |
-| [jay123anta/laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | 31 | 2026-08-02 | Passive threat detection middleware for Laravel. Logs SQL in... |
-| [tudor-constantin/monitor](https://github.com/tudor-constantin/monitor) | 0 | 2026-08-02 | Self-hosted website uptime monitoring with response-time tra... |
-| [arif98741/laravelbdsms](https://github.com/arif98741/laravelbdsms) | 151 | 2026-08-02 | Xenon\LaravelBDSms is a laravel based multi sms gateway pack... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-08-02 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-08-02 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
+| [pikbdesigns/laravel-full-translation](https://github.com/pikbdesigns/laravel-full-translation) | 0 | 2026-08-02 | Laravel Full Translation — a Laravel 13 package for URL-base... |
+| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 7 | 2026-08-02 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
+| [stormyboy68/middlewarePipe](https://github.com/stormyboy68/middlewarePipe) | 0 | 2026-08-02 | A lightweight and framework-independent middleware pipeline ... |
+| [bambamboole/laravel-oidc-client](https://github.com/bambamboole/laravel-oidc-client) | 0 | 2026-08-02 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC r... |
+| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-08-02 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
+| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-08-02 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-02 | A complete OIDC server as a laravel package |
+| [stephenr85/laravel-package-topology](https://github.com/stephenr85/laravel-package-topology) | 0 | 2026-08-02 |  |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-02 | Laravel package for HubSpot CRM: every object type, directio... |
+| [laricekl/ProximaJob-livrable](https://github.com/laricekl/ProximaJob-livrable) | 0 | 2026-08-02 | Laravel livrable package for deployment |
 | [mrlibelula/vintage-consoles](https://github.com/mrlibelula/vintage-consoles) | 0 | 2026-08-02 | Browser-based retro gaming platform. Play NES, SNES, Arcade,... |
-| [kai-init/laravel-normcache](https://github.com/kai-init/laravel-normcache) | 102 | 2026-08-02 | A normalized Redis cache for Laravel Eloquent. Self-invalida... |
-| [Farshad-Hasanpour/plantodo](https://github.com/Farshad-Hasanpour/plantodo) | 0 | 2026-08-02 | Yet another todo list powered by Tailwind, Alpine.js, Livewi... |
-| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-08-02 | Laravel package providing OTP (One-Time Password) management... |
-| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-08-02 | Laravel package providing polymorphic comments with Reposito... |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-02 | Utility package for Laravel including Transformable proxies ... |
-| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-08-02 | Laravel package providing polymorphic reactions (like, love,... |
-| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-08-02 | Laravel TOTP package for two-factor authentication with poly... |
-| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 6 | 2026-08-02 | A Laravel package that adds NATS messaging support to Larave... |
-| [centrex/laravel-payroll](https://github.com/centrex/laravel-payroll) | 0 | 2026-08-02 | payroll package for laravel |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-02 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [emaia/laravel-hotwire-turbo](https://github.com/emaia/laravel-hotwire-turbo) | 1 | 2026-08-02 | Laravel package to integrate Hotwire Turbo |
-| [AbdullahGhanem/friendship](https://github.com/AbdullahGhanem/friendship) | 18 | 2026-08-02 | A polymorphic friendship system for Laravel — friend request... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-08-02 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
-| [mdobes/filament-rich-editor-fullscreen](https://github.com/mdobes/filament-rich-editor-fullscreen) | 9 | 2026-08-02 | A Filament v4 & v5 plugin that adds fullscreen functionality... |
+| [anggagewor/personal](https://github.com/anggagewor/personal) | 4 | 2026-08-02 | A personal dashboard that doubles as a module incubator—wher... |
+| [gaitco/basata](https://github.com/gaitco/basata) | 0 | 2026-08-02 | Laravel client for the Basata Cash Collector Channel API v3.... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-02 | Laravel package providing polymorphic image management with ... |
+| [jeffersongoncalves/teamkitv4](https://github.com/jeffersongoncalves/teamkitv4) | 9 | 2026-08-02 | TeamKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-08-02 | TeamKit starter kit built on Laravel 12.x and Filament 3.x w... |
+| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 1 | 2026-08-02 | HelpDesk starter kit built on Laravel 12.x and Filament 3.x ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-02T18:41 | 6 | 1718 | 5583 |
 | 2026-08-02T12:42 | 4 | 1721 | 5577 |
 | 2026-08-02T07:14 | 4 | 1720 | 5573 |
 | 2026-08-02T00:59 | 3 | 1720 | 5569 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-01T00:59 | 4 | 1721 | 5557 |
 | 2026-07-31T18:50 | 4 | 1729 | 5553 |
 | 2026-07-31T13:02 | 10 | 1721 | 5549 |
-| 2026-07-31T07:20 | 1 | 1726 | 5540 |
 
 ---
 

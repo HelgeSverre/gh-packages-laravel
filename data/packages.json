@@ -4088,7 +4088,7 @@
     "name": "kirschbaum-development/commentions",
     "url": "https://github.com/kirschbaum-development/commentions",
     "description": "Commentions is a drop-in package for Filament that allows you to add comments to your resources with mentions and reactions.",
-    "stars": 149,
+    "stars": 150,
     "forks": 35,
     "topics": [
       "filament",
@@ -4098,8 +4098,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-01-21T14:43:42Z",
-    "updated_at": "2026-07-31T19:19:57Z",
-    "pushed_at": "2026-07-31T19:19:30Z",
+    "updated_at": "2026-08-01T22:22:35Z",
+    "pushed_at": "2026-08-01T22:08:43Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "dcblogdev/laravel-microsoft-graph": {
@@ -7867,8 +7867,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-11-14T17:42:39Z",
-    "updated_at": "2026-06-29T22:13:29Z",
-    "pushed_at": "2026-06-29T22:13:32Z",
+    "updated_at": "2026-08-01T22:35:37Z",
+    "pushed_at": "2026-08-01T22:35:33Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "ritechoice23/taggable": {
@@ -8097,7 +8097,7 @@
     "url": "https://github.com/jeffersongoncalves/filament-umami",
     "description": "Filament plugin for Umami analytics — tracking script injection and Settings Page to manage Umami configuration directly from your Filament panel. Supports Filament v3, v4, and v5.",
     "stars": 4,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "analytics",
       "filament",
@@ -8597,8 +8597,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-05T14:27:20Z",
-    "updated_at": "2026-06-29T16:51:00Z",
-    "pushed_at": "2026-06-29T16:51:02Z",
+    "updated_at": "2026-08-01T22:05:25Z",
+    "pushed_at": "2026-08-01T22:05:22Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "jeffersongoncalves/laravel-created-by": {
@@ -8624,8 +8624,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-01T11:39:37Z",
-    "updated_at": "2026-06-23T11:52:12Z",
-    "pushed_at": "2026-06-23T11:52:07Z",
+    "updated_at": "2026-08-01T22:13:36Z",
+    "pushed_at": "2026-08-01T22:13:33Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "coding-wisely/taskallama": {
@@ -9796,8 +9796,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-02T02:01:09Z",
-    "updated_at": "2026-06-29T13:28:12Z",
-    "pushed_at": "2026-06-29T13:27:28Z",
+    "updated_at": "2026-08-01T22:21:11Z",
+    "pushed_at": "2026-08-01T22:21:08Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "iammikek/blueprint-helper": {
@@ -10268,8 +10268,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-06T11:03:29Z",
-    "updated_at": "2026-06-23T11:51:55Z",
-    "pushed_at": "2026-06-23T11:51:51Z",
+    "updated_at": "2026-08-01T22:18:36Z",
+    "pushed_at": "2026-08-01T22:18:33Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "plank/laravel-schema-events": {
@@ -12335,7 +12335,7 @@
     "url": "https://github.com/jeffersongoncalves/laravel-umami",
     "description": "Laravel package to integrate Umami analytics into Blade templates. Database-driven configuration via spatie/laravel-settings. Track pageviews and events with minimal setup.",
     "stars": 5,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "analytics",
       "blade",
@@ -12353,8 +12353,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-04T10:55:09Z",
-    "updated_at": "2026-07-09T01:52:46Z",
-    "pushed_at": "2026-06-29T10:31:24Z",
+    "updated_at": "2026-08-01T22:37:58Z",
+    "pushed_at": "2026-08-01T22:37:54Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "alhelwany/laravel-ecash": {
@@ -12956,8 +12956,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-02T00:28:42Z",
-    "updated_at": "2026-06-29T02:26:08Z",
-    "pushed_at": "2026-06-29T02:26:11Z",
+    "updated_at": "2026-08-01T22:28:29Z",
+    "pushed_at": "2026-08-01T22:28:25Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "vitorbizarra/laravel-gtag": {
@@ -25818,8 +25818,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T22:55:48Z",
-    "updated_at": "2026-07-30T16:20:41Z",
-    "pushed_at": "2026-08-01T03:06:25Z",
+    "updated_at": "2026-08-01T20:52:03Z",
+    "pushed_at": "2026-08-01T20:58:47Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "elegantengineeringtech/laravel-forex": {
@@ -31323,7 +31323,7 @@
     "url": "https://github.com/awcodes/filament-tiptap-editor",
     "description": "A Rich Text Editor plugin for Filament Forms.",
     "stars": 410,
-    "forks": 123,
+    "forks": 122,
     "topics": [
       "filament",
       "filament-plugin"
@@ -32400,7 +32400,7 @@
     "name": "dominion-solutions/filament-captcha",
     "url": "https://github.com/dominion-solutions/filament-captcha",
     "description": "CAPTCHA plugin for Filament",
-    "stars": 4,
+    "stars": 5,
     "forks": 2,
     "topics": [
       "filament-form",
@@ -32413,7 +32413,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-01-23T21:03:05Z",
-    "updated_at": "2026-07-27T01:50:41Z",
+    "updated_at": "2026-08-01T19:54:00Z",
     "pushed_at": "2026-07-27T01:58:00Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -37340,7 +37340,7 @@
     "license": null,
     "created_at": "2024-09-29T06:35:10Z",
     "updated_at": "2026-06-17T16:30:55Z",
-    "pushed_at": "2026-07-24T13:15:05Z",
+    "pushed_at": "2026-08-02T00:51:41Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "amabk/livewire-search-select": {
@@ -39029,8 +39029,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-02T02:29:29Z",
-    "updated_at": "2026-07-06T16:54:51Z",
-    "pushed_at": "2026-06-29T11:28:18Z",
+    "updated_at": "2026-08-01T22:40:17Z",
+    "pushed_at": "2026-08-01T22:40:14Z",
     "discovered_at": "2026-02-21T06:13:51.525Z"
   },
   "jeffersongoncalves/laravel-gtm": {
@@ -39055,8 +39055,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-02T01:21:32Z",
-    "updated_at": "2026-07-09T01:55:45Z",
-    "pushed_at": "2026-06-29T10:31:34Z",
+    "updated_at": "2026-08-01T22:16:06Z",
+    "pushed_at": "2026-08-01T22:16:03Z",
     "discovered_at": "2026-02-21T06:13:51.525Z"
   },
   "admin-intelligence-gmbh/laravel-log-shipper": {
@@ -39337,7 +39337,7 @@
     "license": "MIT",
     "created_at": "2026-02-21T04:15:08Z",
     "updated_at": "2026-07-07T16:14:12Z",
-    "pushed_at": "2026-07-07T16:14:14Z",
+    "pushed_at": "2026-08-01T19:06:13Z",
     "discovered_at": "2026-02-22T00:23:04.242Z"
   },
   "siren55/laravel-ai-memory": {
@@ -39550,8 +39550,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-05T17:03:21Z",
-    "updated_at": "2026-06-29T12:16:16Z",
-    "pushed_at": "2026-06-29T12:16:19Z",
+    "updated_at": "2026-08-01T22:33:08Z",
+    "pushed_at": "2026-08-01T22:33:04Z",
     "discovered_at": "2026-02-22T18:08:02.958Z"
   },
   "filastudio/laravel-vigil": {
@@ -39766,8 +39766,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-01T20:29:51Z",
-    "updated_at": "2026-07-09T01:50:57Z",
-    "pushed_at": "2026-06-29T22:13:23Z",
+    "updated_at": "2026-08-01T22:23:38Z",
+    "pushed_at": "2026-08-01T22:23:35Z",
     "discovered_at": "2026-02-23T06:25:59.063Z"
   },
   "jeffersongoncalves/laravel-mixpanel": {
@@ -39793,8 +39793,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-23T02:02:42Z",
-    "updated_at": "2026-06-29T10:31:10Z",
-    "pushed_at": "2026-06-29T10:31:13Z",
+    "updated_at": "2026-08-01T22:30:54Z",
+    "pushed_at": "2026-08-01T22:30:50Z",
     "discovered_at": "2026-02-23T06:25:59.063Z"
   },
   "tonsoo/task-tracker": {
@@ -40975,8 +40975,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-04-05T20:45:26Z",
-    "updated_at": "2026-08-01T17:38:55Z",
-    "pushed_at": "2026-08-01T17:38:50Z",
+    "updated_at": "2026-08-01T20:49:48Z",
+    "pushed_at": "2026-08-01T20:53:22Z",
     "discovered_at": "2026-02-25T06:25:56.681Z"
   },
   "oleksandr-pro927/laravel-open-source-project": {
@@ -42940,8 +42940,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-01T18:44:59Z",
-    "updated_at": "2026-07-27T01:31:17Z",
-    "pushed_at": "2026-07-27T01:31:14Z",
+    "updated_at": "2026-08-02T00:34:59Z",
+    "pushed_at": "2026-08-02T00:35:06Z",
     "discovered_at": "2026-03-02T00:22:52.446Z"
   },
   "jeffersongoncalves/helpdeskkitv3": {
@@ -43251,8 +43251,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-02T15:48:59Z",
-    "updated_at": "2026-06-22T13:57:28Z",
-    "pushed_at": "2026-06-22T13:57:30Z",
+    "updated_at": "2026-08-01T19:46:41Z",
+    "pushed_at": "2026-08-01T19:46:38Z",
     "discovered_at": "2026-03-02T18:15:15.514Z"
   },
   "asciisd/kyc-shuftipro": {
@@ -43573,8 +43573,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-03T01:46:01Z",
-    "updated_at": "2026-06-23T20:59:46Z",
-    "pushed_at": "2026-06-23T20:59:47Z",
+    "updated_at": "2026-08-01T19:47:05Z",
+    "pushed_at": "2026-08-01T19:47:02Z",
     "discovered_at": "2026-03-03T06:17:47.026Z"
   },
   "pringgojs/laravel-itop": {
@@ -53799,8 +53799,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-03-04T23:31:21Z",
-    "updated_at": "2026-08-01T18:39:40Z",
-    "pushed_at": "2026-08-01T18:39:23Z",
+    "updated_at": "2026-08-01T18:47:45Z",
+    "pushed_at": "2026-08-01T22:25:52Z",
     "discovered_at": "2026-03-23T00:26:24.496Z"
   },
   "marekmiklusek/laraboost": {
@@ -57337,7 +57337,7 @@
     "url": "https://github.com/NativePHP/nativephp.com",
     "description": "The NativePHP website",
     "stars": 335,
-    "forks": 113,
+    "forks": 114,
     "topics": [
       "laravel",
       "laravel-package",
@@ -78250,7 +78250,7 @@
     "license": "MIT",
     "created_at": "2025-05-20T07:16:12Z",
     "updated_at": "2026-06-22T02:41:24Z",
-    "pushed_at": "2026-06-22T02:41:20Z",
+    "pushed_at": "2026-08-01T23:33:16Z",
     "discovered_at": "2026-05-27T18:48:26.908Z"
   },
   "handrolled/transvel": {
@@ -86042,13 +86042,13 @@
     "url": "https://github.com/edulazaro/larascraper",
     "description": "Simple Laravel scraping package",
     "stars": 5,
-    "forks": 1,
+    "forks": 2,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-23T17:33:11Z",
-    "updated_at": "2026-08-01T14:10:32Z",
-    "pushed_at": "2026-07-31T11:28:58Z",
+    "updated_at": "2026-08-01T22:20:42Z",
+    "pushed_at": "2026-08-01T22:20:38Z",
     "discovered_at": "2026-06-20T07:21:52.158Z"
   },
   "andydefer/laravel-totp": {
@@ -88011,8 +88011,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-24T11:53:03Z",
-    "updated_at": "2026-07-14T15:41:19Z",
-    "pushed_at": "2026-06-24T11:54:08Z",
+    "updated_at": "2026-08-01T22:10:32Z",
+    "pushed_at": "2026-08-01T22:10:29Z",
     "discovered_at": "2026-06-24T12:46:21.704Z"
   },
   "hosseinhezami/laravel-permission-manager": {
@@ -92124,8 +92124,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-01T23:43:13Z",
-    "updated_at": "2026-07-12T18:33:17Z",
-    "pushed_at": "2026-07-12T18:32:50Z",
+    "updated_at": "2026-08-01T20:36:55Z",
+    "pushed_at": "2026-08-01T20:36:52Z",
     "discovered_at": "2026-07-02T00:44:05.589Z"
   },
   "laviodev/eam-mes-package": {
@@ -93599,8 +93599,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-06T22:54:56Z",
-    "updated_at": "2026-08-01T16:39:17Z",
-    "pushed_at": "2026-08-01T16:39:13Z",
+    "updated_at": "2026-08-01T23:20:16Z",
+    "pushed_at": "2026-08-01T23:20:54Z",
     "discovered_at": "2026-07-07T01:06:27.813Z"
   },
   "veeqtoh/laravel-active-email": {
@@ -94938,7 +94938,7 @@
     "name": "dominion-solutions/laravel-mysqlite",
     "url": "https://github.com/dominion-solutions/laravel-mysqlite",
     "description": "A Laravel Service Provider that injects select MySQL functions into SQLite",
-    "stars": 7,
+    "stars": 8,
     "forks": 6,
     "topics": [
       "composer",
@@ -94962,7 +94962,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2019-01-22T21:21:52Z",
-    "updated_at": "2026-07-16T18:45:53Z",
+    "updated_at": "2026-08-01T19:54:25Z",
     "pushed_at": "2026-07-16T18:45:42Z",
     "discovered_at": "2026-07-10T18:52:35.462Z"
   },
@@ -95037,8 +95037,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-04T03:22:34Z",
-    "updated_at": "2026-08-01T02:01:47Z",
-    "pushed_at": "2026-08-01T02:01:45Z",
+    "updated_at": "2026-08-02T00:41:33Z",
+    "pushed_at": "2026-08-02T00:41:31Z",
     "discovered_at": "2026-07-11T00:54:26.813Z"
   },
   "d1360l/laravel-role-manager": {
@@ -95237,7 +95237,7 @@
     "name": "zaber-dev/laravel-quota",
     "url": "https://github.com/zaber-dev/laravel-quota",
     "description": "Application-level quota management for Laravel with calendar periods, Eloquent integration, middleware, and multiple storage backends.",
-    "stars": 104,
+    "stars": 105,
     "forks": 4,
     "topics": [
       "calendar-periods",
@@ -95260,7 +95260,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-11T15:19:46Z",
-    "updated_at": "2026-08-01T15:03:16Z",
+    "updated_at": "2026-08-01T23:06:31Z",
     "pushed_at": "2026-07-15T16:29:16Z",
     "discovered_at": "2026-07-11T18:38:50.629Z"
   },
@@ -95483,7 +95483,7 @@
     "name": "luilliarcec/laravel-username-generator",
     "url": "https://github.com/luilliarcec/laravel-username-generator",
     "description": "Laravel Username Generator is a package that allows the versatile generation of user names, has a simple integration with Laravel.",
-    "stars": 10,
+    "stars": 11,
     "forks": 3,
     "topics": [
       "customizable",
@@ -95495,7 +95495,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2020-01-26T12:20:28Z",
-    "updated_at": "2026-07-12T10:56:52Z",
+    "updated_at": "2026-08-01T21:51:35Z",
     "pushed_at": "2026-07-12T11:01:36Z",
     "discovered_at": "2026-07-12T12:40:01.749Z"
   },
@@ -95814,7 +95814,7 @@
     "name": "kamranata/queue-sql",
     "url": "https://github.com/kamranata/queue-sql",
     "description": "Queue any Laravel write query (delete/update/insert) across parallel batched jobs.",
-    "stars": 23,
+    "stars": 24,
     "forks": 1,
     "topics": [
       "batch",
@@ -95830,7 +95830,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-12T22:19:08Z",
-    "updated_at": "2026-08-01T09:08:37Z",
+    "updated_at": "2026-08-01T20:26:25Z",
     "pushed_at": "2026-07-15T08:56:32Z",
     "discovered_at": "2026-07-13T00:59:25.563Z"
   },
@@ -98595,8 +98595,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-01T00:29:58Z",
-    "updated_at": "2026-08-01T16:40:33Z",
-    "pushed_at": "2026-08-01T16:35:44Z",
+    "updated_at": "2026-08-01T21:51:48Z",
+    "pushed_at": "2026-08-01T21:51:52Z",
     "discovered_at": "2026-07-21T07:15:31.485Z"
   },
   "trust-medical/livewire-same-origin-embed": {
@@ -99017,8 +99017,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-21T19:19:16Z",
-    "updated_at": "2026-08-01T15:39:51Z",
-    "pushed_at": "2026-08-01T15:42:50Z",
+    "updated_at": "2026-08-01T23:10:36Z",
+    "pushed_at": "2026-08-01T23:10:32Z",
     "discovered_at": "2026-07-22T00:54:40.448Z"
   },
   "bambamboole/laravel-oidc-client": {
@@ -99031,8 +99031,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-12T15:27:05Z",
-    "updated_at": "2026-07-31T22:29:41Z",
-    "pushed_at": "2026-08-01T15:42:43Z",
+    "updated_at": "2026-08-01T23:10:19Z",
+    "pushed_at": "2026-08-01T23:10:15Z",
     "discovered_at": "2026-07-22T00:54:40.448Z"
   },
   "charlieuki/receipt-printer-example": {
@@ -100616,8 +100616,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-26T01:56:50Z",
-    "updated_at": "2026-07-28T06:23:07Z",
-    "pushed_at": "2026-07-28T06:22:53Z",
+    "updated_at": "2026-08-01T23:20:17Z",
+    "pushed_at": "2026-08-01T23:20:56Z",
     "discovered_at": "2026-07-26T07:14:58.584Z"
   },
   "eloquentworks/persona": {
@@ -100919,7 +100919,7 @@
     "license": "MIT",
     "created_at": "2026-07-26T18:43:25Z",
     "updated_at": "2026-08-01T03:00:27Z",
-    "pushed_at": "2026-08-01T18:16:00Z",
+    "pushed_at": "2026-08-02T00:38:56Z",
     "discovered_at": "2026-07-27T18:51:49.181Z"
   },
   "alnoman141/laravel-idempotency": {
@@ -101041,8 +101041,8 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2026-05-24T23:28:16Z",
-    "updated_at": "2026-08-01T18:35:59Z",
-    "pushed_at": "2026-08-01T18:35:53Z",
+    "updated_at": "2026-08-02T00:00:03Z",
+    "pushed_at": "2026-08-02T00:46:11Z",
     "discovered_at": "2026-07-27T18:51:49.187Z"
   },
   "shiwang-biz/cpanel-laravel-sdk": {
@@ -102070,8 +102070,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-28T03:03:31Z",
-    "updated_at": "2026-07-30T14:17:17Z",
-    "pushed_at": "2026-07-30T14:19:12Z",
+    "updated_at": "2026-08-02T00:41:01Z",
+    "pushed_at": "2026-08-02T00:40:57Z",
     "discovered_at": "2026-07-30T18:52:10.649Z"
   },
   "mnapoli/dotlock": {
@@ -102620,13 +102620,13 @@
     "name": "anggagewor/personal",
     "url": "https://github.com/anggagewor/personal",
     "description": "A personal dashboard that doubles as a module incubator—where reusable Laravel modules are designed, battle-tested, and refined before being extracted into standalone packages.",
-    "stars": 3,
+    "stars": 4,
     "forks": 1,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-24T08:27:21Z",
-    "updated_at": "2026-08-01T09:09:58Z",
+    "updated_at": "2026-08-01T22:56:30Z",
     "pushed_at": "2026-08-01T09:09:45Z",
     "discovered_at": "2026-08-01T07:12:47.157Z"
   },
@@ -102641,7 +102641,7 @@
     "license": null,
     "created_at": "2026-08-01T03:28:19Z",
     "updated_at": "2026-08-01T03:29:14Z",
-    "pushed_at": "2026-08-01T12:00:17Z",
+    "pushed_at": "2026-08-01T22:47:48Z",
     "discovered_at": "2026-08-01T07:12:47.157Z"
   },
   "calim2020/backup-ui": {
@@ -102758,5 +102758,50 @@
     "updated_at": "2026-08-01T17:08:43Z",
     "pushed_at": "2026-08-01T17:08:34Z",
     "discovered_at": "2026-08-01T18:41:12.405Z"
+  },
+  "iccm-americas/conferencetoolshost": {
+    "name": "ICCM-Americas/ConferenceToolsHost",
+    "url": "https://github.com/ICCM-Americas/ConferenceToolsHost",
+    "description": "Laravel host application for the conference-tools packages — users, authentication (passwords, passkeys, MFA), profiles and admin, with bof-scheduler, branding and registration installed.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-08-01T23:46:58Z",
+    "updated_at": "2026-08-01T23:47:06Z",
+    "pushed_at": "2026-08-01T23:47:01Z",
+    "discovered_at": "2026-08-02T00:59:48.085Z"
+  },
+  "iccm-americas/branding": {
+    "name": "ICCM-Americas/branding",
+    "url": "https://github.com/ICCM-Americas/branding",
+    "description": "Shared branding for the conference-tools Laravel packages — the BrandingProvider contract plus the host-side branding management UI (site name, color themes, logo, PWA colors).",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-08-01T23:46:34Z",
+    "updated_at": "2026-08-01T23:46:40Z",
+    "pushed_at": "2026-08-01T23:46:37Z",
+    "discovered_at": "2026-08-02T00:59:48.085Z"
+  },
+  "bambamboole/laravel-oidc": {
+    "name": "bambamboole/laravel-oidc",
+    "url": "https://github.com/bambamboole/laravel-oidc",
+    "description": "A complete OIDC server as a laravel package",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "laravel",
+      "oidc"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-07-11T16:52:50Z",
+    "updated_at": "2026-08-01T23:10:07Z",
+    "pushed_at": "2026-08-02T00:38:59Z",
+    "discovered_at": "2026-08-02T00:59:48.085Z"
   }
 }

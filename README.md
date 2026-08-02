@@ -2,20 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5566  
-**Last updated:** 2026-08-01T18:41:12.431Z
+**Total packages tracked:** 5569  
+**Last updated:** 2026-08-02T00:59:48.117Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ICCM-Americas/ConferenceToolsHost](https://github.com/ICCM-Americas/ConferenceToolsHost) | 0 | Laravel host application for the conference-tools packages — users, authenticati... |
+| [ICCM-Americas/branding](https://github.com/ICCM-Americas/branding) | 0 | Shared branding for the conference-tools Laravel packages — the BrandingProvider... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | A complete OIDC server as a laravel package |
 | [jeffersongoncalves/filament-cms](https://github.com/jeffersongoncalves/filament-cms) | 1 | Filament plugin bundling the full Laravel CMS ecosystem (pages, posts, categorie... |
 | [SaulPane/backup-ui](https://github.com/SaulPane/backup-ui) | 0 | Laravel Backuo UI for Spatie Laravel Backup package |
 | [fathallah7/paymob-bagisto-package](https://github.com/fathallah7/paymob-bagisto-package) | 0 | Laravel Bagisto 2.x Paymob payment package with refund support. |
 | [siko001/atx-ticket-event-wordpress](https://github.com/siko001/atx-ticket-event-wordpress) | 0 | WordPress Ticketing plugin to connect with Laravel ticketing package for Filamen... |
 | [buzkall/laravel-ticktick](https://github.com/buzkall/laravel-ticktick) | 0 | Laravel package to connect to TickTick API v1 |
 | [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | Utility package for Laravel including Transformable proxies and helpers |
-| [anggagewor/personal](https://github.com/anggagewor/personal) | 3 | A personal dashboard that doubles as a module incubator—where reusable Laravel m... |
+| [anggagewor/personal](https://github.com/anggagewor/personal) | 4 | A personal dashboard that doubles as a module incubator—where reusable Laravel m... |
 | [laraditz/razorpay](https://github.com/laraditz/razorpay) | 0 | Laravel package for interacting with Razorpay API. |
 | [Calim2020/backup-ui](https://github.com/Calim2020/backup-ui) | 0 | Laravel Backup de Spatie para curso Laravel y package |
 | [aniftyco/kubit](https://github.com/aniftyco/kubit) | 32 | A Tailwind CSS UI library with two implementations of one design system — Blade/... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [bamboguirassy/laravel-deploy-supervisor](https://github.com/bamboguirassy/laravel-deploy-supervisor) | 0 | Package de déploiement Laravel + multi-env + supervisor realtime + command |
 | [clcarver/queue-watcher-laravel](https://github.com/clcarver/queue-watcher-laravel) | 0 | Laravel integration for the queue-watcher Go package |
 | [jeddsaliba/azure-blob-url-generator](https://github.com/jeddsaliba/azure-blob-url-generator) | 0 | A Laravel package that provides Azure Blob Storage URL generation with SAS (Shar... |
-| [kwhorne/Felagi](https://github.com/kwhorne/Felagi) | 0 | Humans and coding agents on one board. Assign an issue — an agent claims it, run... |
-| [larapkgs/validation](https://github.com/larapkgs/validation) | 0 | An immutability-first, strongly typed validation package for Laravel. |
-| [avto-dev/app-version-laravel](https://github.com/avto-dev/app-version-laravel) | 25 | Laravel application versioning |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 9 | 2026-08-01 | A Laravel-based web application that tracks, analyzes, and p... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-01 | Local-first personal finance dashboard that resolves cross-a... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-01 | Laravel-based API for storing sensor data from distributed n... |
-| [SaulPane/backup-ui](https://github.com/SaulPane/backup-ui) | 0 | 2026-08-01 | Laravel Backuo UI for Spatie Laravel Backup package |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-01 | Laravel package for HubSpot CRM: every object type, directio... |
-| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 15 | 2026-08-01 | Laravel + Filament 4 CMS foundation: visual page builder, in... |
-| [edulazaro/laratext](https://github.com/edulazaro/laratext) | 77 | 2026-08-01 | A Laravel package to easily handle translated texts and tran... |
-| [academe/laravel-journal-window-cleaner-demo](https://github.com/academe/laravel-journal-window-cleaner-demo) | 0 | 2026-08-01 | Demo window cleaner app for package academe/laravel-journal |
-| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 6 | 2026-08-01 | A Laravel package that adds NATS messaging support to Larave... |
-| [fuelviews/laravel-forms](https://github.com/fuelviews/laravel-forms) | 0 | 2026-08-01 | Forms Package |
-| [jeffersongoncalves/filament-cms](https://github.com/jeffersongoncalves/filament-cms) | 1 | 2026-08-01 | Filament plugin bundling the full Laravel CMS ecosystem (pag... |
-| [mozex/laravel-modules](https://github.com/mozex/laravel-modules) | 6 | 2026-08-01 | Laravel package that auto-discovers and registers module ass... |
-| [fuelviews/laravel-redirect-if-not-found](https://github.com/fuelviews/laravel-redirect-if-not-found) | 0 | 2026-08-01 | Laravel redirect if not found package |
-| [edulazaro/laralang](https://github.com/edulazaro/laralang) | 2 | 2026-08-01 | A simple but powerful localization package for Laravel |
+| [AbdulMannanShihab/CMS-FilamentPHP](https://github.com/AbdulMannanShihab/CMS-FilamentPHP) | 2 | 2026-08-02 | Responsive Laravel CMS (Livewire + FilamentPHP)  A clean, re... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-02 | Local-first personal finance dashboard that resolves cross-a... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-02 | Open-source, self-hosted video processing & delivery engine ... |
+| [ahmedsaed27/laravel-ddd](https://github.com/ahmedsaed27/laravel-ddd) | 0 | 2026-08-02 | Lightweight DDD and modular architecture tooling for Laravel... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-02 | A complete OIDC server as a laravel package |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-02 | Laravel package for HubSpot CRM: every object type, directio... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-08-02 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [ICCM-Americas/ConferenceToolsHost](https://github.com/ICCM-Americas/ConferenceToolsHost) | 0 | 2026-08-01 | Laravel host application for the conference-tools packages —... |
+| [ICCM-Americas/branding](https://github.com/ICCM-Americas/branding) | 0 | 2026-08-01 | Shared branding for the conference-tools Laravel packages — ... |
+| [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | 2026-08-01 | The official reference theme for Bagisto Visual — lightweigh... |
+| [Particle-Academy/laravel-jobs](https://github.com/Particle-Academy/laravel-jobs) | 0 | 2026-08-01 | Laravel package for job boards - employer job postings, publ... |
 | [Particle-Academy/laravel-courses](https://github.com/Particle-Academy/laravel-courses) | 0 | 2026-08-01 | Laravel package for selling & serving curriculums, courses, ... |
-| [jeffersongoncalves/laravel-erp](https://github.com/jeffersongoncalves/laravel-erp) | 3 | 2026-08-01 | Monorepo (source-of-truth) for the Laravel ERP domain packag... |
-| [jeffersongoncalves/laravel-cms](https://github.com/jeffersongoncalves/laravel-cms) | 2 | 2026-08-01 | Laravel CMS (pages, posts, categories, tags, comments, media... |
-| [brunocfalcao/blade-feather-icons](https://github.com/brunocfalcao/blade-feather-icons) | 36 | 2026-08-01 | A package to easily make use of Feather Icons in your Larave... |
-| [fuelviews/laravel-robots-txt](https://github.com/fuelviews/laravel-robots-txt) | 1 | 2026-08-01 | Robots Txt Package |
 | [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-08-01 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
+| [bambamboole/laravel-oidc-client](https://github.com/bambamboole/laravel-oidc-client) | 0 | 2026-08-01 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC r... |
+| [laraditz/razorpay](https://github.com/laraditz/razorpay) | 0 | 2026-08-01 | Laravel package for interacting with Razorpay API. |
+| [jeffersongoncalves/laravel-pixel](https://github.com/jeffersongoncalves/laravel-pixel) | 3 | 2026-08-01 | Laravel package to integrate Meta (Facebook) Pixel with dyna... |
+| [jeffersongoncalves/laravel-umami](https://github.com/jeffersongoncalves/laravel-umami) | 5 | 2026-08-01 | Laravel package to integrate Umami analytics into Blade temp... |
+| [jeffersongoncalves/laravel-fake-cartoons](https://github.com/jeffersongoncalves/laravel-fake-cartoons) | 6 | 2026-08-01 | This Laravel package provides a Faker provider to generate f... |
+| [jeffersongoncalves/laravel-matomo](https://github.com/jeffersongoncalves/laravel-matomo) | 3 | 2026-08-01 | A Laravel package that integrates Matomo Analytics tracking ... |
+| [jeffersongoncalves/laravel-mixpanel](https://github.com/jeffersongoncalves/laravel-mixpanel) | 1 | 2026-08-01 | Laravel package to seamlessly integrate Mixpanel JavaScript ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-02T00:59 | 3 | 1720 | 5569 |
 | 2026-08-01T18:41 | 3 | 1723 | 5566 |
 | 2026-08-01T12:40 | 3 | 1724 | 5563 |
 | 2026-08-01T07:12 | 3 | 1722 | 5560 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-31T07:20 | 1 | 1726 | 5540 |
 | 2026-07-31T00:58 | 7 | 1719 | 5539 |
 | 2026-07-30T18:52 | 12 | 1714 | 5532 |
-| 2026-07-30T12:55 | 6 | 1720 | 5520 |
 
 ---
 

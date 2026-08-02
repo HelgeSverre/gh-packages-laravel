@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5569  
-**Last updated:** 2026-08-02T00:59:48.117Z
+**Total packages tracked:** 5573  
+**Last updated:** 2026-08-02T07:14:24.541Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [meeeet-dev/laravel-cashier-stripe-connect](https://github.com/meeeet-dev/laravel-cashier-stripe-connect) | 1 | Adds Stripe Connect functionality to Laravel's main billing package, Cashier. |
+| [flavio2209/i-educar-reports-html-package](https://github.com/flavio2209/i-educar-reports-html-package) | 0 | Pacote de Relatórios e Documentos HTML/PDF para o i-Educar — substitui Jasper/Ja... |
+| [refatbd/game-account-lookup](https://github.com/refatbd/game-account-lookup) | 0 | A framework-independent PHP base package for building **game player-ID / UID to ... |
+| [meeeet-dev/laravel-shiprocket](https://github.com/meeeet-dev/laravel-shiprocket) | 1 | Laravel Shiprocket Package |
 | [ICCM-Americas/ConferenceToolsHost](https://github.com/ICCM-Americas/ConferenceToolsHost) | 0 | Laravel host application for the conference-tools packages — users, authenticati... |
 | [ICCM-Americas/branding](https://github.com/ICCM-Americas/branding) | 0 | Shared branding for the conference-tools Laravel packages — the BrandingProvider... |
 | [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | A complete OIDC server as a laravel package |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ahmadrezaei/laravel-real-client-ip](https://github.com/ahmadrezaei/laravel-real-client-ip) | 0 | Laravel middleware that restores the real client IP behind a CDN, load balancer ... |
 | [ErrorLogger-SDK/Laravel-SDK](https://github.com/ErrorLogger-SDK/Laravel-SDK) | 1 | Laravel 7.x package for logging errors |
 | [keshavmansure/laravel-chronicle](https://github.com/keshavmansure/laravel-chronicle) | 0 | Lightweight Laravel package to track Eloquent model changes automatically. |
-| [Aeronk/laravel-smilepay](https://github.com/Aeronk/laravel-smilepay) | 0 | ZB Smile and Pay Laravel package |
-| [bamboguirassy/laravel-deploy-supervisor](https://github.com/bamboguirassy/laravel-deploy-supervisor) | 0 | Package de déploiement Laravel + multi-env + supervisor realtime + command |
-| [clcarver/queue-watcher-laravel](https://github.com/clcarver/queue-watcher-laravel) | 0 | Laravel integration for the queue-watcher Go package |
-| [jeddsaliba/azure-blob-url-generator](https://github.com/jeddsaliba/azure-blob-url-generator) | 0 | A Laravel package that provides Azure Blob Storage URL generation with SAS (Shar... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AbdulMannanShihab/CMS-FilamentPHP](https://github.com/AbdulMannanShihab/CMS-FilamentPHP) | 2 | 2026-08-02 | Responsive Laravel CMS (Livewire + FilamentPHP)  A clean, re... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-02 | Local-first personal finance dashboard that resolves cross-a... |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-02 | Open-source, self-hosted video processing & delivery engine ... |
-| [ahmedsaed27/laravel-ddd](https://github.com/ahmedsaed27/laravel-ddd) | 0 | 2026-08-02 | Lightweight DDD and modular architecture tooling for Laravel... |
-| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-02 | A complete OIDC server as a laravel package |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-08-02 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
+| [Thiritin/meteric](https://github.com/Thiritin/meteric) | 1 | 2026-08-02 | Advanced billing engine for Laravel: subscriptions, proratio... |
 | [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-02 | Laravel package for HubSpot CRM: every object type, directio... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 2 | 2026-08-02 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [ICCM-Americas/ConferenceToolsHost](https://github.com/ICCM-Americas/ConferenceToolsHost) | 0 | 2026-08-01 | Laravel host application for the conference-tools packages —... |
-| [ICCM-Americas/branding](https://github.com/ICCM-Americas/branding) | 0 | 2026-08-01 | Shared branding for the conference-tools Laravel packages — ... |
-| [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | 2026-08-01 | The official reference theme for Bagisto Visual — lightweigh... |
-| [Particle-Academy/laravel-jobs](https://github.com/Particle-Academy/laravel-jobs) | 0 | 2026-08-01 | Laravel package for job boards - employer job postings, publ... |
-| [Particle-Academy/laravel-courses](https://github.com/Particle-Academy/laravel-courses) | 0 | 2026-08-01 | Laravel package for selling & serving curriculums, courses, ... |
-| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-08-01 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
-| [bambamboole/laravel-oidc-client](https://github.com/bambamboole/laravel-oidc-client) | 0 | 2026-08-01 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC r... |
-| [laraditz/razorpay](https://github.com/laraditz/razorpay) | 0 | 2026-08-01 | Laravel package for interacting with Razorpay API. |
-| [jeffersongoncalves/laravel-pixel](https://github.com/jeffersongoncalves/laravel-pixel) | 3 | 2026-08-01 | Laravel package to integrate Meta (Facebook) Pixel with dyna... |
-| [jeffersongoncalves/laravel-umami](https://github.com/jeffersongoncalves/laravel-umami) | 5 | 2026-08-01 | Laravel package to integrate Umami analytics into Blade temp... |
-| [jeffersongoncalves/laravel-fake-cartoons](https://github.com/jeffersongoncalves/laravel-fake-cartoons) | 6 | 2026-08-01 | This Laravel package provides a Faker provider to generate f... |
-| [jeffersongoncalves/laravel-matomo](https://github.com/jeffersongoncalves/laravel-matomo) | 3 | 2026-08-01 | A Laravel package that integrates Matomo Analytics tracking ... |
-| [jeffersongoncalves/laravel-mixpanel](https://github.com/jeffersongoncalves/laravel-mixpanel) | 1 | 2026-08-01 | Laravel package to seamlessly integrate Mixpanel JavaScript ... |
+| [meeeet-dev/laravel-shiprocket](https://github.com/meeeet-dev/laravel-shiprocket) | 1 | 2026-08-02 | Laravel Shiprocket Package |
+| [meeeet-dev/laravel-cashier-stripe-connect](https://github.com/meeeet-dev/laravel-cashier-stripe-connect) | 1 | 2026-08-02 | Adds Stripe Connect functionality to Laravel's main billing ... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-02 | Laravel USPS Package to integrate USPS Address |
+| [zoolok/laravel-ip-blocker](https://github.com/zoolok/laravel-ip-blocker) | 1 | 2026-08-02 | Laravel package for blocking suspicious IP addresses (anti-s... |
+| [EloquentWorks/RatingKit](https://github.com/EloquentWorks/RatingKit) | 1 | 2026-08-02 | A flexible rating and ranking package for Laravel with Elo, ... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-02 | Provides email verification on the go. |
+| [saade/filament-autograph](https://github.com/saade/filament-autograph) | 82 | 2026-08-02 | A Filament package to collect signatures. |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-08-02 | Simple package for adding directives to show/hide content fr... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-08-02 | Laravel package providing OTP (One-Time Password) management... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-08-02 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-08-02 | Laravel package providing polymorphic reactions (like, love,... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-08-02 | Laravel TOTP package for two-factor authentication with poly... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-02 | Utility package for Laravel including Transformable proxies ... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 78 | 2026-08-02 | A live database structure viewer for Laravel that renders yo... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-02 | Laravel-based API for storing sensor data from distributed n... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-08-02 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [Garalulu/tourney-method](https://github.com/Garalulu/tourney-method) | 0 | 2026-08-02 | Open-source osu! tournament discovery, history, and communit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-02T07:14 | 4 | 1720 | 5573 |
 | 2026-08-02T00:59 | 3 | 1720 | 5569 |
 | 2026-08-01T18:41 | 3 | 1723 | 5566 |
 | 2026-08-01T12:40 | 3 | 1724 | 5563 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-07-31T13:02 | 10 | 1721 | 5549 |
 | 2026-07-31T07:20 | 1 | 1726 | 5540 |
 | 2026-07-31T00:58 | 7 | 1719 | 5539 |
-| 2026-07-30T18:52 | 12 | 1714 | 5532 |
 
 ---
 

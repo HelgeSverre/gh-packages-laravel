@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5589  
-**Last updated:** 2026-08-03T07:32:54.569Z
+**Total packages tracked:** 5594  
+**Last updated:** 2026-08-03T13:22:26.687Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [KoassiAkakpo/filament-rail](https://github.com/KoassiAkakpo/filament-rail) | 0 | A layout theme for Filament v5 panels, built around a full-height sidebar rail. |
+| [PierreCrealy/laravel-package-skeleton](https://github.com/PierreCrealy/laravel-package-skeleton) | 0 |  |
+| [IlhamHattaManggala/laravel-manifest](https://github.com/IlhamHattaManggala/laravel-manifest) | 0 | Production-ready, schema-driven, UI-agnostic configuration platform and manifest... |
+| [Bouda-Bissari/laravel-make-pattern](https://github.com/Bouda-Bissari/laravel-make-pattern) | 0 | Laravel package that generates a full CRUD scaffold (Model, Repository, Service,... |
+| [cbytedigital/laravel-bi-data-export](https://github.com/cbytedigital/laravel-bi-data-export) | 2 | Laravel package for easily and periodically exporting data for BI purposes. Buil... |
 | [EloquentWorks/Passage](https://github.com/EloquentWorks/Passage) | 1 | Laravel Passage provides feature-rich onboarding, checklist, journey, progressio... |
 | [avto-dev/static-references-laravel](https://github.com/avto-dev/static-references-laravel) | 1 | Static references for Laravel applications |
 | [Codie-Shannon/FamilyArchive](https://github.com/Codie-Shannon/FamilyArchive) | 0 | Privacy-first, preservation-grade family history platform with immutable origina... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Farshad-Hasanpour/plantodo](https://github.com/Farshad-Hasanpour/plantodo) | 0 | Yet another todo list powered by Tailwind, Alpine.js, Livewire, and Laravel aka ... |
 | [AbdullahGhanem/friendship](https://github.com/AbdullahGhanem/friendship) | 18 | A polymorphic friendship system for Laravel — friend requests, blocking, mutual ... |
 | [myscode/laravel-any-trusted-proxies](https://github.com/myscode/laravel-any-trusted-proxies) | 0 | A Laravel package for dynamic loading of trusted proxy IPs from multiple CDN and... |
-| [mdiqbalhossan/laravel-payments](https://github.com/mdiqbalhossan/laravel-payments) | 3 | A unified payment gateway package for Laravel supporting 21+ payment providers |
-| [meeeet-dev/laravel-cashier-stripe-connect](https://github.com/meeeet-dev/laravel-cashier-stripe-connect) | 1 | Adds Stripe Connect functionality to Laravel's main billing package, Cashier. |
-| [flavio2209/i-educar-reports-html-package](https://github.com/flavio2209/i-educar-reports-html-package) | 0 | Pacote de Relatórios e Documentos HTML/PDF para o i-Educar — substitui Jasper/Ja... |
-| [refatbd/game-account-lookup](https://github.com/refatbd/game-account-lookup) | 0 | A framework-independent PHP base package for building **game player-ID / UID to ... |
-| [meeeet-dev/laravel-shiprocket](https://github.com/meeeet-dev/laravel-shiprocket) | 1 | Laravel Shiprocket Package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mrlibelula/vintage-consoles](https://github.com/mrlibelula/vintage-consoles) | 0 | 2026-08-03 | Browser-based retro gaming platform. Play NES, SNES, Arcade,... |
-| [avto-dev/static-references-laravel](https://github.com/avto-dev/static-references-laravel) | 1 | 2026-08-03 | Static references for Laravel applications |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-03 | Provides email verification on the go. |
-| [kai-init/laravel-normcache](https://github.com/kai-init/laravel-normcache) | 102 | 2026-08-03 | A normalized Redis cache for Laravel Eloquent. Self-invalida... |
-| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-08-03 | PHP and Laravel Cursor rules — coding standards, testing, an... |
-| [smart-dato/desk365-sdk](https://github.com/smart-dato/desk365-sdk) | 0 | 2026-08-03 | Desk365 Laravel SDK - A Laravel package to interact with the... |
-| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-08-03 | A Laravel package that crawls websites to detect broken link... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-03 | Laravel USPS Package to integrate USPS Address |
-| [laraditz/razorpay](https://github.com/laraditz/razorpay) | 0 | 2026-08-03 | Laravel package for interacting with Razorpay API. |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 449 | 2026-08-03 | Open Source Laravel CRM Package |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 9 | 2026-08-03 | A Laravel-based web application that tracks, analyzes, and p... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-08-03 | Main Webampp laravel package for GEOBOX 2.0 |
+| [Visanduma/laravel-invoice](https://github.com/Visanduma/laravel-invoice) | 1 | 2026-08-03 | Simple Invoice package with own database |
+| [Visanduma/laravel-lite-subscription](https://github.com/Visanduma/laravel-lite-subscription) | 0 | 2026-08-03 | The simple subscription management package with built in pri... |
+| [lahirulhr/exchange-rates-lk](https://github.com/lahirulhr/exchange-rates-lk) | 0 | 2026-08-03 | Simple Laravel package for calculate currency exchange rates... |
+| [KroderDev/laravel-microservice-core](https://github.com/KroderDev/laravel-microservice-core) | 5 | 2026-08-03 | A Laravel package that provides the infrastructure to build ... |
+| [albertoarena/codemetry](https://github.com/albertoarena/codemetry) | 0 | 2026-08-03 | Laravel-first Composer package that analyses a Git repositor... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-08-03 | Laravel package for Firebase Cloud Messaging notifications i... |
 | [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-03 | Laravel package providing polymorphic image management with ... |
-| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-08-03 |  |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-08-03 | The Moox Project - Packages for Filament and Laravel |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-08-03 | Laravel package for Indonesia regions selection with postal ... |
-| [KriawqZero/SISCO-IFMS](https://github.com/KriawqZero/SISCO-IFMS) | 2 | 2026-08-03 | Sistema em Laravel para gestão de carga horária complementar... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-08-03 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-03 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-08-03 | A Laravel package that provides a Cookies consent floating w... |
+| [PierreCrealy/laravel-package-skeleton](https://github.com/PierreCrealy/laravel-package-skeleton) | 0 | 2026-08-03 |  |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-03 | Local-first personal finance dashboard that resolves cross-a... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 56 | 2026-08-03 | Open-source AI agent orchestration platform — self-hosted mi... |
 | [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 81 | 2026-08-03 | A live database structure viewer for Laravel that renders yo... |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-08-03 | Laravel Dusk Testing Helper for Package Development |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-08-03 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [foxws/laravel-pwa](https://github.com/foxws/laravel-pwa) | 1 | 2026-08-03 | PWA manifest and Blade directives for Laravel. |
+| [xentral/laravel-api](https://github.com/xentral/laravel-api) | 5 | 2026-08-03 |  A laravel package which contains a sophisticated API workfl... |
+| [devuni-cz/notifier-package](https://github.com/devuni-cz/notifier-package) | 2 | 2026-08-03 | A Laravel 12 package for automated database backups and noti... |
+| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-08-03 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [IlhamHattaManggala/laravel-manifest](https://github.com/IlhamHattaManggala/laravel-manifest) | 0 | 2026-08-03 | Production-ready, schema-driven, UI-agnostic configuration p... |
+| [kai-init/laravel-normcache](https://github.com/kai-init/laravel-normcache) | 102 | 2026-08-03 | A normalized Redis cache for Laravel Eloquent. Self-invalida... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-03T13:22 | 5 | 1718 | 5594 |
 | 2026-08-03T07:32 | 2 | 1723 | 5589 |
 | 2026-08-03T00:59 | 4 | 1720 | 5587 |
 | 2026-08-02T18:41 | 6 | 1718 | 5583 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-01T18:41 | 3 | 1723 | 5566 |
 | 2026-08-01T12:40 | 3 | 1724 | 5563 |
 | 2026-08-01T07:12 | 3 | 1722 | 5560 |
-| 2026-08-01T00:59 | 4 | 1721 | 5557 |
 
 ---
 

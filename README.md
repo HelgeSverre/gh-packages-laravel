@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5613  
-**Last updated:** 2026-08-04T13:03:21.537Z
+**Total packages tracked:** 5614  
+**Last updated:** 2026-08-04T18:55:20.455Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ifthenpay/laravel](https://github.com/ifthenpay/laravel) | 0 | Ifthenpay's package for laravel. |
 | [NextDevIT/ndit-license-client](https://github.com/NextDevIT/ndit-license-client) | 0 | Laravel licence client for self-hosted NextDevIT products: activation, Ed25519 v... |
 | [reynevan/shopen](https://github.com/reynevan/shopen) | 0 | Laravel e-commerce package |
 | [libin-k-k/modular](https://github.com/libin-k-k/modular) | 0 | Laravel modular architecture package for enterprise PHP applications with automa... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [alexhackney/lara-nimble](https://github.com/alexhackney/lara-nimble) | 3 | Laravel Package For Interacting with Nimble Streamer |
 | [jeylabs/laravel-audit-log](https://github.com/jeylabs/laravel-audit-log) | 6 | The jeylabs/laravel-audit-log package provides easy to use functions to log the ... |
 | [vigstudio/vgcomments](https://github.com/vigstudio/vgcomments) | 9 | Comments package for applications. Using this package, you can create and associ... |
-| [divoto/cairn](https://github.com/divoto/cairn) | 0 | Privacy-first, self-hosted web analytics for Laravel. A single Composer package ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-04 | Laravel package providing polymorphic image management with ... |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-04 | Laravel package for HubSpot CRM: every object type, directio... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-08-04 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 13 | 2026-08-04 | Source code for the new pokemon3d.net website |
-| [divoto/cairn](https://github.com/divoto/cairn) | 0 | 2026-08-04 | Privacy-first, self-hosted web analytics for Laravel. A sing... |
-| [StreetMesh/Protocol-Laravel](https://github.com/StreetMesh/Protocol-Laravel) | 0 | 2026-08-04 | The StreetMesh protocol as a Laravel package: discovery, del... |
-| [VanOns/laravel-translations-sync](https://github.com/VanOns/laravel-translations-sync) | 0 | 2026-08-04 | A package that synchronizes translations between your Larave... |
-| [VanOns/laravel-environment-importer](https://github.com/VanOns/laravel-environment-importer) | 0 | 2026-08-04 | A Laravel package for easy importing of a configured environ... |
-| [morpheusadam/kargah](https://github.com/morpheusadam/kargah) | 1 | 2026-08-04 | Self-hosted freelance workspace: IMAP inbox, bulk email camp... |
-| [developermithu/tallcraftui](https://github.com/developermithu/tallcraftui) | 167 | 2026-08-04 | TallCraftUI is a Laravel blade UI components library built o... |
-| [stephenr85/laravel-package-topology](https://github.com/stephenr85/laravel-package-topology) | 0 | 2026-08-04 |  |
-| [modularavel/cloudflare-stream-video](https://github.com/modularavel/cloudflare-stream-video) | 1 | 2026-08-04 | A Laravel package that provides an idiomatic, strongly typed... |
-| [RafaelBlum/hall-dos-conquistadores](https://github.com/RafaelBlum/hall-dos-conquistadores) | 1 | 2026-08-04 | Retrô Community é um sistema de blog com intuito de potencia... |
-| [libin-k-k/modular](https://github.com/libin-k-k/modular) | 0 | 2026-08-04 | Laravel modular architecture package for enterprise PHP appl... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-08-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ICCM-Americas/branding](https://github.com/ICCM-Americas/branding) | 0 | 2026-08-04 | Shared branding for the conference-tools Laravel packages — ... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-08-04 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [puth-io/laravel](https://github.com/puth-io/laravel) | 1 | 2026-08-04 | [READ ONLY] Subtree split of the Puth Laravel package (see p... |
 | [ICCM-Americas/ConferenceToolsHost](https://github.com/ICCM-Americas/ConferenceToolsHost) | 0 | 2026-08-04 | Laravel host application for the conference-tools packages —... |
-| [EvanSchleret/NotificationCompass](https://github.com/EvanSchleret/NotificationCompass) | 0 | 2026-08-04 | Context-aware notification preferences for Laravel applicati... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 164 | 2026-08-04 | Collect everything about sent mails in your Filament app. |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 250 | 2026-08-04 | Collect everything about sent mails in your Laravel app |
+| [RafaelBlum/hall-dos-conquistadores](https://github.com/RafaelBlum/hall-dos-conquistadores) | 1 | 2026-08-04 | Retrô Community é um sistema de blog com intuito de potencia... |
+| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-08-04 | Privacy-first Matomo analytics for Laravel with cookieless t... |
+| [schaefersoft/laravel-swiss-eid](https://github.com/schaefersoft/laravel-swiss-eid) | 2 | 2026-08-04 | Laravel package for Swiss eID / swiyu verification with Open... |
+| [mikeyperes/laravel-hexa-package-openai](https://github.com/mikeyperes/laravel-hexa-package-openai) | 0 | 2026-08-04 | OpenAI Integration — Whisper audio transcription service for... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-08-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [Zairakai/PHP-Package_laravel_activity](https://github.com/Zairakai/PHP-Package_laravel_activity) | 0 | 2026-08-04 |  |
+| [morpheusadam/kargah](https://github.com/morpheusadam/kargah) | 1 | 2026-08-04 | Self-hosted freelance workspace: IMAP inbox, bulk email camp... |
+| [vigstudio/vgcomments](https://github.com/vigstudio/vgcomments) | 9 | 2026-08-04 | Comments package for applications. Using this package, you c... |
+| [mikeyperes/laravel-hexa-package-sapling](https://github.com/mikeyperes/laravel-hexa-package-sapling) | 0 | 2026-08-04 | HWS Package: Sapling AI content detection API integration |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-04 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [mikeyperes/laravel-hexa-package-chatgpt](https://github.com/mikeyperes/laravel-hexa-package-chatgpt) | 0 | 2026-08-04 | HWS Package: ChatGPT/OpenAI API integration |
+| [padosoft/laravel-pii-redactor-admin](https://github.com/padosoft/laravel-pii-redactor-admin) | 0 | 2026-08-04 | Professional Admin panel UI for laravel-pii-redactor package |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-04 | Utility package for Laravel including Transformable proxies ... |
+| [diglabby/laravel-find-missing-translations](https://github.com/diglabby/laravel-find-missing-translations) | 8 | 2026-08-04 | Artisan command to find missing translations |
+| [jooservices/laravel-repository](https://github.com/jooservices/laravel-repository) | 0 | 2026-08-04 | PHP 8.5+ Laravel repository package for trait-based CRUD, fi... |
+| [pushery/polyslug-for-laravel](https://github.com/pushery/polyslug-for-laravel) | 4 | 2026-08-04 | Polyslug gives Laravel Eloquent models multilingual, polymor... |
+| [KroderDev/laravel-microservice-core](https://github.com/KroderDev/laravel-microservice-core) | 5 | 2026-08-04 | A Laravel package that provides the infrastructure to build ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-04T18:55 | 1 | 1721 | 5614 |
 | 2026-08-04T13:03 | 3 | 1720 | 5613 |
 | 2026-08-04T07:17 | 5 | 1718 | 5610 |
 | 2026-08-04T00:56 | 3 | 1718 | 5605 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-03T00:59 | 4 | 1720 | 5587 |
 | 2026-08-02T18:41 | 6 | 1718 | 5583 |
 | 2026-08-02T12:42 | 4 | 1721 | 5577 |
-| 2026-08-02T07:14 | 4 | 1720 | 5573 |
 
 ---
 

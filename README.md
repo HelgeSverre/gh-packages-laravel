@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5605  
-**Last updated:** 2026-08-04T00:56:56.459Z
+**Total packages tracked:** 5610  
+**Last updated:** 2026-08-04T07:17:01.278Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [vortechron/laravel-ai-assistant](https://github.com/vortechron/laravel-ai-assistant) | 0 | A drop-in agentic AI assistant for any Laravel app: streaming chat, tool calling... |
+| [cronitorex/laravel](https://github.com/cronitorex/laravel) | 0 | Cronitorex monitoring for the Laravel Scheduler: automatic run/complete/fail pin... |
+| [ashita-planning/laravel-security-guard](https://github.com/ashita-planning/laravel-security-guard) | 0 | Reusable Laravel security guard package |
+| [avto-dev/cloud-payments-laravel](https://github.com/avto-dev/cloud-payments-laravel) | 3 | The package provides easy way to use Cloud Payments API |
+| [Josadec/backup-ui](https://github.com/Josadec/backup-ui) | 0 | Laravel Backup UI for Spatie Laravel Bakcup package |
 | [thedevdojo/laravel-reactions](https://github.com/thedevdojo/laravel-reactions) | 35 | A Laravel Reactions Package |
 | [ridwanazeez/mmg-payments](https://github.com/ridwanazeez/mmg-payments) | 0 | Laravel package to integrate MMG Payments with the MMG API |
 | [uadevteampackages/edas-imitator](https://github.com/uadevteampackages/edas-imitator) | 0 | Local-only Laravel package to imitate Entra users in-session and restore the ori... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [avto-dev/data-migrations-laravel](https://github.com/avto-dev/data-migrations-laravel) | 1 | Package for database data migrations |
 | [KoassiAkakpo/filament-rail](https://github.com/KoassiAkakpo/filament-rail) | 0 | A layout theme for Filament v5 panels, built around a full-height sidebar rail. |
 | [PierreCrealy/laravel-package-skeleton](https://github.com/PierreCrealy/laravel-package-skeleton) | 0 |  |
-| [IlhamHattaManggala/laravel-manifest](https://github.com/IlhamHattaManggala/laravel-manifest) | 0 | Production-ready, schema-driven, UI-agnostic configuration platform and manifest... |
-| [Bouda-Bissari/laravel-make-pattern](https://github.com/Bouda-Bissari/laravel-make-pattern) | 2 | Laravel package that generates a full CRUD scaffold (Model, Repository, Service,... |
-| [cbytedigital/laravel-bi-data-export](https://github.com/cbytedigital/laravel-bi-data-export) | 2 | Laravel package for easily and periodically exporting data for BI purposes. Buil... |
-| [EloquentWorks/Passage](https://github.com/EloquentWorks/Passage) | 1 | Laravel Passage provides feature-rich onboarding, checklist, journey, progressio... |
-| [avto-dev/static-references-laravel](https://github.com/avto-dev/static-references-laravel) | 1 | Static references for Laravel applications |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-08-04 | Filament plugin that allows to add dynamic, user-defined for... |
-| [morpheusadam/kargah](https://github.com/morpheusadam/kargah) | 1 | 2026-08-04 | Self-hosted freelance workspace: IMAP inbox, bulk email camp... |
-| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-08-04 | A Laravel and Livewire application for calorie-based food eq... |
-| [thedevdojo/laravel-reactions](https://github.com/thedevdojo/laravel-reactions) | 35 | 2026-08-04 | A Laravel Reactions Package |
-| [ridwanazeez/mmg-payments](https://github.com/ridwanazeez/mmg-payments) | 0 | 2026-08-04 | Laravel package to integrate MMG Payments with the MMG API |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-04 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 12 | 2026-08-03 | Source code for the new pokemon3d.net website |
-| [Codie-Shannon/FamilyArchive](https://github.com/Codie-Shannon/FamilyArchive) | 0 | 2026-08-03 | Privacy-first, preservation-grade family history platform wi... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 319 | 2026-08-03 | Laravel SMS Gateway Integration Package |
-| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-08-03 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 47 | 2026-08-03 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-08-03 | Laravel Paystack is a Laravel package that integrates the Pa... |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-03 | Laravel package for HubSpot CRM: every object type, directio... |
-| [divoto/cairn](https://github.com/divoto/cairn) | 0 | 2026-08-03 | Privacy-first, self-hosted web analytics for Laravel. A sing... |
-| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 414 | 2026-08-03 | Laravel Kanban boards with intelligent pagination, drag-and-... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 337 | 2026-08-03 | The NativePHP website |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 81 | 2026-08-03 | A live database structure viewer for Laravel that renders yo... |
-| [jeffersongoncalves/filament-flux](https://github.com/jeffersongoncalves/filament-flux) | 11 | 2026-08-03 | Filament v5 plugin exposing Livewire Flux UI components as n... |
-| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 9 | 2026-08-03 | MFAKit starter kit built on Laravel 12.x and Filament 4.x wi... |
-| [TheDragonCode/laravel-cache](https://github.com/TheDragonCode/laravel-cache) | 70 | 2026-08-03 | An improved helper for working with cache |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-08-04 | Laravel package for interacting with Traccar api |
+| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-08-04 | Laravel and Livewire admin panel scaffold for car-rental ope... |
+| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-08-04 | Laravel Paystack is a Laravel package that integrates the Pa... |
+| [RobustaStudio/Resala](https://github.com/RobustaStudio/Resala) | 22 | 2026-08-04 | PHP & Laravel SMS Gateway Integration Package |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 56 | 2026-08-04 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [lalalili/commerce-payment](https://github.com/lalalili/commerce-payment) | 0 | 2026-08-04 | Unified, configurable Taiwan payment package (ECPay credit/U... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-04 | Laravel USPS Package to integrate USPS Address |
+| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-08-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-08-04 | Laravel package providing AI-powered search with Pagefind. D... |
+| [vortechron/laravel-ai-assistant](https://github.com/vortechron/laravel-ai-assistant) | 0 | 2026-08-04 | A drop-in agentic AI assistant for any Laravel app: streamin... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 104 | 2026-08-04 | A Laravel package for versioned AI prompt management with va... |
+| [robertogallea/laravel-necromancer](https://github.com/robertogallea/laravel-necromancer) | 3 | 2026-08-04 | AI readability package for Laravel applications |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 83 | 2026-08-04 | A live database structure viewer for Laravel that renders yo... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 337 | 2026-08-04 | The NativePHP website |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-04 | Provides email verification on the go. |
+| [orchestral/canvas](https://github.com/orchestral/canvas) | 208 | 2026-08-04 | Code Generators for Laravel Applications and Packages |
+| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 144 | 2026-08-04 | Create and manage menu in your Filament app. |
+| [zoolok/laravel-ip-blocker](https://github.com/zoolok/laravel-ip-blocker) | 1 | 2026-08-04 | Laravel package for blocking suspicious IP addresses (anti-s... |
+| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-08-04 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [Super-Send/supersendtx-laravel](https://github.com/Super-Send/supersendtx-laravel) | 0 | 2026-08-04 | SuperSend TX Laravel package — composer require supersendtx/... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-04T07:17 | 5 | 1718 | 5610 |
 | 2026-08-04T00:56 | 3 | 1718 | 5605 |
 | 2026-08-03T18:57 | 10 | 1712 | 5602 |
 | 2026-08-03T13:22 | 5 | 1718 | 5594 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-02T12:42 | 4 | 1721 | 5577 |
 | 2026-08-02T07:14 | 4 | 1720 | 5573 |
 | 2026-08-02T00:59 | 3 | 1720 | 5569 |
-| 2026-08-01T18:41 | 3 | 1723 | 5566 |
 
 ---
 

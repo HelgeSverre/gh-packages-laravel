@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5625  
-**Last updated:** 2026-08-05T07:17:09.844Z
+**Total packages tracked:** 5627  
+**Last updated:** 2026-08-05T13:00:21.382Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [alexkramse/filament-openapi-docs](https://github.com/alexkramse/filament-openapi-docs) | 1 | Native Filament panel page for browsing Scramble-powered OpenAPI documentation a... |
+| [ali-apadana/PersianKeyword](https://github.com/ali-apadana/PersianKeyword) | 0 | Persian keyword extraction package for Laravel |
 | [laraditz/my-invois](https://github.com/laraditz/my-invois) | 2 | Laravel package for interacting with MyInvois API. |
 | [natthawat141/line-bot-Starter-Edition](https://github.com/natthawat141/line-bot-Starter-Edition) | 1 | LINE OA AI package-info bot template — FastAPI + LINE Messaging API + OpenRouter... |
 | [collaborall/sta-server](https://github.com/collaborall/sta-server) | 0 | OGC SensorThings API v1.1 server as a Laravel 12 composer package — clean-room i... |
@@ -19,7 +21,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [N30/LUcipher-Models](https://github.com/N30/LUcipher-Models) | 0 | Laravel Universal open-sourced package with automatic API, HTTP, Livewire Contro... |
 | [MacAlistair1/Dns-lookup](https://github.com/MacAlistair1/Dns-lookup) | 0 | A simple Laravel package for looking up DNS records (`A`, `AAAA`, `MX`, `NS`, `T... |
 | [MacAlistair1/Qr-Code-Generator](https://github.com/MacAlistair1/Qr-Code-Generator) | 0 | A modern Laravel package for generating QR codes — PNG, SVG, WebP, Base64 data U... |
-| [SirwanCode/laravelfakerkurdish](https://github.com/SirwanCode/laravelfakerkurdish) | 0 | a faker package for kurdsih language ( sorani & kurmanji )  on laravel framework |
+| [SirwanCode/laravelfakerkurdish](https://github.com/SirwanCode/laravelfakerkurdish) | 0 | a faker package for kurdsih language ( sorani & kurmanji )  on laravel framework... |
 | [ifthenpay/laravel](https://github.com/ifthenpay/laravel) | 0 | Ifthenpay's package for laravel. |
 | [NextDevIT/ndit-license-client](https://github.com/NextDevIT/ndit-license-client) | 0 | Laravel licence client for self-hosted NextDevIT products: activation, Ed25519 v... |
 | [reynevan/shopen](https://github.com/reynevan/shopen) | 0 | Laravel e-commerce package |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [vortechron/laravel-ai-assistant](https://github.com/vortechron/laravel-ai-assistant) | 0 | A drop-in agentic AI assistant for any Laravel app: streaming chat, tool calling... |
 | [cronitorex/laravel](https://github.com/cronitorex/laravel) | 0 | Cronitorex monitoring for the Laravel Scheduler: automatic run/complete/fail pin... |
 | [ashita-planning/laravel-security-guard](https://github.com/ashita-planning/laravel-security-guard) | 0 | Reusable Laravel security guard package |
-| [avto-dev/cloud-payments-laravel](https://github.com/avto-dev/cloud-payments-laravel) | 3 | The package provides easy way to use Cloud Payments API |
-| [Josadec/backup-ui](https://github.com/Josadec/backup-ui) | 0 | Laravel Backup UI for Spatie Laravel Bakcup package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-05 | Provides email verification on the go. |
-| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-08-05 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [martin-lechene/laravel-euria](https://github.com/martin-lechene/laravel-euria) | 10 | 2026-08-05 | Packages Laravel 13 for usage of Euria AI powered by Infoman... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 0 | 2026-08-05 |  |
+| [EG-Mohamed/Referenceable](https://github.com/EG-Mohamed/Referenceable) | 80 | 2026-08-05 | Referenceable Is an advanced Laravel package for generating ... |
+| [EG-Mohamed/Notable](https://github.com/EG-Mohamed/Notable) | 78 | 2026-08-05 |   Notable is a Laravel package that adds polymorphic note fu... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-08-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [AbdulMannanShihab/CMS-FilamentPHP](https://github.com/AbdulMannanShihab/CMS-FilamentPHP) | 2 | 2026-08-05 | Responsive Laravel CMS (Livewire + FilamentPHP)  A clean, re... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-05 | Laravel USPS Package to integrate USPS Address |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-05 | Open-source, self-hosted video processing & delivery engine ... |
-| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-08-05 | Laravel Core package that provides essential core functional... |
-| [dskripchenko/laravel-schemify](https://github.com/dskripchenko/laravel-schemify) | 0 | 2026-08-05 | Dynamic multi-schema PostgreSQL connections for Laravel — pe... |
-| [dskripchenko/laravel-api](https://github.com/dskripchenko/laravel-api) | 11 | 2026-08-05 | Versioned Laravel APIs with OpenAPI 3.0 docs generated from ... |
-| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-08-05 | PHP and Laravel Cursor rules — coding standards, testing, an... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-08-05 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [promptphp/deck](https://github.com/promptphp/deck) | 104 | 2026-08-05 | A Laravel package for versioned AI prompt management with va... |
+| [xentral/laravel-api](https://github.com/xentral/laravel-api) | 5 | 2026-08-05 |  A laravel package which contains a sophisticated API workfl... |
 | [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-08-05 | A package to create datatables using alpinejs, tailwind, liv... |
-| [collaborall/sta-server](https://github.com/collaborall/sta-server) | 0 | 2026-08-05 | OGC SensorThings API v1.1 server as a Laravel 12 composer pa... |
-| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-08-05 | Private expiring previews of unsaved Capell page and Layout ... |
-| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-08-05 | Multilingual, multi-site Capell navigation with visual menus... |
-| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-08-05 | Visual Capell page composition with reusable widgets, named ... |
-| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | 2026-08-05 | Shared typed content-block primitives for Capell packages. |
-| [SirwanCode/laravelfakerkurdish](https://github.com/SirwanCode/laravelfakerkurdish) | 0 | 2026-08-05 | a faker package for kurdsih language ( sorani & kurmanji )  ... |
-| [justbetter/laravel-magento-stock](https://github.com/justbetter/laravel-magento-stock) | 12 | 2026-08-05 | Package to send stock to Magento from a Laravel application ... |
+| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 2 | 2026-08-05 | An opinionated Laravel package for interacting with WAHA API |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-08-05 | Laravel package to handle requests are ensured sent |
+| [kolaybi/mail-checker](https://github.com/kolaybi/mail-checker) | 0 | 2026-08-05 | A Laravel package providing comprehensive e-mail validation ... |
+| [ashita-planning/laravel-security-guard](https://github.com/ashita-planning/laravel-security-guard) | 0 | 2026-08-05 | Reusable Laravel security guard package |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 164 | 2026-08-05 | Collect everything about sent mails in your Filament app. |
+| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 250 | 2026-08-05 | Collect everything about sent mails in your Laravel app |
+| [ali-apadana/PersianKeyword](https://github.com/ali-apadana/PersianKeyword) | 0 | 2026-08-05 | Persian keyword extraction package for Laravel |
+| [Bouda-Bissari/laravel-make-pattern](https://github.com/Bouda-Bissari/laravel-make-pattern) | 2 | 2026-08-05 | Laravel package that generates a full CRUD scaffold (Model, ... |
+| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-08-05 | A comprehensive toolkit providing foundational building bloc... |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-08-05 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 337 | 2026-08-05 | The NativePHP website |
+| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 5 | 2026-08-05 | A package for laravel to enable High-performance bulk seedin... |
+| [snoeren-development/laravel-discord-webhook-channel](https://github.com/snoeren-development/laravel-discord-webhook-channel) | 15 | 2026-08-05 | Send notifications to a Discord webhook. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-05T13:00 | 2 | 1722 | 5627 |
 | 2026-08-05T07:17 | 3 | 1721 | 5625 |
 | 2026-08-05T00:51 | 8 | 1715 | 5622 |
 | 2026-08-04T18:55 | 1 | 1721 | 5614 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-03T18:57 | 10 | 1712 | 5602 |
 | 2026-08-03T13:22 | 5 | 1718 | 5594 |
 | 2026-08-03T07:32 | 2 | 1723 | 5589 |
-| 2026-08-03T00:59 | 4 | 1720 | 5587 |
 
 ---
 

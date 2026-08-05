@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5622  
-**Last updated:** 2026-08-05T00:51:34.688Z
+**Total packages tracked:** 5625  
+**Last updated:** 2026-08-05T07:17:09.844Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [laraditz/my-invois](https://github.com/laraditz/my-invois) | 2 | Laravel package for interacting with MyInvois API. |
+| [natthawat141/line-bot-Starter-Edition](https://github.com/natthawat141/line-bot-Starter-Edition) | 1 | LINE OA AI package-info bot template — FastAPI + LINE Messaging API + OpenRouter... |
+| [collaborall/sta-server](https://github.com/collaborall/sta-server) | 0 | OGC SensorThings API v1.1 server as a Laravel 12 composer package — clean-room i... |
 | [vaibhav410/formforge](https://github.com/vaibhav410/formforge) | 0 | AI-powered form builder - Laravel 11 + Livewire 3 + FastAPI/Groq. Drag-drop buil... |
 | [amritms/waveapps-client-php](https://github.com/amritms/waveapps-client-php) | 4 | A wrapper to use the WaveApps's graphql api in your laravel SaaS application. Th... |
 | [dineshstack/laravel-audit](https://github.com/dineshstack/laravel-audit) | 0 | Activity log & audit trail for Laravel 13 — field-level diffs, IP capture, user ... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ashita-planning/laravel-security-guard](https://github.com/ashita-planning/laravel-security-guard) | 0 | Reusable Laravel security guard package |
 | [avto-dev/cloud-payments-laravel](https://github.com/avto-dev/cloud-payments-laravel) | 3 | The package provides easy way to use Cloud Payments API |
 | [Josadec/backup-ui](https://github.com/Josadec/backup-ui) | 0 | Laravel Backup UI for Spatie Laravel Bakcup package |
-| [thedevdojo/laravel-reactions](https://github.com/thedevdojo/laravel-reactions) | 35 | A Laravel Reactions Package |
-| [ridwanazeez/mmg-payments](https://github.com/ridwanazeez/mmg-payments) | 0 | Laravel package to integrate MMG Payments with the MMG API |
-| [uadevteampackages/edas-imitator](https://github.com/uadevteampackages/edas-imitator) | 0 | Local-only Laravel package to imitate Entra users in-session and restore the ori... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 369 | 2026-08-05 | The official Laravel Nightwatch package. |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-05 | Provides email verification on the go. |
+| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-08-05 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-08-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [AbdulMannanShihab/CMS-FilamentPHP](https://github.com/AbdulMannanShihab/CMS-FilamentPHP) | 2 | 2026-08-05 | Responsive Laravel CMS (Livewire + FilamentPHP)  A clean, re... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-05 | Laravel USPS Package to integrate USPS Address |
 | [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-05 | Open-source, self-hosted video processing & delivery engine ... |
-| [amritms/waveapps-client-php](https://github.com/amritms/waveapps-client-php) | 4 | 2026-08-05 | A wrapper to use the WaveApps's graphql api in your laravel ... |
-| [statikbe/laravel-cookie-consent](https://github.com/statikbe/laravel-cookie-consent) | 219 | 2026-08-05 | The package includes a script & styling for a cookie banner ... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-05 | A practical work management information system built with La... |
-| [Kasule-Jamal-Lukenge/Fixed-Mim-Online](https://github.com/Kasule-Jamal-Lukenge/Fixed-Mim-Online) | 0 | 2026-08-05 | Fix for the first project after Laravel package crush |
-| [mrlibelula/vintage-consoles](https://github.com/mrlibelula/vintage-consoles) | 0 | 2026-08-05 | Browser-based retro gaming platform. Play NES, SNES, Arcade,... |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-08-04 | Laravel Dusk Testing Helper for Package Development |
-| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-08-04 | Privacy-first Matomo analytics for Laravel with cookieless t... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-04 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [morpheusadam/kargah](https://github.com/morpheusadam/kargah) | 1 | 2026-08-04 | Self-hosted freelance workspace: IMAP inbox, bulk email camp... |
-| [orchestral/sidekick](https://github.com/orchestral/sidekick) | 12 | 2026-08-04 | Packages Toolkit Utilities and Helpers for Laravel |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-08-04 | The Moox Project - Packages for Filament and Laravel |
-| [jeffersongoncalves/filament-yaml-editor](https://github.com/jeffersongoncalves/filament-yaml-editor) | 4 | 2026-08-04 | A rich YAML editor field for Filament powered by CodeMirror ... |
-| [sosupp/questionable](https://github.com/sosupp/questionable) | 0 | 2026-08-04 | A laravel flexible and extensible package for adding extra f... |
-| [fajriyan/box-cms](https://github.com/fajriyan/box-cms) | 5 | 2026-08-04 | cms project using laravel, this time I used the statamic pac... |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-08-04 | A personal portfolio built as an interactive browser-based t... |
-| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-08-04 | A structured logging package for Laravel that writes logs in... |
-| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-08-04 | Laravel package for Firebase Cloud Messaging notifications i... |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-04 | Utility package for Laravel including Transformable proxies ... |
+| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-08-05 | Laravel Core package that provides essential core functional... |
+| [dskripchenko/laravel-schemify](https://github.com/dskripchenko/laravel-schemify) | 0 | 2026-08-05 | Dynamic multi-schema PostgreSQL connections for Laravel — pe... |
+| [dskripchenko/laravel-api](https://github.com/dskripchenko/laravel-api) | 11 | 2026-08-05 | Versioned Laravel APIs with OpenAPI 3.0 docs generated from ... |
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-08-05 | PHP and Laravel Cursor rules — coding standards, testing, an... |
+| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-08-05 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 104 | 2026-08-05 | A Laravel package for versioned AI prompt management with va... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-08-05 | A package to create datatables using alpinejs, tailwind, liv... |
+| [collaborall/sta-server](https://github.com/collaborall/sta-server) | 0 | 2026-08-05 | OGC SensorThings API v1.1 server as a Laravel 12 composer pa... |
+| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-08-05 | Private expiring previews of unsaved Capell page and Layout ... |
+| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-08-05 | Multilingual, multi-site Capell navigation with visual menus... |
+| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-08-05 | Visual Capell page composition with reusable widgets, named ... |
+| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | 2026-08-05 | Shared typed content-block primitives for Capell packages. |
+| [SirwanCode/laravelfakerkurdish](https://github.com/SirwanCode/laravelfakerkurdish) | 0 | 2026-08-05 | a faker package for kurdsih language ( sorani & kurmanji )  ... |
+| [justbetter/laravel-magento-stock](https://github.com/justbetter/laravel-magento-stock) | 12 | 2026-08-05 | Package to send stock to Magento from a Laravel application ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-05T07:17 | 3 | 1721 | 5625 |
 | 2026-08-05T00:51 | 8 | 1715 | 5622 |
 | 2026-08-04T18:55 | 1 | 1721 | 5614 |
 | 2026-08-04T13:03 | 3 | 1720 | 5613 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-03T13:22 | 5 | 1718 | 5594 |
 | 2026-08-03T07:32 | 2 | 1723 | 5589 |
 | 2026-08-03T00:59 | 4 | 1720 | 5587 |
-| 2026-08-02T18:41 | 6 | 1718 | 5583 |
 
 ---
 

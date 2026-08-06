@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5632  
-**Last updated:** 2026-08-05T18:55:01.713Z
+**Total packages tracked:** 5636  
+**Last updated:** 2026-08-06T00:49:48.450Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tnandla/portfolio-os](https://github.com/tnandla/portfolio-os) | 0 | Self-hosted operations app for teams running a portfolio of websites: projects, ... |
+| [jamesgifford/auth](https://github.com/jamesgifford/auth) | 1 | Reusable authentication scaffolding for Laravel: prefixed public IDs, accounts a... |
+| [OmarAbdelwahhab30/Laravel-Inspector-Package](https://github.com/OmarAbdelwahhab30/Laravel-Inspector-Package) | 0 | See exactly what your Laravel app did behind every HTTP request — the route, the... |
+| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | A modular Laravel package suite for building production-ready applications with ... |
 | [feature-ninja/boost-extra-packages](https://github.com/feature-ninja/boost-extra-packages) | 0 | Adds extra.laravel-boost package discovery support to Laravel Boost by overridin... |
 | [KrystianAdamczak/laravel-active-campaign](https://github.com/KrystianAdamczak/laravel-active-campaign) | 0 | A package that integrates an existing Laravel application with the ActiveCampaig... |
 | [coinpay-finance/laravel-integration-package](https://github.com/coinpay-finance/laravel-integration-package) | 0 |  |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Kasule-Jamal-Lukenge/Fixed-Mim-Online](https://github.com/Kasule-Jamal-Lukenge/Fixed-Mim-Online) | 0 | Fix for the first project after Laravel package crush |
 | [N30/LUcipher-Models](https://github.com/N30/LUcipher-Models) | 0 | Laravel Universal open-sourced package with automatic API, HTTP, Livewire Contro... |
 | [MacAlistair1/Dns-lookup](https://github.com/MacAlistair1/Dns-lookup) | 0 | A simple Laravel package for looking up DNS records (`A`, `AAAA`, `MX`, `NS`, `T... |
-| [MacAlistair1/Qr-Code-Generator](https://github.com/MacAlistair1/Qr-Code-Generator) | 0 | A modern Laravel package for generating QR codes — PNG, SVG, WebP, Base64 data U... |
-| [SirwanCode/laravelfakerkurdish](https://github.com/SirwanCode/laravelfakerkurdish) | 0 | a faker package for kurdsih language ( sorani & kurmanji )  on laravel framework... |
-| [ifthenpay/laravel](https://github.com/ifthenpay/laravel) | 0 | Ifthenpay's package for laravel. |
-| [NextDevIT/ndit-license-client](https://github.com/NextDevIT/ndit-license-client) | 0 | Laravel licence client for self-hosted NextDevIT products: activation, Ed25519 v... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 198 | 2026-08-05 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [UniFileManager/filament-file-manager](https://github.com/UniFileManager/filament-file-manager) | 6 | 2026-08-05 | File management for Laravel Filament. https://filamentphp.co... |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | 2026-08-05 | A media picker plugin for Filament Panels. |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-05 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [feature-ninja/boost-extra-packages](https://github.com/feature-ninja/boost-extra-packages) | 0 | 2026-08-05 | Adds extra.laravel-boost package discovery support to Larave... |
-| [KrystianAdamczak/laravel-active-campaign](https://github.com/KrystianAdamczak/laravel-active-campaign) | 0 | 2026-08-05 | A package that integrates an existing Laravel application wi... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 2 | 2026-08-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [liberusoftware/automation-laravel](https://github.com/liberusoftware/automation-laravel) | 38 | 2026-08-06 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 198 | 2026-08-06 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-06 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | 157 | 2026-08-06 | Accounting application written in Laravel 13 / PHP 8.5 using... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-08-06 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 58 | 2026-08-06 | The ultimate form components kit and custom fields builder f... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-08-06 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [jamesgifford/auth](https://github.com/jamesgifford/auth) | 1 | 2026-08-06 | Reusable authentication scaffolding for Laravel: prefixed pu... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-08-05 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-05 | Laravel package providing polymorphic image management with ... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-05 | Utility package for Laravel including Transformable proxies ... |
 | [tudor-constantin/monitor](https://github.com/tudor-constantin/monitor) | 0 | 2026-08-05 | Self-hosted website uptime monitoring with response-time tra... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 88 | 2026-08-05 | A live database structure viewer for Laravel that renders yo... |
-| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-08-05 | 🔒 The missing package for Laravel Nova that lets you know w... |
-| [laratusk/larasvg](https://github.com/laratusk/larasvg) | 32 | 2026-08-05 | A modern Laravel package for SVG conversion with multiple pr... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 195 | 2026-08-05 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [laravel-enso/helpers](https://github.com/laravel-enso/helpers) | 8 | 2026-08-05 | Laravel Enso utility classes  |
-| [coinpay-finance/laravel-integration-package](https://github.com/coinpay-finance/laravel-integration-package) | 0 | 2026-08-05 |  |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-08-05 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-08-05 | A Laravel and Livewire application for calorie-based food eq... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 24 | 2026-08-05 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-05 | Laravel-based API for storing sensor data from distributed n... |
+| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-08-05 | A collection of Dockerfile examples for various programming ... |
+| [jeffersongoncalves/filament-ace-editor-field](https://github.com/jeffersongoncalves/filament-ace-editor-field) | 4 | 2026-08-05 | A Laravel Filament field that integrates the Ace code editor... |
+| [rawilk/filament-quill](https://github.com/rawilk/filament-quill) | 34 | 2026-08-05 | Quill rich text editor for Filament. |
+| [ali-apadana/PersianKeyword](https://github.com/ali-apadana/PersianKeyword) | 0 | 2026-08-05 | Persian keyword extraction package for Laravel |
 | [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-08-05 | A personal portfolio built as an interactive browser-based t... |
+| [abdelhamiderrahmouni/filament-monaco-editor](https://github.com/abdelhamiderrahmouni/filament-monaco-editor) | 19 | 2026-08-05 | A Monaco Editor form field for FilamentPHP. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-06T00:49 | 4 | 1720 | 5636 |
 | 2026-08-05T18:55 | 5 | 1719 | 5632 |
 | 2026-08-05T13:00 | 2 | 1722 | 5627 |
 | 2026-08-05T07:17 | 3 | 1721 | 5625 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-04T07:17 | 5 | 1718 | 5610 |
 | 2026-08-04T00:56 | 3 | 1718 | 5605 |
 | 2026-08-03T18:57 | 10 | 1712 | 5602 |
-| 2026-08-03T13:22 | 5 | 1718 | 5594 |
 
 ---
 

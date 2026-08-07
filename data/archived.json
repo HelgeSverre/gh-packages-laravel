@@ -1026,5 +1026,41 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-08-03T18:57:54.901Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "hamedtm1991/tutorha": {
+    "name": "hamedtm1991/tutorha",
+    "url": "https://github.com/hamedtm1991/tutorha",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "backend",
+      "blade",
+      "course-platform",
+      "design-patterns",
+      "docker",
+      "docker-compose",
+      "laravel",
+      "livewire",
+      "monolithic-architecture",
+      "mysql",
+      "online-learning",
+      "open-source",
+      "php",
+      "phpunit",
+      "redis",
+      "soa",
+      "tdd",
+      "udemy-clone",
+      "web-development"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2023-06-24T21:44:31Z",
+    "updated_at": "2025-08-07T11:19:33Z",
+    "pushed_at": "2025-08-07T10:59:36Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-08-07T12:35:45.957Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

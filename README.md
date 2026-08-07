@@ -2,20 +2,25 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5664  
-**Last updated:** 2026-08-07T12:35:45.988Z
+**Total packages tracked:** 5669  
+**Last updated:** 2026-08-07T18:35:50.127Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [matondojk/filament-data-copilot](https://github.com/matondojk/filament-data-copilot) | 0 | Filament Data Copilot is an AI-powered assistant that allows users to query thei... |
+| [tribhuvanrawat1525/MCP-Server](https://github.com/tribhuvanrawat1525/MCP-Server) | 0 | A Laravel-based Model Context Protocol (MCP) server that lets AI assistants like... |
+| [BetoMK/laravel12-support](https://github.com/BetoMK/laravel12-support) | 0 | Laravel 12 package |
+| [IlhamHattaManggala/laravel-status-page](https://github.com/IlhamHattaManggala/laravel-status-page) | 0 | Production-ready, self-hosted application health diagnostics and status page pac... |
+| [daviatorstorm/pritset-laravel](https://github.com/daviatorstorm/pritset-laravel) | 0 | Pritset package for Laravel |
 | [AhmadSubadri/digidesa-smart-village](https://github.com/AhmadSubadri/digidesa-smart-village) | 0 | DigiDesa — Platform Sistem Informasi Desa & Portal Layanan Mandiri Kependudukan ... |
-| [packstub/partisan](https://github.com/packstub/partisan) | 0 | Artisan for Laravel packages — make: generators that write into src/ with your p... |
+| [packstub/partisan](https://github.com/packstub/partisan) | 1 | Artisan for Laravel packages — make: generators that write into src/ with your p... |
 | [ekrambd/laravel-discount-calculator-package](https://github.com/ekrambd/laravel-discount-calculator-package) | 0 | A simple and lightweight Laravel package to calculate discount percentage betwee... |
 | [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 1 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ödeme paketi — Garant... |
 | [outatime-io/filament-login-shortcut](https://github.com/outatime-io/filament-login-shortcut) | 0 | Secure one-click login shortcut for Filament panels, built for local development... |
 | [GitJulio012/backup-ui](https://github.com/GitJulio012/backup-ui) | 0 | Laravel Backup UI for Spatie Laravel Backup package |
-| [datalogix/laravel-datatable](https://github.com/datalogix/laravel-datatable) | 0 | > Laravel Datatable is a package to build dynamic tables with search, filters, s... |
+| [datalogix/laravel-datatable](https://github.com/datalogix/laravel-datatable) | 0 | Laravel Datatable is a package to build dynamic tables with search, filters, sor... |
 | [HDVinnie/laravel-joypixel-emojis](https://github.com/HDVinnie/laravel-joypixel-emojis) | 1 | Laravel package to make it easy to use the modern emojis from joypixels |
 | [IlhamHattaManggala/laravel-spotlight](https://github.com/IlhamHattaManggala/laravel-spotlight) | 0 | Production-ready, keyboard-driven Command Palette (Cmd+K) package for Laravel an... |
 | [tomibady/laravel-mtn-momo](https://github.com/tomibady/laravel-mtn-momo) | 0 | MTN Momo Laravel 13 Package |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [tomibady/laravel-tgipay](https://github.com/tomibady/laravel-tgipay) | 1 | TGIPay Laravel 13 Package |
 | [tomibady/laravel-monnify](https://github.com/tomibady/laravel-monnify) | 0 | Monnify Laravel 13 Package |
 | [tomibady/laravel-flutterwave](https://github.com/tomibady/laravel-flutterwave) | 0 | Flutterwave Laravel 12 Package |
-| [tomibady/laravel-paystack](https://github.com/tomibady/laravel-paystack) | 0 | PayStack Laravel 13 Package |
-| [saeedvir/simple-modules](https://github.com/saeedvir/simple-modules) | 2 | A simple structure for modularizing a Laravel project. |
-| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | Reusable "coming soon" (pre-launch) and enhanced maintenance-mode holding pages ... |
-| [rinodrummer/laravel-istat-geography-api](https://github.com/rinodrummer/laravel-istat-geography-api) | 0 | A package that exposes a filterable API to explore the ISTAT dataset exposed by ... |
-| [MustafaTaj/tabby-laravel](https://github.com/MustafaTaj/tabby-laravel) | 0 | Laravel package for Tabby Buy Now Pay Later: checkout, payments, and webhooks |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [daikazu/laratone](https://github.com/daikazu/laratone) | 2 | 2026-08-07 | Simple API for managing color libraries in you Laravel appli... |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-08-07 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [ZackyPratama/E-Commerce-PT-GMU](https://github.com/ZackyPratama/E-Commerce-PT-GMU) | 0 | 2026-08-07 | Project Akhir Semester E-Commerce |
-| [benjamincrozat/blog-v5](https://github.com/benjamincrozat/blog-v5) | 133 | 2026-08-07 | Source code for Benjamin Crozat's blog. |
-| [EYOND/laravel-http-replay](https://github.com/EYOND/laravel-http-replay) | 1 | 2026-08-07 | A highly opinionated package designed to record and replay H... |
-| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-07 | Laravel package providing polymorphic image management with ... |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-07 | Utility package for Laravel including Transformable proxies ... |
-| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 9 | 2026-08-07 | Kompass A Laravel CMS |
-| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | 2026-08-07 | Laravel package for building complex eloquent filters in a s... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-07 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-07 | Open-source, self-hosted video processing & delivery engine ... |
 | [Marin-Solutions/checkybot-laravel](https://github.com/Marin-Solutions/checkybot-laravel) | 0 | 2026-08-07 | Laravel package for CheckyBot monitoring integration |
-| [AhmadSubadri/digidesa-smart-village](https://github.com/AhmadSubadri/digidesa-smart-village) | 0 | 2026-08-07 | DigiDesa — Platform Sistem Informasi Desa & Portal Layanan M... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 3 | 2026-08-07 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [sanmaxdev/linkforge](https://github.com/sanmaxdev/linkforge) | 6 | 2026-08-07 | Self-hosted, open-source, AI-native URL shortener & link-man... |
-| [packstub/partisan](https://github.com/packstub/partisan) | 0 | 2026-08-07 | Artisan for Laravel packages — make: generators that write i... |
-| [preprio/laravel-rest-sdk](https://github.com/preprio/laravel-rest-sdk) | 2 | 2026-08-07 | This Laravel package is a provider for the Prepr REST API. |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-08-07 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 5 | 2026-08-07 | A package for laravel to enable High-performance bulk seedin... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-08-07 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-07 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [rxcod9/joy-voyager-user-settings](https://github.com/rxcod9/joy-voyager-user-settings) | 1 | 2026-08-07 | This voyager package provides settings similar as voyager gl... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-07 | Local-first personal finance dashboard that resolves cross-a... |
+| [Cocosport/Rybbit-Sdk-for-Laravel](https://github.com/Cocosport/Rybbit-Sdk-for-Laravel) | 1 | 2026-08-07 | A simple, elegant Laravel package for integrating Rybbit ana... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-08-07 | Laravel package providing OTP (One-Time Password) management... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-08-07 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-07 | Utility package for Laravel including Transformable proxies ... |
+| [BetoMK/laravel12-support](https://github.com/BetoMK/laravel12-support) | 0 | 2026-08-07 | Laravel 12 package |
+| [matondojk/filament-data-copilot](https://github.com/matondojk/filament-data-copilot) | 0 | 2026-08-07 | Filament Data Copilot is an AI-powered assistant that allows... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-07 | Laravel package providing polymorphic image management with ... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-08-07 | Laravel package providing polymorphic reactions (like, love,... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-08-07 | Laravel TOTP package for two-factor authentication with poly... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-08-07 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [tribhuvanrawat1525/MCP-Server](https://github.com/tribhuvanrawat1525/MCP-Server) | 0 | 2026-08-07 | A Laravel-based Model Context Protocol (MCP) server that let... |
+| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-08-07 | A structured logging package for Laravel that writes logs in... |
+| [morpheusadam/kargah](https://github.com/morpheusadam/kargah) | 1 | 2026-08-07 | Self-hosted freelance workspace: IMAP inbox, bulk email camp... |
+| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-08-07 | A modular Laravel package suite for building production-read... |
+| [NyonCode/laravel-package-toolkit](https://github.com/NyonCode/laravel-package-toolkit) | 0 | 2026-08-07 | Laravel Package Builder is a powerful tool designed to strea... |
+| [IlhamHattaManggala/laravel-status-page](https://github.com/IlhamHattaManggala/laravel-status-page) | 0 | 2026-08-07 | Production-ready, self-hosted application health diagnostics... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-07T18:35 | 5 | 1720 | 5669 |
 | 2026-08-07T12:35 | 3 | 1723 | 5664 |
 | 2026-08-07T06:48 | 0 | 1726 | 5662 |
 | 2026-08-07T01:32 | 14 | 1712 | 5662 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-05T18:55 | 5 | 1719 | 5632 |
 | 2026-08-05T13:00 | 2 | 1722 | 5627 |
 | 2026-08-05T07:17 | 3 | 1721 | 5625 |
-| 2026-08-05T00:51 | 8 | 1715 | 5622 |
 
 ---
 

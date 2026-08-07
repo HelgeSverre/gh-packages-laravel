@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 5662  
-**Last updated:** 2026-08-07T01:32:07.132Z
+**Last updated:** 2026-08-07T06:48:03.165Z
 
 ## 📦 Recently Discovered
 
@@ -22,7 +22,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [tomibady/laravel-monnify](https://github.com/tomibady/laravel-monnify) | 0 | Monnify Laravel 13 Package |
 | [tomibady/laravel-flutterwave](https://github.com/tomibady/laravel-flutterwave) | 0 | Flutterwave Laravel 12 Package |
 | [tomibady/laravel-paystack](https://github.com/tomibady/laravel-paystack) | 0 | PayStack Laravel 13 Package |
-| [saeedvir/simple-modules](https://github.com/saeedvir/simple-modules) | 1 | A simple structure for modularizing a Laravel project. |
+| [saeedvir/simple-modules](https://github.com/saeedvir/simple-modules) | 2 | A simple structure for modularizing a Laravel project. |
 | [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | Reusable "coming soon" (pre-launch) and enhanced maintenance-mode holding pages ... |
 | [rinodrummer/laravel-istat-geography-api](https://github.com/rinodrummer/laravel-istat-geography-api) | 0 | A package that exposes a filterable API to explore the ISTAT dataset exposed by ... |
 | [MustafaTaj/tabby-laravel](https://github.com/MustafaTaj/tabby-laravel) | 0 | Laravel package for Tabby Buy Now Pay Later: checkout, payments, and webhooks |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [saeedvir/simple-modules](https://github.com/saeedvir/simple-modules) | 1 | 2026-08-07 | A simple structure for modularizing a Laravel project. |
-| [livetennisapi/livetennisapi-laravel](https://github.com/livetennisapi/livetennisapi-laravel) | 0 | 2026-08-07 | Laravel package for the Live Tennis API — facade, config and... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 369 | 2026-08-07 | The official Laravel Nightwatch package. |
-| [GitJulio012/backup-ui](https://github.com/GitJulio012/backup-ui) | 0 | 2026-08-07 | Laravel Backup UI for Spatie Laravel Backup package |
-| [StreetMesh/Protocol-Laravel](https://github.com/StreetMesh/Protocol-Laravel) | 0 | 2026-08-07 | The StreetMesh protocol as a Laravel package: discovery, del... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-07 | An event sourcing laravel package, complete with all the ess... |
-| [codeparl/app-settings](https://github.com/codeparl/app-settings) | 1 | 2026-08-07 | A lightweight settings abstraction package providing a consi... |
-| [J-T-McC/ai-query-builder](https://github.com/J-T-McC/ai-query-builder) | 0 | 2026-08-07 | A safe layer between AI agents and your Laravel database - a... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 9 | 2026-08-07 | A Laravel-based web application that tracks, analyzes, and p... |
+| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 1 | 2026-08-07 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-08-07 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [lacodix/laravel-model-filter](https://github.com/lacodix/laravel-model-filter) | 175 | 2026-08-07 | Offers an simple way to filter and search eloquent models by... |
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-08-07 | PHP and Laravel Cursor rules — coding standards, testing, an... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-08-07 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-08-07 | Integrate Mixpanel analytics into Filament projects to track... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-08-07 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-07 | Laravel USPS Package to integrate USPS Address |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-08-07 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-08-07 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
 | [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-08-07 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-08-07 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [amritms/invoice-gateways](https://github.com/amritms/invoice-gateways) | 7 | 2026-08-07 | This is Laravel package for multiple invoice gateways in a s... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 3 | 2026-08-07 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 195 | 2026-08-06 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [dsins/voyager-booster](https://github.com/dsins/voyager-booster) | 1 | 2026-08-06 | A Laravel package that includes Laravel-Voyager bugfixes and... |
+| [skywalker-labs/impersonate](https://github.com/skywalker-labs/impersonate) | 4 | 2026-08-07 | A powerful Laravel package to authenticate as your users. Ea... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-07 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 104 | 2026-08-07 | A Laravel package for versioned AI prompt management with va... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-07 | Provides email verification on the go. |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-07 | Laravel package for HubSpot CRM: every object type, directio... |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-08-07 | Laravel package for Indonesia regions selection with postal ... |
+| [EYOND/laravel-http-replay](https://github.com/EYOND/laravel-http-replay) | 1 | 2026-08-07 | A highly opinionated package designed to record and replay H... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-07T06:48 | 0 | 1726 | 5662 |
 | 2026-08-07T01:32 | 14 | 1712 | 5662 |
 | 2026-08-06T13:01 | 6 | 1719 | 5648 |
 | 2026-08-06T07:17 | 6 | 1719 | 5642 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-05T07:17 | 3 | 1721 | 5625 |
 | 2026-08-05T00:51 | 8 | 1715 | 5622 |
 | 2026-08-04T18:55 | 1 | 1721 | 5614 |
-| 2026-08-04T13:03 | 3 | 1720 | 5613 |
 
 ---
 

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5673  
-**Last updated:** 2026-08-08T06:35:07.598Z
+**Total packages tracked:** 5678  
+**Last updated:** 2026-08-08T12:34:20.986Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [blemli/peek-for-filament](https://github.com/blemli/peek-for-filament) | 0 | don't move, just peek |
+| [SirwanCode/laravel-faker-kurdish](https://github.com/SirwanCode/laravel-faker-kurdish) | 0 | Kurdish ( sorani & kurmanji ) faker package for laravel framework. پاکێجێکی فایک... |
+| [mahdiJD/seo-management](https://github.com/mahdiJD/seo-management) | 0 | A modern SEO management package for Laravel with first-class Filament v4 support... |
+| [ekrambd/laravel-query-filter-package](https://github.com/ekrambd/laravel-query-filter-package) | 0 | A flexible and lightweight query filtering package for Laravel Eloquent |
+| [leilaakbari1996/laravel-image](https://github.com/leilaakbari1996/laravel-image) | 0 | A reusable image management package for Laravel applications. |
 | [nelson8-spec/municipal](https://github.com/nelson8-spec/municipal) | 0 | Sistema web de gestión de solicitudes ciudadanas para una municipalidad. Constru... |
 | [soheilkhaledabdi/shop-admin-panel](https://github.com/soheilkhaledabdi/shop-admin-panel) | 58 | Effortlessly manage your online store with our Laravel admin panel seamlessly in... |
 | [ezappslab/laravel-package-starter](https://github.com/ezappslab/laravel-package-starter) | 0 | This is a robust skeleton starter kit designed to simplify the creation of new L... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 1 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ödeme paketi — Garant... |
 | [outatime-io/filament-login-shortcut](https://github.com/outatime-io/filament-login-shortcut) | 0 | Secure one-click login shortcut for Filament panels, built for local development... |
 | [GitJulio012/backup-ui](https://github.com/GitJulio012/backup-ui) | 0 | Laravel Backup UI for Spatie Laravel Backup package |
-| [datalogix/laravel-datatable](https://github.com/datalogix/laravel-datatable) | 0 | Laravel Datatable is a package to build dynamic tables with search, filters, sor... |
-| [HDVinnie/laravel-joypixel-emojis](https://github.com/HDVinnie/laravel-joypixel-emojis) | 1 | Laravel package to make it easy to use the modern emojis from joypixels |
-| [IlhamHattaManggala/laravel-spotlight](https://github.com/IlhamHattaManggala/laravel-spotlight) | 0 | Production-ready, keyboard-driven Command Palette (Cmd+K) package for Laravel an... |
-| [tomibady/laravel-mtn-momo](https://github.com/tomibady/laravel-mtn-momo) | 0 | MTN Momo Laravel 13 Package |
-| [jobmetric/laravel-event-system](https://github.com/jobmetric/laravel-event-system) | 7 | This is a database-based event management package for Laravel that you can use i... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 3 | 2026-08-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [DigitalCoreHub/laravel-toon](https://github.com/DigitalCoreHub/laravel-toon) | 1 | 2026-08-08 | A friendly JSON transformer for Laravel — Convert JSON ↔ TOO... |
-| [nelson8-spec/municipal](https://github.com/nelson8-spec/municipal) | 0 | 2026-08-08 | Sistema web de gestión de solicitudes ciudadanas para una mu... |
-| [robinsonryan/hey-you](https://github.com/robinsonryan/hey-you) | 1 | 2026-08-08 | Laravel package for modeling contactable entities, contact m... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-08 | Laravel USPS Package to integrate USPS Address |
-| [codeparl/queued-jobs](https://github.com/codeparl/queued-jobs) | 1 | 2026-08-08 | A Laravel queue infrastructure package that preserves applic... |
-| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 1 | 2026-08-08 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-08 | A practical work management information system built with La... |
-| [skywalker-labs/impersonate](https://github.com/skywalker-labs/impersonate) | 4 | 2026-08-08 | A powerful Laravel package to authenticate as your users. Ea... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-08 | An event sourcing laravel package, complete with all the ess... |
-| [promptphp/deck](https://github.com/promptphp/deck) | 104 | 2026-08-08 | A Laravel package for versioned AI prompt management with va... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-08 | Provides email verification on the go. |
-| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-08-08 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
-| [blocs/admin](https://github.com/blocs/admin) | 2 | 2026-08-08 | Laravel BLOCS admin panel package |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 450 | 2026-08-08 | Open Source Laravel CRM Package |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 90 | 2026-08-08 | A live database structure viewer for Laravel that renders yo... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 26 | 2026-08-08 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 5 | 2026-08-08 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [juniyasyos/nexaid-client](https://github.com/juniyasyos/nexaid-client) | 0 | 2026-08-08 | Laravel package for IAM Single Sign-On (SSO), JWT verificati... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-08 | Local-first personal finance dashboard that resolves cross-a... |
+| [mdobes/filament-rich-editor-fullscreen](https://github.com/mdobes/filament-rich-editor-fullscreen) | 9 | 2026-08-08 | A Filament v4 & v5 plugin that adds fullscreen functionality... |
+| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 1 | 2026-08-08 | HelpDesk starter kit built on Laravel 12.x and Filament 3.x ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jeffersongoncalves/mfakitv5](https://github.com/jeffersongoncalves/mfakitv5) | 3 | 2026-08-08 | MFAKit starter kit built on Laravel 12.x and Filament 5.x wi... |
+| [jeffersongoncalves/evolutionkitv4](https://github.com/jeffersongoncalves/evolutionkitv4) | 10 | 2026-08-08 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [damms005/laravel-flutterwave](https://github.com/damms005/laravel-flutterwave) | 3 | 2026-08-08 | A Laravel package that makes it easy to use Flutterwave APIs |
+| [rahaug/laravel-front-sms](https://github.com/rahaug/laravel-front-sms) | 2 | 2026-08-08 | A Laravel package that makes it easy to send SMS to your use... |
+| [dbflow-labs/dbflow-filament](https://github.com/dbflow-labs/dbflow-filament) | 3 | 2026-08-08 | Standard Filament integration for DBFlow Core — workflow tas... |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 182 | 2026-08-08 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-08-08 | A package for Miro |
+| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-08-08 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [jooservices/laravel-events](https://github.com/jooservices/laravel-events) | 0 | 2026-08-08 | Laravel 12 event sourcing and audit event log persistence pa... |
+| [outatime-io/ensemble-calendar](https://github.com/outatime-io/ensemble-calendar) | 1 | 2026-08-08 | Modern, GDPR‑compliant rehearsal calendar for musical ensemb... |
+| [SirwanCode/laravel-faker-kurdish](https://github.com/SirwanCode/laravel-faker-kurdish) | 0 | 2026-08-08 | Kurdish ( sorani & kurmanji ) faker package for laravel fram... |
+| [padosoft/laravel-pii-redactor-admin](https://github.com/padosoft/laravel-pii-redactor-admin) | 0 | 2026-08-08 | Professional Admin panel UI for laravel-pii-redactor package |
+| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 1 | 2026-08-08 | A self-hosted ActivityPub server implementation for Laravel ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-08 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [bnussbau/trmnl-blade](https://github.com/bnussbau/trmnl-blade) | 4 | 2026-08-08 | Blade Components on top of the TRMNL Design System |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-08-08 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
+| [jeffersongoncalves/teamkitv4](https://github.com/jeffersongoncalves/teamkitv4) | 9 | 2026-08-08 | TeamKit starter kit built on Laravel 13.x and Filament 4.x w... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-08T12:34 | 5 | 1720 | 5678 |
 | 2026-08-08T06:35 | 1 | 1722 | 5673 |
 | 2026-08-08T00:36 | 3 | 1721 | 5672 |
 | 2026-08-07T18:35 | 5 | 1720 | 5669 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-06T13:01 | 6 | 1719 | 5648 |
 | 2026-08-06T07:17 | 6 | 1719 | 5642 |
 | 2026-08-06T00:49 | 4 | 1720 | 5636 |
-| 2026-08-05T18:55 | 5 | 1719 | 5632 |
 
 ---
 

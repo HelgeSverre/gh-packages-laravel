@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 5692  
-**Last updated:** 2026-08-09T06:35:29.007Z
+**Last updated:** 2026-08-09T12:34:38.899Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 90 | 2026-08-09 | A live database structure viewer for Laravel that renders yo... |
-| [saeedvir/simple-modules](https://github.com/saeedvir/simple-modules) | 2 | 2026-08-09 | A simple structure for modularizing a Laravel project. |
-| [anjan-talukdar/laravel-gst-invoice](https://github.com/anjan-talukdar/laravel-gst-invoice) | 0 | 2026-08-09 | A production-ready Laravel package for GST-compliant invoice... |
-| [saade/filament-autograph](https://github.com/saade/filament-autograph) | 82 | 2026-08-09 | A Filament package to collect signatures. |
-| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-08-09 | A modular Laravel package suite for building production-read... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-09 | Laravel USPS Package to integrate USPS Address |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-08-09 | Simple package for adding directives to show/hide content fr... |
-| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-08-09 | Extension discovery, account linking, install authorization,... |
-| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-08-09 | Guided browser installer for bootstrapping new Capell CMS ap... |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-08-09 | Public routing, rendering, caching boundaries, and theme int... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-08-09 | Filament admin panel, editor workflows, settings, and extens... |
-| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-08-09 | Shared content models, services, contracts, and extension fo... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-09 | An event sourcing laravel package, complete with all the ess... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 451 | 2026-08-09 | Open Source Laravel CRM Package |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-09 | Provides email verification on the go. |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-08-09 | Laravel package for Indonesia regions selection with postal ... |
-| [EloquentWorks/TrustVault](https://github.com/EloquentWorks/TrustVault) | 0 | 2026-08-09 | Trusted device management for Laravel with secure device tok... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 26 | 2026-08-09 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-08-09 | A Laravel package to store model attribute translations in a... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 5 | 2026-08-09 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-08-09 | 💰 Simplify your financial management with Finova, an open-s... |
+| [mrlibelula/vintage-consoles](https://github.com/mrlibelula/vintage-consoles) | 0 | 2026-08-09 | Browser-based retro gaming platform. Play NES, SNES, Arcade,... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-08-09 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 182 | 2026-08-09 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [MCA43/mca-hub](https://github.com/MCA43/mca-hub) | 0 | 2026-08-09 | Laravel MCA package hub — /mca dashboard, installed package ... |
+| [centrex/laravel-btyd](https://github.com/centrex/laravel-btyd) | 0 | 2026-08-09 | Laravel package for BTYD (BG/NBD + Gamma-Gamma) CLV predicti... |
+| [oliweb-ch/laravel-cap](https://github.com/oliweb-ch/laravel-cap) | 1 | 2026-08-09 | Laravel package for Cap — self-hosted proof-of-work CAPTCHA.... |
+| [Cocosport/Rybbit-Sdk-for-Laravel](https://github.com/Cocosport/Rybbit-Sdk-for-Laravel) | 1 | 2026-08-09 | A simple, elegant Laravel package for integrating Rybbit ana... |
+| [marcorieser/statamic-livewire](https://github.com/marcorieser/statamic-livewire) | 23 | 2026-08-09 | A Laravel Livewire integration for Statamic. |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-09 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [NyonCode/laravel-package-toolkit](https://github.com/NyonCode/laravel-package-toolkit) | 0 | 2026-08-09 | Laravel Package Builder is a powerful tool designed to strea... |
+| [Flatroy/stupid-inventory-laravel](https://github.com/Flatroy/stupid-inventory-laravel) | 68 | 2026-08-09 | WIP: Simple stupid inventory and organization system built f... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-08-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-08-09 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-08-09 | Integrate Mixpanel analytics into Filament projects to track... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-08-09 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-08-09 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-08-09 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-08-09 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
+| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-08-09 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-09T12:34 | 0 | 1730 | 5692 |
 | 2026-08-09T06:35 | 7 | 1721 | 5692 |
 | 2026-08-09T00:37 | 3 | 1724 | 5685 |
 | 2026-08-08T18:33 | 4 | 1722 | 5682 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-07T18:35 | 5 | 1720 | 5669 |
 | 2026-08-07T12:35 | 3 | 1723 | 5664 |
 | 2026-08-07T06:48 | 0 | 1726 | 5662 |
-| 2026-08-07T01:32 | 14 | 1712 | 5662 |
 
 ---
 

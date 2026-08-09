@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5685  
-**Last updated:** 2026-08-09T00:37:17.609Z
+**Total packages tracked:** 5692  
+**Last updated:** 2026-08-09T06:35:29.007Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [skylence-org/laravel-telescope-mcp](https://github.com/skylence-org/laravel-telescope-mcp) | 0 |  |
+| [skylence-org/laravel-star-schema](https://github.com/skylence-org/laravel-star-schema) | 0 |  |
+| [skylence-org/laravel-optimize-mcp](https://github.com/skylence-org/laravel-optimize-mcp) | 0 |  |
+| [skylence-org/laravel-model-inspector-mcp](https://github.com/skylence-org/laravel-model-inspector-mcp) | 0 |  |
+| [skylence-org/laravel-artisan-agent-output](https://github.com/skylence-org/laravel-artisan-agent-output) | 0 |  |
+| [EloquentWorks/TrustVault](https://github.com/EloquentWorks/TrustVault) | 0 | Trusted device management for Laravel with secure device tokens, revocation, exp... |
+| [johnnyhuy/laravel-useful-commonmark-extension](https://github.com/johnnyhuy/laravel-useful-commonmark-extension) | 7 | 📕 Useful CommonMark extention for Laravel projects. |
 | [hackemate28-ux/filament-extra-fields](https://github.com/hackemate28-ux/filament-extra-fields) | 0 | Extra form fields for Filament v4, built on native primitives — starting with a ... |
 | [jkudish/laravel-ai-pricing](https://github.com/jkudish/laravel-ai-pricing) | 0 | Private pre-release package development |
 | [mathiasonea/laravel-rulebook](https://github.com/mathiasonea/laravel-rulebook) | 1 | A Laravel package for selecting which code-defined business rule applies to a su... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ekrambd/laravel-query-filter-package](https://github.com/ekrambd/laravel-query-filter-package) | 0 | A flexible and lightweight query filtering package for Laravel Eloquent |
 | [leilaakbari1996/laravel-image](https://github.com/leilaakbari1996/laravel-image) | 0 | A reusable image management package for Laravel applications. |
 | [nelson8-spec/municipal](https://github.com/nelson8-spec/municipal) | 0 | Sistema web de gestión de solicitudes ciudadanas para una municipalidad. Constru... |
-| [soheilkhaledabdi/shop-admin-panel](https://github.com/soheilkhaledabdi/shop-admin-panel) | 58 | Effortlessly manage your online store with our Laravel admin panel seamlessly in... |
-| [ezappslab/laravel-package-starter](https://github.com/ezappslab/laravel-package-starter) | 0 | This is a robust skeleton starter kit designed to simplify the creation of new L... |
-| [hifzi/wilayah-indonesia](https://github.com/hifzi/wilayah-indonesia) | 0 | Package Laravel untuk data wilayah administratif Indonesia (Provinsi, Kabupaten/... |
-| [matondojk/filament-data-copilot](https://github.com/matondojk/filament-data-copilot) | 0 | Filament Data Copilot is an AI-powered assistant that allows users to query thei... |
-| [tribhuvanrawat1525/MCP-Server](https://github.com/tribhuvanrawat1525/MCP-Server) | 0 | A Laravel-based Model Context Protocol (MCP) server that lets AI assistants like... |
-| [BetoMK/laravel12-support](https://github.com/BetoMK/laravel12-support) | 0 | Laravel 12 package |
-| [IlhamHattaManggala/laravel-status-page](https://github.com/IlhamHattaManggala/laravel-status-page) | 0 | Production-ready, self-hosted application health diagnostics and status page pac... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 3 | 2026-08-09 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 1 | 2026-08-09 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
-| [jkudish/laravel-ai-pricing](https://github.com/jkudish/laravel-ai-pricing) | 0 | 2026-08-09 | Private pre-release package development |
-| [aniftyco/kubit](https://github.com/aniftyco/kubit) | 32 | 2026-08-09 | A Tailwind CSS UI library with two implementations of one de... |
-| [cboxdk/laravel-telemetry-ui](https://github.com/cboxdk/laravel-telemetry-ui) | 2 | 2026-08-08 | Laravel-native observability UI for cboxdk/laravel-telemetry... |
-| [bernskiold/laravel-ppt](https://github.com/bernskiold/laravel-ppt) | 2 | 2026-08-08 | A wrapper around PHP Presentation to easily create powerful ... |
-| [ArtisanPack-UI/analytics](https://github.com/ArtisanPack-UI/analytics) | 0 | 2026-08-08 | A privacy-first analytics package for Laravel applications, ... |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-08-08 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 15 | 2026-08-08 | Source code for the new pokemon3d.net website |
-| [mathiasonea/laravel-rulebook](https://github.com/mathiasonea/laravel-rulebook) | 1 | 2026-08-08 | A Laravel package for selecting which code-defined business ... |
-| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 182 | 2026-08-08 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
-| [EloquentWorks/Masquerade](https://github.com/EloquentWorks/Masquerade) | 1 | 2026-08-08 | A feature-rich Laravel impersonation package with secure ses... |
-| [hackemate28-ux/filament-extra-fields](https://github.com/hackemate28-ux/filament-extra-fields) | 0 | 2026-08-08 | Extra form fields for Filament v4, built on native primitive... |
-| [zvizvi/filament-column-filters](https://github.com/zvizvi/filament-column-filters) | 5 | 2026-08-08 | Bring familiar Excel-style filtering to your Filament tables... |
-| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-08-08 | A Laravel and Livewire application for calorie-based food eq... |
-| [Timadey/trailscope](https://github.com/Timadey/trailscope) | 0 | 2026-08-08 | TrailScope is a Laravel package for request traces and user ... |
-| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-08-08 | Gremio Linhir |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 90 | 2026-08-08 | A live database structure viewer for Laravel that renders yo... |
-| [mikeyperes/laravel-hexa-package-google-docs](https://github.com/mikeyperes/laravel-hexa-package-google-docs) | 0 | 2026-08-08 | Hexa package for reading public Google Docs content without ... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-08-08 | A Laravel-based web application that tracks, analyzes, and p... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 90 | 2026-08-09 | A live database structure viewer for Laravel that renders yo... |
+| [saeedvir/simple-modules](https://github.com/saeedvir/simple-modules) | 2 | 2026-08-09 | A simple structure for modularizing a Laravel project. |
+| [anjan-talukdar/laravel-gst-invoice](https://github.com/anjan-talukdar/laravel-gst-invoice) | 0 | 2026-08-09 | A production-ready Laravel package for GST-compliant invoice... |
+| [saade/filament-autograph](https://github.com/saade/filament-autograph) | 82 | 2026-08-09 | A Filament package to collect signatures. |
+| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-08-09 | A modular Laravel package suite for building production-read... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-09 | Laravel USPS Package to integrate USPS Address |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-08-09 | Simple package for adding directives to show/hide content fr... |
+| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-08-09 | Extension discovery, account linking, install authorization,... |
+| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-08-09 | Guided browser installer for bootstrapping new Capell CMS ap... |
+| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-08-09 | Public routing, rendering, caching boundaries, and theme int... |
+| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-08-09 | Filament admin panel, editor workflows, settings, and extens... |
+| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-08-09 | Shared content models, services, contracts, and extension fo... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-09 | An event sourcing laravel package, complete with all the ess... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 451 | 2026-08-09 | Open Source Laravel CRM Package |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 158 | 2026-08-09 | Provides email verification on the go. |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-08-09 | Laravel package for Indonesia regions selection with postal ... |
+| [EloquentWorks/TrustVault](https://github.com/EloquentWorks/TrustVault) | 0 | 2026-08-09 | Trusted device management for Laravel with secure device tok... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 26 | 2026-08-09 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-08-09 | A Laravel package to store model attribute translations in a... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 5 | 2026-08-09 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-09T06:35 | 7 | 1721 | 5692 |
 | 2026-08-09T00:37 | 3 | 1724 | 5685 |
 | 2026-08-08T18:33 | 4 | 1722 | 5682 |
 | 2026-08-08T12:34 | 5 | 1720 | 5678 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-07T12:35 | 3 | 1723 | 5664 |
 | 2026-08-07T06:48 | 0 | 1726 | 5662 |
 | 2026-08-07T01:32 | 14 | 1712 | 5662 |
-| 2026-08-06T13:01 | 6 | 1719 | 5648 |
 
 ---
 

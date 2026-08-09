@@ -1266,8 +1266,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-10-15T16:33:19Z",
-    "updated_at": "2026-08-08T05:09:47Z",
-    "pushed_at": "2026-08-08T05:09:44Z",
+    "updated_at": "2026-08-09T05:52:57Z",
+    "pushed_at": "2026-08-09T05:52:52Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "hasanh47/duitku-laravel": {
@@ -3276,8 +3276,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-01-11T10:16:26Z",
-    "updated_at": "2026-08-02T04:03:19Z",
-    "pushed_at": "2026-08-02T04:03:14Z",
+    "updated_at": "2026-08-09T04:03:22Z",
+    "pushed_at": "2026-08-09T04:03:25Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "juniyadi/billing-laravel": {
@@ -3628,7 +3628,7 @@
     "name": "mallardduck/blade-lucide-icons",
     "url": "https://github.com/mallardduck/blade-lucide-icons",
     "description": "A package to easily make use of Lucide Icons in your Laravel Blade views.",
-    "stars": 106,
+    "stars": 105,
     "forks": 8,
     "topics": [
       "blade-icons",
@@ -3638,7 +3638,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2021-07-09T16:55:25Z",
-    "updated_at": "2026-08-08T01:16:13Z",
+    "updated_at": "2026-08-09T03:12:19Z",
     "pushed_at": "2026-08-08T01:16:11Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -6077,8 +6077,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2020-08-31T23:31:11Z",
-    "updated_at": "2026-08-08T22:38:08Z",
-    "pushed_at": "2026-08-08T10:47:28Z",
+    "updated_at": "2026-08-09T05:10:58Z",
+    "pushed_at": "2026-08-09T05:10:54Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "avexsoft/donkey": {
@@ -6539,8 +6539,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-03T20:01:05Z",
-    "updated_at": "2026-07-26T00:01:00Z",
-    "pushed_at": "2026-07-26T00:00:56Z",
+    "updated_at": "2026-08-09T04:12:08Z",
+    "pushed_at": "2026-08-09T04:12:04Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "mrfrkayvaz/privata": {
@@ -11670,7 +11670,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T22:04:00Z",
     "updated_at": "2026-08-04T01:20:13Z",
-    "pushed_at": "2026-08-04T01:23:39Z",
+    "pushed_at": "2026-08-09T06:22:58Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "step2dev/lazy-ui": {
@@ -30427,7 +30427,7 @@
     "license": "MIT",
     "created_at": "2025-09-17T00:34:38Z",
     "updated_at": "2026-08-08T17:47:10Z",
-    "pushed_at": "2026-08-08T17:47:07Z",
+    "pushed_at": "2026-08-09T03:54:10Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "jeffersongoncalves/filament-refresh-sidebar": {
@@ -33082,7 +33082,7 @@
     "name": "developermithu/tallcraftui",
     "url": "https://github.com/developermithu/tallcraftui",
     "description": "TallCraftUI is a Laravel blade UI components library built on TALL stack (TailwindCSS, Alpine.js, Laravel, Livewire)",
-    "stars": 168,
+    "stars": 167,
     "forks": 16,
     "topics": [
       "alpine-js",
@@ -33099,7 +33099,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-07-02T17:00:23Z",
-    "updated_at": "2026-08-07T05:27:33Z",
+    "updated_at": "2026-08-09T03:11:14Z",
     "pushed_at": "2026-08-08T12:56:00Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -34112,7 +34112,7 @@
     "url": "https://github.com/angus-mcritchie/blade-boost-directive",
     "description": "Speed up blade rendering with @boost",
     "stars": 39,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "blade",
       "blade-directives",
@@ -42860,8 +42860,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-01T18:44:59Z",
-    "updated_at": "2026-08-08T13:46:56Z",
-    "pushed_at": "2026-08-09T00:23:46Z",
+    "updated_at": "2026-08-09T01:13:28Z",
+    "pushed_at": "2026-08-09T01:13:32Z",
     "discovered_at": "2026-03-02T00:22:52.446Z"
   },
   "jeffersongoncalves/helpdeskkitv3": {
@@ -45341,8 +45341,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-06T21:05:11Z",
-    "updated_at": "2026-08-07T04:18:11Z",
-    "pushed_at": "2026-08-07T04:17:57Z",
+    "updated_at": "2026-08-09T03:23:37Z",
+    "pushed_at": "2026-08-09T03:23:33Z",
     "discovered_at": "2026-03-07T00:22:20.823Z"
   },
   "speniti/filament-auth0": {
@@ -45469,8 +45469,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-06T21:14:02Z",
-    "updated_at": "2026-08-07T05:25:42Z",
-    "pushed_at": "2026-08-07T05:24:52Z",
+    "updated_at": "2026-08-09T04:50:42Z",
+    "pushed_at": "2026-08-09T04:50:34Z",
     "discovered_at": "2026-03-07T06:10:50.997Z"
   },
   "system-intelligence/jirrum_laravel_starter": {
@@ -54708,7 +54708,7 @@
     "license": "MIT",
     "created_at": "2016-05-12T21:05:35Z",
     "updated_at": "2026-07-22T21:13:38Z",
-    "pushed_at": "2026-08-08T06:16:10Z",
+    "pushed_at": "2026-08-09T06:16:42Z",
     "discovered_at": "2026-03-25T06:24:44.802Z"
   },
   "xuejd3/laravel-emoji": {
@@ -60065,7 +60065,7 @@
     "name": "jeffersongoncalves/filament-mail",
     "url": "https://github.com/jeffersongoncalves/filament-mail",
     "description": "Complete email management UI for Filament: mail logs with preview, database templates with Unlayer visual editor, MailNotification with variable binding, delivery tracking, analytics dashboard, and suppression management.",
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "topics": [
       "analytics",
@@ -60089,7 +60089,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-06T02:00:03Z",
-    "updated_at": "2026-08-01T01:32:37Z",
+    "updated_at": "2026-08-09T01:02:36Z",
     "pushed_at": "2026-08-01T01:34:06Z",
     "discovered_at": "2026-04-06T06:39:21.578Z"
   },
@@ -61573,7 +61573,7 @@
     "license": "MIT",
     "created_at": "2019-05-02T09:02:27Z",
     "updated_at": "2026-08-05T07:10:08Z",
-    "pushed_at": "2026-08-08T04:57:28Z",
+    "pushed_at": "2026-08-09T05:05:43Z",
     "discovered_at": "2026-04-10T02:09:29.494Z"
   },
   "boone-studios/laravel-surrealdb": {
@@ -65304,7 +65304,7 @@
     "license": "MIT",
     "created_at": "2022-08-02T12:01:15Z",
     "updated_at": "2026-07-27T12:43:26Z",
-    "pushed_at": "2026-08-04T04:45:39Z",
+    "pushed_at": "2026-08-09T06:15:32Z",
     "discovered_at": "2026-04-20T02:24:13.038Z"
   },
   "mapo-89/laravel-heizreport-api": {
@@ -79878,7 +79878,7 @@
     "license": "MIT",
     "created_at": "2024-05-10T06:11:09Z",
     "updated_at": "2026-08-07T11:14:42Z",
-    "pushed_at": "2026-08-08T04:07:34Z",
+    "pushed_at": "2026-08-09T04:13:37Z",
     "discovered_at": "2026-06-03T00:53:59.862Z"
   },
   "alimarchal/laravel-chart-of-accounts-package": {
@@ -83842,7 +83842,7 @@
     "name": "ghostcompiler/laravel-hetzner-cloud",
     "url": "https://github.com/ghostcompiler/laravel-hetzner-cloud",
     "description": "Production-ready Laravel SDK for the Hetzner Cloud API with support for servers, volumes, networks, firewalls, load balancers, SSH keys, floating IPs, and more.",
-    "stars": 19,
+    "stars": 20,
     "forks": 0,
     "topics": [
       "api-client",
@@ -83864,7 +83864,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-11T21:38:05Z",
-    "updated_at": "2026-07-06T10:26:20Z",
+    "updated_at": "2026-08-09T04:45:22Z",
     "pushed_at": "2026-07-06T10:26:17Z",
     "discovered_at": "2026-06-14T07:37:16.220Z"
   },
@@ -85145,7 +85145,7 @@
     "license": "MIT",
     "created_at": "2026-06-16T09:18:43Z",
     "updated_at": "2026-08-06T11:58:26Z",
-    "pushed_at": "2026-08-08T04:02:28Z",
+    "pushed_at": "2026-08-09T04:08:56Z",
     "discovered_at": "2026-06-17T18:50:50.696Z"
   },
   "kazistm/vargo": {
@@ -95356,8 +95356,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-11T11:11:45Z",
-    "updated_at": "2026-08-05T04:47:27Z",
-    "pushed_at": "2026-08-05T07:52:02Z",
+    "updated_at": "2026-08-09T06:10:49Z",
+    "pushed_at": "2026-08-09T06:10:44Z",
     "discovered_at": "2026-07-12T07:13:34.299Z"
   },
   "capell-app/filament-peek": {
@@ -96486,8 +96486,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-02T20:46:41Z",
-    "updated_at": "2026-08-08T21:22:05Z",
-    "pushed_at": "2026-08-08T23:41:07Z",
+    "updated_at": "2026-08-09T02:22:00Z",
+    "pushed_at": "2026-08-09T02:23:06Z",
     "discovered_at": "2026-07-16T00:53:25.528Z"
   },
   "christopheai/blood-values-dashboard": {
@@ -101028,8 +101028,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-22T18:51:08Z",
-    "updated_at": "2026-08-08T20:42:31Z",
-    "pushed_at": "2026-08-08T20:42:29Z",
+    "updated_at": "2026-08-09T06:31:33Z",
+    "pushed_at": "2026-08-09T06:31:27Z",
     "discovered_at": "2026-07-28T00:53:08.670Z"
   },
   "modularavel/cloudflare-stream-video": {
@@ -101747,8 +101747,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-11T11:11:47Z",
-    "updated_at": "2026-08-05T07:51:38Z",
-    "pushed_at": "2026-08-05T07:52:06Z",
+    "updated_at": "2026-08-09T06:10:50Z",
+    "pushed_at": "2026-08-09T06:10:46Z",
     "discovered_at": "2026-07-30T12:55:34.916Z"
   },
   "capell-app/marketplace": {
@@ -101772,8 +101772,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-11T11:11:53Z",
-    "updated_at": "2026-08-05T04:47:34Z",
-    "pushed_at": "2026-08-05T07:52:16Z",
+    "updated_at": "2026-08-09T06:10:54Z",
+    "pushed_at": "2026-08-09T06:10:50Z",
     "discovered_at": "2026-07-30T12:55:34.916Z"
   },
   "capell-app/installer": {
@@ -101796,8 +101796,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-11T11:11:50Z",
-    "updated_at": "2026-08-05T04:47:22Z",
-    "pushed_at": "2026-08-05T07:52:11Z",
+    "updated_at": "2026-08-09T06:10:53Z",
+    "pushed_at": "2026-08-09T06:10:48Z",
     "discovered_at": "2026-07-30T12:55:34.916Z"
   },
   "capell-app/core": {
@@ -101820,8 +101820,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-11T11:11:42Z",
-    "updated_at": "2026-08-05T04:47:12Z",
-    "pushed_at": "2026-08-05T07:51:57Z",
+    "updated_at": "2026-08-09T06:10:46Z",
+    "pushed_at": "2026-08-09T06:10:42Z",
     "discovered_at": "2026-07-30T12:55:34.916Z"
   },
   "akankov/laravel-compress-html": {
@@ -103254,8 +103254,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-03T15:07:09Z",
-    "updated_at": "2026-08-08T16:53:24Z",
-    "pushed_at": "2026-08-08T16:53:20Z",
+    "updated_at": "2026-08-09T06:23:49Z",
+    "pushed_at": "2026-08-09T06:23:45Z",
     "discovered_at": "2026-08-03T18:57:54.898Z"
   },
   "alexhackney/lara-nimble": {
@@ -103931,8 +103931,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-05T13:27:20Z",
-    "updated_at": "2026-08-08T08:45:55Z",
-    "pushed_at": "2026-08-08T08:45:48Z",
+    "updated_at": "2026-08-09T06:19:24Z",
+    "pushed_at": "2026-08-09T06:19:14Z",
     "discovered_at": "2026-08-06T00:49:48.418Z"
   },
   "omarabdelwahhab30/laravel-inspector-package": {
@@ -103973,8 +103973,8 @@
     "name": "tnandla/portfolio-os",
     "url": "https://github.com/tnandla/portfolio-os",
     "description": "Self-hosted operations app for teams running a portfolio of websites: projects, an encrypted credential vault, content work, people and money. Laravel + Livewire, runs on PHP/MySQL shared hosting.",
-    "stars": 47,
-    "forks": 36,
+    "stars": 49,
+    "forks": 37,
     "topics": [
       "alpinejs",
       "blade",
@@ -103992,7 +103992,7 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2026-08-05T21:16:14Z",
-    "updated_at": "2026-08-08T19:50:39Z",
+    "updated_at": "2026-08-09T05:19:52Z",
     "pushed_at": "2026-08-08T19:21:32Z",
     "discovered_at": "2026-08-06T00:49:48.422Z"
   },
@@ -104208,8 +104208,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-07T01:03:48Z",
-    "updated_at": "2026-08-07T01:44:48Z",
-    "pushed_at": "2026-08-07T01:44:20Z",
+    "updated_at": "2026-08-09T06:29:15Z",
+    "pushed_at": "2026-08-09T06:29:11Z",
     "discovered_at": "2026-08-07T01:32:07.102Z"
   },
   "gitjulio012/backup-ui": {
@@ -104851,7 +104851,7 @@
     "url": "https://github.com/mathiasonea/laravel-rulebook",
     "description": "A Laravel package for selecting which code-defined business rule applies to a subject at any point in time—and explaining why.",
     "stars": 1,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "business-rules",
       "effective-dates",
@@ -104890,5 +104890,140 @@
     "updated_at": "2026-08-08T21:26:47Z",
     "pushed_at": "2026-08-08T21:26:44Z",
     "discovered_at": "2026-08-09T00:37:17.581Z"
+  },
+  "skylence-org/laravel-telescope-mcp": {
+    "name": "skylence-org/laravel-telescope-mcp",
+    "url": "https://github.com/skylence-org/laravel-telescope-mcp",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "ai",
+      "laravel",
+      "mcp",
+      "mcp-server",
+      "package"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-11-01T20:16:55Z",
+    "updated_at": "2026-06-08T13:00:09Z",
+    "pushed_at": "2026-07-11T12:07:34Z",
+    "discovered_at": "2026-08-09T06:35:28.980Z"
+  },
+  "skylence-org/laravel-star-schema": {
+    "name": "skylence-org/laravel-star-schema",
+    "url": "https://github.com/skylence-org/laravel-star-schema",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "laravel",
+      "package"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-03-17T06:51:01Z",
+    "updated_at": "2026-07-23T14:36:00Z",
+    "pushed_at": "2026-07-11T12:07:31Z",
+    "discovered_at": "2026-08-09T06:35:28.980Z"
+  },
+  "skylence-org/laravel-optimize-mcp": {
+    "name": "skylence-org/laravel-optimize-mcp",
+    "url": "https://github.com/skylence-org/laravel-optimize-mcp",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "ai",
+      "laravel",
+      "mcp",
+      "mcp-server",
+      "package"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-11-02T04:07:47Z",
+    "updated_at": "2026-06-11T13:29:21Z",
+    "pushed_at": "2026-07-11T12:07:17Z",
+    "discovered_at": "2026-08-09T06:35:28.980Z"
+  },
+  "skylence-org/laravel-model-inspector-mcp": {
+    "name": "skylence-org/laravel-model-inspector-mcp",
+    "url": "https://github.com/skylence-org/laravel-model-inspector-mcp",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "ai",
+      "laravel",
+      "mcp",
+      "mcp-server",
+      "package"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-03-19T12:52:45Z",
+    "updated_at": "2026-06-08T13:01:03Z",
+    "pushed_at": "2026-07-11T12:07:14Z",
+    "discovered_at": "2026-08-09T06:35:28.980Z"
+  },
+  "skylence-org/laravel-artisan-agent-output": {
+    "name": "skylence-org/laravel-artisan-agent-output",
+    "url": "https://github.com/skylence-org/laravel-artisan-agent-output",
+    "description": "",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "laravel",
+      "package"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-04-09T11:52:29Z",
+    "updated_at": "2026-06-08T12:58:53Z",
+    "pushed_at": "2026-07-11T12:06:47Z",
+    "discovered_at": "2026-08-09T06:35:28.980Z"
+  },
+  "eloquentworks/trustvault": {
+    "name": "EloquentWorks/TrustVault",
+    "url": "https://github.com/EloquentWorks/TrustVault",
+    "description": "Trusted device management for Laravel with secure device tokens, revocation, expiration, middleware, and audit logging.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "device-management",
+      "devices",
+      "eloquent-works",
+      "laravel",
+      "laravel-package",
+      "trust-vault"
+    ],
+    "language": "PHP",
+    "license": "NOASSERTION",
+    "created_at": "2026-07-28T03:21:37Z",
+    "updated_at": "2026-08-09T04:43:29Z",
+    "pushed_at": "2026-08-09T04:43:23Z",
+    "discovered_at": "2026-08-09T06:35:28.980Z"
+  },
+  "johnnyhuy/laravel-useful-commonmark-extension": {
+    "name": "johnnyhuy/laravel-useful-commonmark-extension",
+    "url": "https://github.com/johnnyhuy/laravel-useful-commonmark-extension",
+    "description": "📕 Useful CommonMark extention for Laravel projects.",
+    "stars": 7,
+    "forks": 4,
+    "topics": [
+      "commonmark",
+      "hacktoberfest",
+      "laravel",
+      "laravel-package",
+      "php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2018-08-20T14:19:37Z",
+    "updated_at": "2026-08-09T00:50:04Z",
+    "pushed_at": "2026-08-09T00:49:53Z",
+    "discovered_at": "2026-08-09T06:35:28.980Z"
   }
 }

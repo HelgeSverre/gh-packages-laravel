@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5692  
-**Last updated:** 2026-08-09T12:34:38.899Z
+**Total packages tracked:** 5697  
+**Last updated:** 2026-08-09T18:34:02.755Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [monovm/laravel-whois](https://github.com/monovm/laravel-whois) | 0 | Simple and fast domain whois lookup and availability checking for Laravel with a... |
+| [9leedev/leefipay-mpesa](https://github.com/9leedev/leefipay-mpesa) | 0 | Official Laravel package for the LeefiPay M-Pesa Open API. |
+| [laravel-json-api/boolean-softdeletes](https://github.com/laravel-json-api/boolean-softdeletes) | 3 | Laravel JSON:API integration for the tenantcloud/laravel-boolean-softdeletes pac... |
+| [MohamedSamy902/laravel-media-vault](https://github.com/MohamedSamy902/laravel-media-vault) | 3 | A production-grade, security-hardened Laravel package for resumable chunked uplo... |
+| [zero-to-prod/laravel-package](https://github.com/zero-to-prod/laravel-package) | 0 | A Laravel Package Template |
 | [skylence-org/laravel-telescope-mcp](https://github.com/skylence-org/laravel-telescope-mcp) | 0 |  |
 | [skylence-org/laravel-star-schema](https://github.com/skylence-org/laravel-star-schema) | 0 |  |
 | [skylence-org/laravel-optimize-mcp](https://github.com/skylence-org/laravel-optimize-mcp) | 0 |  |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [clarkewing/legacy-sync](https://github.com/clarkewing/legacy-sync) | 0 | Lightweight Laravel package for bi-directional database syncing between a legacy... |
 | [clarkewing/handoff](https://github.com/clarkewing/handoff) | 0 | Lightweight Laravel package for secure cross-application user handoff via signed... |
 | [blemli/peek-for-filament](https://github.com/blemli/peek-for-filament) | 0 | don't move, just peek |
-| [SirwanCode/laravel-faker-kurdish](https://github.com/SirwanCode/laravel-faker-kurdish) | 0 | Kurdish ( sorani & kurmanji ) faker package for laravel framework. پاکێجێکی فایک... |
-| [mahdiJD/seo-management](https://github.com/mahdiJD/seo-management) | 0 | A modern SEO management package for Laravel with first-class Filament v4 support... |
-| [ekrambd/laravel-query-filter-package](https://github.com/ekrambd/laravel-query-filter-package) | 0 | A flexible and lightweight query filtering package for Laravel Eloquent |
-| [leilaakbari1996/laravel-image](https://github.com/leilaakbari1996/laravel-image) | 0 | A reusable image management package for Laravel applications. |
-| [nelson8-spec/municipal](https://github.com/nelson8-spec/municipal) | 0 | Sistema web de gestión de solicitudes ciudadanas para una municipalidad. Constru... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-08-09 | 💰 Simplify your financial management with Finova, an open-s... |
-| [mrlibelula/vintage-consoles](https://github.com/mrlibelula/vintage-consoles) | 0 | 2026-08-09 | Browser-based retro gaming platform. Play NES, SNES, Arcade,... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-08-09 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 182 | 2026-08-09 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
-| [MCA43/mca-hub](https://github.com/MCA43/mca-hub) | 0 | 2026-08-09 | Laravel MCA package hub — /mca dashboard, installed package ... |
-| [centrex/laravel-btyd](https://github.com/centrex/laravel-btyd) | 0 | 2026-08-09 | Laravel package for BTYD (BG/NBD + Gamma-Gamma) CLV predicti... |
-| [oliweb-ch/laravel-cap](https://github.com/oliweb-ch/laravel-cap) | 1 | 2026-08-09 | Laravel package for Cap — self-hosted proof-of-work CAPTCHA.... |
-| [Cocosport/Rybbit-Sdk-for-Laravel](https://github.com/Cocosport/Rybbit-Sdk-for-Laravel) | 1 | 2026-08-09 | A simple, elegant Laravel package for integrating Rybbit ana... |
-| [marcorieser/statamic-livewire](https://github.com/marcorieser/statamic-livewire) | 23 | 2026-08-09 | A Laravel Livewire integration for Statamic. |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-09 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [NyonCode/laravel-package-toolkit](https://github.com/NyonCode/laravel-package-toolkit) | 0 | 2026-08-09 | Laravel Package Builder is a powerful tool designed to strea... |
-| [Flatroy/stupid-inventory-laravel](https://github.com/Flatroy/stupid-inventory-laravel) | 68 | 2026-08-09 | WIP: Simple stupid inventory and organization system built f... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-08-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [StreetMesh/Protocol-Laravel](https://github.com/StreetMesh/Protocol-Laravel) | 0 | 2026-08-09 | The StreetMesh protocol as a Laravel package: discovery, del... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-08-09 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-08-09 | Integrate Mixpanel analytics into Filament projects to track... |
+| [RumenDamyanov/php-seo](https://github.com/RumenDamyanov/php-seo) | 10 | 2026-08-09 | AI-powered, framework-agnostic PHP package for automated SEO... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-08-09 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-09 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jlbelanger/tapioca](https://github.com/jlbelanger/tapioca) | 0 | 2026-08-09 | Laravel package for JSON:API. |
+| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 389 | 2026-08-09 | Worldwide postal code validation for Laravel and Lumen |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-08-09 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-08-09 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-08-09 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
-| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-08-09 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
+| [marcorieser/statamic-livewire](https://github.com/marcorieser/statamic-livewire) | 23 | 2026-08-09 | A Laravel Livewire integration for Statamic. |
+| [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | 2026-08-09 | Easy-to-integrate multi-tenant authentication package for La... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-08-09 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-08-09 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-08-09 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [JaiveerChavda/webshop](https://github.com/JaiveerChavda/webshop) | 1 | 2026-08-09 | Online Store-Front Application built using Laravel-livewire ... |
+| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 7 | 2026-08-09 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
+| [FabianOkky/splitbill](https://github.com/FabianOkky/splitbill) | 0 | 2026-08-09 | Bill-splitting web app for Indonesian groups: Laravel + Live... |
+| [9leedev/leefipay-mpesa](https://github.com/9leedev/leefipay-mpesa) | 0 | 2026-08-09 | Official Laravel package for the LeefiPay M-Pesa Open API. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-09T18:34 | 5 | 1725 | 5697 |
 | 2026-08-09T12:34 | 0 | 1730 | 5692 |
 | 2026-08-09T06:35 | 7 | 1721 | 5692 |
 | 2026-08-09T00:37 | 3 | 1724 | 5685 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-08T00:36 | 3 | 1721 | 5672 |
 | 2026-08-07T18:35 | 5 | 1720 | 5669 |
 | 2026-08-07T12:35 | 3 | 1723 | 5664 |
-| 2026-08-07T06:48 | 0 | 1726 | 5662 |
 
 ---
 

@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5697  
-**Last updated:** 2026-08-09T18:34:02.755Z
+**Total packages tracked:** 5701  
+**Last updated:** 2026-08-10T00:38:08.517Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [eas4ai/laravel-conductor](https://github.com/eas4ai/laravel-conductor) | 0 | Agentic Workflow Package using AtlasPHP |
+| [KalimeroMK/countries](https://github.com/KalimeroMK/countries) | 2 | Laravel Countries is a package for Laravel, providing Almost ISO 3166_2, 3166_3,... |
+| [DrAliRagab/filament-cloudflare-mail-sender](https://github.com/DrAliRagab/filament-cloudflare-mail-sender) | 0 | Filament panel package for composing and auditing transactional email via Larave... |
+| [ozkanozcan/laravel-telegram](https://github.com/ozkanozcan/laravel-telegram) | 3 | Laravel 10-13 Telegram Bot notification channel package |
 | [monovm/laravel-whois](https://github.com/monovm/laravel-whois) | 0 | Simple and fast domain whois lookup and availability checking for Laravel with a... |
 | [9leedev/leefipay-mpesa](https://github.com/9leedev/leefipay-mpesa) | 0 | Official Laravel package for the LeefiPay M-Pesa Open API. |
 | [laravel-json-api/boolean-softdeletes](https://github.com/laravel-json-api/boolean-softdeletes) | 3 | Laravel JSON:API integration for the tenantcloud/laravel-boolean-softdeletes pac... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jkudish/laravel-ai-pricing](https://github.com/jkudish/laravel-ai-pricing) | 0 | Private pre-release package development |
 | [mathiasonea/laravel-rulebook](https://github.com/mathiasonea/laravel-rulebook) | 1 | A Laravel package for selecting which code-defined business rule applies to a su... |
 | [IlhamHattaManggala/sentinel](https://github.com/IlhamHattaManggala/sentinel) | 0 | Universal Web Application Firewall (WAF), OWASP Threat Scanners, Smart Lockout S... |
-| [Matthijs-NL/laravel-cart](https://github.com/Matthijs-NL/laravel-cart) | 0 | Laravel Cart is a customizable package for adding shopping cart functionality to... |
-| [clarkewing/legacy-sync](https://github.com/clarkewing/legacy-sync) | 0 | Lightweight Laravel package for bi-directional database syncing between a legacy... |
-| [clarkewing/handoff](https://github.com/clarkewing/handoff) | 0 | Lightweight Laravel package for secure cross-application user handoff via signed... |
-| [blemli/peek-for-filament](https://github.com/blemli/peek-for-filament) | 0 | don't move, just peek |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 451 | 2026-08-10 | Open Source Laravel CRM Package |
+| [eng-gabrielscardoso/gabrielscardoso](https://github.com/eng-gabrielscardoso/gabrielscardoso) | 0 | 2026-08-10 | The Gabriel Santos Cardoso personal web portfolio |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-08-10 | Laravel OTP is a Laravel package that enables developers to ... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 12 | 2026-08-10 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [NyonCode/laravel-package-toolkit](https://github.com/NyonCode/laravel-package-toolkit) | 0 | 2026-08-09 | Laravel Package Builder is a powerful tool designed to strea... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-08-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [StreetMesh/Protocol-Laravel](https://github.com/StreetMesh/Protocol-Laravel) | 0 | 2026-08-09 | The StreetMesh protocol as a Laravel package: discovery, del... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-08-09 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-08-09 | Integrate Mixpanel analytics into Filament projects to track... |
-| [RumenDamyanov/php-seo](https://github.com/RumenDamyanov/php-seo) | 10 | 2026-08-09 | AI-powered, framework-agnostic PHP package for automated SEO... |
+| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-08-09 | Laravel package skeleton ⚙️ |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-08-09 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-09 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jlbelanger/tapioca](https://github.com/jlbelanger/tapioca) | 0 | 2026-08-09 | Laravel package for JSON:API. |
-| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 389 | 2026-08-09 | Worldwide postal code validation for Laravel and Lumen |
 | [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-08-09 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
 | [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-08-09 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [marcorieser/statamic-livewire](https://github.com/marcorieser/statamic-livewire) | 23 | 2026-08-09 | A Laravel Livewire integration for Statamic. |
-| [do-it-s/easy-auth](https://github.com/do-it-s/easy-auth) | 0 | 2026-08-09 | Easy-to-integrate multi-tenant authentication package for La... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-08-09 | 💰 Simplify your financial management with Finova, an open-s... |
 | [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-08-09 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-08-09 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [JaiveerChavda/webshop](https://github.com/JaiveerChavda/webshop) | 1 | 2026-08-09 | Online Store-Front Application built using Laravel-livewire ... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 7 | 2026-08-09 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [FabianOkky/splitbill](https://github.com/FabianOkky/splitbill) | 0 | 2026-08-09 | Bill-splitting web app for Indonesian groups: Laravel + Live... |
-| [9leedev/leefipay-mpesa](https://github.com/9leedev/leefipay-mpesa) | 0 | 2026-08-09 | Official Laravel package for the LeefiPay M-Pesa Open API. |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-08-09 | 💰 Simplify your financial management with Finova, an open-s... |
+| [KalimeroMK/countries](https://github.com/KalimeroMK/countries) | 2 | 2026-08-09 | Laravel Countries is a package for Laravel, providing Almost... |
+| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 9 | 2026-08-09 | Simple Laravel scraping package |
+| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 1 | 2026-08-09 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
+| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-08-09 | A Laravel package to store model attribute translations in a... |
+| [jeffersongoncalves/mfakitv5](https://github.com/jeffersongoncalves/mfakitv5) | 3 | 2026-08-09 | MFAKit starter kit built on Laravel 12.x and Filament 5.x wi... |
+| [StreetMesh/Protocol-Laravel](https://github.com/StreetMesh/Protocol-Laravel) | 0 | 2026-08-09 | The StreetMesh protocol as a Laravel package: discovery, del... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-10T00:38 | 4 | 1727 | 5701 |
 | 2026-08-09T18:34 | 5 | 1725 | 5697 |
 | 2026-08-09T12:34 | 0 | 1730 | 5692 |
 | 2026-08-09T06:35 | 7 | 1721 | 5692 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-08T06:35 | 1 | 1722 | 5673 |
 | 2026-08-08T00:36 | 3 | 1721 | 5672 |
 | 2026-08-07T18:35 | 5 | 1720 | 5669 |
-| 2026-08-07T12:35 | 3 | 1723 | 5664 |
 
 ---
 

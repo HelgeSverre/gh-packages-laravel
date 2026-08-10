@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5707  
-**Last updated:** 2026-08-10T12:36:03.787Z
+**Total packages tracked:** 5717  
+**Last updated:** 2026-08-10T18:37:00.265Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [alexhackney/laravel-socialbu](https://github.com/alexhackney/laravel-socialbu) | 0 | Laravel wrapper for the SocialBu social media API |
+| [lyndonjohn/project-tracker](https://github.com/lyndonjohn/project-tracker) | 0 | Client project tracker for a digital agency. Laravel 13 and Livewire 4, with rol... |
+| [alexhackney/laravel-doppler](https://github.com/alexhackney/laravel-doppler) | 0 | Render a Laravel .env from Doppler secrets safely, atomically, and with a round-... |
+| [mohamedabdelbaryaboalia/Aboalynx-Payment](https://github.com/mohamedabdelbaryaboalia/Aboalynx-Payment) | 0 | Payment Package based on laravel |
+| [phattarachai/thaidate](https://github.com/phattarachai/thaidate) | 12 | A Laravel and PHP package for thaidate() function |
+| [teamescellence/saas-platform](https://github.com/teamescellence/saas-platform) | 0 | Monorepo for building and managing multiple SaaS products with Next.js, Turborep... |
+| [tatran0195/pagible](https://github.com/tatran0195/pagible) | 0 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
+| [ghasedakapi/ghasedaksms-laravel](https://github.com/ghasedakapi/ghasedaksms-laravel) | 0 | laravel package for use ghasedaksms api services |
+| [ashbink/nepali-date](https://github.com/ashbink/nepali-date) | 0 | Laravel Nepali English Date Converter Package |
+| [IlhamHattaManggala/laravel-datatable](https://github.com/IlhamHattaManggala/laravel-datatable) | 0 | Server-driven Data Table package for Laravel applications powered by Inertia.js ... |
 | [w33bvGL/moonshine-chunk-upload](https://github.com/w33bvGL/moonshine-chunk-upload) | 0 | Resumable, parallel chunked file upload field for the MoonShine 4 admin panel. L... |
 | [sloukapetr/comgate-laravel-package](https://github.com/sloukapetr/comgate-laravel-package) | 0 | Lightweight Laravel package for Comgate REST API integration. Supports single pa... |
 | [4ekav0meow/laravel-telegram-logger](https://github.com/4ekav0meow/laravel-telegram-logger) | 0 | Laravel-package-for-sending-log-messages-to-Telegram |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [KalimeroMK/countries](https://github.com/KalimeroMK/countries) | 2 | Laravel Countries is a package for Laravel, providing Almost ISO 3166_2, 3166_3,... |
 | [DrAliRagab/filament-cloudflare-mail-sender](https://github.com/DrAliRagab/filament-cloudflare-mail-sender) | 0 | Filament panel package for composing and auditing transactional email via Larave... |
 | [ozkanozcan/laravel-telegram](https://github.com/ozkanozcan/laravel-telegram) | 3 | Laravel 10-13 Telegram Bot notification channel package |
-| [monovm/laravel-whois](https://github.com/monovm/laravel-whois) | 0 | Simple and fast domain whois lookup and availability checking for Laravel with a... |
-| [9leedev/leefipay-mpesa](https://github.com/9leedev/leefipay-mpesa) | 0 | Official Laravel package for the LeefiPay M-Pesa Open API. |
-| [laravel-json-api/boolean-softdeletes](https://github.com/laravel-json-api/boolean-softdeletes) | 3 | Laravel JSON:API integration for the tenantcloud/laravel-boolean-softdeletes pac... |
-| [MohamedSamy902/laravel-media-vault](https://github.com/MohamedSamy902/laravel-media-vault) | 4 | A production-grade, security-hardened Laravel package for resumable chunked uplo... |
-| [zero-to-prod/laravel-package](https://github.com/zero-to-prod/laravel-package) | 0 | A Laravel Package Template |
-| [skylence-org/laravel-telescope-mcp](https://github.com/skylence-org/laravel-telescope-mcp) | 0 |  |
-| [skylence-org/laravel-star-schema](https://github.com/skylence-org/laravel-star-schema) | 0 |  |
-| [skylence-org/laravel-optimize-mcp](https://github.com/skylence-org/laravel-optimize-mcp) | 0 |  |
-| [skylence-org/laravel-model-inspector-mcp](https://github.com/skylence-org/laravel-model-inspector-mcp) | 0 |  |
-| [skylence-org/laravel-artisan-agent-output](https://github.com/skylence-org/laravel-artisan-agent-output) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 10 | 2026-08-10 | Kompass A Laravel CMS |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 101 | 2026-08-10 | A live database structure viewer for Laravel that renders yo... |
+| [Codie-Shannon/FamilyArchive](https://github.com/Codie-Shannon/FamilyArchive) | 0 | 2026-08-10 | Privacy-first, preservation-grade family history platform wi... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-10 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 196 | 2026-08-10 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-08-10 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [mohamedabdelbaryaboalia/Aboalynx-Payment](https://github.com/mohamedabdelbaryaboalia/Aboalynx-Payment) | 0 | 2026-08-10 | Payment Package based on laravel |
 | [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-08-10 |  |
-| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-08-10 | PHP and Laravel Cursor rules — coding standards, testing, an... |
-| [WiserWebSolutions/laravel-boarddocs-scraper](https://github.com/WiserWebSolutions/laravel-boarddocs-scraper) | 0 | 2026-08-10 | A Laravel package that scans public BoardDocs sites for agen... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-10 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-10 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-10 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-10 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [sloukapetr/comgate-laravel-package](https://github.com/sloukapetr/comgate-laravel-package) | 0 | 2026-08-10 | Lightweight Laravel package for Comgate REST API integration... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-08-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-08-10 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [VanOns/filament-redirects](https://github.com/VanOns/filament-redirects) | 0 | 2026-08-10 | A Filament package to manage redirects in your application. |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-08-10 | Package analytics laravel + livewire |
+| [farayaz/laravel-otp](https://github.com/farayaz/laravel-otp) | 9 | 2026-08-10 | simple laravel-otp package |
 | [mwguerra/web-terminal-stream](https://github.com/mwguerra/web-terminal-stream) | 1 | 2026-08-10 | A Stream-mode web terminal for Filament/Laravel: full intera... |
-| [tursodatabase/turso-driver-laravel](https://github.com/tursodatabase/turso-driver-laravel) | 99 | 2026-08-10 | Turso Driver for Laravel with Native libSQL - Community SDK |
-| [devanoxltd/core](https://github.com/devanoxltd/core) | 0 | 2026-08-10 | Core package for Laravel projects providing module support, ... |
-| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 10 | 2026-08-10 | Filament package for easy attachment uploading and browsing. |
-| [RumenDamyanov/php-seo](https://github.com/RumenDamyanov/php-seo) | 10 | 2026-08-10 | AI-powered, framework-agnostic PHP package for automated SEO... |
-| [meeeet-dev/laravel-shiprocket](https://github.com/meeeet-dev/laravel-shiprocket) | 1 | 2026-08-10 | Laravel Shiprocket Package |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-10 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [w33bvGL/moonshine-chunk-upload](https://github.com/w33bvGL/moonshine-chunk-upload) | 0 | 2026-08-10 | Resumable, parallel chunked file upload field for the MoonSh... |
+| [phattarachai/thaidate](https://github.com/phattarachai/thaidate) | 12 | 2026-08-10 | A Laravel and PHP package for thaidate() function |
+| [hammadzafar05/filament-mobile-preset](https://github.com/hammadzafar05/filament-mobile-preset) | 1 | 2026-08-10 | Mobile-first defaults for Filament panels, bottom navigation... |
+| [sopheaksem9999/sp-jwt-auth](https://github.com/sopheaksem9999/sp-jwt-auth) | 1 | 2026-08-10 | SP JWT Auth Package JWT Authentication Package for Laravel |
+| [teamescellence/saas-platform](https://github.com/teamescellence/saas-platform) | 0 | 2026-08-10 | Monorepo for building and managing multiple SaaS products wi... |
+| [centrex/laravel-payroll](https://github.com/centrex/laravel-payroll) | 0 | 2026-08-10 | payroll package for laravel |
+| [TheDoctor0/laravel-mailjet-driver](https://github.com/TheDoctor0/laravel-mailjet-driver) | 32 | 2026-08-10 | Laravel mail driver package for Mailjet and wrapper for its ... |
+| [schaefersoft/laravel-swiss-eid](https://github.com/schaefersoft/laravel-swiss-eid) | 2 | 2026-08-10 | Laravel package for Swiss eID / swiyu verification with Open... |
+| [mizanCoreNg/baas-laravel](https://github.com/mizanCoreNg/baas-laravel) | 0 | 2026-08-10 | Official Laravel package for the MizanCore Banking-as-a-Serv... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-10 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-10T18:37 | 10 | 1721 | 5717 |
 | 2026-08-10T12:36 | 5 | 1727 | 5707 |
 | 2026-08-10T06:49 | 1 | 1730 | 5702 |
 | 2026-08-10T00:38 | 4 | 1727 | 5701 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-09T00:37 | 3 | 1724 | 5685 |
 | 2026-08-08T18:33 | 4 | 1722 | 5682 |
 | 2026-08-08T12:34 | 5 | 1720 | 5678 |
-| 2026-08-08T06:35 | 1 | 1722 | 5673 |
 
 ---
 

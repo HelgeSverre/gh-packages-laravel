@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5731  
-**Last updated:** 2026-08-11T12:35:40.228Z
+**Total packages tracked:** 5737  
+**Last updated:** 2026-08-11T18:38:50.435Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Elvesora/acceptora-laravel](https://github.com/Elvesora/acceptora-laravel) | 0 | Laravel 12 and 13 client for Acceptora verification over REST and MCP. |
+| [michalkortas/pingme-now](https://github.com/michalkortas/pingme-now) | 0 | pingme laravel package |
+| [tushar-arote/Rediscope](https://github.com/tushar-arote/Rediscope) | 1 | An Laravel Telescope like UI for RedisManager |
+| [dineshstack/laravel-whatsapp-cost-control](https://github.com/dineshstack/laravel-whatsapp-cost-control) | 0 | WhatsApp Business Cloud API for Laravel with the part nobody packages: per-messa... |
+| [lucenarenato/asaas-php-sdk](https://github.com/lucenarenato/asaas-php-sdk) | 0 | The missing ASAAS PHP/Laravel Package |
+| [iamdevroyal/laravel-mobile-jump](https://github.com/iamdevroyal/laravel-mobile-jump) | 0 | A zero-config Composer package that adds the Mobile Runner feature to any Larave... |
 | [yavuzscnplt/partcore-otomotiv](https://github.com/yavuzscnplt/partcore-otomotiv) | 1 | PartCore — B2B otomotiv yedek parca platformu: siparis, cari, stok, satinalma, e... |
 | [GTS-MEGHNI/laravel-captcha](https://github.com/GTS-MEGHNI/laravel-captcha) | 0 | Classic image-based CAPTCHA generation and validation for Laravel applications. |
 | [mdhgit/crio-api](https://github.com/mdhgit/crio-api) | 0 | Laravel package for integrating with the CRIO API |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [haiman4real/whatsapp-api](https://github.com/haiman4real/whatsapp-api) | 0 | The whatsapp-notification package allows Laravel applications to send WhatsApp m... |
 | [sloukapetr/moneta-laravel-package](https://github.com/sloukapetr/moneta-laravel-package) | 0 | Lightweight Laravel package for Moneta Money Bank REST API integration. |
 | [aboalynx/payment](https://github.com/aboalynx/payment) | 0 | Payment Package based on laravel |
-| [alexhackney/laravel-socialbu](https://github.com/alexhackney/laravel-socialbu) | 0 | Laravel wrapper for the SocialBu social media API |
-| [lyndonjohn/project-tracker](https://github.com/lyndonjohn/project-tracker) | 0 | Client project tracker for a digital agency. Laravel 13 and Livewire 4, with rol... |
-| [alexhackney/laravel-doppler](https://github.com/alexhackney/laravel-doppler) | 0 | Render a Laravel .env from Doppler secrets safely, atomically, and with a round-... |
-| [mohamedabdelbaryaboalia/Aboalynx-Payment](https://github.com/mohamedabdelbaryaboalia/Aboalynx-Payment) | 0 | Payment Package based on laravel |
-| [phattarachai/thaidate](https://github.com/phattarachai/thaidate) | 12 | A Laravel and PHP package for thaidate() function |
-| [teamescellence/saas-platform](https://github.com/teamescellence/saas-platform) | 0 | Monorepo for building and managing multiple SaaS products with Next.js, Turborep... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 165 | 2026-08-11 | A live database structure viewer for Laravel that renders yo... |
-| [lexalium/laravel-stepped-form-submitter](https://github.com/lexalium/laravel-stepped-form-submitter) | 1 | 2026-08-11 | With this package you can submit a form entity, e.g. save it... |
+| [iamdevroyal/laravel-mobile-jump](https://github.com/iamdevroyal/laravel-mobile-jump) | 0 | 2026-08-11 | A zero-config Composer package that adds the Mobile Runner f... |
+| [michalkortas/pingme-now](https://github.com/michalkortas/pingme-now) | 0 | 2026-08-11 | pingme laravel package |
+| [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 10 | 2026-08-11 | Laravel package providing client-side validation with Alpine... |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 197 | 2026-08-11 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [datalogix/laravel-utils](https://github.com/datalogix/laravel-utils) | 2 | 2026-08-11 | Laravel Utils is a package that configure simple things, whi... |
+| [datalogix/laravel-validation](https://github.com/datalogix/laravel-validation) | 3 | 2026-08-11 | Laravel Validation is a package the power of Respect Validat... |
+| [datalogix/laravel-sensible](https://github.com/datalogix/laravel-sensible) | 0 | 2026-08-11 | Laravel Sensible is a lightweight utility package for applyi... |
+| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-08-11 | Prevent stale Laravel config and routes after FTP/shared-hos... |
+| [tushar-arote/Rediscope](https://github.com/tushar-arote/Rediscope) | 1 | 2026-08-11 | An Laravel Telescope like UI for RedisManager |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 171 | 2026-08-11 | A live database structure viewer for Laravel that renders yo... |
+| [hachchadi/CmiPayment](https://github.com/hachchadi/CmiPayment) | 1 | 2026-08-11 | A Laravel package for CMI payment integration |
+| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-08-11 | Laravel Monitor: A lightweight Laravel package providing bas... |
+| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-08-11 | Monorepo for Finity Labs' Filament packages |
 | [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-08-11 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [Codie-Shannon/FamilyArchive](https://github.com/Codie-Shannon/FamilyArchive) | 0 | 2026-08-11 | Privacy-first, preservation-grade family history platform wi... |
-| [WiserWebSolutions/laravel-boarddocs-scraper](https://github.com/WiserWebSolutions/laravel-boarddocs-scraper) | 0 | 2026-08-11 | A Laravel package that scans public BoardDocs sites for agen... |
-| [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter) | 134 | 2026-08-11 | A opponiated Laravel 12 Livewire Components Starter Kit, wit... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 339 | 2026-08-11 | The NativePHP website |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-08-11 | Laravel Dusk Testing Helper for Package Development |
-| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 2 | 2026-08-11 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
-| [lexalium/laravel-stepped-form-session-storage](https://github.com/lexalium/laravel-stepped-form-session-storage) | 0 | 2026-08-11 | The package uses session as data and key storage for Laravel... |
-| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 5 | 2026-08-11 | Multi-engine full-text search for Laravel - SQLite FTS5, MyS... |
-| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-08-11 | Package analytics laravel + livewire |
-| [lexalium/laravel-stepped-form](https://github.com/lexalium/laravel-stepped-form) | 3 | 2026-08-11 | With this package you can create a Stepped Form and render o... |
-| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-08-11 | Gremio Linhir |
-| [hackemate28-ux/filament-extra-fields](https://github.com/hackemate28-ux/filament-extra-fields) | 0 | 2026-08-11 | Extra form fields for Filament v4, built on native primitive... |
-| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-08-11 | A lightweight Laravel package that keeps cached configuratio... |
-| [orchestral/sidekick](https://github.com/orchestral/sidekick) | 12 | 2026-08-11 | Packages Toolkit Utilities and Helpers for Laravel |
-| [ozkanozcan/laravel-telegram](https://github.com/ozkanozcan/laravel-telegram) | 3 | 2026-08-11 | Laravel 10-13 Telegram Bot notification channel package |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 47 | 2026-08-11 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [GTS-MEGHNI/laravel-captcha](https://github.com/GTS-MEGHNI/laravel-captcha) | 0 | 2026-08-11 | Classic image-based CAPTCHA generation and validation for La... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-11 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-11 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-11 | Laravel package for HubSpot CRM: every object type, directio... |
+| [codewithagents/openapi-laravel](https://github.com/codewithagents/openapi-laravel) | 3 | 2026-08-11 |  |
+| [mahdiJD/seo-management](https://github.com/mahdiJD/seo-management) | 0 | 2026-08-11 | A modern SEO management package for Laravel with first-class... |
+| [dineshstack/laravel-whatsapp-cost-control](https://github.com/dineshstack/laravel-whatsapp-cost-control) | 0 | 2026-08-11 | WhatsApp Business Cloud API for Laravel with the part nobody... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-11T18:38 | 6 | 1727 | 5737 |
 | 2026-08-11T12:35 | 7 | 1726 | 5731 |
 | 2026-08-11T06:39 | 3 | 1729 | 5724 |
 | 2026-08-11T00:37 | 4 | 1727 | 5721 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-10T00:38 | 4 | 1727 | 5701 |
 | 2026-08-09T18:34 | 5 | 1725 | 5697 |
 | 2026-08-09T12:34 | 0 | 1730 | 5692 |
-| 2026-08-09T06:35 | 7 | 1721 | 5692 |
 
 ---
 

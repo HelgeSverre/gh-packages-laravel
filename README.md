@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5737  
-**Last updated:** 2026-08-11T18:38:50.435Z
+**Total packages tracked:** 5742  
+**Last updated:** 2026-08-12T00:41:55.543Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Elvesora/enrichment-laravel](https://github.com/Elvesora/enrichment-laravel) | 0 | Laravel SDK for turning business domains into structured company profiles with t... |
+| [Elvesora/domain-lookup-laravel](https://github.com/Elvesora/domain-lookup-laravel) | 0 | Laravel SDK for the Elvesora Company Domain Lookup API, with typed results, a fa... |
+| [Elvesora/soryxa-laravel](https://github.com/Elvesora/soryxa-laravel) | 0 | Official Laravel SDK for Soryxa's email validation API, with a facade, dependenc... |
+| [GTS-MEGHNI/laravel-satim](https://github.com/GTS-MEGHNI/laravel-satim) | 0 | Accept CIB and Edahabia card payments in Laravel through the Algerian SATIM gate... |
+| [zipavlin/redline-laravel](https://github.com/zipavlin/redline-laravel) | 1 | A Laravel package that adds a local, on-page bug-reporting tool to your staging ... |
 | [Elvesora/acceptora-laravel](https://github.com/Elvesora/acceptora-laravel) | 0 | Laravel 12 and 13 client for Acceptora verification over REST and MCP. |
 | [michalkortas/pingme-now](https://github.com/michalkortas/pingme-now) | 0 | pingme laravel package |
 | [tushar-arote/Rediscope](https://github.com/tushar-arote/Rediscope) | 1 | An Laravel Telescope like UI for RedisManager |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cybex-gmbh/laravel-transmorpher-client](https://github.com/cybex-gmbh/laravel-transmorpher-client) | 0 | A client package for Laravel applications that use the Transmorpher media server... |
 | [mattmy/laravel-icalendar-reader](https://github.com/mattmy/laravel-icalendar-reader) | 0 | Read, validate, and query .ics calendars with a Laravel-first API—events, todos,... |
 | [richnessagency/rich-payments](https://github.com/richnessagency/rich-payments) | 0 | Plug and play Laravel payment gateway package with encrypted database settings, ... |
-| [Foysal50x/blade-ionicons](https://github.com/Foysal50x/blade-ionicons) | 12 | A package to easily make use of ionicons in your Laravel Blade views. |
-| [ebbbang/laravel-mailroom](https://github.com/ebbbang/laravel-mailroom) | 5 | A Laravel mail driver that stores outgoing mail in your database, plus a mailbox... |
-| [haiman4real/whatsapp-api](https://github.com/haiman4real/whatsapp-api) | 0 | The whatsapp-notification package allows Laravel applications to send WhatsApp m... |
-| [sloukapetr/moneta-laravel-package](https://github.com/sloukapetr/moneta-laravel-package) | 0 | Lightweight Laravel package for Moneta Money Bank REST API integration. |
-| [aboalynx/payment](https://github.com/aboalynx/payment) | 0 | Payment Package based on laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [iamdevroyal/laravel-mobile-jump](https://github.com/iamdevroyal/laravel-mobile-jump) | 0 | 2026-08-11 | A zero-config Composer package that adds the Mobile Runner f... |
-| [michalkortas/pingme-now](https://github.com/michalkortas/pingme-now) | 0 | 2026-08-11 | pingme laravel package |
-| [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 10 | 2026-08-11 | Laravel package providing client-side validation with Alpine... |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 197 | 2026-08-11 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [datalogix/laravel-utils](https://github.com/datalogix/laravel-utils) | 2 | 2026-08-11 | Laravel Utils is a package that configure simple things, whi... |
-| [datalogix/laravel-validation](https://github.com/datalogix/laravel-validation) | 3 | 2026-08-11 | Laravel Validation is a package the power of Respect Validat... |
-| [datalogix/laravel-sensible](https://github.com/datalogix/laravel-sensible) | 0 | 2026-08-11 | Laravel Sensible is a lightweight utility package for applyi... |
-| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-08-11 | Prevent stale Laravel config and routes after FTP/shared-hos... |
-| [tushar-arote/Rediscope](https://github.com/tushar-arote/Rediscope) | 1 | 2026-08-11 | An Laravel Telescope like UI for RedisManager |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 171 | 2026-08-11 | A live database structure viewer for Laravel that renders yo... |
-| [hachchadi/CmiPayment](https://github.com/hachchadi/CmiPayment) | 1 | 2026-08-11 | A Laravel package for CMI payment integration |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-08-11 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-08-11 | Monorepo for Finity Labs' Filament packages |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-08-11 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-11 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-11 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-11 | Laravel package for HubSpot CRM: every object type, directio... |
+| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-08-12 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-12 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 372 | 2026-08-12 | The official Laravel Nightwatch package. |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-08-12 | The flexible backbone for your next CMS. This powerful frame... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-12 | Laravel-based API for storing sensor data from distributed n... |
+| [jamesgifford/auth](https://github.com/jamesgifford/auth) | 1 | 2026-08-12 | Reusable authentication scaffolding for Laravel: prefixed pu... |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-08-12 | Laravel package to handle requests are ensured sent |
+| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 16 | 2026-08-11 | A simple content page management system with a flexible cont... |
+| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 8 | 2026-08-11 | Filament plugin for Help Desk ticket management — User, Oper... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-11 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [WiserWebSolutions/laravel-boarddocs-scraper](https://github.com/WiserWebSolutions/laravel-boarddocs-scraper) | 0 | 2026-08-11 | A Laravel package that scans public BoardDocs sites for agen... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-08-11 | A Laravel-based web application that tracks, analyzes, and p... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-08-11 | Filament plugin that allows to add dynamic, user-defined for... |
+| [svareX/Almost-Classroom](https://github.com/svareX/Almost-Classroom) | 3 | 2026-08-11 | A Laravel-based LMS featuring Google OAuth, nested comments,... |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-08-11 | A personal portfolio built as an interactive browser-based t... |
+| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 4 | 2026-08-11 | The Laravel Lobster |
+| [moaines/illumi-search](https://github.com/moaines/illumi-search) | 5 | 2026-08-11 | Multi-engine full-text search for Laravel - SQLite FTS5, MyS... |
 | [codewithagents/openapi-laravel](https://github.com/codewithagents/openapi-laravel) | 3 | 2026-08-11 |  |
-| [mahdiJD/seo-management](https://github.com/mahdiJD/seo-management) | 0 | 2026-08-11 | A modern SEO management package for Laravel with first-class... |
-| [dineshstack/laravel-whatsapp-cost-control](https://github.com/dineshstack/laravel-whatsapp-cost-control) | 0 | 2026-08-11 | WhatsApp Business Cloud API for Laravel with the part nobody... |
+| [Rafiki23/WatermarkCredits](https://github.com/Rafiki23/WatermarkCredits) | 0 | 2026-08-11 | WatermarkCredits is a Laravel package for easily applying wa... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 177 | 2026-08-11 | A live database structure viewer for Laravel that renders yo... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-12T00:41 | 5 | 1728 | 5742 |
 | 2026-08-11T18:38 | 6 | 1727 | 5737 |
 | 2026-08-11T12:35 | 7 | 1726 | 5731 |
 | 2026-08-11T06:39 | 3 | 1729 | 5724 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-10T06:49 | 1 | 1730 | 5702 |
 | 2026-08-10T00:38 | 4 | 1727 | 5701 |
 | 2026-08-09T18:34 | 5 | 1725 | 5697 |
-| 2026-08-09T12:34 | 0 | 1730 | 5692 |
 
 ---
 

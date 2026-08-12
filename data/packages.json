@@ -804,7 +804,7 @@
     "license": "MIT",
     "created_at": "2025-01-14T16:39:25Z",
     "updated_at": "2026-02-16T12:09:57Z",
-    "pushed_at": "2026-08-12T11:50:13Z",
+    "pushed_at": "2026-08-12T13:52:04Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "backstagephp/fields": {
@@ -1134,8 +1134,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-10-07T07:13:35Z",
-    "updated_at": "2026-07-08T15:40:02Z",
-    "pushed_at": "2026-07-08T15:40:21Z",
+    "updated_at": "2026-08-12T12:57:43Z",
+    "pushed_at": "2026-08-12T12:57:36Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "team-nifty-gmbh/tall-datatables": {
@@ -2381,7 +2381,7 @@
     "name": "kettasoft/filterable",
     "url": "https://github.com/kettasoft/filterable",
     "description": "A powerful and flexible Laravel package for advanced, clean, and scalable filtering of Eloquent models using multiple customizable engines.",
-    "stars": 41,
+    "stars": 42,
     "forks": 1,
     "topics": [
       "eloquent",
@@ -2405,7 +2405,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-06-11T11:50:02Z",
-    "updated_at": "2026-07-28T07:18:56Z",
+    "updated_at": "2026-08-12T13:17:55Z",
     "pushed_at": "2026-07-28T06:52:06Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
@@ -5257,8 +5257,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-11-13T13:07:31Z",
-    "updated_at": "2026-08-07T09:39:03Z",
-    "pushed_at": "2026-08-07T09:37:33Z",
+    "updated_at": "2026-08-12T13:36:58Z",
+    "pushed_at": "2026-08-12T13:38:12Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "joaoolival/laravel-blog-engine": {
@@ -6508,8 +6508,8 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2026-07-25T08:42:15Z",
-    "updated_at": "2026-08-10T15:02:00Z",
-    "pushed_at": "2026-08-10T15:00:18Z",
+    "updated_at": "2026-08-12T12:59:02Z",
+    "pushed_at": "2026-08-12T12:58:58Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "jlbelanger/tapioca": {
@@ -15536,8 +15536,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2020-06-04T15:29:57Z",
-    "updated_at": "2026-02-10T16:40:46Z",
-    "pushed_at": "2026-03-07T02:51:57Z",
+    "updated_at": "2026-08-12T17:59:10Z",
+    "pushed_at": "2026-08-12T18:25:26Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "or81/ippanel-sms": {
@@ -23505,8 +23505,8 @@
     "language": "PHP",
     "license": "AGPL-3.0",
     "created_at": "2024-09-11T16:29:11Z",
-    "updated_at": "2026-08-08T14:20:17Z",
-    "pushed_at": "2026-08-11T22:48:50Z",
+    "updated_at": "2026-08-12T18:13:00Z",
+    "pushed_at": "2026-08-12T18:12:34Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "mostafaarafatt/laravel-ai-database": {
@@ -30884,8 +30884,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-30T20:17:08Z",
-    "updated_at": "2026-08-05T20:19:30Z",
-    "pushed_at": "2026-08-05T20:23:00Z",
+    "updated_at": "2026-08-12T18:12:36Z",
+    "pushed_at": "2026-08-12T18:16:28Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "bezhansalleh/filament-language-switch": {
@@ -31073,8 +31073,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2022-04-13T18:31:40Z",
-    "updated_at": "2026-08-08T19:42:44Z",
-    "pushed_at": "2026-08-08T19:42:41Z",
+    "updated_at": "2026-08-12T18:25:33Z",
+    "pushed_at": "2026-08-12T18:29:33Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "lara-zeus/activity-timeline": {
@@ -32848,7 +32848,7 @@
     "name": "MGeurts/genealogy",
     "url": "https://github.com/MGeurts/genealogy",
     "description": "Genealogy is a free and open-source family tree PHP application to record family members and their relationships, build with LARAVEL 13.",
-    "stars": 354,
+    "stars": 355,
     "forks": 115,
     "topics": [
       "ancestry",
@@ -32870,7 +32870,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-01-17T21:13:35Z",
-    "updated_at": "2026-08-11T07:53:11Z",
+    "updated_at": "2026-08-12T12:50:34Z",
     "pushed_at": "2026-08-11T07:53:07Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -40549,8 +40549,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-07-09T19:55:23Z",
-    "updated_at": "2026-08-05T10:46:02Z",
-    "pushed_at": "2026-08-12T10:44:44Z",
+    "updated_at": "2026-08-12T18:10:13Z",
+    "pushed_at": "2026-08-12T18:09:55Z",
     "discovered_at": "2026-02-24T18:21:47.432Z"
   },
   "jeffersongoncalves/nativekit": {
@@ -40750,8 +40750,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-06-04T10:42:06Z",
-    "updated_at": "2026-08-05T13:30:51Z",
-    "pushed_at": "2026-08-12T11:45:32Z",
+    "updated_at": "2026-08-12T18:09:42Z",
+    "pushed_at": "2026-08-12T18:09:24Z",
     "discovered_at": "2026-02-24T18:21:47.432Z"
   },
   "filakitphp/basev3": {
@@ -43070,8 +43070,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-23T19:59:41Z",
-    "updated_at": "2026-08-12T05:44:35Z",
-    "pushed_at": "2026-08-12T05:46:15Z",
+    "updated_at": "2026-08-12T15:04:53Z",
+    "pushed_at": "2026-08-12T15:03:29Z",
     "discovered_at": "2026-03-02T12:12:22.685Z"
   },
   "foxen-digital/laravel-uk-bank-holidays": {
@@ -51424,7 +51424,7 @@
     "url": "https://github.com/reasvyn/internara",
     "description": "A practical work management information system built with Laravel Modular Monolith architecture (TALL Stack).",
     "stars": 3,
-    "forks": 0,
+    "forks": 1,
     "topics": [
       "indonesia",
       "internship-management",
@@ -51438,8 +51438,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-21T14:39:43Z",
-    "updated_at": "2026-08-10T06:54:44Z",
-    "pushed_at": "2026-08-10T06:54:24Z",
+    "updated_at": "2026-08-12T13:56:45Z",
+    "pushed_at": "2026-08-12T13:55:13Z",
     "discovered_at": "2026-03-19T18:18:45.875Z"
   },
   "elfeffe/favicon-fetcher": {
@@ -57633,7 +57633,7 @@
     "name": "jmrashed/zkteco",
     "url": "https://github.com/jmrashed/zkteco",
     "description": "ZKTeco Package For Laravel. This package provides seamless integration with ZKTeco devices within Laravel applications, enabling communication with attendance devices such as fingerprint, face recognition, or RFID using UDP protocol.https://packagist.org/packages/jmrashed/zkteco",
-    "stars": 62,
+    "stars": 63,
     "forks": 23,
     "topics": [
       "jmrashed",
@@ -57645,7 +57645,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-04-22T14:54:51Z",
-    "updated_at": "2026-07-30T23:25:41Z",
+    "updated_at": "2026-08-12T15:37:15Z",
     "pushed_at": "2026-07-25T18:19:08Z",
     "discovered_at": "2026-03-31T00:26:46.168Z"
   },
@@ -62934,8 +62934,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-08-15T15:36:54Z",
-    "updated_at": "2026-04-13T09:50:03Z",
-    "pushed_at": "2026-04-20T00:09:18Z",
+    "updated_at": "2026-08-12T13:03:20Z",
+    "pushed_at": "2026-08-12T13:02:52Z",
     "discovered_at": "2026-04-13T13:19:21.691Z"
   },
   "hexadog/laravel-theme-installer": {
@@ -67234,8 +67234,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-03-12T14:56:20Z",
-    "updated_at": "2026-08-07T12:33:07Z",
-    "pushed_at": "2026-08-07T12:32:47Z",
+    "updated_at": "2026-08-12T13:57:23Z",
+    "pushed_at": "2026-08-12T13:55:38Z",
     "discovered_at": "2026-04-26T00:32:42.795Z"
   },
   "a2zwebltd/laravel-customer-support": {
@@ -67938,7 +67938,7 @@
     "url": "https://github.com/Kyon147/laravel-shopify",
     "description": "A full-featured Laravel package for aiding in Shopify App development",
     "stars": 490,
-    "forks": 176,
+    "forks": 177,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
@@ -72117,8 +72117,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-05-09T10:29:03Z",
-    "updated_at": "2026-08-12T12:23:18Z",
-    "pushed_at": "2026-08-12T12:22:38Z",
+    "updated_at": "2026-08-12T13:30:25Z",
+    "pushed_at": "2026-08-12T13:29:48Z",
     "discovered_at": "2026-05-09T18:20:38.890Z"
   },
   "highvertical/widget-package": {
@@ -73525,8 +73525,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-05-14T09:05:32Z",
-    "updated_at": "2026-07-21T20:20:47Z",
-    "pushed_at": "2026-07-21T20:20:45Z",
+    "updated_at": "2026-08-12T14:18:06Z",
+    "pushed_at": "2026-08-12T14:16:16Z",
     "discovered_at": "2026-05-14T14:01:51.590Z"
   },
   "tetrixdev/laravel-ai-bridge": {
@@ -79885,8 +79885,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-05-10T06:11:09Z",
-    "updated_at": "2026-08-12T06:14:05Z",
-    "pushed_at": "2026-08-12T06:13:41Z",
+    "updated_at": "2026-08-12T15:43:17Z",
+    "pushed_at": "2026-08-12T15:42:36Z",
     "discovered_at": "2026-06-03T00:53:59.862Z"
   },
   "alimarchal/laravel-chart-of-accounts-package": {
@@ -83469,8 +83469,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-12T21:58:42Z",
-    "updated_at": "2026-06-19T15:51:10Z",
-    "pushed_at": "2026-06-19T15:53:06Z",
+    "updated_at": "2026-08-12T16:43:40Z",
+    "pushed_at": "2026-08-12T16:44:10Z",
     "discovered_at": "2026-06-13T00:49:34.704Z"
   },
   "seyiajibola/laravel-ng-fintech": {
@@ -85814,7 +85814,7 @@
     "license": "MIT",
     "created_at": "2021-05-21T07:50:51Z",
     "updated_at": "2026-07-14T15:55:49Z",
-    "pushed_at": "2026-07-14T15:55:46Z",
+    "pushed_at": "2026-08-12T13:26:09Z",
     "discovered_at": "2026-06-19T18:38:07.162Z"
   },
   "designmynight/laravel-recursive-collection": {
@@ -86069,8 +86069,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-08-22T12:54:52Z",
-    "updated_at": "2026-08-12T10:49:10Z",
-    "pushed_at": "2026-08-12T10:49:07Z",
+    "updated_at": "2026-08-12T14:06:17Z",
+    "pushed_at": "2026-08-12T14:03:57Z",
     "discovered_at": "2026-06-20T12:37:57.657Z"
   },
   "shaxzodbek-uzb/laravel-model-mcp": {
@@ -88159,8 +88159,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-06-22T02:01:04Z",
-    "updated_at": "2026-06-24T15:11:51Z",
-    "pushed_at": "2026-06-24T14:51:35Z",
+    "updated_at": "2026-08-12T15:36:23Z",
+    "pushed_at": "2026-08-12T15:36:05Z",
     "discovered_at": "2026-06-24T18:37:11.489Z"
   },
   "mojtba-allam/iwindoor": {
@@ -91831,8 +91831,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-24T10:44:12Z",
-    "updated_at": "2026-07-18T22:33:16Z",
-    "pushed_at": "2026-07-21T23:13:58Z",
+    "updated_at": "2026-08-12T18:16:18Z",
+    "pushed_at": "2026-08-12T18:17:03Z",
     "discovered_at": "2026-07-01T12:58:45.298Z"
   },
   "padosoft/laravel-iam-console": {
@@ -92241,8 +92241,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-02T09:56:25Z",
-    "updated_at": "2026-08-05T01:09:19Z",
-    "pushed_at": "2026-08-05T01:09:13Z",
+    "updated_at": "2026-08-12T15:53:29Z",
+    "pushed_at": "2026-08-12T15:51:47Z",
     "discovered_at": "2026-07-02T18:32:32.168Z"
   },
   "morpheusadam/mobilemart": {
@@ -95298,8 +95298,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-11T11:11:40Z",
-    "updated_at": "2026-08-12T06:08:34Z",
-    "pushed_at": "2026-08-12T06:08:03Z",
+    "updated_at": "2026-08-12T17:56:27Z",
+    "pushed_at": "2026-08-12T18:27:38Z",
     "discovered_at": "2026-07-12T07:13:34.299Z"
   },
   "capell-app/navigation": {
@@ -98580,8 +98580,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-05-01T16:17:41Z",
-    "updated_at": "2026-08-12T11:30:54Z",
-    "pushed_at": "2026-08-12T11:30:20Z",
+    "updated_at": "2026-08-12T15:08:37Z",
+    "pushed_at": "2026-08-12T15:06:51Z",
     "discovered_at": "2026-07-21T07:15:31.489Z"
   },
   "rahax/iranian-holidays": {
@@ -98941,8 +98941,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-21T19:19:19Z",
-    "updated_at": "2026-08-11T21:30:14Z",
-    "pushed_at": "2026-08-11T21:30:08Z",
+    "updated_at": "2026-08-12T17:51:37Z",
+    "pushed_at": "2026-08-12T17:51:04Z",
     "discovered_at": "2026-07-22T00:54:40.448Z"
   },
   "bambamboole/laravel-oidc-server": {
@@ -99365,17 +99365,20 @@
     "forks": 0,
     "topics": [
       "laravel",
+      "latavel-package",
       "payment-gateway",
       "php",
       "sslcommerz",
+      "sslcommerz-api-laravel",
       "sslcommerz-laravel",
+      "sslcommerz-payment",
       "sslcommerz-payment-gateway",
       "sslcommerz-payment-gateway-integration"
     ],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-02T19:31:03Z",
-    "updated_at": "2026-08-04T10:34:51Z",
+    "updated_at": "2026-08-12T16:17:02Z",
     "pushed_at": "2026-08-04T10:34:41Z",
     "discovered_at": "2026-07-22T18:45:07.933Z"
   },
@@ -100047,8 +100050,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-02-04T14:39:44Z",
-    "updated_at": "2026-08-12T08:46:01Z",
-    "pushed_at": "2026-08-12T08:44:16Z",
+    "updated_at": "2026-08-12T18:04:35Z",
+    "pushed_at": "2026-08-12T18:23:23Z",
     "discovered_at": "2026-07-23T18:47:23.154Z"
   },
   "arthur-bpv/erd-laravel-package": {
@@ -100856,8 +100859,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-26T18:43:25Z",
-    "updated_at": "2026-08-11T17:19:30Z",
-    "pushed_at": "2026-08-12T12:07:53Z",
+    "updated_at": "2026-08-12T13:04:51Z",
+    "pushed_at": "2026-08-12T13:04:30Z",
     "discovered_at": "2026-07-27T18:51:49.181Z"
   },
   "alnoman141/laravel-idempotency": {
@@ -100951,7 +100954,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-27T18:12:36Z",
-    "updated_at": "2026-08-08T21:06:24Z",
+    "updated_at": "2026-08-12T14:39:10Z",
     "pushed_at": "2026-08-08T21:06:23Z",
     "discovered_at": "2026-07-27T18:51:49.187Z"
   },
@@ -101028,7 +101031,7 @@
     "name": "albertoarena/laravel-truss",
     "url": "https://github.com/albertoarena/laravel-truss",
     "description": "A live database structure viewer for Laravel that renders your schema as a scrollable, zoomable ER diagram. Structure only, never data.",
-    "stars": 185,
+    "stars": 192,
     "forks": 7,
     "topics": [
       "database",
@@ -101046,8 +101049,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-22T18:51:08Z",
-    "updated_at": "2026-08-12T11:31:46Z",
-    "pushed_at": "2026-08-12T05:39:36Z",
+    "updated_at": "2026-08-12T18:27:24Z",
+    "pushed_at": "2026-08-12T14:12:57Z",
     "discovered_at": "2026-07-28T00:53:08.670Z"
   },
   "modularavel/cloudflare-stream-video": {
@@ -102018,7 +102021,7 @@
     "name": "mnapoli/dotlock",
     "url": "https://github.com/mnapoli/dotlock",
     "description": "Secure secrets for local Laravel development",
-    "stars": 14,
+    "stars": 15,
     "forks": 0,
     "topics": [
       "dotenv",
@@ -102029,7 +102032,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-29T17:18:12Z",
-    "updated_at": "2026-08-11T12:04:09Z",
+    "updated_at": "2026-08-12T17:08:58Z",
     "pushed_at": "2026-07-31T14:23:42Z",
     "discovered_at": "2026-07-30T18:52:10.649Z"
   },
@@ -102741,8 +102744,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-11T16:52:50Z",
-    "updated_at": "2026-08-11T21:29:49Z",
-    "pushed_at": "2026-08-11T21:29:47Z",
+    "updated_at": "2026-08-12T17:50:57Z",
+    "pushed_at": "2026-08-12T17:50:52Z",
     "discovered_at": "2026-08-02T00:59:48.085Z"
   },
   "meeeet-dev/laravel-shiprocket": {
@@ -103961,7 +103964,7 @@
     "license": "MIT",
     "created_at": "2026-08-05T13:27:20Z",
     "updated_at": "2026-08-12T10:13:30Z",
-    "pushed_at": "2026-08-12T10:29:18Z",
+    "pushed_at": "2026-08-12T18:24:37Z",
     "discovered_at": "2026-08-06T00:49:48.418Z"
   },
   "omarabdelwahhab30/laravel-inspector-package": {
@@ -104413,7 +104416,7 @@
     "name": "Voxyfy/anadolupay",
     "url": "https://github.com/Voxyfy/anadolupay",
     "description": "Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ödeme paketi — Garanti, Akbank, İş Bankası, Yapı Kredi, VakıfBank, Ziraat, DenizBank, Kuveyt Türk, PayTR, Param ve daha fazlası.",
-    "stars": 17,
+    "stars": 18,
     "forks": 0,
     "topics": [
       "3d-secure",
@@ -104432,7 +104435,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-17T19:14:40Z",
-    "updated_at": "2026-08-12T11:40:40Z",
+    "updated_at": "2026-08-12T18:32:37Z",
     "pushed_at": "2026-08-12T11:32:02Z",
     "discovered_at": "2026-08-07T01:32:07.105Z"
   },
@@ -104469,13 +104472,13 @@
     "name": "packstub/partisan",
     "url": "https://github.com/packstub/partisan",
     "description": "Artisan for Laravel packages — make: generators that write into src/ with your package namespace. Built on Orchestra Testbench.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-07T10:13:38Z",
-    "updated_at": "2026-08-11T06:52:13Z",
+    "updated_at": "2026-08-12T14:44:05Z",
     "pushed_at": "2026-08-10T10:20:36Z",
     "discovered_at": "2026-08-07T12:35:45.953Z"
   },
@@ -104879,8 +104882,8 @@
     "name": "mathiasonea/laravel-rulebook",
     "url": "https://github.com/mathiasonea/laravel-rulebook",
     "description": "A Laravel package for selecting which code-defined business rule applies to a subject at any point in time—and explaining why.",
-    "stars": 2,
-    "forks": 1,
+    "stars": 5,
+    "forks": 2,
     "topics": [
       "business-rules",
       "effective-dates",
@@ -104895,7 +104898,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-17T19:48:03Z",
-    "updated_at": "2026-08-10T14:36:15Z",
+    "updated_at": "2026-08-12T16:48:36Z",
     "pushed_at": "2026-08-10T14:33:59Z",
     "discovered_at": "2026-08-09T00:37:17.578Z"
   },
@@ -105466,8 +105469,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-10T15:27:14Z",
-    "updated_at": "2026-08-10T16:25:54Z",
-    "pushed_at": "2026-08-10T16:01:13Z",
+    "updated_at": "2026-08-12T16:06:12Z",
+    "pushed_at": "2026-08-12T16:04:09Z",
     "discovered_at": "2026-08-10T18:37:00.236Z"
   },
   "alexhackney/laravel-socialbu": {
@@ -105564,7 +105567,7 @@
     "name": "ebbbang/laravel-mailroom",
     "url": "https://github.com/ebbbang/laravel-mailroom",
     "description": "A Laravel mail driver that stores outgoing mail in your database, plus a mailbox to read it.",
-    "stars": 8,
+    "stars": 9,
     "forks": 0,
     "topics": [
       "developer-tools",
@@ -105581,7 +105584,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-30T10:19:04Z",
-    "updated_at": "2026-08-12T12:26:36Z",
+    "updated_at": "2026-08-12T16:03:26Z",
     "pushed_at": "2026-08-10T20:05:39Z",
     "discovered_at": "2026-08-11T00:37:41.214Z"
   },
@@ -106018,8 +106021,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-12T01:07:28Z",
-    "updated_at": "2026-08-12T08:59:10Z",
-    "pushed_at": "2026-08-12T08:56:10Z",
+    "updated_at": "2026-08-12T14:07:59Z",
+    "pushed_at": "2026-08-12T14:06:52Z",
     "discovered_at": "2026-08-12T06:50:18.958Z"
   },
   "adolfoholzer/currency": {
@@ -106356,15 +106359,15 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-12T09:05:18Z",
-    "updated_at": "2026-08-12T10:17:04Z",
-    "pushed_at": "2026-08-12T10:16:59Z",
+    "updated_at": "2026-08-12T14:33:33Z",
+    "pushed_at": "2026-08-12T14:31:07Z",
     "discovered_at": "2026-08-12T12:35:50.547Z"
   },
   "moanwer/softstore": {
     "name": "MoAnwer/SoftStore",
     "url": "https://github.com/MoAnwer/SoftStore",
     "description": "E-commerce project using Laravel 12 , Filamentphp 3, Livewire 3, TailwindCss and Preline UI",
-    "stars": 15,
+    "stars": 14,
     "forks": 1,
     "topics": [
       "ecommerce-website",
@@ -106380,7 +106383,7 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-04-04T05:34:22Z",
-    "updated_at": "2026-06-28T12:16:48Z",
+    "updated_at": "2026-08-12T14:58:35Z",
     "pushed_at": "2026-07-21T05:43:59Z",
     "discovered_at": "2026-08-12T12:35:50.548Z"
   },
@@ -106403,5 +106406,170 @@
     "updated_at": "2026-01-27T16:42:31Z",
     "pushed_at": "2026-06-12T10:39:17Z",
     "discovered_at": "2026-08-12T12:35:50.548Z"
+  },
+  "aybarsm/laravel-whoisjson": {
+    "name": "aybarsm/laravel-whoisjson",
+    "url": "https://github.com/aybarsm/laravel-whoisjson",
+    "description": "An opinionated Laravel service provider package for whoisjson.com",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-08-12T15:18:58Z",
+    "updated_at": "2026-08-12T17:02:57Z",
+    "pushed_at": "2026-08-12T17:02:38Z",
+    "discovered_at": "2026-08-12T18:39:30.807Z"
+  },
+  "zainphp/material-blade": {
+    "name": "zainphp/material-blade",
+    "url": "https://github.com/zainphp/material-blade",
+    "description": "Material Blade is a simple package that provides the beautifulness of Google Material Design components as Laravel Blade components. Material Blade aims to make UI/UX development of your Laravel app faster, inspired by Material UI.",
+    "stars": 14,
+    "forks": 2,
+    "topics": [
+      "blade-components",
+      "laravel",
+      "material",
+      "material-design",
+      "material-ui"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2022-08-08T19:56:28Z",
+    "updated_at": "2026-08-12T16:58:57Z",
+    "pushed_at": "2026-08-12T16:58:52Z",
+    "discovered_at": "2026-08-12T18:39:30.807Z"
+  },
+  "sonole/laravel-gov-gr": {
+    "name": "sonole/laravel-gov-gr",
+    "url": "https://github.com/sonole/laravel-gov-gr",
+    "description": "Laravel package for Greek government & business APIs in one place: GEMI (business registry), AMKA, ERGANI, AADE Tax Registry (ΑΦΜ lookups), Bank Confirm (IBAN/ΑΦΜ), and TAXISnet/gov.gr OAuth2 login. Built-in audit logging for ΚΕΔ calls. Supports PHP 8.1+ and Laravel 10–13.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "aade",
+      "afm",
+      "amka",
+      "api-client",
+      "business-registry",
+      "ergani",
+      "gemi",
+      "gov-gr",
+      "government-api",
+      "greece",
+      "greek",
+      "gsis",
+      "laravel",
+      "laravel-package",
+      "oauth2",
+      "php",
+      "sso",
+      "tax-registry",
+      "taxisnet"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-08-12T16:03:53Z",
+    "updated_at": "2026-08-12T16:30:02Z",
+    "pushed_at": "2026-08-12T16:30:54Z",
+    "discovered_at": "2026-08-12T18:39:30.807Z"
+  },
+  "timslabs/laravel-shiprocket": {
+    "name": "timslabs/laravel-shiprocket",
+    "url": "https://github.com/timslabs/laravel-shiprocket",
+    "description": "Laravel integration package for Shiprocket, providing a clean and simple way to manage orders, shipments, couriers, tracking, and other Shiprocket APIs within Laravel applications.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-08-12T14:59:18Z",
+    "updated_at": "2026-08-12T16:07:52Z",
+    "pushed_at": "2026-08-12T16:07:43Z",
+    "discovered_at": "2026-08-12T18:39:30.807Z"
+  },
+  "sabbottlabs/laravel-adminerneo-builder": {
+    "name": "sabbottlabs/laravel-adminerneo-builder",
+    "url": "https://github.com/sabbottlabs/laravel-adminerneo-builder",
+    "description": "Laravel 11 package builder for integrating AdminerNeo",
+    "stars": 1,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "NOASSERTION",
+    "created_at": "2025-02-04T01:59:13Z",
+    "updated_at": "2026-08-12T15:04:44Z",
+    "pushed_at": "2026-08-12T15:02:45Z",
+    "discovered_at": "2026-08-12T18:39:30.807Z"
+  },
+  "marekmiklusek/laravel-monitor-client": {
+    "name": "marekmiklusek/laravel-monitor-client",
+    "url": "https://github.com/marekmiklusek/laravel-monitor-client",
+    "description": "Self-hosted error and uptime monitoring for Laravel. The client package that ships exceptions, failed jobs and heartbeats to your own server.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-08-06T17:08:44Z",
+    "updated_at": "2026-08-12T17:26:50Z",
+    "pushed_at": "2026-08-11T17:49:28Z",
+    "discovered_at": "2026-08-12T18:39:30.807Z"
+  },
+  "laranail/impersonator": {
+    "name": "laranail/impersonator",
+    "url": "https://github.com/laranail/impersonator",
+    "description": "Laravel user impersonation with scoped modes, audit trails, RBAC, remote revocation, and an optional REST API.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "audit-trail",
+      "authorization",
+      "impersonation",
+      "laravel",
+      "laravel-package",
+      "multi-tenancy",
+      "oss",
+      "php",
+      "rbac",
+      "sanctum"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-08-12T16:50:08Z",
+    "updated_at": "2026-08-12T17:56:51Z",
+    "pushed_at": "2026-08-12T17:56:48Z",
+    "discovered_at": "2026-08-12T18:39:30.809Z"
+  },
+  "zaber-dev/laravel-localization": {
+    "name": "zaber-dev/laravel-localization",
+    "url": "https://github.com/zaber-dev/laravel-localization",
+    "description": "Stateful multilingual content management for Laravel with AI-ready translation pipelines, stale detection, fallback chains, and Eloquent integration.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "ai-translation",
+      "content-localization",
+      "i18n",
+      "l10n",
+      "laravel",
+      "laravel-11",
+      "laravel-12",
+      "laravel-13",
+      "laravel-package",
+      "learn",
+      "localization",
+      "multilingual",
+      "php",
+      "translation",
+      "translation-management"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-08-12T16:48:44Z",
+    "updated_at": "2026-08-12T18:05:06Z",
+    "pushed_at": "2026-08-12T16:56:52Z",
+    "discovered_at": "2026-08-12T18:39:30.809Z"
   }
 }

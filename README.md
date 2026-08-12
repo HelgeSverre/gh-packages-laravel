@@ -2,14 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5765  
-**Last updated:** 2026-08-12T12:35:50.577Z
+**Total packages tracked:** 5773  
+**Last updated:** 2026-08-12T18:39:30.843Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [MoAnwer/SoftStore](https://github.com/MoAnwer/SoftStore) | 15 | E-commerce project using Laravel 12 , Filamentphp 3, Livewire 3, TailwindCss and... |
+| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | Laravel user impersonation with scoped modes, audit trails, RBAC, remote revocat... |
+| [zaber-dev/laravel-localization](https://github.com/zaber-dev/laravel-localization) | 0 | Stateful multilingual content management for Laravel with AI-ready translation p... |
+| [aybarsm/laravel-whoisjson](https://github.com/aybarsm/laravel-whoisjson) | 0 | An opinionated Laravel service provider package for whoisjson.com |
+| [zainphp/material-blade](https://github.com/zainphp/material-blade) | 14 | Material Blade is a simple package that provides the beautifulness of Google Mat... |
+| [sonole/laravel-gov-gr](https://github.com/sonole/laravel-gov-gr) | 0 | Laravel package for Greek government & business APIs in one place: GEMI (busines... |
+| [timslabs/laravel-shiprocket](https://github.com/timslabs/laravel-shiprocket) | 0 | Laravel integration package for Shiprocket, providing a clean and simple way to ... |
+| [sabbottlabs/laravel-adminerneo-builder](https://github.com/sabbottlabs/laravel-adminerneo-builder) | 1 | Laravel 11 package builder for integrating AdminerNeo |
+| [marekmiklusek/laravel-monitor-client](https://github.com/marekmiklusek/laravel-monitor-client) | 0 | Self-hosted error and uptime monitoring for Laravel. The client package that shi... |
+| [MoAnwer/SoftStore](https://github.com/MoAnwer/SoftStore) | 14 | E-commerce project using Laravel 12 , Filamentphp 3, Livewire 3, TailwindCss and... |
 | [cib-Both/Inventory_Management](https://github.com/cib-Both/Inventory_Management) | 2 |  |
 | [blemli/pwa-for-filament](https://github.com/blemli/pwa-for-filament) | 0 | Zero config. Fully installable. |
 | [mikebronner/laravel-imagery](https://github.com/mikebronner/laravel-imagery) | 6 | Serve contextually optimized images to speed up page rendering and improve the u... |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [glesys/butler-audit](https://github.com/glesys/butler-audit) | 1 | Laravel package for sending audit events to a remote endpoint. |
 | [meemalabs/laravel-media-converter](https://github.com/meemalabs/laravel-media-converter) | 57 | 🎥 This package allows you to easily integrate with AWS MediaConvert. |
 | [TerminalDZ/Laravel-Yalidine](https://github.com/TerminalDZ/Laravel-Yalidine) | 1 | A Laravel package for integrating with the Yalidine delivery API. This package p... |
-| [Jackardios/laravel-image-dimensions](https://github.com/Jackardios/laravel-image-dimensions) | 1 | A Laravel package to efficiently determine image dimensions from local files, UR... |
-| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | Package to manage medias within Laravel |
-| [mariovalney/laravel-keycloak-web-guard](https://github.com/mariovalney/laravel-keycloak-web-guard) | 168 | Simple Keycloak Guard to Laravel Web Routes - https://packagist.org/packages/viz... |
-| [ikechukwukalu/makeservice](https://github.com/ikechukwukalu/makeservice) | 5 | A laravel package for scaffolding Service, Traits, Enums, Facades, Actions, Repo... |
-| [ikechukwukalu/requirepin](https://github.com/ikechukwukalu/requirepin) | 247 | A laravel package for pin confirmation and validation before processing requests... |
-| [ikechukwukalu/clamavfileupload](https://github.com/ikechukwukalu/clamavfileupload) | 5 | A simple File upload Laravel package with ClamAV anti-virus scan. This library w... |
-| [ibraheem-ghazi/laravel-omni-tenancy](https://github.com/ibraheem-ghazi/laravel-omni-tenancy) | 1 | a Laravel package that allows your application to act as multi tenancy applicati... |
-| [ephpm/db-laravel](https://github.com/ephpm/db-laravel) | 0 | Laravel database driver ('driver' => 'ephpm') over ePHPm's in-process DB bridge ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [milirezai/milipay](https://github.com/milirezai/milipay) | 2 | 2026-08-12 | The milipay Payment Package is a simple and flexible solutio... |
-| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-08-12 | Monorepo for Finity Labs' Filament packages |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-12 | Laravel package for HubSpot CRM: every object type, directio... |
-| [GTS-MEGHNI/laravel-captcha](https://github.com/GTS-MEGHNI/laravel-captcha) | 0 | 2026-08-12 | Classic image-based CAPTCHA generation and validation for La... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-12 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 164 | 2026-08-12 | Collect everything about sent mails in your Filament app. |
-| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-08-12 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-08-12 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-08-12 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-08-12 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-08-12 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 250 | 2026-08-12 | Collect everything about sent mails in your Laravel app |
-| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 6 | 2026-08-12 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | 2026-08-12 | A media picker plugin for Filament Panels. |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-12 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [ziffmedia/laravel-mysql-snapshots](https://github.com/ziffmedia/laravel-mysql-snapshots) | 3 | 2026-08-12 | Laravel package for creating MySQL Snapshots with command li... |
+| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-08-12 | A modular Laravel package suite for building production-read... |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 185 | 2026-08-12 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [CreativeCrafts/laravel-ai-agent-kit](https://github.com/CreativeCrafts/laravel-ai-agent-kit) | 1 | 2026-08-12 | Laravel AI Agent Kit is a Laravel package that delivers a fu... |
+| [awcodes/richer-editor](https://github.com/awcodes/richer-editor) | 40 | 2026-08-12 | A collection of extensions and tools to enhance the Filament... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-08-12 | Filament plugin that allows to add dynamic, user-defined for... |
+| [jeffersongoncalves/nativekitv4](https://github.com/jeffersongoncalves/nativekitv4) | 3 | 2026-08-12 | NativeKit starter kit built on Laravel 12.x, Filament 4.x an... |
 | [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-08-12 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
-| [adolfoholzer/currency](https://github.com/adolfoholzer/currency) | 0 | 2026-08-12 | A lightweight Laravel package that centralizes currency defi... |
-| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 17 | 2026-08-12 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 0 | 2026-08-12 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [The-3Labs-Team/nova-redirector-seo](https://github.com/The-3Labs-Team/nova-redirector-seo) | 1 | 2026-08-12 | 🔀 A full SEO package for manage redirects on your Laravel N... |
-| [WiserWebSolutions/laravel-boarddocs-scraper](https://github.com/WiserWebSolutions/laravel-boarddocs-scraper) | 0 | 2026-08-12 | A Laravel package that scans public BoardDocs sites for agen... |
-| [AdilAzhari/laravel-idempotency](https://github.com/AdilAzhari/laravel-idempotency) | 2 | 2026-08-12 | A Laravel middleware package for preventing duplicate reques... |
+| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-08-12 | Laravel user impersonation with scoped modes, audit trails, ... |
+| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-08-12 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-12 | A complete OIDC server as a laravel package |
+| [aybarsm/laravel-whoisjson](https://github.com/aybarsm/laravel-whoisjson) | 0 | 2026-08-12 | An opinionated Laravel service provider package for whoisjso... |
+| [zainphp/material-blade](https://github.com/zainphp/material-blade) | 14 | 2026-08-12 | Material Blade is a simple package that provides the beautif... |
+| [zaber-dev/laravel-localization](https://github.com/zaber-dev/laravel-localization) | 0 | 2026-08-12 | Stateful multilingual content management for Laravel with AI... |
+| [henrygodev/laranest](https://github.com/henrygodev/laranest) | 0 | 2026-08-12 | A simple scaffolding package for Laravel |
+| [sonole/laravel-gov-gr](https://github.com/sonole/laravel-gov-gr) | 0 | 2026-08-12 | Laravel package for Greek government & business APIs in one ... |
+| [timslabs/laravel-shiprocket](https://github.com/timslabs/laravel-shiprocket) | 0 | 2026-08-12 | Laravel integration package for Shiprocket, providing a clea... |
+| [alexhackney/laravel-doppler](https://github.com/alexhackney/laravel-doppler) | 0 | 2026-08-12 | Render a Laravel .env from Doppler secrets safely, atomicall... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-12T18:39 | 8 | 1728 | 5773 |
 | 2026-08-12T12:35 | 19 | 1718 | 5765 |
 | 2026-08-12T06:50 | 4 | 1728 | 5746 |
 | 2026-08-12T00:41 | 5 | 1728 | 5742 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-11T00:37 | 4 | 1727 | 5721 |
 | 2026-08-10T18:37 | 10 | 1721 | 5717 |
 | 2026-08-10T12:36 | 5 | 1727 | 5707 |
-| 2026-08-10T06:49 | 1 | 1730 | 5702 |
 
 ---
 

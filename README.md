@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5782  
-**Last updated:** 2026-08-13T12:36:23.830Z
+**Total packages tracked:** 5789  
+**Last updated:** 2026-08-13T18:39:36.131Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [amanprojects-ops/phpstart](https://github.com/amanprojects-ops/phpstart) | 3 | A powerful command-line tool to scaffold production-ready PHP projects in second... |
+| [mustafaakalin/laravel-ecommerce](https://github.com/mustafaakalin/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
+| [IlhamHattaManggala/tenancy](https://github.com/IlhamHattaManggala/tenancy) | 0 | Universal Multi-Tenancy Engine for Laravel supporting Single-DB, Multi-DB & Hybr... |
+| [EloquentWorks/Sentinel](https://github.com/EloquentWorks/Sentinel) | 1 | Laravel Sentinel provides elegant content moderation tools for Laravel applicati... |
+| [alexjustesen/laravel-placehold-image](https://github.com/alexjustesen/laravel-placehold-image) | 0 | A Laravel package to generate placeholder images. |
+| [avtocod/b2b-api-php-laravel](https://github.com/avtocod/b2b-api-php-laravel) | 7 | Laravel package for a working with B2B API service |
+| [tehwave/my-laravel-packages-demo-app](https://github.com/tehwave/my-laravel-packages-demo-app) | 0 |  |
 | [syofyanzuhad/lumina](https://github.com/syofyanzuhad/lumina) | 0 | Lightweight, self-hosted web analytics especially for Laravel |
 | [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | Manage, process, and serve files in Laravel with scalable uploads, image process... |
 | [CycleChain/sandboxer](https://github.com/CycleChain/sandboxer) | 0 | Zero-modification Laravel sandbox package for complete data isolation |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | Laravel user impersonation with scoped modes, audit trails, RBAC, remote revocat... |
 | [zaber-dev/laravel-localization](https://github.com/zaber-dev/laravel-localization) | 1 | Stateful multilingual content management for Laravel with AI-ready translation p... |
 | [aybarsm/laravel-whoisjson](https://github.com/aybarsm/laravel-whoisjson) | 0 | An opinionated Laravel service provider package for whoisjson.com |
-| [zainphp/material-blade](https://github.com/zainphp/material-blade) | 14 | Material Blade is a simple package that provides the beautifulness of Google Mat... |
-| [sonole/laravel-gov-gr](https://github.com/sonole/laravel-gov-gr) | 0 | Laravel package for Greek government & business APIs in one place: GEMI (busines... |
-| [timslabs/laravel-shiprocket](https://github.com/timslabs/laravel-shiprocket) | 0 | Laravel integration package for Shiprocket, providing a clean and simple way to ... |
-| [sabbottlabs/laravel-adminerneo-builder](https://github.com/sabbottlabs/laravel-adminerneo-builder) | 1 | Laravel 11 package builder for integrating AdminerNeo |
-| [marekmiklusek/laravel-monitor-client](https://github.com/marekmiklusek/laravel-monitor-client) | 0 | Self-hosted error and uptime monitoring for Laravel. The client package that shi... |
-| [MoAnwer/SoftStore](https://github.com/MoAnwer/SoftStore) | 14 | E-commerce project using Laravel 12 , Filamentphp 3, Livewire 3, TailwindCss and... |
-| [cib-Both/Inventory_Management](https://github.com/cib-Both/Inventory_Management) | 2 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-08-13 | Laravel user impersonation with scoped modes, audit trails, ... |
-| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 21 | 2026-08-13 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-13 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-13 | Manage and track inventory with a PHP package that integrate... |
+| [matondojk/filament-data-copilot](https://github.com/matondojk/filament-data-copilot) | 0 | 2026-08-13 | Filament Data Copilot is an AI-powered assistant that allows... |
+| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-08-13 |  |
+| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-13 | Laravel package for HubSpot CRM: every object type, directio... |
+| [alexjustesen/laravel-placehold-image](https://github.com/alexjustesen/laravel-placehold-image) | 0 | 2026-08-13 | A Laravel package to generate placeholder images. |
+| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 4 | 2026-08-13 | The Laravel Lobster |
+| [mustafaakalin/laravel-ecommerce](https://github.com/mustafaakalin/laravel-ecommerce) | 0 | 2026-08-13 | A feature-rich open-source e-commerce platform built with La... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-13 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-13 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-13 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [raise-studio/filament-forge](https://github.com/raise-studio/filament-forge) | 0 | 2026-08-13 | Laravel + Filament out-of-the-box backend scaffolding packag... |
-| [syofyanzuhad/lumina](https://github.com/syofyanzuhad/lumina) | 0 | 2026-08-13 | Lightweight, self-hosted web analytics especially for Larave... |
-| [hwkdo/bitwarden-laravel](https://github.com/hwkdo/bitwarden-laravel) | 1 | 2026-08-13 | My package to interact with bitwarden api using laravel |
-| [CycleChain/sandboxer](https://github.com/CycleChain/sandboxer) | 0 | 2026-08-13 | Zero-modification Laravel sandbox package for complete data ... |
-| [Codie-Shannon/FamilyArchive](https://github.com/Codie-Shannon/FamilyArchive) | 0 | 2026-08-13 | Privacy-first, preservation-grade family history platform wi... |
-| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-08-13 | Monorepo for Finity Labs' Filament packages |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-08-13 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-08-13 | PHP / Laravel packages used by Visns Studio |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-08-13 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-13 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [marekmiklusek/laravel-monitor-client](https://github.com/marekmiklusek/laravel-monitor-client) | 0 | 2026-08-13 | Self-hosted error and uptime monitoring for Laravel. The cli... |
+| [mykemeynell/inkstone](https://github.com/mykemeynell/inkstone) | 0 | 2026-08-13 | Generate static documentation sites from Markdown for Larave... |
+| [YieldStudio/filament-panel](https://github.com/YieldStudio/filament-panel) | 0 | 2026-08-13 | Extend Filament v4 with customizable panels, environment ind... |
+| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-08-13 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-13 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [IlhamHattaManggala/tenancy](https://github.com/IlhamHattaManggala/tenancy) | 0 | 2026-08-13 | Universal Multi-Tenancy Engine for Laravel supporting Single... |
+| [robertogallea/laravel-necromancer](https://github.com/robertogallea/laravel-necromancer) | 5 | 2026-08-13 | AI readability package for Laravel applications |
 | [GTS-MEGHNI/laravel-satim](https://github.com/GTS-MEGHNI/laravel-satim) | 0 | 2026-08-13 | Accept CIB and Edahabia card payments in Laravel through the... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-08-13 | Filament plugin that allows to add dynamic, user-defined for... |
+| [marekmiklusek/laravel-monitor-client](https://github.com/marekmiklusek/laravel-monitor-client) | 0 | 2026-08-13 | Self-hosted error and uptime monitoring for Laravel. The cli... |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 185 | 2026-08-13 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [GraystackIT/laravel-ahasend-api](https://github.com/GraystackIT/laravel-ahasend-api) | 0 | 2026-08-13 | Laravel package to consume AhaSend API |
+| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-08-13 | A collection of Dockerfile examples for various programming ... |
+| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-08-13 | Prevent stale Laravel config and routes after FTP/shared-hos... |
+| [softlogic-gt/neopay-laravel](https://github.com/softlogic-gt/neopay-laravel) | 0 | 2026-08-13 | Neopay Laravel Payment Package |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-13T18:39 | 7 | 1731 | 5789 |
 | 2026-08-13T12:36 | 3 | 1734 | 5782 |
 | 2026-08-13T06:51 | 4 | 1733 | 5780 |
 | 2026-08-13T00:42 | 3 | 1734 | 5776 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-12T00:41 | 5 | 1728 | 5742 |
 | 2026-08-11T18:38 | 6 | 1727 | 5737 |
 | 2026-08-11T12:35 | 7 | 1726 | 5731 |
-| 2026-08-11T06:39 | 3 | 1729 | 5724 |
 
 ---
 

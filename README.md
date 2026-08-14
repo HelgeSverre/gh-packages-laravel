@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5793  
-**Last updated:** 2026-08-14T06:50:30.530Z
+**Total packages tracked:** 5797  
+**Last updated:** 2026-08-14T12:35:36.701Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [accusser/duvento](https://github.com/accusser/duvento) | 0 | AGPLv3 deadline tracker for web agencies — domains, SSL, hosting, licenses. Self... |
+| [Mustafa21102005/laravel-checkin-demo](https://github.com/Mustafa21102005/laravel-checkin-demo) | 1 | An interactive reference implementation demonstrating real-world application pat... |
+| [shetabit/token-builder](https://github.com/shetabit/token-builder) | 22 | a laravel package to generate temporary tokens/pins |
+| [hanifalkauni/distance-coordinate-calculator-package](https://github.com/hanifalkauni/distance-coordinate-calculator-package) | 0 | A feature-rich PHP & Laravel package to calculate geographical distance between ... |
 | [laranail/confetti](https://github.com/laranail/confetti) | 0 | A fluent confetti builder for Laravel, with Blade, Livewire, Inertia and Filamen... |
 | [laranail/pdf](https://github.com/laranail/pdf) | 0 | PDF rendering for Laravel behind a capability-checked driver seam, returning a l... |
 | [laranail/python](https://github.com/laranail/python) | 0 | Bidirectional Python bridge for Laravel: HTTP services, hardened local process e... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [CycleChain/sandboxer](https://github.com/CycleChain/sandboxer) | 0 | Zero-modification Laravel sandbox package for complete data isolation |
 | [aliqasemzadeh/1860](https://github.com/aliqasemzadeh/1860) | 0 | 1860 |
 | [devhammed/php-server-actions](https://github.com/devhammed/php-server-actions) | 5 | Next.js Server Actions but for PHP! |
-| [aldesrahim/laravel-timezone-indonesia](https://github.com/aldesrahim/laravel-timezone-indonesia) | 0 | Resolve an Indonesian IANA timezone from a coordinate, offline, from bundled tim... |
-| [hiddenxcel/smm-reseller-hub-laravel](https://github.com/hiddenxcel/smm-reseller-hub-laravel) | 0 | SMM Packages — Laravel 12 + Inertia/React rewrite (PostgreSQL, Redis) |
-| [thedambrosi/chatbot-login-php](https://github.com/thedambrosi/chatbot-login-php) | 0 | AI chatbot built with Laravel, Livewire and Ollama — Google OAuth login, real-ti... |
-| [thedambrosi/blog-multi-role-cms](https://github.com/thedambrosi/blog-multi-role-cms) | 1 | Multi-role blog CMS built with Laravel — invite-only collaborator onboarding, ro... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-08-14 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-14 | Laravel USPS Package to integrate USPS Address |
-| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 21 | 2026-08-14 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
-| [promptphp/deck](https://github.com/promptphp/deck) | 105 | 2026-08-14 | A Laravel package for versioned AI prompt management with va... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 160 | 2026-08-14 | Provides email verification on the go. |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-14 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-08-14 | Laravel package for Indonesia regions selection with postal ... |
-| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-08-14 | Laravel Core package that provides essential core functional... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 201 | 2026-08-14 | A live database structure viewer for Laravel that renders yo... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 26 | 2026-08-14 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [LavioDev/eam-mes-package](https://github.com/LavioDev/eam-mes-package) | 6 | 2026-08-14 | A lightweight Laravel package with database migrations and r... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 5 | 2026-08-14 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [codebar-ag/laravel-event-logs](https://github.com/codebar-ag/laravel-event-logs) | 0 | 2026-08-14 | Event logging for HTTP requests and model events with plugga... |
-| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-08-14 | Laravel package for interacting with Traccar api |
-| [Codie-Shannon/FamilyArchive](https://github.com/Codie-Shannon/FamilyArchive) | 0 | 2026-08-14 | Privacy-first, preservation-grade family history platform wi... |
-| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 3 | 2026-08-14 | Laravel package untuk data wilayah administratif Indonesia (... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-14 | An event sourcing laravel package, complete with all the ess... |
-| [QuenHengLee/bopomofo-captcha](https://github.com/QuenHengLee/bopomofo-captcha) | 0 | 2026-08-14 | Bopomofo (注音符號) CAPTCHA for Laravel — session & stateless AP... |
-| [rodrigocoliveira/laravel-whatsapp-cloud-api](https://github.com/rodrigocoliveira/laravel-whatsapp-cloud-api) | 2 | 2026-08-14 | Laravel Package to Easily connect laravel framework to Whats... |
-| [yajra/laravel-datatables-export](https://github.com/yajra/laravel-datatables-export) | 36 | 2026-08-14 | Laravel DataTables Export plugin that uses queue, spout and ... |
+| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 4 | 2026-08-14 | The Laravel Lobster |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-08-14 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-14 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-08-14 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
+| [foxws/laravel-streamer](https://github.com/foxws/laravel-streamer) | 2 | 2026-08-14 | A Laravel integration for Google's Shaka Streamer, enabling ... |
+| [foxws/laravel-shaka](https://github.com/foxws/laravel-shaka) | 2 | 2026-08-14 | A Laravel integration for Google's Shaka Packager, enabling ... |
+| [foxws/laravel-scout-relations](https://github.com/foxws/laravel-scout-relations) | 1 | 2026-08-14 | Automatically re-index Scout-searchable related models when ... |
+| [foxws/laravel-pwa](https://github.com/foxws/laravel-pwa) | 1 | 2026-08-14 | PWA manifest and Blade directives for Laravel. |
+| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 157 | 2026-08-14 | HTTP Idempotency Middleware for Laravel applications |
+| [ekstremedia/laravel-youtube](https://github.com/ekstremedia/laravel-youtube) | 1 | 2026-08-14 | Package to upload and handle youtube videos with Laravel |
+| [farbcodegmbh/laravel-evm](https://github.com/farbcodegmbh/laravel-evm) | 4 | 2026-08-14 | Simple, Reliable Ethereum Integration for Laravel |
+| [Mustafa21102005/laravel-checkin-demo](https://github.com/Mustafa21102005/laravel-checkin-demo) | 1 | 2026-08-14 | An interactive reference implementation demonstrating real-w... |
+| [sanmaxdev/linkforge](https://github.com/sanmaxdev/linkforge) | 7 | 2026-08-14 | Self-hosted, open-source, AI-native URL shortener & link-man... |
+| [lettr-com/lettr-laravel](https://github.com/lettr-com/lettr-laravel) | 6 | 2026-08-14 | Official Laravel integration for the Lettr email API |
+| [glesys/butler-health](https://github.com/glesys/butler-health) | 0 | 2026-08-14 | Laravel package for returning application "health". |
+| [glesys/butler-audit](https://github.com/glesys/butler-audit) | 1 | 2026-08-14 | Laravel package for sending audit events to a remote endpoin... |
+| [hwkdo/ms-graph-laravel](https://github.com/hwkdo/ms-graph-laravel) | 0 | 2026-08-14 | My Package to use ms-graph api in laravel |
+| [hwkdo/hwk-admin-laravel](https://github.com/hwkdo/hwk-admin-laravel) | 0 | 2026-08-14 | package to use hwk-admin in laravel apps |
+| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-08-14 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
+| [adolfoholzer/parameters](https://github.com/adolfoholzer/parameters) | 0 | 2026-08-14 | A dynamic parameter management package for Laravel that prov... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-14T12:35 | 4 | 1730 | 5797 |
 | 2026-08-14T06:50 | 0 | 1738 | 5793 |
 | 2026-08-14T00:42 | 4 | 1734 | 5793 |
 | 2026-08-13T18:39 | 7 | 1731 | 5789 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-12T18:39 | 8 | 1728 | 5773 |
 | 2026-08-12T12:35 | 19 | 1718 | 5765 |
 | 2026-08-12T06:50 | 4 | 1728 | 5746 |
-| 2026-08-12T00:41 | 5 | 1728 | 5742 |
 
 ---
 

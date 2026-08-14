@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5797  
-**Last updated:** 2026-08-14T12:35:36.701Z
+**Total packages tracked:** 5799  
+**Last updated:** 2026-08-14T18:35:56.283Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [GTS-MEGHNI/laravel-essentials-kit](https://github.com/GTS-MEGHNI/laravel-essentials-kit) | 0 | Kick off a Laravel API with the boilerplate already written: hardened defaults, ... |
+| [JCCoca/filament-chart-palette](https://github.com/JCCoca/filament-chart-palette) | 0 | A Laravel/Filament package for applying dynamic color palettes and custom RGBA c... |
 | [accusser/duvento](https://github.com/accusser/duvento) | 0 | AGPLv3 deadline tracker for web agencies — domains, SSL, hosting, licenses. Self... |
 | [Mustafa21102005/laravel-checkin-demo](https://github.com/Mustafa21102005/laravel-checkin-demo) | 1 | An interactive reference implementation demonstrating real-world application pat... |
 | [shetabit/token-builder](https://github.com/shetabit/token-builder) | 22 | a laravel package to generate temporary tokens/pins |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [syofyanzuhad/lumina](https://github.com/syofyanzuhad/lumina) | 0 | Lightweight, self-hosted web analytics especially for Laravel |
 | [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | Manage, process, and serve files in Laravel with scalable uploads, image process... |
 | [CycleChain/sandboxer](https://github.com/CycleChain/sandboxer) | 0 | Zero-modification Laravel sandbox package for complete data isolation |
-| [aliqasemzadeh/1860](https://github.com/aliqasemzadeh/1860) | 0 | 1860 |
-| [devhammed/php-server-actions](https://github.com/devhammed/php-server-actions) | 5 | Next.js Server Actions but for PHP! |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -44,7 +44,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 463 | Add kanban boards to your Filament pages |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 453 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 452 | Open Source Laravel CRM Package |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 4 | 2026-08-14 | The Laravel Lobster |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-08-14 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [maleianefernando/api-shield](https://github.com/maleianefernando/api-shield) | 1 | 2026-08-14 | A laravel package to add a  security layer for apis by imple... |
+| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-08-14 | A Laravel and Livewire application for calorie-based food eq... |
+| [offload-project/laravel-waitlist](https://github.com/offload-project/laravel-waitlist) | 56 | 2026-08-14 | A simple and elegant waitlist package for Laravel applicatio... |
+| [tzsk/otp](https://github.com/tzsk/otp) | 242 | 2026-08-14 | Generate OTP with expiry for PHP without using Database |
+| [bagussatoto/Aplikasi-Data-Penjualan-Laravel-8](https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8) | 74 | 2026-08-14 | Membuat Aplikasi Berbasis Web Data Penjualan Menggunakan Lar... |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 198 | 2026-08-14 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-08-14 | Prevent stale Laravel config and routes after FTP/shared-hos... |
+| [rxcod9/joy-voyager-api-laravel-demo](https://github.com/rxcod9/joy-voyager-api-laravel-demo) | 5 | 2026-08-14 | Joy VoyagerApi Laravel Demo shows integration of Joy Voyager... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-14 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [marcorieser/statamic-livewire](https://github.com/marcorieser/statamic-livewire) | 23 | 2026-08-14 | A Laravel Livewire integration for Statamic. |
+| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-08-14 | Laravel and Livewire admin panel scaffold for car-rental ope... |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | 2026-08-14 | A media picker plugin for Filament Panels. |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 185 | 2026-08-14 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [solutionforest/filament-firewall](https://github.com/solutionforest/filament-firewall) | 44 | 2026-08-14 | This package provides a whitelist and blacklist feature to r... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-14 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-08-14 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
-| [foxws/laravel-streamer](https://github.com/foxws/laravel-streamer) | 2 | 2026-08-14 | A Laravel integration for Google's Shaka Streamer, enabling ... |
-| [foxws/laravel-shaka](https://github.com/foxws/laravel-shaka) | 2 | 2026-08-14 | A Laravel integration for Google's Shaka Packager, enabling ... |
-| [foxws/laravel-scout-relations](https://github.com/foxws/laravel-scout-relations) | 1 | 2026-08-14 | Automatically re-index Scout-searchable related models when ... |
-| [foxws/laravel-pwa](https://github.com/foxws/laravel-pwa) | 1 | 2026-08-14 | PWA manifest and Blade directives for Laravel. |
+| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-08-14 | Private expiring previews of unsaved Capell page and Layout ... |
+| [GTS-MEGHNI/laravel-essentials-kit](https://github.com/GTS-MEGHNI/laravel-essentials-kit) | 0 | 2026-08-14 | Kick off a Laravel API with the boilerplate already written:... |
 | [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 157 | 2026-08-14 | HTTP Idempotency Middleware for Laravel applications |
-| [ekstremedia/laravel-youtube](https://github.com/ekstremedia/laravel-youtube) | 1 | 2026-08-14 | Package to upload and handle youtube videos with Laravel |
-| [farbcodegmbh/laravel-evm](https://github.com/farbcodegmbh/laravel-evm) | 4 | 2026-08-14 | Simple, Reliable Ethereum Integration for Laravel |
-| [Mustafa21102005/laravel-checkin-demo](https://github.com/Mustafa21102005/laravel-checkin-demo) | 1 | 2026-08-14 | An interactive reference implementation demonstrating real-w... |
-| [sanmaxdev/linkforge](https://github.com/sanmaxdev/linkforge) | 7 | 2026-08-14 | Self-hosted, open-source, AI-native URL shortener & link-man... |
-| [lettr-com/lettr-laravel](https://github.com/lettr-com/lettr-laravel) | 6 | 2026-08-14 | Official Laravel integration for the Lettr email API |
-| [glesys/butler-health](https://github.com/glesys/butler-health) | 0 | 2026-08-14 | Laravel package for returning application "health". |
-| [glesys/butler-audit](https://github.com/glesys/butler-audit) | 1 | 2026-08-14 | Laravel package for sending audit events to a remote endpoin... |
-| [hwkdo/ms-graph-laravel](https://github.com/hwkdo/ms-graph-laravel) | 0 | 2026-08-14 | My Package to use ms-graph api in laravel |
-| [hwkdo/hwk-admin-laravel](https://github.com/hwkdo/hwk-admin-laravel) | 0 | 2026-08-14 | package to use hwk-admin in laravel apps |
-| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-08-14 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
-| [adolfoholzer/parameters](https://github.com/adolfoholzer/parameters) | 0 | 2026-08-14 | A dynamic parameter management package for Laravel that prov... |
+| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-08-14 | Multilingual, multi-site Capell navigation with visual menus... |
+| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-08-14 | Visual Capell page composition with reusable widgets, named ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-14T18:35 | 2 | 1729 | 5799 |
 | 2026-08-14T12:35 | 4 | 1730 | 5797 |
 | 2026-08-14T06:50 | 0 | 1738 | 5793 |
 | 2026-08-14T00:42 | 4 | 1734 | 5793 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-13T00:42 | 3 | 1734 | 5776 |
 | 2026-08-12T18:39 | 8 | 1728 | 5773 |
 | 2026-08-12T12:35 | 19 | 1718 | 5765 |
-| 2026-08-12T06:50 | 4 | 1728 | 5746 |
 
 ---
 

@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 5793  
-**Last updated:** 2026-08-14T00:42:33.907Z
+**Last updated:** 2026-08-14T06:50:30.530Z
 
 ## 📦 Recently Discovered
 
@@ -44,7 +44,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 463 | Add kanban boards to your Filament pages |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 452 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 453 | Open Source Laravel CRM Package |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [abdian/laravel-upload-guard](https://github.com/abdian/laravel-upload-guard) | 0 | 2026-08-14 | Fail-closed file-upload validation for Laravel. Blocks polyg... |
-| [abdian/loglens](https://github.com/abdian/loglens) | 0 | 2026-08-14 | Production-scale log viewer for Laravel — persistent on-disk... |
-| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 13 | 2026-08-14 | Simple Laravel scraping package |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-08-14 | The flexible backbone for your next CMS. This powerful frame... |
-| [J-T-McC/ai-query-builder](https://github.com/J-T-McC/ai-query-builder) | 2 | 2026-08-14 | A safe layer between AI agents and your Laravel database - a... |
-| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-08-14 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
-| [VivereProducts/LaravelApiFeeds](https://github.com/VivereProducts/LaravelApiFeeds) | 0 | 2026-08-14 | Laravel package for VivereStage API feeds |
+| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-08-14 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-14 | Laravel USPS Package to integrate USPS Address |
+| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 21 | 2026-08-14 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 105 | 2026-08-14 | A Laravel package for versioned AI prompt management with va... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 160 | 2026-08-14 | Provides email verification on the go. |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-14 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [aliziodev/laravel-indonesia-regions](https://github.com/aliziodev/laravel-indonesia-regions) | 25 | 2026-08-14 | Laravel package for Indonesia regions selection with postal ... |
+| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-08-14 | Laravel Core package that provides essential core functional... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 201 | 2026-08-14 | A live database structure viewer for Laravel that renders yo... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 26 | 2026-08-14 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [LavioDev/eam-mes-package](https://github.com/LavioDev/eam-mes-package) | 6 | 2026-08-14 | A lightweight Laravel package with database migrations and r... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 5 | 2026-08-14 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [codebar-ag/laravel-event-logs](https://github.com/codebar-ag/laravel-event-logs) | 0 | 2026-08-14 | Event logging for HTTP requests and model events with plugga... |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-08-14 | Laravel package for interacting with Traccar api |
+| [Codie-Shannon/FamilyArchive](https://github.com/Codie-Shannon/FamilyArchive) | 0 | 2026-08-14 | Privacy-first, preservation-grade family history platform wi... |
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 3 | 2026-08-14 | Laravel package untuk data wilayah administratif Indonesia (... |
 | [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-14 | An event sourcing laravel package, complete with all the ess... |
-| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-08-13 | PDF rendering for Laravel behind a capability-checked driver... |
-| [pelmered/filament-money-field](https://github.com/pelmered/filament-money-field) | 94 | 2026-08-13 | Money field powered by Money PHP  |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-08-13 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [laranail/python](https://github.com/laranail/python) | 0 | 2026-08-13 | Bidirectional Python bridge for Laravel: HTTP services, hard... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-08-13 | Runtime base library for building Laravel packages: fluent P... |
-| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-08-13 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-08-13 | Prevent stale Laravel config and routes after FTP/shared-hos... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-08-13 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [MuhammedMSalama/LaravelBase](https://github.com/MuhammedMSalama/LaravelBase) | 7 | 2026-08-13 | A lightweight, version-agnostic Laravel package providing a ... |
-| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-13 | A complete OIDC server as a laravel package |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-13 | Open-source, self-hosted video processing & delivery engine ... |
-| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-08-13 | A package for Miro |
+| [QuenHengLee/bopomofo-captcha](https://github.com/QuenHengLee/bopomofo-captcha) | 0 | 2026-08-14 | Bopomofo (注音符號) CAPTCHA for Laravel — session & stateless AP... |
+| [rodrigocoliveira/laravel-whatsapp-cloud-api](https://github.com/rodrigocoliveira/laravel-whatsapp-cloud-api) | 2 | 2026-08-14 | Laravel Package to Easily connect laravel framework to Whats... |
+| [yajra/laravel-datatables-export](https://github.com/yajra/laravel-datatables-export) | 36 | 2026-08-14 | Laravel DataTables Export plugin that uses queue, spout and ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-14T06:50 | 0 | 1738 | 5793 |
 | 2026-08-14T00:42 | 4 | 1734 | 5793 |
 | 2026-08-13T18:39 | 7 | 1731 | 5789 |
 | 2026-08-13T12:36 | 3 | 1734 | 5782 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-12T12:35 | 19 | 1718 | 5765 |
 | 2026-08-12T06:50 | 4 | 1728 | 5746 |
 | 2026-08-12T00:41 | 5 | 1728 | 5742 |
-| 2026-08-11T18:38 | 6 | 1727 | 5737 |
 
 ---
 

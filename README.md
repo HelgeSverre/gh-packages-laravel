@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5789  
-**Last updated:** 2026-08-13T18:39:36.131Z
+**Total packages tracked:** 5793  
+**Last updated:** 2026-08-14T00:42:33.907Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [laranail/confetti](https://github.com/laranail/confetti) | 0 | A fluent confetti builder for Laravel, with Blade, Livewire, Inertia and Filamen... |
+| [laranail/pdf](https://github.com/laranail/pdf) | 0 | PDF rendering for Laravel behind a capability-checked driver seam, returning a l... |
+| [laranail/python](https://github.com/laranail/python) | 0 | Bidirectional Python bridge for Laravel: HTTP services, hardened local process e... |
+| [adolfoholzer/parameters](https://github.com/adolfoholzer/parameters) | 0 | A dynamic parameter management package for Laravel that provides a simple and fl... |
 | [amanprojects-ops/phpstart](https://github.com/amanprojects-ops/phpstart) | 3 | A powerful command-line tool to scaffold production-ready PHP projects in second... |
 | [mustafaakalin/laravel-ecommerce](https://github.com/mustafaakalin/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
 | [IlhamHattaManggala/tenancy](https://github.com/IlhamHattaManggala/tenancy) | 0 | Universal Multi-Tenancy Engine for Laravel supporting Single-DB, Multi-DB & Hybr... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [hiddenxcel/smm-reseller-hub-laravel](https://github.com/hiddenxcel/smm-reseller-hub-laravel) | 0 | SMM Packages — Laravel 12 + Inertia/React rewrite (PostgreSQL, Redis) |
 | [thedambrosi/chatbot-login-php](https://github.com/thedambrosi/chatbot-login-php) | 0 | AI chatbot built with Laravel, Livewire and Ollama — Google OAuth login, real-ti... |
 | [thedambrosi/blog-multi-role-cms](https://github.com/thedambrosi/blog-multi-role-cms) | 1 | Multi-role blog CMS built with Laravel — invite-only collaborator onboarding, ro... |
-| [Coyote6/laravel-base](https://github.com/Coyote6/laravel-base) | 0 | A collection of commonly used traits that are used throughout my sites and packa... |
-| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | Laravel user impersonation with scoped modes, audit trails, RBAC, remote revocat... |
-| [zaber-dev/laravel-localization](https://github.com/zaber-dev/laravel-localization) | 1 | Stateful multilingual content management for Laravel with AI-ready translation p... |
-| [aybarsm/laravel-whoisjson](https://github.com/aybarsm/laravel-whoisjson) | 0 | An opinionated Laravel service provider package for whoisjson.com |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [matondojk/filament-data-copilot](https://github.com/matondojk/filament-data-copilot) | 0 | 2026-08-13 | Filament Data Copilot is an AI-powered assistant that allows... |
-| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-08-13 |  |
-| [ReyemTech/laravel-hubspot](https://github.com/ReyemTech/laravel-hubspot) | 0 | 2026-08-13 | Laravel package for HubSpot CRM: every object type, directio... |
-| [alexjustesen/laravel-placehold-image](https://github.com/alexjustesen/laravel-placehold-image) | 0 | 2026-08-13 | A Laravel package to generate placeholder images. |
-| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 4 | 2026-08-13 | The Laravel Lobster |
-| [mustafaakalin/laravel-ecommerce](https://github.com/mustafaakalin/laravel-ecommerce) | 0 | 2026-08-13 | A feature-rich open-source e-commerce platform built with La... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-13 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [mykemeynell/inkstone](https://github.com/mykemeynell/inkstone) | 0 | 2026-08-13 | Generate static documentation sites from Markdown for Larave... |
-| [YieldStudio/filament-panel](https://github.com/YieldStudio/filament-panel) | 0 | 2026-08-13 | Extend Filament v4 with customizable panels, environment ind... |
+| [abdian/laravel-upload-guard](https://github.com/abdian/laravel-upload-guard) | 0 | 2026-08-14 | Fail-closed file-upload validation for Laravel. Blocks polyg... |
+| [abdian/loglens](https://github.com/abdian/loglens) | 0 | 2026-08-14 | Production-scale log viewer for Laravel — persistent on-disk... |
+| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 13 | 2026-08-14 | Simple Laravel scraping package |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-08-14 | The flexible backbone for your next CMS. This powerful frame... |
+| [J-T-McC/ai-query-builder](https://github.com/J-T-McC/ai-query-builder) | 2 | 2026-08-14 | A safe layer between AI agents and your Laravel database - a... |
+| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-08-14 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
+| [VivereProducts/LaravelApiFeeds](https://github.com/VivereProducts/LaravelApiFeeds) | 0 | 2026-08-14 | Laravel package for VivereStage API feeds |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-14 | An event sourcing laravel package, complete with all the ess... |
+| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-08-13 | PDF rendering for Laravel behind a capability-checked driver... |
+| [pelmered/filament-money-field](https://github.com/pelmered/filament-money-field) | 94 | 2026-08-13 | Money field powered by Money PHP  |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-08-13 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [laranail/python](https://github.com/laranail/python) | 0 | 2026-08-13 | Bidirectional Python bridge for Laravel: HTTP services, hard... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-08-13 | Runtime base library for building Laravel packages: fluent P... |
 | [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-08-13 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-13 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [IlhamHattaManggala/tenancy](https://github.com/IlhamHattaManggala/tenancy) | 0 | 2026-08-13 | Universal Multi-Tenancy Engine for Laravel supporting Single... |
-| [robertogallea/laravel-necromancer](https://github.com/robertogallea/laravel-necromancer) | 5 | 2026-08-13 | AI readability package for Laravel applications |
-| [GTS-MEGHNI/laravel-satim](https://github.com/GTS-MEGHNI/laravel-satim) | 0 | 2026-08-13 | Accept CIB and Edahabia card payments in Laravel through the... |
-| [marekmiklusek/laravel-monitor-client](https://github.com/marekmiklusek/laravel-monitor-client) | 0 | 2026-08-13 | Self-hosted error and uptime monitoring for Laravel. The cli... |
-| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 185 | 2026-08-13 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
-| [GraystackIT/laravel-ahasend-api](https://github.com/GraystackIT/laravel-ahasend-api) | 0 | 2026-08-13 | Laravel package to consume AhaSend API |
-| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-08-13 | A collection of Dockerfile examples for various programming ... |
 | [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-08-13 | Prevent stale Laravel config and routes after FTP/shared-hos... |
-| [softlogic-gt/neopay-laravel](https://github.com/softlogic-gt/neopay-laravel) | 0 | 2026-08-13 | Neopay Laravel Payment Package |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-08-13 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [MuhammedMSalama/LaravelBase](https://github.com/MuhammedMSalama/LaravelBase) | 7 | 2026-08-13 | A lightweight, version-agnostic Laravel package providing a ... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-13 | A complete OIDC server as a laravel package |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-13 | Open-source, self-hosted video processing & delivery engine ... |
+| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-08-13 | A package for Miro |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-14T00:42 | 4 | 1734 | 5793 |
 | 2026-08-13T18:39 | 7 | 1731 | 5789 |
 | 2026-08-13T12:36 | 3 | 1734 | 5782 |
 | 2026-08-13T06:51 | 4 | 1733 | 5780 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-12T06:50 | 4 | 1728 | 5746 |
 | 2026-08-12T00:41 | 5 | 1728 | 5742 |
 | 2026-08-11T18:38 | 6 | 1727 | 5737 |
-| 2026-08-11T12:35 | 7 | 1726 | 5731 |
 
 ---
 

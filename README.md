@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5805  
-**Last updated:** 2026-08-15T12:33:30.681Z
+**Total packages tracked:** 5812  
+**Last updated:** 2026-08-15T18:32:45.117Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [easybdit/laraveleasyai](https://github.com/easybdit/laraveleasyai) | 6 | Unified AI chat for Laravel — Ollama, OpenAI (ChatGPT), Anthropic (Claude), Deep... |
+| [spok-sto/spoke](https://github.com/spok-sto/spoke) | 4 | Self-hosted Laravel observability with request tracing, SQL intelligence, queues... |
+| [janecodelife/livewire-secure-properties](https://github.com/janecodelife/livewire-secure-properties) | 0 | secure your livewire 4 properties with zero configs and void headache while deev... |
+| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | ArtisanToolbox Maintainer provides automated validation, quality assurance, vers... |
+| [JonBarakMierke/SeoMunk](https://github.com/JonBarakMierke/SeoMunk) | 0 | A SEO and AIO/GEO package for Laravel. |
+| [kpripper-php/laravel-permission](https://github.com/kpripper-php/laravel-permission) | 0 | Laravel role and permission management package |
+| [C0deWiser/postie](https://github.com/C0deWiser/postie) | 0 | Subscription Management Laravel Package |
 | [laranail/validation](https://github.com/laranail/validation) | 0 | Type-safe fluent validation rule builders for Laravel, plus 39 rules for the for... |
 | [0x1115-inc/laravel-simple-cart](https://github.com/0x1115-inc/laravel-simple-cart) | 0 | A simple cart management Laravel package |
 | [theihasan/laravel-bkash](https://github.com/theihasan/laravel-bkash) | 58 | This is the ultimate package for connecting bkash payment gateway to your larave... |
@@ -17,18 +24,11 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [officialfortechub/panic-pulse](https://github.com/officialfortechub/panic-pulse) | 0 | A professional Laravel package that catches application exceptions, queries Gemi... |
 | [GTS-MEGHNI/laravel-essentials-kit](https://github.com/GTS-MEGHNI/laravel-essentials-kit) | 0 | Kick off a Laravel API with the boilerplate already written: hardened defaults, ... |
 | [JCCoca/filament-chart-palette](https://github.com/JCCoca/filament-chart-palette) | 0 | A Laravel/Filament package for applying dynamic color palettes and custom RGBA c... |
-| [accusser/duvento](https://github.com/accusser/duvento) | 1 | AGPLv3 deadline tracker for web agencies — domains, SSL, hosting, licenses. Self... |
+| [accusser/duvento](https://github.com/accusser/duvento) | 2 | AGPLv3 deadline tracker for web agencies — domains, SSL, hosting, licenses. Self... |
 | [Mustafa21102005/laravel-checkin-demo](https://github.com/Mustafa21102005/laravel-checkin-demo) | 1 | An interactive reference implementation demonstrating real-world application pat... |
 | [shetabit/token-builder](https://github.com/shetabit/token-builder) | 22 | a laravel package to generate temporary tokens/pins |
 | [hanifalkauni/distance-coordinate-calculator-package](https://github.com/hanifalkauni/distance-coordinate-calculator-package) | 0 | A feature-rich PHP & Laravel package to calculate geographical distance between ... |
 | [laranail/confetti](https://github.com/laranail/confetti) | 0 | A fluent confetti builder for Laravel, with Blade, Livewire, Inertia and Filamen... |
-| [laranail/pdf](https://github.com/laranail/pdf) | 0 | PDF rendering for Laravel behind a capability-checked driver seam, returning a l... |
-| [laranail/python](https://github.com/laranail/python) | 0 | Bidirectional Python bridge for Laravel: HTTP services, hardened local process e... |
-| [adolfoholzer/parameters](https://github.com/adolfoholzer/parameters) | 0 | A dynamic parameter management package for Laravel that provides a simple and fl... |
-| [amanprojects-ops/phpstart](https://github.com/amanprojects-ops/phpstart) | 3 | A powerful command-line tool to scaffold production-ready PHP projects in second... |
-| [mustafaakalin/laravel-ecommerce](https://github.com/mustafaakalin/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
-| [IlhamHattaManggala/tenancy](https://github.com/IlhamHattaManggala/tenancy) | 0 | Universal Multi-Tenancy Engine for Laravel supporting Single-DB, Multi-DB & Hybr... |
-| [EloquentWorks/Sentinel](https://github.com/EloquentWorks/Sentinel) | 1 | Laravel Sentinel provides elegant content moderation tools for Laravel applicati... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [benjamincrozat/blog-v5](https://github.com/benjamincrozat/blog-v5) | 133 | 2026-08-15 | Source code for Benjamin Crozat's blog. |
-| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-15 | Laravel package providing polymorphic image management with ... |
-| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-08-15 | Type-safe fluent validation rule builders for Laravel, plus ... |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-15 | Utility package for Laravel including Transformable proxies ... |
-| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-08-15 | Laravel package providing OTP (One-Time Password) management... |
-| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-08-15 | Laravel package providing polymorphic comments with Reposito... |
-| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-08-15 | Laravel package providing polymorphic reactions (like, love,... |
-| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-08-15 | Laravel TOTP package for two-factor authentication with poly... |
-| [Coder71-Ltd/ServerPulse-LaravelAgent](https://github.com/Coder71-Ltd/ServerPulse-LaravelAgent) | 0 | 2026-08-15 | ServerPulse monitoring and license agent for Laravel applica... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-15 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [Zairakai/PHP-Package_laravel_activity](https://github.com/Zairakai/PHP-Package_laravel_activity) | 0 | 2026-08-15 |  |
-| [achyutkneupane/filament-log-viewer](https://github.com/achyutkneupane/filament-log-viewer) | 51 | 2026-08-15 | A Filament package to view and manage Laravel logs. |
-| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 216 | 2026-08-15 | Laravel SmartCache - Optimize Caching for Large Data |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-15 | A practical work management information system built with La... |
-| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-08-15 |  |
-| [Zairakai/PHP-Package_laravel_essentials](https://github.com/Zairakai/PHP-Package_laravel_essentials) | 0 | 2026-08-15 |  |
-| [Zairakai/PHP-Package_laravel_eloquent](https://github.com/Zairakai/PHP-Package_laravel_eloquent) | 0 | 2026-08-15 |  |
-| [Zairakai/PHP-Package_laravel_auth](https://github.com/Zairakai/PHP-Package_laravel_auth) | 0 | 2026-08-15 |  |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ElegantEngineeringTech/laravel-settings](https://github.com/ElegantEngineeringTech/laravel-settings) | 9 | 2026-08-15 | Elegant Global Settings Management in Laravel |
+| [OthmanHaba/laravel-model-acl](https://github.com/OthmanHaba/laravel-model-acl) | 1 | 2026-08-15 | A laravel package that takes permission to the next level  |
+| [shaxzodbek-uzb/laravel-model-mcp](https://github.com/shaxzodbek-uzb/laravel-model-mcp) | 0 | 2026-08-15 | Auto-expose Eloquent models as policy-enforced MCP tools — s... |
+| [shaxzodbek-uzb/laravel-mcp-auth](https://github.com/shaxzodbek-uzb/laravel-mcp-auth) | 0 | 2026-08-15 | Bring-your-own-IdP OAuth 2.1 resource server for the officia... |
+| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-08-15 | ArtisanToolbox Maintainer provides automated validation, qua... |
+| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-08-15 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
+| [easybdit/laraveleasyai](https://github.com/easybdit/laraveleasyai) | 6 | 2026-08-15 | Unified AI chat for Laravel — Ollama, OpenAI (ChatGPT), Anth... |
+| [StreetMesh/Protocol-Laravel](https://github.com/StreetMesh/Protocol-Laravel) | 0 | 2026-08-15 | The StreetMesh protocol as a Laravel package: discovery, del... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 155 | 2026-08-15 | The Moox Project - Packages for Filament and Laravel |
+| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-08-15 | Laravel Monitor: A lightweight Laravel package providing bas... |
+| [JonBarakMierke/SeoMunk](https://github.com/JonBarakMierke/SeoMunk) | 0 | 2026-08-15 | A SEO and AIO/GEO package for Laravel. |
+| [pelmered/filament-money-field](https://github.com/pelmered/filament-money-field) | 94 | 2026-08-15 | Money field powered by Money PHP  |
+| [kpripper-php/laravel-permission](https://github.com/kpripper-php/laravel-permission) | 0 | 2026-08-15 | Laravel role and permission management package |
+| [AmirVahedix/laravel-deploy-ftp](https://github.com/AmirVahedix/laravel-deploy-ftp) | 0 | 2026-08-15 | a package to track last deploy using a commit tag and upload... |
+| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 1 | 2026-08-15 | A package for using and generating unique urls for each Eloq... |
+| [accusser/duvento](https://github.com/accusser/duvento) | 2 | 2026-08-15 | AGPLv3 deadline tracker for web agencies — domains, SSL, hos... |
+| [SanderMuller/package-boost-laravel](https://github.com/SanderMuller/package-boost-laravel) | 1 | 2026-08-15 | AI agent skills for Laravel package authors. Adds Laravel sk... |
+| [bladepdf/bladepdf-laravel](https://github.com/bladepdf/bladepdf-laravel) | 11 | 2026-08-15 | Generate production-ready PDFs from Laravel Blade views with... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-15 | A practical work management information system built with La... |
+| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-08-15 | Type-safe fluent validation rule builders for Laravel, plus ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-15T18:32 | 7 | 1723 | 5812 |
 | 2026-08-15T12:33 | 2 | 1729 | 5805 |
 | 2026-08-15T06:33 | 1 | 1730 | 5803 |
 | 2026-08-15T00:35 | 3 | 1728 | 5802 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-14T00:42 | 4 | 1734 | 5793 |
 | 2026-08-13T18:39 | 7 | 1731 | 5789 |
 | 2026-08-13T12:36 | 3 | 1734 | 5782 |
-| 2026-08-13T06:51 | 4 | 1733 | 5780 |
 
 ---
 

@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5803  
-**Last updated:** 2026-08-15T06:33:54.240Z
+**Total packages tracked:** 5805  
+**Last updated:** 2026-08-15T12:33:30.681Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [laranail/validation](https://github.com/laranail/validation) | 0 | Type-safe fluent validation rule builders for Laravel, plus 39 rules for the for... |
+| [0x1115-inc/laravel-simple-cart](https://github.com/0x1115-inc/laravel-simple-cart) | 0 | A simple cart management Laravel package |
 | [theihasan/laravel-bkash](https://github.com/theihasan/laravel-bkash) | 58 | This is the ultimate package for connecting bkash payment gateway to your larave... |
 | [TM-threemavithana/laravel-saas](https://github.com/TM-threemavithana/laravel-saas) | 0 | A multi-tenant Applicant Tracking System built with Laravel, featuring job board... |
 | [Omnia-Global/omnia-packages](https://github.com/Omnia-Global/omnia-packages) | 0 | Internal shared Laravel packages for the Omnia Global products (Pulse, Campus, V... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mustafaakalin/laravel-ecommerce](https://github.com/mustafaakalin/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
 | [IlhamHattaManggala/tenancy](https://github.com/IlhamHattaManggala/tenancy) | 0 | Universal Multi-Tenancy Engine for Laravel supporting Single-DB, Multi-DB & Hybr... |
 | [EloquentWorks/Sentinel](https://github.com/EloquentWorks/Sentinel) | 1 | Laravel Sentinel provides elegant content moderation tools for Laravel applicati... |
-| [alexjustesen/laravel-placehold-image](https://github.com/alexjustesen/laravel-placehold-image) | 0 | A Laravel package to generate placeholder images. |
-| [avtocod/b2b-api-php-laravel](https://github.com/avtocod/b2b-api-php-laravel) | 7 | Laravel package for a working with B2B API service |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -44,7 +44,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 463 | Add kanban boards to your Filament pages |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 452 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 453 | Open Source Laravel CRM Package |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [benjamincrozat/blog-v5](https://github.com/benjamincrozat/blog-v5) | 133 | 2026-08-15 | Source code for Benjamin Crozat's blog. |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-15 | Laravel package providing polymorphic image management with ... |
+| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-08-15 | Type-safe fluent validation rule builders for Laravel, plus ... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-15 | Utility package for Laravel including Transformable proxies ... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-08-15 | Laravel package providing OTP (One-Time Password) management... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-08-15 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-08-15 | Laravel package providing polymorphic reactions (like, love,... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-08-15 | Laravel TOTP package for two-factor authentication with poly... |
+| [Coder71-Ltd/ServerPulse-LaravelAgent](https://github.com/Coder71-Ltd/ServerPulse-LaravelAgent) | 0 | 2026-08-15 | ServerPulse monitoring and license agent for Laravel applica... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-15 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [Zairakai/PHP-Package_laravel_activity](https://github.com/Zairakai/PHP-Package_laravel_activity) | 0 | 2026-08-15 |  |
+| [achyutkneupane/filament-log-viewer](https://github.com/achyutkneupane/filament-log-viewer) | 51 | 2026-08-15 | A Filament package to view and manage Laravel logs. |
+| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 216 | 2026-08-15 | Laravel SmartCache - Optimize Caching for Large Data |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-15 | A practical work management information system built with La... |
+| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-08-15 |  |
+| [Zairakai/PHP-Package_laravel_essentials](https://github.com/Zairakai/PHP-Package_laravel_essentials) | 0 | 2026-08-15 |  |
+| [Zairakai/PHP-Package_laravel_eloquent](https://github.com/Zairakai/PHP-Package_laravel_eloquent) | 0 | 2026-08-15 |  |
+| [Zairakai/PHP-Package_laravel_auth](https://github.com/Zairakai/PHP-Package_laravel_auth) | 0 | 2026-08-15 |  |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-08-15 | Laravel package scaffolder: generate complete, convention-re... |
-| [aliqasemzadeh/1860](https://github.com/aliqasemzadeh/1860) | 0 | 2026-08-15 | 1860 |
-| [blemli/formsettings-for-filament](https://github.com/blemli/formsettings-for-filament) | 1 | 2026-08-15 | rule your forms |
-| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-08-15 | Laravel user impersonation with scoped modes, audit trails, ... |
-| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-08-15 | PDF rendering for Laravel behind a capability-checked driver... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-08-15 | Runtime base library for building Laravel packages: fluent P... |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-08-15 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-15 | Laravel USPS Package to integrate USPS Address |
-| [hms5232/laravel-swagger](https://github.com/hms5232/laravel-swagger) | 3 | 2026-08-15 | Integrate Swagger UI and Editor  into Laravel |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-08-15 | A personal portfolio built as an interactive browser-based t... |
-| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 245 | 2026-08-15 | form builder for your users, with so many use cases |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-15 | Laravel-based API for storing sensor data from distributed n... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-15 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-08-15 | A Laravel and Livewire application for calorie-based food eq... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-15 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-08-15 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
-| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-08-15 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-08-15 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [theihasan/laravel-bkash](https://github.com/theihasan/laravel-bkash) | 58 | 2026-08-15 | This is the ultimate package for connecting bkash payment ga... |
+| [ElegantEngineeringTech/laravel-settings](https://github.com/ElegantEngineeringTech/laravel-settings) | 9 | 2026-08-15 | Elegant Global Settings Management in Laravel |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-15T12:33 | 2 | 1729 | 5805 |
 | 2026-08-15T06:33 | 1 | 1730 | 5803 |
 | 2026-08-15T00:35 | 3 | 1728 | 5802 |
 | 2026-08-14T18:35 | 2 | 1729 | 5799 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-13T18:39 | 7 | 1731 | 5789 |
 | 2026-08-13T12:36 | 3 | 1734 | 5782 |
 | 2026-08-13T06:51 | 4 | 1733 | 5780 |
-| 2026-08-13T00:42 | 3 | 1734 | 5776 |
 
 ---
 

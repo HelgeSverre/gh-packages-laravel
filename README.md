@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5799  
-**Last updated:** 2026-08-14T18:35:56.283Z
+**Total packages tracked:** 5802  
+**Last updated:** 2026-08-15T00:35:45.649Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [TM-threemavithana/laravel-saas](https://github.com/TM-threemavithana/laravel-saas) | 0 | A multi-tenant Applicant Tracking System built with Laravel, featuring job board... |
+| [Omnia-Global/omnia-packages](https://github.com/Omnia-Global/omnia-packages) | 0 | Shared Laravel packages for the Omnia Global products — Pulse, Campus and Vault.... |
+| [officialfortechub/panic-pulse](https://github.com/officialfortechub/panic-pulse) | 0 | A professional Laravel package that catches application exceptions, queries Gemi... |
 | [GTS-MEGHNI/laravel-essentials-kit](https://github.com/GTS-MEGHNI/laravel-essentials-kit) | 0 | Kick off a Laravel API with the boilerplate already written: hardened defaults, ... |
 | [JCCoca/filament-chart-palette](https://github.com/JCCoca/filament-chart-palette) | 0 | A Laravel/Filament package for applying dynamic color palettes and custom RGBA c... |
 | [accusser/duvento](https://github.com/accusser/duvento) | 0 | AGPLv3 deadline tracker for web agencies — domains, SSL, hosting, licenses. Self... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [alexjustesen/laravel-placehold-image](https://github.com/alexjustesen/laravel-placehold-image) | 0 | A Laravel package to generate placeholder images. |
 | [avtocod/b2b-api-php-laravel](https://github.com/avtocod/b2b-api-php-laravel) | 7 | Laravel package for a working with B2B API service |
 | [tehwave/my-laravel-packages-demo-app](https://github.com/tehwave/my-laravel-packages-demo-app) | 0 |  |
-| [syofyanzuhad/lumina](https://github.com/syofyanzuhad/lumina) | 0 | Lightweight, self-hosted web analytics especially for Laravel |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | Manage, process, and serve files in Laravel with scalable uploads, image process... |
-| [CycleChain/sandboxer](https://github.com/CycleChain/sandboxer) | 0 | Zero-modification Laravel sandbox package for complete data isolation |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [Omnia-Global/omnia-packages](https://github.com/Omnia-Global/omnia-packages) | 0 | 2026-08-15 | Shared Laravel packages for the Omnia Global products — Puls... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-14 | A practical work management information system built with La... |
+| [jeffersongoncalves/mobilekitv4](https://github.com/jeffersongoncalves/mobilekitv4) | 14 | 2026-08-14 | MobileKit starter kit built on Laravel 12.x, Filament 4.x an... |
+| [adolfoholzer/parameters](https://github.com/adolfoholzer/parameters) | 0 | 2026-08-14 | A dynamic parameter management package for Laravel that prov... |
+| [benjamincrozat/blog-v5](https://github.com/benjamincrozat/blog-v5) | 133 | 2026-08-14 | Source code for Benjamin Crozat's blog. |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-14 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-14 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-08-14 | 🔒 The missing package for Laravel Nova that lets you know w... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-08-14 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [matondojk/filament-data-copilot](https://github.com/matondojk/filament-data-copilot) | 1 | 2026-08-14 | Filament Data Copilot is an AI-powered assistant that allows... |
+| [thedambrosi/blog-multi-role-cms](https://github.com/thedambrosi/blog-multi-role-cms) | 1 | 2026-08-14 | Multi-role blog CMS built with Laravel — invite-only collabo... |
+| [laractrl/controlled](https://github.com/laractrl/controlled) | 3 | 2026-08-14 | Secure Your Right After Delivered Your web app Before they c... |
+| [bladepdf/bladepdf-laravel](https://github.com/bladepdf/bladepdf-laravel) | 11 | 2026-08-14 | Generate production-ready PDFs from Laravel Blade views with... |
+| [officialfortechub/panic-pulse](https://github.com/officialfortechub/panic-pulse) | 0 | 2026-08-14 | A professional Laravel package that catches application exce... |
+| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-08-14 | A package for Miro |
 | [maleianefernando/api-shield](https://github.com/maleianefernando/api-shield) | 1 | 2026-08-14 | A laravel package to add a  security layer for apis by imple... |
-| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-08-14 | A Laravel and Livewire application for calorie-based food eq... |
-| [offload-project/laravel-waitlist](https://github.com/offload-project/laravel-waitlist) | 56 | 2026-08-14 | A simple and elegant waitlist package for Laravel applicatio... |
-| [tzsk/otp](https://github.com/tzsk/otp) | 242 | 2026-08-14 | Generate OTP with expiry for PHP without using Database |
-| [bagussatoto/Aplikasi-Data-Penjualan-Laravel-8](https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8) | 74 | 2026-08-14 | Membuat Aplikasi Berbasis Web Data Penjualan Menggunakan Lar... |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 198 | 2026-08-14 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 0 | 2026-08-14 | Prevent stale Laravel config and routes after FTP/shared-hos... |
-| [rxcod9/joy-voyager-api-laravel-demo](https://github.com/rxcod9/joy-voyager-api-laravel-demo) | 5 | 2026-08-14 | Joy VoyagerApi Laravel Demo shows integration of Joy Voyager... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-14 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [marcorieser/statamic-livewire](https://github.com/marcorieser/statamic-livewire) | 23 | 2026-08-14 | A Laravel Livewire integration for Statamic. |
-| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-08-14 | Laravel and Livewire admin panel scaffold for car-rental ope... |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 439 | 2026-08-14 | A media picker plugin for Filament Panels. |
-| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 185 | 2026-08-14 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
-| [solutionforest/filament-firewall](https://github.com/solutionforest/filament-firewall) | 44 | 2026-08-14 | This package provides a whitelist and blacklist feature to r... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-14 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-08-14 | Private expiring previews of unsaved Capell page and Layout ... |
-| [GTS-MEGHNI/laravel-essentials-kit](https://github.com/GTS-MEGHNI/laravel-essentials-kit) | 0 | 2026-08-14 | Kick off a Laravel API with the boilerplate already written:... |
-| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 157 | 2026-08-14 | HTTP Idempotency Middleware for Laravel applications |
-| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-08-14 | Multilingual, multi-site Capell navigation with visual menus... |
-| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 0 | 2026-08-14 | Visual Capell page composition with reusable widgets, named ... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-08-14 | Automated code analysis for Laravel applications with 73 com... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-08-14 | The flexible backbone for your next CMS. This powerful frame... |
+| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-08-14 | Laravel user impersonation with scoped modes, audit trails, ... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-08-14 | Laravel package scaffolder: generate complete, convention-re... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-15T00:35 | 3 | 1728 | 5802 |
 | 2026-08-14T18:35 | 2 | 1729 | 5799 |
 | 2026-08-14T12:35 | 4 | 1730 | 5797 |
 | 2026-08-14T06:50 | 0 | 1738 | 5793 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-13T06:51 | 4 | 1733 | 5780 |
 | 2026-08-13T00:42 | 3 | 1734 | 5776 |
 | 2026-08-12T18:39 | 8 | 1728 | 5773 |
-| 2026-08-12T12:35 | 19 | 1718 | 5765 |
 
 ---
 

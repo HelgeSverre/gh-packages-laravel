@@ -2,19 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5802  
-**Last updated:** 2026-08-15T00:35:45.649Z
+**Total packages tracked:** 5803  
+**Last updated:** 2026-08-15T06:33:54.240Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [theihasan/laravel-bkash](https://github.com/theihasan/laravel-bkash) | 58 | This is the ultimate package for connecting bkash payment gateway to your larave... |
 | [TM-threemavithana/laravel-saas](https://github.com/TM-threemavithana/laravel-saas) | 0 | A multi-tenant Applicant Tracking System built with Laravel, featuring job board... |
-| [Omnia-Global/omnia-packages](https://github.com/Omnia-Global/omnia-packages) | 0 | Shared Laravel packages for the Omnia Global products — Pulse, Campus and Vault.... |
+| [Omnia-Global/omnia-packages](https://github.com/Omnia-Global/omnia-packages) | 0 | Internal shared Laravel packages for the Omnia Global products (Pulse, Campus, V... |
 | [officialfortechub/panic-pulse](https://github.com/officialfortechub/panic-pulse) | 0 | A professional Laravel package that catches application exceptions, queries Gemi... |
 | [GTS-MEGHNI/laravel-essentials-kit](https://github.com/GTS-MEGHNI/laravel-essentials-kit) | 0 | Kick off a Laravel API with the boilerplate already written: hardened defaults, ... |
 | [JCCoca/filament-chart-palette](https://github.com/JCCoca/filament-chart-palette) | 0 | A Laravel/Filament package for applying dynamic color palettes and custom RGBA c... |
-| [accusser/duvento](https://github.com/accusser/duvento) | 0 | AGPLv3 deadline tracker for web agencies — domains, SSL, hosting, licenses. Self... |
+| [accusser/duvento](https://github.com/accusser/duvento) | 1 | AGPLv3 deadline tracker for web agencies — domains, SSL, hosting, licenses. Self... |
 | [Mustafa21102005/laravel-checkin-demo](https://github.com/Mustafa21102005/laravel-checkin-demo) | 1 | An interactive reference implementation demonstrating real-world application pat... |
 | [shetabit/token-builder](https://github.com/shetabit/token-builder) | 22 | a laravel package to generate temporary tokens/pins |
 | [hanifalkauni/distance-coordinate-calculator-package](https://github.com/hanifalkauni/distance-coordinate-calculator-package) | 0 | A feature-rich PHP & Laravel package to calculate geographical distance between ... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [EloquentWorks/Sentinel](https://github.com/EloquentWorks/Sentinel) | 1 | Laravel Sentinel provides elegant content moderation tools for Laravel applicati... |
 | [alexjustesen/laravel-placehold-image](https://github.com/alexjustesen/laravel-placehold-image) | 0 | A Laravel package to generate placeholder images. |
 | [avtocod/b2b-api-php-laravel](https://github.com/avtocod/b2b-api-php-laravel) | 7 | Laravel package for a working with B2B API service |
-| [tehwave/my-laravel-packages-demo-app](https://github.com/tehwave/my-laravel-packages-demo-app) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Omnia-Global/omnia-packages](https://github.com/Omnia-Global/omnia-packages) | 0 | 2026-08-15 | Shared Laravel packages for the Omnia Global products — Puls... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-14 | A practical work management information system built with La... |
-| [jeffersongoncalves/mobilekitv4](https://github.com/jeffersongoncalves/mobilekitv4) | 14 | 2026-08-14 | MobileKit starter kit built on Laravel 12.x, Filament 4.x an... |
-| [adolfoholzer/parameters](https://github.com/adolfoholzer/parameters) | 0 | 2026-08-14 | A dynamic parameter management package for Laravel that prov... |
-| [benjamincrozat/blog-v5](https://github.com/benjamincrozat/blog-v5) | 133 | 2026-08-14 | Source code for Benjamin Crozat's blog. |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-14 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-14 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-08-14 | 🔒 The missing package for Laravel Nova that lets you know w... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-08-14 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [matondojk/filament-data-copilot](https://github.com/matondojk/filament-data-copilot) | 1 | 2026-08-14 | Filament Data Copilot is an AI-powered assistant that allows... |
-| [thedambrosi/blog-multi-role-cms](https://github.com/thedambrosi/blog-multi-role-cms) | 1 | 2026-08-14 | Multi-role blog CMS built with Laravel — invite-only collabo... |
-| [laractrl/controlled](https://github.com/laractrl/controlled) | 3 | 2026-08-14 | Secure Your Right After Delivered Your web app Before they c... |
-| [bladepdf/bladepdf-laravel](https://github.com/bladepdf/bladepdf-laravel) | 11 | 2026-08-14 | Generate production-ready PDFs from Laravel Blade views with... |
-| [officialfortechub/panic-pulse](https://github.com/officialfortechub/panic-pulse) | 0 | 2026-08-14 | A professional Laravel package that catches application exce... |
-| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-08-14 | A package for Miro |
-| [maleianefernando/api-shield](https://github.com/maleianefernando/api-shield) | 1 | 2026-08-14 | A laravel package to add a  security layer for apis by imple... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-08-14 | Automated code analysis for Laravel applications with 73 com... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-08-14 | The flexible backbone for your next CMS. This powerful frame... |
-| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-08-14 | Laravel user impersonation with scoped modes, audit trails, ... |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-08-14 | Laravel package scaffolder: generate complete, convention-re... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-08-15 | Laravel package scaffolder: generate complete, convention-re... |
+| [aliqasemzadeh/1860](https://github.com/aliqasemzadeh/1860) | 0 | 2026-08-15 | 1860 |
+| [blemli/formsettings-for-filament](https://github.com/blemli/formsettings-for-filament) | 1 | 2026-08-15 | rule your forms |
+| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-08-15 | Laravel user impersonation with scoped modes, audit trails, ... |
+| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-08-15 | PDF rendering for Laravel behind a capability-checked driver... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-08-15 | Runtime base library for building Laravel packages: fluent P... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-08-15 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-15 | Laravel USPS Package to integrate USPS Address |
+| [hms5232/laravel-swagger](https://github.com/hms5232/laravel-swagger) | 3 | 2026-08-15 | Integrate Swagger UI and Editor  into Laravel |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-08-15 | A personal portfolio built as an interactive browser-based t... |
+| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 245 | 2026-08-15 | form builder for your users, with so many use cases |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-15 | Laravel-based API for storing sensor data from distributed n... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-15 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-08-15 | A Laravel and Livewire application for calorie-based food eq... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-15 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-08-15 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
+| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-08-15 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 0 | 2026-08-15 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [theihasan/laravel-bkash](https://github.com/theihasan/laravel-bkash) | 58 | 2026-08-15 | This is the ultimate package for connecting bkash payment ga... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-15T06:33 | 1 | 1730 | 5803 |
 | 2026-08-15T00:35 | 3 | 1728 | 5802 |
 | 2026-08-14T18:35 | 2 | 1729 | 5799 |
 | 2026-08-14T12:35 | 4 | 1730 | 5797 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-13T12:36 | 3 | 1734 | 5782 |
 | 2026-08-13T06:51 | 4 | 1733 | 5780 |
 | 2026-08-13T00:42 | 3 | 1734 | 5776 |
-| 2026-08-12T18:39 | 8 | 1728 | 5773 |
 
 ---
 

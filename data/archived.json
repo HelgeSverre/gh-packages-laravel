@@ -1084,5 +1084,58 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-08-13T12:36:23.801Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "larawiregarage/larapex-livewire": {
+    "name": "LarawireGarage/larapex-livewire",
+    "url": "https://github.com/LarawireGarage/larapex-livewire",
+    "description": "Laravel wrapper for ApexCharts javascript plugin advanced features with livewire",
+    "stars": 4,
+    "forks": 1,
+    "topics": [
+      "alpinejs",
+      "apexcharts",
+      "charts",
+      "laravel",
+      "livewire",
+      "livewire-components",
+      "livewire3",
+      "wrapper"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2023-05-14T19:27:03Z",
+    "updated_at": "2026-02-20T10:38:36Z",
+    "pushed_at": "2025-08-16T00:34:57Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-08-16T00:35:30.665Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "fatemeh-shahrabi/grammagic": {
+    "name": "fatemeh-shahrabi/Grammagic",
+    "url": "https://github.com/fatemeh-shahrabi/Grammagic",
+    "description": "An AI-powered web app that teaches English grammar in 21 days using interactive quizzes and GPT feedback.",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "ai",
+      "education",
+      "english-learning",
+      "gamification",
+      "gpt",
+      "grammar",
+      "laravel",
+      "livewire",
+      "openai",
+      "rubikamp",
+      "tailwindcss"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-07-16T15:12:47Z",
+    "updated_at": "2025-08-15T22:08:16Z",
+    "pushed_at": "2025-08-15T22:08:13Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-08-16T00:35:30.665Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

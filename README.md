@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5829  
-**Last updated:** 2026-08-17T12:34:16.607Z
+**Total packages tracked:** 5833  
+**Last updated:** 2026-08-17T18:34:19.211Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [StreetMesh/Server](https://github.com/StreetMesh/Server) | 0 | Build multiplayer experiences on a Laravel server. People sign in with a usernam... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | Club'O'Clock — Nage, pédale, cavale… fini le planning infernal ! Gestion du plan... |
+| [felicianopj-dev/laravel-cashier-inspector](https://github.com/felicianopj-dev/laravel-cashier-inspector) | 0 | A local debugging and diagnostic dashboard for Laravel Cashier. Captures Stripe ... |
+| [aminpamelo/watchtower-laravel](https://github.com/aminpamelo/watchtower-laravel) | 0 | Watchtower monitoring SDK for Laravel (client package) |
 | [ahtesham-clcbws/laravel-integrity](https://github.com/ahtesham-clcbws/laravel-integrity) | 0 | The definitive code integrity and security suite for Laravel & Livewire. Prevent... |
 | [tgozo19/laravel-codegen](https://github.com/tgozo19/laravel-codegen) | 13 | The Elegant Laravel Code Generator built with a focus on simplicity and increasi... |
 | [theshreyanshpanchal/laravel-auth](https://github.com/theshreyanshpanchal/laravel-auth) | 0 | Laravel auth package for Sanctum API tokens and session web login, with OTP, RBA... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [shetabit/stampable](https://github.com/shetabit/stampable) | 6 | a Laravel Package for adding stamp behaviors into laravel models. |
 | [ardhikaxx/qris-dynamic-gateway](https://github.com/ardhikaxx/qris-dynamic-gateway) | 4 | QRIS Dynamic Gateway (Laravel Package) |
 | [Abdulkader-Safi/filament-atelier](https://github.com/Abdulkader-Safi/filament-atelier) | 0 | A visual page builder for Laravel and Filament. Code-defined blocks, a live prev... |
-| [timmcleod/agent-workflows](https://github.com/timmcleod/agent-workflows) | 2 | Durable, resumable, human-interruptible agent workflows for the Laravel AI SDK |
-| [starnerz/laravel-daraja](https://github.com/starnerz/laravel-daraja) | 7 | A laravel package for the Safaricom Daraja APIs. |
-| [otghcloud/laravel-whois](https://github.com/otghcloud/laravel-whois) | 0 | A simple to use RDAP/WHOIS domain lookup package for use within Laravel projects... |
-| [easybdit/laraveleasyai](https://github.com/easybdit/laraveleasyai) | 8 | Unified AI chat for Laravel — Ollama, OpenAI (ChatGPT), Anthropic (Claude), Deep... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 1 | 2026-08-17 | Prevent stale Laravel config and routes after FTP/shared-hos... |
-| [Do-It-VIPros/laravel-package-zoho-connector](https://github.com/Do-It-VIPros/laravel-package-zoho-connector) | 0 | 2026-08-17 | Package Laravel qui fournit un connecteur complet pour Zoho ... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-17 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [bambamboole/laravel-mermaid-erd](https://github.com/bambamboole/laravel-mermaid-erd) | 3 | 2026-08-17 | Package to generate Mermaid ERD from the database schema |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 230 | 2026-08-17 | A live database structure viewer for Laravel that renders yo... |
-| [zanko-khaledi/notifications](https://github.com/zanko-khaledi/notifications) | 4 | 2026-08-17 | A flexible, event-driven Laravel package for managing and di... |
-| [Owen-oj/laravel-getid3](https://github.com/Owen-oj/laravel-getid3) | 85 | 2026-08-17 | A Laravel package to extract metadata from media files. mp3,... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-17 | The Moox Project - Packages for Filament and Laravel |
-| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-08-17 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
-| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-08-17 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
+| [awcodes/botly](https://github.com/awcodes/botly) | 4 | 2026-08-17 | Botly is a Filament plugin to manage your site's robots.txt ... |
+| [morpheusadam/kargah](https://github.com/morpheusadam/kargah) | 1 | 2026-08-17 | Self-hosted freelance workspace: IMAP inbox, bulk email camp... |
+| [syofyanzuhad/lumina](https://github.com/syofyanzuhad/lumina) | 0 | 2026-08-17 | Lightweight, self-hosted web analytics especially for Larave... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-17 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [awcodes/overlook](https://github.com/awcodes/overlook) | 193 | 2026-08-17 | An app overview widget for Filament panels. |
+| [awcodes/filament-sticky-header](https://github.com/awcodes/filament-sticky-header) | 82 | 2026-08-17 | A Filament Panels plugin to make headers sticky when scrolli... |
+| [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create) | 248 | 2026-08-17 | Plugin for Filament Panels that adds a dropdown menu to the ... |
+| [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) | 147 | 2026-08-17 | Display additional context as badges alongside your Filament... |
+| [jeffersongoncalves/laravel-favicon-proxy](https://github.com/jeffersongoncalves/laravel-favicon-proxy) | 1 | 2026-08-17 | Same-origin favicon proxy with server-side caching (Google S... |
+| [jeffersongoncalves/filament-ace-editor-field](https://github.com/jeffersongoncalves/filament-ace-editor-field) | 4 | 2026-08-17 | A Laravel Filament field that integrates the Ace code editor... |
+| [GTS-MEGHNI/laravel-satim](https://github.com/GTS-MEGHNI/laravel-satim) | 0 | 2026-08-17 | Accept CIB and Edahabia card payments in Laravel through the... |
 | [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-17 | A complete OIDC server as a laravel package |
-| [VanOns/filament-redirects](https://github.com/VanOns/filament-redirects) | 0 | 2026-08-17 | A Filament package to manage redirects in your application. |
-| [ahtesham-clcbws/laravel-integrity](https://github.com/ahtesham-clcbws/laravel-integrity) | 0 | 2026-08-17 | The definitive code integrity and security suite for Laravel... |
-| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 185 | 2026-08-17 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-08-17 | Main Webampp laravel package for GEOBOX 2.0 |
-| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 10 | 2026-08-17 | Filament package for easy attachment uploading and browsing. |
-| [aliqasemzadeh/pcshiraz.ir](https://github.com/aliqasemzadeh/pcshiraz.ir) | 0 | 2026-08-17 | PCShiraz is online E-Commerce Platform |
-| [pxlrbt/laravel-pdfable](https://github.com/pxlrbt/laravel-pdfable) | 76 | 2026-08-17 | Keep your PDFs logic in one place. |
-| [spok-sto/spoke](https://github.com/spok-sto/spoke) | 5 | 2026-08-17 | Self-hosted Laravel observability with request tracing, SQL ... |
-| [html2img/html2img-laravel](https://github.com/html2img/html2img-laravel) | 2 | 2026-08-17 | Laravel integration for https://html2img.com service (HTML t... |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-08-17 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [danielpopa26/laraiot](https://github.com/danielpopa26/laraiot) | 0 | 2026-08-17 | A Laravel package for developing monitoring and control appl... |
+| [StreetMesh/Protocol-Laravel](https://github.com/StreetMesh/Protocol-Laravel) | 0 | 2026-08-17 | The StreetMesh protocol as a Laravel package: discovery, del... |
+| [StreetMesh/Server](https://github.com/StreetMesh/Server) | 0 | 2026-08-17 | Build multiplayer experiences on a Laravel server. People si... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-17 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-08-17 | A package to create datatables using alpinejs, tailwind, liv... |
+| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-08-17 | Laravel Monitor: A lightweight Laravel package providing bas... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-17T18:34 | 4 | 1726 | 5833 |
 | 2026-08-17T12:34 | 7 | 1723 | 5829 |
 | 2026-08-17T06:34 | 2 | 1726 | 5822 |
 | 2026-08-17T00:35 | 1 | 1728 | 5820 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-16T00:35 | 4 | 1726 | 5814 |
 | 2026-08-15T18:32 | 7 | 1723 | 5812 |
 | 2026-08-15T12:33 | 2 | 1729 | 5805 |
-| 2026-08-15T06:33 | 1 | 1730 | 5803 |
 
 ---
 

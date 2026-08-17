@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5820  
-**Last updated:** 2026-08-17T00:35:16.935Z
+**Total packages tracked:** 5822  
+**Last updated:** 2026-08-17T06:34:58.744Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [nae6/flea-market-app](https://github.com/nae6/flea-market-app) | 0 | CoachTech 模擬案件1 |
+| [zerocool-network/chatbox](https://github.com/zerocool-network/chatbox) | 0 | Headless Laravel AI chat package. Database Q&A via laravel/ai Agents + Tools. |
 | [clavifa/filament-calendar-column](https://github.com/clavifa/filament-calendar-column) | 3 | A customizable calendar-style table column for Filament 5. |
 | [l3commerce/l37sg0-laravel-packages](https://github.com/l3commerce/l37sg0-laravel-packages) | 0 | Set of Laravel packages builded for a backend of a store. |
 | [aliqasemzadeh/pcshiraz.ir](https://github.com/aliqasemzadeh/pcshiraz.ir) | 0 | PCShiraz is online E-Commerce Platform |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kpripper-php/laravel-permission](https://github.com/kpripper-php/laravel-permission) | 0 | Laravel role and permission management package |
 | [C0deWiser/postie](https://github.com/C0deWiser/postie) | 0 | Subscription Management Laravel Package |
 | [laranail/validation](https://github.com/laranail/validation) | 0 | Type-safe fluent validation rule builders for Laravel, plus 39 rules for the for... |
-| [0x1115-inc/laravel-simple-cart](https://github.com/0x1115-inc/laravel-simple-cart) | 0 | A simple cart management Laravel package |
-| [theihasan/laravel-bkash](https://github.com/theihasan/laravel-bkash) | 58 | This is the ultimate package for connecting bkash payment gateway to your larave... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [richardDobron/blade-google-material-symbols](https://github.com/richardDobron/blade-google-material-symbols) | 0 | 2026-08-17 | A package to easily make use of Google's Material Symbols in... |
-| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-08-17 | ArtisanToolbox Maintainer provides automated validation, qua... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-17 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-17 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-17 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-17 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [Omnia-Global/omnia-packages](https://github.com/Omnia-Global/omnia-packages) | 0 | 2026-08-17 | Internal shared Laravel packages for the Omnia Global produc... |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-08-17 | A Laravel package that provides a Cookies consent floating w... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-08-17 | A Laravel package that crawls websites to detect broken link... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-17 | Laravel USPS Package to integrate USPS Address |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-08-17 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-08-17 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-17 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 8 | 2026-08-17 | Laravel Pesapal is a Laravel package designed to facilitate ... |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-08-17 | Laravel package for interacting with Traccar api |
 | [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-08-17 | Laravel OTP is a Laravel package that enables developers to ... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-16 | Local-first personal finance dashboard that resolves cross-a... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-16 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [jeffersongoncalves/laravel-npm-readme](https://github.com/jeffersongoncalves/laravel-npm-readme) | 1 | 2026-08-16 | Fetch, render and cache an npm package README from the regis... |
-| [clavifa/filament-calendar-column](https://github.com/clavifa/filament-calendar-column) | 3 | 2026-08-16 | A customizable calendar-style table column for Filament 5. |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-16 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-16 | Manage and track inventory with a PHP package that integrate... |
-| [matheusmarnt/scoutify](https://github.com/matheusmarnt/scoutify) | 1 | 2026-08-16 | ⌘K global search modal for Laravel — multi-model Livewire UI... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-16 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-16 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [vishalxtyagi/php-ghost-wall](https://github.com/vishalxtyagi/php-ghost-wall) | 0 | 2026-08-16 | PhpGhostWall is a Laravel package for monitoring code integr... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-08-16 | The NativePHP website |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-16 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-08-16 | Laravel package skeleton ⚙️ |
-| [lara-zeus/demo](https://github.com/lara-zeus/demo) | 12 | 2026-08-16 | demo for all zeus packages based on filamentphp plugins |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-08-16 | [READ ONLY] API Platform for Laravel |
-| [pelmered/filament-money-field](https://github.com/pelmered/filament-money-field) | 94 | 2026-08-16 | Money field powered by Money PHP  |
-| [timmcleod/agent-workflows](https://github.com/timmcleod/agent-workflows) | 2 | 2026-08-16 | Durable, resumable, human-interruptible agent workflows for ... |
+| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 1 | 2026-08-17 | Prevent stale Laravel config and routes after FTP/shared-hos... |
+| [zanko-khaledi/notifications](https://github.com/zanko-khaledi/notifications) | 4 | 2026-08-17 | A flexible, event-driven Laravel package for managing and di... |
+| [salmanzafar949/MQTT-Laravel](https://github.com/salmanzafar949/MQTT-Laravel) | 102 | 2026-08-17 | Laravel package to connect, publish, and subscribe to an MQT... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 160 | 2026-08-17 | Provides email verification on the go. |
+| [codebar-ag/laravel-event-logs](https://github.com/codebar-ag/laravel-event-logs) | 0 | 2026-08-17 | Event logging for HTTP requests and model events with plugga... |
+| [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator) | 70 | 2026-08-17 | Laravel Gemini AI Translation Extractor scans your Laravel p... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-17T06:34 | 2 | 1726 | 5822 |
 | 2026-08-17T00:35 | 1 | 1728 | 5820 |
 | 2026-08-16T18:32 | 1 | 1729 | 5819 |
 | 2026-08-16T12:33 | 3 | 1728 | 5818 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-15T12:33 | 2 | 1729 | 5805 |
 | 2026-08-15T06:33 | 1 | 1730 | 5803 |
 | 2026-08-15T00:35 | 3 | 1728 | 5802 |
-| 2026-08-14T18:35 | 2 | 1729 | 5799 |
 
 ---
 

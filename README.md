@@ -2,20 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5819  
-**Last updated:** 2026-08-16T18:32:54.977Z
+**Total packages tracked:** 5820  
+**Last updated:** 2026-08-17T00:35:16.935Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [clavifa/filament-calendar-column](https://github.com/clavifa/filament-calendar-column) | 3 | A customizable calendar-style table column for Filament 5. |
 | [l3commerce/l37sg0-laravel-packages](https://github.com/l3commerce/l37sg0-laravel-packages) | 0 | Set of Laravel packages builded for a backend of a store. |
 | [aliqasemzadeh/pcshiraz.ir](https://github.com/aliqasemzadeh/pcshiraz.ir) | 0 | PCShiraz is online E-Commerce Platform |
 | [SynergiTech/laravel-salesforce](https://github.com/SynergiTech/laravel-salesforce) | 0 | This package uses omniphx/forrest to provide an Eloquent-style way of querying s... |
 | [shetabit/stampable](https://github.com/shetabit/stampable) | 6 | a Laravel Package for adding stamp behaviors into laravel models. |
-| [ardhikaxx/qris-dynamic-gateway](https://github.com/ardhikaxx/qris-dynamic-gateway) | 3 | QRIS Dynamic Gateway (Laravel Package) |
+| [ardhikaxx/qris-dynamic-gateway](https://github.com/ardhikaxx/qris-dynamic-gateway) | 4 | QRIS Dynamic Gateway (Laravel Package) |
 | [Abdulkader-Safi/filament-atelier](https://github.com/Abdulkader-Safi/filament-atelier) | 0 | A visual page builder for Laravel and Filament. Code-defined blocks, a live prev... |
-| [timmcleod/agent-workflows](https://github.com/timmcleod/agent-workflows) | 1 | Durable, resumable, human-interruptible agent workflows for the Laravel AI SDK |
+| [timmcleod/agent-workflows](https://github.com/timmcleod/agent-workflows) | 2 | Durable, resumable, human-interruptible agent workflows for the Laravel AI SDK |
 | [starnerz/laravel-daraja](https://github.com/starnerz/laravel-daraja) | 7 | A laravel package for the Safaricom Daraja APIs. |
 | [otghcloud/laravel-whois](https://github.com/otghcloud/laravel-whois) | 0 | A simple to use RDAP/WHOIS domain lookup package for use within Laravel projects... |
 | [easybdit/laraveleasyai](https://github.com/easybdit/laraveleasyai) | 8 | Unified AI chat for Laravel — Ollama, OpenAI (ChatGPT), Anthropic (Claude), Deep... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [laranail/validation](https://github.com/laranail/validation) | 0 | Type-safe fluent validation rule builders for Laravel, plus 39 rules for the for... |
 | [0x1115-inc/laravel-simple-cart](https://github.com/0x1115-inc/laravel-simple-cart) | 0 | A simple cart management Laravel package |
 | [theihasan/laravel-bkash](https://github.com/theihasan/laravel-bkash) | 58 | This is the ultimate package for connecting bkash payment gateway to your larave... |
-| [TM-threemavithana/laravel-saas](https://github.com/TM-threemavithana/laravel-saas) | 0 | A multi-tenant Applicant Tracking System built with Laravel, featuring job board... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -43,7 +43,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
-| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 462 | Add kanban boards to your Filament pages |
+| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 463 | Add kanban boards to your Filament pages |
 | [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 453 | Open Source Laravel CRM Package |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-08-16 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
-| [achyutkneupane/filament-log-viewer](https://github.com/achyutkneupane/filament-log-viewer) | 51 | 2026-08-16 | A Filament package to view and manage Laravel logs. |
-| [l3commerce/l37sg0-laravel-packages](https://github.com/l3commerce/l37sg0-laravel-packages) | 0 | 2026-08-16 | Set of Laravel packages builded for a backend of a store. |
-| [awcodes/shout](https://github.com/awcodes/shout) | 71 | 2026-08-16 | A simple inline contextual notice for Filament forms and inf... |
-| [awcodes/light-switch](https://github.com/awcodes/light-switch) | 48 | 2026-08-16 | Plugin to add theme switching (light/dark/system) to the aut... |
+| [richardDobron/blade-google-material-symbols](https://github.com/richardDobron/blade-google-material-symbols) | 0 | 2026-08-17 | A package to easily make use of Google's Material Symbols in... |
+| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-08-17 | ArtisanToolbox Maintainer provides automated validation, qua... |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-08-17 | Laravel OTP is a Laravel package that enables developers to ... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-16 | Local-first personal finance dashboard that resolves cross-a... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-16 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [jeffersongoncalves/laravel-npm-readme](https://github.com/jeffersongoncalves/laravel-npm-readme) | 1 | 2026-08-16 | Fetch, render and cache an npm package README from the regis... |
+| [clavifa/filament-calendar-column](https://github.com/clavifa/filament-calendar-column) | 3 | 2026-08-16 | A customizable calendar-style table column for Filament 5. |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-16 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-16 | Manage and track inventory with a PHP package that integrate... |
+| [matheusmarnt/scoutify](https://github.com/matheusmarnt/scoutify) | 1 | 2026-08-16 | ⌘K global search modal for Laravel — multi-model Livewire UI... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-16 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-16 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [vishalxtyagi/php-ghost-wall](https://github.com/vishalxtyagi/php-ghost-wall) | 0 | 2026-08-16 | PhpGhostWall is a Laravel package for monitoring code integr... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-08-16 | The NativePHP website |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-16 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [adiachenko/skeleton-laravel](https://github.com/adiachenko/skeleton-laravel) | 0 | 2026-08-16 | Laravel package skeleton ⚙️ |
+| [lara-zeus/demo](https://github.com/lara-zeus/demo) | 12 | 2026-08-16 | demo for all zeus packages based on filamentphp plugins |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-08-16 | [READ ONLY] API Platform for Laravel |
 | [pelmered/filament-money-field](https://github.com/pelmered/filament-money-field) | 94 | 2026-08-16 | Money field powered by Money PHP  |
-| [awcodes/postal-codes](https://github.com/awcodes/postal-codes) | 5 | 2026-08-16 | This is a package to easily install and use postal codes in ... |
-| [awcodes/filament-gravatar](https://github.com/awcodes/filament-gravatar) | 32 | 2026-08-16 | Replace Filament's default avatar url provider with one for ... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 3 | 2026-08-16 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 12 | 2026-08-16 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 9 | 2026-08-16 | FilaKit starter kit built on Laravel 12.x and Filament 3.x w... |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-08-16 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [jeffersongoncalves/mobilekitv5](https://github.com/jeffersongoncalves/mobilekitv5) | 6 | 2026-08-16 | MobileKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 10 | 2026-08-16 | MFAKit starter kit built on Laravel 12.x and Filament 4.x wi... |
-| [jeffersongoncalves/mfakitv5](https://github.com/jeffersongoncalves/mfakitv5) | 3 | 2026-08-16 | MFAKit starter kit built on Laravel 12.x and Filament 5.x wi... |
-| [jeffersongoncalves/helpdeskkitv4](https://github.com/jeffersongoncalves/helpdeskkitv4) | 4 | 2026-08-16 | HelpDesk starter kit built on Laravel 13.x and Filament 4.x ... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 7 | 2026-08-16 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 17 | 2026-08-16 | FilaKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 1 | 2026-08-16 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-08-16 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
+| [timmcleod/agent-workflows](https://github.com/timmcleod/agent-workflows) | 2 | 2026-08-16 | Durable, resumable, human-interruptible agent workflows for ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-17T00:35 | 1 | 1728 | 5820 |
 | 2026-08-16T18:32 | 1 | 1729 | 5819 |
 | 2026-08-16T12:33 | 3 | 1728 | 5818 |
 | 2026-08-16T06:33 | 1 | 1729 | 5815 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-15T06:33 | 1 | 1730 | 5803 |
 | 2026-08-15T00:35 | 3 | 1728 | 5802 |
 | 2026-08-14T18:35 | 2 | 1729 | 5799 |
-| 2026-08-14T12:35 | 4 | 1730 | 5797 |
 
 ---
 

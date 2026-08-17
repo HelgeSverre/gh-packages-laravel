@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5822  
-**Last updated:** 2026-08-17T06:34:58.744Z
+**Total packages tracked:** 5829  
+**Last updated:** 2026-08-17T12:34:16.607Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ahtesham-clcbws/laravel-integrity](https://github.com/ahtesham-clcbws/laravel-integrity) | 0 | The definitive code integrity and security suite for Laravel & Livewire. Prevent... |
+| [tgozo19/laravel-codegen](https://github.com/tgozo19/laravel-codegen) | 13 | The Elegant Laravel Code Generator built with a focus on simplicity and increasi... |
+| [theshreyanshpanchal/laravel-auth](https://github.com/theshreyanshpanchal/laravel-auth) | 0 | Laravel auth package for Sanctum API tokens and session web login, with OTP, RBA... |
+| [adiachenko/starter-laravel-package](https://github.com/adiachenko/starter-laravel-package) | 0 |  |
+| [pouyafarshidnia/elefilter](https://github.com/pouyafarshidnia/elefilter) | 0 | EleFilter Package, Easy , fast and clean filtering package for laravel applicati... |
+| [shetabit/sms](https://github.com/shetabit/sms) | 9 | Laravel Package for SMS Gateway Integration |
+| [Do-It-VIPros/laravel-package-zoho-connector](https://github.com/Do-It-VIPros/laravel-package-zoho-connector) | 0 | Package Laravel qui fournit un connecteur complet pour Zoho Creator (v2.1) |
 | [nae6/flea-market-app](https://github.com/nae6/flea-market-app) | 0 | CoachTech 模擬案件1 |
 | [zerocool-network/chatbox](https://github.com/zerocool-network/chatbox) | 0 | Headless Laravel AI chat package. Database Q&A via laravel/ai Agents + Tools. |
 | [clavifa/filament-calendar-column](https://github.com/clavifa/filament-calendar-column) | 3 | A customizable calendar-style table column for Filament 5. |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [starnerz/laravel-daraja](https://github.com/starnerz/laravel-daraja) | 7 | A laravel package for the Safaricom Daraja APIs. |
 | [otghcloud/laravel-whois](https://github.com/otghcloud/laravel-whois) | 0 | A simple to use RDAP/WHOIS domain lookup package for use within Laravel projects... |
 | [easybdit/laraveleasyai](https://github.com/easybdit/laraveleasyai) | 8 | Unified AI chat for Laravel — Ollama, OpenAI (ChatGPT), Anthropic (Claude), Deep... |
-| [spok-sto/spoke](https://github.com/spok-sto/spoke) | 5 | Self-hosted Laravel observability with request tracing, SQL intelligence, queues... |
-| [janecodelife/livewire-secure-properties](https://github.com/janecodelife/livewire-secure-properties) | 0 | secure your livewire 4 properties with zero configs and void headache while deev... |
-| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | ArtisanToolbox Maintainer provides automated validation, quality assurance, vers... |
-| [JonBarakMierke/SeoMunk](https://github.com/JonBarakMierke/SeoMunk) | 0 | A SEO and AIO/GEO package for Laravel. |
-| [kpripper-php/laravel-permission](https://github.com/kpripper-php/laravel-permission) | 0 | Laravel role and permission management package |
-| [C0deWiser/postie](https://github.com/C0deWiser/postie) | 0 | Subscription Management Laravel Package |
-| [laranail/validation](https://github.com/laranail/validation) | 0 | Type-safe fluent validation rule builders for Laravel, plus 39 rules for the for... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-17 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-17 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-17 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-17 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [Omnia-Global/omnia-packages](https://github.com/Omnia-Global/omnia-packages) | 0 | 2026-08-17 | Internal shared Laravel packages for the Omnia Global produc... |
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-08-17 | A Laravel package that provides a Cookies consent floating w... |
-| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-08-17 | A Laravel package that crawls websites to detect broken link... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-17 | Laravel USPS Package to integrate USPS Address |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-08-17 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-08-17 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-17 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 8 | 2026-08-17 | Laravel Pesapal is a Laravel package designed to facilitate ... |
-| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-08-17 | Laravel package for interacting with Traccar api |
-| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-08-17 | Laravel OTP is a Laravel package that enables developers to ... |
 | [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 1 | 2026-08-17 | Prevent stale Laravel config and routes after FTP/shared-hos... |
+| [Do-It-VIPros/laravel-package-zoho-connector](https://github.com/Do-It-VIPros/laravel-package-zoho-connector) | 0 | 2026-08-17 | Package Laravel qui fournit un connecteur complet pour Zoho ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-17 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [bambamboole/laravel-mermaid-erd](https://github.com/bambamboole/laravel-mermaid-erd) | 3 | 2026-08-17 | Package to generate Mermaid ERD from the database schema |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 230 | 2026-08-17 | A live database structure viewer for Laravel that renders yo... |
 | [zanko-khaledi/notifications](https://github.com/zanko-khaledi/notifications) | 4 | 2026-08-17 | A flexible, event-driven Laravel package for managing and di... |
-| [salmanzafar949/MQTT-Laravel](https://github.com/salmanzafar949/MQTT-Laravel) | 102 | 2026-08-17 | Laravel package to connect, publish, and subscribe to an MQT... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 160 | 2026-08-17 | Provides email verification on the go. |
-| [codebar-ag/laravel-event-logs](https://github.com/codebar-ag/laravel-event-logs) | 0 | 2026-08-17 | Event logging for HTTP requests and model events with plugga... |
-| [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator) | 70 | 2026-08-17 | Laravel Gemini AI Translation Extractor scans your Laravel p... |
+| [Owen-oj/laravel-getid3](https://github.com/Owen-oj/laravel-getid3) | 85 | 2026-08-17 | A Laravel package to extract metadata from media files. mp3,... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-17 | The Moox Project - Packages for Filament and Laravel |
+| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-08-17 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
+| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-08-17 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-17 | A complete OIDC server as a laravel package |
+| [VanOns/filament-redirects](https://github.com/VanOns/filament-redirects) | 0 | 2026-08-17 | A Filament package to manage redirects in your application. |
+| [ahtesham-clcbws/laravel-integrity](https://github.com/ahtesham-clcbws/laravel-integrity) | 0 | 2026-08-17 | The definitive code integrity and security suite for Laravel... |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 185 | 2026-08-17 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-08-17 | Main Webampp laravel package for GEOBOX 2.0 |
+| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 10 | 2026-08-17 | Filament package for easy attachment uploading and browsing. |
+| [aliqasemzadeh/pcshiraz.ir](https://github.com/aliqasemzadeh/pcshiraz.ir) | 0 | 2026-08-17 | PCShiraz is online E-Commerce Platform |
+| [pxlrbt/laravel-pdfable](https://github.com/pxlrbt/laravel-pdfable) | 76 | 2026-08-17 | Keep your PDFs logic in one place. |
+| [spok-sto/spoke](https://github.com/spok-sto/spoke) | 5 | 2026-08-17 | Self-hosted Laravel observability with request tracing, SQL ... |
+| [html2img/html2img-laravel](https://github.com/html2img/html2img-laravel) | 2 | 2026-08-17 | Laravel integration for https://html2img.com service (HTML t... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-17T12:34 | 7 | 1723 | 5829 |
 | 2026-08-17T06:34 | 2 | 1726 | 5822 |
 | 2026-08-17T00:35 | 1 | 1728 | 5820 |
 | 2026-08-16T18:32 | 1 | 1729 | 5819 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-15T18:32 | 7 | 1723 | 5812 |
 | 2026-08-15T12:33 | 2 | 1729 | 5805 |
 | 2026-08-15T06:33 | 1 | 1730 | 5803 |
-| 2026-08-15T00:35 | 3 | 1728 | 5802 |
 
 ---
 

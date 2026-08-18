@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5853  
-**Last updated:** 2026-08-18T12:34:14.699Z
+**Total packages tracked:** 5860  
+**Last updated:** 2026-08-18T18:33:49.835Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [VitisStudio/filament-header-schema](https://github.com/VitisStudio/filament-header-schema) | 0 | Build the header of a Filament page with a schema instead of a Blade view. |
+| [padosoft/migrate-cloudflare-rules](https://github.com/padosoft/migrate-cloudflare-rules) | 1 | Migrate secure cloudflare rules from a zone to another |
+| [HRADigital/php-datatypes-laravel-doctrine](https://github.com/HRADigital/php-datatypes-laravel-doctrine) | 0 | Persist PHP Datatypes value objects with Doctrine DBAL - Laravel auto-wired, zer... |
+| [henryleeworld/laravel-scores-packages-on-security-and-maintenance-and-ecosystem-health](https://github.com/henryleeworld/laravel-scores-packages-on-security-and-maintenance-and-ecosystem-health) | 0 | 針對安全性、維護狀況與生態系統健康度為套件進行評分 |
+| [caiquebispo/notification-bell](https://github.com/caiquebispo/notification-bell) | 2 | An elegant and responsive Laravel package for managing notifications with Livewi... |
+| [SarahGordon895/tz-phone](https://github.com/SarahGordon895/tz-phone) | 0 | PHP/Laravel package to validate Tanzanian mobile numbers and identify Vodacom, A... |
+| [theqdev/laravel-minify](https://github.com/theqdev/laravel-minify) | 0 | A PHP package for minifying your .css and .js. for Laravel monoliths |
 | [syscage/laravel-plugin](https://github.com/syscage/laravel-plugin) | 0 | Laravel plugin framework for modular, self-contained application extensions. |
 | [huzaifa113/luna-boutique](https://github.com/huzaifa113/luna-boutique) | 0 | Developed a Full Stack E-commerce Platform with Online Store and complete POS sy... |
 | [Nixxx27/worktrack](https://github.com/Nixxx27/worktrack) | 0 | Self-hosted work tracker that answers "how long has this been sitting?" — cycle ... |
 | [spok-sto/Spoke-Laravel-Flight-recorder](https://github.com/spok-sto/Spoke-Laravel-Flight-recorder) | 5 | Self-hosted Laravel  Flight recorder  with request tracing, SQL intelligence, qu... |
 | [bigenergy/laravel-nplusone-baseline](https://github.com/bigenergy/laravel-nplusone-baseline) | 1 | Catch N+1 regressions in CI, on a codebase that already has hundreds of them. |
 | [dns-lookup-pro/dnslookup-laravel](https://github.com/dns-lookup-pro/dnslookup-laravel) | 0 | Laravel integration for the DNS Lookup Pro SDK: Dns facade, publishable config, ... |
-| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 1 | A Laravel package for creating and redirecting short URLs, with caching and an e... |
+| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 4 | A Laravel package for creating and redirecting short URLs, with caching and an e... |
 | [syscage/laravel-datatable](https://github.com/syscage/laravel-datatable) | 0 | Fluent, extensible Laravel datatable package with automatic search, sorting, fil... |
 | [jessekoerhuis/laravel-event-flags](https://github.com/jessekoerhuis/laravel-event-flags) | 0 | This repository contains the code for the Laravel Event Flags package. |
 | [mrtolouei/laravel-audit](https://github.com/mrtolouei/laravel-audit) | 0 | A lightweight and framework-native audit log package for Laravel applications. |
 | [sionpkr/tourney-method](https://github.com/sionpkr/tourney-method) | 0 | Open-source osu! tournament discovery, history, and community contribution platf... |
 | [ejunker/laravel-shared-fixtures](https://github.com/ejunker/laravel-shared-fixtures) | 0 | Class-scoped, transaction-isolated test fixtures for Laravel — build factory dat... |
 | [Vimantha-Dilshan/laravel-query-inspector](https://github.com/Vimantha-Dilshan/laravel-query-inspector) | 1 | Zero-configuration open-source Laravel package for real-time database query perf... |
-| [hampel/nv](https://github.com/hampel/nv) | 0 | A command-line harness for exercising the Composer packages with real code, buil... |
-| [MalobaKombo/kafka-laravel-queue](https://github.com/MalobaKombo/kafka-laravel-queue) | 1 | Kafka Laravel Queue – A Laravel package that integrates Apache Kafka as a queue ... |
-| [AlwaysCuriousCo/package-pipeline](https://github.com/AlwaysCuriousCo/package-pipeline) | 1 | Self-hosted private Composer registry |
-| [Power-Components/turbine](https://github.com/Power-Components/turbine) | 1 | Framework-agnostic data engine for Laravel (search, filters, sort, pagination) r... |
-| [distortedfusion/blade-components](https://github.com/distortedfusion/blade-components) | 25 | Blade Components is a hand-crafted, UI component library for building consistent... |
-| [christoferd/package-lara-report-table](https://github.com/christoferd/package-lara-report-table) | 0 | Laravel Report Table/HTML generator class. Helps create clean uniform reports th... |
-| [KelvinEuclides/mpesa-laravel](https://github.com/KelvinEuclides/mpesa-laravel) | 2 | A Laravel package for the Vodacom M-Pesa Mozambique Open API, providing C2B, B2C... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | 2026-08-18 | Toolkit with testing utilities for php and Laravel |
-| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 1 | 2026-08-18 | Prevent stale Laravel config and routes after FTP/shared-hos... |
-| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 1 | 2026-08-18 | A Laravel package for creating and redirecting short URLs, w... |
-| [Abdulkader-Safi/filament-atelier](https://github.com/Abdulkader-Safi/filament-atelier) | 1 | 2026-08-18 | A visual page builder for Laravel and Filament. Code-defined... |
-| [felicianopj-dev/laravel-cashier-inspector](https://github.com/felicianopj-dev/laravel-cashier-inspector) | 0 | 2026-08-18 | A local debugging and diagnostic dashboard for Laravel Cashi... |
-| [kongulov/nova-tab-translatable](https://github.com/kongulov/nova-tab-translatable) | 84 | 2026-08-18 | This package contains a NovaTabTranslatable class you can us... |
-| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-08-18 | PHP and Laravel Cursor rules — coding standards, testing, an... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-18 | The Moox Project - Packages for Filament and Laravel |
-| [syscage/laravel-datatable](https://github.com/syscage/laravel-datatable) | 0 | 2026-08-18 | Fluent, extensible Laravel datatable package with automatic ... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-08-18 | Ptah — Laravel package that forges complete module structure... |
-| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-08-18 | An up-to-date SDK package for all your Teamleader API needs! |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-18 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-08-18 | A package to create datatables using alpinejs, tailwind, liv... |
-| [lianmaymesi/laravel-multidomain-starter](https://github.com/lianmaymesi/laravel-multidomain-starter) | 0 | 2026-08-18 | Laravel starter kit for multi-subdomain apps: dedicated auth... |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 199 | 2026-08-18 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [VitisStudio/filament-header-schema](https://github.com/VitisStudio/filament-header-schema) | 0 | 2026-08-18 | Build the header of a Filament page with a schema instead of... |
+| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 6 | 2026-08-18 | A Laravel package that adds NATS messaging support to Larave... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-18 | Local-first personal finance dashboard that resolves cross-a... |
+| [JaiveerChavda/webshop](https://github.com/JaiveerChavda/webshop) | 1 | 2026-08-18 | Online Store-Front Application built using Laravel-livewire ... |
+| [rxcod9/joy-voyager-api-laravel-demo](https://github.com/rxcod9/joy-voyager-api-laravel-demo) | 5 | 2026-08-18 | Joy VoyagerApi Laravel Demo shows integration of Joy Voyager... |
+| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-08-18 | Laravel GeeTest Captcha for Laravel 9 10 11 |
 | [mohamedmahmoudkamel/auditable](https://github.com/mohamedmahmoudkamel/auditable) | 0 | 2026-08-18 | A lightweight Laravel package that provides automatic auditi... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-08-18 | Main Webampp laravel package for GEOBOX 2.0 |
-| [cybex-gmbh/laravel-protector](https://github.com/cybex-gmbh/laravel-protector) | 5 | 2026-08-18 | Laravel package to provide and receive database dumps in a s... |
-| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-18 | Laravel package providing polymorphic image management with ... |
-| [huzaifa113/luna-boutique](https://github.com/huzaifa113/luna-boutique) | 0 | 2026-08-18 | Developed a Full Stack E-commerce Platform with Online Store... |
-| [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator) | 70 | 2026-08-18 | Laravel Gemini AI Translation Extractor scans your Laravel p... |
+| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 1 | 2026-08-18 | Prevent stale Laravel config and routes after FTP/shared-hos... |
+| [padosoft/migrate-cloudflare-rules](https://github.com/padosoft/migrate-cloudflare-rules) | 1 | 2026-08-18 | Migrate secure cloudflare rules from a zone to another |
+| [rxcod9/joy-package](https://github.com/rxcod9/joy-package) | 0 | 2026-08-18 |  Joy Laravel Packages scaffolding template  |
+| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-08-18 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
+| [danielpopa26/laraiot](https://github.com/danielpopa26/laraiot) | 0 | 2026-08-18 | A Laravel package for developing monitoring and control appl... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-08-18 | Filament plugin that allows to add dynamic, user-defined for... |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-08-18 | Manage, process, and serve files in Laravel with scalable up... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-18 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 416 | 2026-08-18 | Laravel Kanban boards with intelligent pagination, drag-and-... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-08-18 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-08-18 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-08-18 | Integrate Mixpanel analytics into Filament projects to track... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-18T18:33 | 7 | 1717 | 5860 |
 | 2026-08-18T12:34 | 10 | 1715 | 5853 |
 | 2026-08-18T06:34 | 6 | 1722 | 5843 |
 | 2026-08-18T00:35 | 4 | 1726 | 5837 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-17T00:35 | 1 | 1728 | 5820 |
 | 2026-08-16T18:32 | 1 | 1729 | 5819 |
 | 2026-08-16T12:33 | 3 | 1728 | 5818 |
-| 2026-08-16T06:33 | 1 | 1729 | 5815 |
 
 ---
 

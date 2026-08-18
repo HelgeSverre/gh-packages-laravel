@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5843  
-**Last updated:** 2026-08-18T06:34:28.579Z
+**Total packages tracked:** 5853  
+**Last updated:** 2026-08-18T12:34:14.699Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [syscage/laravel-plugin](https://github.com/syscage/laravel-plugin) | 0 | Laravel plugin framework for modular, self-contained application extensions. |
+| [huzaifa113/luna-boutique](https://github.com/huzaifa113/luna-boutique) | 0 | Developed a Full Stack E-commerce Platform with Online Store and complete POS sy... |
+| [Nixxx27/worktrack](https://github.com/Nixxx27/worktrack) | 0 | Self-hosted work tracker that answers "how long has this been sitting?" — cycle ... |
+| [spok-sto/Spoke-Laravel-Flight-recorder](https://github.com/spok-sto/Spoke-Laravel-Flight-recorder) | 5 | Self-hosted Laravel  Flight recorder  with request tracing, SQL intelligence, qu... |
+| [bigenergy/laravel-nplusone-baseline](https://github.com/bigenergy/laravel-nplusone-baseline) | 1 | Catch N+1 regressions in CI, on a codebase that already has hundreds of them. |
+| [dns-lookup-pro/dnslookup-laravel](https://github.com/dns-lookup-pro/dnslookup-laravel) | 0 | Laravel integration for the DNS Lookup Pro SDK: Dns facade, publishable config, ... |
+| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 1 | A Laravel package for creating and redirecting short URLs, with caching and an e... |
+| [syscage/laravel-datatable](https://github.com/syscage/laravel-datatable) | 0 | Fluent, extensible Laravel datatable package with automatic search, sorting, fil... |
+| [jessekoerhuis/laravel-event-flags](https://github.com/jessekoerhuis/laravel-event-flags) | 0 | This repository contains the code for the Laravel Event Flags package. |
+| [mrtolouei/laravel-audit](https://github.com/mrtolouei/laravel-audit) | 0 | A lightweight and framework-native audit log package for Laravel applications. |
 | [sionpkr/tourney-method](https://github.com/sionpkr/tourney-method) | 0 | Open-source osu! tournament discovery, history, and community contribution platf... |
 | [ejunker/laravel-shared-fixtures](https://github.com/ejunker/laravel-shared-fixtures) | 0 | Class-scoped, transaction-isolated test fixtures for Laravel — build factory dat... |
 | [Vimantha-Dilshan/laravel-query-inspector](https://github.com/Vimantha-Dilshan/laravel-query-inspector) | 1 | Zero-configuration open-source Laravel package for real-time database query perf... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [distortedfusion/blade-components](https://github.com/distortedfusion/blade-components) | 25 | Blade Components is a hand-crafted, UI component library for building consistent... |
 | [christoferd/package-lara-report-table](https://github.com/christoferd/package-lara-report-table) | 0 | Laravel Report Table/HTML generator class. Helps create clean uniform reports th... |
 | [KelvinEuclides/mpesa-laravel](https://github.com/KelvinEuclides/mpesa-laravel) | 2 | A Laravel package for the Vodacom M-Pesa Mozambique Open API, providing C2B, B2C... |
-| [StreetMesh/Server](https://github.com/StreetMesh/Server) | 0 | Build multiplayer experiences on a Laravel server. People sign in with a usernam... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | Club'O'Clock — Nage, pédale, cavale… fini le planning infernal ! Gestion du plan... |
-| [felicianopj-dev/laravel-cashier-inspector](https://github.com/felicianopj-dev/laravel-cashier-inspector) | 0 | A local debugging and diagnostic dashboard for Laravel Cashier. Captures Stripe ... |
-| [aminpamelo/watchtower-laravel](https://github.com/aminpamelo/watchtower-laravel) | 0 | Watchtower monitoring SDK for Laravel (client package) |
-| [ahtesham-clcbws/laravel-integrity](https://github.com/ahtesham-clcbws/laravel-integrity) | 0 | The definitive code integrity and security suite for Laravel & Livewire. Prevent... |
-| [tgozo19/laravel-codegen](https://github.com/tgozo19/laravel-codegen) | 13 | The Elegant Laravel Code Generator built with a focus on simplicity and increasi... |
-| [theshreyanshpanchal/laravel-auth](https://github.com/theshreyanshpanchal/laravel-auth) | 0 | Laravel auth package for Sanctum API tokens and session web login, with OTP, RBA... |
-| [adiachenko/starter-laravel-package](https://github.com/adiachenko/starter-laravel-package) | 0 |  |
-| [pouyafarshidnia/elefilter](https://github.com/pouyafarshidnia/elefilter) | 0 | EleFilter Package, Easy , fast and clean filtering package for laravel applicati... |
-| [shetabit/sms](https://github.com/shetabit/sms) | 9 | Laravel Package for SMS Gateway Integration |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-18 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Do-It-VIPros/laravel-package-zoho-connector](https://github.com/Do-It-VIPros/laravel-package-zoho-connector) | 0 | 2026-08-18 | Package Laravel qui fournit un connecteur complet pour Zoho ... |
+| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | 2026-08-18 | Toolkit with testing utilities for php and Laravel |
+| [Codegenie-BE/laravel-config-cache-guard](https://github.com/Codegenie-BE/laravel-config-cache-guard) | 1 | 2026-08-18 | Prevent stale Laravel config and routes after FTP/shared-hos... |
+| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 1 | 2026-08-18 | A Laravel package for creating and redirecting short URLs, w... |
+| [Abdulkader-Safi/filament-atelier](https://github.com/Abdulkader-Safi/filament-atelier) | 1 | 2026-08-18 | A visual page builder for Laravel and Filament. Code-defined... |
+| [felicianopj-dev/laravel-cashier-inspector](https://github.com/felicianopj-dev/laravel-cashier-inspector) | 0 | 2026-08-18 | A local debugging and diagnostic dashboard for Laravel Cashi... |
+| [kongulov/nova-tab-translatable](https://github.com/kongulov/nova-tab-translatable) | 84 | 2026-08-18 | This package contains a NovaTabTranslatable class you can us... |
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 5 | 2026-08-18 | PHP and Laravel Cursor rules — coding standards, testing, an... |
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-18 | The Moox Project - Packages for Filament and Laravel |
-| [vlados/laravel-unique-urls](https://github.com/vlados/laravel-unique-urls) | 1 | 2026-08-18 | A package for using and generating unique urls for each Eloq... |
-| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-08-18 | A collection of Dockerfile examples for various programming ... |
-| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-08-18 | A Laravel Package providing seamless integration for the wun... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-18 | Laravel USPS Package to integrate USPS Address |
-| [yannelli/attempt](https://github.com/yannelli/attempt) | 37 | 2026-08-18 | Attempt is a Laravel package provides a fluent, composable r... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-18 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-08-18 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 239 | 2026-08-18 | A live database structure viewer for Laravel that renders yo... |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-08-18 | A personal portfolio built as an interactive browser-based t... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-18 | Laravel-based API for storing sensor data from distributed n... |
-| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-08-18 | Extension discovery, account linking, install authorization,... |
-| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-08-18 | Guided browser installer for bootstrapping new Capell CMS ap... |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-08-18 | Public routing, rendering, caching boundaries, and theme int... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-08-18 | Filament admin panel, editor workflows, settings, and extens... |
-| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-08-18 | Shared content models, services, contracts, and extension fo... |
-| [NikoAuso/tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker) | 0 | 2026-08-18 | Personal TV Time-style tracker for series, episodes and movi... |
-| [svareX/Almost-Classroom](https://github.com/svareX/Almost-Classroom) | 3 | 2026-08-18 | A Laravel-based LMS featuring Google OAuth, nested comments,... |
+| [syscage/laravel-datatable](https://github.com/syscage/laravel-datatable) | 0 | 2026-08-18 | Fluent, extensible Laravel datatable package with automatic ... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-08-18 | Ptah — Laravel package that forges complete module structure... |
+| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-08-18 | An up-to-date SDK package for all your Teamleader API needs! |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-18 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-08-18 | A package to create datatables using alpinejs, tailwind, liv... |
+| [lianmaymesi/laravel-multidomain-starter](https://github.com/lianmaymesi/laravel-multidomain-starter) | 0 | 2026-08-18 | Laravel starter kit for multi-subdomain apps: dedicated auth... |
+| [mohamedmahmoudkamel/auditable](https://github.com/mohamedmahmoudkamel/auditable) | 0 | 2026-08-18 | A lightweight Laravel package that provides automatic auditi... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-08-18 | Main Webampp laravel package for GEOBOX 2.0 |
+| [cybex-gmbh/laravel-protector](https://github.com/cybex-gmbh/laravel-protector) | 5 | 2026-08-18 | Laravel package to provide and receive database dumps in a s... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-18 | Laravel package providing polymorphic image management with ... |
+| [huzaifa113/luna-boutique](https://github.com/huzaifa113/luna-boutique) | 0 | 2026-08-18 | Developed a Full Stack E-commerce Platform with Online Store... |
+| [jayeshmepani/laravel-gemini-translator](https://github.com/jayeshmepani/laravel-gemini-translator) | 70 | 2026-08-18 | Laravel Gemini AI Translation Extractor scans your Laravel p... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-18T12:34 | 10 | 1715 | 5853 |
 | 2026-08-18T06:34 | 6 | 1722 | 5843 |
 | 2026-08-18T00:35 | 4 | 1726 | 5837 |
 | 2026-08-17T18:34 | 4 | 1726 | 5833 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-16T18:32 | 1 | 1729 | 5819 |
 | 2026-08-16T12:33 | 3 | 1728 | 5818 |
 | 2026-08-16T06:33 | 1 | 1729 | 5815 |
-| 2026-08-16T00:35 | 4 | 1726 | 5814 |
 
 ---
 

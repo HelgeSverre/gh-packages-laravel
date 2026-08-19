@@ -1137,5 +1137,27 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-08-16T00:35:30.665Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "postare/db-config": {
+    "name": "postare/db-config",
+    "url": "https://github.com/postare/db-config",
+    "description": "A Filament 4 plugin to store and manage app settings in the database, with ready-made configuration pages.",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "configuration",
+      "filament-plugin",
+      "filamentadmin",
+      "filamentphp",
+      "laravel"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2024-01-23T08:57:22Z",
+    "updated_at": "2025-08-25T03:38:12Z",
+    "pushed_at": "2025-08-19T13:32:53Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-08-19T18:33:34.561Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

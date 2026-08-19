@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5868  
-**Last updated:** 2026-08-19T12:34:28.320Z
+**Total packages tracked:** 5871  
+**Last updated:** 2026-08-19T18:33:34.591Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [benfaerber/laravel-kernel-cadence](https://github.com/benfaerber/laravel-kernel-cadence) | 0 | Phase-offset sub-hourly cron cadences for the Laravel scheduler. Stop stacking e... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | The native Arazzo workflow engine for PHP and Laravel. Parse, validate, and exec... |
+| [beckenrode/dependency-sync](https://github.com/beckenrode/dependency-sync) | 0 | A Laravel package that securely reports PHP, Composer, and npm dependency versio... |
+| [Tamir-Rental-Ltd/laravel-text-extractor](https://github.com/Tamir-Rental-Ltd/laravel-text-extractor) | 1 | Laravel package for extracting text from documents and images (OCR) using plugga... |
 | [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 1 | Filament admin resource for jeffersongoncalves/laravel-short-url — create and ma... |
 | [TheSolver0/sentinel-agent-laravel](https://github.com/TheSolver0/sentinel-agent-laravel) | 0 | Package de monitioring Laravel |
 | [flooris/shopware-api-laravel](https://github.com/flooris/shopware-api-laravel) | 0 | Laravel PHP package for consuming the Shopware Admin API. |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [SarahGordon895/tz-phone](https://github.com/SarahGordon895/tz-phone) | 0 | PHP/Laravel package to validate Tanzanian mobile numbers and identify Vodacom, A... |
 | [theqdev/laravel-minify](https://github.com/theqdev/laravel-minify) | 0 | A PHP package for minifying your .css and .js. for Laravel monoliths |
 | [syscage/laravel-plugin](https://github.com/syscage/laravel-plugin) | 0 | Laravel plugin framework for modular, self-contained application extensions. |
-| [huzaifa113/luna-boutique](https://github.com/huzaifa113/luna-boutique) | 0 | Developed a Full Stack E-commerce Platform with Online Store and complete POS sy... |
-| [Nixxx27/worktrack](https://github.com/Nixxx27/worktrack) | 0 | Self-hosted work tracker that answers "how long has this been sitting?" — cycle ... |
-| [spok-sto/Spoke-Laravel-Flight-recorder](https://github.com/spok-sto/Spoke-Laravel-Flight-recorder) | 8 | Self-hosted Laravel  Flight recorder  with request tracing, SQL intelligence, qu... |
-| [bigenergy/laravel-nplusone-baseline](https://github.com/bigenergy/laravel-nplusone-baseline) | 1 | Catch N+1 regressions in CI, on a codebase that already has hundreds of them. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 416 | 2026-08-19 | Laravel Kanban boards with intelligent pagination, drag-and-... |
-| [StreetMesh/Server](https://github.com/StreetMesh/Server) | 0 | 2026-08-19 | Build multiplayer experiences on a Laravel server. People si... |
-| [labrodev/laravel-team](https://github.com/labrodev/laravel-team) | 0 | 2026-08-19 | Teams, memberships, invitations, roles and plan/billing mech... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-19 | A practical work management information system built with La... |
-| [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 1 | 2026-08-19 | Filament admin resource for jeffersongoncalves/laravel-short... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-08-19 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-19 | The Moox Project - Packages for Filament and Laravel |
-| [danielpopa26/laraiot](https://github.com/danielpopa26/laraiot) | 0 | 2026-08-19 | A Laravel package for developing monitoring and control appl... |
+| [AlwaysCuriousCo/package-pipeline](https://github.com/AlwaysCuriousCo/package-pipeline) | 48 | 2026-08-19 | Self-hosted private Composer registry |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-19 | Local-first personal finance dashboard that resolves cross-a... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-19 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [felicianopj-dev/laravel-cashier-inspector](https://github.com/felicianopj-dev/laravel-cashier-inspector) | 0 | 2026-08-19 | A local debugging and diagnostic dashboard for Laravel Cashi... |
+| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-08-19 | A developer-friendly package for creating advanced Wordpress... |
+| [samuel-olavo/laravel-rt-bestpratical](https://github.com/samuel-olavo/laravel-rt-bestpratical) | 0 | 2026-08-19 | A Laravel package to integrate with the Request Tracker (RT)... |
+| [zanko-khaledi/notifications](https://github.com/zanko-khaledi/notifications) | 4 | 2026-08-19 | A flexible, event-driven Laravel package for managing and di... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-19 | Laravel-based API for storing sensor data from distributed n... |
+| [MrPunyapal/laravel-auth-jobs](https://github.com/MrPunyapal/laravel-auth-jobs) | 45 | 2026-08-19 | This package allows you to access the authenticated user whi... |
+| [rxcod9/joy-voyager-api-laravel-demo](https://github.com/rxcod9/joy-voyager-api-laravel-demo) | 5 | 2026-08-19 | Joy VoyagerApi Laravel Demo shows integration of Joy Voyager... |
 | [asciisd/cashier-core](https://github.com/asciisd/cashier-core) | 0 | 2026-08-19 | A flexible payment processing system for Laravel using the F... |
-| [jeffersongoncalves/nativekitv4](https://github.com/jeffersongoncalves/nativekitv4) | 4 | 2026-08-19 | NativeKit starter kit built on Laravel 12.x, Filament 4.x an... |
-| [karpovigorok/subkit](https://github.com/karpovigorok/subkit) | 35 | 2026-08-19 | Laravel subscription management with a Filament UI. Eliminat... |
-| [jay123anta/laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | 32 | 2026-08-19 | Passive intrusion detection for Laravel. Logs SQL injection,... |
-| [cjmellor/approval](https://github.com/cjmellor/approval) | 371 | 2026-08-19 | Approve new Model data before it is persisted |
-| [LavioDev/eam-mes-package](https://github.com/LavioDev/eam-mes-package) | 6 | 2026-08-19 | A lightweight Laravel package with database migrations and r... |
-| [TheSolver0/sentinel-agent-laravel](https://github.com/TheSolver0/sentinel-agent-laravel) | 0 | 2026-08-19 | Package de monitioring Laravel |
-| [xchimx/Laravel-Filament-CRM-CMS](https://github.com/xchimx/Laravel-Filament-CRM-CMS) | 3 | 2026-08-19 | This is a customer relationship management / content managem... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-08-19 | Main Webampp laravel package for GEOBOX 2.0 |
-| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 2 | 2026-08-19 | An opinionated Laravel package for interacting with WAHA API |
-| [hackemate28-ux/filament-extra-fields](https://github.com/hackemate28-ux/filament-extra-fields) | 0 | 2026-08-19 | Extra form fields for Filament v4, built on native primitive... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-08-19 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [scabarcas17/laravel-permissions-redis](https://github.com/scabarcas17/laravel-permissions-redis) | 39 | 2026-08-19 | A Redis-powered roles and permissions package for Laravel de... |
+| [Tamir-Rental-Ltd/laravel-text-extractor](https://github.com/Tamir-Rental-Ltd/laravel-text-extractor) | 1 | 2026-08-19 | Laravel package for extracting text from documents and image... |
+| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | 2026-08-19 | Laravel package for building complex eloquent filters in a s... |
+| [benfaerber/laravel-kernel-cadence](https://github.com/benfaerber/laravel-kernel-cadence) | 0 | 2026-08-19 | Phase-offset sub-hourly cron cadences for the Laravel schedu... |
+| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-08-19 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
+| [MrPunyapal/laravel-extended-commands](https://github.com/MrPunyapal/laravel-extended-commands) | 81 | 2026-08-19 | This package has some commands which are not available in la... |
+| [zaeem2396/laravel-nats](https://github.com/zaeem2396/laravel-nats) | 6 | 2026-08-19 | A Laravel package that adds NATS messaging support to Larave... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-19 | Open-source, self-hosted video processing & delivery engine ... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 248 | 2026-08-19 | A live database structure viewer for Laravel that renders yo... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-19T18:33 | 4 | 1722 | 5871 |
 | 2026-08-19T12:34 | 4 | 1721 | 5868 |
 | 2026-08-19T06:34 | 2 | 1722 | 5864 |
 | 2026-08-19T00:35 | 2 | 1722 | 5862 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-18T00:35 | 4 | 1726 | 5837 |
 | 2026-08-17T18:34 | 4 | 1726 | 5833 |
 | 2026-08-17T12:34 | 7 | 1723 | 5829 |
-| 2026-08-17T06:34 | 2 | 1726 | 5822 |
 
 ---
 

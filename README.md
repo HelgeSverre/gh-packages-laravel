@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5892  
-**Last updated:** 2026-08-21T00:35:35.507Z
+**Total packages tracked:** 5893  
+**Last updated:** 2026-08-21T06:34:27.947Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [chinleung/nova-autofill](https://github.com/chinleung/nova-autofill) | 6 | Auto prefill values for Laravel Nova fields based on the parent model. |
 | [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJ... |
 | [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 1 | Move non-secret config out of Laravel's .env into typed, environment-aware PHP c... |
 | [caasidev/laravel-gallery](https://github.com/caasidev/laravel-gallery) | 0 | A plugin-like image gallery package for Laravel applications. |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [oxialink/php-sdk](https://github.com/oxialink/php-sdk) | 0 | Official PHP SDK for the Oxialink crypto payment gateway. Create invoices, verif... |
 | [skillbobby/Spiggle-Dynamic-Fields-Core](https://github.com/skillbobby/Spiggle-Dynamic-Fields-Core) | 0 | Plug-and-play Laravel/Filament package that attaches custom fields to any Eloque... |
 | [sinarahmany/laravel-email-monitor](https://github.com/sinarahmany/laravel-email-monitor) | 1 | A comprehensive Laravel package to monitor all outgoing emails with tracking, lo... |
-| [NBCS-IT/laravel-sso](https://github.com/NBCS-IT/laravel-sso) | 0 | Integrated SAML2 package for Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -50,7 +50,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 440 | A media picker plugin for Filament Panels. |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 441 | A media picker plugin for Filament Panels. |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 438 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [caasidev/laravel-gallery](https://github.com/caasidev/laravel-gallery) | 0 | 2026-08-21 | A plugin-like image gallery package for Laravel applications... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-21 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-21 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [blax-software/laravel-shop](https://github.com/blax-software/laravel-shop) | 1 | 2026-08-21 | A comprehensive headless e-commerce package for Laravel with... |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | 2026-08-21 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-21 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-21 | Laravel USPS Package to integrate USPS Address |
+| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-08-21 | Private expiring previews of unsaved Capell page and Layout ... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-08-21 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-08-21 | Multilingual, multi-site Capell navigation with visual menus... |
+| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 1 | 2026-08-21 | Visual Capell page composition with reusable widgets, named ... |
+| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | 2026-08-21 | Shared typed content-block primitives for Capell packages. |
+| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-08-21 | Extension discovery, account linking, install authorization,... |
+| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-08-21 | Guided browser installer for bootstrapping new Capell CMS ap... |
+| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-08-21 | Public routing, rendering, caching boundaries, and theme int... |
+| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-08-21 | Filament admin panel, editor workflows, settings, and extens... |
+| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-08-21 | Shared content models, services, contracts, and extension fo... |
 | [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-08-21 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-08-20 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-08-20 | Ptah — Laravel package that forges complete module structure... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-20 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-20 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [StreetMesh/Server](https://github.com/StreetMesh/Server) | 0 | 2026-08-20 | Build multiplayer experiences with Laravel and Colyseus usin... |
-| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-08-20 | ArtisanToolbox Maintainer provides automated validation, qua... |
-| [starnerz/laravel-daraja](https://github.com/starnerz/laravel-daraja) | 7 | 2026-08-20 | Every Safaricom M-Pesa Daraja API as ordinary Laravel code —... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 371 | 2026-08-20 | The official Laravel Nightwatch package. |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-20 | The Moox Project - Packages for Filament and Laravel |
-| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 1 | 2026-08-20 | Move non-secret config out of Laravel's .env into typed, env... |
-| [thecodezone/filament-mediazone](https://github.com/thecodezone/filament-mediazone) | 0 | 2026-08-20 | A media manager package for Laravel Filament. |
-| [elpandape/warden](https://github.com/elpandape/warden) | 0 | 2026-08-20 | Roles & permissions for Laravel — instance-level grants, exp... |
-| [awcodes/postal-codes](https://github.com/awcodes/postal-codes) | 5 | 2026-08-20 | This is a package to easily install and use postal codes in ... |
-| [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-08-20 | Roles and permissions for Filament, built on elpandape/warde... |
-| [Ercogx/filament-openai-assistant](https://github.com/Ercogx/filament-openai-assistant) | 17 | 2026-08-20 | Filament OpenAI Assistant is a filament plugin that adds a c... |
-| [XternalSoft/laravel-patrowl](https://github.com/XternalSoft/laravel-patrowl) | 0 | 2026-08-20 | A clean, fluent, and developer-friendly PHP wrapper for the ... |
+| [socialdept/atp-support](https://github.com/socialdept/atp-support) | 0 | 2026-08-21 | Foundational utilities for AT Protocol packages in Laravel |
+| [tzsk/otp](https://github.com/tzsk/otp) | 243 | 2026-08-21 | Generate OTP with expiry for PHP without using Database |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-21 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-21 | An event sourcing laravel package, complete with all the ess... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-21 | A practical work management information system built with La... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-21T06:34 | 1 | 1726 | 5893 |
 | 2026-08-21T00:35 | 4 | 1724 | 5892 |
 | 2026-08-20T18:34 | 11 | 1716 | 5888 |
 | 2026-08-20T12:34 | 1 | 1726 | 5878 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-19T12:34 | 4 | 1721 | 5868 |
 | 2026-08-19T06:34 | 2 | 1722 | 5864 |
 | 2026-08-19T00:35 | 2 | 1722 | 5862 |
-| 2026-08-18T18:33 | 7 | 1717 | 5860 |
 
 ---
 

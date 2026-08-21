@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5888  
-**Last updated:** 2026-08-20T18:34:20.298Z
+**Total packages tracked:** 5892  
+**Last updated:** 2026-08-21T00:35:35.507Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJ... |
+| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 1 | Move non-secret config out of Laravel's .env into typed, environment-aware PHP c... |
+| [caasidev/laravel-gallery](https://github.com/caasidev/laravel-gallery) | 0 | A plugin-like image gallery package for Laravel applications. |
+| [moinul70/mtl-monitorly-agent](https://github.com/moinul70/mtl-monitorly-agent) | 0 | A Laravel package for monitoring the health, latency, and error rate of API endp... |
 | [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | Roles and permissions for Filament, built on elpandape/warden — a permission gri... |
 | [HRADigital/php-exceptions-laravel](https://github.com/HRADigital/php-exceptions-laravel) | 0 | Laravel wrapper for PHP-Exception's Library, wiring Laravel's error handling and... |
 | [alexbabintsev/laravel-nbu](https://github.com/alexbabintsev/laravel-nbu) | 0 | Official NBU (National Bank of Ukraine) exchange rates for Laravel - any date, c... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [skillbobby/Spiggle-Dynamic-Fields-Core](https://github.com/skillbobby/Spiggle-Dynamic-Fields-Core) | 0 | Plug-and-play Laravel/Filament package that attaches custom fields to any Eloque... |
 | [sinarahmany/laravel-email-monitor](https://github.com/sinarahmany/laravel-email-monitor) | 1 | A comprehensive Laravel package to monitor all outgoing emails with tracking, lo... |
 | [NBCS-IT/laravel-sso](https://github.com/NBCS-IT/laravel-sso) | 0 | Integrated SAML2 package for Laravel |
-| [oxialink/laravel](https://github.com/oxialink/laravel) | 0 | Laravel package for the Oxialink crypto payment gateway. Facade, env config, aut... |
-| [BlueStarSystem/aura-starter-kit](https://github.com/BlueStarSystem/aura-starter-kit) | 0 | Laravel starter kit wired to Aura UI: MIT Blade components, Livewire, Tailwind C... |
-| [ahmed-laggoun/Moyasar](https://github.com/ahmed-laggoun/Moyasar) | 0 | Laravel package for Moyasar payment gateway |
-| [benfaerber/laravel-kernel-cadence](https://github.com/benfaerber/laravel-kernel-cadence) | 0 | Phase-offset sub-hourly cron cadences for the Laravel scheduler. Stop stacking e... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [bladeuix/daisyui](https://github.com/bladeuix/daisyui) | 0 | 2026-08-20 | A Laravel blade component library based on daisyUI. Install ... |
-| [mohamedmahmoudkamel/auditable](https://github.com/mohamedmahmoudkamel/auditable) | 0 | 2026-08-20 | A lightweight Laravel package that provides automatic auditi... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-20 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [starnerz/laravel-daraja](https://github.com/starnerz/laravel-daraja) | 7 | 2026-08-20 | Every Safaricom M-Pesa Daraja API as ordinary Laravel code —... |
-| [brew-apps/brazil-locations](https://github.com/brew-apps/brazil-locations) | 6 | 2026-08-20 | Laravel package that seeds Brazilian states and cities into ... |
-| [Power-Components/turbine](https://github.com/Power-Components/turbine) | 1 | 2026-08-20 | Framework-agnostic data engine for Laravel (search, filters,... |
-| [SpartnerNL/Laravel-Nova-Excel](https://github.com/SpartnerNL/Laravel-Nova-Excel) | 402 | 2026-08-20 | 🚀 Supercharged Excel exports for Laravel Nova Resources |
-| [jass-sangha/riwaaq](https://github.com/jass-sangha/riwaaq) | 6 | 2026-08-20 | Real-time Laravel chat package — 1-on-1 & group messaging, m... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-20 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [skillbobby/Spiggle-Dynamic-Fields-Core](https://github.com/skillbobby/Spiggle-Dynamic-Fields-Core) | 0 | 2026-08-20 | Plug-and-play Laravel/Filament package that attaches custom ... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-20 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [danielpopa26/laraiot](https://github.com/danielpopa26/laraiot) | 0 | 2026-08-20 | A Laravel package for developing monitoring and control appl... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-20 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [naiskit/laravel-oops](https://github.com/naiskit/laravel-oops) | 0 | 2026-08-20 | A friendly Laravel error page package that makes unexpected ... |
+| [caasidev/laravel-gallery](https://github.com/caasidev/laravel-gallery) | 0 | 2026-08-21 | A plugin-like image gallery package for Laravel applications... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-21 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-21 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-08-21 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-08-20 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [Codegenie-BE/laravel-livewire-multistep-form](https://github.com/Codegenie-BE/laravel-livewire-multistep-form) | 0 | 2026-08-20 | Accessible, configurable multi-step form wizard for Laravel ... |
-| [AsmitNepali/resized-column](https://github.com/AsmitNepali/resized-column) | 54 | 2026-08-20 | Filament table column resize plugin. |
-| [njoguamos/laravel-kenya-mobile](https://github.com/njoguamos/laravel-kenya-mobile) | 9 | 2026-08-20 | Laravel Kenya Mobile is a Laravel package that provides a va... |
-| [HRADigital/php-exceptions-laravel](https://github.com/HRADigital/php-exceptions-laravel) | 0 | 2026-08-20 | Laravel wrapper for PHP-Exception's Library, wiring Laravel'... |
-| [alexbabintsev/laravel-nbu](https://github.com/alexbabintsev/laravel-nbu) | 0 | 2026-08-20 | Official NBU (National Bank of Ukraine) exchange rates for L... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-08-20 | Ptah — Laravel package that forges complete module structure... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-20 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-20 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [StreetMesh/Server](https://github.com/StreetMesh/Server) | 0 | 2026-08-20 | Build multiplayer experiences with Laravel and Colyseus usin... |
+| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-08-20 | ArtisanToolbox Maintainer provides automated validation, qua... |
+| [starnerz/laravel-daraja](https://github.com/starnerz/laravel-daraja) | 7 | 2026-08-20 | Every Safaricom M-Pesa Daraja API as ordinary Laravel code —... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 371 | 2026-08-20 | The official Laravel Nightwatch package. |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-20 | The Moox Project - Packages for Filament and Laravel |
+| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 1 | 2026-08-20 | Move non-secret config out of Laravel's .env into typed, env... |
+| [thecodezone/filament-mediazone](https://github.com/thecodezone/filament-mediazone) | 0 | 2026-08-20 | A media manager package for Laravel Filament. |
+| [elpandape/warden](https://github.com/elpandape/warden) | 0 | 2026-08-20 | Roles & permissions for Laravel — instance-level grants, exp... |
+| [awcodes/postal-codes](https://github.com/awcodes/postal-codes) | 5 | 2026-08-20 | This is a package to easily install and use postal codes in ... |
+| [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-08-20 | Roles and permissions for Filament, built on elpandape/warde... |
+| [Ercogx/filament-openai-assistant](https://github.com/Ercogx/filament-openai-assistant) | 17 | 2026-08-20 | Filament OpenAI Assistant is a filament plugin that adds a c... |
+| [XternalSoft/laravel-patrowl](https://github.com/XternalSoft/laravel-patrowl) | 0 | 2026-08-20 | A clean, fluent, and developer-friendly PHP wrapper for the ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-21T00:35 | 4 | 1724 | 5892 |
 | 2026-08-20T18:34 | 11 | 1716 | 5888 |
 | 2026-08-20T12:34 | 1 | 1726 | 5878 |
 | 2026-08-20T06:34 | 5 | 1723 | 5877 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-19T06:34 | 2 | 1722 | 5864 |
 | 2026-08-19T00:35 | 2 | 1722 | 5862 |
 | 2026-08-18T18:33 | 7 | 1717 | 5860 |
-| 2026-08-18T12:34 | 10 | 1715 | 5853 |
 
 ---
 

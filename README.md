@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5898  
-**Last updated:** 2026-08-21T12:34:41.143Z
+**Total packages tracked:** 5901  
+**Last updated:** 2026-08-21T18:33:34.650Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [KoassiAkakpo/filament-file-explorer](https://github.com/KoassiAkakpo/filament-file-explorer) | 0 | Finder-style file explorer for Filament v4 and v5, powered by Spatie Media Libra... |
+| [ezdev21/laraoverflow](https://github.com/ezdev21/laraoverflow) | 6 | where developers learn,share and build careers platform made with Laravel and TA... |
+| [PregoviMB/pmb-laravel-acl](https://github.com/PregoviMB/pmb-laravel-acl) | 0 | A flexible and dynamic Access Control List package for Laravel supporting RBAC, ... |
 | [turbophp/livewire-phone-input](https://github.com/turbophp/livewire-phone-input) | 0 | A headless Livewire phone number input: country selector, national number field,... |
 | [bagusstwan/presensia](https://github.com/bagusstwan/presensia) | 0 | Enterprise-grade RFID attendance management system built with Laravel & Filament... |
 | [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | Toth is a Laravel package for database backup and snapshot management with async... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ahmed-nour-dev/circuit-breaker](https://github.com/ahmed-nour-dev/circuit-breaker) | 0 | Distributed circuit breaker for Laravel: Redis-backed shared state, single-probe... |
 | [ahmed-nour-dev/laravel-stream-backup](https://github.com/ahmed-nour-dev/laravel-stream-backup) | 0 | Streaming database backup and restore for Laravel: dump → compress → encrypt → S... |
 | [ahmed-nour-dev/laravel-attribute-routing](https://github.com/ahmed-nour-dev/laravel-attribute-routing) | 0 | Define Laravel routes with PHP 8 attributes on your controllers — colocated, com... |
-| [Codegenie-BE/laravel-env-guard](https://github.com/Codegenie-BE/laravel-env-guard) | 1 | Catch Laravel environment drift and unsafe env() usage before config:cache turns... |
-| [brew-apps/brazil-locations](https://github.com/brew-apps/brazil-locations) | 6 | Laravel package that seeds Brazilian states and cities into your database, with ... |
-| [jass-sangha/riwaaq](https://github.com/jass-sangha/riwaaq) | 6 | Real-time Laravel chat package — 1-on-1 & group messaging, media sharing, reacti... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-08-21 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 10 | 2026-08-21 | Filament package for easy attachment uploading and browsing. |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-21 | Local-first personal finance dashboard that resolves cross-a... |
-| [sanmaxdev/linkforge](https://github.com/sanmaxdev/linkforge) | 8 | 2026-08-21 | Self-hosted, open-source, AI-native URL shortener & link-man... |
-| [naiskit/laravel-oops](https://github.com/naiskit/laravel-oops) | 0 | 2026-08-21 | A friendly Laravel error page package that makes unexpected ... |
-| [preprio/laravel-quick-start](https://github.com/preprio/laravel-quick-start) | 0 | 2026-08-21 | The Laravel Quick Start package covers the basics of connect... |
-| [distortedfusion/blade-components](https://github.com/distortedfusion/blade-components) | 26 | 2026-08-21 | Blade Components is a hand-crafted, UI component library for... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-08-21 | Ptah — Laravel package that forges complete module structure... |
-| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-08-21 | PHP / Laravel packages used by Visns Studio |
-| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-08-21 | Laravel Podman brings Podman Quadlet support to your Laravel... |
+| [daviatorstorm/pritset-laravel](https://github.com/daviatorstorm/pritset-laravel) | 0 | 2026-08-21 | Pritset package for Laravel |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-21 | A complete OIDC server as a laravel package |
+| [alexhackney/laravel-socialbu](https://github.com/alexhackney/laravel-socialbu) | 0 | 2026-08-21 | Laravel wrapper for the SocialBu social media API |
 | [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-08-21 | Toth is a Laravel package for database backup and snapshot m... |
-| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-08-21 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
-| [turbophp/livewire-phone-input](https://github.com/turbophp/livewire-phone-input) | 0 | 2026-08-21 | A headless Livewire phone number input: country selector, na... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-21 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 2 | 2026-08-21 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
-| [justbetter/laravel-dynamics-client](https://github.com/justbetter/laravel-dynamics-client) | 43 | 2026-08-21 | A package to easily use Microsoft Dynamics web services via ... |
-| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 42 | 2026-08-21 | Passwordless email magic-link & OTP authentication for Larav... |
-| [jeffersongoncalves/mobilekitv5](https://github.com/jeffersongoncalves/mobilekitv5) | 7 | 2026-08-21 | MobileKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [MahdiMajidzadeh/laravel-unsplash](https://github.com/MahdiMajidzadeh/laravel-unsplash) | 11 | 2026-08-21 | unsplash wrapper for laravel |
-| [jessekoerhuis/laravel-event-flags](https://github.com/jessekoerhuis/laravel-event-flags) | 0 | 2026-08-21 | This repository contains the code for the Laravel Event Flag... |
+| [blemli/peek-for-filament](https://github.com/blemli/peek-for-filament) | 0 | 2026-08-21 | don't move, just peek |
+| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-08-21 | Laravel Monitor: A lightweight Laravel package providing bas... |
+| [Alphabalex/payment-made-easy](https://github.com/Alphabalex/payment-made-easy) | 0 | 2026-08-21 | A Laravel package for handling payments with multiple gatewa... |
+| [PregoviMB/pmb-laravel-acl](https://github.com/PregoviMB/pmb-laravel-acl) | 0 | 2026-08-21 | A flexible and dynamic Access Control List package for Larav... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-21 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-08-21 | Laravel and Livewire admin panel scaffold for car-rental ope... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-08-21 | Ptah — Laravel package that forges complete module structure... |
+| [asciisd/cashier-core](https://github.com/asciisd/cashier-core) | 0 | 2026-08-21 | A flexible payment processing system for Laravel using the F... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-21 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [KoassiAkakpo/filament-file-explorer](https://github.com/KoassiAkakpo/filament-file-explorer) | 0 | 2026-08-21 | Finder-style file explorer for Filament v4 and v5, powered b... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-08-21 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [jass-sangha/riwaaq](https://github.com/jass-sangha/riwaaq) | 6 | 2026-08-21 | Real-time Laravel chat package — 1-on-1 & group messaging, m... |
+| [StreetMesh/Server](https://github.com/StreetMesh/Server) | 0 | 2026-08-21 | Build multiplayer experiences with Laravel and Colyseus usin... |
+| [MGeurts/genealogy](https://github.com/MGeurts/genealogy) | 356 | 2026-08-21 | Genealogy is a free and open-source family tree PHP applicat... |
+| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-08-21 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-08-21 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-21T18:33 | 3 | 1721 | 5901 |
 | 2026-08-21T12:34 | 5 | 1721 | 5898 |
 | 2026-08-21T06:34 | 1 | 1726 | 5893 |
 | 2026-08-21T00:35 | 4 | 1724 | 5892 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-20T00:35 | 2 | 1724 | 5873 |
 | 2026-08-19T18:33 | 4 | 1722 | 5871 |
 | 2026-08-19T12:34 | 4 | 1721 | 5868 |
-| 2026-08-19T06:34 | 2 | 1722 | 5864 |
 
 ---
 

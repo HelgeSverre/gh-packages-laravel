@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5902  
-**Last updated:** 2026-08-22T06:33:44.236Z
+**Total packages tracked:** 5906  
+**Last updated:** 2026-08-22T12:33:50.269Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [swadhin-sikder/laravel-row-in](https://github.com/swadhin-sikder/laravel-row-in) | 0 | Adds row value IN and NOT IN clauses to Laravel's query builder. |
+| [fransbachtiar24/laravel-deadlock-retry](https://github.com/fransbachtiar24/laravel-deadlock-retry) | 0 | Retry Laravel transactions and queued jobs that lose a deadlock - SQL Server, My... |
+| [ayvazyan10/nova-imagic](https://github.com/ayvazyan10/nova-imagic) | 14 | Experience the power of the Imagic package and take your Laravel Nova applicatio... |
+| [arb-rajab/laravel-consent-guard](https://github.com/arb-rajab/laravel-consent-guard) | 0 | Tamper-evident audit logging and consent-guard middleware for Laravel apps (Comp... |
+| [Banelsems/laraSgmefQR](https://github.com/Banelsems/laraSgmefQR) | 1 | LaraSgmefQR is a Laravel package that provides a way to normalize invoice data f... |
+| [anjan-talukdar/geo-master](https://github.com/anjan-talukdar/geo-master) | 0 | A reusable Laravel/PHP package for managing hierarchical geographic master data,... |
 | [cloudstudio/laravel-html-crawler](https://github.com/cloudstudio/laravel-html-crawler) | 2 | A Laravel package for cleaning and transforming HTML content. It provides a flue... |
 | [amdad121/fcm-laravel](https://github.com/amdad121/fcm-laravel) | 0 | A simple, lightweight, fast Firebase Cloud Messaging (FCM) notification channel ... |
 | [KoassiAkakpo/filament-file-explorer](https://github.com/KoassiAkakpo/filament-file-explorer) | 0 | Finder-style file explorer for Filament v4 and v5, powered by Spatie Media Libra... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | Gorgeous shadcn inspired UI library for laravel blade using Tailwind and AlpineJ... |
 | [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 1 | Move non-secret config out of Laravel's .env into typed, environment-aware PHP c... |
 | [caasidev/laravel-gallery](https://github.com/caasidev/laravel-gallery) | 0 | A plugin-like image gallery package for Laravel applications. |
-| [moinul70/mtl-monitorly-agent](https://github.com/moinul70/mtl-monitorly-agent) | 0 | A Laravel package for monitoring the health, latency, and error rate of API endp... |
-| [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | Roles and permissions for Filament, built on elpandape/warden — a permission gri... |
-| [HRADigital/php-exceptions-laravel](https://github.com/HRADigital/php-exceptions-laravel) | 0 | Laravel wrapper for PHP-Exception's Library, wiring Laravel's error handling and... |
-| [alexbabintsev/laravel-nbu](https://github.com/alexbabintsev/laravel-nbu) | 0 | Official NBU (National Bank of Ukraine) exchange rates for Laravel - any date, c... |
-| [phoenix1331/laravel-env-audit](https://github.com/phoenix1331/laravel-env-audit) | 0 | A static-analysis Composer dev-dependency that scans a Laravel app for env() cal... |
-| [ahmed-nour-dev/circuit-breaker](https://github.com/ahmed-nour-dev/circuit-breaker) | 0 | Distributed circuit breaker for Laravel: Redis-backed shared state, single-probe... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [gaitco/basata](https://github.com/gaitco/basata) | 0 | 2026-08-22 | Laravel client for the Basata Cash Collector Channel API v3.... |
-| [gaitco/friendship-filament](https://github.com/gaitco/friendship-filament) | 0 | 2026-08-22 | Filament admin panel plugin for ghanem/friendship — moderate... |
-| [gaitco/friendship](https://github.com/gaitco/friendship) | 18 | 2026-08-22 | A polymorphic friendship system for Laravel — requests, bloc... |
-| [cloudstudio/laravel-html-crawler](https://github.com/cloudstudio/laravel-html-crawler) | 2 | 2026-08-22 | A Laravel package for cleaning and transforming HTML content... |
-| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-08-22 | A modular Laravel package suite for building production-read... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-22 | Laravel USPS Package to integrate USPS Address |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-22 | An event sourcing laravel package, complete with all the ess... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-08-22 | A package to create datatables using alpinejs, tailwind, liv... |
-| [skillbobby/Spiggle-Dynamic-Fields-Core](https://github.com/skillbobby/Spiggle-Dynamic-Fields-Core) | 0 | 2026-08-22 | Plug-and-play Laravel/Filament package that attaches custom ... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 252 | 2026-08-22 | A live database structure viewer for Laravel that renders yo... |
+| [ayvazyan10/nova-imagic](https://github.com/ayvazyan10/nova-imagic) | 14 | 2026-08-22 | Experience the power of the Imagic package and take your Lar... |
+| [arb-rajab/laravel-consent-guard](https://github.com/arb-rajab/laravel-consent-guard) | 0 | 2026-08-22 | Tamper-evident audit logging and consent-guard middleware fo... |
+| [spok-sto/Spoke-Laravel-Flight-recorder](https://github.com/spok-sto/Spoke-Laravel-Flight-recorder) | 9 | 2026-08-22 | Self-hosted Laravel  Flight recorder  with request tracing, ... |
 | [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-08-22 | Roles and permissions for Filament, built on elpandape/warde... |
-| [fissible/phone](https://github.com/fissible/phone) | 0 | 2026-08-22 | Laravel package for Twilio-backed business voice and SMS wor... |
+| [Banelsems/laraSgmefQR](https://github.com/Banelsems/laraSgmefQR) | 1 | 2026-08-22 | LaraSgmefQR is a Laravel package that provides a way to norm... |
+| [MrPunyapal/laravel-extended-relationships](https://github.com/MrPunyapal/laravel-extended-relationships) | 175 | 2026-08-22 | Package provides additional, more efficient relationship met... |
+| [centrex/laravel-payroll](https://github.com/centrex/laravel-payroll) | 0 | 2026-08-22 | payroll package for laravel |
+| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-08-22 | PHP / Laravel packages used by Visns Studio |
+| [MrPunyapal/laravel-auth-jobs](https://github.com/MrPunyapal/laravel-auth-jobs) | 45 | 2026-08-22 | This package allows you to access the authenticated user whi... |
+| [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 10 | 2026-08-22 | Laravel package providing client-side validation with Alpine... |
+| [MrPunyapal/laravel-extended-commands](https://github.com/MrPunyapal/laravel-extended-commands) | 81 | 2026-08-22 | This package has some commands which are not available in la... |
+| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-08-22 | A developer-friendly package for creating advanced Wordpress... |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-22 | Local-first personal finance dashboard that resolves cross-a... |
-| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-08-22 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
-| [promptphp/deck](https://github.com/promptphp/deck) | 108 | 2026-08-22 | A Laravel package for versioned AI prompt management with va... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 160 | 2026-08-22 | Provides email verification on the go. |
 | [jass-sangha/riwaaq](https://github.com/jass-sangha/riwaaq) | 0 | 2026-08-22 | Real-time Laravel chat package — 1-on-1 & group messaging, m... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-08-22 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 7 | 2026-08-22 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-08-22 | Manage, process, and serve files in Laravel with scalable up... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [iquesters/user-management](https://github.com/iquesters/user-management) | 0 | 2026-08-22 | A modular and extendable Laravel package that provides user ... |
+| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-08-22 | Private expiring previews of unsaved Capell page and Layout ... |
+| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-08-22 | Multilingual, multi-site Capell navigation with visual menus... |
+| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 1 | 2026-08-22 | Visual Capell page composition with reusable widgets, named ... |
+| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | 2026-08-22 | Shared typed content-block primitives for Capell packages. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-22T12:33 | 6 | 1720 | 5906 |
 | 2026-08-22T06:33 | 1 | 1723 | 5902 |
 | 2026-08-22T00:35 | 1 | 1723 | 5901 |
 | 2026-08-21T18:33 | 3 | 1721 | 5901 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-20T18:34 | 11 | 1716 | 5888 |
 | 2026-08-20T12:34 | 1 | 1726 | 5878 |
 | 2026-08-20T06:34 | 5 | 1723 | 5877 |
-| 2026-08-20T00:35 | 2 | 1724 | 5873 |
 
 ---
 

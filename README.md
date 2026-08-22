@@ -3,12 +3,13 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 5901  
-**Last updated:** 2026-08-21T18:33:34.650Z
+**Last updated:** 2026-08-22T00:35:31.920Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [amdad121/fcm-laravel](https://github.com/amdad121/fcm-laravel) | 0 | A simple, lightweight, fast Firebase Cloud Messaging (FCM) notification channel ... |
 | [KoassiAkakpo/filament-file-explorer](https://github.com/KoassiAkakpo/filament-file-explorer) | 0 | Finder-style file explorer for Filament v4 and v5, powered by Spatie Media Libra... |
 | [ezdev21/laraoverflow](https://github.com/ezdev21/laraoverflow) | 6 | where developers learn,share and build careers platform made with Laravel and TA... |
 | [PregoviMB/pmb-laravel-acl](https://github.com/PregoviMB/pmb-laravel-acl) | 0 | A flexible and dynamic Access Control List package for Laravel supporting RBAC, ... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [phoenix1331/laravel-env-audit](https://github.com/phoenix1331/laravel-env-audit) | 0 | A static-analysis Composer dev-dependency that scans a Laravel app for env() cal... |
 | [ahmed-nour-dev/circuit-breaker](https://github.com/ahmed-nour-dev/circuit-breaker) | 0 | Distributed circuit breaker for Laravel: Redis-backed shared state, single-probe... |
 | [ahmed-nour-dev/laravel-stream-backup](https://github.com/ahmed-nour-dev/laravel-stream-backup) | 0 | Streaming database backup and restore for Laravel: dump → compress → encrypt → S... |
-| [ahmed-nour-dev/laravel-attribute-routing](https://github.com/ahmed-nour-dev/laravel-attribute-routing) | 0 | Define Laravel routes with PHP 8 attributes on your controllers — colocated, com... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [daviatorstorm/pritset-laravel](https://github.com/daviatorstorm/pritset-laravel) | 0 | 2026-08-21 | Pritset package for Laravel |
-| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-08-21 | A complete OIDC server as a laravel package |
-| [alexhackney/laravel-socialbu](https://github.com/alexhackney/laravel-socialbu) | 0 | 2026-08-21 | Laravel wrapper for the SocialBu social media API |
-| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-08-21 | Toth is a Laravel package for database backup and snapshot m... |
-| [blemli/peek-for-filament](https://github.com/blemli/peek-for-filament) | 0 | 2026-08-21 | don't move, just peek |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-08-21 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [Alphabalex/payment-made-easy](https://github.com/Alphabalex/payment-made-easy) | 0 | 2026-08-21 | A Laravel package for handling payments with multiple gatewa... |
-| [PregoviMB/pmb-laravel-acl](https://github.com/PregoviMB/pmb-laravel-acl) | 0 | 2026-08-21 | A flexible and dynamic Access Control List package for Larav... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-21 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-08-21 | Laravel and Livewire admin panel scaffold for car-rental ope... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-08-21 | Ptah — Laravel package that forges complete module structure... |
-| [asciisd/cashier-core](https://github.com/asciisd/cashier-core) | 0 | 2026-08-21 | A flexible payment processing system for Laravel using the F... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-21 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [bavix/laravel-wallet-swap](https://github.com/bavix/laravel-wallet-swap) | 25 | 2026-08-22 | Package for working with currencies in laravel-wallet. |
+| [hatamiarash7/Laravel-OpenALPR](https://github.com/hatamiarash7/Laravel-OpenALPR) | 3 | 2026-08-22 | OpenALPR package for laravel |
+| [mwguerra/web-terminal-stream](https://github.com/mwguerra/web-terminal-stream) | 1 | 2026-08-22 | A Stream-mode web terminal for Filament/Laravel: full intera... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-22 | Laravel package providing polymorphic image management with ... |
+| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-08-22 | Toth is a Laravel package for database backup and snapshot m... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-21 | Utility package for Laravel including Transformable proxies ... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-21 | Local-first personal finance dashboard that resolves cross-a... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 78 | 2026-08-21 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-08-21 | The NativePHP website |
 | [KoassiAkakpo/filament-file-explorer](https://github.com/KoassiAkakpo/filament-file-explorer) | 0 | 2026-08-21 | Finder-style file explorer for Filament v4 and v5, powered b... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-08-21 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [jass-sangha/riwaaq](https://github.com/jass-sangha/riwaaq) | 6 | 2026-08-21 | Real-time Laravel chat package — 1-on-1 & group messaging, m... |
-| [StreetMesh/Server](https://github.com/StreetMesh/Server) | 0 | 2026-08-21 | Build multiplayer experiences with Laravel and Colyseus usin... |
-| [MGeurts/genealogy](https://github.com/MGeurts/genealogy) | 356 | 2026-08-21 | Genealogy is a free and open-source family tree PHP applicat... |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-08-21 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-08-21 | MobileKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [jeffersongoncalves/mobilekitv4](https://github.com/jeffersongoncalves/mobilekitv4) | 14 | 2026-08-21 | MobileKit starter kit built on Laravel 12.x, Filament 4.x an... |
+| [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 1 | 2026-08-21 | Filament admin resource for jeffersongoncalves/laravel-short... |
+| [laractrl/controlled](https://github.com/laractrl/controlled) | 3 | 2026-08-21 | Secure Your Right After Delivered Your web app Before they c... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-08-21 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | 2026-08-21 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-08-21 |  |
+| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-08-21 | Laravel Monitor: A lightweight Laravel package providing bas... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-08-21 | Ptah — Laravel package that forges complete module structure... |
+| [janecodelife/livewire-secure-properties](https://github.com/janecodelife/livewire-secure-properties) | 2 | 2026-08-21 | secure your livewire 4 properties with zero configs and void... |
+| [nightshift-foundry/laravel-alertstream](https://github.com/nightshift-foundry/laravel-alertstream) | 0 | 2026-08-21 | A Laravel package for logging and reporting debug informatio... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-22T00:35 | 1 | 1723 | 5901 |
 | 2026-08-21T18:33 | 3 | 1721 | 5901 |
 | 2026-08-21T12:34 | 5 | 1721 | 5898 |
 | 2026-08-21T06:34 | 1 | 1726 | 5893 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-20T06:34 | 5 | 1723 | 5877 |
 | 2026-08-20T00:35 | 2 | 1724 | 5873 |
 | 2026-08-19T18:33 | 4 | 1722 | 5871 |
-| 2026-08-19T12:34 | 4 | 1721 | 5868 |
 
 ---
 

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5915  
-**Last updated:** 2026-08-22T18:32:44.791Z
+**Total packages tracked:** 5920  
+**Last updated:** 2026-08-23T00:35:27.158Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [innoboxrr/livewire-comments](https://github.com/innoboxrr/livewire-comments) | 0 | Threaded comment system for Laravel Livewire - no JavaScript required. |
+| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 0 | A drop-in Filament v5 RichEditor with a configurable toolbar, a media browser, t... |
+| [bladeuix/components](https://github.com/bladeuix/components) | 2 | A Laravel blade component library based on daisyUI. Install the full package or ... |
+| [innoboxrr/support](https://github.com/innoboxrr/support) | 0 | HTTP and request helper utilities used across Innobox R&R Laravel packages. |
+| [morcen/laravel-otp-generator](https://github.com/morcen/laravel-otp-generator) | 0 | Generate OTP for your Laravel packages |
 | [HolgerHatGarKeineNode/einundzwanzig-app](https://github.com/HolgerHatGarKeineNode/einundzwanzig-app) | 6 | Code base for the Einundzwanzig Portal — Bitcoin meetups, courses and library fo... |
 | [adacreativeco/NexusADA](https://github.com/adacreativeco/NexusADA) | 2 | ADA Co-OS — Multi-Tenant Enterprise Operating System, Digital Intelligence & Age... |
 | [intel1590/laravel-ai-email-assistant](https://github.com/intel1590/laravel-ai-email-assistant) | 3 | AI-powered Email Assistant for Laravel 9, 10, and 11 — automatically generate pe... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [arb-rajab/laravel-consent-guard](https://github.com/arb-rajab/laravel-consent-guard) | 0 | Tamper-evident audit logging and consent-guard middleware for Laravel apps (Comp... |
 | [Banelsems/laraSgmefQR](https://github.com/Banelsems/laraSgmefQR) | 1 | LaraSgmefQR is a Laravel package that provides a way to normalize invoice data f... |
 | [anjan-talukdar/geo-master](https://github.com/anjan-talukdar/geo-master) | 0 | A reusable Laravel/PHP package for managing hierarchical geographic master data,... |
-| [cloudstudio/laravel-html-crawler](https://github.com/cloudstudio/laravel-html-crawler) | 2 | A Laravel package for cleaning and transforming HTML content. It provides a flue... |
-| [amdad121/fcm-laravel](https://github.com/amdad121/fcm-laravel) | 0 | A simple, lightweight, fast Firebase Cloud Messaging (FCM) notification channel ... |
-| [KoassiAkakpo/filament-file-explorer](https://github.com/KoassiAkakpo/filament-file-explorer) | 0 | Finder-style file explorer for Filament v4 and v5, powered by Spatie Media Libra... |
-| [ezdev21/laraoverflow](https://github.com/ezdev21/laraoverflow) | 6 | where developers learn,share and build careers platform made with Laravel and TA... |
-| [PregoviMB/pmb-laravel-acl](https://github.com/PregoviMB/pmb-laravel-acl) | 0 | A flexible and dynamic Access Control List package for Laravel supporting RBAC, ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AlwaysCuriousCo/package-pipeline](https://github.com/AlwaysCuriousCo/package-pipeline) | 48 | 2026-08-22 | Self-hosted private Composer registry |
-| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 96 | 2026-08-22 | Livewire components for AlpineFlow — build interactive flow ... |
-| [HolgerHatGarKeineNode/einundzwanzig-app](https://github.com/HolgerHatGarKeineNode/einundzwanzig-app) | 6 | 2026-08-22 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [outatime-io/filament-login-shortcut](https://github.com/outatime-io/filament-login-shortcut) | 0 | 2026-08-22 | Secure one-click login shortcut for Filament panels, built f... |
-| [monkeysoftnl/laravel-sitesmonkey](https://github.com/monkeysoftnl/laravel-sitesmonkey) | 0 | 2026-08-22 | Laravel Package for SitesMonkey monitoring |
-| [proxynth/LaraWebhook](https://github.com/proxynth/LaraWebhook) | 1 | 2026-08-22 | LaraWebhook is an open-source Laravel package for securely a... |
-| [intel1590/laravel-ai-email-assistant](https://github.com/intel1590/laravel-ai-email-assistant) | 3 | 2026-08-22 | AI-powered Email Assistant for Laravel 9, 10, and 11 — autom... |
-| [mikelmao/laravel-nodeflow](https://github.com/mikelmao/laravel-nodeflow) | 0 | 2026-08-22 | A laravel + inertia + react package to have durable workflow... |
+| [bladeuix/components](https://github.com/bladeuix/components) | 2 | 2026-08-23 | A Laravel blade component library based on daisyUI. Install ... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-23 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-23 | Manage and track inventory with a PHP package that integrate... |
+| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 111 | 2026-08-23 | Real Estate / Estate Agent, solution for your Property Agenc... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-23 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-23 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 3 | 2026-08-23 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-23 | Local-first personal finance dashboard that resolves cross-a... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-08-23 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-08-23 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-23 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [Serenity-Technologies/admin-dashboard-guard](https://github.com/Serenity-Technologies/admin-dashboard-guard) | 1 | 2026-08-22 | A Laravel package that places a two-factor passphrase + pass... |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-08-22 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-22 | Local-first personal finance dashboard that resolves cross-a... |
-| [adacreativeco/NexusADA](https://github.com/adacreativeco/NexusADA) | 2 | 2026-08-22 | ADA Co-OS — Multi-Tenant Enterprise Operating System, Digita... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-22 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-22 | Manage and track inventory with a PHP package that integrate... |
+| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 4 | 2026-08-22 | The Laravel Lobster |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | 2026-08-22 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [HolgerHatGarKeineNode/einundzwanzig-app](https://github.com/HolgerHatGarKeineNode/einundzwanzig-app) | 6 | 2026-08-22 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
+| [kaue-f/laravel-structura](https://github.com/kaue-f/laravel-structura) | 3 | 2026-08-22 | Laravel Structura is a Laravel package that simplifies and s... |
+| [outatime-io/filament-login-shortcut](https://github.com/outatime-io/filament-login-shortcut) | 0 | 2026-08-22 | Secure one-click login shortcut for Filament panels, built f... |
+| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-08-22 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
+| [chieftools/pkgtrends](https://github.com/chieftools/pkgtrends) | 12 | 2026-08-22 | A quick way to compare package downloads across languages. |
 | [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-08-22 | Magic Framework Laravel backend starter package. |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-22 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-22 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ziming/laravel-myinfo-sg](https://github.com/ziming/laravel-myinfo-sg) | 16 | 2026-08-22 | PHP Laravel Singpass MyInfo (Singapore) Package / Library |
-| [Rasimoghlu/laravel-lsim-single-sms-package](https://github.com/Rasimoghlu/laravel-lsim-single-sms-package) | 5 | 2026-08-22 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-23T00:35 | 5 | 1719 | 5920 |
 | 2026-08-22T18:32 | 9 | 1717 | 5915 |
 | 2026-08-22T12:33 | 6 | 1720 | 5906 |
 | 2026-08-22T06:33 | 1 | 1723 | 5902 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-21T06:34 | 1 | 1726 | 5893 |
 | 2026-08-21T00:35 | 4 | 1724 | 5892 |
 | 2026-08-20T18:34 | 11 | 1716 | 5888 |
-| 2026-08-20T12:34 | 1 | 1726 | 5878 |
 
 ---
 

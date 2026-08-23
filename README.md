@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5920  
-**Last updated:** 2026-08-23T00:35:27.158Z
+**Total packages tracked:** 5925  
+**Last updated:** 2026-08-23T06:33:57.387Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [leonardozaneladias/ht2-erp](https://github.com/leonardozaneladias/ht2-erp) | 0 | ERP administrativo multiempresa em Laravel 13 + Livewire 4 + Inspinia (Tailwind ... |
+| [alle80/griglia](https://github.com/alle80/griglia) | 0 | A Laravel + Livewire task board where you queue work for your coding agent and f... |
+| [codearachnid/check-commerce-laravel-sdk](https://github.com/codearachnid/check-commerce-laravel-sdk) | 0 | Check Commerce is an electronic check and ACH processing platform that operates ... |
+| [supergazzium/icloud-checker-system](https://github.com/supergazzium/icloud-checker-system) | 0 | Laravel 12 iCloud/IMEI checker packaged for Docker + Coolify deployment |
+| [SameOldNick/laravel-ntfy](https://github.com/SameOldNick/laravel-ntfy) | 0 | A Laravel package for integrating ntfy with your application. |
 | [innoboxrr/livewire-comments](https://github.com/innoboxrr/livewire-comments) | 0 | Threaded comment system for Laravel Livewire - no JavaScript required. |
 | [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 0 | A drop-in Filament v5 RichEditor with a configurable toolbar, a media browser, t... |
 | [bladeuix/components](https://github.com/bladeuix/components) | 2 | A Laravel blade component library based on daisyUI. Install the full package or ... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [fopost/fopost-social-laravel](https://github.com/fopost/fopost-social-laravel) | 0 | Open Source Laravel package for social media management. |
 | [abhett/laravel-email-campaign](https://github.com/abhett/laravel-email-campaign) | 0 | Package Laravel aman berbasis queue untuk membuat campaign email, mengimpor pene... |
 | [swadhin-sikder/laravel-row-in](https://github.com/swadhin-sikder/laravel-row-in) | 0 | Adds row value IN and NOT IN clauses to Laravel's query builder. |
-| [fransbachtiar24/laravel-deadlock-retry](https://github.com/fransbachtiar24/laravel-deadlock-retry) | 0 | Retry Laravel transactions and queued jobs that lose a deadlock - SQL Server, My... |
-| [ayvazyan10/nova-imagic](https://github.com/ayvazyan10/nova-imagic) | 14 | Experience the power of the Imagic package and take your Laravel Nova applicatio... |
-| [arb-rajab/laravel-consent-guard](https://github.com/arb-rajab/laravel-consent-guard) | 0 | Tamper-evident audit logging and consent-guard middleware for Laravel apps (Comp... |
-| [Banelsems/laraSgmefQR](https://github.com/Banelsems/laraSgmefQR) | 1 | LaraSgmefQR is a Laravel package that provides a way to normalize invoice data f... |
-| [anjan-talukdar/geo-master](https://github.com/anjan-talukdar/geo-master) | 0 | A reusable Laravel/PHP package for managing hierarchical geographic master data,... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [bladeuix/components](https://github.com/bladeuix/components) | 2 | 2026-08-23 | A Laravel blade component library based on daisyUI. Install ... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-23 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-23 | Manage and track inventory with a PHP package that integrate... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-08-23 | Simple package for adding directives to show/hide content fr... |
 | [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 111 | 2026-08-23 | Real Estate / Estate Agent, solution for your Property Agenc... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-23 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-23 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 3 | 2026-08-23 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-23 | Local-first personal finance dashboard that resolves cross-a... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-08-23 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-08-23 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-23 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Serenity-Technologies/admin-dashboard-guard](https://github.com/Serenity-Technologies/admin-dashboard-guard) | 1 | 2026-08-22 | A Laravel package that places a two-factor passphrase + pass... |
-| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 4 | 2026-08-22 | The Laravel Lobster |
-| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | 2026-08-22 | Gorgeous shadcn inspired UI library for laravel blade using ... |
-| [HolgerHatGarKeineNode/einundzwanzig-app](https://github.com/HolgerHatGarKeineNode/einundzwanzig-app) | 6 | 2026-08-22 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [kaue-f/laravel-structura](https://github.com/kaue-f/laravel-structura) | 3 | 2026-08-22 | Laravel Structura is a Laravel package that simplifies and s... |
-| [outatime-io/filament-login-shortcut](https://github.com/outatime-io/filament-login-shortcut) | 0 | 2026-08-22 | Secure one-click login shortcut for Filament panels, built f... |
-| [HolgerHatGarKeineNode/twenty-one-companion](https://github.com/HolgerHatGarKeineNode/twenty-one-companion) | 4 | 2026-08-22 | Bitcoin community app for EINUNDZWANZIG — meetups, events, c... |
-| [chieftools/pkgtrends](https://github.com/chieftools/pkgtrends) | 12 | 2026-08-22 | A quick way to compare package downloads across languages. |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-08-22 | Magic Framework Laravel backend starter package. |
+| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 14 | 2026-08-23 |  |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-23 | Laravel USPS Package to integrate USPS Address |
+| [supergazzium/icloud-checker-system](https://github.com/supergazzium/icloud-checker-system) | 0 | 2026-08-23 | Laravel 12 iCloud/IMEI checker packaged for Docker + Coolify... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-23 | Open-source, self-hosted video processing & delivery engine ... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 108 | 2026-08-23 | A Laravel package for versioned AI prompt management with va... |
+| [SameOldNick/laravel-ntfy](https://github.com/SameOldNick/laravel-ntfy) | 0 | 2026-08-23 | A Laravel package for integrating ntfy with your application... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 160 | 2026-08-23 | Provides email verification on the go. |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-23 | A practical work management information system built with La... |
+| [leonardozaneladias/ht2-erp](https://github.com/leonardozaneladias/ht2-erp) | 0 | 2026-08-23 | ERP administrativo multiempresa em Laravel 13 + Livewire 4 +... |
+| [rxcod9/joy-voyager-bread-package](https://github.com/rxcod9/joy-voyager-bread-package) | 0 | 2026-08-23 |  Joy Voyager Bread Packages scaffolding template  |
+| [wayofdev/laravel-symfony-serializer](https://github.com/wayofdev/laravel-symfony-serializer) | 21 | 2026-08-23 | 🔧 Laravel + Symfony Serializer. This package provides a bri... |
+| [timgws/laravel-expo-updates](https://github.com/timgws/laravel-expo-updates) | 1 | 2026-08-23 | A lightweight Laravel package that lets you self-host over-t... |
+| [rxcod9/joy-voyager-package](https://github.com/rxcod9/joy-voyager-package) | 0 | 2026-08-23 | Joy Voyager Packages scaffolding template |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 253 | 2026-08-23 | A live database structure viewer for Laravel that renders yo... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-08-23 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [alle80/griglia](https://github.com/alle80/griglia) | 0 | 2026-08-23 | A Laravel + Livewire task board where you queue work for you... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 7 | 2026-08-23 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [its-enpii/enpii-studio-core](https://github.com/its-enpii/enpii-studio-core) | 0 | 2026-08-23 | Enpii Studio Core Laravel package |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-23T06:33 | 5 | 1719 | 5925 |
 | 2026-08-23T00:35 | 5 | 1719 | 5920 |
 | 2026-08-22T18:32 | 9 | 1717 | 5915 |
 | 2026-08-22T12:33 | 6 | 1720 | 5906 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-21T12:34 | 5 | 1721 | 5898 |
 | 2026-08-21T06:34 | 1 | 1726 | 5893 |
 | 2026-08-21T00:35 | 4 | 1724 | 5892 |
-| 2026-08-20T18:34 | 11 | 1716 | 5888 |
 
 ---
 

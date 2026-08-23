@@ -1890,7 +1890,7 @@
     "license": "MIT",
     "created_at": "2020-11-01T10:44:20Z",
     "updated_at": "2026-07-27T06:32:06Z",
-    "pushed_at": "2026-07-27T06:31:52Z",
+    "pushed_at": "2026-08-23T06:10:07Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "weslinkde/laravel-postgres-tools": {
@@ -27868,8 +27868,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2023-09-26T13:34:02Z",
-    "updated_at": "2026-08-22T19:43:42Z",
-    "pushed_at": "2026-08-22T19:43:31Z",
+    "updated_at": "2026-08-23T02:02:50Z",
+    "pushed_at": "2026-08-23T02:02:44Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "jordanpartridge/github-client": {
@@ -33300,7 +33300,7 @@
     "name": "rahulhaque/soketi-app-manager-filament",
     "url": "https://github.com/rahulhaque/soketi-app-manager-filament",
     "description": "Manage soketi websocket server and apps with ease.",
-    "stars": 113,
+    "stars": 112,
     "forks": 22,
     "topics": [
       "app-manager",
@@ -33314,7 +33314,7 @@
     "language": "PHP",
     "license": "GPL-3.0",
     "created_at": "2023-08-27T19:46:34Z",
-    "updated_at": "2026-08-20T21:18:56Z",
+    "updated_at": "2026-08-23T06:17:57Z",
     "pushed_at": "2026-07-10T09:27:15Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -34312,7 +34312,7 @@
     "url": "https://github.com/lauroguedes/mary-ui-starter-kit",
     "description": "Mary UI Laravel Starter Kit",
     "stars": 37,
-    "forks": 5,
+    "forks": 6,
     "topics": [
       "daisyui",
       "laravel",
@@ -51248,8 +51248,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-21T14:39:43Z",
-    "updated_at": "2026-08-21T05:30:47Z",
-    "pushed_at": "2026-08-21T05:30:12Z",
+    "updated_at": "2026-08-23T04:36:40Z",
+    "pushed_at": "2026-08-23T04:36:17Z",
     "discovered_at": "2026-03-19T18:18:45.875Z"
   },
   "elfeffe/favicon-fetcher": {
@@ -54518,7 +54518,7 @@
     "license": "MIT",
     "created_at": "2016-05-12T21:05:35Z",
     "updated_at": "2026-07-22T21:13:38Z",
-    "pushed_at": "2026-08-22T06:08:06Z",
+    "pushed_at": "2026-08-23T06:09:14Z",
     "discovered_at": "2026-03-25T06:24:44.802Z"
   },
   "xuejd3/laravel-emoji": {
@@ -61385,7 +61385,7 @@
     "license": "MIT",
     "created_at": "2019-05-02T09:02:27Z",
     "updated_at": "2026-08-20T07:25:21Z",
-    "pushed_at": "2026-08-22T04:32:45Z",
+    "pushed_at": "2026-08-23T04:37:17Z",
     "discovered_at": "2026-04-10T02:09:29.494Z"
   },
   "boone-studios/laravel-surrealdb": {
@@ -65124,7 +65124,7 @@
     "license": "MIT",
     "created_at": "2022-08-02T12:01:15Z",
     "updated_at": "2026-08-17T12:45:15Z",
-    "pushed_at": "2026-08-19T06:15:56Z",
+    "pushed_at": "2026-08-23T06:15:48Z",
     "discovered_at": "2026-04-20T02:24:13.038Z"
   },
   "mapo-89/laravel-heizreport-api": {
@@ -67742,7 +67742,7 @@
     "license": "MIT",
     "created_at": "2023-06-09T17:00:27Z",
     "updated_at": "2026-04-28T11:00:41Z",
-    "pushed_at": "2026-08-08T15:13:52Z",
+    "pushed_at": "2026-08-23T03:58:36Z",
     "discovered_at": "2026-04-28T12:37:33.255Z"
   },
   "kyon147/laravel-shopify": {
@@ -71071,14 +71071,14 @@
     "name": "timgws/laravel-expo-updates",
     "url": "https://github.com/timgws/laravel-expo-updates",
     "description": "A lightweight Laravel package that lets you self-host over-the-air (OTA) updates for React Native apps using the Expo Updates protocol.",
-    "stars": 0,
+    "stars": 1,
     "forks": 1,
     "topics": [],
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2026-04-23T03:38:15Z",
-    "updated_at": "2026-05-12T01:38:29Z",
-    "pushed_at": "2026-05-12T01:38:24Z",
+    "updated_at": "2026-08-23T03:53:09Z",
+    "pushed_at": "2026-08-23T03:52:59Z",
     "discovered_at": "2026-05-07T07:01:58.101Z"
   },
   "fvisic/projectstatusapp": {
@@ -74540,7 +74540,7 @@
     "license": "MIT",
     "created_at": "2026-02-27T23:09:48Z",
     "updated_at": "2026-08-21T03:48:25Z",
-    "pushed_at": "2026-08-22T04:47:13Z",
+    "pushed_at": "2026-08-23T04:50:41Z",
     "discovered_at": "2026-05-17T18:23:24.732Z"
   },
   "m4x1c11/ai-chat-assistant-laravel": {
@@ -74962,7 +74962,7 @@
     "license": "MIT",
     "created_at": "2022-03-17T04:35:26Z",
     "updated_at": "2022-03-17T04:43:21Z",
-    "pushed_at": "2026-08-13T13:38:58Z",
+    "pushed_at": "2026-08-23T04:08:16Z",
     "discovered_at": "2026-05-18T13:15:28.227Z"
   },
   "rxcod9/joy-package": {
@@ -75018,7 +75018,7 @@
     "license": "MIT",
     "created_at": "2022-03-13T13:35:06Z",
     "updated_at": "2022-03-13T14:12:42Z",
-    "pushed_at": "2026-08-13T13:42:52Z",
+    "pushed_at": "2026-08-23T03:52:33Z",
     "discovered_at": "2026-05-18T13:15:28.227Z"
   },
   "trafik8787/lara-crud": {
@@ -76185,7 +76185,7 @@
     "url": "https://github.com/SpartnerNL/Laravel-Nova-Excel",
     "description": "🚀 Supercharged Excel exports for Laravel Nova Resources",
     "stars": 402,
-    "forks": 85,
+    "forks": 86,
     "topics": [
       "excel",
       "laravel",
@@ -79696,7 +79696,7 @@
     "license": "MIT",
     "created_at": "2024-05-10T06:11:09Z",
     "updated_at": "2026-08-19T09:20:02Z",
-    "pushed_at": "2026-08-22T03:36:47Z",
+    "pushed_at": "2026-08-23T03:44:50Z",
     "discovered_at": "2026-06-03T00:53:59.862Z"
   },
   "alimarchal/laravel-chart-of-accounts-package": {
@@ -84973,7 +84973,7 @@
     "license": "MIT",
     "created_at": "2026-06-16T09:18:43Z",
     "updated_at": "2026-08-19T18:09:27Z",
-    "pushed_at": "2026-08-22T03:32:04Z",
+    "pushed_at": "2026-08-23T03:40:14Z",
     "discovered_at": "2026-06-17T18:50:50.696Z"
   },
   "kazistm/vargo": {
@@ -94786,7 +94786,7 @@
     "license": "MIT",
     "created_at": "2026-04-04T03:22:34Z",
     "updated_at": "2026-08-20T02:33:03Z",
-    "pushed_at": "2026-08-20T02:44:05Z",
+    "pushed_at": "2026-08-23T05:13:42Z",
     "discovered_at": "2026-07-11T00:54:26.813Z"
   },
   "d1360l/laravel-role-manager": {
@@ -97056,8 +97056,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-07-17T07:49:33Z",
-    "updated_at": "2026-07-21T08:24:03Z",
-    "pushed_at": "2026-07-21T08:23:36Z",
+    "updated_at": "2026-08-23T03:38:51Z",
+    "pushed_at": "2026-08-23T03:38:40Z",
     "discovered_at": "2026-07-17T12:45:19.851Z"
   },
   "mohammadrezarahpeyma/pishropayamak-sms": {
@@ -99710,10 +99710,10 @@
       "sales"
     ],
     "language": "PHP",
-    "license": null,
+    "license": "MIT",
     "created_at": "2024-02-04T14:40:42Z",
-    "updated_at": "2026-08-23T00:19:04Z",
-    "pushed_at": "2026-08-23T00:27:00Z",
+    "updated_at": "2026-08-23T06:10:23Z",
+    "pushed_at": "2026-08-23T06:12:24Z",
     "discovered_at": "2026-07-23T18:47:23.154Z"
   },
   "liberusoftware/maintenance-laravel": {
@@ -100800,8 +100800,8 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2026-05-24T23:28:16Z",
-    "updated_at": "2026-08-23T00:07:34Z",
-    "pushed_at": "2026-08-23T00:07:22Z",
+    "updated_at": "2026-08-23T01:14:06Z",
+    "pushed_at": "2026-08-23T01:13:51Z",
     "discovered_at": "2026-07-27T18:51:49.187Z"
   },
   "shiwang-biz/cpanel-laravel-sdk": {
@@ -100868,7 +100868,7 @@
     "license": "MIT",
     "created_at": "2026-07-22T18:51:08Z",
     "updated_at": "2026-08-22T18:02:54Z",
-    "pushed_at": "2026-08-22T05:22:36Z",
+    "pushed_at": "2026-08-23T03:51:23Z",
     "discovered_at": "2026-07-28T00:53:08.670Z"
   },
   "modularavel/cloudflare-stream-video": {
@@ -107800,8 +107800,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-02T21:42:12Z",
-    "updated_at": "2026-08-18T03:35:12Z",
-    "pushed_at": "2026-08-18T03:35:01Z",
+    "updated_at": "2026-08-23T00:50:30Z",
+    "pushed_at": "2026-08-23T00:50:21Z",
     "discovered_at": "2026-08-18T06:34:28.542Z"
   },
   "alwayscuriousco/package-pipeline": {
@@ -108052,16 +108052,21 @@
     "stars": 0,
     "forks": 0,
     "topics": [
-      "laravel",
       "laravel-modules",
       "laravel-package",
-      "laravel-plugin"
+      "laravel-plugin",
+      "php-module",
+      "php-modules",
+      "php-plugin",
+      "symfony-module-configuration",
+      "symfony-plugin",
+      "wordpress-plugin"
     ],
     "language": "PHP",
     "license": "MIT",
-    "created_at": "2026-08-04T03:30:56Z",
-    "updated_at": "2026-08-20T11:57:38Z",
-    "pushed_at": "2026-08-20T11:54:47Z",
+    "created_at": "2026-08-22T11:36:46Z",
+    "updated_at": "2026-08-23T04:00:25Z",
+    "pushed_at": "2026-08-22T14:06:33Z",
     "discovered_at": "2026-08-18T12:34:14.682Z"
   },
   "huzaifa113/luna-boutique": {
@@ -108492,14 +108497,14 @@
     "name": "skillbobby/Spiggle-Dynamic-Fields-Core",
     "url": "https://github.com/skillbobby/Spiggle-Dynamic-Fields-Core",
     "description": "Plug-and-play Laravel/Filament package that attaches custom fields to any Eloquent model.",
-    "stars": 0,
+    "stars": 2,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-19T21:47:37Z",
-    "updated_at": "2026-08-22T16:09:11Z",
-    "pushed_at": "2026-08-22T16:08:44Z",
+    "updated_at": "2026-08-23T03:09:34Z",
+    "pushed_at": "2026-08-23T03:09:46Z",
     "discovered_at": "2026-08-20T06:34:32.223Z"
   },
   "sinarahmany/laravel-email-monitor": {
@@ -109452,8 +109457,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-10T17:48:05Z",
-    "updated_at": "2026-08-23T00:28:27Z",
-    "pushed_at": "2026-08-23T00:28:11Z",
+    "updated_at": "2026-08-23T03:08:15Z",
+    "pushed_at": "2026-08-23T03:08:16Z",
     "discovered_at": "2026-08-23T00:35:27.123Z"
   },
   "innoboxrr/support": {
@@ -109534,5 +109539,111 @@
     "updated_at": "2026-08-22T18:59:35Z",
     "pushed_at": "2026-08-22T18:59:31Z",
     "discovered_at": "2026-08-23T00:35:27.128Z"
+  },
+  "supergazzium/icloud-checker-system": {
+    "name": "supergazzium/icloud-checker-system",
+    "url": "https://github.com/supergazzium/icloud-checker-system",
+    "description": "Laravel 12 iCloud/IMEI checker packaged for Docker + Coolify deployment",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-08-09T12:32:49Z",
+    "updated_at": "2026-08-23T05:52:04Z",
+    "pushed_at": "2026-08-23T05:51:01Z",
+    "discovered_at": "2026-08-23T06:33:57.331Z"
+  },
+  "sameoldnick/laravel-ntfy": {
+    "name": "SameOldNick/laravel-ntfy",
+    "url": "https://github.com/SameOldNick/laravel-ntfy",
+    "description": "A Laravel package for integrating ntfy with your application.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-08-23T04:39:35Z",
+    "updated_at": "2026-08-23T04:40:39Z",
+    "pushed_at": "2026-08-23T04:40:28Z",
+    "discovered_at": "2026-08-23T06:33:57.331Z"
+  },
+  "alle80/griglia": {
+    "name": "alle80/griglia",
+    "url": "https://github.com/alle80/griglia",
+    "description": "A Laravel + Livewire task board where you queue work for your coding agent and follow it live: states, questions, progress and results, in your own app and database.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "ai-agents",
+      "claude-code",
+      "coding-agent",
+      "developer-tools",
+      "kanban",
+      "laravel",
+      "laravel-package",
+      "livewire",
+      "php",
+      "self-hosted",
+      "tailwindcss",
+      "task-board",
+      "todo-list"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-08-18T23:15:38Z",
+    "updated_at": "2026-08-23T03:42:11Z",
+    "pushed_at": "2026-08-23T03:41:58Z",
+    "discovered_at": "2026-08-23T06:33:57.333Z"
+  },
+  "codearachnid/check-commerce-laravel-sdk": {
+    "name": "codearachnid/check-commerce-laravel-sdk",
+    "url": "https://github.com/codearachnid/check-commerce-laravel-sdk",
+    "description": "Check Commerce is an electronic check and ACH processing platform that operates as part of Nuvei's global payment and open banking infrastructure.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "checkcommerce",
+      "composer",
+      "composer-package",
+      "ecommerce",
+      "laravel",
+      "laravel-package",
+      "nuvei",
+      "payment-integration",
+      "payments",
+      "sdk-php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-08-01T16:59:03Z",
+    "updated_at": "2026-08-23T01:41:08Z",
+    "pushed_at": "2026-08-23T01:36:08Z",
+    "discovered_at": "2026-08-23T06:33:57.333Z"
+  },
+  "leonardozaneladias/ht2-erp": {
+    "name": "leonardozaneladias/ht2-erp",
+    "url": "https://github.com/leonardozaneladias/ht2-erp",
+    "description": "ERP administrativo multiempresa em Laravel 13 + Livewire 4 + Inspinia (Tailwind 4), modular via pacotes Composer. Em desenvolvimento: módulo de RH/Departamento Pessoal.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "admin-panel",
+      "composer-package",
+      "erp",
+      "inspinia",
+      "laravel",
+      "livewire",
+      "multi-tenant",
+      "php",
+      "postgresql",
+      "tailwindcss"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-06-17T01:53:37Z",
+    "updated_at": "2026-08-23T02:27:21Z",
+    "pushed_at": "2026-08-23T04:11:32Z",
+    "discovered_at": "2026-08-23T06:33:57.334Z"
   }
 }

@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5945  
-**Last updated:** 2026-08-24T06:35:17.389Z
+**Total packages tracked:** 5949  
+**Last updated:** 2026-08-24T12:34:44.153Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [magetechsol/laravel-packages](https://github.com/magetechsol/laravel-packages) | 0 | Official MageTech Solutions Laravel Packages — production-ready developer tools ... |
+| [Outsidaz/laravel-data-anonymization](https://github.com/Outsidaz/laravel-data-anonymization) | 7 | The Laravel package facilitates data anonymization, which helps organizations pr... |
+| [hampel/validate-publicip](https://github.com/hampel/validate-publicip) | 0 | Laravel package to help validate public IPv4 & IPv6 addresses |
+| [brightfish-be/health-checks](https://github.com/brightfish-be/health-checks) | 0 | Generic health check package for Laravel |
 | [liberusoftware/module-genealogy-people-livewire](https://github.com/liberusoftware/module-genealogy-people-livewire) | 0 | Liberu genealogy people Livewire adapter |
 | [liberusoftware/module-genealogy-media-livewire](https://github.com/liberusoftware/module-genealogy-media-livewire) | 0 | Liberu genealogy media Livewire adapter |
 | [Luminee/foundry](https://github.com/Luminee/foundry) | 0 | Foundation for Luminee packages(in laravel) |
@@ -16,7 +20,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [liberusoftware/module-cms-pages](https://github.com/liberusoftware/module-cms-pages) | 0 | This package is the authoritative, provider-neutral implementation of Pages. It ... |
 | [MrPunyapal/filament-infinite-select](https://github.com/MrPunyapal/filament-infinite-select) | 0 | A Filament form component that loads select options one page at a time as the us... |
 | [wireboard/laravel-cmp](https://github.com/wireboard/laravel-cmp) | 2 | WireBoard.io consent management platform for Laravel with GA4 support |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 0 | A PHPStan extension for analysis of Laravel applications and packages. |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 3 | A PHPStan extension for analysis of Laravel applications and packages. |
 | [COCOUVI/xn-orchestrator](https://github.com/COCOUVI/xn-orchestrator) | 2 | Interactive Artisan wizard to install and configure popular Laravel packages  br... |
 | [the6fallenangel/variza-laravel](https://github.com/the6fallenangel/variza-laravel) | 1 | کیت توسعه رسمی واریزا برای لاراول؛ ساخت لینک پرداخت کارت‌به‌کارت، اعتبارسنجی امن... |
 | [ialaminpro/laravel-errorlog](https://github.com/ialaminpro/laravel-errorlog) | 5 | Laravel error monitoring dashboard with persistent exception logging and notific... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ialaminpro/bundesland](https://github.com/ialaminpro/bundesland) | 1 | Laravel package for resolving German federal states from postal codes with cachi... |
 | [cable8mm/n-format](https://github.com/cable8mm/n-format) | 2 | Laravel package for Korean and Japanese number formatting with Eloquent casts, v... |
 | [Laracoper/task-manager-laravel](https://github.com/Laracoper/task-manager-laravel) | 1 | таск-менеджер со сложной бэкенд-архитектурой на базе Laravel 13 и Livewire Volt.... |
-| [cieplik206/laravel-bir-regon](https://github.com/cieplik206/laravel-bir-regon) | 0 | Laravel client for the Polish GUS BIR/REGON API |
-| [zfhassaan/zindagi-zconnect](https://github.com/zfhassaan/zindagi-zconnect) | 1 | A clean, fully-typed Laravel package to integrate with JS Bank’s Z-Connect API -... |
-| [Arc1113/connict-gss](https://github.com/Arc1113/connict-gss) | 0 | Local-network graduation stage management with QR scanning, queue control, offli... |
-| [devrabiul/laravel-toaster-magic](https://github.com/devrabiul/laravel-toaster-magic) | 227 | Laravel Toaster Magic is a lightweight, themeable toast package for Laravel & Li... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -44,7 +44,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 463 | Add kanban boards to your Filament pages |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 454 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 455 | Open Source Laravel CRM Package |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 449 | A simple package to help integrate Cloudflare Turnstile. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-08-24 | Private expiring previews of unsaved Capell page and Layout ... |
-| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | 2026-08-24 | Shared typed content-block primitives for Capell packages. |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 0 | 2026-08-24 | A PHPStan extension for analysis of Laravel applications and... |
-| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-08-24 |  |
-| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-08-24 | A Laravel package that crawls websites to detect broken link... |
-| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-08-24 | Extension discovery, account linking, install authorization,... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-24 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-08-24 | Guided browser installer for bootstrapping new Capell CMS ap... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-24 | Laravel USPS Package to integrate USPS Address |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-08-24 | Public routing, rendering, caching boundaries, and theme int... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-08-24 | Filament admin panel, editor workflows, settings, and extens... |
-| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-08-24 | Shared content models, services, contracts, and extension fo... |
-| [Luminee/foundry](https://github.com/Luminee/foundry) | 0 | 2026-08-24 | Foundation for Luminee packages(in laravel) |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-24 | Open-source, self-hosted video processing & delivery engine ... |
-| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 8 | 2026-08-24 | Laravel Pesapal is a Laravel package designed to facilitate ... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-24 | An event sourcing laravel package, complete with all the ess... |
-| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 22 | 2026-08-24 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
-| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-08-24 | A Laravel Package providing seamless integration for the wun... |
-| [waterholeforum/core](https://github.com/waterholeforum/core) | 223 | 2026-08-24 | The core Waterhole package. |
-| [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-08-24 | Roles and permissions for Filament, built on elpandape/warde... |
+| [typicms/core](https://github.com/typicms/core) | 7 | 2026-08-24 | The core package of TypiCMS, containing the base architectur... |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-08-24 | Laravel package to handle requests are ensured sent |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-24 | Laravel package providing polymorphic image management with ... |
+| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-08-24 | Toth is a Laravel package for database backup and snapshot m... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-24 | Utility package for Laravel including Transformable proxies ... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-08-24 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Alphabalex/payment-made-easy](https://github.com/Alphabalex/payment-made-easy) | 0 | 2026-08-24 | A Laravel package for handling payments with multiple gatewa... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-08-24 | Laravel package providing OTP (One-Time Password) management... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-08-24 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-08-24 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-08-24 | Laravel package providing polymorphic reactions (like, love,... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-08-24 | Integrate Mixpanel analytics into Filament projects to track... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-08-24 | Laravel TOTP package for two-factor authentication with poly... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-08-24 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-08-24 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-08-24 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [whilesmartphp/laravel-user-authentication](https://github.com/whilesmartphp/laravel-user-authentication) | 2 | 2026-08-24 | API-first user authentication for Laravel with support for O... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-08-24 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-08-24 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [electrikhq/electrik](https://github.com/electrikhq/electrik) | 293 | 2026-08-24 | Laravel SaaS starter kit: auth, teams, Stripe billing, and S... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-24T12:34 | 4 | 1723 | 5949 |
 | 2026-08-24T06:35 | 5 | 1721 | 5945 |
 | 2026-08-24T00:35 | 5 | 1719 | 5940 |
 | 2026-08-23T18:32 | 5 | 1720 | 5936 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-22T18:32 | 9 | 1717 | 5915 |
 | 2026-08-22T12:33 | 6 | 1720 | 5906 |
 | 2026-08-22T06:33 | 1 | 1723 | 5902 |
-| 2026-08-22T00:35 | 1 | 1723 | 5901 |
 
 ---
 

@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5971  
-**Last updated:** 2026-08-25T06:34:57.279Z
+**Total packages tracked:** 5977  
+**Last updated:** 2026-08-25T12:34:41.398Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [vizuh/clicktrail-filament](https://github.com/vizuh/clicktrail-filament) | 0 | ClickTrail for Filament - settings, diagnostics, event mapping, attribution dash... |
+| [expertsystemsau/laravel-conditional-requests](https://github.com/expertsystemsau/laravel-conditional-requests) | 0 | HTTP conditional requests for Laravel — ETag, Last-Modified, 304 Not Modified, a... |
+| [marekmiklusek/laravel-package-skeleton](https://github.com/marekmiklusek/laravel-package-skeleton) | 0 | A skeleton for creating new Laravel packages |
+| [gusmanwidodo/auth-kit](https://github.com/gusmanwidodo/auth-kit) | 0 | Plugin-based authentication framework for Laravel, inspired by better-auth. Smal... |
+| [MrPunyapal/client-validation-livewire](https://github.com/MrPunyapal/client-validation-livewire) | 0 | Livewire integration for Laravel Client Validation (subtree split of packages/ph... |
+| [AlisherNPortfolio/laravel-antibot](https://github.com/AlisherNPortfolio/laravel-antibot) | 0 | Antibot package to protect web project from bots for laravel framework |
 | [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 |  |
 | [adilbekes/filament-auto-translatable](https://github.com/adilbekes/filament-auto-translatable) | 0 | Filament Auto Translatable is a Laravel package for Filament that automatically ... |
 | [LaraPlugins/doctor-health](https://github.com/LaraPlugins/doctor-health) | 5 | Laravel Doctor diagnostic that checks your Composer dependencies against the htt... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [liberusoftware/module-liberu-business-workflow-reconciliation](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation) | 0 | This package is the authoritative, provider-neutral implementation of Business W... |
 | [liberusoftware/module-liberu-platform-orchestration-livewire](https://github.com/liberusoftware/module-liberu-platform-orchestration-livewire) | 0 | This optional Livewire 4 package presents exactly one new Liberu cross-product m... |
 | [liberusoftware/module-liberu-platform-orchestration-filament](https://github.com/liberusoftware/module-liberu-platform-orchestration-filament) | 0 | This optional Filament 5 package presents exactly one new Liberu cross-product m... |
-| [liberusoftware/module-liberu-platform-orchestration-api](https://github.com/liberusoftware/module-liberu-platform-orchestration-api) | 0 | This optional API package presents exactly one new Liberu cross-product module. ... |
-| [liberusoftware/module-liberu-executive-insights-livewire](https://github.com/liberusoftware/module-liberu-executive-insights-livewire) | 0 | This optional Livewire 4 package presents exactly one new Liberu cross-product m... |
-| [liberusoftware/module-liberu-executive-insights-filament](https://github.com/liberusoftware/module-liberu-executive-insights-filament) | 0 | This optional Filament 5 package presents exactly one new Liberu cross-product m... |
-| [liberusoftware/module-liberu-executive-insights-api](https://github.com/liberusoftware/module-liberu-executive-insights-api) | 0 | This optional API package presents exactly one new Liberu cross-product module. ... |
-| [liberusoftware/module-liberu-business-workflow-reconciliation-livewire](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-livewire) | 0 | This optional Livewire 4 package presents exactly one new Liberu cross-product m... |
-| [liberusoftware/module-liberu-business-workflow-reconciliation-filament](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-filament) | 0 | This optional Filament 5 package presents exactly one new Liberu cross-product m... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 188 | 2026-08-25 | Full genealogy and family tree building application using La... |
-| [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | 163 | 2026-08-25 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [ziming/laravel-myinfo-sg](https://github.com/ziming/laravel-myinfo-sg) | 16 | 2026-08-25 | PHP Laravel Singpass MyInfo (Singapore) Package / Library |
-| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 122 | 2026-08-25 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [magetechsol/laravel-packages](https://github.com/magetechsol/laravel-packages) | 0 | 2026-08-25 | Official MageTech Solutions Laravel Packages — production-re... |
-| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 111 | 2026-08-25 | Real Estate / Estate Agent, solution for your Property Agenc... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-25 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-25 | Laravel USPS Package to integrate USPS Address |
-| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-08-25 |  |
-| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 | 2026-08-25 |  |
-| [SameOldNick/laravel-ntfy](https://github.com/SameOldNick/laravel-ntfy) | 0 | 2026-08-25 | A Laravel package for integrating ntfy with your application... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-08-25 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-25 | A practical work management information system built with La... |
-| [adilbekes/filament-auto-translatable](https://github.com/adilbekes/filament-auto-translatable) | 0 | 2026-08-25 | Filament Auto Translatable is a Laravel package for Filament... |
-| [LavioDev/eam-mes-package](https://github.com/LavioDev/eam-mes-package) | 6 | 2026-08-25 | A lightweight Laravel package with database migrations and r... |
-| [laraditz/xendit](https://github.com/laraditz/xendit) | 0 | 2026-08-25 | Laravel package for interacting with Xendit API. |
-| [edi-prasetyo/indonesia-location](https://github.com/edi-prasetyo/indonesia-location) | 1 | 2026-08-25 | package Laravel untuk menyediakan data wilayah administratif... |
-| [promptphp/deck](https://github.com/promptphp/deck) | 108 | 2026-08-25 | A Laravel package for versioned AI prompt management with va... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 160 | 2026-08-25 | Provides email verification on the go. |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 79 | 2026-08-25 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [marekmiklusek/laravel-package-skeleton](https://github.com/marekmiklusek/laravel-package-skeleton) | 0 | 2026-08-25 | A skeleton for creating new Laravel packages |
+| [Baspa/laravel-timezones](https://github.com/Baspa/laravel-timezones) | 2 | 2026-08-25 | This package offers a convenient solution for Laravel develo... |
+| [schaefersoft/laravel-llms-txt](https://github.com/schaefersoft/laravel-llms-txt) | 7 | 2026-08-25 | Automatically generate llms.txt and llms-full.txt files for ... |
+| [gusmanwidodo/auth-kit](https://github.com/gusmanwidodo/auth-kit) | 0 | 2026-08-25 | Plugin-based authentication framework for Laravel, inspired ... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-25 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-08-25 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-25 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-25 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-25 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-25 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [gordon-fcl/housekeeping](https://github.com/gordon-fcl/housekeeping) | 0 | 2026-08-25 | A laravel package that fetches GH issues with a set tag and ... |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-08-25 | Main Webampp laravel package for GEOBOX 2.0 |
+| [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 10 | 2026-08-25 | Laravel package providing client-side validation with Alpine... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-08-25 | The NativePHP website |
+| [vizuh/clicktrail-filament](https://github.com/vizuh/clicktrail-filament) | 0 | 2026-08-25 | ClickTrail for Filament - settings, diagnostics, event mappi... |
+| [vizuh/clicktrail-laravel](https://github.com/vizuh/clicktrail-laravel) | 0 | 2026-08-25 | ClickTrail Laravel package - capture middleware, queued deli... |
+| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 44 | 2026-08-25 | Laravel için Mutlucell SMS Kütüphanesi |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-25 | The Moox Project - Packages for Filament and Laravel |
+| [expertsystemsau/laravel-conditional-requests](https://github.com/expertsystemsau/laravel-conditional-requests) | 0 | 2026-08-25 | HTTP conditional requests for Laravel — ETag, Last-Modified,... |
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 6 | 2026-08-25 | PHP and Laravel Cursor rules — coding standards, testing, an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-25T12:34 | 6 | 1725 | 5977 |
 | 2026-08-25T06:34 | 3 | 1729 | 5971 |
 | 2026-08-25T00:35 | 4 | 1728 | 5968 |
 | 2026-08-24T18:34 | 15 | 1717 | 5964 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-23T18:32 | 5 | 1720 | 5936 |
 | 2026-08-23T12:33 | 6 | 1720 | 5931 |
 | 2026-08-23T06:33 | 5 | 1719 | 5925 |
-| 2026-08-23T00:35 | 5 | 1719 | 5920 |
 
 ---
 

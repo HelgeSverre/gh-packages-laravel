@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5968  
-**Last updated:** 2026-08-25T00:35:28.067Z
+**Total packages tracked:** 5971  
+**Last updated:** 2026-08-25T06:34:57.279Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 |  |
+| [adilbekes/filament-auto-translatable](https://github.com/adilbekes/filament-auto-translatable) | 0 | Filament Auto Translatable is a Laravel package for Filament that automatically ... |
+| [LaraPlugins/doctor-health](https://github.com/LaraPlugins/doctor-health) | 5 | Laravel Doctor diagnostic that checks your Composer dependencies against the htt... |
 | [CesarObedFL/service_tickets](https://github.com/CesarObedFL/service_tickets) | 0 | web project to create tickets built with laravel/livewire, bootstrap5 y soft-ui-... |
 | [vizuh/clicktrail-laravel](https://github.com/vizuh/clicktrail-laravel) | 0 | ClickTrail Laravel package - capture middleware, queued delivery, Blade directiv... |
 | [gyvex-com/markdown-docs](https://github.com/gyvex-com/markdown-docs) | 0 | Laravel package to easily build documentation for your Laravel project |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [liberusoftware/module-liberu-executive-insights-api](https://github.com/liberusoftware/module-liberu-executive-insights-api) | 0 | This optional API package presents exactly one new Liberu cross-product module. ... |
 | [liberusoftware/module-liberu-business-workflow-reconciliation-livewire](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-livewire) | 0 | This optional Livewire 4 package presents exactly one new Liberu cross-product m... |
 | [liberusoftware/module-liberu-business-workflow-reconciliation-filament](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-filament) | 0 | This optional Filament 5 package presents exactly one new Liberu cross-product m... |
-| [liberusoftware/module-liberu-business-workflow-reconciliation-api](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-api) | 0 | This optional API package presents exactly one new Liberu cross-product module. ... |
-| [spezia/crypto-api-processor](https://github.com/spezia/crypto-api-processor) | 3 | This package is an unofficial integration of the BlockBee cryptocurrency payment... |
-| [magetechsol/laravel-packages](https://github.com/magetechsol/laravel-packages) | 0 | Official MageTech Solutions Laravel Packages — production-ready developer tools ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -44,7 +44,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 463 | Add kanban boards to your Filament pages |
-| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 459 | A simple package to help integrate Cloudflare Turnstile. |
+| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 460 | A simple package to help integrate Cloudflare Turnstile. |
 | [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 455 | Open Source Laravel CRM Package |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/filament-newsletter](https://github.com/jeffersongoncalves/filament-newsletter) | 2 | 2026-08-25 | Filament plugin for composing, scheduling and sending double... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-08-25 | Magic Framework Laravel backend starter package. |
-| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-08-25 | PHP / Laravel packages used by Visns Studio |
-| [njoguamos/laravel-paystack](https://github.com/njoguamos/laravel-paystack) | 1 | 2026-08-24 | Laravel Paystack is a Laravel package that integrates the Pa... |
-| [Power-Components/turbine](https://github.com/Power-Components/turbine) | 1 | 2026-08-24 | Framework-agnostic data engine for Laravel (search, filters,... |
-| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-08-24 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-08-24 | Type-safe fluent validation rule builders for Laravel, plus ... |
-| [vizuh/clicktrail-laravel](https://github.com/vizuh/clicktrail-laravel) | 0 | 2026-08-24 | ClickTrail Laravel package - capture middleware, queued deli... |
-| [ojbaeza/station](https://github.com/ojbaeza/station) | 6 | 2026-08-24 | A Laravel Horizon alternative with RabbitMQ support, multi-d... |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 47 | 2026-08-24 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [laraditz/xendit](https://github.com/laraditz/xendit) | 0 | 2026-08-24 | Laravel package for interacting with Xendit API. |
-| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 122 | 2026-08-24 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 111 | 2026-08-24 | Real Estate / Estate Agent, solution for your Property Agenc... |
-| [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | 163 | 2026-08-24 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [zerocool-network/chatbox](https://github.com/zerocool-network/chatbox) | 0 | 2026-08-24 | Headless Laravel AI chat package. Database Q&A via laravel/a... |
-| [morcen/laravel-otp-generator](https://github.com/morcen/laravel-otp-generator) | 0 | 2026-08-24 | Generate OTP for your Laravel packages |
-| [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 188 | 2026-08-24 | Full genealogy and family tree building application using La... |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 4 | 2026-08-24 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
-| [CesarObedFL/service_tickets](https://github.com/CesarObedFL/service_tickets) | 0 | 2026-08-24 | web project to create tickets built with laravel/livewire, b... |
-| [liberusoftware/module-liberu-platform-orchestration-livewire](https://github.com/liberusoftware/module-liberu-platform-orchestration-livewire) | 0 | 2026-08-24 | This optional Livewire 4 package presents exactly one new Li... |
+| [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 188 | 2026-08-25 | Full genealogy and family tree building application using La... |
+| [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | 163 | 2026-08-25 | Accounting application written in Laravel 13 / PHP 8.5 using... |
+| [ziming/laravel-myinfo-sg](https://github.com/ziming/laravel-myinfo-sg) | 16 | 2026-08-25 | PHP Laravel Singpass MyInfo (Singapore) Package / Library |
+| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 122 | 2026-08-25 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [magetechsol/laravel-packages](https://github.com/magetechsol/laravel-packages) | 0 | 2026-08-25 | Official MageTech Solutions Laravel Packages — production-re... |
+| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 111 | 2026-08-25 | Real Estate / Estate Agent, solution for your Property Agenc... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-25 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-25 | Laravel USPS Package to integrate USPS Address |
+| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-08-25 |  |
+| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 | 2026-08-25 |  |
+| [SameOldNick/laravel-ntfy](https://github.com/SameOldNick/laravel-ntfy) | 0 | 2026-08-25 | A Laravel package for integrating ntfy with your application... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-08-25 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-25 | A practical work management information system built with La... |
+| [adilbekes/filament-auto-translatable](https://github.com/adilbekes/filament-auto-translatable) | 0 | 2026-08-25 | Filament Auto Translatable is a Laravel package for Filament... |
+| [LavioDev/eam-mes-package](https://github.com/LavioDev/eam-mes-package) | 6 | 2026-08-25 | A lightweight Laravel package with database migrations and r... |
+| [laraditz/xendit](https://github.com/laraditz/xendit) | 0 | 2026-08-25 | Laravel package for interacting with Xendit API. |
+| [edi-prasetyo/indonesia-location](https://github.com/edi-prasetyo/indonesia-location) | 1 | 2026-08-25 | package Laravel untuk menyediakan data wilayah administratif... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 108 | 2026-08-25 | A Laravel package for versioned AI prompt management with va... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 160 | 2026-08-25 | Provides email verification on the go. |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 79 | 2026-08-25 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-25T06:34 | 3 | 1729 | 5971 |
 | 2026-08-25T00:35 | 4 | 1728 | 5968 |
 | 2026-08-24T18:34 | 15 | 1717 | 5964 |
 | 2026-08-24T12:34 | 4 | 1723 | 5949 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-23T12:33 | 6 | 1720 | 5931 |
 | 2026-08-23T06:33 | 5 | 1719 | 5925 |
 | 2026-08-23T00:35 | 5 | 1719 | 5920 |
-| 2026-08-22T18:32 | 9 | 1717 | 5915 |
 
 ---
 

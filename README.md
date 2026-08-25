@@ -2,16 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 5977  
-**Last updated:** 2026-08-25T12:34:41.398Z
+**Total packages tracked:** 5982  
+**Last updated:** 2026-08-25T18:34:25.849Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [soorintec/Soorin_Inventory](https://github.com/soorintec/Soorin_Inventory) | 0 | Soorin Inventory — multilingual (fa/en/ar/de/fr/it/ru/zh) Laravel 12 + Filament ... |
+| [phoenix1331/laravel-ai-quiz-app](https://github.com/phoenix1331/laravel-ai-quiz-app) | 0 |  A Laravel 12 quiz application powered by AI - built with Livewire, Alpine.js, a... |
+| [ajthinking/archetype](https://github.com/ajthinking/archetype) | 272 | Edit PHP files programmatically |
+| [fthkrtl/package-builder-assignment](https://github.com/fthkrtl/package-builder-assignment) | 0 | Travel package builder with a four-step wizard. Laravel | React | SQLite |
+| [live-controls/autoaddress](https://github.com/live-controls/autoaddress) | 0 | Autofill Address Package for Laravel Livewire |
 | [vizuh/clicktrail-filament](https://github.com/vizuh/clicktrail-filament) | 0 | ClickTrail for Filament - settings, diagnostics, event mapping, attribution dash... |
 | [expertsystemsau/laravel-conditional-requests](https://github.com/expertsystemsau/laravel-conditional-requests) | 0 | HTTP conditional requests for Laravel — ETag, Last-Modified, 304 Not Modified, a... |
-| [marekmiklusek/laravel-package-skeleton](https://github.com/marekmiklusek/laravel-package-skeleton) | 0 | A skeleton for creating new Laravel packages |
+| [marekmiklusek/laravel-package-skeleton](https://github.com/marekmiklusek/laravel-package-skeleton) | 1 | Laravel package skeleton with Pest, PHPStan, Rector and Pint wired up, and 100% ... |
 | [gusmanwidodo/auth-kit](https://github.com/gusmanwidodo/auth-kit) | 0 | Plugin-based authentication framework for Laravel, inspired by better-auth. Smal... |
 | [MrPunyapal/client-validation-livewire](https://github.com/MrPunyapal/client-validation-livewire) | 0 | Livewire integration for Laravel Client Validation (subtree split of packages/ph... |
 | [AlisherNPortfolio/laravel-antibot](https://github.com/AlisherNPortfolio/laravel-antibot) | 0 | Antibot package to protect web project from bots for laravel framework |
@@ -19,16 +24,11 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [adilbekes/filament-auto-translatable](https://github.com/adilbekes/filament-auto-translatable) | 0 | Filament Auto Translatable is a Laravel package for Filament that automatically ... |
 | [LaraPlugins/doctor-health](https://github.com/LaraPlugins/doctor-health) | 5 | Laravel Doctor diagnostic that checks your Composer dependencies against the htt... |
 | [CesarObedFL/service_tickets](https://github.com/CesarObedFL/service_tickets) | 0 | web project to create tickets built with laravel/livewire, bootstrap5 y soft-ui-... |
-| [vizuh/clicktrail-laravel](https://github.com/vizuh/clicktrail-laravel) | 0 | ClickTrail Laravel package - capture middleware, queued delivery, Blade directiv... |
+| [vizuh/clicktrail-laravel](https://github.com/vizuh/clicktrail-laravel) | 1 | ClickTrail Laravel package - capture middleware, queued delivery, Blade directiv... |
 | [gyvex-com/markdown-docs](https://github.com/gyvex-com/markdown-docs) | 0 | Laravel package to easily build documentation for your Laravel project |
 | [emoop/easyco](https://github.com/emoop/easyco) | 0 | EasyCo is a modular Laravel commerce platform. Rather than one monolithic applic... |
 | [komma-softhouse/skeleton-plugin](https://github.com/komma-softhouse/skeleton-plugin) | 1 | 🚀 Skeleton template for building Filament 5.x plugins | Komma SoftHouse plugin ... |
 | [Tklaversma/FlexPDF](https://github.com/Tklaversma/FlexPDF) | 1 | HTML to PDF for Laravel, in pure PHP, with a modern CSS layout engine. Flexbox, ... |
-| [liberusoftware/module-liberu-executive-insights](https://github.com/liberusoftware/module-liberu-executive-insights) | 0 | This package is the authoritative, provider-neutral implementation of Executive ... |
-| [liberusoftware/module-liberu-platform-orchestration](https://github.com/liberusoftware/module-liberu-platform-orchestration) | 0 | This package is the authoritative, provider-neutral implementation of Platform O... |
-| [liberusoftware/module-liberu-business-workflow-reconciliation](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation) | 0 | This package is the authoritative, provider-neutral implementation of Business W... |
-| [liberusoftware/module-liberu-platform-orchestration-livewire](https://github.com/liberusoftware/module-liberu-platform-orchestration-livewire) | 0 | This optional Livewire 4 package presents exactly one new Liberu cross-product m... |
-| [liberusoftware/module-liberu-platform-orchestration-filament](https://github.com/liberusoftware/module-liberu-platform-orchestration-filament) | 0 | This optional Filament 5 package presents exactly one new Liberu cross-product m... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [marekmiklusek/laravel-package-skeleton](https://github.com/marekmiklusek/laravel-package-skeleton) | 0 | 2026-08-25 | A skeleton for creating new Laravel packages |
-| [Baspa/laravel-timezones](https://github.com/Baspa/laravel-timezones) | 2 | 2026-08-25 | This package offers a convenient solution for Laravel develo... |
-| [schaefersoft/laravel-llms-txt](https://github.com/schaefersoft/laravel-llms-txt) | 7 | 2026-08-25 | Automatically generate llms.txt and llms-full.txt files for ... |
-| [gusmanwidodo/auth-kit](https://github.com/gusmanwidodo/auth-kit) | 0 | 2026-08-25 | Plugin-based authentication framework for Laravel, inspired ... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-08-25 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-08-25 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-25 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-25 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-25 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-25 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [gordon-fcl/housekeeping](https://github.com/gordon-fcl/housekeeping) | 0 | 2026-08-25 | A laravel package that fetches GH issues with a set tag and ... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-08-25 | Main Webampp laravel package for GEOBOX 2.0 |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-25 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [thecodezone/filament-mediazone](https://github.com/thecodezone/filament-mediazone) | 0 | 2026-08-25 | A media manager package for Laravel Filament. |
+| [PapaRascal2020/sidekick](https://github.com/PapaRascal2020/sidekick) | 30 | 2026-08-25 | A fluent Laravel package for integrating with OpenAI, Anthro... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-25 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | 2026-08-25 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [Shaykhnazar/hikvision-isapi](https://github.com/Shaykhnazar/hikvision-isapi) | 27 | 2026-08-25 | This is a Laravel package for integrating with Hikvision ISA... |
+| [eXolnet/laravel-emails-confirmation](https://github.com/eXolnet/laravel-emails-confirmation) | 2 | 2026-08-25 | Emails confirmation like Laravel native password resets. |
+| [eXolnet/laravel-bento](https://github.com/eXolnet/laravel-bento) | 7 | 2026-08-25 | Organize feature launches by custom user segments. |
+| [eXolnet/laravel-format](https://github.com/eXolnet/laravel-format) | 2 | 2026-08-25 | [WIP] Utility class to format values for display. |
+| [jvjvjv/CodeTalker](https://github.com/jvjvjv/CodeTalker) | 0 | 2026-08-25 | Multi-provider AI communications package for Laravel |
+| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-08-25 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 6 | 2026-08-25 | A PHPStan extension for analysis of Laravel applications and... |
+| [soorintec/Soorin_Inventory](https://github.com/soorintec/Soorin_Inventory) | 0 | 2026-08-25 | Soorin Inventory — multilingual (fa/en/ar/de/fr/it/ru/zh) La... |
+| [eXolnet/skeleton-laravel](https://github.com/eXolnet/skeleton-laravel) | 3 | 2026-08-25 | A skeleton repository for eXolnet's Laravel packages. |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-08-25 | A Laravel package to interact with the Studizz API |
+| [salahhusa9/laravel-menu](https://github.com/salahhusa9/laravel-menu) | 16 | 2026-08-25 | This is a useful package for building menus in your Laravel ... |
+| [janecodelife/livewire-secure-properties](https://github.com/janecodelife/livewire-secure-properties) | 2 | 2026-08-25 | secure your livewire 4 properties with zero configs and void... |
+| [komma-softhouse/skeleton-plugin](https://github.com/komma-softhouse/skeleton-plugin) | 1 | 2026-08-25 | 🚀 Skeleton template for building Filament 5.x plugins | Kom... |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 185 | 2026-08-25 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
 | [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 10 | 2026-08-25 | Laravel package providing client-side validation with Alpine... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-08-25 | The NativePHP website |
-| [vizuh/clicktrail-filament](https://github.com/vizuh/clicktrail-filament) | 0 | 2026-08-25 | ClickTrail for Filament - settings, diagnostics, event mappi... |
-| [vizuh/clicktrail-laravel](https://github.com/vizuh/clicktrail-laravel) | 0 | 2026-08-25 | ClickTrail Laravel package - capture middleware, queued deli... |
-| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 44 | 2026-08-25 | Laravel için Mutlucell SMS Kütüphanesi |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-25 | The Moox Project - Packages for Filament and Laravel |
-| [expertsystemsau/laravel-conditional-requests](https://github.com/expertsystemsau/laravel-conditional-requests) | 0 | 2026-08-25 | HTTP conditional requests for Laravel — ETag, Last-Modified,... |
-| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 6 | 2026-08-25 | PHP and Laravel Cursor rules — coding standards, testing, an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-25T18:34 | 5 | 1725 | 5982 |
 | 2026-08-25T12:34 | 6 | 1725 | 5977 |
 | 2026-08-25T06:34 | 3 | 1729 | 5971 |
 | 2026-08-25T00:35 | 4 | 1728 | 5968 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-24T00:35 | 5 | 1719 | 5940 |
 | 2026-08-23T18:32 | 5 | 1720 | 5936 |
 | 2026-08-23T12:33 | 6 | 1720 | 5931 |
-| 2026-08-23T06:33 | 5 | 1719 | 5925 |
 
 ---
 

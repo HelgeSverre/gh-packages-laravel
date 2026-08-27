@@ -2,14 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6011  
-**Last updated:** 2026-08-27T02:02:54.437Z
+**Total packages tracked:** 6014  
+**Last updated:** 2026-08-27T09:29:44.525Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [bcanata/dernek-yonetim](https://github.com/bcanata/dernek-yonetim) | 0 | Türkiye'deki dernekler için üye, aidat, defter ve beyanname yönetimi. DERBİS uyu... |
+| [OpenSID/Laravel-Filemanager](https://github.com/OpenSID/Laravel-Filemanager) | 0 | Storage/Flysystem-backed Laravel file manager package, derived from Responsive F... |
+| [supplycart/money](https://github.com/supplycart/money) | 0 | Helper package to interact with money values |
+| [ylinbo2013/recaptcha](https://github.com/ylinbo2013/recaptcha) | 0 | Google ReCaptcha V3 package for Laravel |
+| [bcanata/dernek-yonetim](https://github.com/bcanata/dernek-yonetim) | 1 | Türkiye'deki dernekler için üye, aidat, defter ve beyanname yönetimi. DERBİS uyu... |
 | [Grazulex/laravel-atlas](https://github.com/Grazulex/laravel-atlas) | 22 | 🗺️ Laravel Atlas scans your Laravel project to generate a complete, structured ... |
 | [hampel/synergy-wholesale-laravel](https://github.com/hampel/synergy-wholesale-laravel) | 1 | Synergy Wholesale API wrapper using SoapClient and packaged as a Laravel service... |
 | [stevelacey/laravel-browsable-api](https://github.com/stevelacey/laravel-browsable-api) | 7 | 🍓️Laravel Browsable API is a package for serving human-friendly HTML output whe... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [christopheraseidl/laravel-auto-filer](https://github.com/christopheraseidl/laravel-auto-filer) | 1 | A simple package for automating the organization of uploaded files associated wi... |
 | [Morning-Train/laravel-economic](https://github.com/Morning-Train/laravel-economic) | 2 | Laravel wrapper for the Economic package |
 | [maattss/budget-app](https://github.com/maattss/budget-app) | 0 | Budget app |
-| [seunoseya44-tech/aluminium-fabrication-management-system](https://github.com/seunoseya44-tech/aluminium-fabrication-management-system) | 0 | Laravel 12 platform for an aluminium fabrication, roofing and property business:... |
-| [seunoseya44-tech/x-pharmacy-management-system](https://github.com/seunoseya44-tech/x-pharmacy-management-system) | 0 | Enterprise pharmacy management, POS & healthcare platform: multi-branch inventor... |
-| [seunoseya44-tech/x-bagery-bakery-erp](https://github.com/seunoseya44-tech/x-bagery-bakery-erp) | 0 | A modular bakery ERP, CMS, e-commerce & POS platform for the Nigerian market - L... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [skillbobby/Spiggle-Dynamic-Fields-Core](https://github.com/skillbobby/Spiggle-Dynamic-Fields-Core) | 2 | 2026-08-27 | Plug-and-play Laravel/Filament package that attaches custom ... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-27 | Utility package for Laravel including Transformable proxies ... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-08-27 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-27 | Laravel package providing polymorphic image management with ... |
+| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-08-27 | Toth is a Laravel package for database backup and snapshot m... |
+| [kpconnell/laravel-jobwarden](https://github.com/kpconnell/laravel-jobwarden) | 24 | 2026-08-27 | A database-backed alternative to Horizon & Laravel Queues — ... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-27 | Local-first personal finance dashboard that resolves cross-a... |
+| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-08-27 | A structured logging package for Laravel that writes logs in... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 65 | 2026-08-27 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 111 | 2026-08-27 | Real Estate / Estate Agent, solution for your Property Agenc... |
+| [ziming/laravel-myinfo-sg](https://github.com/ziming/laravel-myinfo-sg) | 16 | 2026-08-27 | PHP Laravel Singpass MyInfo (Singapore) Package / Library |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-27 | Laravel USPS Package to integrate USPS Address |
+| [Shaykhnazar/hikvision-isapi](https://github.com/Shaykhnazar/hikvision-isapi) | 27 | 2026-08-27 | This is a Laravel package for integrating with Hikvision ISA... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 257 | 2026-08-27 | A live database structure viewer for Laravel that renders yo... |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-08-27 | Laravel Podman brings Podman Quadlet support to your Laravel... |
+| [OpenSID/Laravel-Filemanager](https://github.com/OpenSID/Laravel-Filemanager) | 0 | 2026-08-27 | Storage/Flysystem-backed Laravel file manager package, deriv... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-08-27 | Chief admin package |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-08-27 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-08-27 | Laravel package providing polymorphic reactions (like, love,... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-08-27 | Laravel TOTP package for two-factor authentication with poly... |
 | [hampel/synergy-wholesale-laravel](https://github.com/hampel/synergy-wholesale-laravel) | 1 | 2026-08-27 | Synergy Wholesale API wrapper using SoapClient and packaged ... |
-| [Grazulex/laravel-atlas](https://github.com/Grazulex/laravel-atlas) | 22 | 2026-08-27 | 🗺️ Laravel Atlas scans your Laravel project to generate a c... |
-| [sopheaksem9999/sp-jwt-auth](https://github.com/sopheaksem9999/sp-jwt-auth) | 1 | 2026-08-27 | SP JWT Auth Package JWT Authentication Package for Laravel |
-| [CesarObedFL/service_tickets](https://github.com/CesarObedFL/service_tickets) | 0 | 2026-08-27 | web project to create tickets built with laravel/livewire, b... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 371 | 2026-08-27 | The official Laravel Nightwatch package. |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 4 | 2026-08-27 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-08-27 | Laravel-based API for storing sensor data from distributed n... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-08-27 | Laravel package providing AI-powered search with Pagefind. D... |
-| [rxcod9/joy-voyager-api-laravel-demo](https://github.com/rxcod9/joy-voyager-api-laravel-demo) | 5 | 2026-08-27 | Joy VoyagerApi Laravel Demo shows integration of Joy Voyager... |
-| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-08-27 | Laravel user impersonation with scoped modes, audit trails, ... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-08-27 | Runtime base library for building Laravel packages: fluent P... |
-| [laractrl/controlled](https://github.com/laractrl/controlled) | 3 | 2026-08-27 | Secure Your Right After Delivered Your web app Before they c... |
-| [stevelacey/laravel-browsable-api](https://github.com/stevelacey/laravel-browsable-api) | 7 | 2026-08-27 | 🍓️Laravel Browsable API is a package for serving human-frie... |
-| [Power-Components/turbine](https://github.com/Power-Components/turbine) | 1 | 2026-08-27 | Framework-agnostic data engine for Laravel (search, filters,... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-27 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 63 | 2026-08-27 | The ultimate form components kit and custom fields builder f... |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-08-27 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-08-27 | PHP / Laravel packages used by Visns Studio |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-27 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-27T09:29 | 3 | 1725 | 6014 |
 | 2026-08-27T02:02 | 4 | 1726 | 6011 |
 | 2026-08-26T19:03 | 12 | 1718 | 6007 |
 | 2026-08-26T12:35 | 9 | 1723 | 5996 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-25T12:34 | 6 | 1725 | 5977 |
 | 2026-08-25T06:34 | 3 | 1729 | 5971 |
 | 2026-08-25T00:35 | 4 | 1728 | 5968 |
-| 2026-08-24T18:34 | 15 | 1717 | 5964 |
 
 ---
 

@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6028  
-**Last updated:** 2026-08-28T03:26:09.831Z
+**Total packages tracked:** 6031  
+**Last updated:** 2026-08-28T09:33:03.839Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jmmorallos19/jm-laravel-packages](https://github.com/jmmorallos19/jm-laravel-packages) | 0 |  |
+| [Kornelius1/strict](https://github.com/Kornelius1/strict) | 0 | Strict Architecture is a Laravel package designed to enforce a consistent Contro... |
+| [restu-lomboe/datatable-livewire](https://github.com/restu-lomboe/datatable-livewire) | 63 | Laravel Livewire DataTable is an open-source package that helps developers build... |
 | [darwinjcn/inventario-farmacia](https://github.com/darwinjcn/inventario-farmacia) | 0 | Sistema de gestión de inventario y ventas para farmacias. Desarrollado con Larav... |
 | [rahimi-ali/aion](https://github.com/rahimi-ali/aion) | 0 | Laravel package for observing and runtime-managing code-defined scheduled tasks |
 | [oussamamadjmaa/laravel-satim-payment](https://github.com/oussamamadjmaa/laravel-satim-payment) | 1 | Laravel package for SATIM (CIB/Edahabia) payment gateway integration in Algeria. |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [abolaradev/package-skeleton-laravel-livewire](https://github.com/abolaradev/package-skeleton-laravel-livewire) | 0 |  |
 | [OpenSID/Laravel-Filemanager](https://github.com/OpenSID/Laravel-Filemanager) | 0 | Storage/Flysystem-backed Laravel file manager package, derived from Responsive F... |
 | [supplycart/money](https://github.com/supplycart/money) | 0 | Helper package to interact with money values |
-| [ylinbo2013/recaptcha](https://github.com/ylinbo2013/recaptcha) | 0 | Google ReCaptcha V3 package for Laravel |
-| [bcanata/dernek-yonetim](https://github.com/bcanata/dernek-yonetim) | 1 | Türkiye'deki dernekler için üye, aidat, defter ve beyanname yönetimi. DERBİS uyu... |
-| [Grazulex/laravel-atlas](https://github.com/Grazulex/laravel-atlas) | 22 | 🗺️ Laravel Atlas scans your Laravel project to generate a complete, structured ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jamesgifford/auth](https://github.com/jamesgifford/auth) | 1 | 2026-08-28 | Reusable authentication scaffolding for Laravel: prefixed pu... |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 79 | 2026-08-28 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-28 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-08-28 |  |
-| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-08-28 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
-| [NBCS-IT/laravel-sso](https://github.com/NBCS-IT/laravel-sso) | 0 | 2026-08-28 | Integrated SAML2 package for Laravel |
-| [J-T-McC/ai-query-builder](https://github.com/J-T-McC/ai-query-builder) | 5 | 2026-08-28 | A safe layer between AI agents and your Laravel database - a... |
-| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 12 | 2026-08-28 | Move non-secret config out of Laravel's .env into typed, env... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 373 | 2026-08-28 | The official Laravel Nightwatch package. |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-28 | An event sourcing laravel package, complete with all the ess... |
-| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-08-28 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [mtorres-lechuganegra/package-accessmanager](https://github.com/mtorres-lechuganegra/package-accessmanager) | 0 | 2026-08-28 | Este paquete de Laravel proporciona una solución integral pa... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-28 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
 | [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-08-28 | Official Laravel package for seamless ProofAge API integrati... |
-| [vizuh/clicktrail-laravel](https://github.com/vizuh/clicktrail-laravel) | 2 | 2026-08-27 | Carry observed acquisition context through Laravel capture m... |
-| [vizuh/clicktrail-filament](https://github.com/vizuh/clicktrail-filament) | 0 | 2026-08-27 | Filament 3 surfaces for ClickTrail settings, read-only attri... |
-| [darwinjcn/inventario-farmacia](https://github.com/darwinjcn/inventario-farmacia) | 0 | 2026-08-27 | Sistema de gestión de inventario y ventas para farmacias. De... |
-| [mikelmao/laravel-nodeflow](https://github.com/mikelmao/laravel-nodeflow) | 0 | 2026-08-27 | A laravel + inertia + react package to have durable workflow... |
-| [omaralalwi/Gpdf](https://github.com/omaralalwi/Gpdf) | 157 | 2026-08-27 | Gpdf: PHP PDF Generator - HTML to PDF Converter for Laravel ... |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-08-27 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-08-27 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-08-28 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-28 | Laravel USPS Package to integrate USPS Address |
+| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 105 | 2026-08-28 | A package to easily make use of Lucide Icons in your Laravel... |
+| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-08-28 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
+| [mattmy/laravel-file-magic](https://github.com/mattmy/laravel-file-magic) | 0 | 2026-08-28 | Effortless file storage, processing, and management—built ex... |
+| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 1 | 2026-08-28 | One-command Laravel setup, deploy & CI tools |
+| [tarfin-labs/netgsm](https://github.com/tarfin-labs/netgsm) | 43 | 2026-08-28 | netgsm sms package for laravel 8.x, 9.x and 10.x |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | 2026-08-28 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-08-28 | A Laravel package to track revisions of Eloquent models, all... |
+| [bladepdf/bladepdf-laravel](https://github.com/bladepdf/bladepdf-laravel) | 11 | 2026-08-28 | Generate production-ready PDFs from Laravel Blade views with... |
+| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 17 | 2026-08-28 | FilaKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-08-28 | Laravel and Livewire admin panel scaffold for car-rental ope... |
+| [OpenSID/Laravel-Filemanager](https://github.com/OpenSID/Laravel-Filemanager) | 0 | 2026-08-28 | Storage/Flysystem-backed Laravel file manager package, deriv... |
+| [Kovah/laravel-html-meta](https://github.com/Kovah/laravel-html-meta) | 8 | 2026-08-28 | A simple helper to retrieve the HTML meta tags of a website. |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-08-28 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [blob-am/laravel-vcr-am](https://github.com/blob-am/laravel-vcr-am) | 0 | 2026-08-28 | Read-only Composer package mirror of packages/laravel/ from ... |
+| [MohammadZarifiyan/Laravel-Locale-Kit](https://github.com/MohammadZarifiyan/Laravel-Locale-Kit) | 0 | 2026-08-28 | A Laravel package that provides structured locale metadata a... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-28 | An event sourcing laravel package, complete with all the ess... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-28T09:33 | 3 | 1729 | 6031 |
 | 2026-08-28T03:26 | 1 | 1731 | 6028 |
 | 2026-08-27T21:33 | 8 | 1723 | 6028 |
 | 2026-08-27T16:03 | 6 | 1723 | 6020 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-26T12:35 | 9 | 1723 | 5996 |
 | 2026-08-26T06:35 | 1 | 1731 | 5987 |
 | 2026-08-26T00:35 | 4 | 1727 | 5986 |
-| 2026-08-25T18:34 | 5 | 1725 | 5982 |
 
 ---
 

@@ -3,12 +3,13 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 6028  
-**Last updated:** 2026-08-27T21:33:54.620Z
+**Last updated:** 2026-08-28T03:26:09.831Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [darwinjcn/inventario-farmacia](https://github.com/darwinjcn/inventario-farmacia) | 0 | Sistema de gestión de inventario y ventas para farmacias. Desarrollado con Larav... |
 | [rahimi-ali/aion](https://github.com/rahimi-ali/aion) | 0 | Laravel package for observing and runtime-managing code-defined scheduled tasks |
 | [oussamamadjmaa/laravel-satim-payment](https://github.com/oussamamadjmaa/laravel-satim-payment) | 1 | Laravel package for SATIM (CIB/Edahabia) payment gateway integration in Algeria. |
 | [amjdhsan/larascope](https://github.com/amjdhsan/larascope) | 6 | A Laravel package that logs HTTP requests, SQL queries, and memory usage, with a... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ylinbo2013/recaptcha](https://github.com/ylinbo2013/recaptcha) | 0 | Google ReCaptcha V3 package for Laravel |
 | [bcanata/dernek-yonetim](https://github.com/bcanata/dernek-yonetim) | 1 | Türkiye'deki dernekler için üye, aidat, defter ve beyanname yönetimi. DERBİS uyu... |
 | [Grazulex/laravel-atlas](https://github.com/Grazulex/laravel-atlas) | 22 | 🗺️ Laravel Atlas scans your Laravel project to generate a complete, structured ... |
-| [hampel/synergy-wholesale-laravel](https://github.com/hampel/synergy-wholesale-laravel) | 1 | Synergy Wholesale API wrapper using SoapClient and packaged as a Laravel service... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [rahimi-ali/aion](https://github.com/rahimi-ali/aion) | 0 | 2026-08-27 | Laravel package for observing and runtime-managing code-defi... |
-| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-08-27 | A package for Miro |
-| [janecodelife/livewire-secure-properties](https://github.com/janecodelife/livewire-secure-properties) | 2 | 2026-08-27 | secure your livewire 4 properties with zero configs and void... |
-| [whilesmartphp/laravel-user-authentication](https://github.com/whilesmartphp/laravel-user-authentication) | 2 | 2026-08-27 | API-first user authentication for Laravel with support for O... |
-| [oussamamadjmaa/laravel-satim-payment](https://github.com/oussamamadjmaa/laravel-satim-payment) | 1 | 2026-08-27 | Laravel package for SATIM (CIB/Edahabia) payment gateway int... |
-| [jonaaix/laravel-audit-trails](https://github.com/jonaaix/laravel-audit-trails) | 0 | 2026-08-27 | A lightweight Laravel audit-log package |
-| [jonaaix/laravel-easy-backups](https://github.com/jonaaix/laravel-easy-backups) | 1 | 2026-08-27 | A developer-first, fluent and flexible package for creating ... |
-| [nextusro/error-log-monitor](https://github.com/nextusro/error-log-monitor) | 0 | 2026-08-27 | Laravel package for indexing, grouping and monitoring applic... |
-| [amjdhsan/larascope](https://github.com/amjdhsan/larascope) | 6 | 2026-08-27 | A Laravel package that logs HTTP requests, SQL queries, and ... |
-| [marcorieser/statamic-livewire](https://github.com/marcorieser/statamic-livewire) | 23 | 2026-08-27 | A Laravel Livewire integration for Statamic. |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-08-27 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 4 | 2026-08-27 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
-| [mtorres-lechuganegra/package-accessmanager](https://github.com/mtorres-lechuganegra/package-accessmanager) | 0 | 2026-08-27 | Este paquete de Laravel proporciona una solución integral pa... |
-| [diekantankys/strepen](https://github.com/diekantankys/strepen) | 5 | 2026-08-27 | The strepen system of Scouting Die Kantanky's |
-| [pushery/polyslug-for-laravel](https://github.com/pushery/polyslug-for-laravel) | 6 | 2026-08-27 | Polyslug gives Laravel Eloquent models multilingual, polymor... |
-| [metrictower/funnypot-laravel](https://github.com/metrictower/funnypot-laravel) | 0 | 2026-08-27 | A wrapper around funnypot package to integrates easier with ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-27 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-27 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [juaniquillo/laravel-backend-component](https://github.com/juaniquillo/laravel-backend-component) | 0 | 2026-08-27 | A package that facilitates the creation of Laravel component... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-27 | Local-first personal finance dashboard that resolves cross-a... |
+| [jamesgifford/auth](https://github.com/jamesgifford/auth) | 1 | 2026-08-28 | Reusable authentication scaffolding for Laravel: prefixed pu... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 79 | 2026-08-28 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-28 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-08-28 |  |
+| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-08-28 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
+| [NBCS-IT/laravel-sso](https://github.com/NBCS-IT/laravel-sso) | 0 | 2026-08-28 | Integrated SAML2 package for Laravel |
+| [J-T-McC/ai-query-builder](https://github.com/J-T-McC/ai-query-builder) | 5 | 2026-08-28 | A safe layer between AI agents and your Laravel database - a... |
+| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 12 | 2026-08-28 | Move non-secret config out of Laravel's .env into typed, env... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 373 | 2026-08-28 | The official Laravel Nightwatch package. |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-28 | An event sourcing laravel package, complete with all the ess... |
+| [kyledoesdev/spotify-song-ranker](https://github.com/kyledoesdev/spotify-song-ranker) | 9 | 2026-08-28 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [mtorres-lechuganegra/package-accessmanager](https://github.com/mtorres-lechuganegra/package-accessmanager) | 0 | 2026-08-28 | Este paquete de Laravel proporciona una solución integral pa... |
+| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-08-28 | Official Laravel package for seamless ProofAge API integrati... |
+| [vizuh/clicktrail-laravel](https://github.com/vizuh/clicktrail-laravel) | 2 | 2026-08-27 | Carry observed acquisition context through Laravel capture m... |
+| [vizuh/clicktrail-filament](https://github.com/vizuh/clicktrail-filament) | 0 | 2026-08-27 | Filament 3 surfaces for ClickTrail settings, read-only attri... |
+| [darwinjcn/inventario-farmacia](https://github.com/darwinjcn/inventario-farmacia) | 0 | 2026-08-27 | Sistema de gestión de inventario y ventas para farmacias. De... |
+| [mikelmao/laravel-nodeflow](https://github.com/mikelmao/laravel-nodeflow) | 0 | 2026-08-27 | A laravel + inertia + react package to have durable workflow... |
+| [omaralalwi/Gpdf](https://github.com/omaralalwi/Gpdf) | 157 | 2026-08-27 | Gpdf: PHP PDF Generator - HTML to PDF Converter for Laravel ... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-08-27 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-08-27 | A framework-agnostic web UI for editing .env: JSON API and t... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-28T03:26 | 1 | 1731 | 6028 |
 | 2026-08-27T21:33 | 8 | 1723 | 6028 |
 | 2026-08-27T16:03 | 6 | 1723 | 6020 |
 | 2026-08-27T09:29 | 3 | 1725 | 6014 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-26T06:35 | 1 | 1731 | 5987 |
 | 2026-08-26T00:35 | 4 | 1727 | 5986 |
 | 2026-08-25T18:34 | 5 | 1725 | 5982 |
-| 2026-08-25T12:34 | 6 | 1725 | 5977 |
 
 ---
 

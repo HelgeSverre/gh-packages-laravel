@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 6036  
-**Last updated:** 2026-08-29T00:54:43.008Z
+**Last updated:** 2026-08-29T06:38:25.947Z
 
 ## 📦 Recently Discovered
 
@@ -28,7 +28,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [hampel/systemtest](https://github.com/hampel/systemtest) | 0 | Laravel package for testing or troublshooting various subsystems |
 | [metrictower/funnypot-policy](https://github.com/metrictower/funnypot-policy) | 0 | The decision engine for funnypot. Normally not installed directly. use the funny... |
 | [jeffersongoncalves/laravel-favicon](https://github.com/jeffersongoncalves/laravel-favicon) | 2 | Serve a favicon.ico route, browserconfig.xml, and Apple/PNG touch icon head link... |
-| [StoryKode/Krubot](https://github.com/StoryKode/Krubot) | 2 | The Ultimate Laravel DX for building Quantum-Scale bot architectures. One elegan... |
+| [StoryKode/Krubot](https://github.com/StoryKode/Krubot) | 2 | The Ultimate Laravel DX for building Enterprise bot architectures. One elegant c... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-08-29 | Laravel package to handle requests are ensured sent |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-08-29 | The Moox Project - Packages for Filament and Laravel |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 0 | 2026-08-29 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-29 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-29 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-08-29 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-08-28 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-08-28 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-28 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Ikromjon1998/laravel-clipboard-core](https://github.com/Ikromjon1998/laravel-clipboard-core) | 0 | 2026-08-28 | Clipboard capture, deduplication and history engine for Lara... |
-| [tzsk/sms](https://github.com/tzsk/sms) | 319 | 2026-08-28 | Laravel SMS Gateway Integration Package |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 10 | 2026-08-28 | A PHPStan extension for analysis of Laravel applications and... |
-| [edulazaro/larascraper](https://github.com/edulazaro/larascraper) | 13 | 2026-08-28 | Simple Laravel scraping package |
-| [itxshakil/laravel-fast2sms](https://github.com/itxshakil/laravel-fast2sms) | 21 | 2026-08-28 | A robust and simple-to-use Laravel package for sending SMS m... |
-| [itsemon245/laravel-bunny](https://github.com/itsemon245/laravel-bunny) | 6 | 2026-08-28 | Effortlessly integrate bunny CDN’s as a Laravel Storage Driv... |
-| [jeffersongoncalves/mobilekitv4](https://github.com/jeffersongoncalves/mobilekitv4) | 14 | 2026-08-28 | MobileKit starter kit built on Laravel 12.x, Filament 4.x an... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-28 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 1 | 2026-08-28 | One-command Laravel setup, deploy & CI tools |
-| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-08-28 | Type-safe fluent validation rule builders for Laravel, plus ... |
-| [buzkall/laravel-ticktick](https://github.com/buzkall/laravel-ticktick) | 0 | 2026-08-28 | Laravel package to connect to TickTick API v1 |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-08-29 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [RawanD201/filament-spatie-lighthouse](https://github.com/RawanD201/filament-spatie-lighthouse) | 1 | 2026-08-29 | A plugin that integrates spatie/lighthouse-php to run Google... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-29 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-29 | Laravel USPS Package to integrate USPS Address |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-08-29 | Open-source, self-hosted video processing & delivery engine ... |
+| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-08-29 | Laravel GeeTest Captcha for Laravel 9 10 11 |
+| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 245 | 2026-08-29 | form builder for your users, with so many use cases |
+| [anjan-talukdar/laravel-gst-invoice](https://github.com/anjan-talukdar/laravel-gst-invoice) | 0 | 2026-08-29 | A production-ready Laravel package for GST-compliant invoice... |
+| [StoryKode/Krubot](https://github.com/StoryKode/Krubot) | 2 | 2026-08-29 | The Ultimate Laravel DX for building Enterprise bot architec... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 10 | 2026-08-29 | A PHPStan extension for analysis of Laravel applications and... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 65 | 2026-08-29 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-29 | A practical work management information system built with La... |
+| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 | 2026-08-29 |  |
+| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-08-29 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
+| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-08-29 | A collection of Dockerfile examples for various programming ... |
+| [rxcod9/joy-package](https://github.com/rxcod9/joy-package) | 0 | 2026-08-29 |  Joy Laravel Packages scaffolding template  |
+| [codearachnid/check-commerce-laravel-sdk](https://github.com/codearachnid/check-commerce-laravel-sdk) | 0 | 2026-08-29 | Check Commerce is an electronic check and ACH processing pla... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-29 | An event sourcing laravel package, complete with all the ess... |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-08-29 | A Laravel package to interact with the Studizz API |
+| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-08-29 | PHP / Laravel packages used by Visns Studio |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-29T06:38 | 0 | 1730 | 6036 |
 | 2026-08-29T00:54 | 2 | 1728 | 6036 |
 | 2026-08-28T21:35 | 1 | 1729 | 6034 |
 | 2026-08-28T16:31 | 3 | 1728 | 6034 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-27T16:03 | 6 | 1723 | 6020 |
 | 2026-08-27T09:29 | 3 | 1725 | 6014 |
 | 2026-08-27T02:02 | 4 | 1726 | 6011 |
-| 2026-08-26T19:03 | 12 | 1718 | 6007 |
 
 ---
 

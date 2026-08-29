@@ -86,8 +86,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-05-22T07:29:48Z",
-    "updated_at": "2026-08-28T16:57:36Z",
-    "pushed_at": "2026-08-28T16:52:21Z",
+    "updated_at": "2026-08-28T23:45:14Z",
+    "pushed_at": "2026-08-28T23:45:07Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "astrr3/laravel-argonaut-dto": {
@@ -353,8 +353,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-09-13T08:32:59Z",
-    "updated_at": "2026-08-28T16:58:02Z",
-    "pushed_at": "2026-08-28T16:57:28Z",
+    "updated_at": "2026-08-28T23:50:10Z",
+    "pushed_at": "2026-08-28T23:50:05Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "romeran14/laravel-quotes-package": {
@@ -1008,7 +1008,7 @@
     "license": "MIT",
     "created_at": "2022-04-21T10:37:51Z",
     "updated_at": "2026-08-26T13:08:45Z",
-    "pushed_at": "2026-08-27T12:41:30Z",
+    "pushed_at": "2026-08-29T00:40:14Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "thingstelemetry/laravel-traccar": {
@@ -3666,7 +3666,7 @@
     "license": "MIT",
     "created_at": "2016-12-18T07:54:24Z",
     "updated_at": "2026-08-11T06:26:56Z",
-    "pushed_at": "2026-08-28T18:31:03Z",
+    "pushed_at": "2026-08-28T23:34:02Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "bhaidar/laravel-slicktext": {
@@ -6047,7 +6047,7 @@
     "url": "https://github.com/venturedrake/laravel-crm",
     "description": "Open Source Laravel CRM Package",
     "stars": 455,
-    "forks": 173,
+    "forks": 174,
     "topics": [
       "contact-management",
       "contact-management-system",
@@ -7395,7 +7395,7 @@
     "license": "MIT",
     "created_at": "2025-08-11T17:35:30Z",
     "updated_at": "2026-06-12T12:11:30Z",
-    "pushed_at": "2026-08-03T08:25:29Z",
+    "pushed_at": "2026-08-28T23:04:33Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "olegmarko/ddd-generator": {
@@ -21592,8 +21592,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-14T10:09:15Z",
-    "updated_at": "2026-08-28T17:16:56Z",
-    "pushed_at": "2026-08-28T17:15:55Z",
+    "updated_at": "2026-08-29T00:07:52Z",
+    "pushed_at": "2026-08-29T00:07:47Z",
     "discovered_at": "2026-02-14T12:08:14.037Z"
   },
   "zfhassaan/payfast": {
@@ -30381,8 +30381,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-09-28T11:55:23Z",
-    "updated_at": "2026-08-28T16:58:29Z",
-    "pushed_at": "2026-08-28T16:56:03Z",
+    "updated_at": "2026-08-28T23:48:45Z",
+    "pushed_at": "2026-08-28T23:48:40Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "jeffersongoncalves/filament-knowledge-base": {
@@ -32622,8 +32622,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2025-07-11T19:59:58Z",
-    "updated_at": "2026-08-25T20:56:28Z",
-    "pushed_at": "2026-08-28T21:33:42Z",
+    "updated_at": "2026-08-28T22:55:45Z",
+    "pushed_at": "2026-08-28T22:55:45Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "f-codex/apexio": {
@@ -37680,7 +37680,7 @@
     "license": "MIT",
     "created_at": "2020-10-12T07:06:41Z",
     "updated_at": "2026-08-27T07:04:06Z",
-    "pushed_at": "2026-08-28T14:59:51Z",
+    "pushed_at": "2026-08-29T00:41:01Z",
     "discovered_at": "2026-02-19T12:14:44.976Z"
   },
   "laravel-enso/logs": {
@@ -39004,8 +39004,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-21T21:20:11Z",
-    "updated_at": "2026-08-28T17:22:21Z",
-    "pushed_at": "2026-08-28T17:16:59Z",
+    "updated_at": "2026-08-29T00:09:21Z",
+    "pushed_at": "2026-08-29T00:08:49Z",
     "discovered_at": "2026-02-22T00:23:04.244Z"
   },
   "jeffersongoncalves/filament-documentation": {
@@ -43820,8 +43820,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-04-27T00:19:00Z",
-    "updated_at": "2026-08-28T17:22:50Z",
-    "pushed_at": "2026-08-28T17:19:02Z",
+    "updated_at": "2026-08-29T00:10:56Z",
+    "pushed_at": "2026-08-29T00:10:50Z",
     "discovered_at": "2026-03-04T12:11:50.952Z"
   },
   "godrade/laravel-ban": {
@@ -45004,8 +45004,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-23T22:31:09Z",
-    "updated_at": "2026-08-28T17:22:11Z",
-    "pushed_at": "2026-08-28T17:19:24Z",
+    "updated_at": "2026-08-29T00:11:47Z",
+    "pushed_at": "2026-08-29T00:11:24Z",
     "discovered_at": "2026-03-06T18:12:54.134Z"
   },
   "overtrue/laravel-text-guard": {
@@ -74913,7 +74913,7 @@
     "license": "MIT",
     "created_at": "2023-03-17T10:07:22Z",
     "updated_at": "2025-10-06T09:18:19Z",
-    "pushed_at": "2026-08-28T20:00:12Z",
+    "pushed_at": "2026-08-28T21:58:25Z",
     "discovered_at": "2026-05-18T13:15:28.227Z"
   },
   "rxcod9/joy-voyager-package": {
@@ -85709,8 +85709,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-23T17:33:11Z",
-    "updated_at": "2026-08-14T00:37:52Z",
-    "pushed_at": "2026-08-14T00:39:17Z",
+    "updated_at": "2026-08-28T23:15:42Z",
+    "pushed_at": "2026-08-28T23:16:17Z",
     "discovered_at": "2026-06-20T07:21:52.158Z"
   },
   "andydefer/laravel-totp": {
@@ -89422,7 +89422,7 @@
     "name": "trianity/laravel-pdf-viewer",
     "url": "https://github.com/trianity/laravel-pdf-viewer",
     "description": "Secure PDF.js based PDF viewer for Laravel 13, Livewire 4 and Tailwind CSS 4.",
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "topics": [
       "laravel",
@@ -89436,7 +89436,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-28T11:23:23Z",
-    "updated_at": "2026-07-24T12:02:32Z",
+    "updated_at": "2026-08-29T00:26:27Z",
     "pushed_at": "2026-06-29T11:02:51Z",
     "discovered_at": "2026-06-28T12:30:07.173Z"
   },
@@ -95022,8 +95022,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-11T11:11:40Z",
-    "updated_at": "2026-08-28T21:07:54Z",
-    "pushed_at": "2026-08-28T21:07:18Z",
+    "updated_at": "2026-08-28T22:53:45Z",
+    "pushed_at": "2026-08-28T22:53:42Z",
     "discovered_at": "2026-07-12T07:13:34.299Z"
   },
   "capell-app/navigation": {
@@ -95663,8 +95663,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-03-02T14:08:36Z",
-    "updated_at": "2026-07-20T09:58:15Z",
-    "pushed_at": "2026-08-28T15:44:48Z",
+    "updated_at": "2026-08-28T22:33:13Z",
+    "pushed_at": "2026-08-28T22:32:34Z",
     "discovered_at": "2026-07-13T13:09:03.056Z"
   },
   "xamidovnodirjon/crud-generator": {
@@ -100772,7 +100772,7 @@
     "name": "albertoarena/laravel-truss",
     "url": "https://github.com/albertoarena/laravel-truss",
     "description": "A live database structure viewer for Laravel that renders your schema as a scrollable, zoomable ER diagram. Structure only, never data.",
-    "stars": 261,
+    "stars": 262,
     "forks": 9,
     "topics": [
       "database",
@@ -100791,7 +100791,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-22T18:51:08Z",
-    "updated_at": "2026-08-28T06:57:14Z",
+    "updated_at": "2026-08-28T22:16:55Z",
     "pushed_at": "2026-08-28T15:00:41Z",
     "discovered_at": "2026-07-28T00:53:08.670Z"
   },
@@ -102365,7 +102365,7 @@
     "license": "MIT",
     "created_at": "2025-11-08T20:32:21Z",
     "updated_at": "2026-08-01T11:51:43Z",
-    "pushed_at": "2026-08-28T20:49:40Z",
+    "pushed_at": "2026-08-28T22:09:53Z",
     "discovered_at": "2026-08-01T12:40:23.941Z"
   },
   "andydefer/laravel-utils": {
@@ -106977,7 +106977,7 @@
     "license": "MIT",
     "created_at": "2026-08-15T07:38:29Z",
     "updated_at": "2026-08-28T17:17:01Z",
-    "pushed_at": "2026-08-28T17:15:40Z",
+    "pushed_at": "2026-08-28T22:31:52Z",
     "discovered_at": "2026-08-15T12:33:30.648Z"
   },
   "artisan-toolbox/maintainer": {
@@ -107208,7 +107208,7 @@
     "name": "Abdulkader-Safi/filament-atelier",
     "url": "https://github.com/Abdulkader-Safi/filament-atelier",
     "description": "A visual page builder for Laravel and Filament. Code-defined blocks, a live preview that is the real page, bilingual output, server-rendered.",
-    "stars": 9,
+    "stars": 10,
     "forks": 0,
     "topics": [
       "alpinejs",
@@ -107230,7 +107230,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-14T17:21:00Z",
-    "updated_at": "2026-08-25T06:47:16Z",
+    "updated_at": "2026-08-28T22:14:48Z",
     "pushed_at": "2026-08-25T06:48:29Z",
     "discovered_at": "2026-08-16T00:35:30.664Z"
   },
@@ -108810,7 +108810,7 @@
     "name": "HPWebdeveloper/laravel-env-settings",
     "url": "https://github.com/HPWebdeveloper/laravel-env-settings",
     "description": "Move non-secret config out of Laravel's .env into typed, environment-aware PHP classes. Resolves automatically from APP_ENV, with full IDE autocomplete.",
-    "stars": 12,
+    "stars": 13,
     "forks": 0,
     "topics": [
       "config",
@@ -108828,7 +108828,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-20T02:48:57Z",
-    "updated_at": "2026-08-28T02:09:32Z",
+    "updated_at": "2026-08-29T00:18:48Z",
     "pushed_at": "2026-08-28T16:46:10Z",
     "discovered_at": "2026-08-21T00:35:35.474Z"
   },
@@ -109840,8 +109840,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-23T18:29:26Z",
-    "updated_at": "2026-08-28T18:42:24Z",
-    "pushed_at": "2026-08-28T18:38:31Z",
+    "updated_at": "2026-08-28T23:28:49Z",
+    "pushed_at": "2026-08-28T23:28:00Z",
     "discovered_at": "2026-08-24T00:35:21.531Z"
   },
   "cocouvi/xn-orchestrator": {
@@ -111377,8 +111377,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-26T20:03:11Z",
-    "updated_at": "2026-08-28T18:29:20Z",
-    "pushed_at": "2026-08-28T18:24:55Z",
+    "updated_at": "2026-08-28T21:42:26Z",
+    "pushed_at": "2026-08-28T21:42:16Z",
     "discovered_at": "2026-08-27T16:03:38.647Z"
   },
   "andydefer/laravel-reports": {
@@ -111793,5 +111793,45 @@
     "updated_at": "2026-08-28T21:33:38Z",
     "pushed_at": "2026-08-01T20:36:52Z",
     "discovered_at": "2026-08-28T21:35:16.251Z"
+  },
+  "ikromjon1998/laravel-clipboard-core": {
+    "name": "Ikromjon1998/laravel-clipboard-core",
+    "url": "https://github.com/Ikromjon1998/laravel-clipboard-core",
+    "description": "Clipboard capture, deduplication and history engine for Laravel — the UI-free package behind laravel-clipboard",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "clipboard",
+      "clipboard-manager",
+      "laravel",
+      "laravel-package",
+      "nativephp",
+      "php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-08-28T22:54:13Z",
+    "updated_at": "2026-08-28T23:39:27Z",
+    "pushed_at": "2026-08-28T23:39:05Z",
+    "discovered_at": "2026-08-29T00:54:42.968Z"
+  },
+  "itsemon245/laravel-bunny": {
+    "name": "itsemon245/laravel-bunny",
+    "url": "https://github.com/itsemon245/laravel-bunny",
+    "description": "Effortlessly integrate bunny CDN’s as a Laravel Storage Driver to work smoothly with the laravel ecosystem.",
+    "stars": 6,
+    "forks": 0,
+    "topics": [
+      "bunnycdn",
+      "laravel",
+      "laravel-package",
+      "storage"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-01-04T07:01:51Z",
+    "updated_at": "2026-08-28T23:02:26Z",
+    "pushed_at": "2026-08-28T23:02:12Z",
+    "discovered_at": "2026-08-29T00:54:42.971Z"
   }
 }

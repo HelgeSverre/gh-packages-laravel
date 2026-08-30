@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6047  
-**Last updated:** 2026-08-30T01:06:12.052Z
+**Total packages tracked:** 6050  
+**Last updated:** 2026-08-30T06:39:52.065Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [saifulislam07/Reusable_Laravel_Vue_Admin_Panel_Package-RLAPP](https://github.com/saifulislam07/Reusable_Laravel_Vue_Admin_Panel_Package-RLAPP) | 0 |  |
+| [dallanj/pinia-hydrate](https://github.com/dallanj/pinia-hydrate) | 0 | Explicitly hydrate Pinia stores from Laravel, a versioned JSON envelope, a Compo... |
+| [mixudev/Package_LaravelTimezone](https://github.com/mixudev/Package_LaravelTimezone) | 0 |  |
 | [jeffersongoncalves/filament-faq](https://github.com/jeffersongoncalves/filament-faq) | 1 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-faq — manage FAQ categor... |
 | [Synerdy/laravel-inspector](https://github.com/Synerdy/laravel-inspector) | 0 | Tells you whether a Laravel app is still a clean install, and lists every file t... |
 | [jeffersongoncalves/laravel-how-it-works](https://github.com/jeffersongoncalves/laravel-how-it-works) | 1 | A Laravel package for managing 'how it works' steps with translatable titles and... |
@@ -20,15 +23,12 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [route-forge/route-forge-laravel](https://github.com/route-forge/route-forge-laravel) | 0 | Laravel 命名路由的分级懒加载后端：路由扫描、tier 分配（->tier() / group / config / classifier）、元信息端点、... |
 | [padosoft/laravel-routines-contracts](https://github.com/padosoft/laravel-routines-contracts) | 1 | Shared contracts for padosoft/laravel-routines — the vocabulary a package needs ... |
 | [hawkiq/laravel-psnapi](https://github.com/hawkiq/laravel-psnapi) | 0 | A Laravel package to interact with PlayStation Network APIs and retrieve trophy ... |
-| [itsemon245/laravel-bunny](https://github.com/itsemon245/laravel-bunny) | 6 | Effortlessly integrate bunny CDN’s as a Laravel Storage Driver to work smoothly ... |
+| [itsemon245/laravel-bunny](https://github.com/itsemon245/laravel-bunny) | 7 | Effortlessly integrate bunny CDN’s as a Laravel Storage Driver to work smoothly ... |
 | [Ikromjon1998/laravel-clipboard-core](https://github.com/Ikromjon1998/laravel-clipboard-core) | 0 | Clipboard capture, deduplication and history engine for Laravel — the UI-free pa... |
 | [levilabs-dev/laravel-fastpay](https://github.com/levilabs-dev/laravel-fastpay) | 0 | Modern Laravel SDK for FastPay Iraq — payment gateway, QR vending & refunds with... |
 | [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | Code base for the Einundzwanzig Portal — Bitcoin meetups, courses and library fo... |
 | [giovascript99/cyberpresto](https://github.com/giovascript99/cyberpresto) | 0 | Portale di annunci in Laravel 12: pubblicazione con moderazione dei contenuti ed... |
 | [edmir-kasapi/live-datatable](https://github.com/edmir-kasapi/live-datatable) | 0 | My first package release, a Laravel LiveWire data table component which can be u... |
-| [jmmorallos19/jm-laravel-packages](https://github.com/jmmorallos19/jm-laravel-packages) | 0 |  |
-| [Kornelius1/strict](https://github.com/Kornelius1/strict) | 0 | Strict Architecture is a Laravel package designed to enforce a consistent Contro... |
-| [restu-lomboe/datatable-livewire](https://github.com/restu-lomboe/datatable-livewire) | 63 | Laravel Livewire DataTable is an open-source package that helps developers build... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-08-30 | Type-safe fluent validation rule builders for Laravel, plus ... |
+| [Abdulkader-Safi/filament-atelier](https://github.com/Abdulkader-Safi/filament-atelier) | 10 | 2026-08-30 | A visual page builder for Laravel and Filament. Code-defined... |
+| [waterholeforum/core](https://github.com/waterholeforum/core) | 223 | 2026-08-30 | The core Waterhole package. |
+| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-08-30 | Laravel GeeTest Captcha for Laravel 9 10 11 |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-08-30 | Laravel USPS Package to integrate USPS Address |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-08-30 | Simple package for adding directives to show/hide content fr... |
+| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 145 | 2026-08-30 | Create and manage menu in your Filament app. |
+| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 | 2026-08-30 |  |
 | [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-08-30 | A Laravel package to store model attribute translations in a... |
-| [wayofdev/laravel-starter-tpl](https://github.com/wayofdev/laravel-starter-tpl) | 13 | 2026-08-30 | 🚀 Pre-configured Laravel Project Template. Includes PHPUnit... |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 12 | 2026-08-30 | A PHPStan extension for analysis of Laravel applications and... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-30 | A practical work management information system built with La... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-30 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [AfshinEfati/Laravel-Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder) | 2 | 2026-08-30 | Generate complete, test-ready Laravel modules from a single ... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-08-30 | The flexible backbone for your next CMS. This powerful frame... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 4 | 2026-08-30 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-08-30 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [hawkiq/laravel-psnapi](https://github.com/hawkiq/laravel-psnapi) | 0 | 2026-08-30 | A Laravel package to interact with PlayStation Network APIs ... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 79 | 2026-08-30 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [saifulislam07/Reusable_Laravel_Vue_Admin_Panel_Package-RLAPP](https://github.com/saifulislam07/Reusable_Laravel_Vue_Admin_Panel_Package-RLAPP) | 0 | 2026-08-30 |  |
+| [dallanj/pinia-hydrate](https://github.com/dallanj/pinia-hydrate) | 0 | 2026-08-30 | Explicitly hydrate Pinia stores from Laravel, a versioned JS... |
 | [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 96 | 2026-08-30 | Livewire components for AlpineFlow — build interactive flow ... |
-| [padosoft/laravel-routines](https://github.com/padosoft/laravel-routines) | 1 | 2026-08-29 | Scheduled, manual and webhook-triggered agentic routines for... |
-| [bagussatoto/Aplikasi-Data-Penjualan-Laravel-8](https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8) | 74 | 2026-08-29 | Membuat Aplikasi Berbasis Web Data Penjualan Menggunakan Lar... |
-| [rxcod9/joy-voyager-bread-package](https://github.com/rxcod9/joy-voyager-bread-package) | 0 | 2026-08-29 |  Joy Voyager Bread Packages scaffolding template  |
-| [jeffersongoncalves/filament-faq](https://github.com/jeffersongoncalves/filament-faq) | 1 | 2026-08-29 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-faq ... |
-| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-08-29 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
-| [jamesgifford/auth](https://github.com/jamesgifford/auth) | 1 | 2026-08-29 | Reusable authentication scaffolding for Laravel: prefixed pu... |
-| [wireboard/laravel-cmp](https://github.com/wireboard/laravel-cmp) | 2 | 2026-08-29 | WireBoard.io consent management platform for Laravel with GA... |
-| [Synerdy/laravel-inspector](https://github.com/Synerdy/laravel-inspector) | 0 | 2026-08-29 | Tells you whether a Laravel app is still a clean install, an... |
-| [jeffersongoncalves/laravel-how-it-works](https://github.com/jeffersongoncalves/laravel-how-it-works) | 1 | 2026-08-29 | A Laravel package for managing 'how it works' steps with tra... |
-| [soorintec/Soorin_Inventory](https://github.com/soorintec/Soorin_Inventory) | 1 | 2026-08-29 | Soorin Inventory — multilingual (fa/en/ar/de/fr/it/ru/zh) La... |
+| [mixudev/Package_LaravelTimezone](https://github.com/mixudev/Package_LaravelTimezone) | 0 | 2026-08-30 |  |
+| [rxcod9/joy-voyager-bread-package](https://github.com/rxcod9/joy-voyager-bread-package) | 0 | 2026-08-30 |  Joy Voyager Bread Packages scaffolding template  |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-08-30 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-08-30 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-08-30 | 🛒 Build and manage your online store effortlessly with Shop... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-30T06:39 | 3 | 1725 | 6050 |
 | 2026-08-30T01:06 | 4 | 1723 | 6047 |
 | 2026-08-29T18:29 | 6 | 1722 | 6043 |
 | 2026-08-29T12:33 | 1 | 1730 | 6037 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-28T16:31 | 3 | 1728 | 6034 |
 | 2026-08-28T09:33 | 3 | 1729 | 6031 |
 | 2026-08-28T03:26 | 1 | 1731 | 6028 |
-| 2026-08-27T21:33 | 8 | 1723 | 6028 |
 
 ---
 

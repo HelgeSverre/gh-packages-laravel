@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6043  
-**Last updated:** 2026-08-29T18:29:53.320Z
+**Total packages tracked:** 6047  
+**Last updated:** 2026-08-30T01:06:12.052Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-faq](https://github.com/jeffersongoncalves/filament-faq) | 1 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-faq — manage FAQ categor... |
+| [Synerdy/laravel-inspector](https://github.com/Synerdy/laravel-inspector) | 0 | Tells you whether a Laravel app is still a clean install, and lists every file t... |
+| [jeffersongoncalves/laravel-how-it-works](https://github.com/jeffersongoncalves/laravel-how-it-works) | 1 | A Laravel package for managing 'how it works' steps with translatable titles and... |
+| [jeffersongoncalves/laravel-faq](https://github.com/jeffersongoncalves/laravel-faq) | 1 | A Laravel package for managing FAQs with translatable categories, questions, and... |
 | [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | Logimm adalah sebuah website yang dibuat untuk mengorganisir hal-hal yang berkai... |
 | [padosoft/laravel-routines](https://github.com/padosoft/laravel-routines) | 1 | Scheduled, manual and webhook-triggered agentic routines for Laravel — with dele... |
 | [trianity/mparser](https://github.com/trianity/mparser) | 1 | A lightweight PHP Markdown parser with front matter and extensible custom tags. |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jmmorallos19/jm-laravel-packages](https://github.com/jmmorallos19/jm-laravel-packages) | 0 |  |
 | [Kornelius1/strict](https://github.com/Kornelius1/strict) | 0 | Strict Architecture is a Laravel package designed to enforce a consistent Contro... |
 | [restu-lomboe/datatable-livewire](https://github.com/restu-lomboe/datatable-livewire) | 63 | Laravel Livewire DataTable is an open-source package that helps developers build... |
-| [darwinjcn/inventario-farmacia](https://github.com/darwinjcn/inventario-farmacia) | 0 | Sistema de gestión de inventario y ventas para farmacias. Desarrollado con Larav... |
-| [rahimi-ali/aion](https://github.com/rahimi-ali/aion) | 0 | Laravel package for observing and runtime-managing code-defined scheduled tasks |
-| [oussamamadjmaa/laravel-satim-payment](https://github.com/oussamamadjmaa/laravel-satim-payment) | 2 | Laravel package for SATIM (CIB/Edahabia) payment gateway integration in Algeria. |
-| [amjdhsan/larascope](https://github.com/amjdhsan/larascope) | 6 | A Laravel package that logs HTTP requests, SQL queries, and memory usage, with a... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 6 | 2026-08-29 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
-| [liberusoftware/maintenance-laravel](https://github.com/liberusoftware/maintenance-laravel) | 65 | 2026-08-29 | CMMS - Computerised maintenance management system applicatio... |
-| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 123 | 2026-08-29 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [salahhusa9/laravel-menu](https://github.com/salahhusa9/laravel-menu) | 16 | 2026-08-29 | This is a useful package for building menus in your Laravel ... |
-| [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 188 | 2026-08-29 | Full genealogy and family tree building application using La... |
-| [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | 166 | 2026-08-29 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 111 | 2026-08-29 | Real Estate / Estate Agent, solution for your Property Agenc... |
-| [MrPunyapal/laravel-client-validation](https://github.com/MrPunyapal/laravel-client-validation) | 10 | 2026-08-29 | Laravel package providing client-side validation with Alpine... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-29 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [sifrious/cleverness](https://github.com/sifrious/cleverness) | 1 | 2026-08-29 | a package for laravel with very minimal checks for churn and... |
+| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-08-30 | Type-safe fluent validation rule builders for Laravel, plus ... |
+| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-08-30 | A Laravel package to store model attribute translations in a... |
+| [wayofdev/laravel-starter-tpl](https://github.com/wayofdev/laravel-starter-tpl) | 13 | 2026-08-30 | 🚀 Pre-configured Laravel Project Template. Includes PHPUnit... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 12 | 2026-08-30 | A PHPStan extension for analysis of Laravel applications and... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-08-30 | A practical work management information system built with La... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-30 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [AfshinEfati/Laravel-Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder) | 2 | 2026-08-30 | Generate complete, test-ready Laravel modules from a single ... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-08-30 | The flexible backbone for your next CMS. This powerful frame... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 4 | 2026-08-30 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [getartisanflow/wireflow](https://github.com/getartisanflow/wireflow) | 96 | 2026-08-30 | Livewire components for AlpineFlow — build interactive flow ... |
 | [padosoft/laravel-routines](https://github.com/padosoft/laravel-routines) | 1 | 2026-08-29 | Scheduled, manual and webhook-triggered agentic routines for... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-08-29 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [NikoAuso/tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker) | 0 | 2026-08-29 | Personal TV Time-style tracker for series, episodes and movi... |
-| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-08-29 | Laravel GeeTest Captcha for Laravel 9 10 11 |
-| [rxcod9/joy-voyager-crm-demo](https://github.com/rxcod9/joy-voyager-crm-demo) | 1 | 2026-08-29 | Joy Voyager Crm Demo shows integration of Joy Voyager CRM pa... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-08-29 | Laravel package to handle requests are ensured sent |
-| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-08-29 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
-| [liberusoftware/module-cms-seo](https://github.com/liberusoftware/module-cms-seo) | 0 | 2026-08-29 | This package is the authoritative, provider-neutral implemen... |
-| [flexpik/filament-studio](https://github.com/flexpik/filament-studio) | 51 | 2026-08-29 | Dynamic data model manager for Filament — EAV storage, 33 fi... |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-08-29 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
+| [bagussatoto/Aplikasi-Data-Penjualan-Laravel-8](https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8) | 74 | 2026-08-29 | Membuat Aplikasi Berbasis Web Data Penjualan Menggunakan Lar... |
+| [rxcod9/joy-voyager-bread-package](https://github.com/rxcod9/joy-voyager-bread-package) | 0 | 2026-08-29 |  Joy Voyager Bread Packages scaffolding template  |
+| [jeffersongoncalves/filament-faq](https://github.com/jeffersongoncalves/filament-faq) | 1 | 2026-08-29 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-faq ... |
+| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-08-29 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
+| [jamesgifford/auth](https://github.com/jamesgifford/auth) | 1 | 2026-08-29 | Reusable authentication scaffolding for Laravel: prefixed pu... |
+| [wireboard/laravel-cmp](https://github.com/wireboard/laravel-cmp) | 2 | 2026-08-29 | WireBoard.io consent management platform for Laravel with GA... |
+| [Synerdy/laravel-inspector](https://github.com/Synerdy/laravel-inspector) | 0 | 2026-08-29 | Tells you whether a Laravel app is still a clean install, an... |
+| [jeffersongoncalves/laravel-how-it-works](https://github.com/jeffersongoncalves/laravel-how-it-works) | 1 | 2026-08-29 | A Laravel package for managing 'how it works' steps with tra... |
+| [soorintec/Soorin_Inventory](https://github.com/soorintec/Soorin_Inventory) | 1 | 2026-08-29 | Soorin Inventory — multilingual (fa/en/ar/de/fr/it/ru/zh) La... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-30T01:06 | 4 | 1723 | 6047 |
 | 2026-08-29T18:29 | 6 | 1722 | 6043 |
 | 2026-08-29T12:33 | 1 | 1730 | 6037 |
 | 2026-08-29T06:38 | 0 | 1730 | 6036 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-28T09:33 | 3 | 1729 | 6031 |
 | 2026-08-28T03:26 | 1 | 1731 | 6028 |
 | 2026-08-27T21:33 | 8 | 1723 | 6028 |
-| 2026-08-27T16:03 | 6 | 1723 | 6020 |
 
 ---
 

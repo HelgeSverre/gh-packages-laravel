@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6057  
-**Last updated:** 2026-08-30T18:29:54.301Z
+**Total packages tracked:** 6061  
+**Last updated:** 2026-08-31T01:07:53.342Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-testimonial](https://github.com/jeffersongoncalves/filament-testimonial) | 1 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-testimonial — manage tes... |
+| [shwaeki/DynamicTable](https://github.com/shwaeki/DynamicTable) | 0 | Zero-configuration data grid for Laravel — a table is one PHP class. Server-side... |
+| [jeffersongoncalves/laravel-benefit](https://github.com/jeffersongoncalves/laravel-benefit) | 1 | Laravel package for managing translatable benefits |
+| [jeffersongoncalves/laravel-testimonial](https://github.com/jeffersongoncalves/laravel-testimonial) | 1 | A Laravel package for managing testimonials with translatable content |
 | [Lilkizarmie/Sheffa-blog](https://github.com/Lilkizarmie/Sheffa-blog) | 0 | Laravel blog web application for content writing |
 | [shahsawoodshinwari/app-release-manager](https://github.com/shahsawoodshinwari/app-release-manager) | 0 | Laravel package for mobile app release management, version checking, distributio... |
 | [maycolmunoz/aventuro](https://github.com/maycolmunoz/aventuro) | 6 | Travel agency web application that allows users to explore travel packages. |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/laravel-faq](https://github.com/jeffersongoncalves/laravel-faq) | 1 | A Laravel package for managing FAQs with translatable categories, questions, and... |
 | [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | Logimm adalah sebuah website yang dibuat untuk mengorganisir hal-hal yang berkai... |
 | [padosoft/laravel-routines](https://github.com/padosoft/laravel-routines) | 1 | Scheduled, manual and webhook-triggered agentic routines for Laravel — with dele... |
-| [trianity/mparser](https://github.com/trianity/mparser) | 1 | A lightweight PHP Markdown parser with front matter and extensible custom tags. |
-| [padosoft/laravel-routines-admin](https://github.com/padosoft/laravel-routines-admin) | 1 | Admin panel for padosoft/laravel-routines — create, schedule, fire and audit rou... |
-| [route-forge/route-forge-laravel](https://github.com/route-forge/route-forge-laravel) | 0 | Laravel 命名路由的分级懒加载后端：路由扫描、tier 分配（->tier() / group / config / classifier）、元信息端点、... |
-| [padosoft/laravel-routines-contracts](https://github.com/padosoft/laravel-routines-contracts) | 1 | Shared contracts for padosoft/laravel-routines — the vocabulary a package needs ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -36,7 +36,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 |---------|-----|-------------|
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 500 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 492 | A full-featured Laravel package for aiding in Shopify App development |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 493 | A full-featured Laravel package for aiding in Shopify App development |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-30 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-08-30 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 164 | 2026-08-30 | Filament plugin that allows to add dynamic, user-defined for... |
-| [liberusoftware/maintenance-laravel](https://github.com/liberusoftware/maintenance-laravel) | 65 | 2026-08-30 | CMMS - Computerised maintenance management system applicatio... |
-| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-08-30 | A collection of Dockerfile examples for various programming ... |
-| [Bouda-Bissari/laravel-make-pattern](https://github.com/Bouda-Bissari/laravel-make-pattern) | 3 | 2026-08-30 | Laravel package that generates a full CRUD scaffold (Model, ... |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 14 | 2026-08-30 | A PHPStan extension for analysis of Laravel applications and... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 4 | 2026-08-30 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-08-30 | A Laravel package to interact with the Studizz API |
-| [shahsawoodshinwari/app-release-manager](https://github.com/shahsawoodshinwari/app-release-manager) | 0 | 2026-08-30 | Laravel package for mobile app release management, version c... |
-| [mailjet/laravel-mailjet](https://github.com/mailjet/laravel-mailjet) | 110 | 2026-08-30 | Laravel package for Mailjet API V3 and Laravel Mailjet Mail ... |
-| [ublabs/blade-simple-icons](https://github.com/ublabs/blade-simple-icons) | 18 | 2026-08-30 | A package to easily make use of Simple Icons in your Laravel... |
-| [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | 166 | 2026-08-30 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-08-30 | Laravel GeeTest Captcha for Laravel 9 10 11 |
-| [liberusoftware/automation-laravel](https://github.com/liberusoftware/automation-laravel) | 38 | 2026-08-30 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 8 | 2026-08-30 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [salahhusa9/laravel-menu](https://github.com/salahhusa9/laravel-menu) | 16 | 2026-08-30 | This is a useful package for building menus in your Laravel ... |
-| [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 188 | 2026-08-30 | Full genealogy and family tree building application using La... |
-| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-08-30 | Laravel package providing polymorphic image management with ... |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-08-30 | Utility package for Laravel including Transformable proxies ... |
+| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-08-31 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-31 | Local-first personal finance dashboard that resolves cross-a... |
+| [jeffersongoncalves/laravel-benefit](https://github.com/jeffersongoncalves/laravel-benefit) | 1 | 2026-08-31 | Laravel package for managing translatable benefits |
+| [richardDobron/blade-google-material-symbols](https://github.com/richardDobron/blade-google-material-symbols) | 0 | 2026-08-31 | A package to easily make use of Google's Material Symbols in... |
+| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 44 | 2026-08-31 | Laravel için Mutlucell SMS Kütüphanesi |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-08-31 | An event sourcing laravel package, complete with all the ess... |
+| [AlwaysCuriousCo/package-pipeline](https://github.com/AlwaysCuriousCo/package-pipeline) | 50 | 2026-08-31 | Self-hosted private Composer registry |
+| [lightszentip/laravel-release-changelog-generator](https://github.com/lightszentip/laravel-release-changelog-generator) | 11 | 2026-08-31 | Generate a changelog and releases with version management wi... |
+| [jeffersongoncalves/filament-testimonial](https://github.com/jeffersongoncalves/filament-testimonial) | 1 | 2026-08-31 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-test... |
+| [wayofdev/laravel-symfony-serializer](https://github.com/wayofdev/laravel-symfony-serializer) | 21 | 2026-08-31 | 🔧 Laravel + Symfony Serializer. This package provides a bri... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 374 | 2026-08-31 | The official Laravel Nightwatch package. |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-08-31 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [mikeyperes/laravel-hexa-package-google-docs](https://github.com/mikeyperes/laravel-hexa-package-google-docs) | 0 | 2026-08-31 | Hexa package for reading public Google Docs content without ... |
+| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 123 | 2026-08-31 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [Tolery-Dev/tolery-ai-cad-package](https://github.com/Tolery-Dev/tolery-ai-cad-package) | 0 | 2026-08-31 | Laravel Package to access AI CAD |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-08-31 | Laravel OTP is a Laravel package that enables developers to ... |
+| [leonardozaneladias/ht2-erp](https://github.com/leonardozaneladias/ht2-erp) | 0 | 2026-08-31 | ERP administrativo multiempresa em Laravel 13 + Livewire 4 +... |
+| [bladeuix/components](https://github.com/bladeuix/components) | 2 | 2026-08-30 | A Laravel blade component library based on daisyUI. Install ... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 12 | 2026-08-30 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-08-30 | A Laravel package to store model attribute translations in a... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-08-31T01:07 | 4 | 1725 | 6061 |
 | 2026-08-30T18:29 | 3 | 1725 | 6057 |
 | 2026-08-30T12:35 | 4 | 1725 | 6054 |
 | 2026-08-30T06:39 | 3 | 1725 | 6050 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-29T06:38 | 0 | 1730 | 6036 |
 | 2026-08-29T00:54 | 2 | 1728 | 6036 |
 | 2026-08-28T21:35 | 1 | 1729 | 6034 |
-| 2026-08-28T16:31 | 3 | 1728 | 6034 |
 
 ---
 

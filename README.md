@@ -2,14 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6081  
-**Last updated:** 2026-09-01T01:13:39.964Z
+**Total packages tracked:** 6083  
+**Last updated:** 2026-09-01T06:45:43.760Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 2 | Sales and warehousing management system |
+| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | DWG thumbnail extraction and conversion to DXF, structural JSON, PNG, JPEG, and ... |
+| [waventra/laravel-identity](https://github.com/waventra/laravel-identity) | 0 | Laravel identity package for users, teams, roles, and permissions, with JWT auth... |
+| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | Sales and warehousing management system |
 | [ichava/emoji-sets](https://github.com/ichava/emoji-sets) | 0 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji color, OpenMoji bla... |
 | [ichava/flag-icons](https://github.com/ichava/flag-icons) | 0 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Sourced from lipis/flag-ic... |
 | [ichava/tabler-icons](https://github.com/ichava/tabler-icons) | 0 | 6,146 Tabler SVG icons for Laravel, outline and filled, served through the Ichav... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [theafolayan/listmonk-laravel](https://github.com/theafolayan/listmonk-laravel) | 10 | A Laravel package for interacting with the Listmonk API. |
 | [Nikba-Creative-Studio/Laravel-Bussystem-Api](https://github.com/Nikba-Creative-Studio/Laravel-Bussystem-Api) | 0 | Laravel package providing seamless integration with BusSystem transportation ser... |
 | [jeffersongoncalves/filament-benefit](https://github.com/jeffersongoncalves/filament-benefit) | 1 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-benefit — manage transla... |
-| [ildrm/memoria-recording-memories](https://github.com/ildrm/memoria-recording-memories) | 1 | Memoria is an open-source, self-hosted, privacy-first personal diary, digital jo... |
-| [donatientchehoundje/klassia-showcase](https://github.com/donatientchehoundje/klassia-showcase) | 0 | Vitrine technique de Klassia, logiciel de gestion scolaire (Laravel 11 · Livewir... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 111 | 2026-09-01 | Real Estate / Estate Agent, solution for your Property Agenc... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-01 | An event sourcing laravel package, complete with all the ess... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-01 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-09-01 | Type-safe fluent validation rule builders for Laravel, plus ... |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 15 | 2026-09-01 | A PHPStan extension for analysis of Laravel applications and... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 198 | 2026-09-01 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [salahhusa9/laravel-menu](https://github.com/salahhusa9/laravel-menu) | 16 | 2026-09-01 | This is a useful package for building menus in your Laravel ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-01 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-01 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-09-01 | Laravel USPS Package to integrate USPS Address |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-09-01 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [arif98741/laravelbdsms](https://github.com/arif98741/laravelbdsms) | 151 | 2026-09-01 | Xenon\LaravelBDSms is a laravel based multi sms gateway pack... |
+| [christopheraseidl/laravel-auto-filer](https://github.com/christopheraseidl/laravel-auto-filer) | 1 | 2026-09-01 | A simple package for automating the organization of uploaded... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-09-01 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [outatime-io/ensemble-calendar](https://github.com/outatime-io/ensemble-calendar) | 1 | 2026-09-01 | Modern, GDPR‑compliant rehearsal calendar for musical ensemb... |
 | [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | 2026-09-01 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-01 | EasyCo is a modular Laravel commerce platform. Rather than o... |
 | [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-09-01 | A practical work management information system built with La... |
-| [rodrigocoliveira/laravel-whatsapp-cloud-api](https://github.com/rodrigocoliveira/laravel-whatsapp-cloud-api) | 2 | 2026-09-01 | Laravel Package to Easily connect laravel framework to Whats... |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-09-01 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-09-01 | PDF rendering for Laravel behind a capability-checked driver... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-01 | Runtime base library for building Laravel packages: fluent P... |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-09-01 | Laravel package scaffolder: generate complete, convention-re... |
-| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-09-01 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
-| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-09-01 | Laravel user impersonation with scoped modes, audit trails, ... |
-| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-09-01 | A framework-agnostic web UI for editing .env: JSON API and t... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-09-01 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-09-01 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
+| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | 2026-09-01 | DWG thumbnail extraction and conversion to DXF, structural J... |
+| [LastDragon-ru/lara-asp-graphql](https://github.com/LastDragon-ru/lara-asp-graphql) | 5 | 2026-09-01 | This package provides highly powerful `@searchBy` and `@sort... |
+| [LastDragon-ru/lara-asp-documentator](https://github.com/LastDragon-ru/lara-asp-documentator) | 1 | 2026-09-01 | This package provides various utilities for documentation ge... |
+| [LastDragon-ru/lara-asp-dev](https://github.com/LastDragon-ru/lara-asp-dev) | 0 | 2026-09-01 | Various tools and helpers to develop the package. |
+| [LastDragon-ru/lara-asp-migrator](https://github.com/LastDragon-ru/lara-asp-migrator) | 0 | 2026-09-01 |  |
+| [LastDragon-ru/lara-asp-spa](https://github.com/LastDragon-ru/lara-asp-spa) | 0 | 2026-09-01 |  |
+| [LastDragon-ru/lara-asp-serializer](https://github.com/LastDragon-ru/lara-asp-serializer) | 0 | 2026-09-01 | Provides a customizable wrapper around the Symfony Serialize... |
+| [LastDragon-ru/lara-asp-formatter](https://github.com/LastDragon-ru/lara-asp-formatter) | 0 | 2026-09-01 | Provides a customizable wrapper around Intl formatters to us... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-01T06:45 | 2 | 1729 | 6083 |
 | 2026-09-01T01:13 | 9 | 1721 | 6081 |
 | 2026-08-31T18:34 | 6 | 1723 | 6072 |
 | 2026-08-31T12:40 | 2 | 1727 | 6066 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-30T12:35 | 4 | 1725 | 6054 |
 | 2026-08-30T06:39 | 3 | 1725 | 6050 |
 | 2026-08-30T01:06 | 4 | 1723 | 6047 |
-| 2026-08-29T18:29 | 6 | 1722 | 6043 |
 
 ---
 

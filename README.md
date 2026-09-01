@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6088  
-**Last updated:** 2026-09-01T12:39:46.793Z
+**Total packages tracked:** 6092  
+**Last updated:** 2026-09-01T18:34:42.443Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [titustum/customizable-college-website](https://github.com/titustum/customizable-college-website) | 6 | A modern, open-source Laravel starter kit designed for colleges, TVET institutio... |
+| [onamfc/laravel-devlogger](https://github.com/onamfc/laravel-devlogger) | 16 | Logging package for Laravel that stores logs in a database with automatic error ... |
+| [onamfc/laravel-database-archiver](https://github.com/onamfc/laravel-database-archiver) | 14 | Laravel package for efficient database record archival to cold storage systems l... |
+| [martin-lechene/e-facture-peppol-package-laravel](https://github.com/martin-lechene/e-facture-peppol-package-laravel) | 0 |  |
 | [bakliounsaid/appointment](https://github.com/bakliounsaid/appointment) | 1 | A web application for scheduling appointments online, allowing clients to book a... |
 | [davit-vardanyan/ameriabank-vpos-laravel](https://github.com/davit-vardanyan/ameriabank-vpos-laravel) | 0 | Laravel integration for the unofficial Ameriabank vPOS 3.1 payment client. Larav... |
 | [mitwork/kalkan](https://github.com/mitwork/kalkan) | 12 | Laravel package for Kalkan (NCANode, NCALayer) |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Eng-Mohannad-Mahmoud/content-extractor](https://github.com/Eng-Mohannad-Mahmoud/content-extractor) | 0 | A Laravel package that dumps your project's source files |
 | [ca-santos/auto-class-dicovery](https://github.com/ca-santos/auto-class-dicovery) | 0 | Laravel package to scan directories and discover classes, interfaces, traits and... |
 | [ivo-wmg/borica](https://github.com/ivo-wmg/borica) | 0 | Borica AI Skill + Laravel Package |
-| [supergud/laravel-webmcp](https://github.com/supergud/laravel-webmcp) | 0 | Laravel 13 + Livewire 4 demo shop exposing every storefront feature to browser A... |
-| [emirkefi/laravel-topology-mapper](https://github.com/emirkefi/laravel-topology-mapper) | 0 | A dynamic visual application topology mapper for Laravel. Automatically trace HT... |
-| [Gowa-PHP/filament](https://github.com/Gowa-PHP/filament) | 0 | Official Filament v5 / v4 / v3 plugin for integrating GOWA (go-whatsapp-web-mult... |
-| [maciej-kosiedowski/eori](https://github.com/maciej-kosiedowski/eori) | 0 | Laravel package for validating EORI number. Laravel Economic Operators Registrat... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-09-01 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [corgab/aether](https://github.com/corgab/aether) | 3 | 2026-09-01 | Quantum computing bridge for Laravel. Solve the impossible w... |
+| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-09-01 | Laravel GeeTest Captcha for Laravel 9 10 11 |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 311 | 2026-09-01 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [l4nos/laravel-cashier-stripe-connect](https://github.com/l4nos/laravel-cashier-stripe-connect) | 84 | 2026-09-01 | 💲 Adds Stripe Connect functionality to Laravel's main billi... |
+| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-09-01 | A comprehensive toolkit providing foundational building bloc... |
+| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 4 | 2026-09-01 | The Laravel Lobster |
+| [titustum/customizable-college-website](https://github.com/titustum/customizable-college-website) | 6 | 2026-09-01 | A modern, open-source Laravel starter kit designed for colle... |
+| [achetibi/laravel-satim](https://github.com/achetibi/laravel-satim) | 18 | 2026-09-01 | Laravel Satim is a clean, extensible Laravel package that pr... |
+| [shwaeki/DynamicTable](https://github.com/shwaeki/DynamicTable) | 0 | 2026-09-01 | Zero-configuration data grid for Laravel — a table is one PH... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 0 | 2026-09-01 | Durable execution for PHP: workflows that survive deploys, r... |
+| [deasytech/oncue-logistics](https://github.com/deasytech/oncue-logistics) | 0 | 2026-09-01 | On-Cue Logistics is a smart event delivery platform designed... |
+| [sm-me-dev/laravel-redis-model-cache](https://github.com/sm-me-dev/laravel-redis-model-cache) | 3 | 2026-09-01 | Optimize your Laravel application with a native Redis cachin... |
+| [kainiklas/filament-scout](https://github.com/kainiklas/filament-scout) | 37 | 2026-09-01 | Filament Plugin to integrate Laravel Scout into Global Searc... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-01 | The Moox Project - Packages for Filament and Laravel |
+| [onamfc/laravel-devlogger](https://github.com/onamfc/laravel-devlogger) | 16 | 2026-09-01 | Logging package for Laravel that stores logs in a database w... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-01 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-01 | The NativePHP website |
-| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 2 | 2026-09-01 | An opinionated Laravel package for interacting with WAHA API |
-| [mitwork/kalkan](https://github.com/mitwork/kalkan) | 12 | 2026-09-01 | Laravel package for Kalkan (NCANode, NCALayer) |
-| [milirezai/milipay](https://github.com/milirezai/milipay) | 18 | 2026-09-01 | The milipay Payment Package is a simple and flexible solutio... |
-| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 216 | 2026-09-01 | Laravel SmartCache - Optimize Caching for Large Data |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-09-01 | Main Webampp laravel package for GEOBOX 2.0 |
-| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-01 | A Laravel package to interact with the Studizz API |
-| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-09-01 | Chief admin package |
-| [ahmed3bead/lara-crud](https://github.com/ahmed3bead/lara-crud) | 2 | 2026-09-01 | A Laravel package to generate CRUD operations for APIs. |
-| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-09-01 | A Laravel package to track revisions of Eloquent models, all... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-01 | An event sourcing laravel package, complete with all the ess... |
-| [typicms/core](https://github.com/typicms/core) | 7 | 2026-09-01 | The core package of TypiCMS, containing the base architectur... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-01 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [a2zwebltd/laravel-affiliate](https://github.com/a2zwebltd/laravel-affiliate) | 0 | 2026-09-01 | Generic affiliate / revenue-share engine for Laravel: opt-in... |
-| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 16 | 2026-09-01 | Move non-secret config out of Laravel's .env into typed, env... |
-| [alle80/griglia](https://github.com/alle80/griglia) | 0 | 2026-09-01 | A Laravel + Livewire task board where you queue work for you... |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 48 | 2026-09-01 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
+| [onamfc/laravel-database-archiver](https://github.com/onamfc/laravel-database-archiver) | 14 | 2026-09-01 | Laravel package for efficient database record archival to co... |
+| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-09-01 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 16 | 2026-09-01 | A PHPStan extension for analysis of Laravel applications and... |
+| [christopheraseidl/laravel-auto-filer](https://github.com/christopheraseidl/laravel-auto-filer) | 1 | 2026-09-01 | A simple package for automating the organization of uploaded... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-01T18:34 | 4 | 1725 | 6092 |
 | 2026-09-01T12:39 | 5 | 1725 | 6088 |
 | 2026-09-01T06:45 | 2 | 1729 | 6083 |
 | 2026-09-01T01:13 | 9 | 1721 | 6081 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-31T01:07 | 4 | 1725 | 6061 |
 | 2026-08-30T18:29 | 3 | 1725 | 6057 |
 | 2026-08-30T12:35 | 4 | 1725 | 6054 |
-| 2026-08-30T06:39 | 3 | 1725 | 6050 |
 
 ---
 

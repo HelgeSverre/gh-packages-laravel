@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6072  
-**Last updated:** 2026-08-31T18:34:04.830Z
+**Total packages tracked:** 6081  
+**Last updated:** 2026-09-01T01:13:39.964Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 2 | Sales and warehousing management system |
+| [ichava/emoji-sets](https://github.com/ichava/emoji-sets) | 0 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji color, OpenMoji bla... |
+| [ichava/flag-icons](https://github.com/ichava/flag-icons) | 0 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Sourced from lipis/flag-ic... |
+| [ichava/tabler-icons](https://github.com/ichava/tabler-icons) | 0 | 6,146 Tabler SVG icons for Laravel, outline and filled, served through the Ichav... |
+| [ichava/core](https://github.com/ichava/core) | 0 | Core engine for the Ichava Laravel icon ecosystem. Services, registry, seeder, s... |
+| [al-saloul/msegat-laravel](https://github.com/al-saloul/msegat-laravel) | 20 | This is a Laravel package for Msegat. Its goal is to remove the complexity |
+| [Eng-Mohannad-Mahmoud/content-extractor](https://github.com/Eng-Mohannad-Mahmoud/content-extractor) | 0 | A Laravel package that dumps your project's source files |
+| [ca-santos/auto-class-dicovery](https://github.com/ca-santos/auto-class-dicovery) | 0 | Laravel package to scan directories and discover classes, interfaces, traits and... |
+| [ivo-wmg/borica](https://github.com/ivo-wmg/borica) | 0 | Borica AI Skill + Laravel Package |
 | [supergud/laravel-webmcp](https://github.com/supergud/laravel-webmcp) | 0 | Laravel 13 + Livewire 4 demo shop exposing every storefront feature to browser A... |
 | [emirkefi/laravel-topology-mapper](https://github.com/emirkefi/laravel-topology-mapper) | 0 | A dynamic visual application topology mapper for Laravel. Automatically trace HT... |
 | [Gowa-PHP/filament](https://github.com/Gowa-PHP/filament) | 0 | Official Filament v5 / v4 / v3 plugin for integrating GOWA (go-whatsapp-web-mult... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/filament-benefit](https://github.com/jeffersongoncalves/filament-benefit) | 1 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-benefit — manage transla... |
 | [ildrm/memoria-recording-memories](https://github.com/ildrm/memoria-recording-memories) | 1 | Memoria is an open-source, self-hosted, privacy-first personal diary, digital jo... |
 | [donatientchehoundje/klassia-showcase](https://github.com/donatientchehoundje/klassia-showcase) | 0 | Vitrine technique de Klassia, logiciel de gestion scolaire (Laravel 11 · Livewir... |
-| [jeffersongoncalves/filament-testimonial](https://github.com/jeffersongoncalves/filament-testimonial) | 1 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-testimonial — manage tes... |
-| [shwaeki/DynamicTable](https://github.com/shwaeki/DynamicTable) | 0 | Zero-configuration data grid for Laravel — a table is one PHP class. Server-side... |
-| [jeffersongoncalves/laravel-benefit](https://github.com/jeffersongoncalves/laravel-benefit) | 1 | Laravel package for managing translatable benefits |
-| [jeffersongoncalves/laravel-testimonial](https://github.com/jeffersongoncalves/laravel-testimonial) | 1 | A Laravel package for managing testimonials with translatable content |
-| [Lilkizarmie/Sheffa-blog](https://github.com/Lilkizarmie/Sheffa-blog) | 0 | Laravel blog web application for content writing |
-| [shahsawoodshinwari/app-release-manager](https://github.com/shahsawoodshinwari/app-release-manager) | 1 | Laravel package for mobile app release management, version checking, distributio... |
-| [maycolmunoz/aventuro](https://github.com/maycolmunoz/aventuro) | 6 | Travel agency web application that allows users to explore travel packages. |
-| [hamzaawan7/livewire-crud](https://github.com/hamzaawan7/livewire-crud) | 0 | Laravel Livewire admin CRUD with authentication, roles, validation, and reactive... |
-| [hamzaawan7/complily-api-package](https://github.com/hamzaawan7/complily-api-package) | 0 | Reusable Laravel package for authentication and requests across third-party APIs... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 462 | A simple package to help integrate Cloudflare Turnstile. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 455 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 456 | Open Source Laravel CRM Package |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 446 | A package to handle multilingual routes in your Laravel application. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [supergud/laravel-webmcp](https://github.com/supergud/laravel-webmcp) | 0 | 2026-08-31 | Laravel 13 + Livewire 4 demo shop exposing every storefront ... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-08-31 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-08-31 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-08-31 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-08-31 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [marshmallow-packages/payable](https://github.com/marshmallow-packages/payable) | 0 | 2026-08-31 | 🤑 This package will make it possible to accept payments on ... |
-| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 40 | 2026-08-31 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-08-31 | Local-first personal finance dashboard that resolves cross-a... |
-| [emirkefi/laravel-topology-mapper](https://github.com/emirkefi/laravel-topology-mapper) | 0 | 2026-08-31 | A dynamic visual application topology mapper for Laravel. Au... |
-| [maciej-kosiedowski/eori](https://github.com/maciej-kosiedowski/eori) | 0 | 2026-08-31 | Laravel package for validating EORI number. Laravel Economic... |
-| [DeM1-off/laravel-modular](https://github.com/DeM1-off/laravel-modular) | 1 | 2026-08-31 |  |
-| [salahhusa9/laravel-menu](https://github.com/salahhusa9/laravel-menu) | 16 | 2026-08-31 | This is a useful package for building menus in your Laravel ... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 0 | 2026-08-31 | Durable execution for PHP: workflows that survive deploys, r... |
-| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 16 | 2026-08-31 | Move non-secret config out of Laravel's .env into typed, env... |
-| [lara-zeus/demo](https://github.com/lara-zeus/demo) | 12 | 2026-08-31 | demo for all zeus packages based on filamentphp plugins |
-| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 245 | 2026-08-31 | form builder for your users, with so many use cases |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-08-31 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-08-31 | Manage and track inventory with a PHP package that integrate... |
-| [hybridly/laravel](https://github.com/hybridly/laravel) | 4 | 2026-08-31 | [READ ONLY] Subtree split of the Laravel package from the Hy... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-08-31 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [liberusoftware/real-estate-laravel](https://github.com/liberusoftware/real-estate-laravel) | 111 | 2026-09-01 | Real Estate / Estate Agent, solution for your Property Agenc... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-01 | An event sourcing laravel package, complete with all the ess... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-01 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-09-01 | Type-safe fluent validation rule builders for Laravel, plus ... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 15 | 2026-09-01 | A PHPStan extension for analysis of Laravel applications and... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 198 | 2026-09-01 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [salahhusa9/laravel-menu](https://github.com/salahhusa9/laravel-menu) | 16 | 2026-09-01 | This is a useful package for building menus in your Laravel ... |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | 2026-09-01 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-09-01 | A practical work management information system built with La... |
+| [rodrigocoliveira/laravel-whatsapp-cloud-api](https://github.com/rodrigocoliveira/laravel-whatsapp-cloud-api) | 2 | 2026-09-01 | Laravel Package to Easily connect laravel framework to Whats... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-09-01 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-09-01 | PDF rendering for Laravel behind a capability-checked driver... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-01 | Runtime base library for building Laravel packages: fluent P... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-09-01 | Laravel package scaffolder: generate complete, convention-re... |
+| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-09-01 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
+| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-09-01 | Laravel user impersonation with scoped modes, audit trails, ... |
+| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-09-01 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-09-01 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-09-01 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-01T01:13 | 9 | 1721 | 6081 |
 | 2026-08-31T18:34 | 6 | 1723 | 6072 |
 | 2026-08-31T12:40 | 2 | 1727 | 6066 |
 | 2026-08-31T06:53 | 3 | 1726 | 6064 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-30T06:39 | 3 | 1725 | 6050 |
 | 2026-08-30T01:06 | 4 | 1723 | 6047 |
 | 2026-08-29T18:29 | 6 | 1722 | 6043 |
-| 2026-08-29T12:33 | 1 | 1730 | 6037 |
 
 ---
 

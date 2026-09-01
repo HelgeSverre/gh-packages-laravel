@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6083  
-**Last updated:** 2026-09-01T06:45:43.760Z
+**Total packages tracked:** 6088  
+**Last updated:** 2026-09-01T12:39:46.793Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [bakliounsaid/appointment](https://github.com/bakliounsaid/appointment) | 1 | A web application for scheduling appointments online, allowing clients to book a... |
+| [davit-vardanyan/ameriabank-vpos-laravel](https://github.com/davit-vardanyan/ameriabank-vpos-laravel) | 0 | Laravel integration for the unofficial Ameriabank vPOS 3.1 payment client. Larav... |
+| [mitwork/kalkan](https://github.com/mitwork/kalkan) | 12 | Laravel package for Kalkan (NCANode, NCALayer) |
+| [senaranya/Laravel-Env-Sync](https://github.com/senaranya/Laravel-Env-Sync) | 4 | Laravel package to check or sync two .env files |
+| [ca-santos/laravel-class-discovery](https://github.com/ca-santos/laravel-class-discovery) | 0 | Laravel package to scan directories and discover classes, interfaces, traits and... |
 | [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | DWG thumbnail extraction and conversion to DXF, structural JSON, PNG, JPEG, and ... |
 | [waventra/laravel-identity](https://github.com/waventra/laravel-identity) | 0 | Laravel identity package for users, teams, roles, and permissions, with JWT auth... |
 | [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | Sales and warehousing management system |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [emirkefi/laravel-topology-mapper](https://github.com/emirkefi/laravel-topology-mapper) | 0 | A dynamic visual application topology mapper for Laravel. Automatically trace HT... |
 | [Gowa-PHP/filament](https://github.com/Gowa-PHP/filament) | 0 | Official Filament v5 / v4 / v3 plugin for integrating GOWA (go-whatsapp-web-mult... |
 | [maciej-kosiedowski/eori](https://github.com/maciej-kosiedowski/eori) | 0 | Laravel package for validating EORI number. Laravel Economic Operators Registrat... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 0 | Durable execution for PHP: workflows that survive deploys, restarts and crashes,... |
-| [waventra/laravel-modules](https://github.com/waventra/laravel-modules) | 0 | Laravel modules package for PHP 8.2+ and Laravel 11/12. Build independent module... |
-| [theafolayan/listmonk-laravel](https://github.com/theafolayan/listmonk-laravel) | 10 | A Laravel package for interacting with the Listmonk API. |
-| [Nikba-Creative-Studio/Laravel-Bussystem-Api](https://github.com/Nikba-Creative-Studio/Laravel-Bussystem-Api) | 0 | Laravel package providing seamless integration with BusSystem transportation ser... |
-| [jeffersongoncalves/filament-benefit](https://github.com/jeffersongoncalves/filament-benefit) | 1 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-benefit — manage transla... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-01 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-01 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-09-01 | Laravel USPS Package to integrate USPS Address |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-09-01 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [arif98741/laravelbdsms](https://github.com/arif98741/laravelbdsms) | 151 | 2026-09-01 | Xenon\LaravelBDSms is a laravel based multi sms gateway pack... |
-| [christopheraseidl/laravel-auto-filer](https://github.com/christopheraseidl/laravel-auto-filer) | 1 | 2026-09-01 | A simple package for automating the organization of uploaded... |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-09-01 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [outatime-io/ensemble-calendar](https://github.com/outatime-io/ensemble-calendar) | 1 | 2026-09-01 | Modern, GDPR‑compliant rehearsal calendar for musical ensemb... |
-| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 306 | 2026-09-01 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-09-01 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-01 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-09-01 | A practical work management information system built with La... |
-| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | 2026-09-01 | DWG thumbnail extraction and conversion to DXF, structural J... |
-| [LastDragon-ru/lara-asp-graphql](https://github.com/LastDragon-ru/lara-asp-graphql) | 5 | 2026-09-01 | This package provides highly powerful `@searchBy` and `@sort... |
-| [LastDragon-ru/lara-asp-documentator](https://github.com/LastDragon-ru/lara-asp-documentator) | 1 | 2026-09-01 | This package provides various utilities for documentation ge... |
-| [LastDragon-ru/lara-asp-dev](https://github.com/LastDragon-ru/lara-asp-dev) | 0 | 2026-09-01 | Various tools and helpers to develop the package. |
-| [LastDragon-ru/lara-asp-migrator](https://github.com/LastDragon-ru/lara-asp-migrator) | 0 | 2026-09-01 |  |
-| [LastDragon-ru/lara-asp-spa](https://github.com/LastDragon-ru/lara-asp-spa) | 0 | 2026-09-01 |  |
-| [LastDragon-ru/lara-asp-serializer](https://github.com/LastDragon-ru/lara-asp-serializer) | 0 | 2026-09-01 | Provides a customizable wrapper around the Symfony Serialize... |
-| [LastDragon-ru/lara-asp-formatter](https://github.com/LastDragon-ru/lara-asp-formatter) | 0 | 2026-09-01 | Provides a customizable wrapper around Intl formatters to us... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-01 | The NativePHP website |
+| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 2 | 2026-09-01 | An opinionated Laravel package for interacting with WAHA API |
+| [mitwork/kalkan](https://github.com/mitwork/kalkan) | 12 | 2026-09-01 | Laravel package for Kalkan (NCANode, NCALayer) |
+| [milirezai/milipay](https://github.com/milirezai/milipay) | 18 | 2026-09-01 | The milipay Payment Package is a simple and flexible solutio... |
+| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 216 | 2026-09-01 | Laravel SmartCache - Optimize Caching for Large Data |
+| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-09-01 | Main Webampp laravel package for GEOBOX 2.0 |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-01 | A Laravel package to interact with the Studizz API |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-09-01 | Chief admin package |
+| [ahmed3bead/lara-crud](https://github.com/ahmed3bead/lara-crud) | 2 | 2026-09-01 | A Laravel package to generate CRUD operations for APIs. |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-09-01 | A Laravel package to track revisions of Eloquent models, all... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-01 | An event sourcing laravel package, complete with all the ess... |
+| [typicms/core](https://github.com/typicms/core) | 7 | 2026-09-01 | The core package of TypiCMS, containing the base architectur... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-01 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [a2zwebltd/laravel-affiliate](https://github.com/a2zwebltd/laravel-affiliate) | 0 | 2026-09-01 | Generic affiliate / revenue-share engine for Laravel: opt-in... |
+| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 16 | 2026-09-01 | Move non-secret config out of Laravel's .env into typed, env... |
+| [alle80/griglia](https://github.com/alle80/griglia) | 0 | 2026-09-01 | A Laravel + Livewire task board where you queue work for you... |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 48 | 2026-09-01 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-01T12:39 | 5 | 1725 | 6088 |
 | 2026-09-01T06:45 | 2 | 1729 | 6083 |
 | 2026-09-01T01:13 | 9 | 1721 | 6081 |
 | 2026-08-31T18:34 | 6 | 1723 | 6072 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-30T18:29 | 3 | 1725 | 6057 |
 | 2026-08-30T12:35 | 4 | 1725 | 6054 |
 | 2026-08-30T06:39 | 3 | 1725 | 6050 |
-| 2026-08-30T01:06 | 4 | 1723 | 6047 |
 
 ---
 

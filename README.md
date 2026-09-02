@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6094  
-**Last updated:** 2026-09-02T01:02:43.690Z
+**Total packages tracked:** 6095  
+**Last updated:** 2026-09-02T06:48:00.838Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Moholand/expense-tracker](https://github.com/Moholand/expense-tracker) | 2 | Personal expense tracker built with Laravel 10 & Livewire 3 — track expenses by ... |
 | [skillbobby/Spiggle-Form-Builder-Core](https://github.com/skillbobby/Spiggle-Form-Builder-Core) | 5 | Filament Form Builder Community Edition - public forms, submissions, CSV export ... |
 | [skillbobby/Spiggle-Rules-Engine](https://github.com/skillbobby/Spiggle-Rules-Engine) | 1 | Enterprise Fully UI-Driven Event Trigger Plugin for Laravel/Filament |
 | [titustum/customizable-college-website](https://github.com/titustum/customizable-college-website) | 6 | A modern, open-source Laravel starter kit designed for colleges, TVET institutio... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ichava/tabler-icons](https://github.com/ichava/tabler-icons) | 0 | 6,146 Tabler SVG icons for Laravel, outline and filled, served through the Ichav... |
 | [ichava/core](https://github.com/ichava/core) | 0 | Core engine for the Ichava Laravel icon ecosystem. Services, registry, seeder, s... |
 | [al-saloul/msegat-laravel](https://github.com/al-saloul/msegat-laravel) | 20 | This is a Laravel package for Msegat. Its goal is to remove the complexity |
-| [Eng-Mohannad-Mahmoud/content-extractor](https://github.com/Eng-Mohannad-Mahmoud/content-extractor) | 0 | A Laravel package that dumps your project's source files |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-02 | A Laravel package to interact with the Studizz API |
-| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 318 | 2026-09-02 | Gorgeous shadcn inspired UI library for laravel blade using ... |
-| [aporat/laravel-appstore-purchases](https://github.com/aporat/laravel-appstore-purchases) | 3 | 2026-09-02 | Laravel package for handling App Store (Apple, iTunes, Amazo... |
-| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-09-02 | A Filament plugin to add markdown-based documentation to you... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-02 | Local-first personal finance dashboard that resolves cross-a... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-09-02 | A Laravel-based web application that tracks, analyzes, and p... |
-| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 123 | 2026-09-02 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [jeffersongoncalves/laravel-teams](https://github.com/jeffersongoncalves/laravel-teams) | 1 | 2026-09-02 | A Laravel package that adds Teams, memberships, and team inv... |
-| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-09-02 | Sales and warehousing management system |
-| [Arc1113/connict-gss](https://github.com/Arc1113/connict-gss) | 0 | 2026-09-02 | Local-network graduation stage management with QR scanning, ... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-09-02 | Chief admin package |
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 3 | 2026-09-02 | Laravel package untuk data wilayah administratif Indonesia (... |
+| [snoeren-development/laravel-admin-users](https://github.com/snoeren-development/laravel-admin-users) | 2 | 2026-09-02 | Define and check for admin users in your application! |
+| [snoeren-development/laravel-discord-webhook-channel](https://github.com/snoeren-development/laravel-discord-webhook-channel) | 15 | 2026-09-02 | Send notifications to a Discord webhook. |
+| [titustum/customizable-college-website](https://github.com/titustum/customizable-college-website) | 6 | 2026-09-02 | A modern, open-source Laravel starter kit designed for colle... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-09-02 | Laravel USPS Package to integrate USPS Address |
+| [Climactic/laravel-credits](https://github.com/Climactic/laravel-credits) | 325 | 2026-09-02 | A ledger-based Laravel package for managing credit-based sys... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-09-02 | Simple package for adding directives to show/hide content fr... |
+| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 145 | 2026-09-02 | Create and manage menu in your Filament app. |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-02 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-09-02 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-09-02 | A practical work management information system built with La... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-02 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-02 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 317 | 2026-09-02 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 7 | 2026-09-02 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
 | [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-09-02 | Laravel GeeTest Captcha for Laravel 9 10 11 |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-09-01 | Laravel-based API for storing sensor data from distributed n... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-01 | An event sourcing laravel package, complete with all the ess... |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-01 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [syofyanzuhad/lumina](https://github.com/syofyanzuhad/lumina) | 0 | 2026-09-01 | Lightweight, self-hosted web analytics especially for Larave... |
-| [HamzaHassanM/laravel-social-auto-post](https://github.com/HamzaHassanM/laravel-social-auto-post) | 15 | 2026-09-01 | A Laravel package for automatic social media posting across ... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 0 | 2026-09-01 | Durable execution for PHP: workflows that survive deploys, r... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-01 | The Moox Project - Packages for Filament and Laravel |
-| [muneeb9000/LIFE-TIME-SMS-](https://github.com/muneeb9000/LIFE-TIME-SMS-) | 0 | 2026-09-01 | Lifeitmesms laravel package to send single or bulk text and ... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 16 | 2026-09-02 | A PHPStan extension for analysis of Laravel applications and... |
+| [jeffersongoncalves/filament-yaml-editor](https://github.com/jeffersongoncalves/filament-yaml-editor) | 4 | 2026-09-02 | A rich YAML editor field for Filament powered by CodeMirror ... |
+| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-09-02 | A collection of Dockerfile examples for various programming ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-02T06:48 | 1 | 1727 | 6095 |
 | 2026-09-02T01:02 | 2 | 1726 | 6094 |
 | 2026-09-01T18:34 | 4 | 1725 | 6092 |
 | 2026-09-01T12:39 | 5 | 1725 | 6088 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-08-31T12:40 | 2 | 1727 | 6066 |
 | 2026-08-31T06:53 | 3 | 1726 | 6064 |
 | 2026-08-31T01:07 | 4 | 1725 | 6061 |
-| 2026-08-30T18:29 | 3 | 1725 | 6057 |
 
 ---
 

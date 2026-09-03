@@ -2,14 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6108  
-**Last updated:** 2026-09-02T18:34:19.911Z
+**Total packages tracked:** 6112  
+**Last updated:** 2026-09-03T01:04:08.465Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [foxws/laravel-essentials](https://github.com/foxws/laravel-essentials) | 0 | Defaults for your Laravel application |
+| [roelmagdaleno/cfdi-autofile](https://github.com/roelmagdaleno/cfdi-autofile) | 0 | Renames CFDIs (PDF + XML) using a configurable template, archives them. |
+| [foxws/laravel-ddd](https://github.com/foxws/laravel-ddd) | 0 | Domain Driven Design for Laravel |
+| [allamo123/lara_payments_ma](https://github.com/allamo123/lara_payments_ma) | 1 | A Laravel payment gateway package that provides a unified API for integrating mu... |
+| [emtee-1023/laravel-auth-library](https://github.com/emtee-1023/laravel-auth-library) | 0 | Reusable authentication infrastructure for Laravel applications created as a com... |
+| [foxws/laravel-essentials](https://github.com/foxws/laravel-essentials) | 0 | Opt-in essentials for your Laravel application |
 | [illegalstudio/linky](https://github.com/illegalstudio/linky) | 5 | Swiss army knife for web enthusiasts |
 | [illegalstudio/insideauth](https://github.com/illegalstudio/insideauth) | 6 | Seamless side authentication solution for Laravel |
 | [aybarsm/laravel-package-kit](https://github.com/aybarsm/laravel-package-kit) | 0 | An opinionated, robust tool to easily configure Laravel package service provider... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Moholand/expense-tracker](https://github.com/Moholand/expense-tracker) | 2 | Personal expense tracker built with Laravel 10 & Livewire 3 — track expenses by ... |
 | [skillbobby/Spiggle-Form-Builder-Core](https://github.com/skillbobby/Spiggle-Form-Builder-Core) | 5 | Filament Form Builder Community Edition - public forms, submissions, CSV export ... |
 | [skillbobby/Spiggle-Rules-Engine](https://github.com/skillbobby/Spiggle-Rules-Engine) | 1 | Enterprise Fully UI-Driven Event Trigger Plugin for Laravel/Filament |
-| [titustum/customizable-college-website](https://github.com/titustum/customizable-college-website) | 6 | A modern, open-source Laravel starter kit designed for colleges, TVET institutio... |
-| [onamfc/laravel-devlogger](https://github.com/onamfc/laravel-devlogger) | 16 | Logging package for Laravel that stores logs in a database with automatic error ... |
-| [onamfc/laravel-database-archiver](https://github.com/onamfc/laravel-database-archiver) | 14 | Laravel package for efficient database record archival to cold storage systems l... |
-| [martin-lechene/e-facture-peppol-package-laravel](https://github.com/martin-lechene/e-facture-peppol-package-laravel) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-02 | Local-first personal finance dashboard that resolves cross-a... |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 100 | 2026-09-02 | Complete, ready-to-use Indonesian administrative region data... |
-| [zaber-dev/laravel-workflow](https://github.com/zaber-dev/laravel-workflow) | 3 | 2026-09-02 | Application-level workflow orchestration for Laravel with va... |
-| [live-controls/autoaddress](https://github.com/live-controls/autoaddress) | 0 | 2026-09-02 | Autofill Address Package for Laravel Livewire |
-| [zaber-dev/laravel-reservation](https://github.com/zaber-dev/laravel-reservation) | 11 | 2026-09-02 | Application-level resource reservation for Laravel with stat... |
-| [marshmallow-packages/payable](https://github.com/marshmallow-packages/payable) | 0 | 2026-09-02 | 🤑 This package will make it possible to accept payments on ... |
-| [foxws/laravel-essentials](https://github.com/foxws/laravel-essentials) | 0 | 2026-09-02 | Defaults for your Laravel application |
-| [illegalstudio/linky](https://github.com/illegalstudio/linky) | 5 | 2026-09-02 | Swiss army knife for web enthusiasts |
-| [illegalstudio/insideauth](https://github.com/illegalstudio/insideauth) | 6 | 2026-09-02 | Seamless side authentication solution for Laravel |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 16 | 2026-09-02 | A PHPStan extension for analysis of Laravel applications and... |
-| [eXolnet/laravel-db-upgrade](https://github.com/eXolnet/laravel-db-upgrade) | 0 | 2026-09-02 | Artisan command to migrate an existing production database s... |
-| [aybarsm/laravel-package-kit](https://github.com/aybarsm/laravel-package-kit) | 0 | 2026-09-02 | An opinionated, robust tool to easily configure Laravel pack... |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 0 | 2026-09-02 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [arif98741/laravelbdsms](https://github.com/arif98741/laravelbdsms) | 151 | 2026-09-02 | Xenon\LaravelBDSms is a laravel based multi sms gateway pack... |
-| [waventra/laravel-identity](https://github.com/waventra/laravel-identity) | 0 | 2026-09-02 | Laravel identity package for users, teams, roles, and permis... |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 442 | 2026-09-02 | A media picker plugin for Filament Panels. |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-02 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [KoassiAkakpo/filament-file-explorer](https://github.com/KoassiAkakpo/filament-file-explorer) | 0 | 2026-09-02 | Finder-style file explorer for Filament v4 and v5, powered b... |
-| [aybarsm/laravel-provider-package](https://github.com/aybarsm/laravel-provider-package) | 0 | 2026-09-02 | An opinionated, extended version of Spatie’s laravel-package... |
-| [JaiveerChavda/webshop](https://github.com/JaiveerChavda/webshop) | 1 | 2026-09-02 | Online Store-Front Application built using Laravel-livewire ... |
+| [Visanduma/laravel-invoice](https://github.com/Visanduma/laravel-invoice) | 1 | 2026-09-03 | Simple Invoice package with own database |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 166 | 2026-09-03 | Filament plugin that allows to add dynamic, user-defined for... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-09-03 | A practical work management information system built with La... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-03 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [skillbobby/Spiggle-Form-Builder-Core](https://github.com/skillbobby/Spiggle-Form-Builder-Core) | 5 | 2026-09-03 | Filament Form Builder Community Edition - public forms, subm... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-03 | Local-first personal finance dashboard that resolves cross-a... |
+| [akira-io/laravel-followable](https://github.com/akira-io/laravel-followable) | 10 | 2026-09-03 | Laravel Followable is a lightweight and flexible Laravel pac... |
+| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-09-03 | 🔒 The missing package for Laravel Nova that lets you know w... |
+| [iamkarsoft/movie-app](https://github.com/iamkarsoft/movie-app) | 1 | 2026-09-03 | Movie App to keep track of movies |
+| [rxcod9/joy-voyager-api-laravel-demo](https://github.com/rxcod9/joy-voyager-api-laravel-demo) | 5 | 2026-09-02 | Joy VoyagerApi Laravel Demo shows integration of Joy Voyager... |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-09-02 | A Laravel package that provides a Cookies consent floating w... |
+| [abolaradev/package-skeleton-laravel-livewire](https://github.com/abolaradev/package-skeleton-laravel-livewire) | 0 | 2026-09-02 | A customized Laravel package skeleton with Livewire, Blade c... |
+| [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) | 17 | 2026-09-02 | Add importing large CSV (and TSV) data feature to your Larav... |
+| [lightszentip/laravel-release-changelog-generator](https://github.com/lightszentip/laravel-release-changelog-generator) | 11 | 2026-09-02 | Generate a changelog and releases with version management wi... |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 15 | 2026-09-02 | Source code for the new pokemon3d.net website |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-09-02 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [Thiritin/meteric](https://github.com/Thiritin/meteric) | 2 | 2026-09-02 | Advanced billing engine for Laravel: subscriptions, proratio... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-09-02 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-02 | The Moox Project - Packages for Filament and Laravel |
+| [roelmagdaleno/cfdi-autofile](https://github.com/roelmagdaleno/cfdi-autofile) | 0 | 2026-09-02 | Renames CFDIs (PDF + XML) using a configurable template, arc... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-03T01:04 | 4 | 1726 | 6112 |
 | 2026-09-02T18:34 | 7 | 1723 | 6108 |
 | 2026-09-02T12:41 | 6 | 1722 | 6101 |
 | 2026-09-02T06:48 | 1 | 1727 | 6095 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-01T06:45 | 2 | 1729 | 6083 |
 | 2026-09-01T01:13 | 9 | 1721 | 6081 |
 | 2026-08-31T18:34 | 6 | 1723 | 6072 |
-| 2026-08-31T12:40 | 2 | 1727 | 6066 |
 
 ---
 

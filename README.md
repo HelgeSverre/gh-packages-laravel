@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6112  
-**Last updated:** 2026-09-03T01:04:08.465Z
+**Total packages tracked:** 6116  
+**Last updated:** 2026-09-03T06:44:54.312Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ipchi/CyrilLat](https://github.com/ipchi/CyrilLat) | 0 | Uzbek Cyrillic <-> Latin transliteration, language identification and tokenizati... |
+| [hieu92264/laravel-modules-package](https://github.com/hieu92264/laravel-modules-package) | 0 | A Laravel package to generate custom module structures and scaffolding |
+| [supplycart/domains](https://github.com/supplycart/domains) | 1 | A simple package to set up domains for Laravel application |
+| [supplycart/snapshot](https://github.com/supplycart/snapshot) | 0 | A simple package to allow Laravel model snapshot |
 | [roelmagdaleno/cfdi-autofile](https://github.com/roelmagdaleno/cfdi-autofile) | 0 | Renames CFDIs (PDF + XML) using a configurable template, archives them. |
 | [foxws/laravel-ddd](https://github.com/foxws/laravel-ddd) | 0 | Domain Driven Design for Laravel |
 | [allamo123/lara_payments_ma](https://github.com/allamo123/lara_payments_ma) | 1 | A Laravel payment gateway package that provides a unified API for integrating mu... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Telegram-Bot-Essentials/skeleton](https://github.com/Telegram-Bot-Essentials/skeleton) | 0 | composer create-project template for scaffolding an Essence companion package |
 | [Premod1/nml-whatsapp-notifier](https://github.com/Premod1/nml-whatsapp-notifier) | 0 | Lightweight Laravel package for WhatsApp messaging via Meta Cloud API. |
 | [dev-asp-id/laravel-simple-telegram](https://github.com/dev-asp-id/laravel-simple-telegram) | 0 | Simple clean one-way Telegram notification package for Laravel |
-| [isaacjuwon/Laravel-tenancy](https://github.com/isaacjuwon/Laravel-tenancy) | 0 | A simple, lightweight tenancy solution/package for Laravel." |
-| [Moholand/expense-tracker](https://github.com/Moholand/expense-tracker) | 2 | Personal expense tracker built with Laravel 10 & Livewire 3 — track expenses by ... |
-| [skillbobby/Spiggle-Form-Builder-Core](https://github.com/skillbobby/Spiggle-Form-Builder-Core) | 5 | Filament Form Builder Community Edition - public forms, submissions, CSV export ... |
-| [skillbobby/Spiggle-Rules-Engine](https://github.com/skillbobby/Spiggle-Rules-Engine) | 1 | Enterprise Fully UI-Driven Event Trigger Plugin for Laravel/Filament |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Visanduma/laravel-invoice](https://github.com/Visanduma/laravel-invoice) | 1 | 2026-09-03 | Simple Invoice package with own database |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 166 | 2026-09-03 | Filament plugin that allows to add dynamic, user-defined for... |
+| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-09-03 | A Laravel package that provides a Cookies consent floating w... |
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 3 | 2026-09-03 | Laravel package untuk data wilayah administratif Indonesia (... |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-09-03 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
+| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-09-03 |  |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 36 | 2026-09-03 | Laravel USPS Package to integrate USPS Address |
 | [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-09-03 | A practical work management information system built with La... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-03 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [skillbobby/Spiggle-Form-Builder-Core](https://github.com/skillbobby/Spiggle-Form-Builder-Core) | 5 | 2026-09-03 | Filament Form Builder Community Edition - public forms, subm... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-03 | Local-first personal finance dashboard that resolves cross-a... |
-| [akira-io/laravel-followable](https://github.com/akira-io/laravel-followable) | 10 | 2026-09-03 | Laravel Followable is a lightweight and flexible Laravel pac... |
-| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-09-03 | 🔒 The missing package for Laravel Nova that lets you know w... |
-| [iamkarsoft/movie-app](https://github.com/iamkarsoft/movie-app) | 1 | 2026-09-03 | Movie App to keep track of movies |
-| [rxcod9/joy-voyager-api-laravel-demo](https://github.com/rxcod9/joy-voyager-api-laravel-demo) | 5 | 2026-09-02 | Joy VoyagerApi Laravel Demo shows integration of Joy Voyager... |
-| [scify/laravel-cookie-guard](https://github.com/scify/laravel-cookie-guard) | 147 | 2026-09-02 | A Laravel package that provides a Cookies consent floating w... |
-| [abolaradev/package-skeleton-laravel-livewire](https://github.com/abolaradev/package-skeleton-laravel-livewire) | 0 | 2026-09-02 | A customized Laravel package skeleton with Livewire, Blade c... |
-| [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) | 17 | 2026-09-02 | Add importing large CSV (and TSV) data feature to your Larav... |
-| [lightszentip/laravel-release-changelog-generator](https://github.com/lightszentip/laravel-release-changelog-generator) | 11 | 2026-09-02 | Generate a changelog and releases with version management wi... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 15 | 2026-09-02 | Source code for the new pokemon3d.net website |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-09-02 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [Thiritin/meteric](https://github.com/Thiritin/meteric) | 2 | 2026-09-02 | Advanced billing engine for Laravel: subscriptions, proratio... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-09-02 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-02 | The Moox Project - Packages for Filament and Laravel |
-| [roelmagdaleno/cfdi-autofile](https://github.com/roelmagdaleno/cfdi-autofile) | 0 | 2026-09-02 | Renames CFDIs (PDF + XML) using a configurable template, arc... |
+| [ipchi/CyrilLat](https://github.com/ipchi/CyrilLat) | 0 | 2026-09-03 | Uzbek Cyrillic <-> Latin transliteration, language identific... |
+| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-09-03 | PHP / Laravel packages used by Visns Studio |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 166 | 2026-09-03 | Filament plugin that allows to add dynamic, user-defined for... |
+| [salahhusa9/laravel-geetest-captcha](https://github.com/salahhusa9/laravel-geetest-captcha) | 16 | 2026-09-03 | Laravel GeeTest Captcha for Laravel 9 10 11 |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-03 | A Laravel package to interact with the Studizz API |
+| [ichava/emoji-sets](https://github.com/ichava/emoji-sets) | 0 | 2026-09-03 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
+| [jonangelo18gpca/laravel-gpca-networking](https://github.com/jonangelo18gpca/laravel-gpca-networking) | 1 | 2026-09-03 |  |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-09-03 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-09-03 | A Laravel package to store model attribute translations in a... |
+| [hieu92264/laravel-modules-package](https://github.com/hieu92264/laravel-modules-package) | 0 | 2026-09-03 | A Laravel package to generate custom module structures and s... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 16 | 2026-09-03 | A PHPStan extension for analysis of Laravel applications and... |
+| [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) | 248 | 2026-09-03 | High quality automatic translate your language files into ma... |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-03 | Manage, process, and serve files in Laravel with scalable up... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 80 | 2026-09-03 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-03T06:44 | 4 | 1725 | 6116 |
 | 2026-09-03T01:04 | 4 | 1726 | 6112 |
 | 2026-09-02T18:34 | 7 | 1723 | 6108 |
 | 2026-09-02T12:41 | 6 | 1722 | 6101 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-01T12:39 | 5 | 1725 | 6088 |
 | 2026-09-01T06:45 | 2 | 1729 | 6083 |
 | 2026-09-01T01:13 | 9 | 1721 | 6081 |
-| 2026-08-31T18:34 | 6 | 1723 | 6072 |
 
 ---
 

@@ -2,16 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6131  
-**Last updated:** 2026-09-04T01:01:06.287Z
+**Total packages tracked:** 6134  
+**Last updated:** 2026-09-04T06:43:58.059Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | Open-source, self-hosted, white-label client reporting for web agencies. |
+| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 |  |
+| [nhanchaukp/laracart](https://github.com/nhanchaukp/laracart) | 0 | LaraCart is a Laravel package that provides a flexible and extensible shopping c... |
 | [indexnowkit/php-laravel](https://github.com/indexnowkit/php-laravel) | 0 | Laravel package for IndexNow: notify Yandex, Bing, Naver, Seznam on Eloquent mod... |
 | [Hennest/exchange-rate](https://github.com/Hennest/exchange-rate) | 1 | A laravel package for exchange rates |
-| [eznix86/laravel-analytics](https://github.com/eznix86/laravel-analytics) | 3 | Data Build Tool the eloquent way |
+| [eznix86/laravel-analytics](https://github.com/eznix86/laravel-analytics) | 4 | Data Build Tool the eloquent way |
 | [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | Visual feedback for Laravel and Livewire with client-side screenshot capture, br... |
 | [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | Database safety for Laravel on PostgreSQL and MySQL. SQLens lints the SQL your m... |
 | [haoyuqi/download-bing-wallpaper](https://github.com/haoyuqi/download-bing-wallpaper) | 0 | Laravel 13 package that retrieves Bing wallpaper metadata by date and emits vers... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Nikba-Creative-Studio/laravel-bulksms](https://github.com/Nikba-Creative-Studio/laravel-bulksms) | 0 | A Laravel package to send SMS using BulkSMS API |
 | [ipchi/CyrilLat](https://github.com/ipchi/CyrilLat) | 0 | Uzbek Cyrillic <-> Latin transliteration, language identification and tokenizati... |
 | [hieu92264/laravel-modules-package](https://github.com/hieu92264/laravel-modules-package) | 0 | A Laravel package to generate custom module structures and scaffolding |
-| [supplycart/domains](https://github.com/supplycart/domains) | 1 | A simple package to set up domains for Laravel application |
-| [supplycart/snapshot](https://github.com/supplycart/snapshot) | 0 | A simple package to allow Laravel model snapshot |
-| [roelmagdaleno/cfdi-autofile](https://github.com/roelmagdaleno/cfdi-autofile) | 0 | Renames CFDIs (PDF + XML) using a configurable template, archives them. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-04 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-09-04 | A comprehensive SEO management package for Laravel applicati... |
-| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-04 | A Laravel package to interact with the Studizz API |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-04 | Local-first personal finance dashboard that resolves cross-a... |
-| [Gerenuk-LTD/filament-banhammer](https://github.com/Gerenuk-LTD/filament-banhammer) | 12 | 2026-09-04 | Ban resources in your Filament project. |
-| [shahsawoodshinwari/app-release-manager](https://github.com/shahsawoodshinwari/app-release-manager) | 1 | 2026-09-04 | Laravel package for mobile app release management, version c... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-04 | An event sourcing laravel package, complete with all the ess... |
+| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-04 | Open-source, self-hosted, white-label client reporting for w... |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-09-04 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
 | [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 1 | 2026-09-04 | Durable execution for PHP: workflows that survive deploys, r... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-03 | Runtime base library for building Laravel packages: fluent P... |
-| [haoyuqi/download-bing-wallpaper](https://github.com/haoyuqi/download-bing-wallpaper) | 0 | 2026-09-03 | Laravel 13 package that retrieves Bing wallpaper metadata by... |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-03 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | 2026-09-03 | Visual feedback for Laravel and Livewire with client-side sc... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-03 | The Moox Project - Packages for Filament and Laravel |
-| [laractrl/controlled](https://github.com/laractrl/controlled) | 3 | 2026-09-03 | Secure Your Right After Delivered Your web app Before they c... |
-| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-09-03 | Sales and warehousing management system |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-03 | The NativePHP website |
-| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 40 | 2026-09-03 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-09-03 | Laravel-based API for storing sensor data from distributed n... |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 8 | 2026-09-03 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-04 | Local-first personal finance dashboard that resolves cross-a... |
+| [lightszentip/laravel-release-changelog-generator](https://github.com/lightszentip/laravel-release-changelog-generator) | 11 | 2026-09-04 | Generate a changelog and releases with version management wi... |
+| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 | 2026-09-04 |  |
+| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 159 | 2026-09-04 | HTTP Idempotency Middleware for Laravel applications |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-09-04 | Monorepo for Finity Labs' Filament packages |
+| [eznix86/laravel-analytics](https://github.com/eznix86/laravel-analytics) | 4 | 2026-09-04 | Data Build Tool the eloquent way |
+| [Nixxx27/worktrack](https://github.com/Nixxx27/worktrack) | 0 | 2026-09-04 | Self-hosted work tracker that answers "how long has this bee... |
+| [xentral/laravel-api](https://github.com/xentral/laravel-api) | 5 | 2026-09-04 |  A laravel package which contains a sophisticated API workfl... |
+| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-09-04 |  |
+| [schaefersoft/laravel-llms-txt](https://github.com/schaefersoft/laravel-llms-txt) | 7 | 2026-09-04 | Automatically generate llms.txt and llms-full.txt files for ... |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 331 | 2026-09-04 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [anjan-talukdar/laravel-gst-invoice](https://github.com/anjan-talukdar/laravel-gst-invoice) | 0 | 2026-09-04 | A production-ready Laravel package for GST-compliant invoice... |
+| [kalprajsolutions/laravel-wordpress-cda](https://github.com/kalprajsolutions/laravel-wordpress-cda) | 1 | 2026-09-04 | The package to add wordpress cda to laravel |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 17 | 2026-09-04 | A PHPStan extension for analysis of Laravel applications and... |
+| [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) | 248 | 2026-09-04 | High quality automatic translate your language files into ma... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-09-04 | A practical work management information system built with La... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-04T06:43 | 3 | 1722 | 6134 |
 | 2026-09-04T01:01 | 2 | 1723 | 6131 |
 | 2026-09-03T18:35 | 6 | 1720 | 6129 |
 | 2026-09-03T12:41 | 7 | 1722 | 6123 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-02T12:41 | 6 | 1722 | 6101 |
 | 2026-09-02T06:48 | 1 | 1727 | 6095 |
 | 2026-09-02T01:02 | 2 | 1726 | 6094 |
-| 2026-09-01T18:34 | 4 | 1725 | 6092 |
 
 ---
 

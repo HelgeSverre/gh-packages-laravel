@@ -2,14 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6129  
-**Last updated:** 2026-09-03T18:35:00.876Z
+**Total packages tracked:** 6131  
+**Last updated:** 2026-09-04T01:01:06.287Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [eznix86/laravel-analytics](https://github.com/eznix86/laravel-analytics) | 0 | Data Build Tool the eloquent way |
+| [indexnowkit/php-laravel](https://github.com/indexnowkit/php-laravel) | 0 | Laravel package for IndexNow: notify Yandex, Bing, Naver, Seznam on Eloquent mod... |
+| [Hennest/exchange-rate](https://github.com/Hennest/exchange-rate) | 1 | A laravel package for exchange rates |
+| [eznix86/laravel-analytics](https://github.com/eznix86/laravel-analytics) | 3 | Data Build Tool the eloquent way |
 | [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | Visual feedback for Laravel and Livewire with client-side screenshot capture, br... |
 | [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | Database safety for Laravel on PostgreSQL and MySQL. SQLens lints the SQL your m... |
 | [haoyuqi/download-bing-wallpaper](https://github.com/haoyuqi/download-bing-wallpaper) | 0 | Laravel 13 package that retrieves Bing wallpaper metadata by date and emits vers... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [supplycart/domains](https://github.com/supplycart/domains) | 1 | A simple package to set up domains for Laravel application |
 | [supplycart/snapshot](https://github.com/supplycart/snapshot) | 0 | A simple package to allow Laravel model snapshot |
 | [roelmagdaleno/cfdi-autofile](https://github.com/roelmagdaleno/cfdi-autofile) | 0 | Renames CFDIs (PDF + XML) using a configurable template, archives them. |
-| [foxws/laravel-ddd](https://github.com/foxws/laravel-ddd) | 1 | Domain Driven Design for Laravel |
-| [allamo123/lara_payments_ma](https://github.com/allamo123/lara_payments_ma) | 1 | A Laravel payment gateway package that provides a unified API for integrating mu... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-03 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [eznix86/laravel-analytics](https://github.com/eznix86/laravel-analytics) | 0 | 2026-09-03 | Data Build Tool the eloquent way |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 100 | 2026-09-03 | Complete, ready-to-use Indonesian administrative region data... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-04 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-09-04 | A comprehensive SEO management package for Laravel applicati... |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-04 | A Laravel package to interact with the Studizz API |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-04 | Local-first personal finance dashboard that resolves cross-a... |
+| [Gerenuk-LTD/filament-banhammer](https://github.com/Gerenuk-LTD/filament-banhammer) | 12 | 2026-09-04 | Ban resources in your Filament project. |
+| [shahsawoodshinwari/app-release-manager](https://github.com/shahsawoodshinwari/app-release-manager) | 1 | 2026-09-04 | Laravel package for mobile app release management, version c... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-04 | An event sourcing laravel package, complete with all the ess... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 1 | 2026-09-04 | Durable execution for PHP: workflows that survive deploys, r... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-03 | Runtime base library for building Laravel packages: fluent P... |
+| [haoyuqi/download-bing-wallpaper](https://github.com/haoyuqi/download-bing-wallpaper) | 0 | 2026-09-03 | Laravel 13 package that retrieves Bing wallpaper metadata by... |
 | [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-03 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 16 | 2026-09-03 | A PHPStan extension for analysis of Laravel applications and... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-09-03 | Magic Framework Laravel backend starter package. |
-| [YacoubAl-hardari/firebasenotificationphp](https://github.com/YacoubAl-hardari/firebasenotificationphp) | 10 | 2026-09-03 | Package For php  or laravel To  Seding firebase notification... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 1 | 2026-09-03 | Durable execution for PHP: workflows that survive deploys, r... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-03 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-03 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-03 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-03 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [MohammadZarifiyan/Laravel-Locale-Kit](https://github.com/MohammadZarifiyan/Laravel-Locale-Kit) | 0 | 2026-09-03 | A Laravel package that provides structured locale metadata a... |
 | [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | 2026-09-03 | Visual feedback for Laravel and Livewire with client-side sc... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-03 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-03 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | 2026-09-03 | A package to handle multilingual routes in your Laravel appl... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-03 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-09-03 |  |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-03 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-03 | The Moox Project - Packages for Filament and Laravel |
+| [laractrl/controlled](https://github.com/laractrl/controlled) | 3 | 2026-09-03 | Secure Your Right After Delivered Your web app Before they c... |
+| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-09-03 | Sales and warehousing management system |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-03 | The NativePHP website |
+| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 40 | 2026-09-03 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-09-03 | Laravel-based API for storing sensor data from distributed n... |
+| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 8 | 2026-09-03 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-04T01:01 | 2 | 1723 | 6131 |
 | 2026-09-03T18:35 | 6 | 1720 | 6129 |
 | 2026-09-03T12:41 | 7 | 1722 | 6123 |
 | 2026-09-03T06:44 | 4 | 1725 | 6116 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-02T06:48 | 1 | 1727 | 6095 |
 | 2026-09-02T01:02 | 2 | 1726 | 6094 |
 | 2026-09-01T18:34 | 4 | 1725 | 6092 |
-| 2026-09-01T12:39 | 5 | 1725 | 6088 |
 
 ---
 

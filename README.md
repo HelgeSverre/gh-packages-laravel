@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6156  
-**Last updated:** 2026-09-05T12:34:33.884Z
+**Total packages tracked:** 6159  
+**Last updated:** 2026-09-05T18:29:43.001Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Vylwyn/vylwyn.com](https://github.com/Vylwyn/vylwyn.com) | 0 | My personal site, built in public. Laravel 13, Livewire 4, Filament 5, deployed ... |
+| [pxlrbt/laravel-notification-preview](https://github.com/pxlrbt/laravel-notification-preview) | 0 | Browse, preview and test-send every notification and mailable in your Laravel ap... |
+| [oi-lab/oi-laravel-vault](https://github.com/oi-lab/oi-laravel-vault) | 0 | Central encrypted credential vault for Laravel: store and resolve service-accoun... |
 | [Federico-Aguirre/Veterinaria_Laravel](https://github.com/Federico-Aguirre/Veterinaria_Laravel) | 1 | Veterinary management system built with Laravel, Livewire & Alpine.js. Features ... |
 | [finity-labs/lin-codex](https://github.com/finity-labs/lin-codex) | 0 | In-app help for Laravel. Contextual help articles from Markdown files or the dat... |
 | [Tayeb-Ali/Larazoul](https://github.com/Tayeb-Ali/Larazoul) | 12 |  |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | Home weather station, end to end: ESP32 firmware reading a BME280, a Laravel ing... |
 | [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | https://songrank.dev - Rank your favorite artists' tracks. |
 | [libin-k-k/permission](https://github.com/libin-k-k/permission) | 0 | Production-grade Laravel authorization & permissions package with RBAC, ABAC, mu... |
-| [matchory/response-cache](https://github.com/matchory/response-cache) | 2 | A Laravel package that adds a smart cache for full responses |
-| [emmanuelmukeni/swagger-auth-laravel](https://github.com/emmanuelmukeni/swagger-auth-laravel) | 0 | Package d'authentification pour l5-swagger avec système de login sécurisé |
-| [christianalban/laravel-collective-spatie-html-parser](https://github.com/christianalban/laravel-collective-spatie-html-parser) | 7 | Adapter class that allows use spatie/laravel-html for old projects that were usi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-05 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
+| [jeffersongoncalves/filament-cms](https://github.com/jeffersongoncalves/filament-cms) | 2 | 2026-09-05 | Filament plugin bundling the full Laravel CMS ecosystem (pag... |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-05 | Local-first personal finance dashboard that resolves cross-a... |
-| [jeffersongoncalves/laravel-faq](https://github.com/jeffersongoncalves/laravel-faq) | 1 | 2026-09-05 | A Laravel package for managing FAQs with translatable catego... |
-| [Happy-Arif/license-guard](https://github.com/Happy-Arif/license-guard) | 0 | 2026-09-05 | A secure, universal license verification package designed fo... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-05 | Laravel package providing AI-powered search with Pagefind. D... |
-| [Tayeb-Ali/Larazoul](https://github.com/Tayeb-Ali/Larazoul) | 12 | 2026-09-05 |  |
-| [Neeraj-patel/laravel-bulk-assign](https://github.com/Neeraj-patel/laravel-bulk-assign) | 0 | 2026-09-05 | Reassign thousands of Eloquent records in one operation - ch... |
-| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 | 2026-09-05 |  |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 66 | 2026-09-05 | The ultimate form components kit and custom fields builder f... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-09-05 | Provides email verification on the go. |
-| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-09-05 | Laravel package providing polymorphic image management with ... |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-09-05 | Utility package for Laravel including Transformable proxies ... |
-| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-09-05 | Toth is a Laravel package for database backup and snapshot m... |
-| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-09-05 | Laravel package for Firebase Cloud Messaging notifications i... |
-| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-09-05 | Laravel package providing OTP (One-Time Password) management... |
-| [indexnowkit/php-laravel](https://github.com/indexnowkit/php-laravel) | 0 | 2026-09-05 | Laravel package for IndexNow: notify Yandex, Bing, Naver, Se... |
-| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 44 | 2026-09-05 | Passwordless email magic-link & OTP authentication for Larav... |
-| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-09-05 | Laravel package providing polymorphic comments with Reposito... |
-| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-09-05 | Laravel package providing polymorphic reactions (like, love,... |
+| [corgab/aether](https://github.com/corgab/aether) | 4 | 2026-09-05 | Quantum computing bridge for Laravel. Solve the impossible w... |
+| [jeffersongoncalves/laravel-help-desk](https://github.com/jeffersongoncalves/laravel-help-desk) | 6 | 2026-09-05 | A comprehensive help desk and ticket management system for L... |
+| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 4 | 2026-09-05 | A Laravel package for creating and redirecting short URLs, w... |
+| [jeffersongoncalves/laravel-npm-readme](https://github.com/jeffersongoncalves/laravel-npm-readme) | 1 | 2026-09-05 | Fetch, render and cache an npm package README from the regis... |
+| [jeffersongoncalves/laravel-topic-normalizer](https://github.com/jeffersongoncalves/laravel-topic-normalizer) | 1 | 2026-09-05 | Merge GitHub topics + composer/npm/Packagist keywords into o... |
+| [jeffersongoncalves/laravel-favicon-proxy](https://github.com/jeffersongoncalves/laravel-favicon-proxy) | 1 | 2026-09-05 | Same-origin favicon proxy with server-side caching (Google S... |
+| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-05 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
+| [jeffersongoncalves/filament-oidc](https://github.com/jeffersongoncalves/filament-oidc) | 2 | 2026-09-05 | Drop-in OpenID Connect (OIDC) SSO for Filament v5 panels wit... |
+| [jeffersongoncalves/filament-translatable](https://github.com/jeffersongoncalves/filament-translatable) | 2 | 2026-09-05 | Enhanced Filament plugin for spatie/laravel-translatable wit... |
+| [jeffersongoncalves/filament-yaml-editor](https://github.com/jeffersongoncalves/filament-yaml-editor) | 4 | 2026-09-05 | A rich YAML editor field for Filament powered by CodeMirror ... |
+| [jeffersongoncalves/filament-metrics-matomo](https://github.com/jeffersongoncalves/filament-metrics-matomo) | 3 | 2026-09-05 | Filament plugin for Matomo Analytics — Settings Page & Dashb... |
+| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-09-05 | A Filament plugin to add markdown-based documentation to you... |
+| [jeffersongoncalves/filament-service-desk](https://github.com/jeffersongoncalves/filament-service-desk) | 17 | 2026-09-05 | Filament plugin for complete service desk management — Admin... |
+| [jeffersongoncalves/filament-knowledge-base](https://github.com/jeffersongoncalves/filament-knowledge-base) | 10 | 2026-09-05 | Filament plugin for Knowledge Base management with Admin, Us... |
+| [jeffersongoncalves/filament-webhooks](https://github.com/jeffersongoncalves/filament-webhooks) | 4 | 2026-09-05 | Filament plugin to manage outgoing webhooks (jeffersongoncal... |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-05 | A Laravel package to interact with the Studizz API |
+| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 9 | 2026-09-05 | Filament plugin for Help Desk ticket management — User, Oper... |
+| [jeffersongoncalves/filament-flux](https://github.com/jeffersongoncalves/filament-flux) | 12 | 2026-09-05 | Filament v5 plugin exposing Livewire Flux UI components as n... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-05T18:29 | 3 | 1718 | 6159 |
 | 2026-09-05T12:34 | 10 | 1720 | 6156 |
 | 2026-09-05T06:39 | 0 | 1726 | 6146 |
 | 2026-09-05T01:00 | 4 | 1722 | 6146 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-04T01:01 | 2 | 1723 | 6131 |
 | 2026-09-03T18:35 | 6 | 1720 | 6129 |
 | 2026-09-03T12:41 | 7 | 1722 | 6123 |
-| 2026-09-03T06:44 | 4 | 1725 | 6116 |
 
 ---
 

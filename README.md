@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6143  
-**Last updated:** 2026-09-04T18:31:38.937Z
+**Total packages tracked:** 6146  
+**Last updated:** 2026-09-05T01:00:02.023Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [frijoseph/cilarisfotus](https://github.com/frijoseph/cilarisfotus) | 0 | Multi-tenant WhatsApp Business CRM SaaS for SMBs — Laravel 13, Livewire, real-ti... |
+| [NumraApp/numra-laravel](https://github.com/NumraApp/numra-laravel) | 0 | Numra for Laravel: phone checks, outcome reporting and verified webhooks in one ... |
+| [chipslays/malevich](https://github.com/chipslays/malevich) | 0 | 🧑‍🎨 A lightweight variant API for building consistent Blade component librarie... |
+| [codebyray/laravel-review-rateable](https://github.com/codebyray/laravel-review-rateable) | 310 | A flexible Laravel package for adding reviews, multi-criteria ratings, approval ... |
 | [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | Home weather station, end to end: ESP32 firmware reading a BME280, a Laravel ing... |
 | [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | https://songrank.dev - Rank your favorite artists' tracks. |
 | [libin-k-k/permission](https://github.com/libin-k-k/permission) | 0 | Production-grade Laravel authorization & permissions package with RBAC, ABAC, mu... |
@@ -23,12 +27,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [nhanchaukp/laracart](https://github.com/nhanchaukp/laracart) | 0 | LaraCart is a Laravel package that provides a flexible and extensible shopping c... |
 | [indexnowkit/php-laravel](https://github.com/indexnowkit/php-laravel) | 0 | Laravel package for IndexNow: notify Yandex, Bing, Naver, Seznam on Eloquent mod... |
 | [Hennest/exchange-rate](https://github.com/Hennest/exchange-rate) | 1 | A laravel package for exchange rates |
-| [eznix86/laravel-analytics](https://github.com/eznix86/laravel-analytics) | 5 | Data Build Tool the eloquent way |
+| [eznix86/laravel-analytics](https://github.com/eznix86/laravel-analytics) | 6 | Data Build Tool the eloquent way |
 | [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | Visual feedback for Laravel and Livewire with client-side screenshot capture, br... |
-| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | Database safety for Laravel on PostgreSQL and MySQL. SQLens lints the SQL your m... |
-| [haoyuqi/download-bing-wallpaper](https://github.com/haoyuqi/download-bing-wallpaper) | 0 | Laravel 13 package that retrieves Bing wallpaper metadata by date and emits vers... |
-| [martin-lechene/ledger-laravel](https://github.com/martin-lechene/ledger-laravel) | 0 | Package Laravel for connect your ledger by USB/Bluetooth |
-| [martin-lechene/eBox-laravel](https://github.com/martin-lechene/eBox-laravel) | 0 | eBox Security Content |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -36,7 +36,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 |---------|-----|-------------|
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 500 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 494 | A full-featured Laravel package for aiding in Shopify App development |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 495 | A full-featured Laravel package for aiding in Shopify App development |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 332 | 2026-09-04 | Gorgeous shadcn inspired UI library for laravel blade using ... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-04 | Local-first personal finance dashboard that resolves cross-a... |
-| [libin-k-k/permission](https://github.com/libin-k-k/permission) | 0 | 2026-09-04 | Production-grade Laravel authorization & permissions package... |
-| [pushery/polyslug-for-laravel](https://github.com/pushery/polyslug-for-laravel) | 6 | 2026-09-04 | Polyslug gives Laravel Eloquent models multilingual, polymor... |
-| [awcodes/filament-versions](https://github.com/awcodes/filament-versions) | 44 | 2026-09-04 | A mostly useless package to display framework versions on Fi... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-09-04 | Ptah — Laravel package that forges complete module structure... |
-| [bagussatoto/Aplikasi-Data-Penjualan-Laravel-8](https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8) | 74 | 2026-09-04 | Membuat Aplikasi Berbasis Web Data Penjualan Menggunakan Lar... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-04 | Durable execution for PHP: workflows that survive deploys, r... |
+| [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-09-05 | Roles and permissions for Filament, built on elpandape/warde... |
+| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-05 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-05 | Local-first personal finance dashboard that resolves cross-a... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [elpandape/warden](https://github.com/elpandape/warden) | 0 | 2026-09-05 | Roles & permissions for Laravel — instance-level grants, exp... |
+| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | 2026-09-05 | An opinionated Laravel package for handling payments, batter... |
+| [livetennisapi/livetennisapi-laravel](https://github.com/livetennisapi/livetennisapi-laravel) | 0 | 2026-09-05 | Laravel package for the Live Tennis API — facade, config and... |
+| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | 2026-09-05 | Visual feedback for Laravel and Livewire with client-side sc... |
+| [mwguerra/web-terminal-stream](https://github.com/mwguerra/web-terminal-stream) | 2 | 2026-09-05 | A Stream-mode web terminal for Filament/Laravel: full intera... |
+| [NumraApp/numra-laravel](https://github.com/NumraApp/numra-laravel) | 0 | 2026-09-05 | Numra for Laravel: phone checks, outcome reporting and verif... |
+| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 17 | 2026-09-04 | Move non-secret config out of Laravel's .env into typed, env... |
 | [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-04 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 2 | 2026-09-04 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-09-04 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-09-04 | Home weather station, end to end: ESP32 firmware reading a B... |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-09-04 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [indexnowkit/php-laravel](https://github.com/indexnowkit/php-laravel) | 0 | 2026-09-04 | Laravel package for IndexNow: notify Yandex, Bing, Naver, Se... |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-09-04 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-09-04 |  |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-09-04 | A developer-friendly package for creating advanced Wordpress... |
-| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-09-04 | Privacy-first Matomo analytics for Laravel with cookieless t... |
-| [awcodes/recently](https://github.com/awcodes/recently) | 43 | 2026-09-04 | Easily track and access recently viewed records in your fila... |
-| [allamo123/lara_payments_ma](https://github.com/allamo123/lara_payments_ma) | 1 | 2026-09-04 | A Laravel payment gateway package that provides a unified AP... |
+| [salahhusa9/laravel-template-components](https://github.com/salahhusa9/laravel-template-components) | 2 | 2026-09-04 | Laravel template components, can use with vuexy and metronic... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-04 | Laravel package providing AI-powered search with Pagefind. D... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-04 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | 2026-09-04 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
+| [StoryKode/Krubot](https://github.com/StoryKode/Krubot) | 3 | 2026-09-04 | The Ultimate Laravel DX for building Enterprise bot architec... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-09-04 | Laravel package providing polymorphic image management with ... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-09-04 | Utility package for Laravel including Transformable proxies ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-05T01:00 | 4 | 1722 | 6146 |
 | 2026-09-04T18:31 | 6 | 1719 | 6143 |
 | 2026-09-04T12:40 | 3 | 1723 | 6137 |
 | 2026-09-04T06:43 | 3 | 1722 | 6134 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-03T06:44 | 4 | 1725 | 6116 |
 | 2026-09-03T01:04 | 4 | 1726 | 6112 |
 | 2026-09-02T18:34 | 7 | 1723 | 6108 |
-| 2026-09-02T12:41 | 6 | 1722 | 6101 |
 
 ---
 

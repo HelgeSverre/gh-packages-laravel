@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 6146  
-**Last updated:** 2026-09-05T01:00:02.023Z
+**Last updated:** 2026-09-05T06:39:11.209Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-09-05 | Roles and permissions for Filament, built on elpandape/warde... |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-05 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-05 | Local-first personal finance dashboard that resolves cross-a... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [elpandape/warden](https://github.com/elpandape/warden) | 0 | 2026-09-05 | Roles & permissions for Laravel — instance-level grants, exp... |
-| [damms005/laravel-multipay](https://github.com/damms005/laravel-multipay) | 27 | 2026-09-05 | An opinionated Laravel package for handling payments, batter... |
-| [livetennisapi/livetennisapi-laravel](https://github.com/livetennisapi/livetennisapi-laravel) | 0 | 2026-09-05 | Laravel package for the Live Tennis API — facade, config and... |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | 2026-09-05 | Visual feedback for Laravel and Livewire with client-side sc... |
-| [mwguerra/web-terminal-stream](https://github.com/mwguerra/web-terminal-stream) | 2 | 2026-09-05 | A Stream-mode web terminal for Filament/Laravel: full intera... |
-| [NumraApp/numra-laravel](https://github.com/NumraApp/numra-laravel) | 0 | 2026-09-05 | Numra for Laravel: phone checks, outcome reporting and verif... |
-| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 17 | 2026-09-04 | Move non-secret config out of Laravel's .env into typed, env... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-04 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [salahhusa9/laravel-template-components](https://github.com/salahhusa9/laravel-template-components) | 2 | 2026-09-04 | Laravel template components, can use with vuexy and metronic... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-04 | Laravel package providing AI-powered search with Pagefind. D... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-04 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | 2026-09-04 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
-| [StoryKode/Krubot](https://github.com/StoryKode/Krubot) | 3 | 2026-09-04 | The Ultimate Laravel DX for building Enterprise bot architec... |
-| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-09-04 | Laravel package providing polymorphic image management with ... |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-09-04 | Utility package for Laravel including Transformable proxies ... |
+| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 | 2026-09-05 |  |
+| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-05 | Open-source, self-hosted, white-label client reporting for w... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-05 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [mikeyperes/laravel-hexa-package-google-docs](https://github.com/mikeyperes/laravel-hexa-package-google-docs) | 0 | 2026-09-05 | Hexa package for reading public Google Docs content without ... |
+| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | 2026-09-05 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-05 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder) | 1 | 2026-09-05 | A simpel Laravel package for easy AJAX calls and response bu... |
+| [wayofdev/laravel-starter-tpl](https://github.com/wayofdev/laravel-starter-tpl) | 13 | 2026-09-05 | 🚀 Pre-configured Laravel Project Template. Includes PHPUnit... |
+| [damms005/laravel-flutterwave](https://github.com/damms005/laravel-flutterwave) | 3 | 2026-09-05 | A Laravel package that makes it easy to use Flutterwave APIs |
+| [derian-cordoba/laravel-ab-testing](https://github.com/derian-cordoba/laravel-ab-testing) | 2 | 2026-09-05 | Standalone Laravel A/B testing and feature flag framework wi... |
+| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-09-05 | Privacy-first Matomo analytics for Laravel with cookieless t... |
+| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-09-05 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
+| [ziming/laravel-crisp](https://github.com/ziming/laravel-crisp) | 7 | 2026-09-05 | PHP Laravel Crisp Chat Library so you can interact with your... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-05 | An event sourcing laravel package, complete with all the ess... |
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 66 | 2026-09-05 | The ultimate form components kit and custom fields builder f... |
+| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-09-05 |  |
+| [hieu92264/laravel-modules-package](https://github.com/hieu92264/laravel-modules-package) | 0 | 2026-09-05 | A Laravel package to generate custom module structures and s... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-05T06:39 | 0 | 1726 | 6146 |
 | 2026-09-05T01:00 | 4 | 1722 | 6146 |
 | 2026-09-04T18:31 | 6 | 1719 | 6143 |
 | 2026-09-04T12:40 | 3 | 1723 | 6137 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-03T12:41 | 7 | 1722 | 6123 |
 | 2026-09-03T06:44 | 4 | 1725 | 6116 |
 | 2026-09-03T01:04 | 4 | 1726 | 6112 |
-| 2026-09-02T18:34 | 7 | 1723 | 6108 |
 
 ---
 

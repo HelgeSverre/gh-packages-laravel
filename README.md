@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6146  
-**Last updated:** 2026-09-05T06:39:11.209Z
+**Total packages tracked:** 6156  
+**Last updated:** 2026-09-05T12:34:33.884Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Federico-Aguirre/Veterinaria_Laravel](https://github.com/Federico-Aguirre/Veterinaria_Laravel) | 1 | Veterinary management system built with Laravel, Livewire & Alpine.js. Features ... |
+| [finity-labs/lin-codex](https://github.com/finity-labs/lin-codex) | 0 | In-app help for Laravel. Contextual help articles from Markdown files or the dat... |
+| [Tayeb-Ali/Larazoul](https://github.com/Tayeb-Ali/Larazoul) | 12 |  |
+| [Neeraj-patel/laravel-bulk-assign](https://github.com/Neeraj-patel/laravel-bulk-assign) | 0 | Reassign thousands of Eloquent records in one operation - chunked, resumable, wi... |
+| [Dilshan97/laravel-social-lite-demo](https://github.com/Dilshan97/laravel-social-lite-demo) | 0 | This Repository discribe how to use Social authentication with Laravel's Officia... |
+| [diana-softcommerce/laravel-beta-helper](https://github.com/diana-softcommerce/laravel-beta-helper) | 0 | Diana Byte8 Beta Helper - Laravel package depending on diana-byte8/laravel-alpha... |
+| [HazzazBinFaiz/switchboard-node](https://github.com/HazzazBinFaiz/switchboard-node) | 1 | A laravel package to work as receiver side of switchboard app |
+| [kanekescom/laravel-siasn-api](https://github.com/kanekescom/laravel-siasn-api) | 4 | A Laravel package for seamless integration with the SIASN REST API |
+| [blue-hex/laravel-docling-rag](https://github.com/blue-hex/laravel-docling-rag) | 0 | Turns uploaded documents into cited, embeddable chunks backed by Postgres/pgvect... |
+| [Happy-Arif/license-guard](https://github.com/Happy-Arif/license-guard) | 0 | A secure, universal license verification package designed for Laravel applicatio... |
 | [frijoseph/cilarisfotus](https://github.com/frijoseph/cilarisfotus) | 0 | Multi-tenant WhatsApp Business CRM SaaS for SMBs — Laravel 13, Livewire, real-ti... |
 | [NumraApp/numra-laravel](https://github.com/NumraApp/numra-laravel) | 0 | Numra for Laravel: phone checks, outcome reporting and verified webhooks in one ... |
 | [chipslays/malevich](https://github.com/chipslays/malevich) | 0 | 🧑‍🎨 A lightweight variant API for building consistent Blade component librarie... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [matchory/response-cache](https://github.com/matchory/response-cache) | 2 | A Laravel package that adds a smart cache for full responses |
 | [emmanuelmukeni/swagger-auth-laravel](https://github.com/emmanuelmukeni/swagger-auth-laravel) | 0 | Package d'authentification pour l5-swagger avec système de login sécurisé |
 | [christianalban/laravel-collective-spatie-html-parser](https://github.com/christianalban/laravel-collective-spatie-html-parser) | 7 | Adapter class that allows use spatie/laravel-html for old projects that were usi... |
-| [mrlibelula/ai-interviewer](https://github.com/mrlibelula/ai-interviewer) | 0 | AI-powered technical interview platform for hiring teams, coding challenges, tim... |
-| [srustamov/laravel-azericard](https://github.com/srustamov/laravel-azericard) | 15 | Azericard payment package for Laravel |
-| [rocket-firm/rdrive-core](https://github.com/rocket-firm/rdrive-core) | 3 | Rocket Drive - Laravel Admin Package |
-| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | Open-source, self-hosted, white-label client reporting for web agencies. |
-| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 |  |
-| [nhanchaukp/laracart](https://github.com/nhanchaukp/laracart) | 0 | LaraCart is a Laravel package that provides a flexible and extensible shopping c... |
-| [indexnowkit/php-laravel](https://github.com/indexnowkit/php-laravel) | 0 | Laravel package for IndexNow: notify Yandex, Bing, Naver, Seznam on Eloquent mod... |
-| [Hennest/exchange-rate](https://github.com/Hennest/exchange-rate) | 1 | A laravel package for exchange rates |
-| [eznix86/laravel-analytics](https://github.com/eznix86/laravel-analytics) | 6 | Data Build Tool the eloquent way |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | Visual feedback for Laravel and Livewire with client-side screenshot capture, br... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-05 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-05 | Local-first personal finance dashboard that resolves cross-a... |
+| [jeffersongoncalves/laravel-faq](https://github.com/jeffersongoncalves/laravel-faq) | 1 | 2026-09-05 | A Laravel package for managing FAQs with translatable catego... |
+| [Happy-Arif/license-guard](https://github.com/Happy-Arif/license-guard) | 0 | 2026-09-05 | A secure, universal license verification package designed fo... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-05 | Laravel package providing AI-powered search with Pagefind. D... |
+| [Tayeb-Ali/Larazoul](https://github.com/Tayeb-Ali/Larazoul) | 12 | 2026-09-05 |  |
+| [Neeraj-patel/laravel-bulk-assign](https://github.com/Neeraj-patel/laravel-bulk-assign) | 0 | 2026-09-05 | Reassign thousands of Eloquent records in one operation - ch... |
 | [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 | 2026-09-05 |  |
-| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-05 | Open-source, self-hosted, white-label client reporting for w... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-05 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [mikeyperes/laravel-hexa-package-google-docs](https://github.com/mikeyperes/laravel-hexa-package-google-docs) | 0 | 2026-09-05 | Hexa package for reading public Google Docs content without ... |
-| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | 2026-09-05 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-05 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [takielias/laravel-ajax-builder](https://github.com/takielias/laravel-ajax-builder) | 1 | 2026-09-05 | A simpel Laravel package for easy AJAX calls and response bu... |
-| [wayofdev/laravel-starter-tpl](https://github.com/wayofdev/laravel-starter-tpl) | 13 | 2026-09-05 | 🚀 Pre-configured Laravel Project Template. Includes PHPUnit... |
-| [damms005/laravel-flutterwave](https://github.com/damms005/laravel-flutterwave) | 3 | 2026-09-05 | A Laravel package that makes it easy to use Flutterwave APIs |
-| [derian-cordoba/laravel-ab-testing](https://github.com/derian-cordoba/laravel-ab-testing) | 2 | 2026-09-05 | Standalone Laravel A/B testing and feature flag framework wi... |
-| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-09-05 | Privacy-first Matomo analytics for Laravel with cookieless t... |
-| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-09-05 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
-| [ziming/laravel-crisp](https://github.com/ziming/laravel-crisp) | 7 | 2026-09-05 | PHP Laravel Crisp Chat Library so you can interact with your... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-05 | An event sourcing laravel package, complete with all the ess... |
 | [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 66 | 2026-09-05 | The ultimate form components kit and custom fields builder f... |
-| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-09-05 |  |
-| [hieu92264/laravel-modules-package](https://github.com/hieu92264/laravel-modules-package) | 0 | 2026-09-05 | A Laravel package to generate custom module structures and s... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-09-05 | Provides email verification on the go. |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-09-05 | Laravel package providing polymorphic image management with ... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-09-05 | Utility package for Laravel including Transformable proxies ... |
+| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-09-05 | Toth is a Laravel package for database backup and snapshot m... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-09-05 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-09-05 | Laravel package providing OTP (One-Time Password) management... |
+| [indexnowkit/php-laravel](https://github.com/indexnowkit/php-laravel) | 0 | 2026-09-05 | Laravel package for IndexNow: notify Yandex, Bing, Naver, Se... |
+| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 44 | 2026-09-05 | Passwordless email magic-link & OTP authentication for Larav... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-09-05 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-09-05 | Laravel package providing polymorphic reactions (like, love,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-05T12:34 | 10 | 1720 | 6156 |
 | 2026-09-05T06:39 | 0 | 1726 | 6146 |
 | 2026-09-05T01:00 | 4 | 1722 | 6146 |
 | 2026-09-04T18:31 | 6 | 1719 | 6143 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-03T18:35 | 6 | 1720 | 6129 |
 | 2026-09-03T12:41 | 7 | 1722 | 6123 |
 | 2026-09-03T06:44 | 4 | 1725 | 6116 |
-| 2026-09-03T01:04 | 4 | 1726 | 6112 |
 
 ---
 

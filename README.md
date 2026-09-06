@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6167  
-**Last updated:** 2026-09-06T12:35:15.690Z
+**Total packages tracked:** 6173  
+**Last updated:** 2026-09-06T18:29:23.877Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [xkhaliil/DocPatient](https://github.com/xkhaliil/DocPatient) | 0 | Laravel-based medical appointment management app with health tips, IP geolocatio... |
+| [Youssef-Mekkkawy/laravel-ai-translator](https://github.com/Youssef-Mekkkawy/laravel-ai-translator) | 0 | AI-powered automatic translation for Laravel — scan Blade views, translate to an... |
+| [realrashid/laravel-driverjs](https://github.com/realrashid/laravel-driverjs) | 0 | Product tours, feature highlights and contextual help for Laravel, powered by Dr... |
+| [realrashid/raast-qr](https://github.com/realrashid/raast-qr) | 0 | Generate P2P Raast payment payloads and ready-to-display QR codes from Pakistani... |
+| [XgeniousLLC/xgenious-installer](https://github.com/XgeniousLLC/xgenious-installer) | 1 | A Laravel package for installing xgenious script easily with a visual installer |
+| [Burak-Orhan/empty-vilt-stack](https://github.com/Burak-Orhan/empty-vilt-stack) | 0 | Packages and installations complete, Ready-to-use VILT Stack (Vue.js, Inertia.js... |
 | [blemli/softrequired-for-filament](https://github.com/blemli/softrequired-for-filament) | 0 | Between required and optional lies reality. |
 | [Mostafa1712002/mena-payments-laravel](https://github.com/Mostafa1712002/mena-payments-laravel) | 0 | Unified Laravel package for MENA payment gateways: MyFatoorah, Moyasar, Tabby an... |
 | [mcwachira/maua.ke](https://github.com/mcwachira/maua.ke) | 0 | A fullstack Ecommerce App for sellinmg Flowers and Care Packages built using Nex... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Federico-Aguirre/Veterinaria_Laravel](https://github.com/Federico-Aguirre/Veterinaria_Laravel) | 1 | Veterinary management system built with Laravel, Livewire & Alpine.js. Features ... |
 | [finity-labs/lin-codex](https://github.com/finity-labs/lin-codex) | 0 | In-app help for Laravel. Contextual help articles from Markdown files or the dat... |
 | [Tayeb-Ali/Larazoul](https://github.com/Tayeb-Ali/Larazoul) | 12 |  |
-| [Neeraj-patel/laravel-bulk-assign](https://github.com/Neeraj-patel/laravel-bulk-assign) | 0 | Reassign thousands of Eloquent records in one operation - chunked, resumable, wi... |
-| [Dilshan97/laravel-social-lite-demo](https://github.com/Dilshan97/laravel-social-lite-demo) | 0 | This Repository discribe how to use Social authentication with Laravel's Officia... |
-| [diana-softcommerce/laravel-beta-helper](https://github.com/diana-softcommerce/laravel-beta-helper) | 0 | Diana Byte8 Beta Helper - Laravel package depending on diana-byte8/laravel-alpha... |
-| [HazzazBinFaiz/switchboard-node](https://github.com/HazzazBinFaiz/switchboard-node) | 1 | A laravel package to work as receiver side of switchboard app |
-| [kanekescom/laravel-siasn-api](https://github.com/kanekescom/laravel-siasn-api) | 4 | A Laravel package for seamless integration with the SIASN REST API |
-| [blue-hex/laravel-docling-rag](https://github.com/blue-hex/laravel-docling-rag) | 0 | Turns uploaded documents into cited, embeddable chunks backed by Postgres/pgvect... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -43,7 +43,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
-| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
+| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 464 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 462 | A simple package to help integrate Cloudflare Turnstile. |
 | [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 457 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [indexnowkit/php-laravel](https://github.com/indexnowkit/php-laravel) | 0 | 2026-09-06 | Laravel package for IndexNow: notify Yandex, Bing, Naver, Se... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-09-06 | Laravel package to handle requests are ensured sent |
-| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-06 | A Laravel package to interact with the Studizz API |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-09-06 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-06 | Runtime base library for building Laravel packages: fluent P... |
+| [Thiritin/meteric](https://github.com/Thiritin/meteric) | 2 | 2026-09-06 | Advanced billing engine for Laravel: subscriptions, proratio... |
+| [iabduul7/filament-auto-transliterate](https://github.com/iabduul7/filament-auto-transliterate) | 0 | 2026-09-06 | Inline, as-you-type transliteration and translation for Fila... |
+| [outatime-io/filament-login-shortcut](https://github.com/outatime-io/filament-login-shortcut) | 0 | 2026-09-06 | Secure one-click login shortcut for Filament panels, built f... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-06 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-06 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-06 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-06 | Local-first personal finance dashboard that resolves cross-a... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-09-06 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-09-06 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
-| [jeffersongoncalves/laravel-mail](https://github.com/jeffersongoncalves/laravel-mail) | 11 | 2026-09-06 | Complete email management for Laravel: logging, database tem... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-06 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [rankbeam/laravel-seo-filament](https://github.com/rankbeam/laravel-seo-filament) | 0 | 2026-09-06 | Laravel SEO package for Filament 4 and 5 — a complete editor... |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-09-06 | Laravel package to handle requests are ensured sent |
+| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-06 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-06 | A Laravel package to interact with the Studizz API |
+| [indexnowkit/php-laravel](https://github.com/indexnowkit/php-laravel) | 0 | 2026-09-06 | Laravel package for IndexNow: notify Yandex, Bing, Naver, Se... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 4 | 2026-09-06 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 44 | 2026-09-06 | Laravel için Mutlucell SMS Kütüphanesi |
+| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 11 | 2026-09-06 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
+| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-09-06 | Privacy-first Matomo analytics for Laravel with cookieless t... |
+| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-09-06 | Laravel user impersonation with scoped modes, audit trails, ... |
+| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-09-06 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
 | [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-09-06 | Laravel package scaffolder: generate complete, convention-re... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 270 | 2026-09-06 | A live database structure viewer for Laravel that renders yo... |
-| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-09-06 | PDF rendering for Laravel behind a capability-checked driver... |
-| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-09-06 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
 | [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-09-06 | Type-safe fluent validation rule builders for Laravel, plus ... |
-| [mbpcoder/world](https://github.com/mbpcoder/world) | 23 | 2026-09-06 | World - PHP & Laravel Package for Geographical Data |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 166 | 2026-09-06 | Filament plugin that allows to add dynamic, user-defined for... |
-| [jay123anta/laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | 34 | 2026-09-06 | Passive intrusion detection for Laravel. Logs SQL injection,... |
-| [Alphabalex/payment-made-easy](https://github.com/Alphabalex/payment-made-easy) | 0 | 2026-09-06 | A Laravel package for handling payments with multiple gatewa... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-06 | Extensible Laravel CMS built on Filament, with multi-site an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-06T18:29 | 6 | 1715 | 6173 |
 | 2026-09-06T12:35 | 3 | 1718 | 6167 |
 | 2026-09-06T06:39 | 0 | 1721 | 6164 |
 | 2026-09-06T01:08 | 5 | 1716 | 6164 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-05T01:00 | 4 | 1722 | 6146 |
 | 2026-09-04T18:31 | 6 | 1719 | 6143 |
 | 2026-09-04T12:40 | 3 | 1723 | 6137 |
-| 2026-09-04T06:43 | 3 | 1722 | 6134 |
 
 ---
 

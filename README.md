@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 6164  
-**Last updated:** 2026-09-06T01:08:10.866Z
+**Last updated:** 2026-09-06T06:39:51.383Z
 
 ## 📦 Recently Discovered
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-06 | Local-first personal finance dashboard that resolves cross-a... |
+| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-06 | Open-source, self-hosted, white-label client reporting for w... |
+| [syofyanzuhad/lumina](https://github.com/syofyanzuhad/lumina) | 0 | 2026-09-06 | Lightweight, self-hosted web analytics especially for Larave... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-09-06 | A practical work management information system built with La... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-09-06 | Simple package for adding directives to show/hide content fr... |
 | [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 166 | 2026-09-06 | Filament plugin that allows to add dynamic, user-defined for... |
-| [Shaykhnazar/hikvision-isapi](https://github.com/Shaykhnazar/hikvision-isapi) | 27 | 2026-09-06 | This is a Laravel package for integrating with Hikvision ISA... |
-| [jeffersongoncalves/laravel-amplitude](https://github.com/jeffersongoncalves/laravel-amplitude) | 1 | 2026-09-06 | Amplitude Browser SDK integration for Laravel Blade template... |
-| [jeffersongoncalves/laravel-ahrefs](https://github.com/jeffersongoncalves/laravel-ahrefs) | 1 | 2026-09-06 | A lightweight Ahrefs API v3 client for Laravel — domain rati... |
-| [jeffersongoncalves/laravel-testimonial](https://github.com/jeffersongoncalves/laravel-testimonial) | 1 | 2026-09-06 | A Laravel package for managing testimonials with translatabl... |
-| [jeffersongoncalves/laravel-how-it-works](https://github.com/jeffersongoncalves/laravel-how-it-works) | 1 | 2026-09-06 | A Laravel package for managing 'how it works' steps with tra... |
-| [jeffersongoncalves/laravel-livewire-wizard](https://github.com/jeffersongoncalves/laravel-livewire-wizard) | 1 | 2026-09-06 | Build multi-step wizards using Livewire 3. |
-| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 4 | 2026-09-06 | A Laravel package for creating and redirecting short URLs, w... |
-| [jeffersongoncalves/laravel-newsletter](https://github.com/jeffersongoncalves/laravel-newsletter) | 1 | 2026-09-06 | Compose, schedule and send double opt-in email newsletters w... |
-| [jeffersongoncalves/laravel-queue-management](https://github.com/jeffersongoncalves/laravel-queue-management) | 2 | 2026-09-06 | Manage Laravel's database queue tables (jobs, failed_jobs, j... |
-| [jeffersongoncalves/laravel-teams](https://github.com/jeffersongoncalves/laravel-teams) | 1 | 2026-09-06 | A Laravel package that adds Teams, memberships, and team inv... |
-| [jeffersongoncalves/laravel-webhooks](https://github.com/jeffersongoncalves/laravel-webhooks) | 1 | 2026-09-06 | Outgoing webhooks for Laravel fired by Eloquent model events... |
-| [jeffersongoncalves/laravel-pwa-service-worker](https://github.com/jeffersongoncalves/laravel-pwa-service-worker) | 1 | 2026-09-06 | Serve a versioned PWA service worker at /sw.js from Blade — ... |
-| [jeffersongoncalves/laravel-umami](https://github.com/jeffersongoncalves/laravel-umami) | 5 | 2026-09-06 | Laravel package to integrate Umami analytics into Blade temp... |
-| [jeffersongoncalves/laravel-service-desk](https://github.com/jeffersongoncalves/laravel-service-desk) | 8 | 2026-09-06 | A complete, headless Service Desk package for Laravel featur... |
-| [jeffersongoncalves/laravel-satis](https://github.com/jeffersongoncalves/laravel-satis) | 3 | 2026-09-06 | A Laravel package for managing private Composer repositories... |
-| [jeffersongoncalves/laravel-plausible](https://github.com/jeffersongoncalves/laravel-plausible) | 2 | 2026-09-06 | A lightweight Laravel package that integrates Plausible Anal... |
-| [jeffersongoncalves/laravel-pixel](https://github.com/jeffersongoncalves/laravel-pixel) | 4 | 2026-09-06 | Laravel package to integrate Meta (Facebook) Pixel with dyna... |
-| [jeffersongoncalves/laravel-mixpanel](https://github.com/jeffersongoncalves/laravel-mixpanel) | 1 | 2026-09-06 | Laravel package to seamlessly integrate Mixpanel JavaScript ... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-06 | The Moox Project - Packages for Filament and Laravel |
+| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 | 2026-09-06 |  |
+| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-09-06 | A collection of Dockerfile examples for various programming ... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-09-06 | Open-source, self-hosted video processing & delivery engine ... |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-06 | A Laravel package to interact with the Studizz API |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-09-06 | Laravel package to handle requests are ensured sent |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-06 | Manage, process, and serve files in Laravel with scalable up... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-06 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-06 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-06 | Integrate Mixpanel analytics into Filament projects to track... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-06 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-06 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-06 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-06 | 💰 Simplify your financial management with Finova, an open-s... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-06T06:39 | 0 | 1721 | 6164 |
 | 2026-09-06T01:08 | 5 | 1716 | 6164 |
 | 2026-09-05T18:29 | 3 | 1718 | 6159 |
 | 2026-09-05T12:34 | 10 | 1720 | 6156 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-04T12:40 | 3 | 1723 | 6137 |
 | 2026-09-04T06:43 | 3 | 1722 | 6134 |
 | 2026-09-04T01:01 | 2 | 1723 | 6131 |
-| 2026-09-03T18:35 | 6 | 1720 | 6129 |
 
 ---
 

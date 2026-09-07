@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6196  
-**Last updated:** 2026-09-07T12:40:44.733Z
+**Total packages tracked:** 6207  
+**Last updated:** 2026-09-07T18:33:15.262Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-plugin-cli](https://github.com/jeffersongoncalves/filament-plugin-cli) | 1 | Scaffold new open-source Filament plugins with multi-branch git already configur... |
+| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | Digitalización del trámite de incorporación de escuelas ante SEDEQ (Laravel 13, ... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | A multi-purpose content and application platform for Laravel — CMS, DAM, storefr... |
+| [isaidgitmenow/laravel-errors](https://github.com/isaidgitmenow/laravel-errors) | 0 | Cure your Laravel exception handling headaches. Manage errors, rate limits, and ... |
+| [bambamboole/extended-testbench](https://github.com/bambamboole/extended-testbench) | 0 | Use Laravel Boost in Laravel package development with Orchestra Testbench, zero ... |
+| [jeffersongoncalves/laravel-google-search-console](https://github.com/jeffersongoncalves/laravel-google-search-console) | 2 | A lightweight Google Search Console API client for Laravel — search analytics (q... |
+| [jeffersongoncalves/laravel-google-ads](https://github.com/jeffersongoncalves/laravel-google-ads) | 1 | A lightweight Google Ads API client for Laravel — GAQL search, campaign/budget m... |
+| [ja-sangha/riwaaq](https://github.com/ja-sangha/riwaaq) | 0 | Real-time Laravel chat package — 1-on-1 & group messaging, media sharing, reacti... |
+| [jeffersongoncalves/laravel-package-cli](https://github.com/jeffersongoncalves/laravel-package-cli) | 1 | Scaffold new open-source Laravel packages with git already configured, built wit... |
+| [jeffersongoncalves/laravel-hotjar](https://github.com/jeffersongoncalves/laravel-hotjar) | 1 | Laravel package to integrate Hotjar with database-driven settings via spatie/lar... |
+| [innoboxrr/larapack-generator](https://github.com/innoboxrr/larapack-generator) | 2 | Scaffold a production-ready Laravel package in seconds - structure, service prov... |
 | [jay123anta/jeeves](https://github.com/jay123anta/jeeves) | 0 | A chat window for your own database. Users ask in plain English; the AI receives... |
 | [kakaprodo/presigned-action](https://github.com/kakaprodo/presigned-action) | 0 | A Laravel package for securely presigning actions on any entity, enabling contro... |
 | [tsekka/data-loader](https://github.com/tsekka/data-loader) | 0 | Laravel package to easily load and access static data |
 | [abolfazlrastegar/laravel-sms](https://github.com/abolfazlrastegar/laravel-sms) | 3 | multi package sms laravel support sms.ir and kavenegar |
 | [finity-labs/fin-codex](https://github.com/finity-labs/fin-codex) | 0 | In-app help for Filament. A contextual help drawer, help buttons on resources an... |
 | [wooserv/filament-date-time-slots](https://github.com/wooserv/filament-date-time-slots) | 0 | A powerful Filament form component for scheduling future appointments, tasks, an... |
-| [jeffersongoncalves/laravel-ga4](https://github.com/jeffersongoncalves/laravel-ga4) | 0 | A lightweight Google Analytics 4 (GA4) API client for Laravel — reports, realtim... |
+| [jeffersongoncalves/laravel-ga4](https://github.com/jeffersongoncalves/laravel-ga4) | 1 | A lightweight Google Analytics 4 (GA4) API client for Laravel — reports, realtim... |
 | [osTicket/laravel-htmlawed](https://github.com/osTicket/laravel-htmlawed) | 0 | Htmlawed as Laravel Package  |
 | [saifali-dev/worktrack](https://github.com/saifali-dev/worktrack) | 2 | Effortlessly manage your workforce and streamline invoicing with Worktrack – the... |
-| [edriso/codebreaker](https://github.com/edriso/codebreaker) | 0 | My code for this little awesome workshop: https://laracasts.com/series/code-brea... |
-| [waysnx-tech/business-framework-laravel](https://github.com/waysnx-tech/business-framework-laravel) | 1 | Laravel 13 implementation of the WaysNX Business Framework (WBF) for business-fo... |
-| [jeffersongoncalves/filament-teams](https://github.com/jeffersongoncalves/filament-teams) | 3 | A Filament plugin that adds multi-tenancy with Teams, memberships, and team invi... |
-| [jeffersongoncalves/laravel-dataforseo](https://github.com/jeffersongoncalves/laravel-dataforseo) | 1 | A Laravel client for the DataForSEO API - SERP, Keywords Data, Backlinks, OnPage... |
-| [jeffersongoncalves/laravel-dub](https://github.com/jeffersongoncalves/laravel-dub) | 1 | A lightweight Dub.co API client for Laravel — link management and analytics with... |
-| [jeffersongoncalves/laravel-demio](https://github.com/jeffersongoncalves/laravel-demio) | 1 | A lightweight Demio webinar API client for Laravel — events, registrations, and ... |
-| [jeffersongoncalves/laravel-convertkit](https://github.com/jeffersongoncalves/laravel-convertkit) | 1 | PHP/Laravel client for the ConvertKit REST API v3: subscribers, forms, sequences... |
-| [jeffersongoncalves/laravel-customer-io](https://github.com/jeffersongoncalves/laravel-customer-io) | 1 | Laravel client for Customer.io's Track and App APIs: customer profiles, events, ... |
-| [jeffersongoncalves/laravel-clearbit](https://github.com/jeffersongoncalves/laravel-clearbit) | 1 | PHP/Laravel client for the Clearbit REST API: person enrichment, company enrichm... |
-| [jeffersongoncalves/laravel-calendly](https://github.com/jeffersongoncalves/laravel-calendly) | 1 | A lightweight Calendly REST API client for Laravel. |
-| [jeffersongoncalves/laravel-brevo](https://github.com/jeffersongoncalves/laravel-brevo) | 1 | PHP/Laravel client for the Brevo (formerly Sendinblue) REST API v3: account, con... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 167 | 2026-09-07 | Filament plugin that allows to add dynamic, user-defined for... |
-| [Jurager/filterable](https://github.com/Jurager/filterable) | 0 | 2026-09-07 | Laravel package for building complex eloquent filters in a s... |
-| [MrFibunacci/laravel-form-components](https://github.com/MrFibunacci/laravel-form-components) | 19 | 2026-09-07 | Ready-to-use and customizable form components. |
-| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 421 | 2026-09-07 | Laravel Kanban boards with intelligent pagination, drag-and-... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-07 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-07 | A multi-purpose content and application platform for Laravel... |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-09-07 | A personal portfolio built as an interactive browser-based t... |
+| [allamo123/lara_payments_ma](https://github.com/allamo123/lara_payments_ma) | 6 | 2026-09-07 | A Laravel payment gateway package that provides a unified AP... |
+| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-09-07 | A collection of Dockerfile examples for various programming ... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-09-07 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-07 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
+| [rankbeam/laravel-seo-filament](https://github.com/rankbeam/laravel-seo-filament) | 0 | 2026-09-07 | Laravel SEO package for Filament 4 and 5 — a complete editor... |
+| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-07 | Open-source, self-hosted, white-label client reporting for w... |
+| [awcodes/botly](https://github.com/awcodes/botly) | 6 | 2026-09-07 | Botly is a Filament plugin to manage your site's robots.txt ... |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-09-07 | Laravel package to handle requests are ensured sent |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-09-07 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-09-07 | Digitalización del trámite de incorporación de escuelas ante... |
+| [boldlygrow/google-api-client](https://github.com/boldlygrow/google-api-client) | 0 | 2026-09-07 | Composer package for Laravel applications for connecting to ... |
 | [MeRezaRezaei/teleframe](https://github.com/MeRezaRezaei/teleframe) | 0 | 2026-09-07 | Unified Telegram engine & framework — MTProto 2.0 + Bot API ... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-07 | Local-first personal finance dashboard that resolves cross-a... |
+| [Crumbls/subscriptions](https://github.com/Crumbls/subscriptions) | 3 | 2026-09-07 | A subscriptions package for Laravel 11+ |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-07 | Durable execution for PHP: workflows that survive deploys, r... |
+| [awcodes/typebar](https://github.com/awcodes/typebar) | 3 | 2026-09-07 | Mobile Markdown symbol row for the Filament Markdown editor. |
+| [jeffersongoncalves/filament-plugin-cli](https://github.com/jeffersongoncalves/filament-plugin-cli) | 1 | 2026-09-07 | Scaffold new open-source Filament plugins with multi-branch ... |
+| [jeffersongoncalves/laravel-package-cli](https://github.com/jeffersongoncalves/laravel-package-cli) | 1 | 2026-09-07 | Scaffold new open-source Laravel packages with git already c... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-07 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-09-07 | PHP / Laravel packages used by Visns Studio |
-| [testmonitor/laravel-vue-i18n-generator](https://github.com/testmonitor/laravel-vue-i18n-generator) | 5 | 2026-09-07 | This package compiles your Laravel translation files into a ... |
-| [milirezai/milipay](https://github.com/milirezai/milipay) | 18 | 2026-09-07 | The milipay Payment Package is a simple and flexible solutio... |
-| [testmonitor/eloquent-searchable](https://github.com/testmonitor/eloquent-searchable) | 3 | 2026-09-07 | A Laravel package that adds search functionality to Eloquent... |
-| [jeffersongoncalves/laravel-cep](https://github.com/jeffersongoncalves/laravel-cep) | 3 | 2026-09-07 | A simple and efficient PHP package for querying Brazilian po... |
-| [kakaprodo/presigned-action](https://github.com/kakaprodo/presigned-action) | 0 | 2026-09-07 | A Laravel package for securely presigning actions on any ent... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-09-07 | Magic Framework Laravel backend starter package. |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 47 | 2026-09-07 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [zerp-pk/package-template](https://github.com/zerp-pk/package-template) | 0 | 2026-09-07 | Starter template for building a new Zerp module |
-| [secondnetwork/kompass](https://github.com/secondnetwork/kompass) | 10 | 2026-09-07 | Kompass A Laravel CMS |
-| [Youssef-Mekkkawy/laravel-ai-translator](https://github.com/Youssef-Mekkkawy/laravel-ai-translator) | 0 | 2026-09-07 | AI-powered automatic translation for Laravel — scan Blade vi... |
-| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-09-07 | Filament package for easy attachment uploading and browsing. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-07T18:33 | 11 | 1706 | 6207 |
 | 2026-09-07T12:40 | 4 | 1717 | 6196 |
 | 2026-09-07T06:54 | 4 | 1717 | 6192 |
 | 2026-09-07T01:07 | 15 | 1706 | 6188 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-06T01:08 | 5 | 1716 | 6164 |
 | 2026-09-05T18:29 | 3 | 1718 | 6159 |
 | 2026-09-05T12:34 | 10 | 1720 | 6156 |
-| 2026-09-05T06:39 | 0 | 1726 | 6146 |
 
 ---
 

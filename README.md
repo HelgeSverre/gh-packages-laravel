@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6265  
-**Last updated:** 2026-09-08T12:40:20.861Z
+**Total packages tracked:** 6270  
+**Last updated:** 2026-09-08T18:34:59.547Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [DevMindsLab/database-framework](https://github.com/DevMindsLab/database-framework) | 0 | Self-hosted database framework for custom entity types, fields, relationships, a... |
+| [RLASH18/lynx-scout](https://github.com/RLASH18/lynx-scout) | 1 | Automated performance intelligence and actionable recommendations for Laravel. P... |
+| [route-forge/php-laravel](https://github.com/route-forge/php-laravel) | 1 | Laravel named routes for SPA frontends — per-tier lazy loading via an HTTP metad... |
+| [ivanfuhr/laravel-result](https://github.com/ivanfuhr/laravel-result) | 0 | A typed success/failure Result for Laravel service and action outcomes. |
+| [vaisakh-vn/tinyurl](https://github.com/vaisakh-vn/tinyurl) | 2 | A Simple Laravel URL Shortener Package. |
 | [serhii-f8/filament-studio](https://github.com/serhii-f8/filament-studio) | 52 | Dynamic data model manager for Filament — EAV storage, 33 field types, dashboard... |
 | [LuisHdezE/erp_eliasworks](https://github.com/LuisHdezE/erp_eliasworks) | 0 | EliasWorks engineering portfolio built with Laravel, Livewire and Tailwind, show... |
 | [plin-code/laravel-custom-fields](https://github.com/plin-code/laravel-custom-fields) | 0 | Typed, extensible custom fields for Eloquent models with filtering and sorting. |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rajurayhan/larastreamer](https://github.com/rajurayhan/larastreamer) | 49 | A lightweight, storage-agnostic video streaming engine for Laravel — HTTP Range,... |
 | [jeffersongoncalves/laravel-hubspot](https://github.com/jeffersongoncalves/laravel-hubspot) | 1 | PHP/Laravel client for the HubSpot CRM REST API: contacts, companies, deals, tic... |
 | [jeffersongoncalves/laravel-salesforce](https://github.com/jeffersongoncalves/laravel-salesforce) | 1 | PHP/Laravel client for the Salesforce REST API: SOQL queries, SOSL search, and s... |
-| [jeffersongoncalves/laravel-shopify](https://github.com/jeffersongoncalves/laravel-shopify) | 1 | Shopify Admin API integration for Laravel |
-| [jeffersongoncalves/laravel-woocommerce](https://github.com/jeffersongoncalves/laravel-woocommerce) | 1 | WooCommerce REST API integration for Laravel |
-| [jeffersongoncalves/laravel-wordpress](https://github.com/jeffersongoncalves/laravel-wordpress) | 1 | WordPress REST API integration for Laravel |
-| [jeffersongoncalves/laravel-webflow](https://github.com/jeffersongoncalves/laravel-webflow) | 1 | Laravel wrapper for the Webflow REST API v2 — sites, CMS collections/items, form... |
-| [jeffersongoncalves/laravel-typeform](https://github.com/jeffersongoncalves/laravel-typeform) | 1 | Typeform API integration for Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [greatplr/amember-sso](https://github.com/greatplr/amember-sso) | 0 | 2026-09-08 | Laravel package for aMember SSO authentication, webhook hand... |
-| [plin-code/kml-parser](https://github.com/plin-code/kml-parser) | 3 | 2026-09-08 | KML and KMZ Laravel parser |
-| [ahmed-rashad-alnaggar/laravel-translatable-model](https://github.com/ahmed-rashad-alnaggar/laravel-translatable-model) | 0 | 2026-09-08 | A Laravel package to store model attribute translations in a... |
+| [isaidgitmenow/laravel-errors](https://github.com/isaidgitmenow/laravel-errors) | 0 | 2026-09-08 | Cure your Laravel exception handling headaches. Manage error... |
+| [corgab/aether](https://github.com/corgab/aether) | 4 | 2026-09-08 | Quantum computing bridge for Laravel. Solve the impossible w... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-08 | A multi-purpose content and application platform for Laravel... |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-09-08 | Laravel package to handle requests are ensured sent |
+| [hardcodear/api-response-service](https://github.com/hardcodear/api-response-service) | 1 | 2026-09-08 | Una simple dependencia para manejar response de APIs en Lara... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 66 | 2026-09-08 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-09-08 | Roles and permissions for Filament, built on elpandape/warde... |
+| [StoryKode/Krubot](https://github.com/StoryKode/Krubot) | 3 | 2026-09-08 | The Ultimate Laravel DX for building Enterprise bot architec... |
+| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 1 | 2026-09-08 | A self-hosted ActivityPub server implementation for Laravel ... |
+| [MeRezaRezaei/teleframe](https://github.com/MeRezaRezaei/teleframe) | 0 | 2026-09-08 | Unified Telegram engine & framework — MTProto 2.0 + Bot API ... |
+| [diegosurita/pennant-ui](https://github.com/diegosurita/pennant-ui) | 0 | 2026-09-08 | A user-friendly UI for Laravel Pennant package |
+| [XgeniousLLC/xgenious-installer](https://github.com/XgeniousLLC/xgenious-installer) | 1 | 2026-09-08 | A Laravel package for installing xgenious script easily with... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-08 | Local-first personal finance dashboard that resolves cross-a... |
+| [yuriyakishin/laravel-ai-chat-bot](https://github.com/yuriyakishin/laravel-ai-chat-bot) | 0 | 2026-09-08 | AI chat widget for Laravel with multiple LLM providers, func... |
+| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-09-08 | Digitalización del trámite de incorporación de escuelas ante... |
 | [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-08 | Open-source, self-hosted, white-label client reporting for w... |
-| [cybex-gmbh/laravel-transmorpher-client](https://github.com/cybex-gmbh/laravel-transmorpher-client) | 0 | 2026-09-08 | A client package for Laravel applications that use the Trans... |
-| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | 2026-09-08 | Toolkit with testing utilities for php and Laravel |
-| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-09-08 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
-| [open-southeners/laravel-apiable](https://github.com/open-southeners/laravel-apiable) | 13 | 2026-09-08 | Integrate JSON:API resources on your Laravel API project. |
-| [christopheraseidl/laravel-auto-filer](https://github.com/christopheraseidl/laravel-auto-filer) | 1 | 2026-09-08 | A simple package for automating the organization of uploaded... |
-| [jeffersongoncalves/filament-plugin-cli](https://github.com/jeffersongoncalves/filament-plugin-cli) | 1 | 2026-09-08 | Scaffold new open-source Filament plugins with multi-branch ... |
-| [jeffersongoncalves/laravel-package-cli](https://github.com/jeffersongoncalves/laravel-package-cli) | 1 | 2026-09-08 | Scaffold new open-source Laravel packages with git already c... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-08 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [zarbinco/laravel-iran-locations](https://github.com/zarbinco/laravel-iran-locations) | 0 | 2026-09-08 | Laravel package for Iran locations, address data, admin UI, ... |
-| [mikelmao/laravel-nodeflow](https://github.com/mikelmao/laravel-nodeflow) | 0 | 2026-09-08 | A laravel + inertia + react package to have durable workflow... |
-| [jeffersongoncalves/laravel-zero-package-scaffold](https://github.com/jeffersongoncalves/laravel-zero-package-scaffold) | 1 | 2026-09-08 | Shared file templates and namespace-casing resolution for pa... |
-| [danielebarbaro/laravel-vat-eu-validator](https://github.com/danielebarbaro/laravel-vat-eu-validator) | 43 | 2026-09-08 | A simple package that validates EU VAT numbers against the c... |
-| [Gowa-PHP/filament](https://github.com/Gowa-PHP/filament) | 0 | 2026-09-08 | Official Filament v5 / v4 / v3 plugin for integrating GOWA (... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-08 | The Moox Project - Packages for Filament and Laravel |
-| [lettr-com/lettr-laravel](https://github.com/lettr-com/lettr-laravel) | 6 | 2026-09-08 | Official Laravel integration for the Lettr email API |
+| [balismatz/laravel-image-style-demo](https://github.com/balismatz/laravel-image-style-demo) | 0 | 2026-09-08 | Demonstrates the use of the Image Style for Laravel package ... |
+| [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | 2026-09-08 | The official reference theme for Bagisto Visual — lightweigh... |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-08 | A Laravel package to interact with the Studizz API |
+| [RLASH18/lynx-scout](https://github.com/RLASH18/lynx-scout) | 1 | 2026-09-08 | Automated performance intelligence and actionable recommenda... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-08T18:34 | 5 | 1724 | 6270 |
 | 2026-09-08T12:40 | 12 | 1715 | 6265 |
 | 2026-09-08T06:44 | 15 | 1710 | 6253 |
 | 2026-09-08T01:03 | 31 | 1693 | 6238 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-07T01:07 | 15 | 1706 | 6188 |
 | 2026-09-06T18:29 | 6 | 1715 | 6173 |
 | 2026-09-06T12:35 | 3 | 1718 | 6167 |
-| 2026-09-06T06:39 | 0 | 1721 | 6164 |
 
 ---
 

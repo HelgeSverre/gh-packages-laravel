@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6238  
-**Last updated:** 2026-09-08T01:03:31.734Z
+**Total packages tracked:** 6253  
+**Last updated:** 2026-09-08T06:44:43.212Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [rajurayhan/larastreamer](https://github.com/rajurayhan/larastreamer) | 49 | A lightweight, storage-agnostic video streaming engine for Laravel — HTTP Range,... |
+| [jeffersongoncalves/laravel-hubspot](https://github.com/jeffersongoncalves/laravel-hubspot) | 1 | PHP/Laravel client for the HubSpot CRM REST API: contacts, companies, deals, tic... |
+| [jeffersongoncalves/laravel-salesforce](https://github.com/jeffersongoncalves/laravel-salesforce) | 1 | PHP/Laravel client for the Salesforce REST API: SOQL queries, SOSL search, and s... |
+| [jeffersongoncalves/laravel-shopify](https://github.com/jeffersongoncalves/laravel-shopify) | 1 | Shopify Admin API integration for Laravel |
+| [jeffersongoncalves/laravel-woocommerce](https://github.com/jeffersongoncalves/laravel-woocommerce) | 1 | WooCommerce REST API integration for Laravel |
+| [jeffersongoncalves/laravel-wordpress](https://github.com/jeffersongoncalves/laravel-wordpress) | 1 | WordPress REST API integration for Laravel |
+| [jeffersongoncalves/laravel-webflow](https://github.com/jeffersongoncalves/laravel-webflow) | 1 | Laravel wrapper for the Webflow REST API v2 — sites, CMS collections/items, form... |
+| [jeffersongoncalves/laravel-typeform](https://github.com/jeffersongoncalves/laravel-typeform) | 1 | Typeform API integration for Laravel |
+| [jeffersongoncalves/laravel-zapier](https://github.com/jeffersongoncalves/laravel-zapier) | 1 | Zapier integration for Laravel: push payloads to Zapier catch hooks and drive th... |
+| [jeffersongoncalves/laravel-trustpilot](https://github.com/jeffersongoncalves/laravel-trustpilot) | 1 | A Laravel client for the Trustpilot API - business units, public and private rev... |
+| [jeffersongoncalves/laravel-tolt](https://github.com/jeffersongoncalves/laravel-tolt) | 1 | Tolt affiliate and referral program API integration for Laravel |
+| [jeffersongoncalves/laravel-wistia](https://github.com/jeffersongoncalves/laravel-wistia) | 1 | A lightweight Wistia Data API client for Laravel. |
+| [wooserv/filament-date-time-slots-demo](https://github.com/wooserv/filament-date-time-slots-demo) | 0 | Live demo application for Filament Date Time Slots, showcasing admin form and pu... |
+| [senaranya/laravel-slack](https://github.com/senaranya/laravel-slack) | 0 | A Laravel package to send messages to Slack |
+| [jeffersongoncalves/laravel-zero-package-scaffold](https://github.com/jeffersongoncalves/laravel-zero-package-scaffold) | 0 | Shared file templates and namespace-casing resolution for package generator CLIs... |
 | [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | Sistema de gestão para centros e casas espíritas: assistidos, agendamentos, aten... |
-| [jeffersongoncalves/laravel-snov](https://github.com/jeffersongoncalves/laravel-snov) | 0 | A Laravel client for the Snov.io API - domain search, email finder and verifier,... |
+| [jeffersongoncalves/laravel-snov](https://github.com/jeffersongoncalves/laravel-snov) | 1 | A Laravel client for the Snov.io API - domain search, email finder and verifier,... |
 | [jeffersongoncalves/laravel-sendgrid](https://github.com/jeffersongoncalves/laravel-sendgrid) | 1 | Laravel wrapper for SendGrid's Web API v3 (mail, contacts, campaigns, stats, bou... |
 | [jeffersongoncalves/laravel-tiktok-ads](https://github.com/jeffersongoncalves/laravel-tiktok-ads) | 1 | Laravel integration for the TikTok Ads (TikTok Business) API |
 | [jeffersongoncalves/laravel-semrush](https://github.com/jeffersongoncalves/laravel-semrush) | 1 | A lightweight Semrush Analytics API client for Laravel — domain analytics, keywo... |
-| [jeffersongoncalves/laravel-rewardful](https://github.com/jeffersongoncalves/laravel-rewardful) | 1 | Rewardful affiliate and referral tracking API integration for Laravel |
-| [jeffersongoncalves/laravel-segment](https://github.com/jeffersongoncalves/laravel-segment) | 1 | Laravel client for the Segment HTTP API: track events, identify users, record pa... |
-| [jeffersongoncalves/laravel-savvycal](https://github.com/jeffersongoncalves/laravel-savvycal) | 1 | A lightweight SavvyCal REST API client for Laravel. |
-| [jeffersongoncalves/laravel-resend](https://github.com/jeffersongoncalves/laravel-resend) | 1 | Laravel client for the Resend API: emails, domains, audiences, contacts, webhook... |
-| [jeffersongoncalves/laravel-postmark](https://github.com/jeffersongoncalves/laravel-postmark) | 1 | PHP/Laravel client for the Postmark REST API: transactional email, templates, bo... |
-| [jeffersongoncalves/laravel-partnerstack](https://github.com/jeffersongoncalves/laravel-partnerstack) | 1 | PartnerStack partner and affiliate program API integration for Laravel |
-| [jeffersongoncalves/laravel-onesignal](https://github.com/jeffersongoncalves/laravel-onesignal) | 1 | A Laravel wrapper for the OneSignal REST API. Send push notifications and manage... |
-| [realrashid/alert-deck](https://github.com/realrashid/alert-deck) | 0 | A Laravel app that exercises every alert realrashid/sweet-alert can produce — Bl... |
-| [jeffersongoncalves/laravel-mixpanel-api](https://github.com/jeffersongoncalves/laravel-mixpanel-api) | 1 | Laravel client for Mixpanel's HTTP API: track events, update user profiles, and ... |
-| [jeffersongoncalves/laravel-meta-ads](https://github.com/jeffersongoncalves/laravel-meta-ads) | 1 | Laravel integration for the Meta Ads (Facebook/Instagram Ads) Graph API |
-| [jeffersongoncalves/laravel-mention-me](https://github.com/jeffersongoncalves/laravel-mention-me) | 1 | Mention Me referral marketing API integration for Laravel |
-| [jeffersongoncalves/laravel-mailchimp](https://github.com/jeffersongoncalves/laravel-mailchimp) | 1 | Laravel client for Mailchimp's Marketing API: lists, members, campaigns, reports... |
-| [jeffersongoncalves/laravel-livestorm](https://github.com/jeffersongoncalves/laravel-livestorm) | 1 | A lightweight Livestorm webinar API client for Laravel — events, sessions, peopl... |
-| [jeffersongoncalves/laravel-linkedin-ads](https://github.com/jeffersongoncalves/laravel-linkedin-ads) | 1 | A lightweight LinkedIn Ads (Marketing API) client for Laravel — list ad accounts... |
-| [jeffersongoncalves/laravel-klaviyo](https://github.com/jeffersongoncalves/laravel-klaviyo) | 1 | Laravel integration for the Klaviyo API |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 464 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 462 | A simple package to help integrate Cloudflare Turnstile. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 458 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 459 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [aliziodev/laravel-wilayah](https://github.com/aliziodev/laravel-wilayah) | 3 | 2026-09-08 | Laravel package untuk data wilayah administratif Indonesia (... |
+| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-08 | Open-source, self-hosted, white-label client reporting for w... |
+| [Youssef-Mekkkawy/laravel-ai-translator](https://github.com/Youssef-Mekkkawy/laravel-ai-translator) | 0 | 2026-09-08 | AI-powered automatic translation for Laravel — scan Blade vi... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-09-08 | Chief admin package |
+| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 1 | 2026-09-08 | A self-hosted ActivityPub server implementation for Laravel ... |
+| [arafat-dev/laravel-repository](https://github.com/arafat-dev/laravel-repository) | 5 | 2026-09-08 | An open-source Laravel package for implementing the Reposito... |
+| [allamo123/lara_payments_ma](https://github.com/allamo123/lara_payments_ma) | 6 | 2026-09-08 | A Laravel payment gateway package that provides a unified AP... |
+| [aardnsyhs/grajavan](https://github.com/aardnsyhs/grajavan) | 2 | 2026-09-08 |  |
 | [innoboxrr/larapack-generator](https://github.com/innoboxrr/larapack-generator) | 2 | 2026-09-08 | Scaffold a production-ready Laravel package in seconds - str... |
-| [jeffersongoncalves/laravel-snov](https://github.com/jeffersongoncalves/laravel-snov) | 0 | 2026-09-08 | A Laravel client for the Snov.io API - domain search, email ... |
-| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-09-08 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
-| [jeffersongoncalves/laravel-sendgrid](https://github.com/jeffersongoncalves/laravel-sendgrid) | 1 | 2026-09-08 | Laravel wrapper for SendGrid's Web API v3 (mail, contacts, c... |
-| [jeffersongoncalves/laravel-tiktok-ads](https://github.com/jeffersongoncalves/laravel-tiktok-ads) | 1 | 2026-09-08 | Laravel integration for the TikTok Ads (TikTok Business) API |
-| [jeffersongoncalves/laravel-semrush](https://github.com/jeffersongoncalves/laravel-semrush) | 1 | 2026-09-08 | A lightweight Semrush Analytics API client for Laravel — dom... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-08 | A multi-purpose content and application platform for Laravel... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-08 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [jeffersongoncalves/laravel-rewardful](https://github.com/jeffersongoncalves/laravel-rewardful) | 1 | 2026-09-08 | Rewardful affiliate and referral tracking API integration fo... |
-| [jeffersongoncalves/laravel-segment](https://github.com/jeffersongoncalves/laravel-segment) | 1 | 2026-09-08 | Laravel client for the Segment HTTP API: track events, ident... |
-| [jeffersongoncalves/laravel-savvycal](https://github.com/jeffersongoncalves/laravel-savvycal) | 1 | 2026-09-08 | A lightweight SavvyCal REST API client for Laravel. |
-| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 44 | 2026-09-08 | Passwordless email magic-link & OTP authentication for Larav... |
-| [jeffersongoncalves/laravel-resend](https://github.com/jeffersongoncalves/laravel-resend) | 1 | 2026-09-08 | Laravel client for the Resend API: emails, domains, audience... |
-| [jeffersongoncalves/laravel-postmark](https://github.com/jeffersongoncalves/laravel-postmark) | 1 | 2026-09-08 | PHP/Laravel client for the Postmark REST API: transactional ... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-08 | Local-first personal finance dashboard that resolves cross-a... |
-| [jeffersongoncalves/laravel-metrics-plausible](https://github.com/jeffersongoncalves/laravel-metrics-plausible) | 1 | 2026-09-08 | Laravel package to interact with the Plausible Analytics Sta... |
-| [jeffersongoncalves/laravel-partnerstack](https://github.com/jeffersongoncalves/laravel-partnerstack) | 1 | 2026-09-08 | PartnerStack partner and affiliate program API integration f... |
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-08 | The Moox Project - Packages for Filament and Laravel |
-| [pushery/polyslug-for-laravel](https://github.com/pushery/polyslug-for-laravel) | 6 | 2026-09-08 | Polyslug gives Laravel Eloquent models multilingual, polymor... |
-| [boldlygrow/google-api-client](https://github.com/boldlygrow/google-api-client) | 0 | 2026-09-08 | Composer package for Laravel applications for connecting to ... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-09-08 | Laravel-based API for storing sensor data from distributed n... |
+| [libin-k-k/permission](https://github.com/libin-k-k/permission) | 1 | 2026-09-08 | Production-grade Laravel authorization & permissions package... |
+| [wooserv/filament-date-time-slots](https://github.com/wooserv/filament-date-time-slots) | 1 | 2026-09-08 | A powerful Filament form component for scheduling future app... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-08 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [mikeyperes/laravel-hexa-package-newsdata](https://github.com/mikeyperes/laravel-hexa-package-newsdata) | 0 | 2026-09-08 | HWS Package: NewsData.io article/news API integration |
+| [mikeyperes/laravel-hexa-package-gnews](https://github.com/mikeyperes/laravel-hexa-package-gnews) | 0 | 2026-09-08 | HWS Package: GNews article/news API integration |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-08 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [mikeyperes/laravel-hexa-package-unsplash](https://github.com/mikeyperes/laravel-hexa-package-unsplash) | 0 | 2026-09-08 | HWS Package: Unsplash stock photo API integration |
+| [mikeyperes/laravel-hexa-package-pixabay](https://github.com/mikeyperes/laravel-hexa-package-pixabay) | 0 | 2026-09-08 | HWS Package: Pixabay stock photo API integration |
+| [mikeyperes/laravel-hexa-package-pexels](https://github.com/mikeyperes/laravel-hexa-package-pexels) | 0 | 2026-09-08 | HWS Package: Pexels stock photo API integration |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-08T06:44 | 15 | 1710 | 6253 |
 | 2026-09-08T01:03 | 31 | 1693 | 6238 |
 | 2026-09-07T18:33 | 11 | 1706 | 6207 |
 | 2026-09-07T12:40 | 4 | 1717 | 6196 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-06T12:35 | 3 | 1718 | 6167 |
 | 2026-09-06T06:39 | 0 | 1721 | 6164 |
 | 2026-09-06T01:08 | 5 | 1716 | 6164 |
-| 2026-09-05T18:29 | 3 | 1718 | 6159 |
 
 ---
 

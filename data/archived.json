@@ -1383,5 +1383,33 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-09-05T01:00:01.998Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "santosreis/laravel10-livewire3-filament3-blog": {
+    "name": "SantosReis/laravel10-livewire3-filament3-blog",
+    "url": "https://github.com/SantosReis/laravel10-livewire3-filament3-blog",
+    "description": "Laravel Blog with Filament and Livewire",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "filament",
+      "filament3",
+      "gitactions",
+      "laravel",
+      "laravel10",
+      "livewire",
+      "livewire3",
+      "localization-management",
+      "php",
+      "php8",
+      "tdd"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-01-04T14:53:42Z",
+    "updated_at": "2025-08-05T20:45:04Z",
+    "pushed_at": "2025-09-08T20:25:52Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-09-09T01:02:56.269Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

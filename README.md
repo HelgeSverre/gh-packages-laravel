@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6270  
-**Last updated:** 2026-09-08T18:34:59.547Z
+**Total packages tracked:** 6272  
+**Last updated:** 2026-09-09T01:02:56.304Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [SiddharthaGF/xmorph](https://github.com/SiddharthaGF/xmorph) | 0 | Radix-style asChild for Blade/Livewire components |
+| [rbmowatt/base](https://github.com/rbmowatt/base) | 1 | Laravel 13 REST API scaffolding. Extend a Service, Model and Controller and get ... |
+| [eryndrix/exception-logger](https://github.com/eryndrix/exception-logger) | 0 | Laravel package for exception logging with PSR-3 levels and attribute-based conf... |
 | [DevMindsLab/database-framework](https://github.com/DevMindsLab/database-framework) | 0 | Self-hosted database framework for custom entity types, fields, relationships, a... |
 | [RLASH18/lynx-scout](https://github.com/RLASH18/lynx-scout) | 1 | Automated performance intelligence and actionable recommendations for Laravel. P... |
 | [route-forge/php-laravel](https://github.com/route-forge/php-laravel) | 1 | Laravel named routes for SPA frontends — per-tier lazy loading via an HTTP metad... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mikeyperes/laravel-hexa-package-originality](https://github.com/mikeyperes/laravel-hexa-package-originality) | 0 | Originality.ai — AI detection and plagiarism for Hexa Web Systems |
 | [mikeyperes/laravel-hexa-package-zerogpt](https://github.com/mikeyperes/laravel-hexa-package-zerogpt) | 0 | ZeroGPT — AI content detection for Hexa Web Systems |
 | [mikeyperes/laravel-hexa-package-gptzero](https://github.com/mikeyperes/laravel-hexa-package-gptzero) | 0 | GPTZero — AI content detection package for Hexa Web Systems |
-| [rajurayhan/larastreamer](https://github.com/rajurayhan/larastreamer) | 49 | A lightweight, storage-agnostic video streaming engine for Laravel — HTTP Range,... |
-| [jeffersongoncalves/laravel-hubspot](https://github.com/jeffersongoncalves/laravel-hubspot) | 1 | PHP/Laravel client for the HubSpot CRM REST API: contacts, companies, deals, tic... |
-| [jeffersongoncalves/laravel-salesforce](https://github.com/jeffersongoncalves/laravel-salesforce) | 1 | PHP/Laravel client for the Salesforce REST API: SOQL queries, SOSL search, and s... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [isaidgitmenow/laravel-errors](https://github.com/isaidgitmenow/laravel-errors) | 0 | 2026-09-08 | Cure your Laravel exception handling headaches. Manage error... |
-| [corgab/aether](https://github.com/corgab/aether) | 4 | 2026-09-08 | Quantum computing bridge for Laravel. Solve the impossible w... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-08 | A multi-purpose content and application platform for Laravel... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-09-08 | Laravel package to handle requests are ensured sent |
-| [hardcodear/api-response-service](https://github.com/hardcodear/api-response-service) | 1 | 2026-09-08 | Una simple dependencia para manejar response de APIs en Lara... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 66 | 2026-09-08 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [SiddharthaGF/xmorph](https://github.com/SiddharthaGF/xmorph) | 0 | 2026-09-09 | Radix-style asChild for Blade/Livewire components |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-09 | An event sourcing laravel package, complete with all the ess... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-09 | A multi-purpose content and application platform for Laravel... |
+| [rbmowatt/base](https://github.com/rbmowatt/base) | 1 | 2026-09-09 | Laravel 13 REST API scaffolding. Extend a Service, Model and... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-09 | Local-first personal finance dashboard that resolves cross-a... |
+| [leandrocfe/filament-ptbr-form-fields](https://github.com/leandrocfe/filament-ptbr-form-fields) | 149 | 2026-09-09 | This package provides custom form fields for Filament (>=v2.... |
+| [metrictower/funnypot-policy](https://github.com/metrictower/funnypot-policy) | 0 | 2026-09-08 | The decision engine for funnypot. Normally not installed dir... |
+| [Gowa-PHP/filament](https://github.com/Gowa-PHP/filament) | 0 | 2026-09-08 | Official Filament v5 / v4 / v3 plugin for integrating GOWA (... |
 | [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-09-08 | Roles and permissions for Filament, built on elpandape/warde... |
-| [StoryKode/Krubot](https://github.com/StoryKode/Krubot) | 3 | 2026-09-08 | The Ultimate Laravel DX for building Enterprise bot architec... |
-| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 1 | 2026-09-08 | A self-hosted ActivityPub server implementation for Laravel ... |
+| [eryndrix/exception-logger](https://github.com/eryndrix/exception-logger) | 0 | 2026-09-08 | Laravel package for exception logging with PSR-3 levels and ... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 374 | 2026-09-08 | The official Laravel Nightwatch package. |
 | [MeRezaRezaei/teleframe](https://github.com/MeRezaRezaei/teleframe) | 0 | 2026-09-08 | Unified Telegram engine & framework — MTProto 2.0 + Bot API ... |
-| [diegosurita/pennant-ui](https://github.com/diegosurita/pennant-ui) | 0 | 2026-09-08 | A user-friendly UI for Laravel Pennant package |
-| [XgeniousLLC/xgenious-installer](https://github.com/XgeniousLLC/xgenious-installer) | 1 | 2026-09-08 | A Laravel package for installing xgenious script easily with... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-08 | Local-first personal finance dashboard that resolves cross-a... |
-| [yuriyakishin/laravel-ai-chat-bot](https://github.com/yuriyakishin/laravel-ai-chat-bot) | 0 | 2026-09-08 | AI chat widget for Laravel with multiple LLM providers, func... |
-| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-09-08 | Digitalización del trámite de incorporación de escuelas ante... |
-| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-08 | Open-source, self-hosted, white-label client reporting for w... |
-| [balismatz/laravel-image-style-demo](https://github.com/balismatz/laravel-image-style-demo) | 0 | 2026-09-08 | Demonstrates the use of the Image Style for Laravel package ... |
-| [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | 2026-09-08 | The official reference theme for Bagisto Visual — lightweigh... |
-| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-08 | A Laravel package to interact with the Studizz API |
-| [RLASH18/lynx-scout](https://github.com/RLASH18/lynx-scout) | 1 | 2026-09-08 | Automated performance intelligence and actionable recommenda... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [Gybra/laravel-eix-pricing](https://github.com/Gybra/laravel-eix-pricing) | 0 | 2026-09-08 | Laravel package for ingesting EIX pre-trade data and exposin... |
+| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 94 | 2026-09-08 | Laravel + Filament 5 CMS foundation: visual page builder, in... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-08 | The Moox Project - Packages for Filament and Laravel |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-08 | Manage, process, and serve files in Laravel with scalable up... |
+| [Gybra/laravel-eix-pricing-host](https://github.com/Gybra/laravel-eix-pricing-host) | 0 | 2026-09-08 | Dockerized Laravel reference host for the laravel-eix-pricin... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-08 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-08 | Integrate Laravel with the Agent Runner microservice to mana... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-09T01:02 | 3 | 1725 | 6272 |
 | 2026-09-08T18:34 | 5 | 1724 | 6270 |
 | 2026-09-08T12:40 | 12 | 1715 | 6265 |
 | 2026-09-08T06:44 | 15 | 1710 | 6253 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-07T06:54 | 4 | 1717 | 6192 |
 | 2026-09-07T01:07 | 15 | 1706 | 6188 |
 | 2026-09-06T18:29 | 6 | 1715 | 6173 |
-| 2026-09-06T12:35 | 3 | 1718 | 6167 |
 
 ---
 

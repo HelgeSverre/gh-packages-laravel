@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6275  
-**Last updated:** 2026-09-09T06:44:59.122Z
+**Total packages tracked:** 6286  
+**Last updated:** 2026-09-09T12:40:36.246Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [NyonCode/wire-core](https://github.com/NyonCode/wire-core) | 0 | Shared foundation for the Wire ecosystem – traits, actions, modals, notification... |
+| [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | Enterprise-grade Livewire table system with inline editing, optimistic locking, ... |
+| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | AI tooling for the Wire ecosystem – an MCP server, AI guidelines and agent skill... |
+| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | Standalone form system for the Wire ecosystem – fields, validation, layout, stan... |
+| [NyonCode/wire-sortable](https://github.com/NyonCode/wire-sortable) | 0 | Drag & drop row reordering plugin for wire-table. — READ ONLY (split from ONykli... |
+| [frahmat68-beep/PiyohPOS](https://github.com/frahmat68-beep/PiyohPOS) | 0 | Multi-outlet Point of Sale & Table QR Ordering System for Piyoh Kopi — features ... |
+| [teamchallengeapps/upcloud-metrics](https://github.com/teamchallengeapps/upcloud-metrics) | 0 | Poll and alert UpCloud managed database metrics in Laravel projects. |
+| [Ak279642/opeapi-generator-laravel](https://github.com/Ak279642/opeapi-generator-laravel) | 0 | A Laravel package for automatic OpenAPI documentation generation from routes, co... |
+| [erlandmuchasaj/laravel-file-uploader](https://github.com/erlandmuchasaj/laravel-file-uploader) | 13 | A simple, yet powerful Laravel  file uploader package |
+| [finity-labs/lin-support](https://github.com/finity-labs/lin-support) | 0 | Shared support code for Finity Labs Laravel packages: the locale map and the ins... |
+| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | WireStack — a Livewire admin framework for Laravel: core, forms, tables, panels,... |
 | [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | Olsyn Asset Library control plane and PrismFS monorepo |
 | [SameOldNick/laravel-suitcase-demo](https://github.com/SameOldNick/laravel-suitcase-demo) | 0 | Demo app for sameoldnick/laravel-suitcase, a Laravel package for deploying to sh... |
 | [creasico/laravel-package](https://github.com/creasico/laravel-package) | 1 | Laravel Package Template |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [DevMindsLab/database-framework](https://github.com/DevMindsLab/database-framework) | 0 | Self-hosted database framework for custom entity types, fields, relationships, a... |
 | [RLASH18/lynx-scout](https://github.com/RLASH18/lynx-scout) | 1 | Automated performance intelligence and actionable recommendations for Laravel. P... |
 | [route-forge/php-laravel](https://github.com/route-forge/php-laravel) | 1 | Laravel named routes for SPA frontends — per-tier lazy loading via an HTTP metad... |
-| [ivanfuhr/laravel-result](https://github.com/ivanfuhr/laravel-result) | 0 | A typed success/failure Result for Laravel service and action outcomes. |
-| [vaisakh-vn/tinyurl](https://github.com/vaisakh-vn/tinyurl) | 2 | A Simple Laravel URL Shortener Package. |
-| [serhii-f8/filament-studio](https://github.com/serhii-f8/filament-studio) | 52 | Dynamic data model manager for Filament — EAV storage, 33 field types, dashboard... |
-| [LuisHdezE/erp_eliasworks](https://github.com/LuisHdezE/erp_eliasworks) | 0 | EliasWorks engineering portfolio built with Laravel, Livewire and Tailwind, show... |
-| [plin-code/laravel-custom-fields](https://github.com/plin-code/laravel-custom-fields) | 0 | Typed, extensible custom fields for Eloquent models with filtering and sorting. |
-| [yuriyakishin/laravel-ai-chat-bot](https://github.com/yuriyakishin/laravel-ai-chat-bot) | 0 | AI chat widget for Laravel with multiple LLM providers, function-calling tools, ... |
-| [easybdit/laraveleasyattendance](https://github.com/easybdit/laraveleasyattendance) | 0 | Drop-in attendance, HR, and payroll core for any Laravel app — check-in/out, ZKT... |
-| [greatplr/amember-sso](https://github.com/greatplr/amember-sso) | 0 | Laravel package for aMember SSO authentication, webhook handling, and access con... |
-| [perfocard/gate](https://github.com/perfocard/gate) | 0 | A package for Laravel that globally configures a proxy for all outgoing Http Cli... |
-| [diegosurita/pennant-ui](https://github.com/diegosurita/pennant-ui) | 0 | A user-friendly UI for Laravel Pennant package |
-| [plin-code/job-boards-skeleton](https://github.com/plin-code/job-boards-skeleton) | 0 | 🧱 Template for building a job board connector package. Clone, rename, implement... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 464 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 462 | A simple package to help integrate Cloudflare Turnstile. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 459 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 460 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [plin-code/kml-parser](https://github.com/plin-code/kml-parser) | 3 | 2026-09-09 | Parse KML and KMZ files in Laravel. Placemarks, geometries, ... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-09 | The Moox Project - Packages for Filament and Laravel |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-09 | Local-first personal finance dashboard that resolves cross-a... |
+| [MeRezaRezaei/teleframe](https://github.com/MeRezaRezaei/teleframe) | 0 | 2026-09-09 | Unified Telegram engine & framework — MTProto 2.0 + Bot API ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-09 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jay123anta/jeeves](https://github.com/jay123anta/jeeves) | 0 | 2026-09-09 | A chat window for your own database. Users ask in plain Engl... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-09-09 | A complete OIDC server as a laravel package |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-09 | A multi-purpose content and application platform for Laravel... |
-| [danielebarbaro/laravel-vat-eu-validator](https://github.com/danielebarbaro/laravel-vat-eu-validator) | 43 | 2026-09-09 | A simple package that validates EU VAT numbers against the c... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 7 | 2026-09-09 | An event sourcing laravel package, complete with all the ess... |
-| [kettasoft/filterable](https://github.com/kettasoft/filterable) | 44 | 2026-09-09 | A powerful and flexible Laravel package for advanced, clean,... |
-| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | 2026-09-09 | Olsyn Asset Library control plane and PrismFS monorepo |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-09-09 | Simple package for adding directives to show/hide content fr... |
-| [blocs/admin](https://github.com/blocs/admin) | 2 | 2026-09-09 | Laravel BLOCS admin panel package |
-| [isaidgitmenow/laravel-errors](https://github.com/isaidgitmenow/laravel-errors) | 0 | 2026-09-09 | Cure your Laravel exception handling headaches. Manage error... |
-| [corgab/aether](https://github.com/corgab/aether) | 4 | 2026-09-09 | Quantum computing bridge for Laravel. Solve the impossible w... |
-| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 1 | 2026-09-09 | A self-hosted ActivityPub server implementation for Laravel ... |
-| [Youssef-Mekkkawy/laravel-ai-translator](https://github.com/Youssef-Mekkkawy/laravel-ai-translator) | 0 | 2026-09-09 | AI-powered automatic translation for Laravel — scan Blade vi... |
-| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 0 | 2026-09-09 | A Laravel package to interact with the Studizz API |
-| [SameOldNick/laravel-suitcase-demo](https://github.com/SameOldNick/laravel-suitcase-demo) | 0 | 2026-09-09 | Demo app for sameoldnick/laravel-suitcase, a Laravel package... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-09-09 | Laravel package to handle requests are ensured sent |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 66 | 2026-09-09 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-09 | Manage, process, and serve files in Laravel with scalable up... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-09 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-09-09 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-09-09 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [rosalana/core](https://github.com/rosalana/core) | 4 | 2026-09-09 | Rosalana core package for Laravel apps |
+| [emtee-1023/laravel-auth-library](https://github.com/emtee-1023/laravel-auth-library) | 0 | 2026-09-09 | Reusable authentication infrastructure for Laravel applicati... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-09 | Local-first personal finance dashboard that resolves cross-a... |
+| [Ak279642/opeapi-generator-laravel](https://github.com/Ak279642/opeapi-generator-laravel) | 0 | 2026-09-09 | A Laravel package for automatic OpenAPI documentation genera... |
+| [erlandmuchasaj/laravel-file-uploader](https://github.com/erlandmuchasaj/laravel-file-uploader) | 13 | 2026-09-09 | A simple, yet powerful Laravel  file uploader package |
+| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-09 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
+| [serhii-f8/filament-studio](https://github.com/serhii-f8/filament-studio) | 51 | 2026-09-09 | Dynamic data model manager for Filament — EAV storage, 33 fi... |
+| [statikbe/laravel-surveyhero](https://github.com/statikbe/laravel-surveyhero) | 15 | 2026-09-09 | Import Surveyhero questions, answers and responses into a La... |
+| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-09-09 | Monorepo for Finity Labs' Filament packages |
+| [hans-thomas/filterable-overview-widget](https://github.com/hans-thomas/filterable-overview-widget) | 1 | 2026-09-09 | A filterable stats overview widget for Filament |
+| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-09-09 | Gremio Linhir |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-09 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-09 | Manage and track inventory with a PHP package that integrate... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-09T12:40 | 11 | 1718 | 6286 |
 | 2026-09-09T06:44 | 3 | 1724 | 6275 |
 | 2026-09-09T01:02 | 3 | 1725 | 6272 |
 | 2026-09-08T18:34 | 5 | 1724 | 6270 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-07T18:33 | 11 | 1706 | 6207 |
 | 2026-09-07T12:40 | 4 | 1717 | 6196 |
 | 2026-09-07T06:54 | 4 | 1717 | 6192 |
-| 2026-09-07T01:07 | 15 | 1706 | 6188 |
 
 ---
 

@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6293  
-**Last updated:** 2026-09-09T18:34:28.726Z
+**Total packages tracked:** 6296  
+**Last updated:** 2026-09-10T04:54:04.059Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/laravel-image-cache](https://github.com/jeffersongoncalves/laravel-image-cache) | 1 | SSRF-safe remote image fetch-and-cache for Laravel: pinned redirect-safe downloa... |
+| [codesuab/laravel-permission](https://github.com/codesuab/laravel-permission) | 1 | Laravel roles & permissions with teams, policies, ACL matrix, route, Blade & Rea... |
+| [zendsms/laravel](https://github.com/zendsms/laravel) | 1 | Official Laravel package for the Zend SMS API — send SMS, OTP, check balance & D... |
 | [kikirachmat2/PiyohPOS](https://github.com/kikirachmat2/PiyohPOS) | 0 | Multi-outlet Point of Sale & Table QR Ordering System for Piyoh Kopi — features ... |
 | [shoyim/laravel-uz-lang](https://github.com/shoyim/laravel-uz-lang) | 7 | Languages for Laravel |
 | [wizcoders/deployme](https://github.com/wizcoders/deployme) | 1 | Lightweight Laravel deployment automation for self-hosted servers with Git webho... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Ak279642/opeapi-generator-laravel](https://github.com/Ak279642/opeapi-generator-laravel) | 0 | A Laravel package for automatic OpenAPI documentation generation from routes, co... |
 | [erlandmuchasaj/laravel-file-uploader](https://github.com/erlandmuchasaj/laravel-file-uploader) | 13 | A simple, yet powerful Laravel  file uploader package |
 | [finity-labs/lin-support](https://github.com/finity-labs/lin-support) | 0 | Shared support code for Finity Labs Laravel packages: the locale map and the ins... |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | WireStack — a Livewire admin framework for Laravel: core, forms, tables, panels,... |
-| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | Olsyn Asset Library control plane and PrismFS monorepo |
-| [SameOldNick/laravel-suitcase-demo](https://github.com/SameOldNick/laravel-suitcase-demo) | 0 | Demo app for sameoldnick/laravel-suitcase, a Laravel package for deploying to sh... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [eryndrix/exception-logger](https://github.com/eryndrix/exception-logger) | 0 | 2026-09-09 | Laravel package for exception logging with PSR-3 levels and ... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-09-09 | Laravel package to handle requests are ensured sent |
-| [MeRezaRezaei/teleframe](https://github.com/MeRezaRezaei/teleframe) | 0 | 2026-09-09 | Unified Telegram engine & framework — MTProto 2.0 + Bot API ... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-09 | A multi-purpose content and application platform for Laravel... |
-| [Matthijs-NL/laravel-cart](https://github.com/Matthijs-NL/laravel-cart) | 0 | 2026-09-09 | Laravel Cart is a customizable package for adding shopping c... |
-| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-09-09 | A complete OIDC server as a laravel package |
-| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-09 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
-| [RLASH18/lynx-scout](https://github.com/RLASH18/lynx-scout) | 1 | 2026-09-09 | Automated performance intelligence and actionable recommenda... |
-| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-09-09 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 66 | 2026-09-09 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-09-09 | Daywatch Laravel package to integrate into collecting events... |
-| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-09-09 | Home weather station, end to end: ESP32 firmware reading a B... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-09 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-09 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-09 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-09 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [awcodes/postal-codes](https://github.com/awcodes/postal-codes) | 5 | 2026-09-09 | This is a package to easily install and use postal codes in ... |
-| [awcodes/richer-editor](https://github.com/awcodes/richer-editor) | 43 | 2026-09-09 | A collection of extensions and tools to enhance the Filament... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-09 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-09 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [AffanAbd97/laravel-repokit](https://github.com/AffanAbd97/laravel-repokit) | 1 | 2026-09-10 | Laravel package for repository & service scaffolding |
+| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | 2026-09-10 | Olsyn Asset Library control plane and PrismFS monorepo |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-10 | The Moox Project - Packages for Filament and Laravel |
+| [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) | 17 | 2026-09-10 | Add importing large CSV (and TSV) data feature to your Larav... |
+| [kettasoft/filterable](https://github.com/kettasoft/filterable) | 44 | 2026-09-10 | A powerful and flexible Laravel package for advanced, clean,... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-10 | A multi-purpose content and application platform for Laravel... |
+| [rbmowatt/base](https://github.com/rbmowatt/base) | 1 | 2026-09-10 | Laravel 13 REST API scaffolding. Extend a Service, Model and... |
+| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-09-10 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-10 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-10 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-10 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-10 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-09-10 | Laravel-based API for storing sensor data from distributed n... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-10 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-09-10 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 4 | 2026-09-10 | A Laravel package for creating and redirecting short URLs, w... |
+| [jeffersongoncalves/laravel-image-cache](https://github.com/jeffersongoncalves/laravel-image-cache) | 1 | 2026-09-10 | SSRF-safe remote image fetch-and-cache for Laravel: pinned r... |
+| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-09-10 | https://songrank.dev - Rank your favorite artists' tracks. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-10T04:54 | 3 | 1723 | 6296 |
 | 2026-09-09T18:34 | 7 | 1720 | 6293 |
 | 2026-09-09T12:40 | 11 | 1718 | 6286 |
 | 2026-09-09T06:44 | 3 | 1724 | 6275 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-08T06:44 | 15 | 1710 | 6253 |
 | 2026-09-08T01:03 | 31 | 1693 | 6238 |
 | 2026-09-07T18:33 | 11 | 1706 | 6207 |
-| 2026-09-07T12:40 | 4 | 1717 | 6196 |
 
 ---
 

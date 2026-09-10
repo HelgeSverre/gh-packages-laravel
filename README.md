@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6312  
-**Last updated:** 2026-09-10T16:31:47.951Z
+**Total packages tracked:** 6315  
+**Last updated:** 2026-09-10T20:57:56.133Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Applejack21/laravel-resource-builder](https://github.com/Applejack21/laravel-resource-builder) | 0 | A Laravel package that generates action, controller, policy, and request files f... |
+| [hmazter/laravel-log-queue](https://github.com/hmazter/laravel-log-queue) | 5 | Laravel 5+ package to push Queued jobs to the log |
+| [futurebasesa/simple-fatoora-laravel](https://github.com/futurebasesa/simple-fatoora-laravel) | 0 | Official Laravel package for the Simple Fatoora API |
 | [hatemsweileh/planvio](https://github.com/hatemsweileh/planvio) | 1 | Plan the work. Let AI run it. An open-source, self-hosted project management pla... |
 | [shayanalibuilds/school-management](https://github.com/shayanalibuilds/school-management) | 0 | Simple school management system website built for Parents, Students, Teachers, a... |
 | [vimatech-io/laravel-integrations](https://github.com/vimatech-io/laravel-integrations) | 0 | Config-driven ports & adapters for Laravel: integrate external providers via cap... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [vonsofh/laravel-faspay-test-lab](https://github.com/vonsofh/laravel-faspay-test-lab) | 0 | Laravel package for Faspay SNAP UAT certification & automated functional testing... |
 | [mattmy/laravel-office-converter](https://github.com/mattmy/laravel-office-converter) | 0 | Laravel Office Converter is a fluent document conversion package powered by Libr... |
 | [jeffersongoncalves/laravel-image-cache](https://github.com/jeffersongoncalves/laravel-image-cache) | 1 | SSRF-safe remote image fetch-and-cache for Laravel: pinned redirect-safe downloa... |
-| [codesuab/laravel-permission](https://github.com/codesuab/laravel-permission) | 1 | Laravel roles & permissions with teams, policies, ACL matrix, route, Blade & Rea... |
-| [zendsms/laravel](https://github.com/zendsms/laravel) | 1 | Official Laravel package for the Zend SMS API — send SMS, OTP, check balance & D... |
-| [kikirachmat2/PiyohPOS](https://github.com/kikirachmat2/PiyohPOS) | 0 | Multi-outlet Point of Sale & Table QR Ordering System for Piyoh Kopi — features ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [emirkefi/laravel-topology-mapper](https://github.com/emirkefi/laravel-topology-mapper) | 0 | 2026-09-10 | A dynamic visual application topology mapper for Laravel. Au... |
-| [jeffersongoncalves/laravel-zero-package-scaffold](https://github.com/jeffersongoncalves/laravel-zero-package-scaffold) | 1 | 2026-09-10 | Shared file templates and namespace-casing resolution for pa... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-10 | Laravel package providing AI-powered search with Pagefind. D... |
+| [yahongie2014/LMS-Task](https://github.com/yahongie2014/LMS-Task) | 0 | 2026-09-10 | core foundation of a scalable Mini-LMS |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-10 | A multi-purpose content and application platform for Laravel... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-10 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [MahdiiMax/Telgeram](https://github.com/MahdiiMax/Telgeram) | 1 | 2026-09-10 | 🤖 A fun and easy Laravel 13 package for building Telegram b... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-10 | Local-first personal finance dashboard that resolves cross-a... |
-| [mikeyperes/laravel-hexa-package-newsdata](https://github.com/mikeyperes/laravel-hexa-package-newsdata) | 0 | 2026-09-10 | HWS Package: NewsData.io article/news API integration |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-10 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [jay123anta/jeeves](https://github.com/jay123anta/jeeves) | 0 | 2026-09-10 | A chat window for your own database. Users ask in plain Engl... |
-| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-09-10 | A complete OIDC server as a laravel package |
-| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-09-10 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
-| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-09-10 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
-| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 | 2026-09-10 |  |
 | [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-09-10 | Sistema de gestão para centros e casas espíritas: assistidos... |
-| [rbmowatt/base](https://github.com/rbmowatt/base) | 1 | 2026-09-10 | Laravel 13 REST API scaffolding. Extend a Service, Model and... |
-| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-10 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
-| [danestves/laravel-polar](https://github.com/danestves/laravel-polar) | 83 | 2026-09-10 | A package to easily integrate your Laravel application with ... |
-| [thecodezone/filament-mediazone](https://github.com/thecodezone/filament-mediazone) | 0 | 2026-09-10 | A media manager package for Laravel Filament. |
 | [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | 2026-09-10 | Laravel package for AI Bridge — unified streaming interface ... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-09-10 | A lightweight, convention-driven modular architecture packag... |
+| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-09-10 | Digitalización del trámite de incorporación de escuelas ante... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-10 | Local-first personal finance dashboard that resolves cross-a... |
+| [AllenK03/website-imprefot](https://github.com/AllenK03/website-imprefot) | 0 | 2026-09-10 | Imprefot online store and administrative panel |
+| [rankbeam/laravel-seo-filament](https://github.com/rankbeam/laravel-seo-filament) | 0 | 2026-09-10 | Laravel SEO package for Filament 4 and 5 — a complete editor... |
+| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-10 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
+| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 273 | 2026-09-10 | Feature-rich Laravel package for detecting and blocking disp... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-10 | Laravel package providing AI-powered search with Pagefind. D... |
+| [easybdit/laraveleasyattendance](https://github.com/easybdit/laraveleasyattendance) | 0 | 2026-09-10 | Drop-in attendance, HR, and payroll core for any Laravel app... |
+| [Applejack21/laravel-resource-builder](https://github.com/Applejack21/laravel-resource-builder) | 0 | 2026-09-10 | A Laravel package that generates action, controller, policy,... |
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 68 | 2026-09-10 | The ultimate form components kit and custom fields builder f... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 275 | 2026-09-10 | A live database structure viewer for Laravel that renders yo... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-10 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-10 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) | 88 | 2026-09-10 | Laravel Reactions is a lightweight and flexible package that... |
+| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-09-10 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-10T20:57 | 3 | 1722 | 6315 |
 | 2026-09-10T16:31 | 9 | 1717 | 6312 |
 | 2026-09-10T11:30 | 7 | 1720 | 6303 |
 | 2026-09-10T04:54 | 3 | 1723 | 6296 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-09T01:02 | 3 | 1725 | 6272 |
 | 2026-09-08T18:34 | 5 | 1724 | 6270 |
 | 2026-09-08T12:40 | 12 | 1715 | 6265 |
-| 2026-09-08T06:44 | 15 | 1710 | 6253 |
 
 ---
 

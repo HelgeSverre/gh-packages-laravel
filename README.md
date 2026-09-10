@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6303  
-**Last updated:** 2026-09-10T11:30:48.070Z
+**Total packages tracked:** 6312  
+**Last updated:** 2026-09-10T16:31:47.951Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [hatemsweileh/planvio](https://github.com/hatemsweileh/planvio) | 1 | Plan the work. Let AI run it. An open-source, self-hosted project management pla... |
+| [shayanalibuilds/school-management](https://github.com/shayanalibuilds/school-management) | 0 | Simple school management system website built for Parents, Students, Teachers, a... |
+| [vimatech-io/laravel-integrations](https://github.com/vimatech-io/laravel-integrations) | 0 | Config-driven ports & adapters for Laravel: integrate external providers via cap... |
+| [vimatech-io/laravel-invitations](https://github.com/vimatech-io/laravel-invitations) | 1 | Generic email-based invitations for Laravel. Invite anyone to any Eloquent model... |
+| [vimatech-io/laravel-document-numbering](https://github.com/vimatech-io/laravel-document-numbering) | 0 | Sequential, gap-free, concurrency-safe document numbers for Laravel — invoices, ... |
+| [vimatech-io/laravel-einvoicing](https://github.com/vimatech-io/laravel-einvoicing) | 1 | Native Peppol BIS 3.0 (UBL) & EN 16931 e-invoice generation and dispatch for Lar... |
+| [vimatech-io/laravel-secure-fields](https://github.com/vimatech-io/laravel-secure-fields) | 0 | Modern encrypted Eloquent fields for Laravel with searchable encryption, key rot... |
+| [vimatech-io/laravel-quotas](https://github.com/vimatech-io/laravel-quotas) | 0 | Feature entitlements and usage quotas for Laravel SaaS applications. Answers wha... |
+| [infotrix1/teasypay-microaccounts](https://github.com/infotrix1/teasypay-microaccounts) | 0 | Laravel package for TeasyPay Microaccounts API integration |
 | [nsumbadze/filament-where-used](https://github.com/nsumbadze/filament-where-used) | 0 | Shows which records reference a record before it is deleted. Blocks or confirms ... |
 | [nsumbadze/filament-doctor](https://github.com/nsumbadze/filament-doctor) | 0 | Audit command and PHPStan rules for Filament panels: missing policies, JSON sear... |
 | [alberic13/keuangan-app](https://github.com/alberic13/keuangan-app) | 0 | Aplikasi sistem administrasi keuangan sekolah/madrasah berbasis Laravel 11, Live... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [codesuab/laravel-permission](https://github.com/codesuab/laravel-permission) | 1 | Laravel roles & permissions with teams, policies, ACL matrix, route, Blade & Rea... |
 | [zendsms/laravel](https://github.com/zendsms/laravel) | 1 | Official Laravel package for the Zend SMS API — send SMS, OTP, check balance & D... |
 | [kikirachmat2/PiyohPOS](https://github.com/kikirachmat2/PiyohPOS) | 0 | Multi-outlet Point of Sale & Table QR Ordering System for Piyoh Kopi — features ... |
-| [shoyim/laravel-uz-lang](https://github.com/shoyim/laravel-uz-lang) | 7 | Languages for Laravel |
-| [wizcoders/deployme](https://github.com/wizcoders/deployme) | 1 | Lightweight Laravel deployment automation for self-hosted servers with Git webho... |
-| [wizcoders/mcp](https://github.com/wizcoders/mcp) | 0 | A Model Context Protocol server for Laravel. Expose your application to MCP clie... |
-| [YasserElgammal/laravel-tamara](https://github.com/YasserElgammal/laravel-tamara) | 3 | Package for laravel helps developers to easily integration with Tamara |
-| [chiragchhatrala/laravel-leadscaptain](https://github.com/chiragchhatrala/laravel-leadscaptain) | 0 | Laravel package for the LeadsCaptain API |
-| [Knackline/laravel-olm](https://github.com/Knackline/laravel-olm) | 0 | Laravel package for on-device / local language models (MLX, Ollama, LM Studio, l... |
-| [NyonCode/wire-core](https://github.com/NyonCode/wire-core) | 0 | Shared foundation for the Wire ecosystem – traits, actions, modals, notification... |
-| [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | Enterprise-grade Livewire table system with inline editing, optimistic locking, ... |
-| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | AI tooling for the Wire ecosystem – an MCP server, AI guidelines and agent skill... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 464 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 462 | A simple package to help integrate Cloudflare Turnstile. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 460 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 459 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-10 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [mathiasgrimm/laravel-queue-concurrency](https://github.com/mathiasgrimm/laravel-queue-concurrency) | 0 | 2026-09-10 | A queue driver for Laravel's Concurrency component. The same... |
-| [corgab/aether](https://github.com/corgab/aether) | 4 | 2026-09-10 | Quantum computing bridge for Laravel. Solve the impossible w... |
-| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-09-10 | A complete OIDC server as a laravel package |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-10 | Local-first personal finance dashboard that resolves cross-a... |
-| [alberic13/keuangan-app](https://github.com/alberic13/keuangan-app) | 0 | 2026-09-10 | Aplikasi sistem administrasi keuangan sekolah/madrasah berba... |
-| [bakliounsaid/appointment](https://github.com/bakliounsaid/appointment) | 1 | 2026-09-10 | A web application for scheduling appointments online, allowi... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-10 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [emirkefi/laravel-topology-mapper](https://github.com/emirkefi/laravel-topology-mapper) | 0 | 2026-09-10 | A dynamic visual application topology mapper for Laravel. Au... |
+| [jeffersongoncalves/laravel-zero-package-scaffold](https://github.com/jeffersongoncalves/laravel-zero-package-scaffold) | 1 | 2026-09-10 | Shared file templates and namespace-casing resolution for pa... |
+| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-10 | Laravel package providing AI-powered search with Pagefind. D... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-10 | A multi-purpose content and application platform for Laravel... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-10 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [motomedialab/impersonate](https://github.com/motomedialab/impersonate) | 0 | 2026-09-10 | 🎭 A sleek, secure, and lightweight user impersonation packa... |
-| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-10 | Open-source, self-hosted, white-label client reporting for w... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-10 | The NativePHP website |
-| [karnoweb/crm](https://github.com/karnoweb/crm) | 0 | 2026-09-10 | Laravel domain package for CRM: leads, interactions, pipelin... |
-| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 | 2026-09-10 |  |
-| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | 2026-09-10 | Olsyn Asset Library control plane and PrismFS monorepo |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 100 | 2026-09-10 | Complete, ready-to-use Indonesian administrative region data... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-10 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [MahdiiMax/Telgeram](https://github.com/MahdiiMax/Telgeram) | 1 | 2026-09-10 | 🤖 A fun and easy Laravel 13 package for building Telegram b... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-10 | Local-first personal finance dashboard that resolves cross-a... |
+| [mikeyperes/laravel-hexa-package-newsdata](https://github.com/mikeyperes/laravel-hexa-package-newsdata) | 0 | 2026-09-10 | HWS Package: NewsData.io article/news API integration |
+| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-10 | WireStack — a Livewire admin framework for Laravel: core, fo... |
+| [jay123anta/jeeves](https://github.com/jay123anta/jeeves) | 0 | 2026-09-10 | A chat window for your own database. Users ask in plain Engl... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-09-10 | A complete OIDC server as a laravel package |
 | [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-09-10 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
-| [vonsofh/laravel-faspay-test-lab](https://github.com/vonsofh/laravel-faspay-test-lab) | 0 | 2026-09-10 | Laravel package for Faspay SNAP UAT certification & automate... |
-| [milirezai/milipay](https://github.com/milirezai/milipay) | 18 | 2026-09-10 | The milipay Payment Package is a simple and flexible solutio... |
+| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-09-10 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
+| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 | 2026-09-10 |  |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-09-10 | Sistema de gestão para centros e casas espíritas: assistidos... |
+| [rbmowatt/base](https://github.com/rbmowatt/base) | 1 | 2026-09-10 | Laravel 13 REST API scaffolding. Extend a Service, Model and... |
+| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-10 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
+| [danestves/laravel-polar](https://github.com/danestves/laravel-polar) | 83 | 2026-09-10 | A package to easily integrate your Laravel application with ... |
+| [thecodezone/filament-mediazone](https://github.com/thecodezone/filament-mediazone) | 0 | 2026-09-10 | A media manager package for Laravel Filament. |
+| [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | 2026-09-10 | Laravel package for AI Bridge — unified streaming interface ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-10T16:31 | 9 | 1717 | 6312 |
 | 2026-09-10T11:30 | 7 | 1720 | 6303 |
 | 2026-09-10T04:54 | 3 | 1723 | 6296 |
 | 2026-09-09T18:34 | 7 | 1720 | 6293 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-08T18:34 | 5 | 1724 | 6270 |
 | 2026-09-08T12:40 | 12 | 1715 | 6265 |
 | 2026-09-08T06:44 | 15 | 1710 | 6253 |
-| 2026-09-08T01:03 | 31 | 1693 | 6238 |
 
 ---
 

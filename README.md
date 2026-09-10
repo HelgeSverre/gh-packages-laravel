@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6296  
-**Last updated:** 2026-09-10T04:54:04.059Z
+**Total packages tracked:** 6303  
+**Last updated:** 2026-09-10T11:30:48.070Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [nsumbadze/filament-where-used](https://github.com/nsumbadze/filament-where-used) | 0 | Shows which records reference a record before it is deleted. Blocks or confirms ... |
+| [nsumbadze/filament-doctor](https://github.com/nsumbadze/filament-doctor) | 0 | Audit command and PHPStan rules for Filament panels: missing policies, JSON sear... |
+| [alberic13/keuangan-app](https://github.com/alberic13/keuangan-app) | 0 | Aplikasi sistem administrasi keuangan sekolah/madrasah berbasis Laravel 11, Live... |
+| [dabbekchakib/bledishop](https://github.com/dabbekchakib/bledishop) | 0 | Plateforme e-commerce moderne, sécurisée, multilingue et entièrement paramétrabl... |
+| [karnoweb/crm](https://github.com/karnoweb/crm) | 0 | Laravel domain package for CRM: leads, interactions, pipelines, segments, and ca... |
+| [vonsofh/laravel-faspay-test-lab](https://github.com/vonsofh/laravel-faspay-test-lab) | 0 | Laravel package for Faspay SNAP UAT certification & automated functional testing... |
+| [mattmy/laravel-office-converter](https://github.com/mattmy/laravel-office-converter) | 0 | Laravel Office Converter is a fluent document conversion package powered by Libr... |
 | [jeffersongoncalves/laravel-image-cache](https://github.com/jeffersongoncalves/laravel-image-cache) | 1 | SSRF-safe remote image fetch-and-cache for Laravel: pinned redirect-safe downloa... |
 | [codesuab/laravel-permission](https://github.com/codesuab/laravel-permission) | 1 | Laravel roles & permissions with teams, policies, ACL matrix, route, Blade & Rea... |
 | [zendsms/laravel](https://github.com/zendsms/laravel) | 1 | Official Laravel package for the Zend SMS API — send SMS, OTP, check balance & D... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [NyonCode/wire-core](https://github.com/NyonCode/wire-core) | 0 | Shared foundation for the Wire ecosystem – traits, actions, modals, notification... |
 | [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | Enterprise-grade Livewire table system with inline editing, optimistic locking, ... |
 | [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | AI tooling for the Wire ecosystem – an MCP server, AI guidelines and agent skill... |
-| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | Standalone form system for the Wire ecosystem – fields, validation, layout, stan... |
-| [NyonCode/wire-sortable](https://github.com/NyonCode/wire-sortable) | 0 | Drag & drop row reordering plugin for wire-table. — READ ONLY (split from ONykli... |
-| [frahmat68-beep/PiyohPOS](https://github.com/frahmat68-beep/PiyohPOS) | 0 | Multi-outlet Point of Sale & Table QR Ordering System for Piyoh Kopi — features ... |
-| [teamchallengeapps/upcloud-metrics](https://github.com/teamchallengeapps/upcloud-metrics) | 0 | Poll and alert UpCloud managed database metrics in Laravel projects. |
-| [Ak279642/opeapi-generator-laravel](https://github.com/Ak279642/opeapi-generator-laravel) | 0 | A Laravel package for automatic OpenAPI documentation generation from routes, co... |
-| [erlandmuchasaj/laravel-file-uploader](https://github.com/erlandmuchasaj/laravel-file-uploader) | 13 | A simple, yet powerful Laravel  file uploader package |
-| [finity-labs/lin-support](https://github.com/finity-labs/lin-support) | 0 | Shared support code for Finity Labs Laravel packages: the locale map and the ins... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [AffanAbd97/laravel-repokit](https://github.com/AffanAbd97/laravel-repokit) | 1 | 2026-09-10 | Laravel package for repository & service scaffolding |
-| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | 2026-09-10 | Olsyn Asset Library control plane and PrismFS monorepo |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-10 | The Moox Project - Packages for Filament and Laravel |
-| [askdkc/livewire-csv](https://github.com/askdkc/livewire-csv) | 17 | 2026-09-10 | Add importing large CSV (and TSV) data feature to your Larav... |
-| [kettasoft/filterable](https://github.com/kettasoft/filterable) | 44 | 2026-09-10 | A powerful and flexible Laravel package for advanced, clean,... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-10 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [mathiasgrimm/laravel-queue-concurrency](https://github.com/mathiasgrimm/laravel-queue-concurrency) | 0 | 2026-09-10 | A queue driver for Laravel's Concurrency component. The same... |
+| [corgab/aether](https://github.com/corgab/aether) | 4 | 2026-09-10 | Quantum computing bridge for Laravel. Solve the impossible w... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-09-10 | A complete OIDC server as a laravel package |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-10 | Local-first personal finance dashboard that resolves cross-a... |
+| [alberic13/keuangan-app](https://github.com/alberic13/keuangan-app) | 0 | 2026-09-10 | Aplikasi sistem administrasi keuangan sekolah/madrasah berba... |
+| [bakliounsaid/appointment](https://github.com/bakliounsaid/appointment) | 1 | 2026-09-10 | A web application for scheduling appointments online, allowi... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-10 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-10 | A multi-purpose content and application platform for Laravel... |
-| [rbmowatt/base](https://github.com/rbmowatt/base) | 1 | 2026-09-10 | Laravel 13 REST API scaffolding. Extend a Service, Model and... |
-| [Dnetw/starter-kit](https://github.com/Dnetw/starter-kit) | 0 | 2026-09-10 | Laravel 13 starter kit for the dnetw ecosystem. Auth + admin... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-10 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-10 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-10 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-10 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-09-10 | Laravel-based API for storing sensor data from distributed n... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-10 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-09-10 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
-| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 4 | 2026-09-10 | A Laravel package for creating and redirecting short URLs, w... |
-| [jeffersongoncalves/laravel-image-cache](https://github.com/jeffersongoncalves/laravel-image-cache) | 1 | 2026-09-10 | SSRF-safe remote image fetch-and-cache for Laravel: pinned r... |
-| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-09-10 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-10 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [motomedialab/impersonate](https://github.com/motomedialab/impersonate) | 0 | 2026-09-10 | 🎭 A sleek, secure, and lightweight user impersonation packa... |
+| [Coysh-Digital/client-reporter](https://github.com/Coysh-Digital/client-reporter) | 0 | 2026-09-10 | Open-source, self-hosted, white-label client reporting for w... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-10 | The NativePHP website |
+| [karnoweb/crm](https://github.com/karnoweb/crm) | 0 | 2026-09-10 | Laravel domain package for CRM: leads, interactions, pipelin... |
+| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 | 2026-09-10 |  |
+| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | 2026-09-10 | Olsyn Asset Library control plane and PrismFS monorepo |
+| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 100 | 2026-09-10 | Complete, ready-to-use Indonesian administrative region data... |
+| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-09-10 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
+| [vonsofh/laravel-faspay-test-lab](https://github.com/vonsofh/laravel-faspay-test-lab) | 0 | 2026-09-10 | Laravel package for Faspay SNAP UAT certification & automate... |
+| [milirezai/milipay](https://github.com/milirezai/milipay) | 18 | 2026-09-10 | The milipay Payment Package is a simple and flexible solutio... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-10T11:30 | 7 | 1720 | 6303 |
 | 2026-09-10T04:54 | 3 | 1723 | 6296 |
 | 2026-09-09T18:34 | 7 | 1720 | 6293 |
 | 2026-09-09T12:40 | 11 | 1718 | 6286 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-08T12:40 | 12 | 1715 | 6265 |
 | 2026-09-08T06:44 | 15 | 1710 | 6253 |
 | 2026-09-08T01:03 | 31 | 1693 | 6238 |
-| 2026-09-07T18:33 | 11 | 1706 | 6207 |
 
 ---
 

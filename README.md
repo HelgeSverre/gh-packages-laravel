@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6315  
-**Last updated:** 2026-09-10T20:57:56.133Z
+**Total packages tracked:** 6318  
+**Last updated:** 2026-09-11T04:50:18.912Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mark-john-ignacio/dgsi-cashier-system](https://github.com/mark-john-ignacio/dgsi-cashier-system) | 0 | School cashier and student-billing system in Laravel 12 + Livewire 3. Append-onl... |
+| [felipesantos2/caminho_limpo](https://github.com/felipesantos2/caminho_limpo) | 0 | O Caminho Limpo é um projeto colaborativo para registrar, visualizar e acompanha... |
+| [DebugShihab/CMS-FilamentPHP](https://github.com/DebugShihab/CMS-FilamentPHP) | 1 | Responsive Laravel CMS (Livewire + FilamentPHP)  A clean, responsive blog CMS bu... |
 | [Applejack21/laravel-resource-builder](https://github.com/Applejack21/laravel-resource-builder) | 0 | A Laravel package that generates action, controller, policy, and request files f... |
 | [hmazter/laravel-log-queue](https://github.com/hmazter/laravel-log-queue) | 5 | Laravel 5+ package to push Queued jobs to the log |
 | [futurebasesa/simple-fatoora-laravel](https://github.com/futurebasesa/simple-fatoora-laravel) | 0 | Official Laravel package for the Simple Fatoora API |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [alberic13/keuangan-app](https://github.com/alberic13/keuangan-app) | 0 | Aplikasi sistem administrasi keuangan sekolah/madrasah berbasis Laravel 11, Live... |
 | [dabbekchakib/bledishop](https://github.com/dabbekchakib/bledishop) | 0 | Plateforme e-commerce moderne, sécurisée, multilingue et entièrement paramétrabl... |
 | [karnoweb/crm](https://github.com/karnoweb/crm) | 0 | Laravel domain package for CRM: leads, interactions, pipelines, segments, and ca... |
-| [vonsofh/laravel-faspay-test-lab](https://github.com/vonsofh/laravel-faspay-test-lab) | 0 | Laravel package for Faspay SNAP UAT certification & automated functional testing... |
-| [mattmy/laravel-office-converter](https://github.com/mattmy/laravel-office-converter) | 0 | Laravel Office Converter is a fluent document conversion package powered by Libr... |
-| [jeffersongoncalves/laravel-image-cache](https://github.com/jeffersongoncalves/laravel-image-cache) | 1 | SSRF-safe remote image fetch-and-cache for Laravel: pinned redirect-safe downloa... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -43,7 +43,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
-| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 464 | Add kanban boards to your Filament pages |
+| [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 462 | A simple package to help integrate Cloudflare Turnstile. |
 | [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 459 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [yahongie2014/LMS-Task](https://github.com/yahongie2014/LMS-Task) | 0 | 2026-09-10 | core foundation of a scalable Mini-LMS |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-10 | A multi-purpose content and application platform for Laravel... |
-| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-09-10 | Sistema de gestão para centros e casas espíritas: assistidos... |
-| [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | 2026-09-10 | Laravel package for AI Bridge — unified streaming interface ... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-09-10 | A lightweight, convention-driven modular architecture packag... |
-| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-09-10 | Digitalización del trámite de incorporación de escuelas ante... |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-10 | Local-first personal finance dashboard that resolves cross-a... |
-| [AllenK03/website-imprefot](https://github.com/AllenK03/website-imprefot) | 0 | 2026-09-10 | Imprefot online store and administrative panel |
-| [rankbeam/laravel-seo-filament](https://github.com/rankbeam/laravel-seo-filament) | 0 | 2026-09-10 | Laravel SEO package for Filament 4 and 5 — a complete editor... |
-| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-10 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
-| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 273 | 2026-09-10 | Feature-rich Laravel package for detecting and blocking disp... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-10 | Laravel package providing AI-powered search with Pagefind. D... |
-| [easybdit/laraveleasyattendance](https://github.com/easybdit/laraveleasyattendance) | 0 | 2026-09-10 | Drop-in attendance, HR, and payroll core for any Laravel app... |
-| [Applejack21/laravel-resource-builder](https://github.com/Applejack21/laravel-resource-builder) | 0 | 2026-09-10 | A Laravel package that generates action, controller, policy,... |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 68 | 2026-09-10 | The ultimate form components kit and custom fields builder f... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 275 | 2026-09-10 | A live database structure viewer for Laravel that renders yo... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-10 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-10 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [binafy/laravel-reactions](https://github.com/binafy/laravel-reactions) | 88 | 2026-09-10 | Laravel Reactions is a lightweight and flexible package that... |
-| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-09-10 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
+| [allamo123/lara_payments_ma](https://github.com/allamo123/lara_payments_ma) | 6 | 2026-09-11 | A Laravel payment gateway package that provides a unified AP... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-09-11 | Laravel package providing OTP (One-Time Password) management... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-11 | Local-first personal finance dashboard that resolves cross-a... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-09-11 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-09-11 | Utility package for Laravel including Transformable proxies ... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-09-11 | Laravel package providing polymorphic image management with ... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-09-11 | Laravel package providing polymorphic reactions (like, love,... |
+| [mixudev/package_LaravelSecurityDefense](https://github.com/mixudev/package_LaravelSecurityDefense) | 0 | 2026-09-11 |  |
+| [andydefer/laravel-reports](https://github.com/andydefer/laravel-reports) | 0 | 2026-09-11 | Package Laravel de signalement polymorphique avec pattern Re... |
+| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-09-11 | Toth is a Laravel package for database backup and snapshot m... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-09-11 | Laravel TOTP package for two-factor authentication with poly... |
+| [faresnassar09/Accounting-System-Back-end-Version](https://github.com/faresnassar09/Accounting-System-Back-end-Version) | 1 | 2026-09-11 | high-grade Accounting & ERP engine built with Laravel. This ... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-09-11 | A lightweight, convention-driven modular architecture packag... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-09-11 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-09-11 | A structured logging package for Laravel that writes logs in... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-11 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [Codie-Shannon/FamilyArchive](https://github.com/Codie-Shannon/FamilyArchive) | 0 | 2026-09-11 | Privacy-first, preservation-grade family history platform wi... |
+| [codebar-ag/laravel-event-logs](https://github.com/codebar-ag/laravel-event-logs) | 0 | 2026-09-11 | Event logging for HTTP requests and model events with plugga... |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-09-11 | Laravel package for interacting with Traccar api |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-09-11 | [PACKAGE] Build a free e-commerce website system for busines... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-11T04:50 | 3 | 1723 | 6318 |
 | 2026-09-10T20:57 | 3 | 1722 | 6315 |
 | 2026-09-10T16:31 | 9 | 1717 | 6312 |
 | 2026-09-10T11:30 | 7 | 1720 | 6303 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-09T06:44 | 3 | 1724 | 6275 |
 | 2026-09-09T01:02 | 3 | 1725 | 6272 |
 | 2026-09-08T18:34 | 5 | 1724 | 6270 |
-| 2026-09-08T12:40 | 12 | 1715 | 6265 |
 
 ---
 

@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6346  
-**Last updated:** 2026-09-11T21:03:28.026Z
+**Total packages tracked:** 6349  
+**Last updated:** 2026-09-12T04:43:53.536Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [batustun/filament-media-library](https://github.com/batustun/filament-media-library) | 0 | WordPress-style media library for Filament v5 — disk agnostic (local, S3, BunnyC... |
+| [abdelrhman-sd/laravel-http](https://github.com/abdelrhman-sd/laravel-http) | 0 | Laravel Http is a laravel package that handles laravel's thrown exceptoins and r... |
+| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | Multi-workspace local package development toolkit for Laravel: manage, symlink, ... |
 | [hashamkhan11/FitHub](https://github.com/hashamkhan11/FitHub) | 0 | Multi-tenant gym management platform: Laravel/Livewire staff dashboard, Flutter ... |
 | [deadxfire/Laravel-Blade-Auth-Installer](https://github.com/deadxfire/Laravel-Blade-Auth-Installer) | 0 | Production-ready, OWASP-hardened Laravel 11, 12 & 13 authentication scaffolding ... |
 | [jeffersongoncalves/filament-page-visits](https://github.com/jeffersongoncalves/filament-page-visits) | 1 | Filament admin resource for jeffersongoncalves/laravel-page-visits — browse and ... |
@@ -17,18 +20,15 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [seunoseya44-tech/boorite-learning-lms](https://github.com/seunoseya44-tech/boorite-learning-lms) | 0 | Production Laravel 13 LMS — course delivery, quizzes, verifiable PDF certificate... |
 | [seunoseya44-tech/boorite-pay-fintech-platform](https://github.com/seunoseya44-tech/boorite-pay-fintech-platform) | 0 | Production Laravel 13 wallet and bill-payment platform for the Nigerian market —... |
 | [seunoseya44-tech/ampla-travels-platform](https://github.com/seunoseya44-tech/ampla-travels-platform) | 0 | Enterprise travel management platform (Laravel 12, Livewire 3, Tailwind 4): CMS-... |
-| [jeffersongoncalves/laravel-visitor-fingerprint](https://github.com/jeffersongoncalves/laravel-visitor-fingerprint) | 3 | A zero-domain-knowledge visitor-fingerprinting toolkit for Laravel: UA parsing, ... |
+| [jeffersongoncalves/laravel-visitor-fingerprint](https://github.com/jeffersongoncalves/laravel-visitor-fingerprint) | 5 | A zero-domain-knowledge visitor-fingerprinting toolkit for Laravel: UA parsing, ... |
 | [jeffersongoncalves/laravel-page-visits](https://github.com/jeffersongoncalves/laravel-page-visits) | 1 | Track page-view visits on any Laravel app's public routes, with device/browser/g... |
-| [kapoordeepanshu/laravel-incident-desk](https://github.com/kapoordeepanshu/laravel-incident-desk) | 0 | Open-source incident management & ticketing system for Laravel — SLA timers, aut... |
+| [kapoordeepanshu/laravel-incident-desk](https://github.com/kapoordeepanshu/laravel-incident-desk) | 1 | Open-source incident management & ticketing system for Laravel — SLA timers, aut... |
 | [x-multibyte/blat-admin](https://github.com/x-multibyte/blat-admin) | 0 | Build an Admin Panel for Laravel projects with BlatUI. |
 | [rylacdang/lynx-scout](https://github.com/rylacdang/lynx-scout) | 1 | Automated performance intelligence and actionable recommendations for Laravel. P... |
 | [alex-kassel/laravel-package-audit](https://github.com/alex-kassel/laravel-package-audit) | 0 | A structured pre-release verification and quality assurance framework for Larave... |
 | [Trench94/Puppr](https://github.com/Trench94/Puppr) | 1 | Puppr - Built for Laravel and used to guard modular SaaS applications. |
 | [jeremykenedy/laravel-notifications](https://github.com/jeremykenedy/laravel-notifications) | 5 | A Laravel package providing an in-app notification center with bell/badge UI, re... |
 | [Insights-ge/inexphone-sms-package](https://github.com/Insights-ge/inexphone-sms-package) | 0 | A production-ready Laravel package for seamless InexPhone SMS API integration, i... |
-| [kulmenevaa/laravel-packages](https://github.com/kulmenevaa/laravel-packages) | 0 |  |
-| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 |  |
-| [smmehdisharifi/laravel-msgpack](https://github.com/smmehdisharifi/laravel-msgpack) | 4 | Laravel Msgpack — MessagePack support for Laravel with response macros and middl... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-11 | Local-first personal finance dashboard that resolves cross-a... |
-| [42dx/whatsapp-laravel-sdk](https://github.com/42dx/whatsapp-laravel-sdk) | 1 | 2026-09-11 | A laravel package that abstracts all the whatsapp api integr... |
-| [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 1 | 2026-09-11 | Filament admin resource for jeffersongoncalves/laravel-short... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-11 | Laravel package providing AI-powered search with Pagefind. D... |
-| [jeffersongoncalves/filament-page-visits](https://github.com/jeffersongoncalves/filament-page-visits) | 1 | 2026-09-11 | Filament admin resource for jeffersongoncalves/laravel-page-... |
-| [corgab/aether](https://github.com/corgab/aether) | 4 | 2026-09-11 | Quantum computing bridge for Laravel. Solve the impossible w... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-11 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-09-11 | Digitalización del trámite de incorporación de escuelas ante... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-11 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-11 | Integrate Mixpanel analytics into Filament projects to track... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-11 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 4 | 2026-09-11 | A Laravel package for creating and redirecting short URLs, w... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-11 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-11 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-11 | A multi-purpose content and application platform for Laravel... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-11 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-11 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-11 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
-| [Paemark/custom-admin-route](https://github.com/Paemark/custom-admin-route) | 0 | 2026-09-11 | A lightweight Laravel package that enhances security by hidi... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-09-11 | A lightweight, convention-driven modular architecture packag... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-12 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-12 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [solutionforest/workflow-engine-laravel](https://github.com/solutionforest/workflow-engine-laravel) | 4 | 2026-09-12 | A flexible and powerful workflow engine for Laravel applicat... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-12 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-12 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-12 | Local-first personal finance dashboard that resolves cross-a... |
+| [kettasoft/filterable](https://github.com/kettasoft/filterable) | 44 | 2026-09-12 | A powerful and flexible Laravel package for advanced, clean,... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-12 | A multi-purpose content and application platform for Laravel... |
+| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | 2026-09-12 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
+| [codearachnid/check-commerce-laravel-sdk](https://github.com/codearachnid/check-commerce-laravel-sdk) | 0 | 2026-09-12 | Check Commerce is an electronic check and ACH processing pla... |
+| [x-multibyte/blat-admin](https://github.com/x-multibyte/blat-admin) | 0 | 2026-09-12 | Build an Admin Panel for Laravel projects with BlatUI. |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-12 | Manage, process, and serve files in Laravel with scalable up... |
+| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 107 | 2026-09-12 | A package to easily make use of Lucide Icons in your Laravel... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-12 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | 2026-09-12 | Visual feedback for Laravel and Livewire with client-side sc... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-12 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-12 | Integrate Mixpanel analytics into Filament projects to track... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-12 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-12 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
+| [WiserWebSolutions/laravel-lobbyist-legiscan](https://github.com/WiserWebSolutions/laravel-lobbyist-legiscan) | 0 | 2026-09-12 | Default nationwide LegiScan API driver for the laravel-lobby... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-12T04:43 | 3 | 1723 | 6349 |
 | 2026-09-11T21:03 | 5 | 1720 | 6346 |
 | 2026-09-11T16:35 | 13 | 1712 | 6341 |
 | 2026-09-11T11:32 | 10 | 1715 | 6328 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-10T11:30 | 7 | 1720 | 6303 |
 | 2026-09-10T04:54 | 3 | 1723 | 6296 |
 | 2026-09-09T18:34 | 7 | 1720 | 6293 |
-| 2026-09-09T12:40 | 11 | 1718 | 6286 |
 
 ---
 

@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6358  
-**Last updated:** 2026-09-12T15:38:18.097Z
+**Total packages tracked:** 6362  
+**Last updated:** 2026-09-12T20:39:42.627Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Recodex-ID/rewire](https://github.com/Recodex-ID/rewire) | 2 | A reusable Laravel 13 starter kit — authentication, roles, a publishable blog, a... |
+| [jeffersongoncalves/flysystem-google-drive](https://github.com/jeffersongoncalves/flysystem-google-drive) | 1 | A League Flysystem v3 adapter for Google Drive, with a zero-config Laravel drive... |
+| [fahadmayow/exert](https://github.com/fahadmayow/exert) | 0 | An opinionated, HTTP-oriented Laravel package for grouping related actions behin... |
+| [MrNewport/laravel-priceable](https://github.com/MrNewport/laravel-priceable) | 2 | Laravel package that provides quantity-based, multi-scope pricing for any Eloque... |
 | [eshanized/OpenMail](https://github.com/eshanized/OpenMail) | 0 | Modern, beautiful, self-hosted webmail client for organizations. Zero-CLI setup ... |
 | [syofyanzuhad/filament-connection-indicator](https://github.com/syofyanzuhad/filament-connection-indicator) | 1 | A lightweight, real-time client-side connection signal indicator for Filament pa... |
 | [amjadiqbal/backpackMenuManager](https://github.com/amjadiqbal/backpackMenuManager) | 0 | Menu management package for Backpack for Laravel (unfinished scaffold) |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [deadxfire/Laravel-Blade-Auth-Installer](https://github.com/deadxfire/Laravel-Blade-Auth-Installer) | 0 | Production-ready, OWASP-hardened Laravel 11, 12 & 13 authentication scaffolding ... |
 | [jeffersongoncalves/filament-page-visits](https://github.com/jeffersongoncalves/filament-page-visits) | 1 | Filament admin resource for jeffersongoncalves/laravel-page-visits — browse and ... |
 | [Paemark/custom-admin-route](https://github.com/Paemark/custom-admin-route) | 0 | A lightweight Laravel package that enhances security by hiding the default admin... |
-| [xin-admin/laravel-attr-route](https://github.com/xin-admin/laravel-attr-route) | 1 | laravel attrribute route package |
-| [seunoseya44-tech/boorite-learning-lms](https://github.com/seunoseya44-tech/boorite-learning-lms) | 0 | Production Laravel 13 LMS — course delivery, quizzes, verifiable PDF certificate... |
-| [seunoseya44-tech/boorite-pay-fintech-platform](https://github.com/seunoseya44-tech/boorite-pay-fintech-platform) | 0 | Production Laravel 13 wallet and bill-payment platform for the Nigerian market —... |
-| [seunoseya44-tech/ampla-travels-platform](https://github.com/seunoseya44-tech/ampla-travels-platform) | 0 | Enterprise travel management platform (Laravel 12, Livewire 3, Tailwind 4): CMS-... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [jeffersongoncalves/laravel-visitor-fingerprint](https://github.com/jeffersongoncalves/laravel-visitor-fingerprint) | 6 | 2026-09-12 | A zero-domain-knowledge visitor-fingerprinting toolkit for L... |
+| [foxws/laravel-ddd](https://github.com/foxws/laravel-ddd) | 1 | 2026-09-12 | Domain Driven Design for Laravel |
+| [monooso/unobserve](https://github.com/monooso/unobserve) | 83 | 2026-09-12 | Mute and unmute Laravel observers at will. |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-12 | Local-first personal finance dashboard that resolves cross-a... |
-| [AIArmada/engagement](https://github.com/AIArmada/engagement) | 0 | 2026-09-12 | Laravel engagement package: follow, bookmark, respond, react... |
-| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-09-12 | A complete OIDC server as a laravel package |
-| [bambamboole/laravel-oidc-server](https://github.com/bambamboole/laravel-oidc-server) | 0 | 2026-09-12 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC p... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-12 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [niladam/livewire-ban](https://github.com/niladam/livewire-ban) | 3 | 2026-09-12 | Automatically ban IP addresses that trigger Livewire excepti... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-12 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [soorintec/Soorin_Inventory](https://github.com/soorintec/Soorin_Inventory) | 1 | 2026-09-12 | Soorin Inventory — multilingual (fa/en/ar/de/fr/it/ru/zh) La... |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-09-12 | Laravel Podman brings Podman Quadlet support to your Laravel... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-12 | A multi-purpose content and application platform for Laravel... |
-| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-09-12 | Laravel and Livewire admin panel scaffold for car-rental ope... |
-| [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 3 | 2026-09-12 | Bring Tempest Discovery to Laravel |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-12 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [amjadiqbal/laralink](https://github.com/amjadiqbal/laralink) | 0 | 2026-09-12 | "Local-First Package Manager" for Laravel. |
-| [amjadiqbal/laravel-rough-notation](https://github.com/amjadiqbal/laravel-rough-notation) | 0 | 2026-09-12 | Laravel package — Rough Notation hand-drawn annotations: cir... |
-| [amjadiqbal/laravel-tiptap](https://github.com/amjadiqbal/laravel-tiptap) | 0 | 2026-09-12 | Laravel 11+ package — Tiptap editor with backend-driven conf... |
-| [MGeurts/genealogy](https://github.com/MGeurts/genealogy) | 359 | 2026-09-12 | Genealogy is a free and open-source family tree PHP applicat... |
-| [lauroguedes/mary-ui-starter-kit](https://github.com/lauroguedes/mary-ui-starter-kit) | 37 | 2026-09-12 | Mary UI Laravel Starter Kit |
-| [amjadiqbal/backpackMenuManager](https://github.com/amjadiqbal/backpackMenuManager) | 0 | 2026-09-12 | Menu management package for Backpack for Laravel (unfinished... |
-| [bambamboole/laravel-oidc-ui](https://github.com/bambamboole/laravel-oidc-ui) | 0 | 2026-09-12 | READ-ONLY subtree split of bambamboole/laravel-oidc — Lattic... |
-| [bambamboole/laravel-oidc-client](https://github.com/bambamboole/laravel-oidc-client) | 0 | 2026-09-12 | READ-ONLY subtree split of bambamboole/laravel-oidc — OIDC r... |
-| [achyutkneupane/filament-log-viewer](https://github.com/achyutkneupane/filament-log-viewer) | 52 | 2026-09-12 | A Filament package to view and manage Laravel logs. |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-09-12 | [READ ONLY] API Platform for Laravel |
+| [jeffersongoncalves/flysystem-google-drive](https://github.com/jeffersongoncalves/flysystem-google-drive) | 1 | 2026-09-12 | A League Flysystem v3 adapter for Google Drive, with a zero-... |
+| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-09-12 | Detect language using Google Translation API |
+| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-09-12 | Home weather station, end to end: ESP32 firmware reading a B... |
+| [virtunus/frdb-notification](https://github.com/virtunus/frdb-notification) | 0 | 2026-09-12 | Laravel package for firebase realtime database notification |
+| [ahmed-nour-dev/laravel-stream-backup](https://github.com/ahmed-nour-dev/laravel-stream-backup) | 0 | 2026-09-12 | Streaming database backup and restore for Laravel: dump → co... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-12 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-12 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-12 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-12 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [innoboxrr/support](https://github.com/innoboxrr/support) | 0 | 2026-09-12 | HTTP and request helper utilities used across Innobox R&R La... |
+| [AIArmada/engagement](https://github.com/AIArmada/engagement) | 0 | 2026-09-12 | Laravel engagement package: follow, bookmark, respond, react... |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-09-12 | Magic Framework Laravel backend starter package. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-12T20:39 | 4 | 1719 | 6362 |
 | 2026-09-12T15:38 | 7 | 1716 | 6358 |
 | 2026-09-12T10:56 | 2 | 1723 | 6351 |
 | 2026-09-12T04:43 | 3 | 1723 | 6349 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-11T04:50 | 3 | 1723 | 6318 |
 | 2026-09-10T20:57 | 3 | 1722 | 6315 |
 | 2026-09-10T16:31 | 9 | 1717 | 6312 |
-| 2026-09-10T11:30 | 7 | 1720 | 6303 |
 
 ---
 

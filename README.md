@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6349  
-**Last updated:** 2026-09-12T04:43:53.536Z
+**Total packages tracked:** 6351  
+**Last updated:** 2026-09-12T10:56:46.827Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 0 | Open-source Laravel-native CMS for structured, multi-site publishing and automat... |
+| [niladam/livewire-ban](https://github.com/niladam/livewire-ban) | 0 | Automatically ban IP addresses that trigger Livewire exceptions (or attacks) a r... |
 | [batustun/filament-media-library](https://github.com/batustun/filament-media-library) | 0 | WordPress-style media library for Filament v5 — disk agnostic (local, S3, BunnyC... |
 | [abdelrhman-sd/laravel-http](https://github.com/abdelrhman-sd/laravel-http) | 0 | Laravel Http is a laravel package that handles laravel's thrown exceptoins and r... |
 | [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | Multi-workspace local package development toolkit for Laravel: manage, symlink, ... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rylacdang/lynx-scout](https://github.com/rylacdang/lynx-scout) | 1 | Automated performance intelligence and actionable recommendations for Laravel. P... |
 | [alex-kassel/laravel-package-audit](https://github.com/alex-kassel/laravel-package-audit) | 0 | A structured pre-release verification and quality assurance framework for Larave... |
 | [Trench94/Puppr](https://github.com/Trench94/Puppr) | 1 | Puppr - Built for Laravel and used to guard modular SaaS applications. |
-| [jeremykenedy/laravel-notifications](https://github.com/jeremykenedy/laravel-notifications) | 5 | A Laravel package providing an in-app notification center with bell/badge UI, re... |
-| [Insights-ge/inexphone-sms-package](https://github.com/Insights-ge/inexphone-sms-package) | 0 | A production-ready Laravel package for seamless InexPhone SMS API integration, i... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-12 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-12 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [solutionforest/workflow-engine-laravel](https://github.com/solutionforest/workflow-engine-laravel) | 4 | 2026-09-12 | A flexible and powerful workflow engine for Laravel applicat... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-12 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-12 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [niladam/livewire-ban](https://github.com/niladam/livewire-ban) | 0 | 2026-09-12 | Automatically ban IP addresses that trigger Livewire excepti... |
+| [MGeurts/genealogy](https://github.com/MGeurts/genealogy) | 359 | 2026-09-12 | Genealogy is a free and open-source family tree PHP applicat... |
+| [bambamboole/laravel-oidc](https://github.com/bambamboole/laravel-oidc) | 0 | 2026-09-12 | A complete OIDC server as a laravel package |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-12 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-12 | Manage and track inventory with a PHP package that integrate... |
+| [gboquizosanchez/filament-log-viewer](https://github.com/gboquizosanchez/filament-log-viewer) | 24 | 2026-09-12 | Track of each one of your log files in Filament |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-12 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-12 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [kirschbaum-development/commentions](https://github.com/kirschbaum-development/commentions) | 151 | 2026-09-12 | Commentions is a drop-in package for Filament that allows yo... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 68 | 2026-09-12 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-12 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 0 | 2026-09-12 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-12 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-12 | Enhance your Laravel applications with the ecommerce.cart pa... |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-12 | Local-first personal finance dashboard that resolves cross-a... |
-| [kettasoft/filterable](https://github.com/kettasoft/filterable) | 44 | 2026-09-12 | A powerful and flexible Laravel package for advanced, clean,... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-12 | A multi-purpose content and application platform for Laravel... |
-| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | 2026-09-12 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
-| [codearachnid/check-commerce-laravel-sdk](https://github.com/codearachnid/check-commerce-laravel-sdk) | 0 | 2026-09-12 | Check Commerce is an electronic check and ACH processing pla... |
 | [x-multibyte/blat-admin](https://github.com/x-multibyte/blat-admin) | 0 | 2026-09-12 | Build an Admin Panel for Laravel projects with BlatUI. |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-12 | Manage, process, and serve files in Laravel with scalable up... |
-| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 107 | 2026-09-12 | A package to easily make use of Lucide Icons in your Laravel... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-12 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | 2026-09-12 | Visual feedback for Laravel and Livewire with client-side sc... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-12 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-12 | Integrate Mixpanel analytics into Filament projects to track... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-12 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [rankbeam/laravel-seo](https://github.com/rankbeam/laravel-seo) | 1 | 2026-09-12 | Laravel SEO package for metadata, canonicals, Open Graph, li... |
-| [WiserWebSolutions/laravel-lobbyist-legiscan](https://github.com/WiserWebSolutions/laravel-lobbyist-legiscan) | 0 | 2026-09-12 | Default nationwide LegiScan API driver for the laravel-lobby... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-12 | A multi-purpose content and application platform for Laravel... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-12 | Durable execution for PHP: workflows that survive deploys, r... |
+| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 10 | 2026-09-12 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
+| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-12 | WireStack — a Livewire admin framework for Laravel: core, fo... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-12T10:56 | 2 | 1723 | 6351 |
 | 2026-09-12T04:43 | 3 | 1723 | 6349 |
 | 2026-09-11T21:03 | 5 | 1720 | 6346 |
 | 2026-09-11T16:35 | 13 | 1712 | 6341 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-10T16:31 | 9 | 1717 | 6312 |
 | 2026-09-10T11:30 | 7 | 1720 | 6303 |
 | 2026-09-10T04:54 | 3 | 1723 | 6296 |
-| 2026-09-09T18:34 | 7 | 1720 | 6293 |
 
 ---
 

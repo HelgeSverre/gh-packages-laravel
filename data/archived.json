@@ -1411,5 +1411,30 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-09-09T01:02:56.269Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "naiemofficial/laravel-realtime-chat": {
+    "name": "naiemofficial/Laravel-Realtime-Chat",
+    "url": "https://github.com/naiemofficial/Laravel-Realtime-Chat",
+    "description": "A real-time video chat application built with Laravel, Vite, and Pusher for instant messaging and video calls.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "laravel",
+      "livewire",
+      "pusher",
+      "realtime-chat",
+      "realtime-communication",
+      "reverb",
+      "webrtc",
+      "websocket"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-05-15T00:09:40Z",
+    "updated_at": "2025-09-13T20:28:20Z",
+    "pushed_at": "2025-09-13T20:28:17Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-09-13T20:56:27.242Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

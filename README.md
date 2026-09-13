@@ -2,14 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6387  
-**Last updated:** 2026-09-13T16:27:08.438Z
+**Total packages tracked:** 6393  
+**Last updated:** 2026-09-13T20:56:27.274Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [MrPunyapal/laravel-extended-validation](https://github.com/MrPunyapal/laravel-extended-validation) | 3 | Validation rules for Laravel applications, available as rule classes, fluent Rul... |
+| [gsfgabi/transferencias-light](https://github.com/gsfgabi/transferencias-light) | 0 | Uma plataforma de transferências simplificada desenvolvida com Laravel, Livewire... |
+| [Burak-Orhan/empty-vilt-stack-old](https://github.com/Burak-Orhan/empty-vilt-stack-old) | 0 | Packages and installations complete, Ready-to-use VILT Stack (Vue.js, Inertia.js... |
+| [motor-cms/motor-core](https://github.com/motor-cms/motor-core) | 0 | Foundation Laravel package for motor-cms: base classes, filters, traits, rendere... |
+| [sunchayn/fresh-package](https://github.com/sunchayn/fresh-package) | 1 | An opinionated skeleton for scaffolding a modular and declutter Laravel package.... |
+| [maxi032/LaravelAdminPackage](https://github.com/maxi032/LaravelAdminPackage) | 0 | Laravel admin package |
+| [motor-cms/motor-media](https://github.com/motor-cms/motor-media) | 0 | motor-cms Laravel package for media files, directories and file-to-model associa... |
+| [motor-cms/motor-admin](https://github.com/motor-cms/motor-admin) | 0 | motor-cms Laravel package for users, roles and permissions, auth, clients and ad... |
+| [MrPunyapal/laravel-extended-validation](https://github.com/MrPunyapal/laravel-extended-validation) | 5 | Validation rules for Laravel applications, available as rule classes, fluent Rul... |
 | [impruthvi/cashier-entitlements](https://github.com/impruthvi/cashier-entitlements) | 0 | Local entitlement resolution and background billing reconciliation for Laravel C... |
 | [cable8mm/laravel-social-auth](https://github.com/cable8mm/laravel-social-auth) | 0 | Laravel social authentication package for Google, Kakao, and Naver without Socia... |
 | [niravpatel143/laravel-smart-ocr-package](https://github.com/niravpatel143/laravel-smart-ocr-package) | 5 | laravel-smart-ocr-package |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [NyonCode/wire-module-settings](https://github.com/NyonCode/wire-module-settings) | 0 | Application settings for wire: typed key/value settings with a page to edit them... |
 | [NyonCode/wire-panels](https://github.com/NyonCode/wire-panels) | 0 | Application owner layer for wire: resources and their pages. — READ ONLY (split ... |
 | [NyonCode/wire-admin](https://github.com/NyonCode/wire-admin) | 0 | The optional admin shell for wire: a layout and a sidebar over the registered ca... |
-| [NyonCode/wire-suite](https://github.com/NyonCode/wire-suite) | 0 | The whole wire stack in one require, with an interactive installer. — READ ONLY ... |
-| [jeffersongoncalves/filament-scanner-guard](https://github.com/jeffersongoncalves/filament-scanner-guard) | 1 | Filament UI for jeffersongoncalves/laravel-scanner-guard: list, filter and unban... |
-| [innoboxrr/wirecomments](https://github.com/innoboxrr/wirecomments) | 0 | Laravel Livewire comments with a polished Tailwind CSS interface, ready to drop ... |
-| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 1 | Detect and ban vulnerability-scanner traffic on Laravel apps, with optional ASN-... |
-| [sineld/voyager](https://github.com/sineld/voyager) | 0 | Voyager admin panel for Laravel 12/13/14 on PHP 8.4+ — maintained fork of thedev... |
-| [RoPi-LLC/no404-laravel](https://github.com/RoPi-LLC/no404-laravel) | 1 | no404 for Laravel: real server-side 301/302 redirects for your application's 404... |
-| [seotarek/laravel-llm-router](https://github.com/seotarek/laravel-llm-router) | 0 | A modular Laravel 11 package for intelligent multi-provider LLM routing, cost op... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-13 | Laravel package providing AI-powered search with Pagefind. D... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-13 | A multi-purpose content and application platform for Laravel... |
 | [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-13 | Local-first personal finance dashboard that resolves cross-a... |
-| [cable8mm/laravel-social-auth](https://github.com/cable8mm/laravel-social-auth) | 0 | 2026-09-13 | Laravel social authentication package for Google, Kakao, and... |
-| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | 2026-09-13 | Multi-workspace local package development toolkit for Larave... |
+| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-09-13 | Monorepo for Finity Labs' Filament packages |
+| [sunchayn/fresh-package](https://github.com/sunchayn/fresh-package) | 1 | 2026-09-13 | An opinionated skeleton for scaffolding a modular and declut... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-13 | A multi-purpose content and application platform for Laravel... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-13 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [foxws/laravel-scout-relations](https://github.com/foxws/laravel-scout-relations) | 1 | 2026-09-13 | Automatically re-index Scout-searchable related models when ... |
 | [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-13 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [jeffersongoncalves/teamkitv4](https://github.com/jeffersongoncalves/teamkitv4) | 9 | 2026-09-13 | TeamKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [MrPunyapal/laravel-extended-validation](https://github.com/MrPunyapal/laravel-extended-validation) | 3 | 2026-09-13 | Validation rules for Laravel applications, available as rule... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 68 | 2026-09-13 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [innoboxrr/larapack-generator](https://github.com/innoboxrr/larapack-generator) | 2 | 2026-09-13 | Scaffold a production-ready Laravel package in seconds - str... |
+| [jeffersongoncalves/helpdeskkitv4](https://github.com/jeffersongoncalves/helpdeskkitv4) | 6 | 2026-09-13 | HelpDesk starter kit built on Laravel 13.x and Filament 4.x ... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-13 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [achyutkneupane/laravel-seo](https://github.com/achyutkneupane/laravel-seo) | 2 | 2026-09-13 | An opinionated Laravel package to manage SEO on Eloquent mod... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-13 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | 2026-09-13 | Multi-workspace local package development toolkit for Larave... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-13 | The NativePHP website |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 346 | 2026-09-13 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [RoPi-LLC/no404-laravel](https://github.com/RoPi-LLC/no404-laravel) | 1 | 2026-09-13 | no404 for Laravel: real server-side 301/302 redirects for yo... |
+| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-09-13 | A comprehensive toolkit providing foundational building bloc... |
 | [anilcancakir/laravel-agent-mcp](https://github.com/anilcancakir/laravel-agent-mcp) | 5 | 2026-09-13 | Read-only MCP (Model Context Protocol) server for Laravel. G... |
-| [innoboxrr/support](https://github.com/innoboxrr/support) | 0 | 2026-09-13 | HTTP and request helper utilities used across Innobox R&R La... |
-| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 2 | 2026-09-13 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
-| [impruthvi/cashier-entitlements](https://github.com/impruthvi/cashier-entitlements) | 0 | 2026-09-13 | Local entitlement resolution and background billing reconcil... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-13 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-09-13 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
-| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-09-13 | TeamKit starter kit built on Laravel 12.x and Filament 3.x w... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-13 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [jeffersongoncalves/evolutionkitv4](https://github.com/jeffersongoncalves/evolutionkitv4) | 10 | 2026-09-13 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-09-13 | Privacy-first Matomo analytics for Laravel with cookieless t... |
+| [innoboxrr/larapack-generator](https://github.com/innoboxrr/larapack-generator) | 2 | 2026-09-13 | Scaffold a production-ready Laravel package in seconds - str... |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-13 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-13T20:56 | 7 | 1723 | 6393 |
 | 2026-09-13T16:27 | 4 | 1725 | 6387 |
 | 2026-09-13T12:02 | 10 | 1718 | 6383 |
 | 2026-09-13T04:57 | 11 | 1715 | 6373 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-12T04:43 | 3 | 1723 | 6349 |
 | 2026-09-11T21:03 | 5 | 1720 | 6346 |
 | 2026-09-11T16:35 | 13 | 1712 | 6341 |
-| 2026-09-11T11:32 | 10 | 1715 | 6328 |
 
 ---
 

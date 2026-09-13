@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6362  
-**Last updated:** 2026-09-12T20:39:42.627Z
+**Total packages tracked:** 6373  
+**Last updated:** 2026-09-13T04:57:33.069Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-scanner-guard](https://github.com/jeffersongoncalves/filament-scanner-guard) | 1 | Filament UI for jeffersongoncalves/laravel-scanner-guard: list, filter and unban... |
+| [innoboxrr/wirecomments](https://github.com/innoboxrr/wirecomments) | 0 | Laravel Livewire comments with a polished Tailwind CSS interface, ready to drop ... |
+| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 1 | Detect and ban vulnerability-scanner traffic on Laravel apps, with optional ASN-... |
+| [sineld/voyager](https://github.com/sineld/voyager) | 0 | Voyager admin panel for Laravel 12/13/14 on PHP 8.4+ — maintained fork of thedev... |
+| [RoPi-LLC/no404-laravel](https://github.com/RoPi-LLC/no404-laravel) | 1 | no404 for Laravel: real server-side 301/302 redirects for your application's 404... |
+| [seotarek/laravel-llm-router](https://github.com/seotarek/laravel-llm-router) | 0 | A modular Laravel 11 package for intelligent multi-provider LLM routing, cost op... |
+| [MrNewport/laravel-flow](https://github.com/MrNewport/laravel-flow) | 3 | A domain-agnostic flow/workflow package for Laravel. |
+| [MrNewport/laravel-stow](https://github.com/MrNewport/laravel-stow) | 1 | This unofficial laravel package allows for the addition of any model to an insta... |
+| [MrNewport/laravel-repo](https://github.com/MrNewport/laravel-repo) | 1 | A Laravel package that fetches your GitHub public repositories and saves README ... |
+| [MrNewport/laravel-docsign](https://github.com/MrNewport/laravel-docsign) | 1 | A config-driven, expandable package for document generation (multiple PDF and te... |
+| [foxws/laravel-docs](https://github.com/foxws/laravel-docs) | 0 | Pull a package's docs/*.md folder from GitHub into queryable Eloquent models. |
 | [Recodex-ID/rewire](https://github.com/Recodex-ID/rewire) | 2 | A reusable Laravel 13 starter kit — authentication, roles, a publishable blog, a... |
 | [jeffersongoncalves/flysystem-google-drive](https://github.com/jeffersongoncalves/flysystem-google-drive) | 1 | A League Flysystem v3 adapter for Google Drive, with a zero-config Laravel drive... |
 | [fahadmayow/exert](https://github.com/fahadmayow/exert) | 0 | An opinionated, HTTP-oriented Laravel package for grouping related actions behin... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [amjadiqbal/backpackMenuManager](https://github.com/amjadiqbal/backpackMenuManager) | 0 | Menu management package for Backpack for Laravel (unfinished scaffold) |
 | [webaroundlabs/openai-ads-laravel](https://github.com/webaroundlabs/openai-ads-laravel) | 0 | Read-only mirror of packages/laravel from openai-ads-toolkit. Do not open pull r... |
 | [kolirt/laravel-master-model](https://github.com/kolirt/laravel-master-model) | 3 | 🧖‍♂️ Package that simplifies working with models, saving relationships, and upl... |
-| [ItsMurumba/laravel-otp](https://github.com/ItsMurumba/laravel-otp) | 0 | A flexible and feature-rich Laravel package for generating and sending One-Time ... |
-| [amjadhsan/larascope](https://github.com/amjadhsan/larascope) | 6 | A Laravel package that logs HTTP requests, SQL queries, and memory usage, with a... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 0 | Open-source Laravel-native CMS for structured, multi-site publishing and automat... |
-| [niladam/livewire-ban](https://github.com/niladam/livewire-ban) | 3 | Automatically ban IP addresses that trigger Livewire exceptions (or attacks) a r... |
-| [batustun/filament-media-library](https://github.com/batustun/filament-media-library) | 0 | WordPress-style media library for Filament v5 — disk agnostic (local, S3, BunnyC... |
-| [abdelrhman-sd/laravel-http](https://github.com/abdelrhman-sd/laravel-http) | 0 | Laravel Http is a laravel package that handles laravel's thrown exceptoins and r... |
-| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | Multi-workspace local package development toolkit for Laravel: manage, symlink, ... |
-| [hashamkhan11/FitHub](https://github.com/hashamkhan11/FitHub) | 0 | Multi-tenant gym management platform: Laravel/Livewire staff dashboard, Flutter ... |
-| [deadxfire/Laravel-Blade-Auth-Installer](https://github.com/deadxfire/Laravel-Blade-Auth-Installer) | 0 | Production-ready, OWASP-hardened Laravel 11, 12 & 13 authentication scaffolding ... |
-| [jeffersongoncalves/filament-page-visits](https://github.com/jeffersongoncalves/filament-page-visits) | 1 | Filament admin resource for jeffersongoncalves/laravel-page-visits — browse and ... |
-| [Paemark/custom-admin-route](https://github.com/Paemark/custom-admin-route) | 0 | A lightweight Laravel package that enhances security by hiding the default admin... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/laravel-visitor-fingerprint](https://github.com/jeffersongoncalves/laravel-visitor-fingerprint) | 6 | 2026-09-12 | A zero-domain-knowledge visitor-fingerprinting toolkit for L... |
-| [foxws/laravel-ddd](https://github.com/foxws/laravel-ddd) | 1 | 2026-09-12 | Domain Driven Design for Laravel |
-| [monooso/unobserve](https://github.com/monooso/unobserve) | 83 | 2026-09-12 | Mute and unmute Laravel observers at will. |
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-12 | Local-first personal finance dashboard that resolves cross-a... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-12 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [soorintec/Soorin_Inventory](https://github.com/soorintec/Soorin_Inventory) | 1 | 2026-09-12 | Soorin Inventory — multilingual (fa/en/ar/de/fr/it/ru/zh) La... |
-| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-09-12 | Laravel Podman brings Podman Quadlet support to your Laravel... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-12 | A multi-purpose content and application platform for Laravel... |
-| [jeffersongoncalves/flysystem-google-drive](https://github.com/jeffersongoncalves/flysystem-google-drive) | 1 | 2026-09-12 | A League Flysystem v3 adapter for Google Drive, with a zero-... |
-| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-09-12 | Detect language using Google Translation API |
-| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-09-12 | Home weather station, end to end: ESP32 firmware reading a B... |
-| [virtunus/frdb-notification](https://github.com/virtunus/frdb-notification) | 0 | 2026-09-12 | Laravel package for firebase realtime database notification |
-| [ahmed-nour-dev/laravel-stream-backup](https://github.com/ahmed-nour-dev/laravel-stream-backup) | 0 | 2026-09-12 | Streaming database backup and restore for Laravel: dump → co... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-12 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-12 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-12 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-12 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [innoboxrr/support](https://github.com/innoboxrr/support) | 0 | 2026-09-12 | HTTP and request helper utilities used across Innobox R&R La... |
-| [AIArmada/engagement](https://github.com/AIArmada/engagement) | 0 | 2026-09-12 | Laravel engagement package: follow, bookmark, respond, react... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-09-12 | Magic Framework Laravel backend starter package. |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-13 | A multi-purpose content and application platform for Laravel... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-13 | Local-first personal finance dashboard that resolves cross-a... |
+| [innoboxrr/larapack-generator](https://github.com/innoboxrr/larapack-generator) | 2 | 2026-09-13 | Scaffold a production-ready Laravel package in seconds - str... |
+| [niladam/livewire-ban](https://github.com/niladam/livewire-ban) | 3 | 2026-09-13 | Automatically ban IP addresses that trigger Livewire excepti... |
+| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 1 | 2026-09-13 | A self-hosted ActivityPub server implementation for Laravel ... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-13 | The NativePHP website |
+| [devsarfo/laraprunable](https://github.com/devsarfo/laraprunable) | 0 | 2026-09-13 | Laravel Prunable Package that supports SoftDeletes trait |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-13 | Automated code analysis for Laravel applications with 73 com... |
+| [mdobes/filament-rich-editor-fullscreen](https://github.com/mdobes/filament-rich-editor-fullscreen) | 9 | 2026-09-13 | A Filament v4 & v5 plugin that adds fullscreen functionality... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-13 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-13 | Manage and track inventory with a PHP package that integrate... |
+| [jeffersongoncalves/filament-scanner-guard](https://github.com/jeffersongoncalves/filament-scanner-guard) | 1 | 2026-09-13 | Filament UI for jeffersongoncalves/laravel-scanner-guard: li... |
+| [batustun/filament-media-library](https://github.com/batustun/filament-media-library) | 0 | 2026-09-13 | WordPress-style media library for Filament v5 — disk agnosti... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-13 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-13 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [allamo123/lara_payments_ma](https://github.com/allamo123/lara_payments_ma) | 6 | 2026-09-13 | A Laravel payment gateway package that provides a unified AP... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-13 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-13 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-13 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-13 | Enhance your Laravel applications with the ecommerce.cart pa... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-13T04:57 | 11 | 1715 | 6373 |
 | 2026-09-12T20:39 | 4 | 1719 | 6362 |
 | 2026-09-12T15:38 | 7 | 1716 | 6358 |
 | 2026-09-12T10:56 | 2 | 1723 | 6351 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-11T11:32 | 10 | 1715 | 6328 |
 | 2026-09-11T04:50 | 3 | 1723 | 6318 |
 | 2026-09-10T20:57 | 3 | 1722 | 6315 |
-| 2026-09-10T16:31 | 9 | 1717 | 6312 |
 
 ---
 

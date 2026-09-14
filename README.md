@@ -2,21 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6393  
-**Last updated:** 2026-09-13T20:56:27.274Z
+**Total packages tracked:** 6394  
+**Last updated:** 2026-09-14T05:06:52.517Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ArtisanPack-UI/shipping-labels](https://github.com/ArtisanPack-UI/shipping-labels) | 0 | Carrier-agnostic shipping label engine for Laravel. Ships a LabelProvider contra... |
+| [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) | 12 | A powerful Laravel package built specifically for Laravel 12+, designed to sync ... |
 | [gsfgabi/transferencias-light](https://github.com/gsfgabi/transferencias-light) | 0 | Uma plataforma de transferências simplificada desenvolvida com Laravel, Livewire... |
 | [Burak-Orhan/empty-vilt-stack-old](https://github.com/Burak-Orhan/empty-vilt-stack-old) | 0 | Packages and installations complete, Ready-to-use VILT Stack (Vue.js, Inertia.js... |
 | [motor-cms/motor-core](https://github.com/motor-cms/motor-core) | 0 | Foundation Laravel package for motor-cms: base classes, filters, traits, rendere... |
-| [sunchayn/fresh-package](https://github.com/sunchayn/fresh-package) | 1 | An opinionated skeleton for scaffolding a modular and declutter Laravel package.... |
+| [sunchayn/fresh-package](https://github.com/sunchayn/fresh-package) | 4 | An opinionated skeleton for scaffolding a modular and decluttered Laravel packag... |
 | [maxi032/LaravelAdminPackage](https://github.com/maxi032/LaravelAdminPackage) | 0 | Laravel admin package |
 | [motor-cms/motor-media](https://github.com/motor-cms/motor-media) | 0 | motor-cms Laravel package for media files, directories and file-to-model associa... |
 | [motor-cms/motor-admin](https://github.com/motor-cms/motor-admin) | 0 | motor-cms Laravel package for users, roles and permissions, auth, clients and ad... |
-| [MrPunyapal/laravel-extended-validation](https://github.com/MrPunyapal/laravel-extended-validation) | 5 | Validation rules for Laravel applications, available as rule classes, fluent Rul... |
+| [MrPunyapal/laravel-extended-validation](https://github.com/MrPunyapal/laravel-extended-validation) | 7 | Validation rules for Laravel applications, available as rule classes, fluent Rul... |
 | [impruthvi/cashier-entitlements](https://github.com/impruthvi/cashier-entitlements) | 0 | Local entitlement resolution and background billing reconciliation for Laravel C... |
 | [cable8mm/laravel-social-auth](https://github.com/cable8mm/laravel-social-auth) | 0 | Laravel social authentication package for Google, Kakao, and Naver without Socia... |
 | [niravpatel143/laravel-smart-ocr-package](https://github.com/niravpatel143/laravel-smart-ocr-package) | 5 | laravel-smart-ocr-package |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [NyonCode/wire-module-users](https://github.com/NyonCode/wire-module-users) | 0 | User administration for wire: a ready-made module with its resource, pages and o... |
 | [NyonCode/wire-module-auth](https://github.com/NyonCode/wire-module-auth) | 0 | The signed-out screens for wire: login, password reset, email verification and t... |
 | [NyonCode/wire-module-settings](https://github.com/NyonCode/wire-module-settings) | 0 | Application settings for wire: typed key/value settings with a page to edit them... |
-| [NyonCode/wire-panels](https://github.com/NyonCode/wire-panels) | 0 | Application owner layer for wire: resources and their pages. — READ ONLY (split ... |
-| [NyonCode/wire-admin](https://github.com/NyonCode/wire-admin) | 0 | The optional admin shell for wire: a layout and a sidebar over the registered ca... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 462 | A simple package to help integrate Cloudflare Turnstile. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 458 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 459 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-13 | Local-first personal finance dashboard that resolves cross-a... |
-| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-09-13 | Monorepo for Finity Labs' Filament packages |
-| [sunchayn/fresh-package](https://github.com/sunchayn/fresh-package) | 1 | 2026-09-13 | An opinionated skeleton for scaffolding a modular and declut... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-13 | A multi-purpose content and application platform for Laravel... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-13 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [foxws/laravel-scout-relations](https://github.com/foxws/laravel-scout-relations) | 1 | 2026-09-13 | Automatically re-index Scout-searchable related models when ... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-13 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [jeffersongoncalves/helpdeskkitv4](https://github.com/jeffersongoncalves/helpdeskkitv4) | 6 | 2026-09-13 | HelpDesk starter kit built on Laravel 13.x and Filament 4.x ... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-13 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | 2026-09-13 | Multi-workspace local package development toolkit for Larave... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-13 | The NativePHP website |
-| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 346 | 2026-09-13 | Gorgeous shadcn inspired UI library for laravel blade using ... |
-| [RoPi-LLC/no404-laravel](https://github.com/RoPi-LLC/no404-laravel) | 1 | 2026-09-13 | no404 for Laravel: real server-side 301/302 redirects for yo... |
-| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-09-13 | A comprehensive toolkit providing foundational building bloc... |
-| [anilcancakir/laravel-agent-mcp](https://github.com/anilcancakir/laravel-agent-mcp) | 5 | 2026-09-13 | Read-only MCP (Model Context Protocol) server for Laravel. G... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-13 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [jeffersongoncalves/evolutionkitv4](https://github.com/jeffersongoncalves/evolutionkitv4) | 10 | 2026-09-13 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-09-13 | Privacy-first Matomo analytics for Laravel with cookieless t... |
-| [innoboxrr/larapack-generator](https://github.com/innoboxrr/larapack-generator) | 2 | 2026-09-13 | Scaffold a production-ready Laravel package in seconds - str... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-13 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-14 | A multi-purpose content and application platform for Laravel... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-14 | Local-first personal finance dashboard that resolves cross-a... |
+| [innoboxrr/larapack-generator](https://github.com/innoboxrr/larapack-generator) | 2 | 2026-09-14 | Scaffold a production-ready Laravel package in seconds - str... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-14 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | 2026-09-14 | Olsyn Asset Library control plane and PrismFS monorepo |
+| [diviky/bright](https://github.com/diviky/bright) | 1 | 2026-09-14 | Laravel package |
+| [codebar-ag/laravel-event-logs](https://github.com/codebar-ag/laravel-event-logs) | 0 | 2026-09-14 | Event logging for HTTP requests and model events with plugga... |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-09-14 | Laravel package for interacting with Traccar api |
+| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-09-14 |  |
+| [innoboxrr/support](https://github.com/innoboxrr/support) | 0 | 2026-09-14 | HTTP and request helper utilities used across Innobox R&R La... |
+| [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) | 249 | 2026-09-14 | High quality automatic translate your language files into ma... |
+| [LuisHdezE/erp_eliasworks](https://github.com/LuisHdezE/erp_eliasworks) | 0 | 2026-09-14 | EliasWorks engineering portfolio built with Laravel, Livewir... |
+| [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 189 | 2026-09-14 | Full genealogy and family tree building application using La... |
+| [phattarachai/thaidate](https://github.com/phattarachai/thaidate) | 12 | 2026-09-14 | A Laravel and PHP package for thaidate() function |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-14 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-14 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [jeffersongoncalves/laravel-service-desk](https://github.com/jeffersongoncalves/laravel-service-desk) | 9 | 2026-09-14 | A complete, headless Service Desk package for Laravel featur... |
+| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-09-14 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
+| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 1 | 2026-09-14 | A self-hosted ActivityPub server implementation for Laravel ... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-09-14 | A lightweight, convention-driven modular architecture packag... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-14T05:06 | 2 | 1728 | 6394 |
 | 2026-09-13T20:56 | 7 | 1723 | 6393 |
 | 2026-09-13T16:27 | 4 | 1725 | 6387 |
 | 2026-09-13T12:02 | 10 | 1718 | 6383 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-12T10:56 | 2 | 1723 | 6351 |
 | 2026-09-12T04:43 | 3 | 1723 | 6349 |
 | 2026-09-11T21:03 | 5 | 1720 | 6346 |
-| 2026-09-11T16:35 | 13 | 1712 | 6341 |
 
 ---
 

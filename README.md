@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6413  
-**Last updated:** 2026-09-15T11:53:23.185Z
+**Total packages tracked:** 6421  
+**Last updated:** 2026-09-15T17:07:34.315Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 5 | An in-panel AI assistant and an MCP server for Filament v5 panels, built on lara... |
+| [packstub/filament-form-builder](https://github.com/packstub/filament-form-builder) | 6 | Form builder for Filament panels: build forms in the admin, render them with Bla... |
+| [packstub/filament-flow](https://github.com/packstub/filament-flow) | 14 | Visual workflow automation for Filament panels: triggers, conditions and actions... |
+| [packstub/filament-account-switcher](https://github.com/packstub/filament-account-switcher) | 43 | Switch between accounts in Filament: impersonate users, linked sub-accounts, and... |
+| [Gallyan/md2spip](https://github.com/Gallyan/md2spip) | 0 | Convertisseur Markdown vers SPIP en temps réel. Laravel 13 + Livewire 4 + Tailwi... |
+| [joshrudesill/neotel-websocket](https://github.com/joshrudesill/neotel-websocket) | 0 | Neotel VoiP package for Laravel |
+| [alex-kassel/workspace-manifest](https://github.com/alex-kassel/workspace-manifest) | 0 | Domain manifest repository and schema for multi-package workspace.json configura... |
+| [erlandmuchasaj/laravel-email-verify](https://github.com/erlandmuchasaj/laravel-email-verify) | 3 | A laravel package used to filter email addresses |
 | [tomatophp/filament-ecommerce](https://github.com/tomatophp/filament-ecommerce) | 102 | Build your own ecommerce store with Filament & Splade |
 | [tomatophp/filament-payments](https://github.com/tomatophp/filament-payments) | 54 | Manage your payments inside FilamentPHP app with multi payment gateway integrati... |
 | [tomatophp/filament-browser](https://github.com/tomatophp/filament-browser) | 41 | File & Folders & Media Browser With Code Editor |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [abdulsalamalkhatib96/laravel-context-flow](https://github.com/abdulsalamalkhatib96/laravel-context-flow) | 0 | The package preserves one logical workflow across HTTP requests, queued jobs, sc... |
 | [tomatophp/filament-fcm](https://github.com/tomatophp/filament-fcm) | 20 | Firebase Cloud Messaging integration to Native FilamentPHP Notification Package |
 | [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | Generic Laravel article campaign domain engine, policies, discovery contracts, a... |
-| [tomatophp/filament-tomatophp-theme](https://github.com/tomatophp/filament-tomatophp-theme) | 1 | The TomatoPHP brand theme for FilamentPHP panels: the TomatoPHP mark, brand colo... |
-| [maeandrew/laravel-ua-banks](https://github.com/maeandrew/laravel-ua-banks) | 0 | Ukrainian bank registry from NBU open data with UA IBAN & MFO validation for Lar... |
-| [Nordaxiz-Technology-Limited/nordaxiz-harbour-connect](https://github.com/Nordaxiz-Technology-Limited/nordaxiz-harbour-connect) | 0 | PHP SDK and Laravel integration package for the Harbour payment platform. |
-| [blemli/swissstreets-for-filament](https://github.com/blemli/swissstreets-for-filament) | 0 | Every Swiss address. Offline. |
-| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | A headless CMS for Laravel: content modelled in PHP, edited in a React admin pan... |
-| [NathanM501/Faker-Madagascar](https://github.com/NathanM501/Faker-Madagascar) | 0 | Laravel package that generates realistic Madagascar fake data — real addresses (... |
-| [nayvocode/laravel-race-logic-guard](https://github.com/nayvocode/laravel-race-logic-guard) | 0 | This package will check for race logic and any loophole around it for the files ... |
-| [artisan-build/built-for-cloud-starter](https://github.com/artisan-build/built-for-cloud-starter) | 0 | Starter kit for Built for Cloud products: laravel-nodeless plus the built-for-cl... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 463 | A simple package to help integrate Cloudflare Turnstile. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 461 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 462 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [webmilmind1/laravel-deskcrew](https://github.com/webmilmind1/laravel-deskcrew) | 0 | 2026-09-15 | Laravel package for the DeskCrew support widget: a Blade dir... |
-| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-09-15 | A Laravel package to track revisions of Eloquent models, all... |
-| [cable8mm/laravel-social-auth](https://github.com/cable8mm/laravel-social-auth) | 0 | 2026-09-15 | Laravel social authentication package for Google, Kakao, and... |
-| [LuisHdezE/erp_eliasworks](https://github.com/LuisHdezE/erp_eliasworks) | 0 | 2026-09-15 | EliasWorks engineering portfolio built with Laravel, Livewir... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-15 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [swadhin-sikder/laravel-row-in](https://github.com/swadhin-sikder/laravel-row-in) | 0 | 2026-09-15 | Adds row value IN and NOT IN clauses to Laravel's query buil... |
+| [foxws/laravel-pwa](https://github.com/foxws/laravel-pwa) | 1 | 2026-09-15 | PWA manifest and Blade directives for Laravel. Make your app... |
+| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 2 | 2026-09-15 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-09-15 | [READ ONLY] API Platform for Laravel |
+| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-09-15 | A collection of Dockerfile examples for various programming ... |
+| [NathanM501/Faker-Madagascar](https://github.com/NathanM501/Faker-Madagascar) | 0 | 2026-09-15 | Laravel package generating realistic Madagascar fake data: r... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 167 | 2026-09-15 | Filament plugin that allows to add dynamic, user-defined for... |
+| [alex-kassel/workspace-manifest](https://github.com/alex-kassel/workspace-manifest) | 0 | 2026-09-15 | Domain manifest repository and schema for multi-package work... |
 | [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-15 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 2 | 2026-09-15 | Filament admin resource for jeffersongoncalves/laravel-short... |
-| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 9 | 2026-09-15 | Filament plugin for Help Desk ticket management — User, Oper... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-09-15 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-15 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-15 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-15 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-15 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [jay123anta/jeeves](https://github.com/jay123anta/jeeves) | 3 | 2026-09-15 | A chat window for your own database. Users ask in plain Engl... |
-| [AIArmada/engagement](https://github.com/AIArmada/engagement) | 0 | 2026-09-15 | Laravel engagement package: follow, bookmark, respond, react... |
-| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 73 | 2026-09-15 |  |
-| [foxws/laravel-docs](https://github.com/foxws/laravel-docs) | 0 | 2026-09-15 | Pull a package's docs/*.md folder from GitHub into queryable... |
-| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 41 | 2026-09-15 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 0 | 2026-09-15 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [DevWizardHQ/wiz-captcha](https://github.com/DevWizardHQ/wiz-captcha) | 1 | 2026-09-15 | wiz captcha package for laravel. |
+| [blemli/swissstreets-for-filament](https://github.com/blemli/swissstreets-for-filament) | 0 | 2026-09-15 | Every Swiss address. Offline. |
+| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-09-15 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-15 | Automated code analysis for Laravel applications with 73 com... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 277 | 2026-09-15 | A live database structure viewer for Laravel that renders yo... |
+| [lianmaymesi/laravel-multidomain-starter](https://github.com/lianmaymesi/laravel-multidomain-starter) | 0 | 2026-09-15 | Laravel starter kit for multi-subdomain apps: dedicated auth... |
+| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-09-15 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
+| [ashrafic/laravel-ai-orbit](https://github.com/ashrafic/laravel-ai-orbit) | 32 | 2026-09-15 | Standalone observability dashboard and developer playground ... |
+| [testmonitor/eloquent-revisable](https://github.com/testmonitor/eloquent-revisable) | 2 | 2026-09-15 | A Laravel package to track revisions of Eloquent models, all... |
+| [hybridly/laravel](https://github.com/hybridly/laravel) | 4 | 2026-09-15 | [READ ONLY] Subtree split of the Laravel package from the Hy... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-15 | A multi-purpose content and application platform for Laravel... |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 188 | 2026-09-15 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-15T17:07 | 8 | 1723 | 6421 |
 | 2026-09-15T11:53 | 11 | 1722 | 6413 |
 | 2026-09-15T05:02 | 1 | 1732 | 6402 |
 | 2026-09-14T21:54 | 3 | 1731 | 6401 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-13T16:27 | 4 | 1725 | 6387 |
 | 2026-09-13T12:02 | 10 | 1718 | 6383 |
 | 2026-09-13T04:57 | 11 | 1715 | 6373 |
-| 2026-09-12T20:39 | 4 | 1719 | 6362 |
 
 ---
 

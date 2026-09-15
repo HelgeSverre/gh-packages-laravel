@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6401  
-**Last updated:** 2026-09-14T21:54:28.425Z
+**Total packages tracked:** 6402  
+**Last updated:** 2026-09-15T05:02:30.480Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | Generic Laravel article campaign domain engine, policies, discovery contracts, a... |
 | [tomatophp/filament-tomatophp-theme](https://github.com/tomatophp/filament-tomatophp-theme) | 0 | The TomatoPHP brand theme for FilamentPHP panels: the TomatoPHP mark, brand colo... |
 | [maeandrew/laravel-ua-banks](https://github.com/maeandrew/laravel-ua-banks) | 0 | Ukrainian bank registry from NBU open data with UA IBAN & MFO validation for Lar... |
 | [Nordaxiz-Technology-Limited/nordaxiz-harbour-connect](https://github.com/Nordaxiz-Technology-Limited/nordaxiz-harbour-connect) | 0 | PHP SDK and Laravel integration package for the Harbour payment platform. |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [motor-cms/motor-admin](https://github.com/motor-cms/motor-admin) | 0 | motor-cms Laravel package for users, roles and permissions, auth, clients and ad... |
 | [MrPunyapal/laravel-extended-validation](https://github.com/MrPunyapal/laravel-extended-validation) | 7 | Validation rules for Laravel applications, available as rule classes, fluent Rul... |
 | [impruthvi/cashier-entitlements](https://github.com/impruthvi/cashier-entitlements) | 0 | Local entitlement resolution and background billing reconciliation for Laravel C... |
-| [cable8mm/laravel-social-auth](https://github.com/cable8mm/laravel-social-auth) | 0 | Laravel social authentication package for Google, Kakao, and Naver without Socia... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-14 | Local-first personal finance dashboard that resolves cross-a... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-14 | Automated code analysis for Laravel applications with 73 com... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-09-14 | Laravel-based API for storing sensor data from distributed n... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-14 | A multi-purpose content and application platform for Laravel... |
-| [isaidgitmenow/laravel-errors](https://github.com/isaidgitmenow/laravel-errors) | 0 | 2026-09-14 | Cure your Laravel exception handling headaches. Manage error... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 199 | 2026-09-14 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [MeRezaRezaei/teleframe](https://github.com/MeRezaRezaei/teleframe) | 0 | 2026-09-14 | Unified Telegram engine & framework — MTProto 2.0 + Bot API ... |
-| [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 2 | 2026-09-14 | Filament admin resource for jeffersongoncalves/laravel-short... |
-| [jeffersongoncalves/laravel-locale-cookie](https://github.com/jeffersongoncalves/laravel-locale-cookie) | 2 | 2026-09-14 | Resolve the application locale from a cookie, validated agai... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-14 | Durable execution for PHP: workflows that survive deploys, r... |
-| [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 3 | 2026-09-14 | Bring Tempest Discovery to Laravel |
-| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | 2026-09-14 | Multi-workspace local package development toolkit for Larave... |
-| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 3 | 2026-09-14 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
-| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-09-14 | A package for Miro |
-| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 2 | 2026-09-14 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 42 | 2026-09-14 | This project collects the most commonly used Laravel extensi... |
-| [EscuelaIt/laravel-api-kit](https://github.com/EscuelaIt/laravel-api-kit) | 1 | 2026-09-14 | Utilities to create consistent APIs in Laravel. |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-14 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-14 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [tomatophp/filament-language-switcher](https://github.com/tomatophp/filament-language-switcher) | 37 | 2026-09-14 | Switch between languages on your app using user base column ... |
+| [beatrax-app/beatrax](https://github.com/beatrax-app/beatrax) | 8 | 2026-09-15 | Local-first personal finance dashboard that resolves cross-a... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-15 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-15 | Integrate Mixpanel analytics into Filament projects to track... |
+| [nae6/flea-market-app](https://github.com/nae6/flea-market-app) | 0 | 2026-09-15 | CoachTech 模擬案件1 |
+| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 2 | 2026-09-15 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
+| [Laragear/MetaTesting](https://github.com/Laragear/MetaTesting) | 3 | 2026-09-15 | A Laravel Package for testing Laravel Packages |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-15 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [MarceloPanho/orbit](https://github.com/MarceloPanho/orbit) | 0 | 2026-09-15 | Sistema pessoal em Laravel 12 + Livewire 3, empacotado como ... |
+| [Happy-Arif/license-guard](https://github.com/Happy-Arif/license-guard) | 0 | 2026-09-15 | A secure, universal license verification package designed fo... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-15 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-15 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-15 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-15 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-09-15 | Generic Laravel article campaign domain engine, policies, di... |
+| [robinsonryan/hey-you](https://github.com/robinsonryan/hey-you) | 1 | 2026-09-15 | Laravel package for modeling contactable entities, contact m... |
+| [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) | 249 | 2026-09-15 | High quality automatic translate your language files into ma... |
+| [robinsonryan/permixion](https://github.com/robinsonryan/permixion) | 0 | 2026-09-15 | Laravel permission management package |
+| [LuisHdezE/erp_eliasworks](https://github.com/LuisHdezE/erp_eliasworks) | 0 | 2026-09-15 | EliasWorks engineering portfolio built with Laravel, Livewir... |
+| [AsmitNepali/resized-column](https://github.com/AsmitNepali/resized-column) | 57 | 2026-09-15 | Filament table column resize plugin. |
+| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 2 | 2026-09-15 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-15T05:02 | 1 | 1732 | 6402 |
 | 2026-09-14T21:54 | 3 | 1731 | 6401 |
 | 2026-09-14T13:01 | 5 | 1728 | 6399 |
 | 2026-09-14T05:06 | 2 | 1728 | 6394 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-13T04:57 | 11 | 1715 | 6373 |
 | 2026-09-12T20:39 | 4 | 1719 | 6362 |
 | 2026-09-12T15:38 | 7 | 1716 | 6358 |
-| 2026-09-12T10:56 | 2 | 1723 | 6351 |
 
 ---
 

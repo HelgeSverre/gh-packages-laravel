@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6422  
-**Last updated:** 2026-09-15T21:29:09.640Z
+**Total packages tracked:** 6428  
+**Last updated:** 2026-09-16T04:57:33.251Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [loki495/homie](https://github.com/loki495/homie) | 0 | A self-hosted, configurable homepage/dashboard for home lab services |
+| [nereauweb/mercatura](https://github.com/nereauweb/mercatura) | 0 | Open-source e-commerce core for B2B and B2C shops on Laravel, Livewire and Filam... |
+| [alexmaisinfor/eleicao](https://github.com/alexmaisinfor/eleicao) | 1 | Sistema de Votação Online desenvolvido com Laravel 12 e Livewire. |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | A todo list app that's MCP-native, so AI agents can claim, coordinate on, and co... |
+| [loki495/insights](https://github.com/loki495/insights) | 0 | Self-hosted Laravel/Livewire personal-finance app with Plaid sync, categorizatio... |
+| [sanchescom/laravel-rest](https://github.com/sanchescom/laravel-rest) | 4 | Eloquent-like models for consuming REST APIs. Define a model, point it at an end... |
 | [artisan-toolbox/mosaicast](https://github.com/artisan-toolbox/mosaicast) | 0 | Mosaicast is a Laravel event delivery package that intelligently routes events t... |
 | [packstub/filament-agents](https://github.com/packstub/filament-agents) | 5 | An in-panel AI assistant and an MCP server for Filament v5 panels, built on lara... |
 | [packstub/filament-form-builder](https://github.com/packstub/filament-form-builder) | 6 | Form builder for Filament panels: build forms in the admin, render them with Bla... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [tomatophp/filament-browser](https://github.com/tomatophp/filament-browser) | 41 | File & Folders & Media Browser With Code Editor |
 | [tomatophp/filament-subscriptions](https://github.com/tomatophp/filament-subscriptions) | 65 | Manage your subscriptions Like Spark for FilamentPHP  |
 | [tomatophp/filament-api](https://github.com/tomatophp/filament-api) | 54 | Generate APIs from your filament resource using single line of code |
-| [tomatophp/filament-twilio](https://github.com/tomatophp/filament-twilio) | 11 | Send Whatsapp messages using Twilio and native filament Notification Facade clas... |
-| [tomatophp/filament-discord](https://github.com/tomatophp/filament-discord) | 2 | Send Notification to discord channel Webhook using native FilamentPHP Notificati... |
-| [vpndetection-io/sdk-php-laravel](https://github.com/vpndetection-io/sdk-php-laravel) | 0 | Official Laravel middleware for the VPNDetection API. Detect VPNs, proxies, Tor,... |
-| [CovertError/SideversforLaravel](https://github.com/CovertError/SideversforLaravel) | 0 | Build Sidevers verses from Laravel: PHP FFI connector to libsidevers with a host... |
-| [abdulsalamalkhatib96/laravel-context-flow](https://github.com/abdulsalamalkhatib96/laravel-context-flow) | 0 | The package preserves one logical workflow across HTTP requests, queued jobs, sc... |
-| [tomatophp/filament-fcm](https://github.com/tomatophp/filament-fcm) | 20 | Firebase Cloud Messaging integration to Native FilamentPHP Notification Package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-15 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [alex-kassel/workspace-manifest](https://github.com/alex-kassel/workspace-manifest) | 0 | 2026-09-15 | Domain manifest repository and schema for multi-package work... |
-| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | 2026-09-15 | Multi-workspace local package development toolkit for Larave... |
-| [amondar-libs/repository-pattern](https://github.com/amondar-libs/repository-pattern) | 1 | 2026-09-15 | Laravel package to implement the repository pattern |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-09-15 | Daywatch Laravel package to integrate into collecting events... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-15 | Automated code analysis for Laravel applications with 73 com... |
-| [capell-app/filament-peek](https://github.com/capell-app/filament-peek) | 0 | 2026-09-15 | Private expiring previews of unsaved Capell page and Layout ... |
-| [capell-app/navigation](https://github.com/capell-app/navigation) | 0 | 2026-09-15 | Multilingual, multi-site Capell navigation with visual menus... |
-| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 2 | 2026-09-15 | Visual Capell page composition with reusable widgets, named ... |
-| [capell-app/block-library](https://github.com/capell-app/block-library) | 0 | 2026-09-15 | Shared typed content-block primitives for Capell packages. |
-| [foxws/laravel-docs](https://github.com/foxws/laravel-docs) | 1 | 2026-09-15 | Pull a package's docs/*.md folder from GitHub into queryable... |
-| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-09-15 | Extension discovery, account linking, install authorization,... |
-| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-09-15 | Guided browser installer for bootstrapping new Capell CMS ap... |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-09-15 | Public routing, rendering, caching boundaries, and theme int... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-09-15 | Filament admin panel, editor workflows, settings, and extens... |
-| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-09-15 | Shared content models, services, contracts, and extension fo... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-09-15 | Magic Framework Laravel backend starter package. |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-15 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-15 | A multi-purpose content and application platform for Laravel... |
+| [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 7 | 2026-09-16 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-16 | Automated code analysis for Laravel applications with 73 com... |
+| [signdeck/veil](https://github.com/signdeck/veil) | 19 | 2026-09-16 | Laravel package to anonymize database exports |
+| [sanchescom/laravel-rest](https://github.com/sanchescom/laravel-rest) | 4 | 2026-09-16 | Eloquent-like models for consuming REST APIs. Define a model... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-16 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-16 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-16 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 0 | 2026-09-16 | ShieldCI Analyzer Core - Shared foundation for building stat... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 3 | 2026-09-16 | A practical work management information system built with La... |
+| [syofyanzuhad/filament-connection-indicator](https://github.com/syofyanzuhad/filament-connection-indicator) | 1 | 2026-09-16 | A lightweight, real-time client-side connection signal indic... |
+| [steveneppler/teslog-web](https://github.com/steveneppler/teslog-web) | 3 | 2026-09-16 | Self-hosted Tesla vehicle data logging and analytics platfor... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-16 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-16 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-16 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [putheakhem/laravel-camdigi-key](https://github.com/putheakhem/laravel-camdigi-key) | 0 | 2026-09-16 | This package integrates Cambodia’s national digital identity... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-16 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [fahadmayow/exert](https://github.com/fahadmayow/exert) | 0 | 2026-09-16 | An opinionated, HTTP-oriented Laravel package for grouping r... |
+| [polirium/polirium](https://github.com/polirium/polirium) | 42 | 2026-09-16 | Polirium là một nền tảng ERP (Enterprise Resource Planning) ... |
+| [loki495/homie](https://github.com/loki495/homie) | 0 | 2026-09-16 | A self-hosted, configurable homepage/dashboard for home lab ... |
+| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-09-16 | Laravel Dusk Testing Helper for Package Development |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-16T04:57 | 6 | 1724 | 6428 |
 | 2026-09-15T21:29 | 1 | 1730 | 6422 |
 | 2026-09-15T17:07 | 8 | 1723 | 6421 |
 | 2026-09-15T11:53 | 11 | 1722 | 6413 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-14T05:06 | 2 | 1728 | 6394 |
 | 2026-09-13T20:56 | 7 | 1723 | 6393 |
 | 2026-09-13T16:27 | 4 | 1725 | 6387 |
-| 2026-09-13T12:02 | 10 | 1718 | 6383 |
 
 ---
 

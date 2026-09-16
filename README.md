@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 6432  
-**Last updated:** 2026-09-16T11:47:41.152Z
+**Last updated:** 2026-09-16T17:07:28.472Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 253 | 2026-09-16 | Collect everything about sent mails in your Laravel app |
-| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 6 | 2026-09-16 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-16 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-09-16 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [jeffersongoncalves/laravel-help-desk](https://github.com/jeffersongoncalves/laravel-help-desk) | 6 | 2026-09-16 | A comprehensive help desk and ticket management system for L... |
 | [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-09-16 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-09-16 | Laravel user impersonation with scoped modes, audit trails, ... |
-| [ebbbang/laravel-mailroom](https://github.com/ebbbang/laravel-mailroom) | 10 | 2026-09-16 | A Laravel mail driver that stores outgoing mail in your data... |
+| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 9 | 2026-09-16 | Filament plugin for Help Desk ticket management — User, Oper... |
 | [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-09-16 | Type-safe fluent validation rule builders for Laravel, plus ... |
-| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-09-16 | PDF rendering for Laravel behind a capability-checked driver... |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-09-16 | Laravel package scaffolder: generate complete, convention-re... |
-| [packstub/partisan](https://github.com/packstub/partisan) | 7 | 2026-09-16 | Artisan for Laravel packages — make: generators that write i... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-16 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | 2026-09-16 | The official reference theme for Bagisto Visual — lightweigh... |
-| [tarfin-labs/event-machine](https://github.com/tarfin-labs/event-machine) | 21 | 2026-09-16 | Event-driven state machines for Laravel with event sourcing,... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-16 | Runtime base library for building Laravel packages: fluent P... |
-| [yuriyakishin/laravel-ai-chat-bot](https://github.com/yuriyakishin/laravel-ai-chat-bot) | 0 | 2026-09-16 | AI chat widget for Laravel with multiple LLM providers, func... |
-| [ichava/flag-icons](https://github.com/ichava/flag-icons) | 0 | 2026-09-16 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
-| [ichava/tabler-icons](https://github.com/ichava/tabler-icons) | 0 | 2026-09-16 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
-| [step2dev/lazy-ui](https://github.com/step2dev/lazy-ui) | 5 | 2026-09-16 | Lazy UI is a Laravel package that provides a set of Blade co... |
-| [jeffersongoncalves/nativekitv4](https://github.com/jeffersongoncalves/nativekitv4) | 5 | 2026-09-16 | NativeKit starter kit built on Laravel 12.x, Filament 4.x an... |
+| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-09-16 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
+| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-09-16 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
+| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-09-16 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-09-16 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
+| [square1-io/www.payforgoals.com](https://github.com/square1-io/www.payforgoals.com) | 0 | 2026-09-16 | Reference implementation for the Laravel MPP agentic payment... |
+| [MahdiiMax/Telgeram](https://github.com/MahdiiMax/Telgeram) | 2 | 2026-09-16 | 🤖 A fun and easy Laravel 13 package for building Telegram b... |
+| [crenspire/laravel-whatsapp](https://github.com/crenspire/laravel-whatsapp) | 26 | 2026-09-16 | Send and receive WhatsApp messages in Laravel with Meta's Cl... |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-16 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [emtee-1023/laravel-auth-library](https://github.com/emtee-1023/laravel-auth-library) | 0 | 2026-09-16 | Reusable authentication infrastructure for Laravel applicati... |
+| [swadhin-sikder/laravel-row-in](https://github.com/swadhin-sikder/laravel-row-in) | 0 | 2026-09-16 | Adds row value IN and NOT IN clauses to Laravel's query buil... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-16 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [blemli/softrequired-for-filament](https://github.com/blemli/softrequired-for-filament) | 0 | 2026-09-16 | Between required and optional lies reality. |
+| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-09-16 | Generic Laravel article campaign domain engine, policies, di... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-16 | Durable execution for PHP: workflows that survive deploys, r... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-09-16 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-16 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-16T17:07 | 0 | 1728 | 6432 |
 | 2026-09-16T11:47 | 4 | 1724 | 6432 |
 | 2026-09-16T04:57 | 6 | 1724 | 6428 |
 | 2026-09-15T21:29 | 1 | 1730 | 6422 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-14T21:54 | 3 | 1731 | 6401 |
 | 2026-09-14T13:01 | 5 | 1728 | 6399 |
 | 2026-09-14T05:06 | 2 | 1728 | 6394 |
-| 2026-09-13T20:56 | 7 | 1723 | 6393 |
 
 ---
 

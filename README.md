@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6463  
-**Last updated:** 2026-09-17T17:08:25.508Z
+**Total packages tracked:** 6465  
+**Last updated:** 2026-09-17T21:29:49.832Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [sanchescom/laravel-cache-memory](https://github.com/sanchescom/laravel-cache-memory) | 7 | Laravel cache driver on System V shared memory (shmop): one cache shared by PHP-... |
+| [hollyphat/redis-event-stream](https://github.com/hollyphat/redis-event-stream) | 0 | Laravel Package to stream event accross multiple backend service |
+| [MohammadMahdiAhmadi1382/laravel-menu](https://github.com/MohammadMahdiAhmadi1382/laravel-menu) | 0 | A reusable Laravel package for managing hierarchical database-backed menus with ... |
 | [ArvidDeJong/livewire-honeypot](https://github.com/ArvidDeJong/livewire-honeypot) | 1 | Honeypot and time-trap spam protection for Livewire and Laravel forms, without C... |
 | [ArvidDeJong/mailtrap](https://github.com/ArvidDeJong/mailtrap) | 0 | Mailtrap integration for Laravel: recipient validation, mail logs, signed webhoo... |
 | [blemli/websearch-for-filament](https://github.com/blemli/websearch-for-filament) | 0 | Search the web from any Filament field |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [capell-app/ai-orchestrator](https://github.com/capell-app/ai-orchestrator) | 0 | Governed AI capability registry and execution contracts for package-owned Capell... |
 | [Grazulex/laravel-arc](https://github.com/Grazulex/laravel-arc) | 9 | 🧬 Generate clean, typed DTO classes from YAML definitions in Laravel — fast, te... |
 | [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 🔐 Configurable security checks for Laravel applications. Run safety audits on e... |
-| [Grazulex/laravel-draftable](https://github.com/Grazulex/laravel-draftable) | 21 | 📝 Add drafts, versioning, and publication workflow to any Eloquent model — idea... |
-| [Grazulex/laravel-configrypt](https://github.com/Grazulex/laravel-configrypt) | 6 | 🔏 Laravel Configrypt lets you encrypt secrets directly in your .env file using ... |
-| [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) | 127 | 🔐 Generate, manage, and secure temporary share links for files, routes, and mod... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -49,7 +49,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 442 | A media picker plugin for Filament Panels. |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 443 | A media picker plugin for Filament Panels. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 440 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [MohammadMahdiAhmadi1382/website-features](https://github.com/MohammadMahdiAhmadi1382/website-features) | 0 | 2026-09-17 | A reusable Laravel package for managing website features wit... |
-| [swadhin-sikder/laravel-row-in](https://github.com/swadhin-sikder/laravel-row-in) | 0 | 2026-09-17 | Adds row value IN and NOT IN clauses to Laravel's query buil... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-17 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [kiriminow/kirimi-laravel](https://github.com/kiriminow/kirimi-laravel) | 0 | 2026-09-17 | Official Laravel package for the Kirimi WhatsApp API |
+| [faresnassar09/Accounting-System-Back-end-Version](https://github.com/faresnassar09/Accounting-System-Back-end-Version) | 1 | 2026-09-17 | high-grade Accounting & ERP engine built with Laravel. This ... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-17 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-17 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-17 | Integrate Mixpanel analytics into Filament projects to track... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-17 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [ArvidDeJong/livewire-honeypot](https://github.com/ArvidDeJong/livewire-honeypot) | 1 | 2026-09-17 | Honeypot and time-trap spam protection for Livewire and Lara... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-17 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [lettr-com/lettr-laravel](https://github.com/lettr-com/lettr-laravel) | 6 | 2026-09-17 | Official Laravel integration for the Lettr email API |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-17 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-17 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-17 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-17 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-17 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-17 | A multi-purpose content and application platform for Laravel... |
-| [ArvidDeJong/mailtrap](https://github.com/ArvidDeJong/mailtrap) | 0 | 2026-09-17 | Mailtrap integration for Laravel: recipient validation, mail... |
-| [NathanM501/Faker-Madagascar](https://github.com/NathanM501/Faker-Madagascar) | 0 | 2026-09-17 | Laravel package generating realistic Madagascar fake data: r... |
-| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | 2026-09-17 | Laravel package for integrating the EuPago payment gateway i... |
-| [alex-kassel/workspace-manifest](https://github.com/alex-kassel/workspace-manifest) | 0 | 2026-09-17 | Domain manifest repository and schema for multi-package work... |
+| [emtee-1023/laravel-auth-library](https://github.com/emtee-1023/laravel-auth-library) | 0 | 2026-09-17 | Reusable authentication infrastructure for Laravel applicati... |
+| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-09-17 | A comprehensive SEO management package for Laravel applicati... |
+| [Nordaxiz-Technology-Limited/nordaxiz-harbour-connect](https://github.com/Nordaxiz-Technology-Limited/nordaxiz-harbour-connect) | 0 | 2026-09-17 | PHP SDK and Laravel integration package for the Harbour paym... |
+| [mikeyperes/laravel-hexa-package-wordpress-seo](https://github.com/mikeyperes/laravel-hexa-package-wordpress-seo) | 0 | 2026-09-17 | Abstract WordPress SEO orchestration package for scanning, i... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-09-17 | Ptah — Laravel package that forges complete module structure... |
+| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-09-17 | Generic Laravel article campaign domain engine, policies, di... |
+| [sionpkr/tourney-method](https://github.com/sionpkr/tourney-method) | 0 | 2026-09-17 | Open-source osu! tournament discovery, history, and communit... |
+| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-09-17 | Dedicated Instagram account attach, authenticated browser sc... |
+| [Recodex-ID/rewire](https://github.com/Recodex-ID/rewire) | 2 | 2026-09-17 | A reusable Laravel 13 starter kit — authentication, roles, a... |
+| [osoobe/laravel-settings](https://github.com/osoobe/laravel-settings) | 0 | 2026-09-17 | A Laravel package for dynamically storing, overriding, and r... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-17 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-17 | Manage, process, and serve files in Laravel with scalable up... |
+| [vimatech-io/laravel-quotas](https://github.com/vimatech-io/laravel-quotas) | 0 | 2026-09-17 | Feature entitlements and usage quotas for Laravel SaaS appli... |
+| [vimatech-io/laravel-einvoicing](https://github.com/vimatech-io/laravel-einvoicing) | 1 | 2026-09-17 | Native Peppol BIS 3.0 (UBL) and EN 16931 (CII) e-invoice gen... |
+| [vimatech-io/laravel-document-numbering](https://github.com/vimatech-io/laravel-document-numbering) | 0 | 2026-09-17 | Sequential, gap-free, concurrency-safe document numbers for ... |
+| [vimatech-io/laravel-secure-fields](https://github.com/vimatech-io/laravel-secure-fields) | 0 | 2026-09-17 | Encrypted Eloquent fields for Laravel: AES-256-GCM, searchab... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-17T21:29 | 3 | 1724 | 6465 |
 | 2026-09-17T17:08 | 7 | 1721 | 6463 |
 | 2026-09-17T11:51 | 8 | 1722 | 6456 |
 | 2026-09-17T05:00 | 11 | 1718 | 6448 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-16T04:57 | 6 | 1724 | 6428 |
 | 2026-09-15T21:29 | 1 | 1730 | 6422 |
 | 2026-09-15T17:07 | 8 | 1723 | 6421 |
-| 2026-09-15T11:53 | 11 | 1722 | 6413 |
 
 ---
 

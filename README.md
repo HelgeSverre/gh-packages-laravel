@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6456  
-**Last updated:** 2026-09-17T11:51:36.888Z
+**Total packages tracked:** 6463  
+**Last updated:** 2026-09-17T17:08:25.508Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ArvidDeJong/livewire-honeypot](https://github.com/ArvidDeJong/livewire-honeypot) | 1 | Honeypot and time-trap spam protection for Livewire and Laravel forms, without C... |
+| [ArvidDeJong/mailtrap](https://github.com/ArvidDeJong/mailtrap) | 0 | Mailtrap integration for Laravel: recipient validation, mail logs, signed webhoo... |
+| [blemli/websearch-for-filament](https://github.com/blemli/websearch-for-filament) | 0 | Search the web from any Filament field |
+| [tomatophp/filament-pos](https://github.com/tomatophp/filament-pos) | 68 | POS working with Ecommerce System for FilamentPHP |
+| [MohammadMahdiAhmadi1382/website-features](https://github.com/MohammadMahdiAhmadi1382/website-features) | 0 | A reusable Laravel package for managing website features with flexible CRUD oper... |
+| [codeartmk/opensearch-laravel](https://github.com/codeartmk/opensearch-laravel) | 12 | A package to integrate AWS Opensearch with Laravel models  |
+| [akshit-arora/dblog](https://github.com/akshit-arora/dblog) | 5 | Laravel package to log heavy database queries |
 | [rafidalridwan/laravel-pdf-charts](https://github.com/rafidalridwan/laravel-pdf-charts) | 0 | A Laravel package for generating chart images (PNG, SVG, WebP, PDF) from Chart.j... |
 | [arpan2t/laravel-db-dumper](https://github.com/arpan2t/laravel-db-dumper) | 0 | A Laravel package for dumping MySQL databases. |
 | [imranbru99/laravel-attendance-hub](https://github.com/imranbru99/laravel-attendance-hub) | 0 | Universal Laravel package to connect, auto-detect, and sync attendance & biometr... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Grazulex/laravel-draftable](https://github.com/Grazulex/laravel-draftable) | 21 | 📝 Add drafts, versioning, and publication workflow to any Eloquent model — idea... |
 | [Grazulex/laravel-configrypt](https://github.com/Grazulex/laravel-configrypt) | 6 | 🔏 Laravel Configrypt lets you encrypt secrets directly in your .env file using ... |
 | [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) | 127 | 🔐 Generate, manage, and secure temporary share links for files, routes, and mod... |
-| [Grazulex/laravel-modelschema](https://github.com/Grazulex/laravel-modelschema) | 8 | 📐 Laravel ModelSchema is a foundational package for defining and parsing model ... |
-| [Grazulex/laravel-tddraft](https://github.com/Grazulex/laravel-tddraft) | 3 | 🧪 Write, track, and promote exploratory TDD scenarios in Laravel using Pest 3 —... |
-| [Grazulex/laravel-devtoolbox](https://github.com/Grazulex/laravel-devtoolbox) | 155 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [Grazulex/laravel-statecraft](https://github.com/Grazulex/laravel-statecraft) | 8 | 🧩 Define entity workflows declaratively (YAML), and control transitions with gu... |
-| [Grazulex/laravel-flowpipe](https://github.com/Grazulex/laravel-flowpipe) | 19 | 🔁 Composable, traceable and declarative Flow Pipelines for Laravel. A modern al... |
-| [alirezabehnamnik/laravel-discord-api](https://github.com/alirezabehnamnik/laravel-discord-api) | 0 | A small Laravel helper package for working with parts of the Discord HTTP API. |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | Personal Pokémon TCG collection tracker with daily-synced market pricing (tcgdex... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-09-17 | Laravel package for integrating with Ranetrace – error track... |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 1 | 2026-09-17 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-17 | A multi-purpose content and application platform for Laravel... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-17 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [blemli/softrequired-for-filament](https://github.com/blemli/softrequired-for-filament) | 0 | 2026-09-17 | Between required and optional lies reality. |
-| [rafidalridwan/laravel-pdf-charts](https://github.com/rafidalridwan/laravel-pdf-charts) | 0 | 2026-09-17 | A Laravel package for generating chart images (PNG, SVG, Web... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-17 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [MohammadMahdiAhmadi1382/website-features](https://github.com/MohammadMahdiAhmadi1382/website-features) | 0 | 2026-09-17 | A reusable Laravel package for managing website features wit... |
+| [swadhin-sikder/laravel-row-in](https://github.com/swadhin-sikder/laravel-row-in) | 0 | 2026-09-17 | Adds row value IN and NOT IN clauses to Laravel's query buil... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-17 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [kiriminow/kirimi-laravel](https://github.com/kiriminow/kirimi-laravel) | 0 | 2026-09-17 | Official Laravel package for the Kirimi WhatsApp API |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-17 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [packstub/partisan](https://github.com/packstub/partisan) | 7 | 2026-09-17 | Artisan for Laravel packages — make: generators that write i... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 1 | 2026-09-17 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-17 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-17 | Integrate Mixpanel analytics into Filament projects to track... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-17 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [ArvidDeJong/livewire-honeypot](https://github.com/ArvidDeJong/livewire-honeypot) | 1 | 2026-09-17 | Honeypot and time-trap spam protection for Livewire and Lara... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-17 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [lettr-com/lettr-laravel](https://github.com/lettr-com/lettr-laravel) | 6 | 2026-09-17 | Official Laravel integration for the Lettr email API |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-17 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-17 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-17 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-17 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-17 | A multi-purpose content and application platform for Laravel... |
+| [ArvidDeJong/mailtrap](https://github.com/ArvidDeJong/mailtrap) | 0 | 2026-09-17 | Mailtrap integration for Laravel: recipient validation, mail... |
+| [NathanM501/Faker-Madagascar](https://github.com/NathanM501/Faker-Madagascar) | 0 | 2026-09-17 | Laravel package generating realistic Madagascar fake data: r... |
+| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | 2026-09-17 | Laravel package for integrating the EuPago payment gateway i... |
 | [alex-kassel/workspace-manifest](https://github.com/alex-kassel/workspace-manifest) | 0 | 2026-09-17 | Domain manifest repository and schema for multi-package work... |
-| [packstub/filament-flow](https://github.com/packstub/filament-flow) | 14 | 2026-09-17 | Visual workflow automation for Filament panels: triggers, co... |
-| [WiserWebSolutions/laravel-lobbyist-palegis](https://github.com/WiserWebSolutions/laravel-lobbyist-palegis) | 0 | 2026-09-17 | Pennsylvania (palegis.us) RSS-feed driver for the laravel-lo... |
-| [nereauweb/mercatura](https://github.com/nereauweb/mercatura) | 0 | 2026-09-17 | Open-source e-commerce core for B2B and B2C shops on Laravel... |
-| [tag1consulting/scolta-laravel](https://github.com/tag1consulting/scolta-laravel) | 2 | 2026-09-17 | Laravel package providing AI-powered search with Pagefind. D... |
-| [WiserWebSolutions/laravel-lobbyist-legiscan](https://github.com/WiserWebSolutions/laravel-lobbyist-legiscan) | 0 | 2026-09-17 | Default nationwide LegiScan API driver for the laravel-lobby... |
-| [WiserWebSolutions/laravel-lobbyist](https://github.com/WiserWebSolutions/laravel-lobbyist) | 0 | 2026-09-17 | A Laravel package to search, monitor, and summarize legislat... |
-| [blemli/formsettings-for-filament](https://github.com/blemli/formsettings-for-filament) | 1 | 2026-09-17 | rule your forms |
-| [kpconnell/laravel-jobwarden](https://github.com/kpconnell/laravel-jobwarden) | 62 | 2026-09-17 | A database-backed alternative to Horizon & Laravel Queues — ... |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-17 | Manage, process, and serve files in Laravel with scalable up... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-17T17:08 | 7 | 1721 | 6463 |
 | 2026-09-17T11:51 | 8 | 1722 | 6456 |
 | 2026-09-17T05:00 | 11 | 1718 | 6448 |
 | 2026-09-16T21:25 | 5 | 1724 | 6437 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-15T21:29 | 1 | 1730 | 6422 |
 | 2026-09-15T17:07 | 8 | 1723 | 6421 |
 | 2026-09-15T11:53 | 11 | 1722 | 6413 |
-| 2026-09-15T05:02 | 1 | 1732 | 6402 |
 
 ---
 

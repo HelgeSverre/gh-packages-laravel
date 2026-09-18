@@ -2,16 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6473  
-**Last updated:** 2026-09-18T11:27:24.180Z
+**Total packages tracked:** 6474  
+**Last updated:** 2026-09-18T16:32:36.743Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [yurineves92/crm-livewire-v3](https://github.com/yurineves92/crm-livewire-v3) | 0 | CRM built with Laravel, Livewire and Tailwind CSS — manage customers, deals, int... |
+| [ArvidDeJong/livewire-injection-stopper](https://github.com/ArvidDeJong/livewire-injection-stopper) | 2 | Blocks spam bots and manipulated Livewire payloads in Laravel apps, keeps the re... |
 | [albertoarena/filament-truss-demo](https://github.com/albertoarena/filament-truss-demo) | 0 | A small Filament application that demonstrates albertoarena/filament-truss: a li... |
 | [sudiptpa/filament-turnstile](https://github.com/sudiptpa/filament-turnstile) | 0 | Cloudflare Turnstile field, login page, and validation rule for Filament and Lar... |
-| [albertoarena/filament-truss](https://github.com/albertoarena/filament-truss) | 0 | Live ER diagram (ERD) of your real database inside a Filament panel, built on La... |
+| [albertoarena/filament-truss](https://github.com/albertoarena/filament-truss) | 1 | Live ER diagram (ERD) of your real database inside a Filament panel, built on La... |
 | [WMCharles/api-scaffolder](https://github.com/WMCharles/api-scaffolder) | 1 | Laravel package that scaffolds complete, production-ready API modules from an El... |
 | [myint-oo/laravel-storage-wrapper](https://github.com/myint-oo/laravel-storage-wrapper) | 2 | A wrapper for laravel storage using interface. A small package meant to solve ha... |
 | [amirkateb/telegram-core-client](https://github.com/amirkateb/telegram-core-client) | 0 | Telegram Core Client is a lightweight Laravel package that receives Telegram upd... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [MohammadMahdiAhmadi1382/website-features](https://github.com/MohammadMahdiAhmadi1382/website-features) | 0 | A reusable Laravel package for managing website features with flexible CRUD oper... |
 | [codeartmk/opensearch-laravel](https://github.com/codeartmk/opensearch-laravel) | 12 | A package to integrate AWS Opensearch with Laravel models  |
 | [akshit-arora/dblog](https://github.com/akshit-arora/dblog) | 5 | Laravel package to log heavy database queries |
-| [rafidalridwan/laravel-pdf-charts](https://github.com/rafidalridwan/laravel-pdf-charts) | 0 | A Laravel package for generating chart images (PNG, SVG, WebP, PDF) from Chart.j... |
-| [arpan2t/laravel-db-dumper](https://github.com/arpan2t/laravel-db-dumper) | 0 | A Laravel package for dumping MySQL databases. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 10 | 2026-09-18 | Filament plugin for Help Desk ticket management — User, Oper... |
-| [boldlygrow/google-api-client](https://github.com/boldlygrow/google-api-client) | 0 | 2026-09-18 | Composer package for Laravel applications for connecting to ... |
-| [felipesantos2/caminho_limpo](https://github.com/felipesantos2/caminho_limpo) | 0 | 2026-09-18 | O Caminho Limpo é um projeto colaborativo para registrar, vi... |
-| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 283 | 2026-09-18 | Queue Monitoring Package for Filament  |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-18 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [as-yakovenko/laravel-lighthouse-graphql-multi-schema](https://github.com/as-yakovenko/laravel-lighthouse-graphql-multi-schema) | 16 | 2026-09-18 | A Laravel package that provides multi-schema support for Lig... |
-| [jeffersongoncalves/filament-kanban](https://github.com/jeffersongoncalves/filament-kanban) | 1 | 2026-09-18 | Add kanban boards to your Filament pages |
-| [packstub/filament-form-builder](https://github.com/packstub/filament-form-builder) | 6 | 2026-09-18 | Form builder for Filament panels: build forms in the admin, ... |
-| [packstub/filament-flow](https://github.com/packstub/filament-flow) | 14 | 2026-09-18 | Visual workflow automation for Filament panels: triggers, co... |
-| [packstub/filament-account-switcher](https://github.com/packstub/filament-account-switcher) | 43 | 2026-09-18 | Switch between accounts in Filament: impersonate users, link... |
-| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 5 | 2026-09-18 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [albertoarena/filament-truss](https://github.com/albertoarena/filament-truss) | 0 | 2026-09-18 | Live ER diagram (ERD) of your real database inside a Filamen... |
-| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-09-18 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
-| [jeffersongoncalves/laravel-help-desk](https://github.com/jeffersongoncalves/laravel-help-desk) | 7 | 2026-09-18 | A comprehensive help desk and ticket management system for L... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-18 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-18 | Manage and track inventory with a PHP package that integrate... |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 1 | 2026-09-18 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [jeffersongoncalves/mobilekitv5](https://github.com/jeffersongoncalves/mobilekitv5) | 8 | 2026-09-18 | MobileKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-18 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 18 | 2026-09-18 | FilaKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 2 | 2026-09-18 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [Grazulex/laravel-turbomaker](https://github.com/Grazulex/laravel-turbomaker) | 65 | 2026-09-18 | ⚡ Laravel TurboMaker is a productivity-focused package desig... |
+| [Grazulex/laravel-tddraft](https://github.com/Grazulex/laravel-tddraft) | 3 | 2026-09-18 | 🧪 Write, track, and promote exploratory TDD scenarios in La... |
+| [Grazulex/laravel-modelschema](https://github.com/Grazulex/laravel-modelschema) | 8 | 2026-09-18 | 📐 Laravel ModelSchema is a foundational package for definin... |
+| [Grazulex/laravel-flowpipe](https://github.com/Grazulex/laravel-flowpipe) | 19 | 2026-09-18 | 🔁 Composable, traceable and declarative Flow Pipelines for ... |
+| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-09-18 | Laravel package for integrating with Ranetrace – error track... |
+| [Grazulex/laravel-draftable](https://github.com/Grazulex/laravel-draftable) | 21 | 2026-09-18 | 📝 Add drafts, versioning, and publication workflow to any E... |
+| [Grazulex/laravel-arc](https://github.com/Grazulex/laravel-arc) | 9 | 2026-09-18 | 🧬 Generate clean, typed DTO classes from YAML definitions i... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 31 | 2026-09-18 | A PHPStan extension for analysis of Laravel applications and... |
+| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-09-18 | A modular Laravel package suite for building production-read... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-18 | A multi-purpose content and application platform for Laravel... |
+| [ValentinNeaga/Larascord](https://github.com/ValentinNeaga/Larascord) | 68 | 2026-09-18 | Larascord is a package that allows you to authenticate users... |
+| [matondojk/filament-data-copilot](https://github.com/matondojk/filament-data-copilot) | 4 | 2026-09-18 | Filament Data Copilot is an AI-powered assistant that allows... |
+| [Grazulex/laravel-statecraft](https://github.com/Grazulex/laravel-statecraft) | 8 | 2026-09-18 | 🧩 Define entity workflows declaratively (YAML), and control... |
+| [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) | 127 | 2026-09-18 | 🔐 Generate, manage, and secure temporary share links for fi... |
+| [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 2026-09-18 | 🔐 Configurable security checks for Laravel applications. Ru... |
+| [Grazulex/laravel-devtoolbox](https://github.com/Grazulex/laravel-devtoolbox) | 155 | 2026-09-18 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debu... |
+| [Grazulex/laravel-configrypt](https://github.com/Grazulex/laravel-configrypt) | 6 | 2026-09-18 | 🔏 Laravel Configrypt lets you encrypt secrets directly in y... |
+| [Grazulex/laravel-chronotrace](https://github.com/Grazulex/laravel-chronotrace) | 133 | 2026-09-18 | 🎥 Record and replay Laravel requests deterministically and ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-18T16:32 | 2 | 1721 | 6474 |
 | 2026-09-18T11:27 | 7 | 1718 | 6473 |
 | 2026-09-18T04:53 | 1 | 1725 | 6466 |
 | 2026-09-17T21:29 | 3 | 1724 | 6465 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-16T21:25 | 5 | 1724 | 6437 |
 | 2026-09-16T17:07 | 0 | 1728 | 6432 |
 | 2026-09-16T11:47 | 4 | 1724 | 6432 |
-| 2026-09-16T04:57 | 6 | 1724 | 6428 |
 
 ---
 

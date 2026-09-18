@@ -1510,5 +1510,31 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-09-17T21:29:49.794Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "converthub-api/starter-kit": {
+    "name": "converthub-api/starter-kit",
+    "url": "https://github.com/converthub-api/starter-kit",
+    "description": "This is a white-label frontend + backend starter kit for developers and startups looking to offer file conversion services (PDF, audio, video, images, etc.)",
+    "stars": 6,
+    "forks": 0,
+    "topics": [
+      "converthub",
+      "file-conversion",
+      "laravel",
+      "livewire",
+      "s3",
+      "saas",
+      "starter-kit",
+      "tailwindcss",
+      "template"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-09-18T13:22:08Z",
+    "updated_at": "2026-02-27T00:45:06Z",
+    "pushed_at": "2025-09-18T13:57:32Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-09-18T16:32:36.708Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

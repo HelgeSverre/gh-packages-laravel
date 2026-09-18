@@ -1536,5 +1536,32 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-09-18T16:32:36.708Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "shahrukhkhan-rabby/livewire-projects": {
+    "name": "Shahrukhkhan-rabby/livewire-projects",
+    "url": "https://github.com/Shahrukhkhan-rabby/livewire-projects",
+    "description": "This repository features beginner-friendly Laravel Livewire projects showcasing dynamic, reactive web apps without JavaScript. Projects include counters, todo lists, cascading dropdowns, product search, image uploads, and registration form validation.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "collision",
+      "guzzlehttp",
+      "laravel9",
+      "livewire",
+      "mockery",
+      "php8",
+      "phpunit",
+      "sail",
+      "sanctum",
+      "spatie"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-09-18T17:58:38Z",
+    "updated_at": "2025-09-18T19:08:26Z",
+    "pushed_at": "2025-09-18T19:08:23Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-09-18T20:59:30.552Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

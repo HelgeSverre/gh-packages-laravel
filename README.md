@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6474  
-**Last updated:** 2026-09-18T16:32:36.743Z
+**Total packages tracked:** 6478  
+**Last updated:** 2026-09-18T20:59:30.581Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [basmakamal/maw3idy](https://github.com/basmakamal/maw3idy) | 0 | Multi-tenant appointment booking platform in Laravel 12: subdomain tenancy with ... |
+| [sajaddp/laravel-bale](https://github.com/sajaddp/laravel-bale) | 2 | پکیج لاراول ۱۳برای ساخت و اتصال بازوی بله؛ با ستاره‌دادن به مخزن قلبم را شاد کنی... |
+| [robot-council/core](https://github.com/robot-council/core) | 0 | The core of Robot Council, a coordination service for fleets of AI coding agents... |
+| [JeffersonLab/Taxonomy](https://github.com/JeffersonLab/Taxonomy) | 5 | A Laravel Package inspired by the Drupal Taxonomy Module |
+| [capell-app/inertia](https://github.com/capell-app/inertia) | 0 | Shared Inertia runtime bridge for Capell public pages, package routes, and adapt... |
 | [yurineves92/crm-livewire-v3](https://github.com/yurineves92/crm-livewire-v3) | 0 | CRM built with Laravel, Livewire and Tailwind CSS — manage customers, deals, int... |
 | [ArvidDeJong/livewire-injection-stopper](https://github.com/ArvidDeJong/livewire-injection-stopper) | 2 | Blocks spam bots and manipulated Livewire payloads in Laravel apps, keeps the re... |
 | [albertoarena/filament-truss-demo](https://github.com/albertoarena/filament-truss-demo) | 0 | A small Filament application that demonstrates albertoarena/filament-truss: a li... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [MohammadMahdiAhmadi1382/laravel-menu](https://github.com/MohammadMahdiAhmadi1382/laravel-menu) | 0 | A reusable Laravel package for managing hierarchical database-backed menus with ... |
 | [ArvidDeJong/livewire-honeypot](https://github.com/ArvidDeJong/livewire-honeypot) | 1 | Honeypot and time-trap spam protection for Livewire and Laravel forms, without C... |
 | [ArvidDeJong/mailtrap](https://github.com/ArvidDeJong/mailtrap) | 0 | Mailtrap integration for Laravel: recipient validation, mail logs, signed webhoo... |
-| [blemli/websearch-for-filament](https://github.com/blemli/websearch-for-filament) | 0 | Search the web from any Filament field |
-| [tomatophp/filament-pos](https://github.com/tomatophp/filament-pos) | 68 | POS working with Ecommerce System for FilamentPHP |
-| [MohammadMahdiAhmadi1382/website-features](https://github.com/MohammadMahdiAhmadi1382/website-features) | 0 | A reusable Laravel package for managing website features with flexible CRUD oper... |
-| [codeartmk/opensearch-laravel](https://github.com/codeartmk/opensearch-laravel) | 12 | A package to integrate AWS Opensearch with Laravel models  |
-| [akshit-arora/dblog](https://github.com/akshit-arora/dblog) | 5 | Laravel package to log heavy database queries |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 10 | 2026-09-18 | Filament plugin for Help Desk ticket management — User, Oper... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 2 | 2026-09-18 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [Grazulex/laravel-turbomaker](https://github.com/Grazulex/laravel-turbomaker) | 65 | 2026-09-18 | ⚡ Laravel TurboMaker is a productivity-focused package desig... |
-| [Grazulex/laravel-tddraft](https://github.com/Grazulex/laravel-tddraft) | 3 | 2026-09-18 | 🧪 Write, track, and promote exploratory TDD scenarios in La... |
-| [Grazulex/laravel-modelschema](https://github.com/Grazulex/laravel-modelschema) | 8 | 2026-09-18 | 📐 Laravel ModelSchema is a foundational package for definin... |
-| [Grazulex/laravel-flowpipe](https://github.com/Grazulex/laravel-flowpipe) | 19 | 2026-09-18 | 🔁 Composable, traceable and declarative Flow Pipelines for ... |
-| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-09-18 | Laravel package for integrating with Ranetrace – error track... |
-| [Grazulex/laravel-draftable](https://github.com/Grazulex/laravel-draftable) | 21 | 2026-09-18 | 📝 Add drafts, versioning, and publication workflow to any E... |
-| [Grazulex/laravel-arc](https://github.com/Grazulex/laravel-arc) | 9 | 2026-09-18 | 🧬 Generate clean, typed DTO classes from YAML definitions i... |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 31 | 2026-09-18 | A PHPStan extension for analysis of Laravel applications and... |
-| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-09-18 | A modular Laravel package suite for building production-read... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-18 | A multi-purpose content and application platform for Laravel... |
-| [ValentinNeaga/Larascord](https://github.com/ValentinNeaga/Larascord) | 68 | 2026-09-18 | Larascord is a package that allows you to authenticate users... |
-| [matondojk/filament-data-copilot](https://github.com/matondojk/filament-data-copilot) | 4 | 2026-09-18 | Filament Data Copilot is an AI-powered assistant that allows... |
-| [Grazulex/laravel-statecraft](https://github.com/Grazulex/laravel-statecraft) | 8 | 2026-09-18 | 🧩 Define entity workflows declaratively (YAML), and control... |
-| [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) | 127 | 2026-09-18 | 🔐 Generate, manage, and secure temporary share links for fi... |
-| [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 2026-09-18 | 🔐 Configurable security checks for Laravel applications. Ru... |
-| [Grazulex/laravel-devtoolbox](https://github.com/Grazulex/laravel-devtoolbox) | 155 | 2026-09-18 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debu... |
-| [Grazulex/laravel-configrypt](https://github.com/Grazulex/laravel-configrypt) | 6 | 2026-09-18 | 🔏 Laravel Configrypt lets you encrypt secrets directly in y... |
-| [Grazulex/laravel-chronotrace](https://github.com/Grazulex/laravel-chronotrace) | 133 | 2026-09-18 | 🎥 Record and replay Laravel requests deterministically and ... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-18 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [sajaddp/laravel-bale](https://github.com/sajaddp/laravel-bale) | 2 | 2026-09-18 | پکیج لاراول ۱۳برای ساخت و اتصال بازوی بله؛ با ستاره‌دادن به ... |
+| [eXolnet/laravel-bento](https://github.com/eXolnet/laravel-bento) | 7 | 2026-09-18 | Organize feature launches by custom user segments. |
+| [eXolnet/laravel-bust](https://github.com/eXolnet/laravel-bust) | 0 | 2026-09-18 | Provide cache busting helpers to Laravel. |
+| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-18 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
+| [eXolnet/laravel-emails-confirmation](https://github.com/eXolnet/laravel-emails-confirmation) | 2 | 2026-09-18 | Emails confirmation like Laravel native password resets. |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-18 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [alex-kassel/workspace-manifest](https://github.com/alex-kassel/workspace-manifest) | 0 | 2026-09-18 | Domain manifest repository and schema for multi-package work... |
+| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-18 | The core of Robot Council, a coordination service for fleets... |
+| [eXolnet/laravel-bootstrap4-form](https://github.com/eXolnet/laravel-bootstrap4-form) | 0 | 2026-09-18 |  |
+| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 390 | 2026-09-18 | Worldwide postal code validation for Laravel and Lumen |
+| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | 2026-09-18 | Multi-workspace local package development toolkit for Larave... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-18 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 102 | 2026-09-18 | Laravel + Filament 5 CMS foundation: visual page builder, in... |
+| [eXolnet/laravel-backup-database](https://github.com/eXolnet/laravel-backup-database) | 0 | 2026-09-18 | Expend laravel-backup by adding a simple command to backup a... |
+| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-09-18 | A Laravel package for syncing database tables and data betwe... |
+| [basmakamal/maw3idy](https://github.com/basmakamal/maw3idy) | 0 | 2026-09-18 | Multi-tenant appointment booking platform in Laravel 12: sub... |
+| [JeffersonLab/Taxonomy](https://github.com/JeffersonLab/Taxonomy) | 5 | 2026-09-18 | A Laravel Package inspired by the Drupal Taxonomy Module |
+| [MahdiiMax/Telgeram](https://github.com/MahdiiMax/Telgeram) | 2 | 2026-09-18 | 🤖 A fun and easy Laravel 13 package for building Telegram b... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-18T20:59 | 5 | 1716 | 6478 |
 | 2026-09-18T16:32 | 2 | 1721 | 6474 |
 | 2026-09-18T11:27 | 7 | 1718 | 6473 |
 | 2026-09-18T04:53 | 1 | 1725 | 6466 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-17T05:00 | 11 | 1718 | 6448 |
 | 2026-09-16T21:25 | 5 | 1724 | 6437 |
 | 2026-09-16T17:07 | 0 | 1728 | 6432 |
-| 2026-09-16T11:47 | 4 | 1724 | 6432 |
 
 ---
 

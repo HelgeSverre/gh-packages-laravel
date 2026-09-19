@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6478  
-**Last updated:** 2026-09-18T20:59:30.581Z
+**Total packages tracked:** 6480  
+**Last updated:** 2026-09-19T04:45:13.304Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [2pointdelivery/financepack](https://github.com/2pointdelivery/financepack) | 0 | A Laravel package for double-entry accrual accounting with multi-company support... |
+| [wnikk/laravel-access-ui](https://github.com/wnikk/laravel-access-ui) | 3 | Permissions Package with User Interface for ACR (Access Control Rules) on Larave... |
 | [basmakamal/maw3idy](https://github.com/basmakamal/maw3idy) | 0 | Multi-tenant appointment booking platform in Laravel 12: subdomain tenancy with ... |
 | [sajaddp/laravel-bale](https://github.com/sajaddp/laravel-bale) | 2 | پکیج لاراول ۱۳برای ساخت و اتصال بازوی بله؛ با ستاره‌دادن به مخزن قلبم را شاد کنی... |
 | [robot-council/core](https://github.com/robot-council/core) | 0 | The core of Robot Council, a coordination service for fleets of AI coding agents... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [sanchescom/laravel-cache-memory](https://github.com/sanchescom/laravel-cache-memory) | 7 | Laravel cache driver on System V shared memory (shmop): one cache shared by PHP-... |
 | [hollyphat/redis-event-stream](https://github.com/hollyphat/redis-event-stream) | 0 | Laravel Package to stream event accross multiple backend service |
 | [MohammadMahdiAhmadi1382/laravel-menu](https://github.com/MohammadMahdiAhmadi1382/laravel-menu) | 0 | A reusable Laravel package for managing hierarchical database-backed menus with ... |
-| [ArvidDeJong/livewire-honeypot](https://github.com/ArvidDeJong/livewire-honeypot) | 1 | Honeypot and time-trap spam protection for Livewire and Laravel forms, without C... |
-| [ArvidDeJong/mailtrap](https://github.com/ArvidDeJong/mailtrap) | 0 | Mailtrap integration for Laravel: recipient validation, mail logs, signed webhoo... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-18 | A multi-purpose content and application platform for Laravel... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-18 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [sajaddp/laravel-bale](https://github.com/sajaddp/laravel-bale) | 2 | 2026-09-18 | پکیج لاراول ۱۳برای ساخت و اتصال بازوی بله؛ با ستاره‌دادن به ... |
-| [eXolnet/laravel-bento](https://github.com/eXolnet/laravel-bento) | 7 | 2026-09-18 | Organize feature launches by custom user segments. |
-| [eXolnet/laravel-bust](https://github.com/eXolnet/laravel-bust) | 0 | 2026-09-18 | Provide cache busting helpers to Laravel. |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-09-18 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [eXolnet/laravel-emails-confirmation](https://github.com/eXolnet/laravel-emails-confirmation) | 2 | 2026-09-18 | Emails confirmation like Laravel native password resets. |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-18 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [alex-kassel/workspace-manifest](https://github.com/alex-kassel/workspace-manifest) | 0 | 2026-09-18 | Domain manifest repository and schema for multi-package work... |
-| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-18 | The core of Robot Council, a coordination service for fleets... |
-| [eXolnet/laravel-bootstrap4-form](https://github.com/eXolnet/laravel-bootstrap4-form) | 0 | 2026-09-18 |  |
-| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 390 | 2026-09-18 | Worldwide postal code validation for Laravel and Lumen |
-| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | 2026-09-18 | Multi-workspace local package development toolkit for Larave... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-18 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 102 | 2026-09-18 | Laravel + Filament 5 CMS foundation: visual page builder, in... |
-| [eXolnet/laravel-backup-database](https://github.com/eXolnet/laravel-backup-database) | 0 | 2026-09-18 | Expend laravel-backup by adding a simple command to backup a... |
-| [kalel1500/laravel-db-sync](https://github.com/kalel1500/laravel-db-sync) | 0 | 2026-09-18 | A Laravel package for syncing database tables and data betwe... |
-| [basmakamal/maw3idy](https://github.com/basmakamal/maw3idy) | 0 | 2026-09-18 | Multi-tenant appointment booking platform in Laravel 12: sub... |
-| [JeffersonLab/Taxonomy](https://github.com/JeffersonLab/Taxonomy) | 5 | 2026-09-18 | A Laravel Package inspired by the Drupal Taxonomy Module |
-| [MahdiiMax/Telgeram](https://github.com/MahdiiMax/Telgeram) | 2 | 2026-09-18 | 🤖 A fun and easy Laravel 13 package for building Telegram b... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-19 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [sajaddp/laravel-bale](https://github.com/sajaddp/laravel-bale) | 2 | 2026-09-19 | پکیج لاراول ۱۳برای ساخت و اتصال بازوی بله؛ با ستاره‌دادن به ... |
+| [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-09-19 | Roles and permissions for Filament, built on elpandape/warde... |
+| [2pointdelivery/financepack](https://github.com/2pointdelivery/financepack) | 0 | 2026-09-19 | A Laravel package for double-entry accrual accounting with m... |
+| [GrafiteInc/Forms](https://github.com/GrafiteInc/Forms) | 37 | 2026-09-19 | Form Classes for Laravel - letting you generate HTML forms f... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-19 | The NativePHP website |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-19 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-19 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-19 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-19 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | 2026-09-19 | Multi-workspace local package development toolkit for Larave... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-19 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-19 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-19 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-09-19 | Generic Laravel article campaign domain engine, policies, di... |
+| [alex-kassel/workspace-manifest](https://github.com/alex-kassel/workspace-manifest) | 0 | 2026-09-19 | Domain manifest repository and schema for multi-package work... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-09-19 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [basmakamal/maw3idy](https://github.com/basmakamal/maw3idy) | 0 | 2026-09-19 | Multi-tenant appointment booking platform in Laravel 12: sub... |
+| [foxws/wireuse](https://github.com/foxws/wireuse) | 7 | 2026-09-19 | Collection of useful Livewire utilities. |
+| [wnikk/laravel-access-ui](https://github.com/wnikk/laravel-access-ui) | 3 | 2026-09-19 | Permissions Package with User Interface for ACR (Access Cont... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-19T04:45 | 2 | 1719 | 6480 |
 | 2026-09-18T20:59 | 5 | 1716 | 6478 |
 | 2026-09-18T16:32 | 2 | 1721 | 6474 |
 | 2026-09-18T11:27 | 7 | 1718 | 6473 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-17T11:51 | 8 | 1722 | 6456 |
 | 2026-09-17T05:00 | 11 | 1718 | 6448 |
 | 2026-09-16T21:25 | 5 | 1724 | 6437 |
-| 2026-09-16T17:07 | 0 | 1728 | 6432 |
 
 ---
 

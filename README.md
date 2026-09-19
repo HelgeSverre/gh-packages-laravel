@@ -2,17 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6480  
-**Last updated:** 2026-09-19T04:45:13.304Z
+**Total packages tracked:** 6483  
+**Last updated:** 2026-09-19T11:11:01.095Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [k2labs-tech/base-tenant](https://github.com/k2labs-tech/base-tenant) | 0 | Complete multi-tenant SaaS boilerplate for Laravel 12. Includes Stripe subscript... |
+| [basekit-laravel/basekit-laravel-seo](https://github.com/basekit-laravel/basekit-laravel-seo) | 0 | Basekit Laravel SEO is a feature package for centralized metadata, structured da... |
+| [basekit-laravel/basekit-laravel-blog](https://github.com/basekit-laravel/basekit-laravel-blog) | 0 | Basekit Laravel Blog is a feature package for publishing and rendering blog post... |
 | [2pointdelivery/financepack](https://github.com/2pointdelivery/financepack) | 0 | A Laravel package for double-entry accrual accounting with multi-company support... |
 | [wnikk/laravel-access-ui](https://github.com/wnikk/laravel-access-ui) | 3 | Permissions Package with User Interface for ACR (Access Control Rules) on Larave... |
 | [basmakamal/maw3idy](https://github.com/basmakamal/maw3idy) | 0 | Multi-tenant appointment booking platform in Laravel 12: subdomain tenancy with ... |
-| [sajaddp/laravel-bale](https://github.com/sajaddp/laravel-bale) | 2 | پکیج لاراول ۱۳برای ساخت و اتصال بازوی بله؛ با ستاره‌دادن به مخزن قلبم را شاد کنی... |
+| [sajaddp/laravel-bale](https://github.com/sajaddp/laravel-bale) | 4 | پکیج لاراول ۱۳برای ساخت و اتصال بازوی بله؛ با ستاره‌دادن به مخزن قلبم را شاد کنی... |
 | [robot-council/core](https://github.com/robot-council/core) | 0 | The core of Robot Council, a coordination service for fleets of AI coding agents... |
 | [JeffersonLab/Taxonomy](https://github.com/JeffersonLab/Taxonomy) | 5 | A Laravel Package inspired by the Drupal Taxonomy Module |
 | [capell-app/inertia](https://github.com/capell-app/inertia) | 0 | Shared Inertia runtime bridge for Capell public pages, package routes, and adapt... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [amirkateb/telegram-core-client](https://github.com/amirkateb/telegram-core-client) | 0 | Telegram Core Client is a lightweight Laravel package that receives Telegram upd... |
 | [Shazzoo/content-studio-laravel-plugin](https://github.com/Shazzoo/content-studio-laravel-plugin) | 0 | Laravel Package voor Content Studio Strategy Engine |
 | [jeffersongoncalves/filament-kanban](https://github.com/jeffersongoncalves/filament-kanban) | 1 | Add kanban boards to your Filament pages |
-| [sanchescom/laravel-cache-memory](https://github.com/sanchescom/laravel-cache-memory) | 7 | Laravel cache driver on System V shared memory (shmop): one cache shared by PHP-... |
-| [hollyphat/redis-event-stream](https://github.com/hollyphat/redis-event-stream) | 0 | Laravel Package to stream event accross multiple backend service |
-| [MohammadMahdiAhmadi1382/laravel-menu](https://github.com/MohammadMahdiAhmadi1382/laravel-menu) | 0 | A reusable Laravel package for managing hierarchical database-backed menus with ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-19 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [sajaddp/laravel-bale](https://github.com/sajaddp/laravel-bale) | 2 | 2026-09-19 | پکیج لاراول ۱۳برای ساخت و اتصال بازوی بله؛ با ستاره‌دادن به ... |
-| [elpandape/filament-warden](https://github.com/elpandape/filament-warden) | 0 | 2026-09-19 | Roles and permissions for Filament, built on elpandape/warde... |
-| [2pointdelivery/financepack](https://github.com/2pointdelivery/financepack) | 0 | 2026-09-19 | A Laravel package for double-entry accrual accounting with m... |
-| [GrafiteInc/Forms](https://github.com/GrafiteInc/Forms) | 37 | 2026-09-19 | Form Classes for Laravel - letting you generate HTML forms f... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-19 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-19 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [k2labs-tech/base-tenant](https://github.com/k2labs-tech/base-tenant) | 0 | 2026-09-19 | Complete multi-tenant SaaS boilerplate for Laravel 12. Inclu... |
+| [niravpatel143/laravel-smart-ocr-package](https://github.com/niravpatel143/laravel-smart-ocr-package) | 5 | 2026-09-19 | laravel-smart-ocr-package |
+| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 10 | 2026-09-19 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
+| [basekit-laravel/basekit-laravel-seo](https://github.com/basekit-laravel/basekit-laravel-seo) | 0 | 2026-09-19 | Basekit Laravel SEO is a feature package for centralized met... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-09-19 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [tinahp09/-Laravel-BulkFlow](https://github.com/tinahp09/-Laravel-BulkFlow) | 0 | 2026-09-19 | Production-ready Laravel package for importing and exporting... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-19 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [basekit-laravel/basekit-laravel-blog](https://github.com/basekit-laravel/basekit-laravel-blog) | 0 | 2026-09-19 | Basekit Laravel Blog is a feature package for publishing and... |
+| [arpan2t/laravel-db-dumper](https://github.com/arpan2t/laravel-db-dumper) | 0 | 2026-09-19 | A Laravel package for dumping MySQL databases. |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-19 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-09-19 | Package analytics laravel + livewire |
+| [loki495/insights](https://github.com/loki495/insights) | 0 | 2026-09-19 | Self-hosted Laravel/Livewire personal-finance app with Plaid... |
 | [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-19 | The NativePHP website |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-19 | Prevent risky Laravel database migrations with static analys... |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-09-19 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-19 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-19 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [alex-kassel/workspace-development-toolkit](https://github.com/alex-kassel/workspace-development-toolkit) | 0 | 2026-09-19 | Multi-workspace local package development toolkit for Larave... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-19 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-19 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-19 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-09-19 | Generic Laravel article campaign domain engine, policies, di... |
-| [alex-kassel/workspace-manifest](https://github.com/alex-kassel/workspace-manifest) | 0 | 2026-09-19 | Domain manifest repository and schema for multi-package work... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-09-19 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [basmakamal/maw3idy](https://github.com/basmakamal/maw3idy) | 0 | 2026-09-19 | Multi-tenant appointment booking platform in Laravel 12: sub... |
-| [foxws/wireuse](https://github.com/foxws/wireuse) | 7 | 2026-09-19 | Collection of useful Livewire utilities. |
-| [wnikk/laravel-access-ui](https://github.com/wnikk/laravel-access-ui) | 3 | 2026-09-19 | Permissions Package with User Interface for ACR (Access Cont... |
+| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-09-19 | Home weather station, end to end: ESP32 firmware reading a B... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-19 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [ghasedakapi/ghasedaksms-laravel](https://github.com/ghasedakapi/ghasedaksms-laravel) | 0 | 2026-09-19 | laravel package for use ghasedaksms api services |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-09-19 | Filament plugin that allows to add dynamic, user-defined for... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 113 | 2026-09-19 | A Laravel package for versioned AI prompt management with va... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-19T11:11 | 3 | 1718 | 6483 |
 | 2026-09-19T04:45 | 2 | 1719 | 6480 |
 | 2026-09-18T20:59 | 5 | 1716 | 6478 |
 | 2026-09-18T16:32 | 2 | 1721 | 6474 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-17T17:08 | 7 | 1721 | 6463 |
 | 2026-09-17T11:51 | 8 | 1722 | 6456 |
 | 2026-09-17T05:00 | 11 | 1718 | 6448 |
-| 2026-09-16T21:25 | 5 | 1724 | 6437 |
 
 ---
 

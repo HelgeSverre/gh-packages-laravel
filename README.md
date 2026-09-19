@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6485  
-**Last updated:** 2026-09-19T15:57:51.116Z
+**Total packages tracked:** 6486  
+**Last updated:** 2026-09-19T20:49:47.774Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [yousefbzaqout/sanabel-IQ](https://github.com/yousefbzaqout/sanabel-IQ) | 0 | سنابل IQ — Adaptive Arabic learning platform for children, parents, teachers, an... |
 | [blemli/audiofeedback-for-filament](https://github.com/blemli/audiofeedback-for-filament) | 0 | Delightful, unobtrusive audio feedback for Filament panels, powered by Cuelume. |
 | [ailuracollective/xmorph](https://github.com/ailuracollective/xmorph) | 0 | Radix-style asChild for Blade/Livewire components |
 | [k2labs-tech/base-tenant](https://github.com/k2labs-tech/base-tenant) | 0 | Complete multi-tenant SaaS boilerplate for Laravel 12. Includes Stripe subscript... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [albertoarena/filament-truss](https://github.com/albertoarena/filament-truss) | 1 | Live ER diagram (ERD) of your real database inside a Filament panel, built on La... |
 | [WMCharles/api-scaffolder](https://github.com/WMCharles/api-scaffolder) | 1 | Laravel package that scaffolds complete, production-ready API modules from an El... |
 | [myint-oo/laravel-storage-wrapper](https://github.com/myint-oo/laravel-storage-wrapper) | 2 | A wrapper for laravel storage using interface. A small package meant to solve ha... |
-| [amirkateb/telegram-core-client](https://github.com/amirkateb/telegram-core-client) | 0 | Telegram Core Client is a lightweight Laravel package that receives Telegram upd... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 463 | A simple package to help integrate Cloudflare Turnstile. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 462 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 463 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-19 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [loki495/homie](https://github.com/loki495/homie) | 0 | 2026-09-19 | A self-hosted, configurable homepage/dashboard for home lab ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-19 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [loki495/insights](https://github.com/loki495/insights) | 0 | 2026-09-19 | Self-hosted Laravel/Livewire personal-finance app with Plaid... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 281 | 2026-09-19 | A live database structure viewer for Laravel that renders yo... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-19 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [gabrielesbaiz/password-toolkit](https://github.com/gabrielesbaiz/password-toolkit) | 0 | 2026-09-19 | A lightweight helper package to generate nice passwords. |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 341 | 2026-09-19 | The NativePHP website |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-19 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-19 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [DevWizardHQ/laravel-textify](https://github.com/DevWizardHQ/laravel-textify) | 6 | 2026-09-19 | A powerful and enterprise-ready SMS package for Laravel appl... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-19 | A multi-purpose content and application platform for Laravel... |
-| [idehen-divine/laravel-repository-with-service](https://github.com/idehen-divine/laravel-repository-with-service) | 1 | 2026-09-19 | A Laravel package that scaffolds the repository and service ... |
-| [blemli/audiofeedback-for-filament](https://github.com/blemli/audiofeedback-for-filament) | 0 | 2026-09-19 | Delightful, unobtrusive audio feedback for Filament panels, ... |
-| [rivalex/clearance](https://github.com/rivalex/clearance) | 0 | 2026-09-19 | Livewire 4 + Flux UI admin panel for permissions, roles, cei... |
-| [thtg88/journalism](https://github.com/thtg88/journalism) | 0 | 2026-09-19 | Journalism is a Laravel package providing a simple way to lo... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-09-19 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 390 | 2026-09-19 | Worldwide postal code validation for Laravel and Lumen |
+| [joaquimlopespena/package-laravel-dynamodb](https://github.com/joaquimlopespena/package-laravel-dynamodb) | 1 | 2026-09-19 |  |
 | [swadhin-sikder/laravel-row-in](https://github.com/swadhin-sikder/laravel-row-in) | 0 | 2026-09-19 | Adds row value IN and NOT IN clauses to Laravel's query buil... |
-| [alifcoder/permission](https://github.com/alifcoder/permission) | 1 | 2026-09-19 | Alif Permissions is a modular, lightweight Laravel package f... |
-| [binafy/laravel-discount](https://github.com/binafy/laravel-discount) | 57 | 2026-09-19 | The Laravel-Discount is a Laravel package designed to handle... |
-| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 10 | 2026-09-19 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
+| [jeffersongoncalves/laravel-github-readme](https://github.com/jeffersongoncalves/laravel-github-readme) | 1 | 2026-09-19 | Disk-cached, rendered GitHub READMEs with conditional fetch,... |
+| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 1 | 2026-09-19 | Laravel Monitor: A lightweight Laravel package providing bas... |
+| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-09-19 | Generic Laravel article campaign domain engine, policies, di... |
+| [jeffersongoncalves/laravel-visitor-fingerprint](https://github.com/jeffersongoncalves/laravel-visitor-fingerprint) | 7 | 2026-09-19 | A zero-domain-knowledge visitor-fingerprinting toolkit for L... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-19 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-09-19 | Sistema de gestão para centros e casas espíritas: assistidos... |
+| [jeffersongoncalves/filament-yaml-editor](https://github.com/jeffersongoncalves/filament-yaml-editor) | 4 | 2026-09-19 | A rich YAML editor field for Filament powered by CodeMirror ... |
+| [yousefbzaqout/sanabel-IQ](https://github.com/yousefbzaqout/sanabel-IQ) | 0 | 2026-09-19 | سنابل IQ — Adaptive Arabic learning platform for children, p... |
+| [caalel/mesa](https://github.com/caalel/mesa) | 0 | 2026-09-19 | A Laravel and Livewire application for calorie-based food eq... |
+| [Recodex-ID/rewire](https://github.com/Recodex-ID/rewire) | 2 | 2026-09-19 | A reusable Laravel 13 starter kit — authentication, roles, a... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-19 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-09-19 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [Youssef-Mekkkawy/laravel-ai-translator](https://github.com/Youssef-Mekkkawy/laravel-ai-translator) | 2 | 2026-09-19 | AI-powered automatic translation for Laravel — scan Blade vi... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-19 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-09-19 | Sales and warehousing management system |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-19T20:49 | 1 | 1721 | 6486 |
 | 2026-09-19T15:57 | 2 | 1719 | 6485 |
 | 2026-09-19T11:11 | 3 | 1718 | 6483 |
 | 2026-09-19T04:45 | 2 | 1719 | 6480 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-18T04:53 | 1 | 1725 | 6466 |
 | 2026-09-17T21:29 | 3 | 1724 | 6465 |
 | 2026-09-17T17:08 | 7 | 1721 | 6463 |
-| 2026-09-17T11:51 | 8 | 1722 | 6456 |
 
 ---
 

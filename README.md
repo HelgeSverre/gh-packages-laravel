@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6491  
-**Last updated:** 2026-09-20T16:15:21.818Z
+**Total packages tracked:** 6495  
+**Last updated:** 2026-09-20T20:55:30.380Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [paul-tastic-2/ned](https://github.com/paul-tastic-2/ned) | 0 | Never-Ending Daemon. Self-hosted server monitoring for indie devs: bash agent, L... |
+| [Laracoper/my-microservices-app](https://github.com/Laracoper/my-microservices-app) | 1 | Микросервисная ИИ-платформа для конфиденциального анализа корпоративных документ... |
+| [RobertBoes/patchbay](https://github.com/RobertBoes/patchbay) | 1 | Dynamic Laravel Reverb applications. Keep your WebSocket apps in the database, m... |
+| [haiderjabbar/laravelsolr](https://github.com/haiderjabbar/laravelsolr) | 64 | A Laravel package for seamless integration with Apache Solr, providing easy-to-u... |
+| [ahmedfawzy167/utils](https://github.com/ahmedfawzy167/utils) | 0 | A simple Laravel Utility Package that provides reusable helper methods. |
 | [jeffersongoncalves/filament-navigation-group](https://github.com/jeffersongoncalves/filament-navigation-group) | 1 | Sort navigation groups in Filament, including unregistered ad hoc groups |
 | [jeffersongoncalves/filament-widget-configuration](https://github.com/jeffersongoncalves/filament-widget-configuration) | 1 | Configure global Filament widget defaults (polling interval, lazy loading) via c... |
 | [konspyracylabs/filament-fuse](https://github.com/konspyracylabs/filament-fuse) | 0 | A Filament panel plugin for harris21/laravel-fuse: a live dashboard for one circ... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ailuracollective/xmorph](https://github.com/ailuracollective/xmorph) | 0 | Radix-style asChild for Blade/Livewire components |
 | [k2labs-tech/base-tenant](https://github.com/k2labs-tech/base-tenant) | 0 | Complete multi-tenant SaaS boilerplate for Laravel 12. Includes Stripe subscript... |
 | [basekit-laravel/basekit-laravel-seo](https://github.com/basekit-laravel/basekit-laravel-seo) | 0 | Basekit Laravel SEO is a feature package for centralized metadata, structured da... |
-| [basekit-laravel/basekit-laravel-blog](https://github.com/basekit-laravel/basekit-laravel-blog) | 0 | Basekit Laravel Blog is a feature package for publishing and rendering blog post... |
-| [2pointdelivery/financepack](https://github.com/2pointdelivery/financepack) | 0 | A Laravel package for double-entry accrual accounting with multi-company support... |
-| [wnikk/laravel-access-ui](https://github.com/wnikk/laravel-access-ui) | 3 | Permissions Package with User Interface for ACR (Access Control Rules) on Larave... |
-| [basmakamal/maw3idy](https://github.com/basmakamal/maw3idy) | 0 | Multi-tenant appointment booking platform in Laravel 12: subdomain tenancy with ... |
-| [sajaddp/laravel-bale](https://github.com/sajaddp/laravel-bale) | 5 | پکیج لاراول برای ساخت و اتصال بازوی بله؛ با ستاره‌دادن به مخزن قلبم را شاد کنید.... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [HamzaHassanM/laravel-social-auto-post](https://github.com/HamzaHassanM/laravel-social-auto-post) | 16 | 2026-09-20 | A Laravel package for automatic social media posting across ... |
-| [jeffersongoncalves/filament-navigation-group](https://github.com/jeffersongoncalves/filament-navigation-group) | 1 | 2026-09-20 | Sort navigation groups in Filament, including unregistered a... |
-| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-09-20 | A collection of Dockerfile examples for various programming ... |
-| [jeffersongoncalves/filament-widget-configuration](https://github.com/jeffersongoncalves/filament-widget-configuration) | 1 | 2026-09-20 | Configure global Filament widget defaults (polling interval,... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-09-20 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 1 | 2026-09-20 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 2 | 2026-09-20 | HelpDesk starter kit built on Laravel 12.x and Filament 3.x ... |
+| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-09-20 | Sales and warehousing management system |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-09-20 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [paulhibbert/features](https://github.com/paulhibbert/features) | 0 | 2026-09-20 | Simple feature flags package for Laravel |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-20 | Automated code analysis for Laravel applications with 73 com... |
+| [jeffersongoncalves/laravel-service-desk](https://github.com/jeffersongoncalves/laravel-service-desk) | 9 | 2026-09-20 | A complete, headless Service Desk package for Laravel featur... |
+| [jeffersongoncalves/helpdeskkitv4](https://github.com/jeffersongoncalves/helpdeskkitv4) | 6 | 2026-09-20 | HelpDesk starter kit built on Laravel 13.x and Filament 4.x ... |
+| [paul-tastic-2/ned](https://github.com/paul-tastic-2/ned) | 0 | 2026-09-20 | Never-Ending Daemon. Self-hosted server monitoring for indie... |
+| [jeffersongoncalves/evolutionkitv4](https://github.com/jeffersongoncalves/evolutionkitv4) | 10 | 2026-09-20 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
+| [Laracoper/my-microservices-app](https://github.com/Laracoper/my-microservices-app) | 1 | 2026-09-20 | Микросервисная ИИ-платформа для конфиденциального анализа ко... |
+| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 102 | 2026-09-20 | Laravel + Filament 5 CMS foundation: visual page builder, in... |
 | [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-20 | Manage, process, and serve files in Laravel with scalable up... |
-| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-09-20 | TeamKit starter kit built on Laravel 12.x and Filament 3.x w... |
-| [jeffersongoncalves/teamkitv4](https://github.com/jeffersongoncalves/teamkitv4) | 9 | 2026-09-20 | TeamKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-09-20 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-20 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [ArtisanPack-UI/seo](https://github.com/ArtisanPack-UI/seo) | 0 | 2026-09-20 | A comprehensive SEO management package for Laravel applicati... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-09-20 | Package analytics laravel + livewire |
+| [HabboFeelingNL/laravel-habbo-web-api](https://github.com/HabboFeelingNL/laravel-habbo-web-api) | 0 | 2026-09-20 | Laravel client for the public Habbo Web API, with typed DTOs... |
 | [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-20 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 0 | 2026-09-20 | ShieldCI Analyzer Core - Shared foundation for building stat... |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-20 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-20 | Integrate Mixpanel analytics into Filament projects to track... |
+| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 390 | 2026-09-20 | Worldwide postal code validation for Laravel and Lumen |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-20 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-20 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-20 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [faresnassar09/Accounting-System-Back-end-Version](https://github.com/faresnassar09/Accounting-System-Back-end-Version) | 1 | 2026-09-20 | high-grade Accounting & ERP engine built with Laravel. This ... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-09-20 | [PACKAGE] Build a free e-commerce website system for busines... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-20T20:55 | 5 | 1720 | 6495 |
 | 2026-09-20T16:15 | 4 | 1721 | 6491 |
 | 2026-09-20T11:35 | 4 | 1721 | 6489 |
 | 2026-09-20T05:01 | 2 | 1721 | 6488 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-19T04:45 | 2 | 1719 | 6480 |
 | 2026-09-18T20:59 | 5 | 1716 | 6478 |
 | 2026-09-18T16:32 | 2 | 1721 | 6474 |
-| 2026-09-18T11:27 | 7 | 1718 | 6473 |
 
 ---
 

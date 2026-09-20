@@ -1643,5 +1643,59 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-09-20T11:35:25.114Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "abdullahahmedthecoder/wirechat": {
+    "name": "AbdullahAhmedthecoder/Wirechat",
+    "url": "https://github.com/AbdullahAhmedthecoder/Wirechat",
+    "description": "A Laravel Livewire Chat application package.",
+    "stars": 1,
+    "forks": 1,
+    "topics": [
+      "chat-app",
+      "chat-application",
+      "laravel",
+      "laravel-framework",
+      "laravel-package",
+      "livewire",
+      "php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-09-20T13:59:38Z",
+    "updated_at": "2025-10-20T16:06:29Z",
+    "pushed_at": "2025-09-20T14:02:20Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-09-20T16:15:21.792Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "abdullahahmedthecoder/shopperlabs": {
+    "name": "AbdullahAhmedthecoder/Shopperlabs",
+    "url": "https://github.com/AbdullahAhmedthecoder/Shopperlabs",
+    "description": "Headless e-commerce administration built with Laravel to create and manage online store.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "admin",
+      "ecommerce",
+      "ecommerce-application",
+      "ecommerce-website",
+      "laravel",
+      "laravel-framework",
+      "laravel-package",
+      "livewire",
+      "php",
+      "tailwind-css",
+      "tailwindcss",
+      "tailwindcss-plugin",
+      "tailwindcss-v4"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-09-20T10:58:13Z",
+    "updated_at": "2025-09-20T13:53:58Z",
+    "pushed_at": "2025-09-20T11:36:47Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-09-20T16:15:21.792Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

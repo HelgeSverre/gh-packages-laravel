@@ -2,13 +2,25 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6513  
-**Last updated:** 2026-09-21T13:00:06.710Z
+**Total packages tracked:** 6525  
+**Last updated:** 2026-09-21T22:02:53.300Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [AmirGjzh/Planner](https://github.com/AmirGjzh/Planner) | 2 | A personal task planner built with Laravel and Livewire for organizing tasks, tr... |
+| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji color, OpenMoji bla... |
+| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 6,146 Tabler SVG icons for Laravel, outline and filled, served through the Ichav... |
+| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Sourced from lipis/flag-ic... |
+| [lsnepomuceno/laravel-autentique](https://github.com/lsnepomuceno/laravel-autentique) | 0 | A Laravel client for the Autentique GraphQL API v2: documents, signers, folders,... |
+| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 0 | The shared base of a Laravel admin app as one updatable package: sign-in, users,... |
+| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | Scaffolds Ichava icon packages: one command, a token-substituted stub tree, and ... |
+| [Chargily/chargily-pay-php](https://github.com/Chargily/chargily-pay-php) | 17 | PHP Package of Chargily Pay™, the easiest and free way to integrate e-payment AP... |
+| [KalimeroMK/Halk](https://github.com/KalimeroMK/Halk) | 15 | Integrate Halkbank's online payment gateway seamlessly into your Laravel applica... |
+| [KalimeroMK/FacebookPost](https://github.com/KalimeroMK/FacebookPost) | 1 | This package allow to create, update, delete and get posts from facebook page in... |
+| [KalimeroMK/nbrm](https://github.com/KalimeroMK/nbrm) | 1 | This package provides seamless integration with the web service of the National ... |
+| [KalimeroMK/postal-tracking-package](https://github.com/KalimeroMK/postal-tracking-package) | 2 | A lightweight PHP library for tracking postal shipments from Posta na Severna Ma... |
 | [schmeits/filament-character-counter](https://github.com/schmeits/filament-character-counter) | 34 | This is a Filament PHP character counter TextField and Textarea form field for F... |
 | [na2axl/laravel-api-flow](https://github.com/na2axl/laravel-api-flow) | 0 | Server-driven multi-step API flows for Laravel — declare steps as a state machin... |
 | [ArvidDeJong/laravel-google-translate](https://github.com/ArvidDeJong/laravel-google-translate) | 0 | Translate text, HTML and Eloquent models in Laravel with the Google Cloud Transl... |
@@ -17,18 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ArvidDeJong/livewire-google-analytics](https://github.com/ArvidDeJong/livewire-google-analytics) | 0 | Google Analytics 4 event tracking for Laravel Livewire: a trait that dispatches ... |
 | [ArvidDeJong/laravel-ai-generator](https://github.com/ArvidDeJong/laravel-ai-generator) | 0 | AI content generation for Laravel with OpenAI: title, intro, HTML text, SEO titl... |
 | [ArvidDeJong/api-linkedin](https://github.com/ArvidDeJong/api-linkedin) | 0 | Universal Laravel integration for publishing posts on LinkedIn (personal profile... |
-| [ArvidDeJong/laravel-document-sign](https://github.com/ArvidDeJong/laravel-document-sign) | 0 | Sign PDF documents in Laravel with a DocuSign like flow: invite signers by mail,... |
-| [yabasha/laravel-clsx](https://github.com/yabasha/laravel-clsx) | 0 | A Laravel utility for conditional class name concatenation, inspired by the popu... |
-| [ArvidDeJong/nuki](https://github.com/ArvidDeJong/nuki) | 0 | Laravel package for the NUKI Web API (smartlocks, logs, authorizations, webhooks... |
-| [KalimeroMK/casys](https://github.com/KalimeroMK/casys) | 19 | This is a package to integrate Casys payment gateway in laravel  |
-| [togrul614/laravel-db-translations](https://github.com/togrul614/laravel-db-translations) | 0 | Package for laravel db translation |
-| [KalimeroMK/filterable](https://github.com/KalimeroMK/filterable) | 5 | In Laravel, we commonly face the problem of adding repetitive filtering code, th... |
-| [lenorix/filament-autosave](https://github.com/lenorix/filament-autosave) | 2 | Saves form changes after the user pauses typing |
-| [Belysh/laravel-socket-bridge](https://github.com/Belysh/laravel-socket-bridge) | 0 | Laravel broadcasting and Socket.IO commands with a bundled NestJS gateway and Re... |
-| [linkado-ru/laravel](https://github.com/linkado-ru/laravel) | 0 | Official Laravel package for Linkado |
-| [chikolokoy08/laravel-ph-toolkit](https://github.com/chikolokoy08/laravel-ph-toolkit) | 0 | The Laravel and PHP counterpart of my npm package ph-toolkit. Validators, format... |
-| [MohammadMahdiAhmadi1382/Laravel-Popup-Management-Package](https://github.com/MohammadMahdiAhmadi1382/Laravel-Popup-Management-Package) | 0 | A lightweight Laravel popup management package for creating, targeting, styling,... |
-| [paul-tastic-2/ned](https://github.com/paul-tastic-2/ned) | 0 | Never-Ending Daemon. Self-hosted server monitoring for indie devs: bash agent, L... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-21 | A multi-purpose content and application platform for Laravel... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-21 | The Moox Project - Packages for Filament and Laravel |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-09-21 | Magic Framework Laravel backend starter package. |
+| [andydefer/laravel-reports](https://github.com/andydefer/laravel-reports) | 0 | 2026-09-21 | Package Laravel de signalement polymorphique avec pattern Re... |
+| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-09-21 | Toth is a Laravel package for database backup and snapshot m... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-09-21 | Laravel TOTP package for two-factor authentication with poly... |
+| [jeffersongoncalves/laravel-service-desk](https://github.com/jeffersongoncalves/laravel-service-desk) | 9 | 2026-09-21 | A complete, headless Service Desk package for Laravel featur... |
+| [jeffersongoncalves/filament-service-desk](https://github.com/jeffersongoncalves/filament-service-desk) | 18 | 2026-09-21 | Filament plugin for complete service desk management — Admin... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-09-21 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [andydefer/laravel-logger](https://github.com/andydefer/laravel-logger) | 0 | 2026-09-21 | A structured logging package for Laravel that writes logs in... |
+| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-09-21 | Scaffolds Ichava icon packages: one command, a token-substit... |
+| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-09-21 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
+| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-09-21 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
+| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-09-21 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
 | [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-21 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [na2axl/laravel-api-flow](https://github.com/na2axl/laravel-api-flow) | 0 | 2026-09-21 | Server-driven multi-step API flows for Laravel — declare ste... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-21 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [ahmed-nour-dev/laravel-stream-backup](https://github.com/ahmed-nour-dev/laravel-stream-backup) | 0 | 2026-09-21 | Streaming database backup and restore for Laravel: dump → co... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-21 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-09-21 | Simple package for adding directives to show/hide content fr... |
-| [yabasha/laravel-clsx](https://github.com/yabasha/laravel-clsx) | 0 | 2026-09-21 | A Laravel utility for conditional class name concatenation, ... |
-| [imjonos/laravel-dadata-api](https://github.com/imjonos/laravel-dadata-api) | 0 | 2026-09-21 | Laravel Dadata Api Package |
-| [ouhssini/installer](https://github.com/ouhssini/installer) | 0 | 2026-09-21 | laravel package to include a magic installer wizard |
-| [indiesystems/laravel-adminlte-ui-components](https://github.com/indiesystems/laravel-adminlte-ui-components) | 0 | 2026-09-21 | A Laravel package with components for adminLTE bootstrap 4 U... |
-| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 1 | 2026-09-21 | One-command Laravel setup, deploy & CI tools |
-| [RobertBoes/blade-selfhst-icons](https://github.com/RobertBoes/blade-selfhst-icons) | 0 | 2026-09-21 | A package to easily make use of selfh.st Icons in your Larav... |
-| [ArvidDeJong/nuki](https://github.com/ArvidDeJong/nuki) | 0 | 2026-09-21 | Laravel package for the NUKI Web API (smartlocks, logs, auth... |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-09-21 | A Laravel package to handle AWS SNS notifications, providing... |
-| [blemli/swissstreets-for-filament](https://github.com/blemli/swissstreets-for-filament) | 0 | 2026-09-21 | Every Swiss address. Offline. |
-| [ArvidDeJong/ubl-peppol](https://github.com/ArvidDeJong/ubl-peppol) | 8 | 2026-09-21 | Welcome to the comprehensive documentation for the UBL-PEPPO... |
-| [Baspa/laravel-timezones](https://github.com/Baspa/laravel-timezones) | 2 | 2026-09-21 | This package offers a convenient solution for Laravel develo... |
-| [ArvidDeJong/mailtrap](https://github.com/ArvidDeJong/mailtrap) | 0 | 2026-09-21 | Mailtrap integration for Laravel: recipient validation, mail... |
-| [ArvidDeJong/livewire-honeypot](https://github.com/ArvidDeJong/livewire-honeypot) | 1 | 2026-09-21 | Honeypot and time-trap spam protection for Livewire and Lara... |
+| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 0 | 2026-09-21 | The shared base of a Laravel admin app as one updatable pack... |
+| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-21 | The core of Robot Council, a coordination service for fleets... |
+| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-09-21 | A modular Laravel package suite for building production-read... |
+| [YasserElgammal/laravel-tamara](https://github.com/YasserElgammal/laravel-tamara) | 3 | 2026-09-21 | Package for laravel helps developers to easily integration w... |
+| [amjadiqbal/laravel-rough-notation](https://github.com/amjadiqbal/laravel-rough-notation) | 0 | 2026-09-21 | Laravel package — Rough Notation hand-drawn annotations: cir... |
+| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 10 | 2026-09-21 | MFAKit starter kit built on Laravel 12.x and Filament 4.x wi... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-21T22:02 | 12 | 1711 | 6525 |
 | 2026-09-21T13:00 | 14 | 1711 | 6513 |
 | 2026-09-21T05:07 | 5 | 1721 | 6500 |
 | 2026-09-20T20:55 | 5 | 1720 | 6495 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-19T20:49 | 1 | 1721 | 6486 |
 | 2026-09-19T15:57 | 2 | 1719 | 6485 |
 | 2026-09-19T11:11 | 3 | 1718 | 6483 |
-| 2026-09-19T04:45 | 2 | 1719 | 6480 |
 
 ---
 

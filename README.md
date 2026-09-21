@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6500  
-**Last updated:** 2026-09-21T05:07:32.782Z
+**Total packages tracked:** 6513  
+**Last updated:** 2026-09-21T13:00:06.710Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [lenorix/filament-autosave](https://github.com/lenorix/filament-autosave) | 1 | Saves form changes after the user pauses typing |
+| [schmeits/filament-character-counter](https://github.com/schmeits/filament-character-counter) | 34 | This is a Filament PHP character counter TextField and Textarea form field for F... |
+| [na2axl/laravel-api-flow](https://github.com/na2axl/laravel-api-flow) | 0 | Server-driven multi-step API flows for Laravel — declare steps as a state machin... |
+| [ArvidDeJong/laravel-google-translate](https://github.com/ArvidDeJong/laravel-google-translate) | 0 | Translate text, HTML and Eloquent models in Laravel with the Google Cloud Transl... |
+| [ArvidDeJong/livewire-inline-translation](https://github.com/ArvidDeJong/livewire-inline-translation) | 0 | Edit translations inline on the page: an authorised user clicks the text, a moda... |
+| [ArvidDeJong/snelstart](https://github.com/ArvidDeJong/snelstart) | 0 | Laravel client for the SnelStart B2B API v2 (Dutch accounting software): client ... |
+| [ArvidDeJong/livewire-google-analytics](https://github.com/ArvidDeJong/livewire-google-analytics) | 0 | Google Analytics 4 event tracking for Laravel Livewire: a trait that dispatches ... |
+| [ArvidDeJong/laravel-ai-generator](https://github.com/ArvidDeJong/laravel-ai-generator) | 0 | AI content generation for Laravel with OpenAI: title, intro, HTML text, SEO titl... |
+| [ArvidDeJong/api-linkedin](https://github.com/ArvidDeJong/api-linkedin) | 0 | Universal Laravel integration for publishing posts on LinkedIn (personal profile... |
+| [ArvidDeJong/laravel-document-sign](https://github.com/ArvidDeJong/laravel-document-sign) | 0 | Sign PDF documents in Laravel with a DocuSign like flow: invite signers by mail,... |
+| [yabasha/laravel-clsx](https://github.com/yabasha/laravel-clsx) | 0 | A Laravel utility for conditional class name concatenation, inspired by the popu... |
+| [ArvidDeJong/nuki](https://github.com/ArvidDeJong/nuki) | 0 | Laravel package for the NUKI Web API (smartlocks, logs, authorizations, webhooks... |
+| [KalimeroMK/casys](https://github.com/KalimeroMK/casys) | 19 | This is a package to integrate Casys payment gateway in laravel  |
+| [togrul614/laravel-db-translations](https://github.com/togrul614/laravel-db-translations) | 0 | Package for laravel db translation |
+| [KalimeroMK/filterable](https://github.com/KalimeroMK/filterable) | 5 | In Laravel, we commonly face the problem of adding repetitive filtering code, th... |
+| [lenorix/filament-autosave](https://github.com/lenorix/filament-autosave) | 2 | Saves form changes after the user pauses typing |
 | [Belysh/laravel-socket-bridge](https://github.com/Belysh/laravel-socket-bridge) | 0 | Laravel broadcasting and Socket.IO commands with a bundled NestJS gateway and Re... |
 | [linkado-ru/laravel](https://github.com/linkado-ru/laravel) | 0 | Official Laravel package for Linkado |
 | [chikolokoy08/laravel-ph-toolkit](https://github.com/chikolokoy08/laravel-ph-toolkit) | 0 | The Laravel and PHP counterpart of my npm package ph-toolkit. Validators, format... |
 | [MohammadMahdiAhmadi1382/Laravel-Popup-Management-Package](https://github.com/MohammadMahdiAhmadi1382/Laravel-Popup-Management-Package) | 0 | A lightweight Laravel popup management package for creating, targeting, styling,... |
 | [paul-tastic-2/ned](https://github.com/paul-tastic-2/ned) | 0 | Never-Ending Daemon. Self-hosted server monitoring for indie devs: bash agent, L... |
-| [Laracoper/my-microservices-app](https://github.com/Laracoper/my-microservices-app) | 1 | Микросервисная ИИ-платформа для конфиденциального анализа корпоративных документ... |
-| [RobertBoes/patchbay](https://github.com/RobertBoes/patchbay) | 1 | Dynamic Laravel Reverb applications. Keep your WebSocket apps in the database, m... |
-| [haiderjabbar/laravelsolr](https://github.com/haiderjabbar/laravelsolr) | 64 | A Laravel package for seamless integration with Apache Solr, providing easy-to-u... |
-| [ahmedfawzy167/utils](https://github.com/ahmedfawzy167/utils) | 0 | A simple Laravel Utility Package that provides reusable helper methods. |
-| [jeffersongoncalves/filament-navigation-group](https://github.com/jeffersongoncalves/filament-navigation-group) | 1 | Sort navigation groups in Filament, including unregistered ad hoc groups |
-| [jeffersongoncalves/filament-widget-configuration](https://github.com/jeffersongoncalves/filament-widget-configuration) | 1 | Configure global Filament widget defaults (polling interval, lazy loading) via c... |
-| [konspyracylabs/filament-fuse](https://github.com/konspyracylabs/filament-fuse) | 0 | A Filament panel plugin for harris21/laravel-fuse: a live dashboard for one circ... |
-| [souravmsh/compressed-output](https://github.com/souravmsh/compressed-output) | 1 | A Laravel package that boosts web performance by minifying inline HTML, CSS, and... |
-| [amjadiqbal/kiln](https://github.com/amjadiqbal/kiln) | 0 | Deploy-time OPcache control for Laravel: clear, warm and inspect OPcache safely,... |
-| [Grazulex/laravel-chronoview](https://github.com/Grazulex/laravel-chronoview) | 1 | Horizon-style dashboard for the Laravel scheduler: every run, every failure, eve... |
-| [SameOldNick/laravel-geolocator](https://github.com/SameOldNick/laravel-geolocator) | 0 | A Laravel package for integrating geolocation services with your application |
-| [aleexvdev/corvant-laravel](https://github.com/aleexvdev/corvant-laravel) | 0 | Identity & Access Management for Laravel — auth, MFA, RBAC, multi-tenancy, sessi... |
-| [mikeyperes/laravel-hexa-package-publication-onboarding](https://github.com/mikeyperes/laravel-hexa-package-publication-onboarding) | 0 | Reusable Laravel orchestration for onboarding publications into Hexa PR Wire dis... |
-| [aristarque26/package-auth](https://github.com/aristarque26/package-auth) | 0 | un package d'authentification reutilisable , developpe avec laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [linkado-ru/laravel](https://github.com/linkado-ru/laravel) | 0 | 2026-09-21 | Official Laravel package for Linkado |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-21 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-21 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-21 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [soorintec/Soorin_Inventory](https://github.com/soorintec/Soorin_Inventory) | 1 | 2026-09-21 | Soorin Inventory — multilingual (fa/en/ar/de/fr/it/ru/zh) La... |
-| [mikeyperes/laravel-hexa-package-publication-onboarding](https://github.com/mikeyperes/laravel-hexa-package-publication-onboarding) | 0 | 2026-09-21 | Reusable Laravel orchestration for onboarding publications i... |
-| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-09-21 | A todo list app that's MCP-native, so AI agents can claim, c... |
-| [Belysh/laravel-socket-bridge](https://github.com/Belysh/laravel-socket-bridge) | 0 | 2026-09-21 | Laravel broadcasting and Socket.IO commands with a bundled N... |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-21 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) | 250 | 2026-09-21 | High quality automatic translate your language files into ma... |
-| [chikolokoy08/laravel-ph-toolkit](https://github.com/chikolokoy08/laravel-ph-toolkit) | 0 | 2026-09-21 | The Laravel and PHP counterpart of my npm package ph-toolkit... |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-21 | Manage, process, and serve files in Laravel with scalable up... |
-| [gabrielesbaiz/password-toolkit](https://github.com/gabrielesbaiz/password-toolkit) | 0 | 2026-09-21 | A lightweight helper package to generate nice passwords. |
-| [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 191 | 2026-09-21 | Full genealogy and family tree building application using La... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-21 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-21 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-21 | Integrate Mixpanel analytics into Filament projects to track... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-21 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-09-21 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-21 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-21 | A multi-purpose content and application platform for Laravel... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-21 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [na2axl/laravel-api-flow](https://github.com/na2axl/laravel-api-flow) | 0 | 2026-09-21 | Server-driven multi-step API flows for Laravel — declare ste... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-21 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [ahmed-nour-dev/laravel-stream-backup](https://github.com/ahmed-nour-dev/laravel-stream-backup) | 0 | 2026-09-21 | Streaming database backup and restore for Laravel: dump → co... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-21 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-09-21 | Simple package for adding directives to show/hide content fr... |
+| [yabasha/laravel-clsx](https://github.com/yabasha/laravel-clsx) | 0 | 2026-09-21 | A Laravel utility for conditional class name concatenation, ... |
+| [imjonos/laravel-dadata-api](https://github.com/imjonos/laravel-dadata-api) | 0 | 2026-09-21 | Laravel Dadata Api Package |
+| [ouhssini/installer](https://github.com/ouhssini/installer) | 0 | 2026-09-21 | laravel package to include a magic installer wizard |
+| [indiesystems/laravel-adminlte-ui-components](https://github.com/indiesystems/laravel-adminlte-ui-components) | 0 | 2026-09-21 | A Laravel package with components for adminLTE bootstrap 4 U... |
+| [IGNE-Agency/laravel-boot-up-package](https://github.com/IGNE-Agency/laravel-boot-up-package) | 1 | 2026-09-21 | One-command Laravel setup, deploy & CI tools |
+| [RobertBoes/blade-selfhst-icons](https://github.com/RobertBoes/blade-selfhst-icons) | 0 | 2026-09-21 | A package to easily make use of selfh.st Icons in your Larav... |
+| [ArvidDeJong/nuki](https://github.com/ArvidDeJong/nuki) | 0 | 2026-09-21 | Laravel package for the NUKI Web API (smartlocks, logs, auth... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-09-21 | A Laravel package to handle AWS SNS notifications, providing... |
+| [blemli/swissstreets-for-filament](https://github.com/blemli/swissstreets-for-filament) | 0 | 2026-09-21 | Every Swiss address. Offline. |
+| [ArvidDeJong/ubl-peppol](https://github.com/ArvidDeJong/ubl-peppol) | 8 | 2026-09-21 | Welcome to the comprehensive documentation for the UBL-PEPPO... |
+| [Baspa/laravel-timezones](https://github.com/Baspa/laravel-timezones) | 2 | 2026-09-21 | This package offers a convenient solution for Laravel develo... |
+| [ArvidDeJong/mailtrap](https://github.com/ArvidDeJong/mailtrap) | 0 | 2026-09-21 | Mailtrap integration for Laravel: recipient validation, mail... |
+| [ArvidDeJong/livewire-honeypot](https://github.com/ArvidDeJong/livewire-honeypot) | 1 | 2026-09-21 | Honeypot and time-trap spam protection for Livewire and Lara... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-21T13:00 | 14 | 1711 | 6513 |
 | 2026-09-21T05:07 | 5 | 1721 | 6500 |
 | 2026-09-20T20:55 | 5 | 1720 | 6495 |
 | 2026-09-20T16:15 | 4 | 1721 | 6491 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-19T15:57 | 2 | 1719 | 6485 |
 | 2026-09-19T11:11 | 3 | 1718 | 6483 |
 | 2026-09-19T04:45 | 2 | 1719 | 6480 |
-| 2026-09-18T20:59 | 5 | 1716 | 6478 |
 
 ---
 

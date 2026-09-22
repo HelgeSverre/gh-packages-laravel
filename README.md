@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6536  
-**Last updated:** 2026-09-22T17:03:26.102Z
+**Total packages tracked:** 6538  
+**Last updated:** 2026-09-22T21:27:21.172Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [PanOleg/fitout-rfq-assistant](https://github.com/PanOleg/fitout-rfq-assistant) | 0 | Fit-out BoQ → trade packages → supplier RFQs. Claude reads, deterministic code c... |
+| [coding-socks/lost-in-translation](https://github.com/coding-socks/lost-in-translation) | 9 | This package helps to find missing translation strings in your Laravel blade fil... |
 | [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | UniMarket - a campus marketplace where verified university students buy, sell an... |
 | [automoveisconfiaveis/package-laravel-dynamodb](https://github.com/automoveisconfiaveis/package-laravel-dynamodb) | 1 |  |
 | [Ibracilinks/OrangeMoney](https://github.com/Ibracilinks/OrangeMoney) | 12 | A laravel package for Orange Money Web Payment API. |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Sourced from lipis/flag-ic... |
 | [lsnepomuceno/laravel-autentique](https://github.com/lsnepomuceno/laravel-autentique) | 0 | A Laravel client for the Autentique GraphQL API v2: documents, signers, folders,... |
 | [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 1 | The shared base of a Laravel admin app as one updatable package: sign-in, users,... |
-| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | Scaffolds Ichava icon packages: one command, a token-substituted stub tree, and ... |
-| [Chargily/chargily-pay-php](https://github.com/Chargily/chargily-pay-php) | 17 | PHP Package of Chargily Pay™, the easiest and free way to integrate e-payment AP... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -43,15 +43,15 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 465 | Open Source Laravel CRM Package |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 464 | A simple package to help integrate Cloudflare Turnstile. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 464 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 443 | A media picker plugin for Filament Panels. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
-| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 440 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
+| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 441 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [niravpatel143/laravel-smart-ocr-package](https://github.com/niravpatel143/laravel-smart-ocr-package) | 5 | 2026-09-22 | laravel-smart-ocr-package |
-| [automoveisconfiaveis/package-laravel-dynamodb](https://github.com/automoveisconfiaveis/package-laravel-dynamodb) | 1 | 2026-09-22 |  |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-09-22 | Laravel-based API for storing sensor data from distributed n... |
-| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-09-22 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
-| [ardhikaxx/ppak-feb-unesa](https://github.com/ardhikaxx/ppak-feb-unesa) | 0 | 2026-09-22 | Website profil resmi Pendidikan Profesi Akuntan (PPAk) Fakul... |
-| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-09-22 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
-| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-09-22 | Package analytics laravel + livewire |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-22 | Automated code analysis for Laravel applications with 73 com... |
-| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 1 | 2026-09-22 | The shared base of a Laravel admin app as one updatable pack... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-22 | A multi-purpose content and application platform for Laravel... |
-| [amdad121/fcm-laravel](https://github.com/amdad121/fcm-laravel) | 1 | 2026-09-22 | A simple, lightweight, fast Firebase Cloud Messaging (FCM) n... |
+| [jeffersongoncalves/laravel-cms](https://github.com/jeffersongoncalves/laravel-cms) | 2 | 2026-09-22 | Laravel CMS (pages, posts, categories, tags, comments, media... |
+| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-09-22 | A package for Miro |
 | [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-22 | The core of Robot Council, a coordination service for fleets... |
-| [serhii-f8/filament-studio](https://github.com/serhii-f8/filament-studio) | 51 | 2026-09-22 | Dynamic data model manager for Filament — EAV storage, 33 fi... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-22 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [Laracoper/my-microservices-app](https://github.com/Laracoper/my-microservices-app) | 1 | 2026-09-22 | Микросервисная ИИ-платформа для конфиденциального анализа ко... |
-| [gabrielesbaiz/password-toolkit](https://github.com/gabrielesbaiz/password-toolkit) | 0 | 2026-09-22 | A lightweight helper package to generate nice passwords. |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-09-22 | [READ ONLY] API Platform for Laravel |
-| [abolaradev/package-skeleton-laravel-livewire](https://github.com/abolaradev/package-skeleton-laravel-livewire) | 0 | 2026-09-22 | A customized Laravel package skeleton with Livewire, Blade c... |
-| [mindtwo/laravel-auto-translatable](https://github.com/mindtwo/laravel-auto-translatable) | 0 | 2026-09-22 | AI-powered translation package for Laravel with smart markdo... |
-| [GrafiteInc/Forms](https://github.com/GrafiteInc/Forms) | 37 | 2026-09-22 | Form Classes for Laravel - letting you generate HTML forms f... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-22 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [RobertBoes/patchbay](https://github.com/RobertBoes/patchbay) | 1 | 2026-09-22 | Dynamic Laravel Reverb applications. Keep your WebSocket app... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-09-22 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [jeffersongoncalves/laravel-created-by](https://github.com/jeffersongoncalves/laravel-created-by) | 3 | 2026-09-22 | This Laravel package automatically logs the currently logged... |
+| [jeffersongoncalves/laravel-fake-cartoons](https://github.com/jeffersongoncalves/laravel-fake-cartoons) | 6 | 2026-09-22 | This Laravel package provides a Faker provider to generate f... |
+| [jeffersongoncalves/laravel-fathom](https://github.com/jeffersongoncalves/laravel-fathom) | 2 | 2026-09-22 | Laravel package to integrate Fathom Analytics with database-... |
+| [jeffersongoncalves/laravel-gtag](https://github.com/jeffersongoncalves/laravel-gtag) | 2 | 2026-09-22 | Laravel package for Google Analytics (Gtag) with database-ba... |
+| [jeffersongoncalves/laravel-gtm](https://github.com/jeffersongoncalves/laravel-gtm) | 4 | 2026-09-22 | Laravel package for Google Tag Manager (GTM) integration wit... |
+| [jeffersongoncalves/laravel-knowledge-base](https://github.com/jeffersongoncalves/laravel-knowledge-base) | 5 | 2026-09-22 | A Laravel package for building knowledge bases with articles... |
+| [jeffersongoncalves/laravel-matomo](https://github.com/jeffersongoncalves/laravel-matomo) | 3 | 2026-09-22 | A Laravel package that integrates Matomo Analytics tracking ... |
+| [jeffersongoncalves/laravel-metrics-fathom](https://github.com/jeffersongoncalves/laravel-metrics-fathom) | 2 | 2026-09-22 | Laravel package to interact with Fathom Analytics API - fetc... |
+| [jeffersongoncalves/laravel-metrics-matomo](https://github.com/jeffersongoncalves/laravel-metrics-matomo) | 4 | 2026-09-22 | Laravel package to interact with Matomo Analytics Reporting ... |
+| [jeffersongoncalves/laravel-mixpanel](https://github.com/jeffersongoncalves/laravel-mixpanel) | 1 | 2026-09-22 | Laravel package to seamlessly integrate Mixpanel JavaScript ... |
+| [jeffersongoncalves/laravel-pixel](https://github.com/jeffersongoncalves/laravel-pixel) | 4 | 2026-09-22 | Laravel package to integrate Meta (Facebook) Pixel with dyna... |
+| [jeffersongoncalves/laravel-plausible](https://github.com/jeffersongoncalves/laravel-plausible) | 2 | 2026-09-22 | A lightweight Laravel package that integrates Plausible Anal... |
+| [jeffersongoncalves/laravel-umami](https://github.com/jeffersongoncalves/laravel-umami) | 5 | 2026-09-22 | Laravel package to integrate Umami analytics into Blade temp... |
+| [jeffersongoncalves/laravel-pwa-service-worker](https://github.com/jeffersongoncalves/laravel-pwa-service-worker) | 1 | 2026-09-22 | Serve a versioned PWA service worker at /sw.js from Blade — ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-22T21:27 | 2 | 1721 | 6538 |
 | 2026-09-22T17:03 | 4 | 1717 | 6536 |
 | 2026-09-22T11:50 | 5 | 1719 | 6533 |
 | 2026-09-22T05:08 | 3 | 1720 | 6528 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-20T20:55 | 5 | 1720 | 6495 |
 | 2026-09-20T16:15 | 4 | 1721 | 6491 |
 | 2026-09-20T11:35 | 4 | 1721 | 6489 |
-| 2026-09-20T05:01 | 2 | 1721 | 6488 |
 
 ---
 

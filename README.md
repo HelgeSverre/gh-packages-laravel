@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6533  
-**Last updated:** 2026-09-22T11:50:00.333Z
+**Total packages tracked:** 6536  
+**Last updated:** 2026-09-22T17:03:26.102Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | UniMarket - a campus marketplace where verified university students buy, sell an... |
+| [automoveisconfiaveis/package-laravel-dynamodb](https://github.com/automoveisconfiaveis/package-laravel-dynamodb) | 1 |  |
+| [Ibracilinks/OrangeMoney](https://github.com/Ibracilinks/OrangeMoney) | 12 | A laravel package for Orange Money Web Payment API. |
+| [devroid-roo/openid-azure-token](https://github.com/devroid-roo/openid-azure-token) | 0 | A lightweight Laravel package for Azure Entra ID (OpenID Connect) authentication... |
 | [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | A Laravel library for attaching files to Eloquent models. |
 | [laratribe/laravel-advanced-filters](https://github.com/laratribe/laravel-advanced-filters) | 0 | Advanced column filtering for Eloquent models. Text, numeric, date and set filte... |
 | [wovosoft/laravel-package-make-commands](https://github.com/wovosoft/laravel-package-make-commands) | 0 | Laravel make:* commands for package development |
@@ -22,13 +26,9 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 6,146 Tabler SVG icons for Laravel, outline and filled, served through the Ichav... |
 | [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Sourced from lipis/flag-ic... |
 | [lsnepomuceno/laravel-autentique](https://github.com/lsnepomuceno/laravel-autentique) | 0 | A Laravel client for the Autentique GraphQL API v2: documents, signers, folders,... |
-| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 0 | The shared base of a Laravel admin app as one updatable package: sign-in, users,... |
+| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 1 | The shared base of a Laravel admin app as one updatable package: sign-in, users,... |
 | [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | Scaffolds Ichava icon packages: one command, a token-substituted stub tree, and ... |
 | [Chargily/chargily-pay-php](https://github.com/Chargily/chargily-pay-php) | 17 | PHP Package of Chargily Pay™, the easiest and free way to integrate e-payment AP... |
-| [KalimeroMK/Halk](https://github.com/KalimeroMK/Halk) | 15 | Integrate Halkbank's online payment gateway seamlessly into your Laravel applica... |
-| [KalimeroMK/FacebookPost](https://github.com/KalimeroMK/FacebookPost) | 1 | This package allow to create, update, delete and get posts from facebook page in... |
-| [KalimeroMK/nbrm](https://github.com/KalimeroMK/nbrm) | 1 | This package provides seamless integration with the web service of the National ... |
-| [KalimeroMK/postal-tracking-package](https://github.com/KalimeroMK/postal-tracking-package) | 2 | A lightweight PHP library for tracking postal shipments from Posta na Severna Ma... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-09-22 | Type-safe fluent validation rule builders for Laravel, plus ... |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-09-22 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-09-22 | PDF rendering for Laravel behind a capability-checked driver... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-22 | Runtime base library for building Laravel packages: fluent P... |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-09-22 | Laravel package scaffolder: generate complete, convention-re... |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-22 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [laratribe/laravel-advanced-filters](https://github.com/laratribe/laravel-advanced-filters) | 0 | 2026-09-22 | Advanced column filtering for Eloquent models. Text, numeric... |
-| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-09-22 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
-| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-09-22 | Laravel user impersonation with scoped modes, audit trails, ... |
-| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-09-22 | A framework-agnostic web UI for editing .env: JSON API and t... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-09-22 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-09-22 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
-| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-09-22 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
-| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-09-22 | A modular Laravel package suite for building production-read... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-22 | The Moox Project - Packages for Filament and Laravel |
-| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-22 | The core of Robot Council, a coordination service for fleets... |
+| [niravpatel143/laravel-smart-ocr-package](https://github.com/niravpatel143/laravel-smart-ocr-package) | 5 | 2026-09-22 | laravel-smart-ocr-package |
+| [automoveisconfiaveis/package-laravel-dynamodb](https://github.com/automoveisconfiaveis/package-laravel-dynamodb) | 1 | 2026-09-22 |  |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-09-22 | Laravel-based API for storing sensor data from distributed n... |
+| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-09-22 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
+| [ardhikaxx/ppak-feb-unesa](https://github.com/ardhikaxx/ppak-feb-unesa) | 0 | 2026-09-22 | Website profil resmi Pendidikan Profesi Akuntan (PPAk) Fakul... |
+| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-09-22 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
 | [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-09-22 | Package analytics laravel + livewire |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-22 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-09-22 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
-| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-09-22 | Scaffolds Ichava icon packages: one command, a token-substit... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-22 | Automated code analysis for Laravel applications with 73 com... |
+| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 1 | 2026-09-22 | The shared base of a Laravel admin app as one updatable pack... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-22 | A multi-purpose content and application platform for Laravel... |
+| [amdad121/fcm-laravel](https://github.com/amdad121/fcm-laravel) | 1 | 2026-09-22 | A simple, lightweight, fast Firebase Cloud Messaging (FCM) n... |
+| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-22 | The core of Robot Council, a coordination service for fleets... |
+| [serhii-f8/filament-studio](https://github.com/serhii-f8/filament-studio) | 51 | 2026-09-22 | Dynamic data model manager for Filament — EAV storage, 33 fi... |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-22 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [Laracoper/my-microservices-app](https://github.com/Laracoper/my-microservices-app) | 1 | 2026-09-22 | Микросервисная ИИ-платформа для конфиденциального анализа ко... |
+| [gabrielesbaiz/password-toolkit](https://github.com/gabrielesbaiz/password-toolkit) | 0 | 2026-09-22 | A lightweight helper package to generate nice passwords. |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-09-22 | [READ ONLY] API Platform for Laravel |
+| [abolaradev/package-skeleton-laravel-livewire](https://github.com/abolaradev/package-skeleton-laravel-livewire) | 0 | 2026-09-22 | A customized Laravel package skeleton with Livewire, Blade c... |
+| [mindtwo/laravel-auto-translatable](https://github.com/mindtwo/laravel-auto-translatable) | 0 | 2026-09-22 | AI-powered translation package for Laravel with smart markdo... |
+| [GrafiteInc/Forms](https://github.com/GrafiteInc/Forms) | 37 | 2026-09-22 | Form Classes for Laravel - letting you generate HTML forms f... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-22T17:03 | 4 | 1717 | 6536 |
 | 2026-09-22T11:50 | 5 | 1719 | 6533 |
 | 2026-09-22T05:08 | 3 | 1720 | 6528 |
 | 2026-09-21T22:02 | 12 | 1711 | 6525 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-20T16:15 | 4 | 1721 | 6491 |
 | 2026-09-20T11:35 | 4 | 1721 | 6489 |
 | 2026-09-20T05:01 | 2 | 1721 | 6488 |
-| 2026-09-19T20:49 | 1 | 1721 | 6486 |
 
 ---
 

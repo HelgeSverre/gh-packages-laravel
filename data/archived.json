@@ -1742,5 +1742,27 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-09-21T13:00:06.678Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "antranix/template_laravel_flowbite": {
+    "name": "antranix/template_laravel_flowbite",
+    "url": "https://github.com/antranix/template_laravel_flowbite",
+    "description": "Template Laravel Flowbite",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "flowbite",
+      "laravel",
+      "livewire",
+      "php",
+      "template"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-09-21T15:34:35Z",
+    "updated_at": "2026-01-10T19:00:54Z",
+    "pushed_at": "2025-09-22T14:40:32Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-09-22T17:03:26.067Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6528  
-**Last updated:** 2026-09-22T05:08:43.616Z
+**Total packages tracked:** 6533  
+**Last updated:** 2026-09-22T11:50:00.333Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | A Laravel library for attaching files to Eloquent models. |
+| [laratribe/laravel-advanced-filters](https://github.com/laratribe/laravel-advanced-filters) | 0 | Advanced column filtering for Eloquent models. Text, numeric, date and set filte... |
+| [wovosoft/laravel-package-make-commands](https://github.com/wovosoft/laravel-package-make-commands) | 0 | Laravel make:* commands for package development |
+| [MacAlistair1/Nepali-Date-Converter](https://github.com/MacAlistair1/Nepali-Date-Converter) | 0 | A lightweight and framework-ready Laravel package for converting and working wit... |
+| [Code-Sphere-Development/oauth](https://github.com/Code-Sphere-Development/oauth) | 0 | Laravel package: OAuth2 client for CodeSphere Accounts SSO - authorization-code ... |
 | [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Livewire 3 + Filament ... |
 | [Fredrumond/pm_helper](https://github.com/Fredrumond/pm_helper) | 1 | Assistente de discovery para Product Managers: entrevista guiada e geração de ca... |
 | [ardhikaxx/ppak-feb-unesa](https://github.com/ardhikaxx/ppak-feb-unesa) | 0 | Website profil resmi Pendidikan Profesi Akuntan (PPAk) Fakultas Ekonomika dan Bi... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [KalimeroMK/FacebookPost](https://github.com/KalimeroMK/FacebookPost) | 1 | This package allow to create, update, delete and get posts from facebook page in... |
 | [KalimeroMK/nbrm](https://github.com/KalimeroMK/nbrm) | 1 | This package provides seamless integration with the web service of the National ... |
 | [KalimeroMK/postal-tracking-package](https://github.com/KalimeroMK/postal-tracking-package) | 2 | A lightweight PHP library for tracking postal shipments from Posta na Severna Ma... |
-| [schmeits/filament-character-counter](https://github.com/schmeits/filament-character-counter) | 34 | This is a Filament PHP character counter TextField and Textarea form field for F... |
-| [na2axl/laravel-api-flow](https://github.com/na2axl/laravel-api-flow) | 0 | Server-driven multi-step API flows for Laravel — declare steps as a state machin... |
-| [ArvidDeJong/laravel-google-translate](https://github.com/ArvidDeJong/laravel-google-translate) | 0 | Translate text, HTML and Eloquent models in Laravel with the Google Cloud Transl... |
-| [ArvidDeJong/livewire-inline-translation](https://github.com/ArvidDeJong/livewire-inline-translation) | 0 | Edit translations inline on the page: an authorised user clicks the text, a moda... |
-| [ArvidDeJong/snelstart](https://github.com/ArvidDeJong/snelstart) | 0 | Laravel client for the SnelStart B2B API v2 (Dutch accounting software): client ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -45,7 +45,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 464 | A simple package to help integrate Cloudflare Turnstile. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 463 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 464 | Open Source Laravel CRM Package |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-09-22 | Generic Laravel article campaign domain engine, policies, di... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-22 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-22 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-22 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-09-22 | Laravel package providing polymorphic image management with ... |
-| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-09-22 | Utility package for Laravel including Transformable proxies ... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-22 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [andydefer/laravel-reports](https://github.com/andydefer/laravel-reports) | 0 | 2026-09-22 | Package Laravel de signalement polymorphique avec pattern Re... |
-| [blocs/admin](https://github.com/blocs/admin) | 2 | 2026-09-22 | Laravel BLOCS admin panel package |
-| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-09-22 | Toth is a Laravel package for database backup and snapshot m... |
-| [ardhikaxx/ppak-feb-unesa](https://github.com/ardhikaxx/ppak-feb-unesa) | 0 | 2026-09-22 | Website profil resmi Pendidikan Profesi Akuntan (PPAk) Fakul... |
-| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 0 | 2026-09-22 | The shared base of a Laravel admin app as one updatable pack... |
-| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-09-22 | Laravel package for Firebase Cloud Messaging notifications i... |
-| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-09-22 | Laravel package providing OTP (One-Time Password) management... |
-| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-09-22 | Laravel package providing polymorphic comments with Reposito... |
-| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-09-22 | Laravel package providing polymorphic reactions (like, love,... |
-| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-09-22 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
+| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-09-22 | Type-safe fluent validation rule builders for Laravel, plus ... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-09-22 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-09-22 | PDF rendering for Laravel behind a capability-checked driver... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-22 | Runtime base library for building Laravel packages: fluent P... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-09-22 | Laravel package scaffolder: generate complete, convention-re... |
 | [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-22 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-09-22 | Laravel package for interacting with Traccar api |
-| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 0 | 2026-09-22 | ShieldCI Analyzer Core - Shared foundation for building stat... |
+| [laratribe/laravel-advanced-filters](https://github.com/laratribe/laravel-advanced-filters) | 0 | 2026-09-22 | Advanced column filtering for Eloquent models. Text, numeric... |
+| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-09-22 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
+| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-09-22 | Laravel user impersonation with scoped modes, audit trails, ... |
+| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-09-22 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-09-22 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-09-22 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
+| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-09-22 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
+| [nicolasvlachos/nvl-laravel-suite](https://github.com/nicolasvlachos/nvl-laravel-suite) | 0 | 2026-09-22 | A modular Laravel package suite for building production-read... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-09-22 | The Moox Project - Packages for Filament and Laravel |
+| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-22 | The core of Robot Council, a coordination service for fleets... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-09-22 | Package analytics laravel + livewire |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-22 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-09-22 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
+| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-09-22 | Scaffolds Ichava icon packages: one command, a token-substit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-22T11:50 | 5 | 1719 | 6533 |
 | 2026-09-22T05:08 | 3 | 1720 | 6528 |
 | 2026-09-21T22:02 | 12 | 1711 | 6525 |
 | 2026-09-21T13:00 | 14 | 1711 | 6513 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-20T11:35 | 4 | 1721 | 6489 |
 | 2026-09-20T05:01 | 2 | 1721 | 6488 |
 | 2026-09-19T20:49 | 1 | 1721 | 6486 |
-| 2026-09-19T15:57 | 2 | 1719 | 6485 |
 
 ---
 

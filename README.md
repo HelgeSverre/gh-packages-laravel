@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6538  
-**Last updated:** 2026-09-22T21:27:21.172Z
+**Total packages tracked:** 6541  
+**Last updated:** 2026-09-23T04:53:13.961Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeremykenedy/laravel-packagist](https://github.com/jeremykenedy/laravel-packagist) | 6 | An easy way to get vendor and package data from Packagist via API calls |
+| [jeremykenedy/laravel-phpinfo](https://github.com/jeremykenedy/laravel-phpinfo) | 46 | Laravel PHP Info is a package that provides a PHPInfo() page using blade templat... |
+| [zachary/laravel-okta-oidc](https://github.com/zachary/laravel-okta-oidc) | 0 | laravel package for okta oidc middleware |
 | [PanOleg/fitout-rfq-assistant](https://github.com/PanOleg/fitout-rfq-assistant) | 0 | Fit-out BoQ → trade packages → supplier RFQs. Claude reads, deterministic code c... |
 | [coding-socks/lost-in-translation](https://github.com/coding-socks/lost-in-translation) | 9 | This package helps to find missing translation strings in your Laravel blade fil... |
 | [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | UniMarket - a campus marketplace where verified university students buy, sell an... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [AmirGjzh/Planner](https://github.com/AmirGjzh/Planner) | 2 | A personal task planner built with Laravel and Livewire for organizing tasks, tr... |
 | [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji color, OpenMoji bla... |
 | [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 6,146 Tabler SVG icons for Laravel, outline and filled, served through the Ichav... |
-| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Sourced from lipis/flag-ic... |
-| [lsnepomuceno/laravel-autentique](https://github.com/lsnepomuceno/laravel-autentique) | 0 | A Laravel client for the Autentique GraphQL API v2: documents, signers, folders,... |
-| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 1 | The shared base of a Laravel admin app as one updatable package: sign-in, users,... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/laravel-cms](https://github.com/jeffersongoncalves/laravel-cms) | 2 | 2026-09-22 | Laravel CMS (pages, posts, categories, tags, comments, media... |
-| [codebar-ag/laravel-miro](https://github.com/codebar-ag/laravel-miro) | 0 | 2026-09-22 | A package for Miro |
-| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-22 | The core of Robot Council, a coordination service for fleets... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-22 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [RobertBoes/patchbay](https://github.com/RobertBoes/patchbay) | 1 | 2026-09-22 | Dynamic Laravel Reverb applications. Keep your WebSocket app... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-09-22 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [jeffersongoncalves/laravel-created-by](https://github.com/jeffersongoncalves/laravel-created-by) | 3 | 2026-09-22 | This Laravel package automatically logs the currently logged... |
-| [jeffersongoncalves/laravel-fake-cartoons](https://github.com/jeffersongoncalves/laravel-fake-cartoons) | 6 | 2026-09-22 | This Laravel package provides a Faker provider to generate f... |
-| [jeffersongoncalves/laravel-fathom](https://github.com/jeffersongoncalves/laravel-fathom) | 2 | 2026-09-22 | Laravel package to integrate Fathom Analytics with database-... |
-| [jeffersongoncalves/laravel-gtag](https://github.com/jeffersongoncalves/laravel-gtag) | 2 | 2026-09-22 | Laravel package for Google Analytics (Gtag) with database-ba... |
-| [jeffersongoncalves/laravel-gtm](https://github.com/jeffersongoncalves/laravel-gtm) | 4 | 2026-09-22 | Laravel package for Google Tag Manager (GTM) integration wit... |
-| [jeffersongoncalves/laravel-knowledge-base](https://github.com/jeffersongoncalves/laravel-knowledge-base) | 5 | 2026-09-22 | A Laravel package for building knowledge bases with articles... |
-| [jeffersongoncalves/laravel-matomo](https://github.com/jeffersongoncalves/laravel-matomo) | 3 | 2026-09-22 | A Laravel package that integrates Matomo Analytics tracking ... |
-| [jeffersongoncalves/laravel-metrics-fathom](https://github.com/jeffersongoncalves/laravel-metrics-fathom) | 2 | 2026-09-22 | Laravel package to interact with Fathom Analytics API - fetc... |
-| [jeffersongoncalves/laravel-metrics-matomo](https://github.com/jeffersongoncalves/laravel-metrics-matomo) | 4 | 2026-09-22 | Laravel package to interact with Matomo Analytics Reporting ... |
-| [jeffersongoncalves/laravel-mixpanel](https://github.com/jeffersongoncalves/laravel-mixpanel) | 1 | 2026-09-22 | Laravel package to seamlessly integrate Mixpanel JavaScript ... |
-| [jeffersongoncalves/laravel-pixel](https://github.com/jeffersongoncalves/laravel-pixel) | 4 | 2026-09-22 | Laravel package to integrate Meta (Facebook) Pixel with dyna... |
-| [jeffersongoncalves/laravel-plausible](https://github.com/jeffersongoncalves/laravel-plausible) | 2 | 2026-09-22 | A lightweight Laravel package that integrates Plausible Anal... |
-| [jeffersongoncalves/laravel-umami](https://github.com/jeffersongoncalves/laravel-umami) | 5 | 2026-09-22 | Laravel package to integrate Umami analytics into Blade temp... |
-| [jeffersongoncalves/laravel-pwa-service-worker](https://github.com/jeffersongoncalves/laravel-pwa-service-worker) | 1 | 2026-09-22 | Serve a versioned PWA service worker at /sw.js from Blade — ... |
+| [jeffersongoncalves/filament-teams](https://github.com/jeffersongoncalves/filament-teams) | 3 | 2026-09-23 | A Filament plugin that adds multi-tenancy with Teams, member... |
+| [jeffersongoncalves/filament-testimonial](https://github.com/jeffersongoncalves/filament-testimonial) | 1 | 2026-09-23 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-test... |
+| [jeffersongoncalves/filament-translatable](https://github.com/jeffersongoncalves/filament-translatable) | 2 | 2026-09-23 | Enhanced Filament plugin for spatie/laravel-translatable wit... |
+| [jeffersongoncalves/filament-queue-management](https://github.com/jeffersongoncalves/filament-queue-management) | 2 | 2026-09-23 | A Filament plugin to manage Laravel's database queue tables ... |
+| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | 2026-09-23 | Olsyn Asset Library control plane and PrismFS monorepo |
+| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-23 | The core of Robot Council, a coordination service for fleets... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-09-23 | A practical work management information system built with La... |
+| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 25 | 2026-09-23 | Laritor is a Laravel-native observability platform that help... |
+| [jeffersongoncalves/filament-whatsapp-widget](https://github.com/jeffersongoncalves/filament-whatsapp-widget) | 12 | 2026-09-23 | This Filament package provides a simple yet customizable Wha... |
+| [jeffersongoncalves/filament-umami](https://github.com/jeffersongoncalves/filament-umami) | 4 | 2026-09-23 | Filament plugin for Umami analytics — tracking script inject... |
+| [jeffersongoncalves/filament-webhooks](https://github.com/jeffersongoncalves/filament-webhooks) | 4 | 2026-09-23 | Filament plugin to manage outgoing webhooks (jeffersongoncal... |
+| [jeffersongoncalves/filament-service-desk](https://github.com/jeffersongoncalves/filament-service-desk) | 18 | 2026-09-23 | Filament plugin for complete service desk management — Admin... |
+| [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 3 | 2026-09-23 | Filament admin resource for jeffersongoncalves/laravel-short... |
+| [jeffersongoncalves/filament-satis](https://github.com/jeffersongoncalves/filament-satis) | 8 | 2026-09-23 | Filament plugin for managing private Composer repositories p... |
+| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 4 | 2026-09-23 | Filament plugin to integrate Plausible Analytics with a sett... |
+| [jeffersongoncalves/filament-pixel](https://github.com/jeffersongoncalves/filament-pixel) | 5 | 2026-09-23 | Filament plugin to manage Meta (Facebook) Pixel settings fro... |
+| [jeffersongoncalves/filament-one-time-operations](https://github.com/jeffersongoncalves/filament-one-time-operations) | 2 | 2026-09-23 | This is a Laravel Filament package that provides a One Time ... |
+| [jeffersongoncalves/filament-multifactor-whatsapp](https://github.com/jeffersongoncalves/filament-multifactor-whatsapp) | 17 | 2026-09-23 | Filament 5 multi‑factor authentication via WhatsApp one‑time... |
+| [jeffersongoncalves/filament-newsletter](https://github.com/jeffersongoncalves/filament-newsletter) | 4 | 2026-09-23 | Filament plugin for composing, scheduling and sending double... |
+| [jeffersongoncalves/filament-page-visits](https://github.com/jeffersongoncalves/filament-page-visits) | 4 | 2026-09-23 | Filament admin resource for jeffersongoncalves/laravel-page-... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-23T04:53 | 3 | 1719 | 6541 |
 | 2026-09-22T21:27 | 2 | 1721 | 6538 |
 | 2026-09-22T17:03 | 4 | 1717 | 6536 |
 | 2026-09-22T11:50 | 5 | 1719 | 6533 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-21T05:07 | 5 | 1721 | 6500 |
 | 2026-09-20T20:55 | 5 | 1720 | 6495 |
 | 2026-09-20T16:15 | 4 | 1721 | 6491 |
-| 2026-09-20T11:35 | 4 | 1721 | 6489 |
 
 ---
 

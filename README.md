@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6541  
-**Last updated:** 2026-09-23T04:53:13.961Z
+**Total packages tracked:** 6545  
+**Last updated:** 2026-09-23T11:49:34.419Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [azuvicenna/simdoku](https://github.com/azuvicenna/simdoku) | 0 | Sistem Informasi Manajemen Dokumen |
+| [saroven/laravel-reportify](https://github.com/saroven/laravel-reportify) | 3 | Unified, queue-driven document and report export engine for Laravel. Stream or e... |
+| [AHS12/laravel-setanjo](https://github.com/AHS12/laravel-setanjo) | 8 | Laravel settings package for managing application configurations, user preferenc... |
+| [mgamalhz/laravel-paymob](https://github.com/mgamalhz/laravel-paymob) | 0 | laravel  package for easy integration with paymob payment gateway |
 | [jeremykenedy/laravel-packagist](https://github.com/jeremykenedy/laravel-packagist) | 6 | An easy way to get vendor and package data from Packagist via API calls |
 | [jeremykenedy/laravel-phpinfo](https://github.com/jeremykenedy/laravel-phpinfo) | 46 | Laravel PHP Info is a package that provides a PHPInfo() page using blade templat... |
 | [zachary/laravel-okta-oidc](https://github.com/zachary/laravel-okta-oidc) | 0 | laravel package for okta oidc middleware |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Code-Sphere-Development/oauth](https://github.com/Code-Sphere-Development/oauth) | 0 | Laravel package: OAuth2 client for CodeSphere Accounts SSO - authorization-code ... |
 | [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Livewire 3 + Filament ... |
 | [Fredrumond/pm_helper](https://github.com/Fredrumond/pm_helper) | 1 | Assistente de discovery para Product Managers: entrevista guiada e geração de ca... |
-| [ardhikaxx/ppak-feb-unesa](https://github.com/ardhikaxx/ppak-feb-unesa) | 0 | Website profil resmi Pendidikan Profesi Akuntan (PPAk) Fakultas Ekonomika dan Bi... |
-| [AmirGjzh/Planner](https://github.com/AmirGjzh/Planner) | 2 | A personal task planner built with Laravel and Livewire for organizing tasks, tr... |
-| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji color, OpenMoji bla... |
-| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 6,146 Tabler SVG icons for Laravel, outline and filled, served through the Ichav... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/filament-teams](https://github.com/jeffersongoncalves/filament-teams) | 3 | 2026-09-23 | A Filament plugin that adds multi-tenancy with Teams, member... |
-| [jeffersongoncalves/filament-testimonial](https://github.com/jeffersongoncalves/filament-testimonial) | 1 | 2026-09-23 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-test... |
-| [jeffersongoncalves/filament-translatable](https://github.com/jeffersongoncalves/filament-translatable) | 2 | 2026-09-23 | Enhanced Filament plugin for spatie/laravel-translatable wit... |
-| [jeffersongoncalves/filament-queue-management](https://github.com/jeffersongoncalves/filament-queue-management) | 2 | 2026-09-23 | A Filament plugin to manage Laravel's database queue tables ... |
-| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | 2026-09-23 | Olsyn Asset Library control plane and PrismFS monorepo |
-| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-23 | The core of Robot Council, a coordination service for fleets... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-09-23 | A practical work management information system built with La... |
-| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 25 | 2026-09-23 | Laritor is a Laravel-native observability platform that help... |
-| [jeffersongoncalves/filament-whatsapp-widget](https://github.com/jeffersongoncalves/filament-whatsapp-widget) | 12 | 2026-09-23 | This Filament package provides a simple yet customizable Wha... |
-| [jeffersongoncalves/filament-umami](https://github.com/jeffersongoncalves/filament-umami) | 4 | 2026-09-23 | Filament plugin for Umami analytics — tracking script inject... |
-| [jeffersongoncalves/filament-webhooks](https://github.com/jeffersongoncalves/filament-webhooks) | 4 | 2026-09-23 | Filament plugin to manage outgoing webhooks (jeffersongoncal... |
-| [jeffersongoncalves/filament-service-desk](https://github.com/jeffersongoncalves/filament-service-desk) | 18 | 2026-09-23 | Filament plugin for complete service desk management — Admin... |
-| [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 3 | 2026-09-23 | Filament admin resource for jeffersongoncalves/laravel-short... |
-| [jeffersongoncalves/filament-satis](https://github.com/jeffersongoncalves/filament-satis) | 8 | 2026-09-23 | Filament plugin for managing private Composer repositories p... |
-| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 4 | 2026-09-23 | Filament plugin to integrate Plausible Analytics with a sett... |
-| [jeffersongoncalves/filament-pixel](https://github.com/jeffersongoncalves/filament-pixel) | 5 | 2026-09-23 | Filament plugin to manage Meta (Facebook) Pixel settings fro... |
-| [jeffersongoncalves/filament-one-time-operations](https://github.com/jeffersongoncalves/filament-one-time-operations) | 2 | 2026-09-23 | This is a Laravel Filament package that provides a One Time ... |
-| [jeffersongoncalves/filament-multifactor-whatsapp](https://github.com/jeffersongoncalves/filament-multifactor-whatsapp) | 17 | 2026-09-23 | Filament 5 multi‑factor authentication via WhatsApp one‑time... |
-| [jeffersongoncalves/filament-newsletter](https://github.com/jeffersongoncalves/filament-newsletter) | 4 | 2026-09-23 | Filament plugin for composing, scheduling and sending double... |
+| [jeffersongoncalves/filament-cms](https://github.com/jeffersongoncalves/filament-cms) | 2 | 2026-09-23 | Filament plugin bundling the full Laravel CMS ecosystem (pag... |
 | [jeffersongoncalves/filament-page-visits](https://github.com/jeffersongoncalves/filament-page-visits) | 4 | 2026-09-23 | Filament admin resource for jeffersongoncalves/laravel-page-... |
+| [jeffersongoncalves/helpdeskkitv4](https://github.com/jeffersongoncalves/helpdeskkitv4) | 6 | 2026-09-23 | HelpDesk starter kit built on Laravel 13.x and Filament 4.x ... |
+| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 12 | 2026-09-23 | Filament plugin for Help Desk ticket management — User, Oper... |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-09-23 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
+| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 5 | 2026-09-23 | A Laravel package for creating and redirecting short URLs, w... |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-23 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-09-23 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [jeffersongoncalves/laravel-how-it-works](https://github.com/jeffersongoncalves/laravel-how-it-works) | 1 | 2026-09-23 | A Laravel package for managing 'how it works' steps with tra... |
+| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-23 | The core of Robot Council, a coordination service for fleets... |
+| [jeffersongoncalves/laravel-pwa-service-worker](https://github.com/jeffersongoncalves/laravel-pwa-service-worker) | 1 | 2026-09-23 | Serve a versioned PWA service worker at /sw.js from Blade — ... |
+| [jeffersongoncalves/filament-plugin-cli](https://github.com/jeffersongoncalves/filament-plugin-cli) | 1 | 2026-09-23 | Scaffold new open-source Filament plugins with multi-branch ... |
+| [jeffersongoncalves/laravel-calendly](https://github.com/jeffersongoncalves/laravel-calendly) | 1 | 2026-09-23 | A lightweight Calendly REST API client for Laravel. |
+| [jeffersongoncalves/laravel-google-ads](https://github.com/jeffersongoncalves/laravel-google-ads) | 1 | 2026-09-23 | A lightweight Google Ads API client for Laravel — GAQL searc... |
+| [jeffersongoncalves/laravel-html-sanitizer](https://github.com/jeffersongoncalves/laravel-html-sanitizer) | 1 | 2026-09-23 | Sanitize untrusted HTML (READMEs, user content) — strip scri... |
+| [jeffersongoncalves/laravel-pwa-favicon](https://github.com/jeffersongoncalves/laravel-pwa-favicon) | 3 | 2026-09-23 | Serve a PWA manifest, browserconfig and favicons (512 + mask... |
+| [jeffersongoncalves/filament-knowledge-base](https://github.com/jeffersongoncalves/filament-knowledge-base) | 10 | 2026-09-23 | Filament plugin for Knowledge Base management with Admin, Us... |
+| [jeffersongoncalves/laravel-cep](https://github.com/jeffersongoncalves/laravel-cep) | 3 | 2026-09-23 | A simple and efficient PHP package for querying Brazilian po... |
+| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-09-23 | A Filament plugin to add markdown-based documentation to you... |
+| [jeffersongoncalves/laravel-google-search-console](https://github.com/jeffersongoncalves/laravel-google-search-console) | 2 | 2026-09-23 | A lightweight Google Search Console API client for Laravel —... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-23T11:49 | 4 | 1716 | 6545 |
 | 2026-09-23T04:53 | 3 | 1719 | 6541 |
 | 2026-09-22T21:27 | 2 | 1721 | 6538 |
 | 2026-09-22T17:03 | 4 | 1717 | 6536 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-21T13:00 | 14 | 1711 | 6513 |
 | 2026-09-21T05:07 | 5 | 1721 | 6500 |
 | 2026-09-20T20:55 | 5 | 1720 | 6495 |
-| 2026-09-20T16:15 | 4 | 1721 | 6491 |
 
 ---
 

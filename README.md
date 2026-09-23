@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6550  
-**Last updated:** 2026-09-23T17:13:45.457Z
+**Total packages tracked:** 6554  
+**Last updated:** 2026-09-23T21:35:26.337Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [zhoorta/multi-shelter-manager](https://github.com/zhoorta/multi-shelter-manager) | 0 | Open-source web app for animal shelters. Several shelters share one platform wit... |
+| [imaginarts/FreeSGA](https://github.com/imaginarts/FreeSGA) | 0 | Sistema de Gerenciamento de Atendimento (senhas e filas) open-source em Laravel.... |
+| [vcastroglez/ollama-php-class-commenter](https://github.com/vcastroglez/ollama-php-class-commenter) | 1 | Laravel and Livewire experiment using a local Ollama model to generate PHPDoc co... |
+| [lauroguedes/laravel-demo-mode](https://github.com/lauroguedes/laravel-demo-mode) | 0 | A Laravel package for creating a demo mode or playground where users can test th... |
 | [jeffersongoncalves/filament-amplitude](https://github.com/jeffersongoncalves/filament-amplitude) | 1 | Filament plugin for Amplitude analytics with settings page powered by Spatie Lar... |
 | [jeffersongoncalves/filament-hotjar](https://github.com/jeffersongoncalves/filament-hotjar) | 1 | Filament plugin for Hotjar with settings page powered by Spatie Laravel Settings |
 | [jeffersongoncalves/filament-metrics-plausible](https://github.com/jeffersongoncalves/filament-metrics-plausible) | 1 | Plausible Analytics dashboard widgets for Filament with settings page powered by... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [coding-socks/lost-in-translation](https://github.com/coding-socks/lost-in-translation) | 9 | This package helps to find missing translation strings in your Laravel blade fil... |
 | [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | UniMarket - a campus marketplace where verified university students buy, sell an... |
 | [automoveisconfiaveis/package-laravel-dynamodb](https://github.com/automoveisconfiaveis/package-laravel-dynamodb) | 1 |  |
-| [Ibracilinks/OrangeMoney](https://github.com/Ibracilinks/OrangeMoney) | 12 | A laravel package for Orange Money Web Payment API. |
-| [devroid-roo/openid-azure-token](https://github.com/devroid-roo/openid-azure-token) | 0 | A lightweight Laravel package for Azure Entra ID (OpenID Connect) authentication... |
-| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | A Laravel library for attaching files to Eloquent models. |
-| [laratribe/laravel-advanced-filters](https://github.com/laratribe/laravel-advanced-filters) | 0 | Advanced column filtering for Eloquent models. Text, numeric, date and set filte... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-09-23 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
-| [jeffersongoncalves/filament-knowledge-base](https://github.com/jeffersongoncalves/filament-knowledge-base) | 10 | 2026-09-23 | Filament plugin for Knowledge Base management with Admin, Us... |
-| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-09-23 | A Filament plugin to add markdown-based documentation to you... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-09-23 | ServiceDesk starter kit built on Laravel 12.x and Filament 3... |
-| [jeffersongoncalves/helpdeskkitv4](https://github.com/jeffersongoncalves/helpdeskkitv4) | 6 | 2026-09-23 | HelpDesk starter kit built on Laravel 13.x and Filament 4.x ... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 2 | 2026-09-23 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 10 | 2026-09-23 | MFAKit starter kit built on Laravel 12.x and Filament 4.x wi... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 11 | 2026-09-23 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [jeffersongoncalves/evolutionkitv4](https://github.com/jeffersongoncalves/evolutionkitv4) | 10 | 2026-09-23 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-09-23 | EvolutionKit starter kit built on Laravel 12.x and Filament ... |
-| [jeffersongoncalves/mfakitv5](https://github.com/jeffersongoncalves/mfakitv5) | 3 | 2026-09-23 | MFAKit starter kit built on Laravel 12.x and Filament 5.x wi... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-09-23 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 360 | 2026-09-23 | Gorgeous shadcn inspired UI library for laravel blade using ... |
+| [YasserElgammal/laravel-tamara](https://github.com/YasserElgammal/laravel-tamara) | 3 | 2026-09-23 | Package for laravel helps developers to easily integration w... |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-23 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
 | [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-23 | The core of Robot Council, a coordination service for fleets... |
-| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 2 | 2026-09-23 | HelpDesk starter kit built on Laravel 12.x and Filament 3.x ... |
-| [jeffersongoncalves/nativekitv4](https://github.com/jeffersongoncalves/nativekitv4) | 5 | 2026-09-23 | NativeKit starter kit built on Laravel 12.x, Filament 4.x an... |
-| [jeffersongoncalves/mobilekitv4](https://github.com/jeffersongoncalves/mobilekitv4) | 15 | 2026-09-23 | MobileKit starter kit built on Laravel 12.x, Filament 4.x an... |
-| [jeffersongoncalves/filament-fathom](https://github.com/jeffersongoncalves/filament-fathom) | 3 | 2026-09-23 | Filament plugin for Fathom analytics with a built-in setting... |
-| [jeffersongoncalves/filament-multifactor-passkeys](https://github.com/jeffersongoncalves/filament-multifactor-passkeys) | 8 | 2026-09-23 | Filament 5 multi-factor authentication via WebAuthn passkeys... |
-| [laraneat/modules](https://github.com/laraneat/modules) | 1 | 2026-09-23 | This package is part of the Laraneat framework |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-09-23 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-23 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 6 | 2026-09-23 | Filament v5 plugin exposing Livewire Flux Pro components — D... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-23 | Integrate Mixpanel analytics into Filament projects to track... |
+| [quasarstream/shaka-php](https://github.com/quasarstream/shaka-php) | 91 | 2026-09-23 | 🎞 Shaka PHP is a library that uses Shaka Packager for DASH ... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-23 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-23 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [BBS-Lab/laravel-password-rotation](https://github.com/BBS-Lab/laravel-password-rotation) | 1 | 2026-09-23 | Force any Laravel authenticatable to rotate its password eve... |
+| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-09-23 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-09-23 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 2 | 2026-09-23 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
+| [StoryKode/Krubot](https://github.com/StoryKode/Krubot) | 3 | 2026-09-23 | The Ultimate Laravel DX for building Enterprise bot architec... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-09-23 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-23 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-23 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [BBS-Lab/filament-password-rotation](https://github.com/BBS-Lab/filament-password-rotation) | 0 | 2026-09-23 | Password rotation for Filament — forced-change page, reuse p... |
+| [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | 2026-09-23 | UniMarket - a campus marketplace where verified university s... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-23T21:35 | 4 | 1716 | 6554 |
 | 2026-09-23T17:13 | 5 | 1715 | 6550 |
 | 2026-09-23T11:49 | 4 | 1716 | 6545 |
 | 2026-09-23T04:53 | 3 | 1719 | 6541 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-22T05:08 | 3 | 1720 | 6528 |
 | 2026-09-21T22:02 | 12 | 1711 | 6525 |
 | 2026-09-21T13:00 | 14 | 1711 | 6513 |
-| 2026-09-21T05:07 | 5 | 1721 | 6500 |
 
 ---
 

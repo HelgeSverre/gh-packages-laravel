@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6554  
-**Last updated:** 2026-09-23T21:35:26.337Z
+**Total packages tracked:** 6565  
+**Last updated:** 2026-09-24T05:02:23.717Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ahmedkalash/market-pos](https://github.com/ahmedkalash/market-pos) | 0 | A mission-critical, concurrent, multi-store Point of Sale and ERP system designe... |
+| [edwards1978/contabilidad](https://github.com/edwards1978/contabilidad) | 0 | Sistema de contabilidad empresarial multi-empresa, multi-ejercicio fiscal, desar... |
+| [dayCod/laravel-stup-images](https://github.com/dayCod/laravel-stup-images) | 1 | Image uploads for Laravel without tables or migrations. One statement to validat... |
+| [daikazu/bladewind](https://github.com/daikazu/bladewind) | 0 | Per-page CSS for Laravel Blade. Serves each page only the rules it uses, split f... |
+| [hatem-isnaad/limen-ai](https://github.com/hatem-isnaad/limen-ai) | 0 | Laravel AI Agent Framework - reusable package for agents, tools, skills, workflo... |
+| [jiordiviera/inertia-localize-laravel](https://github.com/jiordiviera/inertia-localize-laravel) | 0 | Read-only split of packages/laravel from jiordiviera/inertia-localize, for Packa... |
+| [mikeyperes/laravel-hexa-package-nordvpn](https://github.com/mikeyperes/laravel-hexa-package-nordvpn) | 0 | NordVPN SOCKS5 route package for Hexa (settings, encrypted service credentials, ... |
+| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | Official Laravel package for VeliraPay crypto payments: a facade for the API, an... |
+| [Ahmad-Chebbo/laravel-media-generator](https://github.com/Ahmad-Chebbo/laravel-media-generator) | 0 | A flexible Laravel package for generating and managing media files with Spatie M... |
+| [mortogo321/laravel-notify](https://github.com/mortogo321/laravel-notify) | 1 | Laravel package for sending notifications to Slack, Discord, Telegram, LINE Noti... |
+| [wg-vn/spatie-laravel-settings-ui](https://github.com/wg-vn/spatie-laravel-settings-ui) | 0 | UI for the  spatie/laravel-settings package |
 | [zhoorta/multi-shelter-manager](https://github.com/zhoorta/multi-shelter-manager) | 0 | Open-source web app for animal shelters. Several shelters share one platform wit... |
 | [imaginarts/FreeSGA](https://github.com/imaginarts/FreeSGA) | 0 | Sistema de Gerenciamento de Atendimento (senhas e filas) open-source em Laravel.... |
 | [vcastroglez/ollama-php-class-commenter](https://github.com/vcastroglez/ollama-php-class-commenter) | 1 | Laravel and Livewire experiment using a local Ollama model to generate PHPDoc co... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/filament-metrics-plausible](https://github.com/jeffersongoncalves/filament-metrics-plausible) | 1 | Plausible Analytics dashboard widgets for Filament with settings page powered by... |
 | [laraneat/modules](https://github.com/laraneat/modules) | 1 | This package is part of the Laraneat framework |
 | [daniel-de-wit/laravel-mysql-move-column](https://github.com/daniel-de-wit/laravel-mysql-move-column) | 0 | A Laravel package for simplifying rearranging MySQL database columns |
-| [azuvicenna/simdoku](https://github.com/azuvicenna/simdoku) | 0 | Sistem Informasi Manajemen Dokumen |
-| [saroven/laravel-reportify](https://github.com/saroven/laravel-reportify) | 3 | Unified, queue-driven document and report export engine for Laravel. Stream or e... |
-| [AHS12/laravel-setanjo](https://github.com/AHS12/laravel-setanjo) | 8 | Laravel settings package for managing application configurations, user preferenc... |
-| [mgamalhz/laravel-paymob](https://github.com/mgamalhz/laravel-paymob) | 0 | laravel  package for easy integration with paymob payment gateway |
-| [jeremykenedy/laravel-packagist](https://github.com/jeremykenedy/laravel-packagist) | 6 | An easy way to get vendor and package data from Packagist via API calls |
-| [jeremykenedy/laravel-phpinfo](https://github.com/jeremykenedy/laravel-phpinfo) | 46 | Laravel PHP Info is a package that provides a PHPInfo() page using blade templat... |
-| [zachary/laravel-okta-oidc](https://github.com/zachary/laravel-okta-oidc) | 0 | laravel package for okta oidc middleware |
-| [PanOleg/fitout-rfq-assistant](https://github.com/PanOleg/fitout-rfq-assistant) | 0 | Fit-out BoQ → trade packages → supplier RFQs. Claude reads, deterministic code c... |
-| [coding-socks/lost-in-translation](https://github.com/coding-socks/lost-in-translation) | 9 | This package helps to find missing translation strings in your Laravel blade fil... |
-| [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | UniMarket - a campus marketplace where verified university students buy, sell an... |
-| [automoveisconfiaveis/package-laravel-dynamodb](https://github.com/automoveisconfiaveis/package-laravel-dynamodb) | 1 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -51,7 +51,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 443 | A media picker plugin for Filament Panels. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
-| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 441 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
+| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 440 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 | [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 360 | 2026-09-23 | Gorgeous shadcn inspired UI library for laravel blade using ... |
-| [YasserElgammal/laravel-tamara](https://github.com/YasserElgammal/laravel-tamara) | 3 | 2026-09-23 | Package for laravel helps developers to easily integration w... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 3 | 2026-09-23 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-23 | The core of Robot Council, a coordination service for fleets... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-23 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 6 | 2026-09-23 | Filament v5 plugin exposing Livewire Flux Pro components — D... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-23 | Integrate Mixpanel analytics into Filament projects to track... |
-| [quasarstream/shaka-php](https://github.com/quasarstream/shaka-php) | 91 | 2026-09-23 | 🎞 Shaka PHP is a library that uses Shaka Packager for DASH ... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-23 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-23 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [BBS-Lab/laravel-password-rotation](https://github.com/BBS-Lab/laravel-password-rotation) | 1 | 2026-09-23 | Force any Laravel authenticatable to rotate its password eve... |
-| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-09-23 | Base starter kit built on Laravel 12.x and Filament 3.x with... |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-09-23 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
-| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 2 | 2026-09-23 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
-| [StoryKode/Krubot](https://github.com/StoryKode/Krubot) | 3 | 2026-09-23 | The Ultimate Laravel DX for building Enterprise bot architec... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-09-23 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-23 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-23 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [BBS-Lab/filament-password-rotation](https://github.com/BBS-Lab/filament-password-rotation) | 0 | 2026-09-23 | Password rotation for Filament — forced-change page, reuse p... |
-| [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | 2026-09-23 | UniMarket - a campus marketplace where verified university s... |
+| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-24 | The core of Robot Council, a coordination service for fleets... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-09-24 | A practical work management information system built with La... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-24 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-24 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [admin9-labs/laravel-oidc-server](https://github.com/admin9-labs/laravel-oidc-server) | 4 | 2026-09-24 | Reusable OpenID Connect server extension for Laravel Passpor... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-24 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-24 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [hatem-isnaad/limen-ai](https://github.com/hatem-isnaad/limen-ai) | 0 | 2026-09-24 | Laravel AI Agent Framework - reusable package for agents, to... |
+| [saroven/laravel-reportify](https://github.com/saroven/laravel-reportify) | 3 | 2026-09-24 | Unified, queue-driven document and report export engine for ... |
+| [jairmmz/filamentphp-boilerplate](https://github.com/jairmmz/filamentphp-boilerplate) | 1 | 2026-09-24 | A modern Laravel starter kit with FilamentPHP 5, designed to... |
+| [geyervalmont/olsyn-asset-library](https://github.com/geyervalmont/olsyn-asset-library) | 0 | 2026-09-24 | Olsyn Asset Library control plane and PrismFS monorepo |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-24 | A multi-purpose content and application platform for Laravel... |
+| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-09-24 | Dedicated Instagram account attach, authenticated browser sc... |
+| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-09-24 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
+| [dayCod/laravel-stup-images](https://github.com/dayCod/laravel-stup-images) | 1 | 2026-09-24 | Image uploads for Laravel without tables or migrations. One ... |
+| [builtbyberry/laravel-swarm-mcp](https://github.com/builtbyberry/laravel-swarm-mcp) | 1 | 2026-09-24 | Read-only Model Context Protocol (MCP) server for Laravel Sw... |
+| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 3 | 2026-09-24 | Free, read-only Filament observability panel for Laravel Swa... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-09-24 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [jigar-dhulla/laravel-whatsapp-ai-agent](https://github.com/jigar-dhulla/laravel-whatsapp-ai-agent) | 27 | 2026-09-24 | A Laravel package for building WhatsApp AI agents on top of ... |
+| [itxshakil/laravel-fast2sms](https://github.com/itxshakil/laravel-fast2sms) | 21 | 2026-09-24 | Laravel package for Fast2SMS: SMS, OTP, DLT and WhatsApp wit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-24T05:02 | 11 | 1712 | 6565 |
 | 2026-09-23T21:35 | 4 | 1716 | 6554 |
 | 2026-09-23T17:13 | 5 | 1715 | 6550 |
 | 2026-09-23T11:49 | 4 | 1716 | 6545 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-22T11:50 | 5 | 1719 | 6533 |
 | 2026-09-22T05:08 | 3 | 1720 | 6528 |
 | 2026-09-21T22:02 | 12 | 1711 | 6525 |
-| 2026-09-21T13:00 | 14 | 1711 | 6513 |
 
 ---
 

@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6583  
-**Last updated:** 2026-09-24T18:35:42.995Z
+**Total packages tracked:** 6592  
+**Last updated:** 2026-09-25T01:03:37.160Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-sso-client](https://github.com/jeffersongoncalves/filament-sso-client) | 1 | Filament panel integration for laravel-sso-client: SSO login page, forced IdP re... |
+| [jeffersongoncalves/filament-sso-server](https://github.com/jeffersongoncalves/filament-sso-server) | 1 | Filament plugin to manage clients and active sessions of jeffersongoncalves/lara... |
+| [RishadAlam/folkscript](https://github.com/RishadAlam/folkscript) | 0 | A free, open-source, self-hosted publishing platform built with Laravel and Live... |
+| [elishakhizs/samuelcar](https://github.com/elishakhizs/samuelcar) | 0 | samuel-car  Full-stack Laravel web application for an online car competition, ti... |
+| [jeffersongoncalves/laravel-sso-server](https://github.com/jeffersongoncalves/laravel-sso-server) | 1 | Central SSO identity provider for Laravel: Authorization Code + PKCE, RS256 JWT ... |
+| [mohammedname2002/laravel-payment-gateways](https://github.com/mohammedname2002/laravel-payment-gateways) | 0 | Driver-based payments for Laravel: Stripe, PayPal and WaafiPay behind one API — ... |
+| [jeffersongoncalves/laravel-sso-client](https://github.com/jeffersongoncalves/laravel-sso-client) | 1 | SSO client for Laravel: Authorization Code + PKCE login, RS256/JWKS or HMAC toke... |
+| [Ahmad-Chebbo/laravel-montyPay](https://github.com/Ahmad-Chebbo/laravel-montyPay) | 0 | A Laravel package for the [MontyPay](https://docs.montypay.com). CheckoutAPI: pa... |
+| [jeremyrwross/frequency-scheduler](https://github.com/jeremyrwross/frequency-scheduler) | 0 | Frequency Scheduler is a Laravel package for scheduling tasks based on frequency... |
 | [happenv-com/filament-enhanced-charts](https://github.com/happenv-com/filament-enhanced-charts) | 0 | Apache ECharts for Filament panels - from sankeys to calendar heatmaps, every ch... |
 | [spokospace/filament-ops-notify](https://github.com/spokospace/filament-ops-notify) | 1 | Ops notifications (inquiries, errors, builds) for Laravel + Filament panels, del... |
 | [Recodex-ID/rakit](https://github.com/Recodex-ID/rakit) | 1 | A reusable Laravel 13 starter kit — authentication, roles, a publishable blog, a... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [dwoydig/laravel-l18n-translator](https://github.com/dwoydig/laravel-l18n-translator) | 1 | Browser-based translation manager for Laravel - edit, review, and auto-translate... |
 | [adrift-ghost/laravel-blog](https://github.com/adrift-ghost/laravel-blog) | 0 | Blog management package for Laravel: roles, editorial workflow, categories, tags... |
 | [mrjavadseydi/irankish-laravel](https://github.com/mrjavadseydi/irankish-laravel) | 4 | A Laravel package for the Iran Kish (IKC) IPG v3 payment gateway |
-| [SirwanCode/laravel-slug-kurdish](https://github.com/SirwanCode/laravel-slug-kurdish) | 0 | kurdish ( sorani & kurmanji ) slug package for laravel framework  پاکێجێکی سلاگ ... |
-| [IvalinV/stripe-watcher](https://github.com/IvalinV/stripe-watcher) | 1 | Laravel package for capturing, inspecting, and debugging Stripe webhook payloads... |
-| [gabrielesbaiz/duplicate-toolkit](https://github.com/gabrielesbaiz/duplicate-toolkit) | 0 | Deep-duplicate Eloquent models and their relations. Choose per relation whether ... |
-| [sirthxalot/laravel-i18n](https://github.com/sirthxalot/laravel-i18n) | 0 | An internationalization package made for Laravel web applications.  |
-| [hwkdo/langdock-laravel](https://github.com/hwkdo/langdock-laravel) | 0 | package for using langdock api in laravel |
-| [aleex1848/uisp-laravel](https://github.com/aleex1848/uisp-laravel) | 0 | simple package to interact with uisp nms api |
-| [aleex1848/laravel-bitwarden-cli](https://github.com/aleex1848/laravel-bitwarden-cli) | 0 | a package to use bitwarden-cli rest-api in laravel |
-| [hwkdo/azure-storage-laravel](https://github.com/hwkdo/azure-storage-laravel) | 0 | This is a package to use Azure Storage API in Laravel |
-| [ahmedkalash/market-pos](https://github.com/ahmedkalash/market-pos) | 0 | A mission-critical, concurrent, multi-store Point of Sale and ERP system designe... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -42,8 +42,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 466 | Open Source Laravel CRM Package |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 465 | Open Source Laravel CRM Package |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 464 | A simple package to help integrate Cloudflare Turnstile. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 450 | A package to handle multilingual routes in your Laravel application. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-24 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-24 | The core of Robot Council, a coordination service for fleets... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-24 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [lauroguedes/mary-ui-starter-kit](https://github.com/lauroguedes/mary-ui-starter-kit) | 37 | 2026-09-24 | Mary UI Laravel Starter Kit |
-| [coders-tm/laravel-core](https://github.com/coders-tm/laravel-core) | 0 | 2026-09-24 | Laravel Core package that provides essential core functional... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-24 | Durable execution for PHP: workflows that survive deploys, r... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-09-24 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [Recodex-ID/rakit](https://github.com/Recodex-ID/rakit) | 1 | 2026-09-24 | A reusable Laravel 13 starter kit — authentication, roles, a... |
-| [happenv-com/filament-enhanced-charts](https://github.com/happenv-com/filament-enhanced-charts) | 0 | 2026-09-24 | Apache ECharts for Filament panels - from sankeys to calenda... |
-| [hatem-isnaad/limen-ai](https://github.com/hatem-isnaad/limen-ai) | 0 | 2026-09-24 | Laravel AI Agent Framework - reusable package for agents, to... |
-| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 3 | 2026-09-24 | Free, read-only Filament observability panel for Laravel Swa... |
-| [builtbyberry/laravel-swarm-mcp](https://github.com/builtbyberry/laravel-swarm-mcp) | 1 | 2026-09-24 | Read-only Model Context Protocol (MCP) server for Laravel Sw... |
-| [lauroguedes/laravel-demo-mode](https://github.com/lauroguedes/laravel-demo-mode) | 0 | 2026-09-24 | A Laravel package for creating a demo mode or playground whe... |
-| [fuelviews/laravel-robots-txt](https://github.com/fuelviews/laravel-robots-txt) | 1 | 2026-09-24 | Robots Txt Package |
-| [ArvidDeJong/ubl-peppol](https://github.com/ArvidDeJong/ubl-peppol) | 8 | 2026-09-24 | Welcome to the comprehensive documentation for the UBL-PEPPO... |
-| [cboxdk/laravel-telemetry-ui](https://github.com/cboxdk/laravel-telemetry-ui) | 2 | 2026-09-24 | Laravel-native observability UI for cboxdk/laravel-telemetry... |
-| [jeffersongoncalves/filament-page-visits](https://github.com/jeffersongoncalves/filament-page-visits) | 4 | 2026-09-24 | Filament admin resource for jeffersongoncalves/laravel-page-... |
-| [tegos/laravel-telescope-flusher](https://github.com/tegos/laravel-telescope-flusher) | 4 | 2026-09-24 | telescope-flusher is a Laravel package that provides a simpl... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-24 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-09-24 | Digitalización del trámite de incorporación de escuelas ante... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-09-25 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-09-25 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-25 | The core of Robot Council, a coordination service for fleets... |
+| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-09-25 | Dedicated Instagram account attach, authenticated browser sc... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-25 | Automated code analysis for Laravel applications with 73 com... |
+| [sunchayn/fresh-package](https://github.com/sunchayn/fresh-package) | 28 | 2026-09-25 | An opinionated skeleton for scaffolding a modular and declut... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-25 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [RishadAlam/folkscript](https://github.com/RishadAlam/folkscript) | 0 | 2026-09-25 | A free, open-source, self-hosted publishing platform built w... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-25 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-25 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [mgamalhz/laravel-paymob](https://github.com/mgamalhz/laravel-paymob) | 0 | 2026-09-25 | laravel  package for easy integration with paymob payment ga... |
+| [jeffersongoncalves/filament-sso-client](https://github.com/jeffersongoncalves/filament-sso-client) | 1 | 2026-09-25 | Filament panel integration for laravel-sso-client: SSO login... |
+| [jeffersongoncalves/filament-sso-server](https://github.com/jeffersongoncalves/filament-sso-server) | 1 | 2026-09-25 | Filament plugin to manage clients and active sessions of jef... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-09-24 | Filament plugin that allows to add dynamic, user-defined for... |
+| [jeffersongoncalves/laravel-sso-client](https://github.com/jeffersongoncalves/laravel-sso-client) | 1 | 2026-09-24 | SSO client for Laravel: Authorization Code + PKCE login, RS2... |
+| [jeffersongoncalves/laravel-sso-server](https://github.com/jeffersongoncalves/laravel-sso-server) | 1 | 2026-09-24 | Central SSO identity provider for Laravel: Authorization Cod... |
+| [spokospace/filament-ops-notify](https://github.com/spokospace/filament-ops-notify) | 1 | 2026-09-24 | Ops notifications (inquiries, errors, builds) for Laravel + ... |
+| [elishakhizs/samuelcar](https://github.com/elishakhizs/samuelcar) | 0 | 2026-09-24 | samuel-car  Full-stack Laravel web application for an online... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-24 | A multi-purpose content and application platform for Laravel... |
+| [ahmedkalash/market-pos](https://github.com/ahmedkalash/market-pos) | 0 | 2026-09-24 | A mission-critical, concurrent, multi-store Point of Sale an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-25T01:03 | 9 | 1717 | 6592 |
 | 2026-09-24T18:35 | 7 | 1719 | 6583 |
 | 2026-09-24T12:42 | 6 | 1719 | 6576 |
 | 2026-09-24T06:46 | 6 | 1717 | 6571 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-23T11:49 | 4 | 1716 | 6545 |
 | 2026-09-23T04:53 | 3 | 1719 | 6541 |
 | 2026-09-22T21:27 | 2 | 1721 | 6538 |
-| 2026-09-22T17:03 | 4 | 1717 | 6536 |
 
 ---
 

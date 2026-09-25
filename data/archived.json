@@ -1790,5 +1790,30 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-09-24T12:42:16.897Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "mahmoudsaeednst/laravel12-fullstack-course": {
+    "name": "MahmoudSaeedNST/Laravel12-FullStack-Course",
+    "url": "https://github.com/MahmoudSaeedNST/Laravel12-FullStack-Course",
+    "description": "Full-Stack Laravel 12 course with React, Vue, Livewire – source code for YouTube tutorial.",
+    "stars": 6,
+    "forks": 4,
+    "topics": [
+      "api",
+      "course",
+      "fullstack",
+      "inertiajs",
+      "laravel12",
+      "livewire",
+      "reactjs",
+      "vue"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-03-20T02:05:57Z",
+    "updated_at": "2026-01-31T01:48:23Z",
+    "pushed_at": "2025-09-25T07:54:26Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-09-25T12:41:52.035Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

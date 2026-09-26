@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6620  
-**Last updated:** 2026-09-26T06:43:21.804Z
+**Total packages tracked:** 6629  
+**Last updated:** 2026-09-26T12:37:46.790Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mohammed-a-ashqar/invoice-system](https://github.com/mohammed-a-ashqar/invoice-system) | 0 | Invoicing & receivables app on Laravel 12 — invoices with line items, partial pa... |
+| [mohammed-a-ashqar/laravel-lazarus](https://github.com/mohammed-a-ashqar/laravel-lazarus) | 1 | Self-healing Laravel apps: turns a production exception into a failing test, a v... |
+| [mohammed-a-ashqar/laravel-payment-gateways](https://github.com/mohammed-a-ashqar/laravel-payment-gateways) | 0 | Driver-based payments for Laravel: Stripe, PayPal and WaafiPay behind one API — ... |
+| [gabrielesbaiz/nova-card-rss-news](https://github.com/gabrielesbaiz/nova-card-rss-news) | 0 | RSS/Atom/RDF/JSON Feed on a Laravel Nova dashboard — normalized to one item shap... |
+| [sajusun/invoice](https://github.com/sajusun/invoice) | 0 | Enterprise-ready Multi-Tenant Invoicing, Dynamic Stripe Subscriptions, Developer... |
+| [martinsoenen/pulse-mcp](https://github.com/martinsoenen/pulse-mcp) | 0 | A small package to add MCP-related cards to laravel/pulse. |
+| [chuoke/laravel-blog](https://github.com/chuoke/laravel-blog) | 0 | A standalone, themeable Laravel blog package with an Inertia/Vue admin panel, mu... |
+| [uncleBandit/HolidayHub](https://github.com/uncleBandit/HolidayHub) | 0 | A Laravel SaaS platform connecting travelers with tourism providers, experiences... |
+| [sadeghbarout/colbeh-access](https://github.com/sadeghbarout/colbeh-access) | 0 | Laravel role permissions package |
+| [eabdalmufid/affichat-laravel](https://github.com/eabdalmufid/affichat-laravel) | 1 | Official Laravel package for WhatsApp messaging via AffiChat API, featuring cust... |
 | [TheZohaibKhan/AI-Quiz-Engine](https://github.com/TheZohaibKhan/AI-Quiz-Engine) | 0 | AI-powered quiz and examination platform built with Laravel 12, Livewire, Postgr... |
 | [tripsittr/SoundChexWebsite](https://github.com/tripsittr/SoundChexWebsite) | 0 | The SoundChex landing site, documentation and legal pages (Laravel). |
 | [yassine-khachlek/laravel-package-example](https://github.com/yassine-khachlek/laravel-package-example) | 9 | A Laravel package example |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [phpclaw-php/phpclaw-monorepo](https://github.com/phpclaw-php/phpclaw-monorepo) | 11 | The universal AI agent engine for PHP. Tools, memory, guards, and a ReAct loop a... |
 | [gabrielesbaiz/google-translate-toolkit](https://github.com/gabrielesbaiz/google-translate-toolkit) | 1 | Google Translate for Laravel — fluent builder, caching, placeholder-safe transla... |
 | [ditsly/dpay-laravel](https://github.com/ditsly/dpay-laravel) | 0 | Official Laravel package for DPay — one-line hosted checkout, signed webhook rou... |
-| [ptamayova/cippus](https://github.com/ptamayova/cippus) | 1 | A quickstart package to configure brand new Laravel applications with a prefedin... |
-| [asseco-voice/laravel-inbox](https://github.com/asseco-voice/laravel-inbox) | 4 | Package for pattern parsing incoming communication |
-| [nvl-laravel-suite/core](https://github.com/nvl-laravel-suite/core) | 0 | Shared Support contracts and Data infrastructure for NVL Laravel packages |
-| [mohammedname2002/invoice-system](https://github.com/mohammedname2002/invoice-system) | 0 | Invoicing & receivables app on Laravel 12 — invoices with line items, partial pa... |
-| [jeffersongoncalves/laravel-carve](https://github.com/jeffersongoncalves/laravel-carve) | 1 | Carve markup for Laravel: render profiles, Blade directives and component, .crv ... |
-| [jtylek/EpesiCRM](https://github.com/jtylek/EpesiCRM) | 40 | Open-source CRM and a kickstarter for custom ERP systems built on Laravel 12 + F... |
-| [stormyboy68/MorphManyToMany](https://github.com/stormyboy68/MorphManyToMany) | 0 | Package Laravel, Module Builder, automatically create all file and script need f... |
-| [kinetics254/hypernexus-php](https://github.com/kinetics254/hypernexus-php) | 0 | A Laravel package for integrating with Microsoft Dynamics 365 Business Central o... |
-| [grkmefedrsn34/laravelify-translator](https://github.com/grkmefedrsn34/laravelify-translator) | 0 | Automatic Laravel translation package using Google Translate & MyMemory |
-| [mdsazzad0002/SUBandL](https://github.com/mdsazzad0002/SUBandL) | 0 | SUBandL — Software Update, Backup and License package for Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [robot-council/core](https://github.com/robot-council/core) | 1 | 2026-09-26 | The core of Robot Council, a coordination service for fleets... |
-| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 1 | 2026-09-26 | The shared base of a Laravel admin app as one updatable pack... |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-09-26 | A Laravel package to handle AWS SNS notifications, providing... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-09-26 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-09-26 | A lightweight, convention-driven modular architecture packag... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-26 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-26 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-09-26 | A todo list app that's MCP-native, so AI agents can claim, c... |
-| [mdsazzad0002/SUBandL](https://github.com/mdsazzad0002/SUBandL) | 0 | 2026-09-26 | SUBandL — Software Update, Backup and License package for La... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-09-26 | A practical work management information system built with La... |
+| [mgamalhz/laravel-paymob](https://github.com/mgamalhz/laravel-paymob) | 0 | 2026-09-26 | laravel  package for easy integration with paymob payment ga... |
+| [mohammed-a-ashqar/laravel-lazarus](https://github.com/mohammed-a-ashqar/laravel-lazarus) | 1 | 2026-09-26 | Self-healing Laravel apps: turns a production exception into... |
+| [nereauweb/mercatura](https://github.com/nereauweb/mercatura) | 0 | 2026-09-26 | Open-source e-commerce core for B2B and B2C shops on Laravel... |
+| [martinsoenen/pulse-mcp](https://github.com/martinsoenen/pulse-mcp) | 0 | 2026-09-26 | A small package to add MCP-related cards to laravel/pulse. |
+| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-09-26 | Scaffolds Ichava icon packages: one command, a token-substit... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-26 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [gabrielesbaiz/nova-card-html](https://github.com/gabrielesbaiz/nova-card-html) | 0 | 2026-09-26 | Renders a string, Markdown or Blade view as a Laravel Nova d... |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-09-26 | Open-source, self-hosted video processing & delivery engine ... |
-| [TheZohaibKhan/AI-Quiz-Engine](https://github.com/TheZohaibKhan/AI-Quiz-Engine) | 0 | 2026-09-26 | AI-powered quiz and examination platform built with Laravel ... |
-| [ipchi/CyrilLat](https://github.com/ipchi/CyrilLat) | 0 | 2026-09-26 | Uzbek Cyrillic <-> Latin transliteration, language identific... |
-| [praveendias1180/a2a-laravel](https://github.com/praveendias1180/a2a-laravel) | 1 | 2026-09-26 | Laravel bridge for the A2A PHP SDK. Read-only split of prave... |
-| [ziming/laravel-myinfo-sg](https://github.com/ziming/laravel-myinfo-sg) | 16 | 2026-09-26 | PHP Laravel Singpass MyInfo (Singapore) Package / Library |
-| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-09-26 | Dedicated Instagram account attach, authenticated browser sc... |
-| [Super-Send/supersendtx-laravel](https://github.com/Super-Send/supersendtx-laravel) | 0 | 2026-09-26 | SuperSend TX Laravel package — composer require supersendtx/... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-26 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-09-26 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-09-26 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
+| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-09-26 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
+| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-09-26 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-26 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [mohammed-a-ashqar/invoice-system](https://github.com/mohammed-a-ashqar/invoice-system) | 0 | 2026-09-26 | Invoicing & receivables app on Laravel 12 — invoices with li... |
+| [mohammed-a-ashqar/laravel-payment-gateways](https://github.com/mohammed-a-ashqar/laravel-payment-gateways) | 0 | 2026-09-26 | Driver-based payments for Laravel: Stripe, PayPal and WaafiP... |
+| [tinahp09/-Laravel-BulkFlow](https://github.com/tinahp09/-Laravel-BulkFlow) | 0 | 2026-09-26 | Production-ready Laravel package for importing and exporting... |
+| [lauroguedes/mary-ui-starter-kit](https://github.com/lauroguedes/mary-ui-starter-kit) | 37 | 2026-09-26 | Mary UI Laravel Starter Kit |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-26 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-09-26 | The NativePHP website |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-09-26 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [mdsazzad0002/SUBandL](https://github.com/mdsazzad0002/SUBandL) | 0 | 2026-09-26 | SUBandL — Software Update, Backup and License package for La... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-26 | Runtime base library for building Laravel packages: fluent P... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-26T12:37 | 10 | 1713 | 6629 |
 | 2026-09-26T06:43 | 1 | 1726 | 6620 |
 | 2026-09-26T01:02 | 3 | 1724 | 6619 |
 | 2026-09-25T18:34 | 9 | 1718 | 6616 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-24T18:35 | 7 | 1719 | 6583 |
 | 2026-09-24T12:42 | 6 | 1719 | 6576 |
 | 2026-09-24T06:46 | 6 | 1717 | 6571 |
-| 2026-09-24T05:02 | 11 | 1712 | 6565 |
 
 ---
 

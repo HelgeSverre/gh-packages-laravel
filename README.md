@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6629  
-**Last updated:** 2026-09-26T12:37:46.790Z
+**Total packages tracked:** 6632  
+**Last updated:** 2026-09-26T18:34:03.281Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [MinaHawarei/laravel-sift](https://github.com/MinaHawarei/laravel-sift) | 0 | A lightweight, deterministic Laravel package for parsing tabular text from clipb... |
+| [mustikawijaya/pgsql-fdw](https://github.com/mustikawijaya/pgsql-fdw) | 0 | Laravel package designed to simplify, automate, and monitor PostgreSQL Foreign D... |
+| [FayzullaKhodja/laravel-observer](https://github.com/FayzullaKhodja/laravel-observer) | 0 | Read-only mirror of packages/laravel-observer from FayzullaKhodja/log-observer. ... |
 | [mohammed-a-ashqar/invoice-system](https://github.com/mohammed-a-ashqar/invoice-system) | 0 | Invoicing & receivables app on Laravel 12 — invoices with line items, partial pa... |
 | [mohammed-a-ashqar/laravel-lazarus](https://github.com/mohammed-a-ashqar/laravel-lazarus) | 1 | Self-healing Laravel apps: turns a production exception into a failing test, a v... |
 | [mohammed-a-ashqar/laravel-payment-gateways](https://github.com/mohammed-a-ashqar/laravel-payment-gateways) | 0 | Driver-based payments for Laravel: Stripe, PayPal and WaafiPay behind one API — ... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/filament-carve](https://github.com/jeffersongoncalves/filament-carve) | 1 | Carve markup for Filament: validated editor with preview, rendered infolist entr... |
 | [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the EINUNDZWANZIG commu... |
 | [gabrielesbaiz/nova-card-html](https://github.com/gabrielesbaiz/nova-card-html) | 0 | Renders a string, Markdown or Blade view as a Laravel Nova dashboard card — lazy... |
-| [phpclaw-php/phpclaw-monorepo](https://github.com/phpclaw-php/phpclaw-monorepo) | 11 | The universal AI agent engine for PHP. Tools, memory, guards, and a ReAct loop a... |
-| [gabrielesbaiz/google-translate-toolkit](https://github.com/gabrielesbaiz/google-translate-toolkit) | 1 | Google Translate for Laravel — fluent builder, caching, placeholder-safe transla... |
-| [ditsly/dpay-laravel](https://github.com/ditsly/dpay-laravel) | 0 | Official Laravel package for DPay — one-line hosted checkout, signed webhook rou... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -36,7 +36,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 |---------|-----|-------------|
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 500 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 496 | A full-featured Laravel package for aiding in Shopify App development |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 497 | A full-featured Laravel package for aiding in Shopify App development |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mgamalhz/laravel-paymob](https://github.com/mgamalhz/laravel-paymob) | 0 | 2026-09-26 | laravel  package for easy integration with paymob payment ga... |
-| [mohammed-a-ashqar/laravel-lazarus](https://github.com/mohammed-a-ashqar/laravel-lazarus) | 1 | 2026-09-26 | Self-healing Laravel apps: turns a production exception into... |
-| [nereauweb/mercatura](https://github.com/nereauweb/mercatura) | 0 | 2026-09-26 | Open-source e-commerce core for B2B and B2C shops on Laravel... |
-| [martinsoenen/pulse-mcp](https://github.com/martinsoenen/pulse-mcp) | 0 | 2026-09-26 | A small package to add MCP-related cards to laravel/pulse. |
-| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-09-26 | Scaffolds Ichava icon packages: one command, a token-substit... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-26 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-26 | Durable execution for PHP: workflows that survive deploys, r... |
 | [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-09-26 | A todo list app that's MCP-native, so AI agents can claim, c... |
-| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-09-26 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
-| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-09-26 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
-| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-09-26 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-26 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [mohammed-a-ashqar/invoice-system](https://github.com/mohammed-a-ashqar/invoice-system) | 0 | 2026-09-26 | Invoicing & receivables app on Laravel 12 — invoices with li... |
-| [mohammed-a-ashqar/laravel-payment-gateways](https://github.com/mohammed-a-ashqar/laravel-payment-gateways) | 0 | 2026-09-26 | Driver-based payments for Laravel: Stripe, PayPal and WaafiP... |
-| [tinahp09/-Laravel-BulkFlow](https://github.com/tinahp09/-Laravel-BulkFlow) | 0 | 2026-09-26 | Production-ready Laravel package for importing and exporting... |
-| [lauroguedes/mary-ui-starter-kit](https://github.com/lauroguedes/mary-ui-starter-kit) | 37 | 2026-09-26 | Mary UI Laravel Starter Kit |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-26 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-09-26 | The NativePHP website |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-09-26 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [mdsazzad0002/SUBandL](https://github.com/mdsazzad0002/SUBandL) | 0 | 2026-09-26 | SUBandL — Software Update, Backup and License package for La... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-09-26 | Runtime base library for building Laravel packages: fluent P... |
+| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 1 | 2026-09-26 | Laravel Monitor: A lightweight Laravel package providing bas... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-09-26 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [mcwachira/maua.ke](https://github.com/mcwachira/maua.ke) | 0 | 2026-09-26 | A fullstack Ecommerce App for sellinmg Flowers and Care Pack... |
+| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-09-26 | Sales and warehousing management system |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-26 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [vimatech-io/laravel-membership](https://github.com/vimatech-io/laravel-membership) | 5 | 2026-09-26 | Polymorphic memberships for Laravel: who belongs to what, an... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-09-26 | Laravel package providing polymorphic image management with ... |
+| [AlwaysCuriousCo/package-pipeline](https://github.com/AlwaysCuriousCo/package-pipeline) | 47 | 2026-09-26 | Self-hosted private Composer registry |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-09-26 | Utility package for Laravel including Transformable proxies ... |
+| [CodeTechAgency/laravel-eupago](https://github.com/CodeTechAgency/laravel-eupago) | 3 | 2026-09-26 | Laravel package for integrating the EuPago payment gateway i... |
+| [andydefer/laravel-reports](https://github.com/andydefer/laravel-reports) | 0 | 2026-09-26 | Package Laravel de signalement polymorphique avec pattern Re... |
+| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-09-26 | Toth is a Laravel package for database backup and snapshot m... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-09-26 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-09-26 | Laravel package providing OTP (One-Time Password) management... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-09-26 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-09-26 | Laravel package providing polymorphic reactions (like, love,... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-09-26 | Laravel TOTP package for two-factor authentication with poly... |
+| [nereauweb/mercatura](https://github.com/nereauweb/mercatura) | 0 | 2026-09-26 | Open-source e-commerce core for B2B and B2C shops on Laravel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-26T18:34 | 3 | 1720 | 6632 |
 | 2026-09-26T12:37 | 10 | 1713 | 6629 |
 | 2026-09-26T06:43 | 1 | 1726 | 6620 |
 | 2026-09-26T01:02 | 3 | 1724 | 6619 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-25T01:03 | 9 | 1717 | 6592 |
 | 2026-09-24T18:35 | 7 | 1719 | 6583 |
 | 2026-09-24T12:42 | 6 | 1719 | 6576 |
-| 2026-09-24T06:46 | 6 | 1717 | 6571 |
 
 ---
 

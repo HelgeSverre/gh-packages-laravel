@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6616  
-**Last updated:** 2026-09-25T18:34:21.945Z
+**Total packages tracked:** 6619  
+**Last updated:** 2026-09-26T01:02:19.636Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tripsittr/SoundChexWebsite](https://github.com/tripsittr/SoundChexWebsite) | 0 | The SoundChex landing site, documentation and legal pages (Laravel). |
+| [yassine-khachlek/laravel-package-example](https://github.com/yassine-khachlek/laravel-package-example) | 9 | A Laravel package example |
+| [always-open/serp-api](https://github.com/always-open/serp-api) | 0 | Laravel package to wrap Serp API |
 | [jeffersongoncalves/filament-carve](https://github.com/jeffersongoncalves/filament-carve) | 1 | Carve markup for Filament: validated editor with preview, rendered infolist entr... |
 | [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the EINUNDZWANZIG commu... |
 | [gabrielesbaiz/nova-card-html](https://github.com/gabrielesbaiz/nova-card-html) | 0 | Renders a string, Markdown or Blade view as a Laravel Nova dashboard card — lazy... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [grkmefedrsn34/laravelify-translator](https://github.com/grkmefedrsn34/laravelify-translator) | 0 | Automatic Laravel translation package using Google Translate & MyMemory |
 | [mdsazzad0002/SUBandL](https://github.com/mdsazzad0002/SUBandL) | 0 | SUBandL — Software Update, Backup and License package for Laravel |
 | [bleronamaxhuni/multi-client-resolver](https://github.com/bleronamaxhuni/multi-client-resolver) | 0 |  A laravel package to automatically resolve clients per request |
-| [stormkix/laravel-sharded-storage](https://github.com/stormkix/laravel-sharded-storage) | 0 | Wiederverwendbares Laravel-Composer-Package, das gespeicherte Dateien per Hash-S... |
-| [aakashk-ctpl/laravel-slug](https://github.com/aakashk-ctpl/laravel-slug) | 0 | The purpose of the package is to generate URL-friendly slugs from text |
-| [jeroengerits/laravel-airports](https://github.com/jeroengerits/laravel-airports) | 0 | Laravel package with data of all airports in the world |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [step2dev/lazy-ui](https://github.com/step2dev/lazy-ui) | 5 | 2026-09-25 | Lazy UI is a Laravel package that provides a set of Blade co... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-09-25 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [lauroguedes/laravel-demo-mode](https://github.com/lauroguedes/laravel-demo-mode) | 0 | 2026-09-25 | A Laravel package for creating a demo mode or playground whe... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-26 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-26 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-26 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [foxws/wireuse](https://github.com/foxws/wireuse) | 7 | 2026-09-26 | Collection of useful Livewire utilities. |
+| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-09-26 | Official Laravel package for VeliraPay crypto payments: a fa... |
+| [sunchayn/fresh-package](https://github.com/sunchayn/fresh-package) | 29 | 2026-09-26 | An opinionated skeleton for scaffolding a modular and declut... |
+| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 10 | 2026-09-26 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
+| [spokospace/filament-ops-notify](https://github.com/spokospace/filament-ops-notify) | 1 | 2026-09-26 | Ops notifications (inquiries, errors, builds) for Laravel + ... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-26 | A multi-purpose content and application platform for Laravel... |
+| [nereauweb/mercatura](https://github.com/nereauweb/mercatura) | 0 | 2026-09-26 | Open-source e-commerce core for B2B and B2C shops on Laravel... |
+| [codebyray/laravel-review-rateable](https://github.com/codebyray/laravel-review-rateable) | 310 | 2026-09-26 | A flexible Laravel package for adding reviews, multi-criteri... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-09-26 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 32 | 2026-09-26 | A PHPStan extension for analysis of Laravel applications and... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-09-25 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-25 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-25 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [zhoorta/multi-shelter-manager](https://github.com/zhoorta/multi-shelter-manager) | 0 | 2026-09-25 | Open-source web app for animal shelters. Several shelters sh... |
+| [robot-council/core](https://github.com/robot-council/core) | 1 | 2026-09-25 | The core of Robot Council, a coordination service for fleets... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-09-25 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [robot-council/core](https://github.com/robot-council/core) | 0 | 2026-09-25 | The core of Robot Council, a coordination service for fleets... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-09-25 | [READ ONLY] API Platform for Laravel |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-09-25 | NativeKit starter kit built on Laravel 12.x, Filament 5.x an... |
-| [jeffersongoncalves/filament-carve](https://github.com/jeffersongoncalves/filament-carve) | 1 | 2026-09-25 | Carve markup for Filament: validated editor with preview, re... |
-| [ditsly/dpay-laravel](https://github.com/ditsly/dpay-laravel) | 0 | 2026-09-25 | Official Laravel package for DPay — one-line hosted checkout... |
-| [RishadAlam/folkscript](https://github.com/RishadAlam/folkscript) | 0 | 2026-09-25 | A free, open-source, self-hosted publishing platform built w... |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 32 | 2026-09-25 | A PHPStan extension for analysis of Laravel applications and... |
-| [rodrigocoliveira/laravel-whatsapp-cloud-api](https://github.com/rodrigocoliveira/laravel-whatsapp-cloud-api) | 2 | 2026-09-25 | Laravel Package to Easily connect laravel framework to Whats... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-09-25 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [packstub/filament-form-builder](https://github.com/packstub/filament-form-builder) | 7 | 2026-09-25 | Form builder for Filament panels: build forms in the admin, ... |
-| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 7 | 2026-09-25 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [packstub/filament-flow](https://github.com/packstub/filament-flow) | 15 | 2026-09-25 | Visual workflow automation for Filament panels: triggers, co... |
+| [NyonCode/wire-module-users](https://github.com/NyonCode/wire-module-users) | 0 | 2026-09-25 | User administration for wire: a ready-made module with its r... |
+| [NyonCode/wire-module-notifications](https://github.com/NyonCode/wire-module-notifications) | 0 | 2026-09-25 | Stored notifications for wire: the history behind the bell, ... |
+| [NyonCode/wire-suite](https://github.com/NyonCode/wire-suite) | 0 | 2026-09-25 | The whole wire stack in one require, with an interactive ins... |
+| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | 2026-09-25 | AI tooling for the Wire ecosystem – an MCP server, AI guidel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-26T01:02 | 3 | 1724 | 6619 |
 | 2026-09-25T18:34 | 9 | 1718 | 6616 |
 | 2026-09-25T12:41 | 13 | 1714 | 6607 |
 | 2026-09-25T06:47 | 3 | 1723 | 6595 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-24T06:46 | 6 | 1717 | 6571 |
 | 2026-09-24T05:02 | 11 | 1712 | 6565 |
 | 2026-09-23T21:35 | 4 | 1716 | 6554 |
-| 2026-09-23T17:13 | 5 | 1715 | 6550 |
 
 ---
 

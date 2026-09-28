@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6655  
-**Last updated:** 2026-09-28T01:12:18.129Z
+**Total packages tracked:** 6661  
+**Last updated:** 2026-09-28T07:02:29.059Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [roberteinsle/FF88-Fahrzeugbuchung](https://github.com/roberteinsle/FF88-Fahrzeugbuchung) | 0 | Fahrzeugbuchung für die Freiwillige Feuerwehr Braak – Belegungskalender, Buchung... |
+| [GustavoSMelo/rogai_conosco](https://github.com/GustavoSMelo/rogai_conosco) | 0 | A simple pray platform to people ask prays in anonymous way |
+| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 0 | Immutable and versioned Eloquent models with a gapless, cryptographically verifi... |
+| [gabrielesbaiz/unsplash-toolkit](https://github.com/gabrielesbaiz/unsplash-toolkit) | 0 | A lightweight helper package to handle Unsplash photos |
+| [gabrielesbaiz/nova-field-map](https://github.com/gabrielesbaiz/nova-field-map) | 0 | Custom Laravel Nova 4 map detail field. |
+| [RashiqulRony/laravel-image-upload](https://github.com/RashiqulRony/laravel-image-upload) | 0 | This Package laravel image and file upload system, with s3 and use image interve... |
 | [jeffersongoncalves/filament-bladewind](https://github.com/jeffersongoncalves/filament-bladewind) | 1 | Per-page CSS for Filament panels: splits the fi-* theme per page with BladeWind ... |
 | [gabrielesbaiz/whatsapp-toolkit](https://github.com/gabrielesbaiz/whatsapp-toolkit) | 1 | A helper package to handle WhatsApp messages using api.whatsapp.com |
 | [pietervanleuven/laravel-ai-batch](https://github.com/pietervanleuven/laravel-ai-batch) | 0 | Run your existing laravel/ai agents through the OpenAI, Anthropic and OpenRouter... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [tumainimosha/laravel-mpesa-push](https://github.com/tumainimosha/laravel-mpesa-push) | 10 | Laravel package for TZ Mpesa USSD Push integration |
 | [tarzann419/autopay-laravel](https://github.com/tarzann419/autopay-laravel) | 3 | Laravel package for Interswitch AutoPay XML bulk payment processing |
 | [jeffersongoncalves/filament-socialite](https://github.com/jeffersongoncalves/filament-socialite) | 1 | OAuth login for Filament panels via Laravel Socialite: fluent provider API, logi... |
-| [jeffersongoncalves/laravel-socialite](https://github.com/jeffersongoncalves/laravel-socialite) | 1 | UI-agnostic Laravel Socialite toolkit: fluent providers, user resolution/registr... |
-| [houdaslassi/laravel-aws-iam-audit](https://github.com/houdaslassi/laravel-aws-iam-audit) | 1 | Generate least-privilege AWS IAM policies for your Laravel app and audit your AW... |
-| [jeffersongoncalves/website](https://github.com/jeffersongoncalves/website) | 1 | Personal portfolio and developer site of Jefferson Goncalves, Full Stack PHP Dev... |
-| [jeffersongoncalves/filament-user](https://github.com/jeffersongoncalves/filament-user) | 2 | Filament User model, UserResource, status-aware Login page and plugin for the je... |
-| [jeffersongoncalves/filament-admin](https://github.com/jeffersongoncalves/filament-admin) | 2 | Filament Admin model, AdminResource, status-aware Login page and plugin for a se... |
-| [MohamedTarek/laravel-stampede-guard](https://github.com/MohamedTarek/laravel-stampede-guard) | 0 | Cache stampede prevention for Laravel 6-13: atomic-lock remember and XFetch prob... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-09-28 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-09-28 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [andreilungeanu/smartbill](https://github.com/andreilungeanu/smartbill) | 1 | 2026-09-28 | A Laravel package for seamless integration with the Smartbil... |
 | [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-09-28 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-28 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-09-28 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [mgamalhz/laravel-paymob](https://github.com/mgamalhz/laravel-paymob) | 0 | 2026-09-28 | laravel  package for easy integration with paymob payment ga... |
 | [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-09-28 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [richardDobron/blade-google-material-symbols-200](https://github.com/richardDobron/blade-google-material-symbols-200) | 0 | 2026-09-28 | A package to easily make use of Google's Material Symbols (2... |
-| [richardDobron/blade-google-material-symbols-700](https://github.com/richardDobron/blade-google-material-symbols-700) | 0 | 2026-09-28 | A package to easily make use of Google's Material Symbols (7... |
-| [richardDobron/blade-google-material-symbols-500](https://github.com/richardDobron/blade-google-material-symbols-500) | 0 | 2026-09-28 | A package to easily make use of Google's Material Symbols (5... |
-| [richardDobron/blade-google-material-symbols-600](https://github.com/richardDobron/blade-google-material-symbols-600) | 0 | 2026-09-28 | A package to easily make use of Google's Material Symbols (6... |
-| [richardDobron/blade-google-material-symbols-300](https://github.com/richardDobron/blade-google-material-symbols-300) | 0 | 2026-09-28 | A package to easily make use of Google's Material Symbols (3... |
-| [richardDobron/blade-google-material-symbols-100](https://github.com/richardDobron/blade-google-material-symbols-100) | 0 | 2026-09-28 | A package to easily make use of Google's Material Symbols (1... |
-| [richardDobron/blade-google-material-symbols-400](https://github.com/richardDobron/blade-google-material-symbols-400) | 0 | 2026-09-28 | A package to easily make use of Google's Material Symbols (4... |
-| [richardDobron/blade-google-material-symbols](https://github.com/richardDobron/blade-google-material-symbols) | 0 | 2026-09-28 | A package to easily make use of Google's Material Symbols in... |
-| [ayimdomnic/laragraph](https://github.com/ayimdomnic/laragraph) | 3 | 2026-09-28 | A modern, feature-rich, code-first GraphQL package for Larav... |
+| [RashiqulRony/laravel-image-upload](https://github.com/RashiqulRony/laravel-image-upload) | 0 | 2026-09-28 | This Package laravel image and file upload system, with s3 a... |
+| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 0 | 2026-09-28 | Immutable and versioned Eloquent models with a gapless, cryp... |
+| [packstub/filament-account-switcher](https://github.com/packstub/filament-account-switcher) | 43 | 2026-09-28 | Switch between accounts in Filament: impersonate users, link... |
+| [gabrielesbaiz/unsplash-toolkit](https://github.com/gabrielesbaiz/unsplash-toolkit) | 0 | 2026-09-28 | A lightweight helper package to handle Unsplash photos |
+| [IvalinV/stripe-watcher](https://github.com/IvalinV/stripe-watcher) | 1 | 2026-09-28 | Laravel package for capturing, inspecting, and debugging Str... |
 | [yungifez/april-ui](https://github.com/yungifez/april-ui) | 360 | 2026-09-28 | Gorgeous shadcn inspired UI library for laravel blade using ... |
-| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-09-28 | Generic Laravel article campaign domain engine, policies, di... |
-| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-09-28 | Laravel OTP is a Laravel package that enables developers to ... |
-| [little-green-man/earhart](https://github.com/little-green-man/earhart) | 3 | 2026-09-27 | A package to use PropelAuth with Laravel |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-09-27 | Prevent risky Laravel database migrations with static analys... |
+| [crontinel/laravel](https://github.com/crontinel/laravel) | 0 | 2026-09-28 | Laravel package for Crontinel background job monitoring |
+| [roberteinsle/FF88-Fahrzeugbuchung](https://github.com/roberteinsle/FF88-Fahrzeugbuchung) | 0 | 2026-09-28 | Fahrzeugbuchung für die Freiwillige Feuerwehr Braak – Belegu... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-28 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [gabrielesbaiz/nova-field-map](https://github.com/gabrielesbaiz/nova-field-map) | 0 | 2026-09-28 | Custom Laravel Nova 4 map detail field. |
+| [ayimdomnic/laragraph](https://github.com/ayimdomnic/laragraph) | 3 | 2026-09-28 | A modern, feature-rich, code-first GraphQL package for Larav... |
+| [openric/service](https://github.com/openric/service) | 0 | 2026-09-28 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
+| [95tuanle/project-management-with-laravel](https://github.com/95tuanle/project-management-with-laravel) | 0 | 2026-09-28 | Simple Project Management Application with Laravel |
+| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 8 | 2026-09-28 | Laravel Pesapal is a Laravel package designed to facilitate ... |
+| [gabrielesbaiz/whatsapp-toolkit](https://github.com/gabrielesbaiz/whatsapp-toolkit) | 1 | 2026-09-28 | A helper package to handle WhatsApp messages using api.whats... |
+| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-09-28 | A Laravel Package providing seamless integration for the wun... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-28T07:02 | 6 | 1717 | 6661 |
 | 2026-09-28T01:12 | 4 | 1717 | 6655 |
 | 2026-09-27T18:34 | 8 | 1715 | 6651 |
 | 2026-09-27T12:39 | 1 | 1723 | 6643 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-26T12:37 | 10 | 1713 | 6629 |
 | 2026-09-26T06:43 | 1 | 1726 | 6620 |
 | 2026-09-26T01:02 | 3 | 1724 | 6619 |
-| 2026-09-25T18:34 | 9 | 1718 | 6616 |
 
 ---
 

@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6666  
-**Last updated:** 2026-09-28T12:47:28.506Z
+**Total packages tracked:** 6669  
+**Last updated:** 2026-09-28T18:38:40.268Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [2pointdelivery/easyreply-inbox](https://github.com/2pointdelivery/easyreply-inbox) | 0 | Self-hosted Laravel shared inbox package (EasyReply-style): email/Slack/WhatsApp... |
+| [mailgazelle/laravel-sdk](https://github.com/mailgazelle/laravel-sdk) | 0 | MailGazelle official Laravel SDK package |
+| [bhekor/laravel-paymish](https://github.com/bhekor/laravel-paymish) | 0 | A comprehensive Laravel package for seamless integration with the Paymish paymen... |
 | [andreacolzani/laravel-pgarray](https://github.com/andreacolzani/laravel-pgarray) | 0 | PostgreSQL arrays for Laravel |
 | [suhasrkms/Lara-Fire](https://github.com/suhasrkms/Lara-Fire) | 9 |  🔒 Laravel Firebase Auth Starter: User authentication, email verification, and ... |
 | [projecthanif/routescope](https://github.com/projecthanif/routescope) | 7 | A powerful route inspection tool for Laravel developers. |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [pietervanleuven/laravel-ai-batch](https://github.com/pietervanleuven/laravel-ai-batch) | 0 | Run your existing laravel/ai agents through the OpenAI, Anthropic and OpenRouter... |
 | [gyorgy-gulyas/sahifa-laravel](https://github.com/gyorgy-gulyas/sahifa-laravel) | 0 | Laravel package for Sahifa: Blade views to PDF with correct Arabic/RTL text (a d... |
 | [LuizGustavoSantiagoo/UTFPR_BACKEND2_RESERVAS](https://github.com/LuizGustavoSantiagoo/UTFPR_BACKEND2_RESERVAS) | 0 | Sistemas de Reservas de ambientes/sub-ambientes com Laravel e livewire. |
-| [amirHossein5/laravel-livewire](https://github.com/amirHossein5/laravel-livewire) | 0 | laravel livewire project |
-| [lchristmann/nusszopf](https://github.com/lchristmann/nusszopf) | 0 | Free, self-hostable revival of the historical Nusszopf project - a platform for ... |
-| [tecrodrigocastro/base_laravel_modular](https://github.com/tecrodrigocastro/base_laravel_modular) | 2 | Laravel modular monolith template: one Composer package per business module, sha... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 0 | 2026-09-28 | Immutable and versioned Eloquent models with a gapless, cryp... |
-| [projecthanif/routescope](https://github.com/projecthanif/routescope) | 7 | 2026-09-28 | A powerful route inspection tool for Laravel developers. |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 1 | 2026-09-28 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-28 | Durable execution for PHP: workflows that survive deploys, r... |
-| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-09-28 | Laravel package providing OTP (One-Time Password) management... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-09-28 | Simple package for adding directives to show/hide content fr... |
-| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-09-28 | Laravel package providing polymorphic comments with Reposito... |
-| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-09-28 | Laravel package providing polymorphic reactions (like, love,... |
-| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-09-28 | Laravel TOTP package for two-factor authentication with poly... |
-| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-09-28 | Laravel package providing polymorphic image management with ... |
-| [roberteinsle/FF88-Fahrzeugbuchung](https://github.com/roberteinsle/FF88-Fahrzeugbuchung) | 0 | 2026-09-28 | Fahrzeugbuchung für die Freiwillige Feuerwehr Braak – Belegu... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-09-28 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-28 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-09-28 | Official Laravel package for seamless ProofAge API integrati... |
-| [andreacolzani/laravel-pgarray](https://github.com/andreacolzani/laravel-pgarray) | 0 | 2026-09-28 | PostgreSQL arrays for Laravel |
+| [erickcomp/laravel-stacked-components](https://github.com/erickcomp/laravel-stacked-components) | 0 | 2026-09-28 | This package provides some blade components that you can use... |
 | [step2dev/lazy-ui](https://github.com/step2dev/lazy-ui) | 5 | 2026-09-28 | Lazy UI is a Laravel package that provides a set of Blade co... |
-| [GraystackIT/laravel-ahasend-api](https://github.com/GraystackIT/laravel-ahasend-api) | 0 | 2026-09-28 | Laravel package to consume AhaSend API |
-| [novius/laravel-filament-page-manager](https://github.com/novius/laravel-filament-page-manager) | 4 | 2026-09-28 | A Laravel Filament package to manage pages. |
-| [suhasrkms/Lara-Fire](https://github.com/suhasrkms/Lara-Fire) | 9 | 2026-09-28 |  🔒 Laravel Firebase Auth Starter: User authentication, emai... |
-| [ArvidDeJong/livewire-google-analytics](https://github.com/ArvidDeJong/livewire-google-analytics) | 1 | 2026-09-28 | Google Analytics 4 event tracking for Laravel Livewire: a tr... |
+| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-28 | WireStack — a Livewire admin framework for Laravel: core, fo... |
+| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-09-28 | Can a balcony weather station forecast its own next six hour... |
+| [jobmetric/laravel-setting](https://github.com/jobmetric/laravel-setting) | 6 | 2026-09-28 | The best package for saving system settings |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-28 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 203 | 2026-09-28 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 0 | 2026-09-28 | Immutable and versioned Eloquent models with a gapless, cryp... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-28 | Automated code analysis for Laravel applications with 73 com... |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-09-28 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-28 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-09-28 | Ptah — Laravel package that forges complete module structure... |
+| [laranail/artisan-ui](https://github.com/laranail/artisan-ui) | 0 | 2026-09-28 | A secure web panel for running Artisan commands: Gate-author... |
+| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-09-28 | Digitalización del trámite de incorporación de escuelas ante... |
+| [it-peoplelogy/laravel-xero-bridge](https://github.com/it-peoplelogy/laravel-xero-bridge) | 0 | 2026-09-28 | Shared Laravel package for the Xero Accounting API — OAuth c... |
+| [mailgazelle/laravel-sdk](https://github.com/mailgazelle/laravel-sdk) | 0 | 2026-09-28 | MailGazelle official Laravel SDK package |
+| [robot-council/core](https://github.com/robot-council/core) | 1 | 2026-09-28 | The core of Robot Council, a coordination service for fleets... |
+| [Coyote6/laravel-base](https://github.com/Coyote6/laravel-base) | 0 | 2026-09-28 | A collection of commonly used traits that are used throughou... |
+| [jeffersongoncalves/laravel-package-cli](https://github.com/jeffersongoncalves/laravel-package-cli) | 1 | 2026-09-28 | Scaffold new open-source Laravel packages with git already c... |
+| [waysnx/business-framework-laravel](https://github.com/waysnx/business-framework-laravel) | 1 | 2026-09-28 | Laravel 13 implementation of the WaysNX Business Framework (... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-28T18:38 | 3 | 1720 | 6669 |
 | 2026-09-28T12:47 | 6 | 1718 | 6666 |
 | 2026-09-28T07:02 | 6 | 1717 | 6661 |
 | 2026-09-28T01:12 | 4 | 1717 | 6655 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-27T01:11 | 7 | 1716 | 6639 |
 | 2026-09-26T18:34 | 3 | 1720 | 6632 |
 | 2026-09-26T12:37 | 10 | 1713 | 6629 |
-| 2026-09-26T06:43 | 1 | 1726 | 6620 |
 
 ---
 

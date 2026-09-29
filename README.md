@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6686  
-**Last updated:** 2026-09-29T12:46:02.562Z
+**Total packages tracked:** 6691  
+**Last updated:** 2026-09-29T18:38:44.133Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [sphinx-code-studio/filament-mobile-navigation](https://github.com/sphinx-code-studio/filament-mobile-navigation) | 0 | A Filament-native mobile bottom navigation plugin for Filament panels. |
+| [zielu92/filament-image-labeler](https://github.com/zielu92/filament-image-labeler) | 0 |  |
+| [igorsmoleac/design-laravel-kit](https://github.com/igorsmoleac/design-laravel-kit) | 0 | Blade components for Italian Public Administration websites and digital services... |
+| [siberfx/laravel-gemini](https://github.com/siberfx/laravel-gemini) | 0 | A production-ready Laravel package to integrate with the Google Gemini API. Supp... |
+| [DevPartner-Technologies/laravel-filament-gallery](https://github.com/DevPartner-Technologies/laravel-filament-gallery) | 0 | A powerful standalone Laravel & Filament 4 package for managing image galleries,... |
 | [gagaltotal/CMS-Blog-Starter-Laravel-Livewire-Starterkit](https://github.com/gagaltotal/CMS-Blog-Starter-Laravel-Livewire-Starterkit) | 0 | CMS Blog Starter - Laravel Livewire Starterkit |
 | [vibefilter/filament](https://github.com/vibefilter/filament) | 0 | Filtering beyond SQL. Filter your Filament tables by vibe. |
 | [smart48/le-ssl-laravel-package](https://github.com/smart48/le-ssl-laravel-package) | 0 | Let's Encrypt Laravel Package |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [petar-spasic/laravel-house](https://github.com/petar-spasic/laravel-house) | 1 | House rules for Laravel projects: project setup, Docker deployment and kanban ad... |
 | [jobmetric/laravel-taxonomy](https://github.com/jobmetric/laravel-taxonomy) | 7 | This is an optimized parent and child classification model for Laravel that you ... |
 | [authorOd/svitylo-anatomy-laravel](https://github.com/authorOd/svitylo-anatomy-laravel) | 0 | Laravel and Livewire integration of Svitylo 3D Anatomy Atlas (Composer: authorod... |
-| [jobmetric/laravel-custom-field](https://github.com/jobmetric/laravel-custom-field) | 5 | This is a custom field management package in Laravel that you can use in your pr... |
-| [jobmetric/media](https://github.com/jobmetric/media) | 7 | This package is for keeping the files of different Laravel projects. |
-| [2pointdelivery/easyreply-inbox](https://github.com/2pointdelivery/easyreply-inbox) | 0 | Self-hosted Laravel shared inbox package (EasyReply-style): email/Slack/WhatsApp... |
-| [mailgazelle/laravel-sdk](https://github.com/mailgazelle/laravel-sdk) | 0 | MailGazelle official Laravel SDK package |
-| [bhekor/laravel-paymish](https://github.com/bhekor/laravel-paymish) | 0 | A comprehensive Laravel package for seamless integration with the Paymish paymen... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [testmonitor/eloquent-searchable](https://github.com/testmonitor/eloquent-searchable) | 3 | 2026-09-29 | A Laravel package that adds search functionality to Eloquent... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-09-29 | [READ ONLY] API Platform for Laravel |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-29 | Durable execution for PHP: workflows that survive deploys, r... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-09-29 | The NativePHP website |
-| [lhaamed/MediaModule](https://github.com/lhaamed/MediaModule) | 0 | 2026-09-29 | A powerful and extensible Laravel package for centralized me... |
-| [testmonitor/laravel-vue-i18n-generator](https://github.com/testmonitor/laravel-vue-i18n-generator) | 5 | 2026-09-29 | This package compiles your Laravel translation files into a ... |
-| [futurebasesa/simple-fatoora-laravel](https://github.com/futurebasesa/simple-fatoora-laravel) | 0 | 2026-09-29 | Official Laravel package for the Simple Fatoora API |
-| [AmirGjzh/Planner](https://github.com/AmirGjzh/Planner) | 2 | 2026-09-29 | A personal task planner built with Laravel and Livewire for ... |
-| [md-anisujjaman-bd/awajdigital-laravel](https://github.com/md-anisujjaman-bd/awajdigital-laravel) | 0 | 2026-09-29 | Unofficial Laravel package for AwajDigital |
-| [RobertBoes/patchbay](https://github.com/RobertBoes/patchbay) | 1 | 2026-09-29 | Dynamic Laravel Reverb applications. Keep your WebSocket app... |
-| [vibefilter/filament](https://github.com/vibefilter/filament) | 0 | 2026-09-29 | Filtering beyond SQL. Filter your Filament tables by vibe. |
-| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-09-29 | A comprehensive toolkit providing foundational building bloc... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-29 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-09-29 | Filament plugin that allows to add dynamic, user-defined for... |
-| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | 2026-09-29 | A Laravel library for attaching files to Eloquent models. |
-| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-09-29 | Filament package for easy attachment uploading and browsing. |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 48 | 2026-09-29 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-09-29 | Laravel Podman brings Podman Quadlet support to your Laravel... |
-| [DeepskyLog/laravel-astronomy-library](https://github.com/DeepskyLog/laravel-astronomy-library) | 12 | 2026-09-29 | A library to perform astronomical calculations in php / lara... |
+| [One-Learning-Community/grease](https://github.com/One-Learning-Community/grease) | 12 | 2026-09-29 | Opt-in performance for Laravel's hot paths. One trait, byte-... |
+| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-09-29 | A headless CMS for Laravel: content modelled in PHP, edited ... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 3 | 2026-09-29 | Durable execution for PHP: workflows that survive deploys, r... |
+| [ArvidDeJong/livewire-flux-editor-filemanager](https://github.com/ArvidDeJong/livewire-flux-editor-filemanager) | 4 | 2026-09-29 | Laravel Filemanager integration for the Flux Pro editor: ins... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-09-29 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-29 | Automated code analysis for Laravel applications with 73 com... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-29 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-09-29 | A personal portfolio built as an interactive browser-based t... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-29 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-29 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-29 | Integrate Mixpanel analytics into Filament projects to track... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 0 | 2026-09-29 | ShieldCI Analyzer Core - Shared foundation for building stat... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-29 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
 | [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-09-29 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-29 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-29 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-09-29 | Sistema de gestão para centros e casas espíritas: assistidos... |
+| [siberfx/laravel-gemini](https://github.com/siberfx/laravel-gemini) | 0 | 2026-09-29 | A production-ready Laravel package to integrate with the Goo... |
+| [capell-app/structured-content-library](https://github.com/capell-app/structured-content-library) | 0 | 2026-09-29 | Typed, portable content records for safe reuse across Capell... |
+| [capell-app/inertia](https://github.com/capell-app/inertia) | 0 | 2026-09-29 | Shared Inertia runtime bridge for Capell public pages, packa... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-29T18:38 | 5 | 1709 | 6691 |
 | 2026-09-29T12:46 | 4 | 1711 | 6686 |
 | 2026-09-29T06:49 | 4 | 1713 | 6682 |
 | 2026-09-29T01:09 | 9 | 1708 | 6678 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-28T01:12 | 4 | 1717 | 6655 |
 | 2026-09-27T18:34 | 8 | 1715 | 6651 |
 | 2026-09-27T12:39 | 1 | 1723 | 6643 |
-| 2026-09-27T06:45 | 3 | 1721 | 6642 |
 
 ---
 

@@ -2,14 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6682  
-**Last updated:** 2026-09-29T06:49:37.989Z
+**Total packages tracked:** 6686  
+**Last updated:** 2026-09-29T12:46:02.562Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [Darkify19/filament-page-builder](https://github.com/Darkify19/filament-page-builder) | 0 | A drag-and-drop visual page builder for Filament 5 that stores content as ordere... |
+| [gagaltotal/CMS-Blog-Starter-Laravel-Livewire-Starterkit](https://github.com/gagaltotal/CMS-Blog-Starter-Laravel-Livewire-Starterkit) | 0 | CMS Blog Starter - Laravel Livewire Starterkit |
+| [vibefilter/filament](https://github.com/vibefilter/filament) | 0 | Filtering beyond SQL. Filter your Filament tables by vibe. |
+| [smart48/le-ssl-laravel-package](https://github.com/smart48/le-ssl-laravel-package) | 0 | Let's Encrypt Laravel Package |
+| [md-anisujjaman-bd/awajdigital-laravel](https://github.com/md-anisujjaman-bd/awajdigital-laravel) | 0 | Unofficial Laravel package for AwajDigital |
+| [Darkify19/filament-page-builder](https://github.com/Darkify19/filament-page-builder) | 2 | A drag-and-drop visual page builder for Filament 5 that stores content as ordere... |
 | [yusho-aoyama/ya-saas-jokes-app](https://github.com/yusho-aoyama/ya-saas-jokes-app) | 0 | Laravel MVC web application for managing, categorizing, and rating jokes with ro... |
 | [lhaamed/MediaModule](https://github.com/lhaamed/MediaModule) | 0 | A powerful and extensible Laravel package for centralized media management. |
 | [jimmerioles/Laravel-Dev-Extras](https://github.com/jimmerioles/Laravel-Dev-Extras) | 2 | A Laravel package with collection of helpful extra artisan console development c... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [2pointdelivery/easyreply-inbox](https://github.com/2pointdelivery/easyreply-inbox) | 0 | Self-hosted Laravel shared inbox package (EasyReply-style): email/Slack/WhatsApp... |
 | [mailgazelle/laravel-sdk](https://github.com/mailgazelle/laravel-sdk) | 0 | MailGazelle official Laravel SDK package |
 | [bhekor/laravel-paymish](https://github.com/bhekor/laravel-paymish) | 0 | A comprehensive Laravel package for seamless integration with the Paymish paymen... |
-| [andreacolzani/laravel-pgarray](https://github.com/andreacolzani/laravel-pgarray) | 0 | PostgreSQL arrays for Laravel |
-| [suhasrkms/Lara-Fire](https://github.com/suhasrkms/Lara-Fire) | 9 |  🔒 Laravel Firebase Auth Starter: User authentication, email verification, and ... |
-| [projecthanif/routescope](https://github.com/projecthanif/routescope) | 7 | A powerful route inspection tool for Laravel developers. |
-| [foxws/laravel-relatable](https://github.com/foxws/laravel-relatable) | 1 | Relate Eloquent models to other models, with a base score and boost to control t... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 0 | 2026-09-29 | Immutable and versioned Eloquent models with a gapless, cryp... |
-| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 7 | 2026-09-29 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-09-29 | A package to create datatables using alpinejs, tailwind, liv... |
-| [Darkify19/filament-page-builder](https://github.com/Darkify19/filament-page-builder) | 0 | 2026-09-29 | A drag-and-drop visual page builder for Filament 5 that stor... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-29 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [step2dev/lazy-ui](https://github.com/step2dev/lazy-ui) | 5 | 2026-09-29 | Lazy UI is a Laravel package that provides a set of Blade co... |
-| [lhaamed/MediaModule](https://github.com/lhaamed/MediaModule) | 0 | 2026-09-29 | A powerful and extensible Laravel package for centralized me... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-29 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-29 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [it-peoplelogy/laravel-xero-bridge](https://github.com/it-peoplelogy/laravel-xero-bridge) | 0 | 2026-09-29 | Shared Laravel package for the Xero Accounting API — OAuth c... |
+| [testmonitor/eloquent-searchable](https://github.com/testmonitor/eloquent-searchable) | 3 | 2026-09-29 | A Laravel package that adds search functionality to Eloquent... |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-09-29 | [READ ONLY] API Platform for Laravel |
 | [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-29 | Durable execution for PHP: workflows that survive deploys, r... |
-| [maiobarbero/laravel-boost-ddd](https://github.com/maiobarbero/laravel-boost-ddd) | 1 | 2026-09-29 | Laravel Boost DDD gives agents the architectural rules they ... |
-| [jimmerioles/Laravel-Dev-Extras](https://github.com/jimmerioles/Laravel-Dev-Extras) | 2 | 2026-09-29 | A Laravel package with collection of helpful extra artisan c... |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-29 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [NyonCode/wire-module-auth](https://github.com/NyonCode/wire-module-auth) | 0 | 2026-09-29 | The signed-out screens for wire: login, password reset, emai... |
-| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | 2026-09-29 | Standalone form system for the Wire ecosystem – fields, vali... |
-| [NyonCode/wire-module-users](https://github.com/NyonCode/wire-module-users) | 0 | 2026-09-29 | User administration for wire: a ready-made module with its r... |
-| [waysnx/business-framework-laravel](https://github.com/waysnx/business-framework-laravel) | 1 | 2026-09-29 | Laravel 13 implementation of the WaysNX Business Framework (... |
-| [NyonCode/wire-core](https://github.com/NyonCode/wire-core) | 0 | 2026-09-29 | Shared foundation for the Wire ecosystem – traits, actions, ... |
-| [NyonCode/wire-sortable](https://github.com/NyonCode/wire-sortable) | 0 | 2026-09-29 | Drag & drop row reordering plugin for wire-table. — READ ONL... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-09-29 | The NativePHP website |
+| [lhaamed/MediaModule](https://github.com/lhaamed/MediaModule) | 0 | 2026-09-29 | A powerful and extensible Laravel package for centralized me... |
+| [testmonitor/laravel-vue-i18n-generator](https://github.com/testmonitor/laravel-vue-i18n-generator) | 5 | 2026-09-29 | This package compiles your Laravel translation files into a ... |
+| [futurebasesa/simple-fatoora-laravel](https://github.com/futurebasesa/simple-fatoora-laravel) | 0 | 2026-09-29 | Official Laravel package for the Simple Fatoora API |
+| [AmirGjzh/Planner](https://github.com/AmirGjzh/Planner) | 2 | 2026-09-29 | A personal task planner built with Laravel and Livewire for ... |
+| [md-anisujjaman-bd/awajdigital-laravel](https://github.com/md-anisujjaman-bd/awajdigital-laravel) | 0 | 2026-09-29 | Unofficial Laravel package for AwajDigital |
+| [RobertBoes/patchbay](https://github.com/RobertBoes/patchbay) | 1 | 2026-09-29 | Dynamic Laravel Reverb applications. Keep your WebSocket app... |
+| [vibefilter/filament](https://github.com/vibefilter/filament) | 0 | 2026-09-29 | Filtering beyond SQL. Filter your Filament tables by vibe. |
+| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-09-29 | A comprehensive toolkit providing foundational building bloc... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-29 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-09-29 | Filament plugin that allows to add dynamic, user-defined for... |
+| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | 2026-09-29 | A Laravel library for attaching files to Eloquent models. |
+| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-09-29 | Filament package for easy attachment uploading and browsing. |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 48 | 2026-09-29 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-09-29 | Laravel Podman brings Podman Quadlet support to your Laravel... |
+| [DeepskyLog/laravel-astronomy-library](https://github.com/DeepskyLog/laravel-astronomy-library) | 12 | 2026-09-29 | A library to perform astronomical calculations in php / lara... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 121 | 2026-09-29 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-29T12:46 | 4 | 1711 | 6686 |
 | 2026-09-29T06:49 | 4 | 1713 | 6682 |
 | 2026-09-29T01:09 | 9 | 1708 | 6678 |
 | 2026-09-28T18:38 | 3 | 1720 | 6669 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-27T18:34 | 8 | 1715 | 6651 |
 | 2026-09-27T12:39 | 1 | 1723 | 6643 |
 | 2026-09-27T06:45 | 3 | 1721 | 6642 |
-| 2026-09-27T01:11 | 7 | 1716 | 6639 |
 
 ---
 

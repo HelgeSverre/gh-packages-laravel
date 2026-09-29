@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6669  
-**Last updated:** 2026-09-28T18:38:40.268Z
+**Total packages tracked:** 6678  
+**Last updated:** 2026-09-29T01:09:19.782Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [RomanSulzhyk/filament-import](https://github.com/RomanSulzhyk/filament-import) | 0 | Import CSV and Excel (.xlsx) files into any Filament v4 or v5 resource immediate... |
+| [Samuel11s/school-management-system](https://github.com/Samuel11s/school-management-system) | 1 | School management system built with Laravel 13, Livewire 4 and Bootstrap 5: stud... |
+| [levilabs-dev/laravel-fib](https://github.com/levilabs-dev/laravel-fib) | 0 | Modern Laravel SDK for First Iraqi Bank (FIB) — payments, payouts & refunds with... |
+| [laranail/barua](https://github.com/laranail/barua) | 0 | Responsive, un-styled Blade email components and a fluent mail builder for Larav... |
+| [petar-spasic/laravel-house](https://github.com/petar-spasic/laravel-house) | 1 | House rules for Laravel projects: project setup, Docker deployment and kanban ad... |
+| [jobmetric/laravel-taxonomy](https://github.com/jobmetric/laravel-taxonomy) | 7 | This is an optimized parent and child classification model for Laravel that you ... |
+| [authorOd/svitylo-anatomy-laravel](https://github.com/authorOd/svitylo-anatomy-laravel) | 0 | Laravel and Livewire integration of Svitylo 3D Anatomy Atlas (Composer: authorod... |
+| [jobmetric/laravel-custom-field](https://github.com/jobmetric/laravel-custom-field) | 5 | This is a custom field management package in Laravel that you can use in your pr... |
+| [jobmetric/media](https://github.com/jobmetric/media) | 7 | This package is for keeping the files of different Laravel projects. |
 | [2pointdelivery/easyreply-inbox](https://github.com/2pointdelivery/easyreply-inbox) | 0 | Self-hosted Laravel shared inbox package (EasyReply-style): email/Slack/WhatsApp... |
 | [mailgazelle/laravel-sdk](https://github.com/mailgazelle/laravel-sdk) | 0 | MailGazelle official Laravel SDK package |
 | [bhekor/laravel-paymish](https://github.com/bhekor/laravel-paymish) | 0 | A comprehensive Laravel package for seamless integration with the Paymish paymen... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [it-peoplelogy/laravel-xero-bridge](https://github.com/it-peoplelogy/laravel-xero-bridge) | 0 | Shared Laravel package for the Xero Accounting API — OAuth connections, invoices... |
 | [roberteinsle/FF88-Fahrzeugbuchung](https://github.com/roberteinsle/FF88-Fahrzeugbuchung) | 0 | Fahrzeugbuchung für die Freiwillige Feuerwehr Braak – Belegungskalender, Buchung... |
 | [GustavoSMelo/rogai_conosco](https://github.com/GustavoSMelo/rogai_conosco) | 0 | A simple pray platform to people ask prays in anonymous way |
-| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 0 | Immutable and versioned Eloquent models with a gapless, cryptographically verifi... |
-| [gabrielesbaiz/unsplash-toolkit](https://github.com/gabrielesbaiz/unsplash-toolkit) | 0 | A lightweight helper package to handle Unsplash photos |
-| [gabrielesbaiz/nova-field-map](https://github.com/gabrielesbaiz/nova-field-map) | 0 | Custom Laravel Nova 4 map detail field. |
-| [RashiqulRony/laravel-image-upload](https://github.com/RashiqulRony/laravel-image-upload) | 0 | This Package laravel image and file upload system, with s3 and use image interve... |
-| [jeffersongoncalves/filament-bladewind](https://github.com/jeffersongoncalves/filament-bladewind) | 1 | Per-page CSS for Filament panels: splits the fi-* theme per page with BladeWind ... |
-| [gabrielesbaiz/whatsapp-toolkit](https://github.com/gabrielesbaiz/whatsapp-toolkit) | 1 | A helper package to handle WhatsApp messages using api.whatsapp.com |
-| [pietervanleuven/laravel-ai-batch](https://github.com/pietervanleuven/laravel-ai-batch) | 0 | Run your existing laravel/ai agents through the OpenAI, Anthropic and OpenRouter... |
-| [gyorgy-gulyas/sahifa-laravel](https://github.com/gyorgy-gulyas/sahifa-laravel) | 0 | Laravel package for Sahifa: Blade views to PDF with correct Arabic/RTL text (a d... |
-| [LuizGustavoSantiagoo/UTFPR_BACKEND2_RESERVAS](https://github.com/LuizGustavoSantiagoo/UTFPR_BACKEND2_RESERVAS) | 0 | Sistemas de Reservas de ambientes/sub-ambientes com Laravel e livewire. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [erickcomp/laravel-stacked-components](https://github.com/erickcomp/laravel-stacked-components) | 0 | 2026-09-28 | This package provides some blade components that you can use... |
-| [step2dev/lazy-ui](https://github.com/step2dev/lazy-ui) | 5 | 2026-09-28 | Lazy UI is a Laravel package that provides a set of Blade co... |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-09-28 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-09-28 | Can a balcony weather station forecast its own next six hour... |
-| [jobmetric/laravel-setting](https://github.com/jobmetric/laravel-setting) | 6 | 2026-09-28 | The best package for saving system settings |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-09-28 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 203 | 2026-09-28 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 0 | 2026-09-28 | Immutable and versioned Eloquent models with a gapless, cryp... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-09-28 | Automated code analysis for Laravel applications with 73 com... |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-09-28 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-28 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-09-28 | Ptah — Laravel package that forges complete module structure... |
-| [laranail/artisan-ui](https://github.com/laranail/artisan-ui) | 0 | 2026-09-28 | A secure web panel for running Artisan commands: Gate-author... |
-| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-09-28 | Digitalización del trámite de incorporación de escuelas ante... |
-| [it-peoplelogy/laravel-xero-bridge](https://github.com/it-peoplelogy/laravel-xero-bridge) | 0 | 2026-09-28 | Shared Laravel package for the Xero Accounting API — OAuth c... |
-| [mailgazelle/laravel-sdk](https://github.com/mailgazelle/laravel-sdk) | 0 | 2026-09-28 | MailGazelle official Laravel SDK package |
-| [robot-council/core](https://github.com/robot-council/core) | 1 | 2026-09-28 | The core of Robot Council, a coordination service for fleets... |
-| [Coyote6/laravel-base](https://github.com/Coyote6/laravel-base) | 0 | 2026-09-28 | A collection of commonly used traits that are used throughou... |
-| [jeffersongoncalves/laravel-package-cli](https://github.com/jeffersongoncalves/laravel-package-cli) | 1 | 2026-09-28 | Scaffold new open-source Laravel packages with git already c... |
-| [waysnx/business-framework-laravel](https://github.com/waysnx/business-framework-laravel) | 1 | 2026-09-28 | Laravel 13 implementation of the WaysNX Business Framework (... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-09-29 | Ptah — Laravel package that forges complete module structure... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-09-29 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [AlwaysCuriousCo/laravel-vin](https://github.com/AlwaysCuriousCo/laravel-vin) | 4 | 2026-09-29 | Use the NHTSA API to decode VIN lookups |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-09-29 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [phpclaw-php/phpclaw-monorepo](https://github.com/phpclaw-php/phpclaw-monorepo) | 11 | 2026-09-29 | The universal AI agent engine for PHP. Tools, memory, guards... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 2 | 2026-09-29 | Durable execution for PHP: workflows that survive deploys, r... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-29 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [petar-spasic/laravel-house](https://github.com/petar-spasic/laravel-house) | 1 | 2026-09-29 | House rules for Laravel projects: project setup, Docker depl... |
+| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-09-29 | Sales and warehousing management system |
+| [maiobarbero/laravel-boost-ddd](https://github.com/maiobarbero/laravel-boost-ddd) | 1 | 2026-09-29 | Laravel Boost DDD gives agents the architectural rules they ... |
+| [jeffersongoncalves/laravel-salesforce](https://github.com/jeffersongoncalves/laravel-salesforce) | 1 | 2026-09-29 | PHP/Laravel client for the Salesforce REST API: SOQL queries... |
+| [jeffersongoncalves/laravel-mailchimp](https://github.com/jeffersongoncalves/laravel-mailchimp) | 1 | 2026-09-29 | Laravel client for Mailchimp's Marketing API: lists, members... |
+| [jeffersongoncalves/laravel-hunter](https://github.com/jeffersongoncalves/laravel-hunter) | 1 | 2026-09-29 | Hunter.io email finding, verification, domain search and lea... |
+| [jeffersongoncalves/laravel-favicon](https://github.com/jeffersongoncalves/laravel-favicon) | 2 | 2026-09-29 | Serve a favicon.ico route, browserconfig.xml, and Apple/PNG ... |
+| [jeffersongoncalves/laravel-dub](https://github.com/jeffersongoncalves/laravel-dub) | 1 | 2026-09-29 | A lightweight Dub.co API client for Laravel — link managemen... |
+| [jeffersongoncalves/laravel-demio](https://github.com/jeffersongoncalves/laravel-demio) | 1 | 2026-09-29 | A lightweight Demio webinar API client for Laravel — events,... |
+| [jeffersongoncalves/laravel-clearbit](https://github.com/jeffersongoncalves/laravel-clearbit) | 1 | 2026-09-29 | PHP/Laravel client for the Clearbit REST API: person enrichm... |
+| [jeffersongoncalves/laravel-socialite](https://github.com/jeffersongoncalves/laravel-socialite) | 1 | 2026-09-29 | UI-agnostic Laravel Socialite toolkit: fluent providers, use... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-09-29 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-09-29 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-29T01:09 | 9 | 1708 | 6678 |
 | 2026-09-28T18:38 | 3 | 1720 | 6669 |
 | 2026-09-28T12:47 | 6 | 1718 | 6666 |
 | 2026-09-28T07:02 | 6 | 1717 | 6661 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-27T06:45 | 3 | 1721 | 6642 |
 | 2026-09-27T01:11 | 7 | 1716 | 6639 |
 | 2026-09-26T18:34 | 3 | 1720 | 6632 |
-| 2026-09-26T12:37 | 10 | 1713 | 6629 |
 
 ---
 

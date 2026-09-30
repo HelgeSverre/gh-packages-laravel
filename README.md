@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6700  
-**Last updated:** 2026-09-30T06:50:03.318Z
+**Total packages tracked:** 6702  
+**Last updated:** 2026-09-30T12:48:46.566Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Smansilla98/SistemaDeGestion](https://github.com/Smansilla98/SistemaDeGestion) | 0 | Sistema de gestion para restaurantes: mesas, pedidos, cocina, caja, stock y repo... |
+| [maksanikienko/laravel-saml-mpass](https://github.com/maksanikienko/laravel-saml-mpass) | 0 | Laravel package for SAML 2.0 authentication via MPass (Moldova government SSO/SL... |
 | [gplanchat/durable-filament](https://github.com/gplanchat/durable-filament) | 0 | Filament 3 and 4 panel plugin: an admin dashboard for Durable workflow execution... |
 | [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | Plataforma de planeación y control de producción para manufactura textil (Larave... |
 | [connectmedia-ke/connectmedia-laravel](https://github.com/connectmedia-ke/connectmedia-laravel) | 0 | Laravel package for the Connect Media SMS API: send bulk SMS and SMS notificatio... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [vibefilter/filament](https://github.com/vibefilter/filament) | 0 | Filtering beyond SQL. Filter your Filament tables by vibe. |
 | [smart48/le-ssl-laravel-package](https://github.com/smart48/le-ssl-laravel-package) | 0 | Let's Encrypt Laravel Package |
 | [md-anisujjaman-bd/awajdigital-laravel](https://github.com/md-anisujjaman-bd/awajdigital-laravel) | 0 | Unofficial Laravel package for AwajDigital |
-| [Darkify19/filament-page-builder](https://github.com/Darkify19/filament-page-builder) | 6 | A drag-and-drop visual page builder for Filament 3, 4 and 5 that stores content ... |
-| [yusho-aoyama/ya-saas-jokes-app](https://github.com/yusho-aoyama/ya-saas-jokes-app) | 0 | Laravel MVC web application for managing, categorizing, and rating jokes with ro... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -42,8 +42,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 466 | Open Source Laravel CRM Package |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 465 | Open Source Laravel CRM Package |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 464 | A simple package to help integrate Cloudflare Turnstile. |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 449 | A package to handle multilingual routes in your Laravel application. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-09-30 | A comprehensive toolkit providing foundational building bloc... |
-| [jeffersongoncalves/laravel-webhooks](https://github.com/jeffersongoncalves/laravel-webhooks) | 1 | 2026-09-30 | Outgoing webhooks for Laravel fired by Eloquent model events... |
-| [AIArmada/engagement](https://github.com/AIArmada/engagement) | 0 | 2026-09-30 | Laravel engagement package: follow, bookmark, respond, react... |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-09-30 | Manage, process, and serve files in Laravel with scalable up... |
-| [webmilmind1/laravel-deskcrew](https://github.com/webmilmind1/laravel-deskcrew) | 0 | 2026-09-30 | Laravel package for the DeskCrew support widget: a Blade dir... |
-| [centrex/laravel-package-skeleton](https://github.com/centrex/laravel-package-skeleton) | 1 | 2026-09-30 | A skeleton repository for Laravel Packages |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-09-30 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [hwkdo/bue-laravel](https://github.com/hwkdo/bue-laravel) | 0 | 2026-09-30 | a package to use bue hwk-universal in laravel |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-09-30 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 2 | 2026-09-30 | A self-hosted ActivityPub server implementation for Laravel ... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-09-30 | Integrate Mixpanel analytics into Filament projects to track... |
-| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-09-30 |  |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-09-30 | Plataforma de planeación y control de producción para manufa... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-09-30 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-09-30 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-09-30 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-09-30 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Gowa-PHP/filament](https://github.com/Gowa-PHP/filament) | 1 | 2026-09-30 | Official Filament v5 / v4 / v3 plugin for integrating GOWA (... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-09-30 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-09-30 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [Smansilla98/SistemaDeGestion](https://github.com/Smansilla98/SistemaDeGestion) | 0 | 2026-09-30 | Sistema de gestion para restaurantes: mesas, pedidos, cocina... |
+| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 1 | 2026-09-30 | Laravel Monitor: A lightweight Laravel package providing bas... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-09-30 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-09-30 | Can a balcony weather station forecast its own next six hour... |
+| [Rhaima96/laravel-flouci](https://github.com/Rhaima96/laravel-flouci) | 0 | 2026-09-30 | laravel-flouci est un package Laravel pour integrer Flouci d... |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-09-30 | Laravel Podman brings Podman Quadlet support to your Laravel... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 3 | 2026-09-30 | Durable execution for PHP: workflows that survive deploys, r... |
+| [statikbe/laravel-cookie-consent](https://github.com/statikbe/laravel-cookie-consent) | 222 | 2026-09-30 | The package includes a script & styling for a cookie banner ... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-09-30 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-09-30 | A headless CMS for Laravel: content modelled in PHP, edited ... |
+| [testmonitor/eloquent-searchable](https://github.com/testmonitor/eloquent-searchable) | 3 | 2026-09-30 | A Laravel package that adds search functionality to Eloquent... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-09-30 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-09-30 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-09-30 | Somente leitura — espelho de packages/installer do monorepo ... |
+| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-09-30 | Somente leitura — espelho de packages/admin do monorepo kelv... |
+| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-09-30 | Somente leitura — espelho de packages/uploads do monorepo ke... |
+| [kelvindk9w/twstec-kit-accounts](https://github.com/kelvindk9w/twstec-kit-accounts) | 0 | 2026-09-30 | Somente leitura — espelho de packages/accounts do monorepo k... |
+| [kelvindk9w/twstec-kit-auth](https://github.com/kelvindk9w/twstec-kit-auth) | 0 | 2026-09-30 | Somente leitura — espelho de packages/auth do monorepo kelvi... |
+| [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | 2026-09-30 | Somente leitura — espelho de packages/foundation do monorepo... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-30 | A multi-purpose content and application platform for Laravel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-09-30T12:48 | 2 | 1713 | 6702 |
 | 2026-09-30T06:50 | 2 | 1714 | 6700 |
 | 2026-09-30T01:11 | 7 | 1709 | 6698 |
 | 2026-09-29T18:38 | 5 | 1709 | 6691 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-28T18:38 | 3 | 1720 | 6669 |
 | 2026-09-28T12:47 | 6 | 1718 | 6666 |
 | 2026-09-28T07:02 | 6 | 1717 | 6661 |
-| 2026-09-28T01:12 | 4 | 1717 | 6655 |
 
 ---
 

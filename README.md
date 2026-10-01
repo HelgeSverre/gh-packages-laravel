@@ -2,16 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6721  
-**Last updated:** 2026-10-01T12:45:30.485Z
+**Total packages tracked:** 6727  
+**Last updated:** 2026-10-01T18:39:26.345Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | Self-hosted, first-party analytics for Laravel: page views, sessions, custom eve... |
+| [ArtisanPack-UI/ecommerce-admin-livewire](https://github.com/ArtisanPack-UI/ecommerce-admin-livewire) | 0 | Livewire admin for the ArtisanPack UI ecommerce engine — products, orders, custo... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 1 | The Laravel framework for WordPress: Blade, Laravel routing and Eloquent, PHP 8 ... |
+| [AryeoHQ/eloquent-search](https://github.com/AryeoHQ/eloquent-search) | 0 | Laravel package providing OpenSearch Scout integration, index migration tooling,... |
+| [Jeromedia/JM-Laravel-Github-Version-Package](https://github.com/Jeromedia/JM-Laravel-Github-Version-Package) | 0 | A Laravel package to fetch and compare GitHub repository versions. |
+| [Stanislas-Poisson/French-zip-code](https://github.com/Stanislas-Poisson/French-zip-code) | 87 | Laravel package that builds and maintains a normalized database of France's regi... |
 | [emrebalasar/larascan](https://github.com/emrebalasar/larascan) | 1 | Laravel Core Native Adoption & Inventory Engine. AST static analysis to measure ... |
-| [tomaszboloz/Laravel-Updater](https://github.com/tomaszboloz/Laravel-Updater) | 0 | Self-update Laravel apps from GitHub releases (public & private): code, Composer... |
-| [zowesoft/laravel-credo](https://github.com/zowesoft/laravel-credo) | 0 | A fluent Laravel package for the Credo payment gateway (credocentral.com / credo... |
+| [tomaszboloz/Laravel-Updater](https://github.com/tomaszboloz/Laravel-Updater) | 1 | Self-update Laravel apps from GitHub releases (public & private): code, Composer... |
+| [zowesoft/laravel-credo](https://github.com/zowesoft/laravel-credo) | 1 | A fluent Laravel package for the Credo payment gateway (credocentral.com / credo... |
 | [Yatmo/yatmo-laravel](https://github.com/Yatmo/yatmo-laravel) | 0 | Laravel package for Yatmo: Blade components for the real estate map, nearby poin... |
 | [bachtiarpanjaitan/btx](https://github.com/bachtiarpanjaitan/btx) | 3 | General additional package for laravel framework |
 | [ILDaviz/lunargraphql](https://github.com/ILDaviz/lunargraphql) | 9 | The Lunargraphql is GraphQL package provides features for integrating GraphQL in... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | Laravel package for the eRecht24 API. Simple integration by automatic client reg... |
 | [doxa-soft/laravel-seeme](https://github.com/doxa-soft/laravel-seeme) | 0 | Laravel package for SeeMe SMS delivery service |
 | [SytxLabs/BladeSandbox](https://github.com/SytxLabs/BladeSandbox) | 0 | Default-deny security sandbox for rendering untrusted Laravel Blade templates, v... |
-| [Bokshorn-IT/filament-self-updater](https://github.com/Bokshorn-IT/filament-self-updater) | 0 | Update a Laravel application from its own GitHub repository through Filament: ne... |
-| [Sodeker-SAS/package-laravel-pdf](https://github.com/Sodeker-SAS/package-laravel-pdf) | 0 | Paquete laravel para la generación de pdfs |
-| [isocroft/laravel-faked](https://github.com/isocroft/laravel-faked) | 0 | A simple library that fakes out all the core components in the suite of Illumina... |
-| [Sodeker-SAS/package-laravel-attachements](https://github.com/Sodeker-SAS/package-laravel-attachements) | 0 |  |
-| [kiagts/ezshopit-laravel](https://github.com/kiagts/ezshopit-laravel) | 0 | Laravel ecommerce package for ultra fast online shops, scalable marketplaces, co... |
-| [Smansilla98/SistemaDeGestion](https://github.com/Smansilla98/SistemaDeGestion) | 0 | Sistema de gestion para restaurantes: mesas, pedidos, cocina, caja, stock y repo... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [illegalstudio/insideauth](https://github.com/illegalstudio/insideauth) | 6 | 2026-10-01 | Seamless side authentication solution for Laravel |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-01 | Plataforma de planeación y control de producción para manufa... |
+| [AryeoHQ/eloquent-search](https://github.com/AryeoHQ/eloquent-search) | 0 | 2026-10-01 | Laravel package providing OpenSearch Scout integration, inde... |
+| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 15 | 2026-10-01 | Source code for the new pokemon3d.net website |
+| [robot-council/core](https://github.com/robot-council/core) | 1 | 2026-10-01 | The core of Robot Council, a coordination service for fleets... |
+| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 1 | 2026-10-01 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
+| [AlwaysCuriousCo/package-pipeline](https://github.com/AlwaysCuriousCo/package-pipeline) | 47 | 2026-10-01 | Self-hosted private Composer registry |
+| [isocroft/laravel-faked](https://github.com/isocroft/laravel-faked) | 0 | 2026-10-01 | A simple library that fakes out all the core components in t... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-10-01 | An up-to-date SDK package for all your Teamleader API needs! |
+| [ades4827/sprintflow](https://github.com/ades4827/sprintflow) | 1 | 2026-10-01 | Laravel Package for speed up your project development |
+| [zowesoft/laravel-credo](https://github.com/zowesoft/laravel-credo) | 1 | 2026-10-01 | A fluent Laravel package for the Credo payment gateway (cred... |
+| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-10-01 | https://songrank.dev - Rank your favorite artists' tracks. |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-01 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-10-01 | Chief admin package |
-| [zielu92/filament-image-labeler](https://github.com/zielu92/filament-image-labeler) | 0 | 2026-10-01 |  |
-| [artisan-build/built-for-cloud-starter](https://github.com/artisan-build/built-for-cloud-starter) | 0 | 2026-10-01 | Starter kit for Built for Cloud products: laravel-nodeless p... |
-| [emrebalasar/larascan](https://github.com/emrebalasar/larascan) | 1 | 2026-10-01 | Laravel Core Native Adoption & Inventory Engine. AST static ... |
+| [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | 2026-10-01 | Self-hosted, first-party analytics for Laravel: page views, ... |
+| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-10-01 | Digitalización del trámite de incorporación de escuelas ante... |
+| [jooservices/laravel-repository](https://github.com/jooservices/laravel-repository) | 0 | 2026-10-01 | PHP 8.5+ Laravel repository package — trait-based CRUD, filt... |
+| [Stanislas-Poisson/French-zip-code](https://github.com/Stanislas-Poisson/French-zip-code) | 87 | 2026-10-01 | Laravel package that builds and maintains a normalized datab... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [authorOd/svitylo-anatomy-laravel](https://github.com/authorOd/svitylo-anatomy-laravel) | 0 | 2026-10-01 | Laravel and Livewire integration of Svitylo 3D Anatomy Atlas... |
-| [masmaleki/zoho-one](https://github.com/masmaleki/zoho-one) | 3 | 2026-10-01 | Laravel package for ZOHO all in one |
-| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 | 2026-10-01 |  |
-| [tomaszboloz/Laravel-Updater](https://github.com/tomaszboloz/Laravel-Updater) | 0 | 2026-10-01 | Self-update Laravel apps from GitHub releases (public & priv... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-01 | Durable execution for PHP: workflows that survive deploys, r... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-01 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-10-01 | Can a balcony weather station forecast its own next six hour... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-01 | Filament plugin that allows to add dynamic, user-defined for... |
-| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 0 | 2026-10-01 | Immutable and versioned Eloquent models with a gapless, cryp... |
-| [zowesoft/laravel-credo](https://github.com/zowesoft/laravel-credo) | 0 | 2026-10-01 | A fluent Laravel package for the Credo payment gateway (cred... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-01 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [always-open/serp-api](https://github.com/always-open/serp-api) | 0 | 2026-10-01 | Laravel package to wrap Serp API |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-01 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [samuelterra22/filament-pwa](https://github.com/samuelterra22/filament-pwa) | 0 | 2026-10-01 | Progressive Web App (PWA) integration for FilamentPHP panels... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-01 | A multi-purpose content and application platform for Laravel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-01T18:39 | 6 | 1710 | 6727 |
 | 2026-10-01T12:45 | 7 | 1710 | 6721 |
 | 2026-10-01T06:51 | 1 | 1716 | 6714 |
 | 2026-10-01T01:18 | 5 | 1711 | 6713 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-30T01:11 | 7 | 1709 | 6698 |
 | 2026-09-29T18:38 | 5 | 1709 | 6691 |
 | 2026-09-29T12:46 | 4 | 1711 | 6686 |
-| 2026-09-29T06:49 | 4 | 1713 | 6682 |
 
 ---
 

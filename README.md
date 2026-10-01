@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6708  
-**Last updated:** 2026-09-30T18:38:02.246Z
+**Total packages tracked:** 6713  
+**Last updated:** 2026-10-01T01:18:20.275Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [skillbobby/Spiggle-Filament-Portal-Snapshot](https://github.com/skillbobby/Spiggle-Filament-Portal-Snapshot) | 0 | Filament 4/5 plugin for creating, scheduling, restoring, exporting and remotely ... |
+| [jobmetric/laravel-comment](https://github.com/jobmetric/laravel-comment) | 5 | This is a comment management package for Laravel that you can use in your projec... |
+| [siberfx/typesense-scout](https://github.com/siberfx/typesense-scout) | 0 | Laravel 12/13 Scout - Typesense integration, This package makes it easy to add f... |
+| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | Laravel package for the eRecht24 API. Simple integration by automatic client reg... |
+| [doxa-soft/laravel-seeme](https://github.com/doxa-soft/laravel-seeme) | 0 | Laravel package for SeeMe SMS delivery service |
 | [SytxLabs/BladeSandbox](https://github.com/SytxLabs/BladeSandbox) | 0 | Default-deny security sandbox for rendering untrusted Laravel Blade templates, v... |
 | [Bokshorn-IT/filament-self-updater](https://github.com/Bokshorn-IT/filament-self-updater) | 0 | Update a Laravel application from its own GitHub repository through Filament: ne... |
 | [Sodeker-SAS/package-laravel-pdf](https://github.com/Sodeker-SAS/package-laravel-pdf) | 0 | Paquete laravel para la generación de pdfs |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | Somente leitura — espelho de packages/foundation do monorepo kelvindk9w/tws-lara... |
 | [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | Somente leitura — espelho de packages/admin do monorepo kelvindk9w/tws-laravel-s... |
 | [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | Somente leitura — espelho de packages/uploads do monorepo kelvindk9w/tws-laravel... |
-| [kelvindk9w/twstec-kit-accounts](https://github.com/kelvindk9w/twstec-kit-accounts) | 0 | Somente leitura — espelho de packages/accounts do monorepo kelvindk9w/tws-larave... |
-| [kelvindk9w/twstec-kit-auth](https://github.com/kelvindk9w/twstec-kit-auth) | 0 | Somente leitura — espelho de packages/auth do monorepo kelvindk9w/tws-laravel-st... |
-| [sphinx-code-studio/filament-mobile-navigation](https://github.com/sphinx-code-studio/filament-mobile-navigation) | 0 | A Filament-native mobile bottom navigation plugin for Filament panels. |
-| [zielu92/filament-image-labeler](https://github.com/zielu92/filament-image-labeler) | 0 |  |
-| [igorsmoleac/design-laravel-kit](https://github.com/igorsmoleac/design-laravel-kit) | 0 | Blade components for Italian Public Administration websites and digital services... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 3 | 2026-09-30 | Free, read-only Filament observability panel for Laravel Swa... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 3 | 2026-09-30 | Durable execution for PHP: workflows that survive deploys, r... |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 1 | 2026-09-30 | Laravel Monitor: A lightweight Laravel package providing bas... |
-| [robot-council/core](https://github.com/robot-council/core) | 1 | 2026-09-30 | The core of Robot Council, a coordination service for fleets... |
-| [jobmetric/laravel-taxonomy](https://github.com/jobmetric/laravel-taxonomy) | 7 | 2026-09-30 | This is an optimized parent and child classification model f... |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-09-30 | Plataforma de planeación y control de producción para manufa... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-09-30 | The flexible backbone for your next CMS. This powerful frame... |
-| [jobmetric/media](https://github.com/jobmetric/media) | 7 | 2026-09-30 | This package is for keeping the files of different Laravel p... |
-| [jobmetric/laravel-translation](https://github.com/jobmetric/laravel-translation) | 11 | 2026-09-30 |  |
-| [jobmetric/laravel-metadata](https://github.com/jobmetric/laravel-metadata) | 11 | 2026-09-30 | This package is for the metadata of different Laravel projec... |
-| [SytxLabs/BladeSandbox](https://github.com/SytxLabs/BladeSandbox) | 0 | 2026-09-30 | Default-deny security sandbox for rendering untrusted Larave... |
-| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-09-30 | Somente leitura — espelho de packages/installer do monorepo ... |
-| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-09-30 | Somente leitura — espelho de packages/admin do monorepo kelv... |
-| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-09-30 | Somente leitura — espelho de packages/uploads do monorepo ke... |
-| [kelvindk9w/twstec-kit-accounts](https://github.com/kelvindk9w/twstec-kit-accounts) | 0 | 2026-09-30 | Somente leitura — espelho de packages/accounts do monorepo k... |
-| [kelvindk9w/twstec-kit-auth](https://github.com/kelvindk9w/twstec-kit-auth) | 0 | 2026-09-30 | Somente leitura — espelho de packages/auth do monorepo kelvi... |
-| [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | 2026-09-30 | Somente leitura — espelho de packages/foundation do monorepo... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-09-30 | A multi-purpose content and application platform for Laravel... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 0 | 2026-09-30 |  |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-09-30 | A Laravel package that provides flexible and extensible reso... |
+| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 4 | 2026-10-01 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
+| [jeffersongoncalves/laravel-queue-management](https://github.com/jeffersongoncalves/laravel-queue-management) | 2 | 2026-10-01 | Manage Laravel's database queue tables (jobs, failed_jobs, j... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-10-01 | Automated code analysis for Laravel applications with 73 com... |
+| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-10-01 | An up-to-date SDK package for all your Teamleader API needs! |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-01 | Plataforma de planeación y control de producción para manufa... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-10-01 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-10-01 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-10-01 | Manage and track inventory with a PHP package that integrate... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-10-01 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-10-01 |  |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-10-01 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-10-01 | A personal portfolio built as an interactive browser-based t... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-10-01 | Ptah — Laravel package that forges complete module structure... |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-10-01 | A practical work management information system built with La... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-01 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-10-01 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-10-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [isocroft/laravel-faked](https://github.com/isocroft/laravel-faked) | 0 | 2026-10-01 | A simple library that fakes out all the core components in t... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-01 | A multi-purpose content and application platform for Laravel... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-10-01 | A Laravel-based web application that tracks, analyzes, and p... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-01T01:18 | 5 | 1711 | 6713 |
 | 2026-09-30T18:38 | 6 | 1710 | 6708 |
 | 2026-09-30T12:48 | 2 | 1713 | 6702 |
 | 2026-09-30T06:50 | 2 | 1714 | 6700 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-29T06:49 | 4 | 1713 | 6682 |
 | 2026-09-29T01:09 | 9 | 1708 | 6678 |
 | 2026-09-28T18:38 | 3 | 1720 | 6669 |
-| 2026-09-28T12:47 | 6 | 1718 | 6666 |
 
 ---
 

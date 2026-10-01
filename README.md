@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6714  
-**Last updated:** 2026-10-01T06:51:05.028Z
+**Total packages tracked:** 6721  
+**Last updated:** 2026-10-01T12:45:30.485Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [emrebalasar/larascan](https://github.com/emrebalasar/larascan) | 1 | Laravel Core Native Adoption & Inventory Engine. AST static analysis to measure ... |
+| [tomaszboloz/Laravel-Updater](https://github.com/tomaszboloz/Laravel-Updater) | 0 | Self-update Laravel apps from GitHub releases (public & private): code, Composer... |
+| [zowesoft/laravel-credo](https://github.com/zowesoft/laravel-credo) | 0 | A fluent Laravel package for the Credo payment gateway (credocentral.com / credo... |
+| [Yatmo/yatmo-laravel](https://github.com/Yatmo/yatmo-laravel) | 0 | Laravel package for Yatmo: Blade components for the real estate map, nearby poin... |
+| [bachtiarpanjaitan/btx](https://github.com/bachtiarpanjaitan/btx) | 3 | General additional package for laravel framework |
+| [ILDaviz/lunargraphql](https://github.com/ILDaviz/lunargraphql) | 9 | The Lunargraphql is GraphQL package provides features for integrating GraphQL in... |
+| [dilano043/laravel-dashboard-dutch-trains-package](https://github.com/dilano043/laravel-dashboard-dutch-trains-package) | 0 | Dutch train live departure board tile for Laravel Dashboard |
 | [imagewize/ssl-manager](https://github.com/imagewize/ssl-manager) | 0 | Let's Encrypt Laravel Package |
 | [skillbobby/Spiggle-Filament-Portal-Snapshot](https://github.com/skillbobby/Spiggle-Filament-Portal-Snapshot) | 1 | Filament 4/5 plugin for creating, scheduling, restoring, exporting and remotely ... |
 | [jobmetric/laravel-comment](https://github.com/jobmetric/laravel-comment) | 5 | This is a comment management package for Laravel that you can use in your projec... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Sodeker-SAS/package-laravel-attachements](https://github.com/Sodeker-SAS/package-laravel-attachements) | 0 |  |
 | [kiagts/ezshopit-laravel](https://github.com/kiagts/ezshopit-laravel) | 0 | Laravel ecommerce package for ultra fast online shops, scalable marketplaces, co... |
 | [Smansilla98/SistemaDeGestion](https://github.com/Smansilla98/SistemaDeGestion) | 0 | Sistema de gestion para restaurantes: mesas, pedidos, cocina, caja, stock y repo... |
-| [maksanikienko/laravel-saml-mpass](https://github.com/maksanikienko/laravel-saml-mpass) | 0 | Laravel package for SAML 2.0 authentication via MPass (Moldova government SSO/SL... |
-| [gplanchat/durable-filament](https://github.com/gplanchat/durable-filament) | 0 | Filament 3 and 4 panel plugin: an admin dashboard for Durable workflow execution... |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | Plataforma de planeación y control de producción para manufactura textil (Larave... |
-| [connectmedia-ke/connectmedia-laravel](https://github.com/connectmedia-ke/connectmedia-laravel) | 0 | Laravel package for the Connect Media SMS API: send bulk SMS and SMS notificatio... |
-| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | Somente leitura — espelho de packages/installer do monorepo kelvindk9w/tws-larav... |
-| [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | Somente leitura — espelho de packages/foundation do monorepo kelvindk9w/tws-lara... |
-| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | Somente leitura — espelho de packages/admin do monorepo kelvindk9w/tws-laravel-s... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-10-01 |  |
-| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-10-01 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 100 | 2026-10-01 | A Filament package to manage adjacency lists (aka trees). |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-10-01 | The Moox Project - Packages for Filament and Laravel |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-10-01 | A package to create datatables using alpinejs, tailwind, liv... |
-| [jay123anta/laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | 35 | 2026-10-01 | Passive intrusion detection for Laravel. Logs SQL injection,... |
+| [illegalstudio/insideauth](https://github.com/illegalstudio/insideauth) | 6 | 2026-10-01 | Seamless side authentication solution for Laravel |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-01 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-10-01 | Chief admin package |
+| [zielu92/filament-image-labeler](https://github.com/zielu92/filament-image-labeler) | 0 | 2026-10-01 |  |
+| [artisan-build/built-for-cloud-starter](https://github.com/artisan-build/built-for-cloud-starter) | 0 | 2026-10-01 | Starter kit for Built for Cloud products: laravel-nodeless p... |
+| [emrebalasar/larascan](https://github.com/emrebalasar/larascan) | 1 | 2026-10-01 | Laravel Core Native Adoption & Inventory Engine. AST static ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [authorOd/svitylo-anatomy-laravel](https://github.com/authorOd/svitylo-anatomy-laravel) | 0 | 2026-10-01 | Laravel and Livewire integration of Svitylo 3D Anatomy Atlas... |
 | [masmaleki/zoho-one](https://github.com/masmaleki/zoho-one) | 3 | 2026-10-01 | Laravel package for ZOHO all in one |
-| [mattmy/laravel-icalendar-reader](https://github.com/mattmy/laravel-icalendar-reader) | 0 | 2026-10-01 | Read, validate, and query .ics calendars with a Laravel API—... |
-| [robot-council/core](https://github.com/robot-council/core) | 1 | 2026-10-01 | The core of Robot Council, a coordination service for fleets... |
-| [vonsofh/laravel-faspay-test-lab](https://github.com/vonsofh/laravel-faspay-test-lab) | 1 | 2026-10-01 | Laravel package for Faspay SNAP UAT certification & automate... |
-| [ayimdomnic/laragraph](https://github.com/ayimdomnic/laragraph) | 3 | 2026-10-01 | A modern, feature-rich, code-first GraphQL package for Larav... |
-| [95tuanle/project-management-with-laravel](https://github.com/95tuanle/project-management-with-laravel) | 0 | 2026-10-01 | Simple Project Management Application with Laravel |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 3 | 2026-10-01 | Durable execution for PHP: workflows that survive deploys, r... |
-| [imagewize/ssl-manager](https://github.com/imagewize/ssl-manager) | 0 | 2026-10-01 | Let's Encrypt Laravel Package |
-| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-10-01 | Manage and track inventory with a PHP package that integrate... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-10-01 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-10-01 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 25 | 2026-10-01 | Laritor is a Laravel-native observability platform that help... |
-| [BushlanovDev/max-bot-api-client-php](https://github.com/BushlanovDev/max-bot-api-client-php) | 50 | 2026-10-01 | 🤖💬 Max Bot API Client library for PHP |
+| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 | 2026-10-01 |  |
+| [tomaszboloz/Laravel-Updater](https://github.com/tomaszboloz/Laravel-Updater) | 0 | 2026-10-01 | Self-update Laravel apps from GitHub releases (public & priv... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-01 | Durable execution for PHP: workflows that survive deploys, r... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-01 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-10-01 | Can a balcony weather station forecast its own next six hour... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-01 | Filament plugin that allows to add dynamic, user-defined for... |
+| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 0 | 2026-10-01 | Immutable and versioned Eloquent models with a gapless, cryp... |
+| [zowesoft/laravel-credo](https://github.com/zowesoft/laravel-credo) | 0 | 2026-10-01 | A fluent Laravel package for the Credo payment gateway (cred... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-01 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [always-open/serp-api](https://github.com/always-open/serp-api) | 0 | 2026-10-01 | Laravel package to wrap Serp API |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-01 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-01T12:45 | 7 | 1710 | 6721 |
 | 2026-10-01T06:51 | 1 | 1716 | 6714 |
 | 2026-10-01T01:18 | 5 | 1711 | 6713 |
 | 2026-09-30T18:38 | 6 | 1710 | 6708 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-29T18:38 | 5 | 1709 | 6691 |
 | 2026-09-29T12:46 | 4 | 1711 | 6686 |
 | 2026-09-29T06:49 | 4 | 1713 | 6682 |
-| 2026-09-29T01:09 | 9 | 1708 | 6678 |
 
 ---
 

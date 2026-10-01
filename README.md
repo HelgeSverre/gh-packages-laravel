@@ -2,14 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6713  
-**Last updated:** 2026-10-01T01:18:20.275Z
+**Total packages tracked:** 6714  
+**Last updated:** 2026-10-01T06:51:05.028Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [skillbobby/Spiggle-Filament-Portal-Snapshot](https://github.com/skillbobby/Spiggle-Filament-Portal-Snapshot) | 0 | Filament 4/5 plugin for creating, scheduling, restoring, exporting and remotely ... |
+| [imagewize/ssl-manager](https://github.com/imagewize/ssl-manager) | 0 | Let's Encrypt Laravel Package |
+| [skillbobby/Spiggle-Filament-Portal-Snapshot](https://github.com/skillbobby/Spiggle-Filament-Portal-Snapshot) | 1 | Filament 4/5 plugin for creating, scheduling, restoring, exporting and remotely ... |
 | [jobmetric/laravel-comment](https://github.com/jobmetric/laravel-comment) | 5 | This is a comment management package for Laravel that you can use in your projec... |
 | [siberfx/typesense-scout](https://github.com/siberfx/typesense-scout) | 0 | Laravel 12/13 Scout - Typesense integration, This package makes it easy to add f... |
 | [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | Laravel package for the eRecht24 API. Simple integration by automatic client reg... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | Somente leitura — espelho de packages/installer do monorepo kelvindk9w/tws-larav... |
 | [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | Somente leitura — espelho de packages/foundation do monorepo kelvindk9w/tws-lara... |
 | [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | Somente leitura — espelho de packages/admin do monorepo kelvindk9w/tws-laravel-s... |
-| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | Somente leitura — espelho de packages/uploads do monorepo kelvindk9w/tws-laravel... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 4 | 2026-10-01 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
-| [jeffersongoncalves/laravel-queue-management](https://github.com/jeffersongoncalves/laravel-queue-management) | 2 | 2026-10-01 | Manage Laravel's database queue tables (jobs, failed_jobs, j... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-10-01 | Automated code analysis for Laravel applications with 73 com... |
-| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-10-01 | An up-to-date SDK package for all your Teamleader API needs! |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-01 | Plataforma de planeación y control de producción para manufa... |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-10-01 | NativeKit starter kit built on Laravel 12.x, Filament 3.x an... |
-| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-10-01 | Prevent risky Laravel database migrations with static analys... |
+| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-10-01 |  |
+| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-10-01 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 100 | 2026-10-01 | A Filament package to manage adjacency lists (aka trees). |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-10-01 | The Moox Project - Packages for Filament and Laravel |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-10-01 | A package to create datatables using alpinejs, tailwind, liv... |
+| [jay123anta/laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | 35 | 2026-10-01 | Passive intrusion detection for Laravel. Logs SQL injection,... |
+| [masmaleki/zoho-one](https://github.com/masmaleki/zoho-one) | 3 | 2026-10-01 | Laravel package for ZOHO all in one |
+| [mattmy/laravel-icalendar-reader](https://github.com/mattmy/laravel-icalendar-reader) | 0 | 2026-10-01 | Read, validate, and query .ics calendars with a Laravel API—... |
+| [robot-council/core](https://github.com/robot-council/core) | 1 | 2026-10-01 | The core of Robot Council, a coordination service for fleets... |
+| [vonsofh/laravel-faspay-test-lab](https://github.com/vonsofh/laravel-faspay-test-lab) | 1 | 2026-10-01 | Laravel package for Faspay SNAP UAT certification & automate... |
+| [ayimdomnic/laragraph](https://github.com/ayimdomnic/laragraph) | 3 | 2026-10-01 | A modern, feature-rich, code-first GraphQL package for Larav... |
+| [95tuanle/project-management-with-laravel](https://github.com/95tuanle/project-management-with-laravel) | 0 | 2026-10-01 | Simple Project Management Application with Laravel |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 3 | 2026-10-01 | Durable execution for PHP: workflows that survive deploys, r... |
+| [imagewize/ssl-manager](https://github.com/imagewize/ssl-manager) | 0 | 2026-10-01 | Let's Encrypt Laravel Package |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-10-01 | Manage and track inventory with a PHP package that integrate... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-10-01 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-10-01 |  |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-10-01 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-10-01 | A personal portfolio built as an interactive browser-based t... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-10-01 | Ptah — Laravel package that forges complete module structure... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-10-01 | A practical work management information system built with La... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-01 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-10-01 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-10-01 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [isocroft/laravel-faked](https://github.com/isocroft/laravel-faked) | 0 | 2026-10-01 | A simple library that fakes out all the core components in t... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-01 | A multi-purpose content and application platform for Laravel... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-10-01 | A Laravel-based web application that tracks, analyzes, and p... |
+| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 25 | 2026-10-01 | Laritor is a Laravel-native observability platform that help... |
+| [BushlanovDev/max-bot-api-client-php](https://github.com/BushlanovDev/max-bot-api-client-php) | 50 | 2026-10-01 | 🤖💬 Max Bot API Client library for PHP |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-01T06:51 | 1 | 1716 | 6714 |
 | 2026-10-01T01:18 | 5 | 1711 | 6713 |
 | 2026-09-30T18:38 | 6 | 1710 | 6708 |
 | 2026-09-30T12:48 | 2 | 1713 | 6702 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-29T12:46 | 4 | 1711 | 6686 |
 | 2026-09-29T06:49 | 4 | 1713 | 6682 |
 | 2026-09-29T01:09 | 9 | 1708 | 6678 |
-| 2026-09-28T18:38 | 3 | 1720 | 6669 |
 
 ---
 

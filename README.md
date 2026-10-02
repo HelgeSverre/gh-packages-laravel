@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6727  
-**Last updated:** 2026-10-01T18:39:26.345Z
+**Total packages tracked:** 6733  
+**Last updated:** 2026-10-02T01:08:11.176Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Minh-Bao/cms-V2](https://github.com/Minh-Bao/cms-V2) | 1 | laravel 8 version of the mini cms-blog. all css made using Tailwind css, and Wor... |
+| [luisfernando2607/SolarMed](https://github.com/luisfernando2607/SolarMed) | 0 | Sistema de gestión clínica con Laravel 12 + Livewire 3: turnos, historia clínica... |
+| [FocalCRM/focal](https://github.com/FocalCRM/focal) | 0 | Focal CRM: modular, open-source CRM packages for Laravel and Filament (core, sal... |
+| [wing5wong/kamar-directory-services](https://github.com/wing5wong/kamar-directory-services) | 1 | package to add directory services functionality to your laravel app |
+| [SachinPawaskarUNO/tags](https://github.com/SachinPawaskarUNO/tags) | 0 | A laravel package for associating tags to any model |
+| [wobqqq/laravel-nova-sandbox](https://github.com/wobqqq/laravel-nova-sandbox) | 1 | 🧪 Clean Laravel Nova app for installing and testing Nova packages locally: Dock... |
 | [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | Self-hosted, first-party analytics for Laravel: page views, sessions, custom eve... |
 | [ArtisanPack-UI/ecommerce-admin-livewire](https://github.com/ArtisanPack-UI/ecommerce-admin-livewire) | 0 | Livewire admin for the ArtisanPack UI ecommerce engine — products, orders, custo... |
 | [Pollora/framework](https://github.com/Pollora/framework) | 1 | The Laravel framework for WordPress: Blade, Laravel routing and Eloquent, PHP 8 ... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ILDaviz/lunargraphql](https://github.com/ILDaviz/lunargraphql) | 9 | The Lunargraphql is GraphQL package provides features for integrating GraphQL in... |
 | [dilano043/laravel-dashboard-dutch-trains-package](https://github.com/dilano043/laravel-dashboard-dutch-trains-package) | 0 | Dutch train live departure board tile for Laravel Dashboard |
 | [imagewize/ssl-manager](https://github.com/imagewize/ssl-manager) | 0 | Let's Encrypt Laravel Package |
-| [skillbobby/Spiggle-Filament-Portal-Snapshot](https://github.com/skillbobby/Spiggle-Filament-Portal-Snapshot) | 1 | Filament 4/5 plugin for creating, scheduling, restoring, exporting and remotely ... |
-| [jobmetric/laravel-comment](https://github.com/jobmetric/laravel-comment) | 5 | This is a comment management package for Laravel that you can use in your projec... |
-| [siberfx/typesense-scout](https://github.com/siberfx/typesense-scout) | 0 | Laravel 12/13 Scout - Typesense integration, This package makes it easy to add f... |
-| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | Laravel package for the eRecht24 API. Simple integration by automatic client reg... |
-| [doxa-soft/laravel-seeme](https://github.com/doxa-soft/laravel-seeme) | 0 | Laravel package for SeeMe SMS delivery service |
-| [SytxLabs/BladeSandbox](https://github.com/SytxLabs/BladeSandbox) | 0 | Default-deny security sandbox for rendering untrusted Laravel Blade templates, v... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-01 | Plataforma de planeación y control de producción para manufa... |
-| [AryeoHQ/eloquent-search](https://github.com/AryeoHQ/eloquent-search) | 0 | 2026-10-01 | Laravel package providing OpenSearch Scout integration, inde... |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 15 | 2026-10-01 | Source code for the new pokemon3d.net website |
-| [robot-council/core](https://github.com/robot-council/core) | 1 | 2026-10-01 | The core of Robot Council, a coordination service for fleets... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 1 | 2026-10-01 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [AlwaysCuriousCo/package-pipeline](https://github.com/AlwaysCuriousCo/package-pipeline) | 47 | 2026-10-01 | Self-hosted private Composer registry |
-| [isocroft/laravel-faked](https://github.com/isocroft/laravel-faked) | 0 | 2026-10-01 | A simple library that fakes out all the core components in t... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-10-01 | An up-to-date SDK package for all your Teamleader API needs! |
-| [ades4827/sprintflow](https://github.com/ades4827/sprintflow) | 1 | 2026-10-01 | Laravel Package for speed up your project development |
-| [zowesoft/laravel-credo](https://github.com/zowesoft/laravel-credo) | 1 | 2026-10-01 | A fluent Laravel package for the Credo payment gateway (cred... |
-| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-10-01 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-10-02 |  |
+| [FocalCRM/focal](https://github.com/FocalCRM/focal) | 0 | 2026-10-02 | Focal CRM: modular, open-source CRM packages for Laravel and... |
+| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-10-02 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-02 | A multi-purpose content and application platform for Laravel... |
+| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-10-02 | Somente leitura — espelho de packages/installer do monorepo ... |
+| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-10-02 | Somente leitura — espelho de packages/admin do monorepo kelv... |
+| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-10-02 | Somente leitura — espelho de packages/uploads do monorepo ke... |
+| [kelvindk9w/twstec-kit-accounts](https://github.com/kelvindk9w/twstec-kit-accounts) | 0 | 2026-10-02 | Somente leitura — espelho de packages/accounts do monorepo k... |
+| [kelvindk9w/twstec-kit-auth](https://github.com/kelvindk9w/twstec-kit-auth) | 0 | 2026-10-02 | Somente leitura — espelho de packages/auth do monorepo kelvi... |
+| [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | 2026-10-02 | Somente leitura — espelho de packages/foundation do monorepo... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-02 | Durable execution for PHP: workflows that survive deploys, r... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-01 | Filament plugin that allows to add dynamic, user-defined for... |
+| [korozcolt/payments](https://github.com/korozcolt/payments) | 4 | 2026-10-01 | A unified payment gateway package for Laravel supporting Wom... |
+| [loki495/insights](https://github.com/loki495/insights) | 0 | 2026-10-01 | Self-hosted Laravel/Livewire personal-finance app with Plaid... |
+| [Minh-Bao/cms-V2](https://github.com/Minh-Bao/cms-V2) | 1 | 2026-10-01 | laravel 8 version of the mini cms-blog. all css made using T... |
 | [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-01 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | 2026-10-01 | Self-hosted, first-party analytics for Laravel: page views, ... |
-| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-10-01 | Digitalización del trámite de incorporación de escuelas ante... |
-| [jooservices/laravel-repository](https://github.com/jooservices/laravel-repository) | 0 | 2026-10-01 | PHP 8.5+ Laravel repository package — trait-based CRUD, filt... |
-| [Stanislas-Poisson/French-zip-code](https://github.com/Stanislas-Poisson/French-zip-code) | 87 | 2026-10-01 | Laravel package that builds and maintains a normalized datab... |
+| [connectmedia-ke/connectmedia-laravel](https://github.com/connectmedia-ke/connectmedia-laravel) | 0 | 2026-10-01 | Laravel package for the Connect Media SMS API: send bulk SMS... |
 | [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [samuelterra22/filament-pwa](https://github.com/samuelterra22/filament-pwa) | 0 | 2026-10-01 | Progressive Web App (PWA) integration for FilamentPHP panels... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-01 | A multi-purpose content and application platform for Laravel... |
+| [ArtisanPack-UI/ecommerce-admin-livewire](https://github.com/ArtisanPack-UI/ecommerce-admin-livewire) | 0 | 2026-10-01 | Livewire admin for the ArtisanPack UI ecommerce engine — pro... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-01 | 🛒 Build and manage your online store effortlessly with Shop... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-02T01:08 | 6 | 1712 | 6733 |
 | 2026-10-01T18:39 | 6 | 1710 | 6727 |
 | 2026-10-01T12:45 | 7 | 1710 | 6721 |
 | 2026-10-01T06:51 | 1 | 1716 | 6714 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-30T06:50 | 2 | 1714 | 6700 |
 | 2026-09-30T01:11 | 7 | 1709 | 6698 |
 | 2026-09-29T18:38 | 5 | 1709 | 6691 |
-| 2026-09-29T12:46 | 4 | 1711 | 6686 |
 
 ---
 

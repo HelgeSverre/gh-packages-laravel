@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6733  
-**Last updated:** 2026-10-02T01:08:11.176Z
+**Total packages tracked:** 6734  
+**Last updated:** 2026-10-02T06:49:32.370Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Josue-Isai-Sanchez-Santos/ai-companion-chatbot](https://github.com/Josue-Isai-Sanchez-Santos/ai-companion-chatbot) | 1 | Laravel AI companion chatbot with persistent conversations, semantic memory via ... |
+| [Monty7352/Rate-Limit-Dashboard-monitoring](https://github.com/Monty7352/Rate-Limit-Dashboard-monitoring) | 0 | Laravel package to monitor all you request and block suspicious attack |
 | [Minh-Bao/cms-V2](https://github.com/Minh-Bao/cms-V2) | 1 | laravel 8 version of the mini cms-blog. all css made using Tailwind css, and Wor... |
 | [luisfernando2607/SolarMed](https://github.com/luisfernando2607/SolarMed) | 0 | Sistema de gestión clínica con Laravel 12 + Livewire 3: turnos, historia clínica... |
 | [FocalCRM/focal](https://github.com/FocalCRM/focal) | 0 | Focal CRM: modular, open-source CRM packages for Laravel and Filament (core, sal... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Yatmo/yatmo-laravel](https://github.com/Yatmo/yatmo-laravel) | 0 | Laravel package for Yatmo: Blade components for the real estate map, nearby poin... |
 | [bachtiarpanjaitan/btx](https://github.com/bachtiarpanjaitan/btx) | 3 | General additional package for laravel framework |
 | [ILDaviz/lunargraphql](https://github.com/ILDaviz/lunargraphql) | 9 | The Lunargraphql is GraphQL package provides features for integrating GraphQL in... |
-| [dilano043/laravel-dashboard-dutch-trains-package](https://github.com/dilano043/laravel-dashboard-dutch-trains-package) | 0 | Dutch train live departure board tile for Laravel Dashboard |
-| [imagewize/ssl-manager](https://github.com/imagewize/ssl-manager) | 0 | Let's Encrypt Laravel Package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [tomaszboloz/Laravel-Updater](https://github.com/tomaszboloz/Laravel-Updater) | 1 | 2026-10-02 | Self-update Laravel apps from GitHub releases (public & priv... |
+| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 | 2026-10-02 |  |
+| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 7 | 2026-10-02 | An in-panel AI assistant and an MCP server for Filament v5 p... |
+| [packstub/filament-form-builder](https://github.com/packstub/filament-form-builder) | 7 | 2026-10-02 | Form builder for Filament panels: build forms in the admin, ... |
+| [packstub/filament-flow](https://github.com/packstub/filament-flow) | 16 | 2026-10-02 | Visual workflow automation for Filament panels: triggers, co... |
+| [packstub/filament-account-switcher](https://github.com/packstub/filament-account-switcher) | 44 | 2026-10-02 | Switch between accounts in Filament: impersonate users, link... |
+| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 1 | 2026-10-02 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
 | [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-10-02 |  |
-| [FocalCRM/focal](https://github.com/FocalCRM/focal) | 0 | 2026-10-02 | Focal CRM: modular, open-source CRM packages for Laravel and... |
-| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-10-02 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-02 | A multi-purpose content and application platform for Laravel... |
-| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-10-02 | Somente leitura — espelho de packages/installer do monorepo ... |
-| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-10-02 | Somente leitura — espelho de packages/admin do monorepo kelv... |
-| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-10-02 | Somente leitura — espelho de packages/uploads do monorepo ke... |
-| [kelvindk9w/twstec-kit-accounts](https://github.com/kelvindk9w/twstec-kit-accounts) | 0 | 2026-10-02 | Somente leitura — espelho de packages/accounts do monorepo k... |
-| [kelvindk9w/twstec-kit-auth](https://github.com/kelvindk9w/twstec-kit-auth) | 0 | 2026-10-02 | Somente leitura — espelho de packages/auth do monorepo kelvi... |
-| [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | 2026-10-02 | Somente leitura — espelho de packages/foundation do monorepo... |
 | [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-02 | Durable execution for PHP: workflows that survive deploys, r... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-01 | Filament plugin that allows to add dynamic, user-defined for... |
-| [korozcolt/payments](https://github.com/korozcolt/payments) | 4 | 2026-10-01 | A unified payment gateway package for Laravel supporting Wom... |
-| [loki495/insights](https://github.com/loki495/insights) | 0 | 2026-10-01 | Self-hosted Laravel/Livewire personal-finance app with Plaid... |
-| [Minh-Bao/cms-V2](https://github.com/Minh-Bao/cms-V2) | 1 | 2026-10-01 | laravel 8 version of the mini cms-blog. all css made using T... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-01 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [connectmedia-ke/connectmedia-laravel](https://github.com/connectmedia-ke/connectmedia-laravel) | 0 | 2026-10-01 | Laravel package for the Connect Media SMS API: send bulk SMS... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-01 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [ArtisanPack-UI/ecommerce-admin-livewire](https://github.com/ArtisanPack-UI/ecommerce-admin-livewire) | 0 | 2026-10-01 | Livewire admin for the ArtisanPack UI ecommerce engine — pro... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-01 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [robertogallea/laravel-necromancer](https://github.com/robertogallea/laravel-necromancer) | 5 | 2026-10-02 | AI readability package for Laravel applications |
+| [mdsazzad0002/SUBandL](https://github.com/mdsazzad0002/SUBandL) | 0 | 2026-10-02 | SUBandL — Software Update, Backup and License package for La... |
+| [slimani-dev/filament-media-manager](https://github.com/slimani-dev/filament-media-manager) | 21 | 2026-10-02 | A media manager plugin for Filament. |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-02 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [motor-cms/motor-media](https://github.com/motor-cms/motor-media) | 0 | 2026-10-02 | motor-cms Laravel package for media files, directories and f... |
+| [motor-cms/motor-core](https://github.com/motor-cms/motor-core) | 0 | 2026-10-02 | Foundation Laravel package for motor-cms: base classes, filt... |
+| [motor-cms/motor-admin](https://github.com/motor-cms/motor-admin) | 0 | 2026-10-02 | motor-cms Laravel package for users, roles and permissions, ... |
+| [BabelQueue/laravel](https://github.com/BabelQueue/laravel) | 1 | 2026-10-02 | Drop-in Laravel queue driver for BabelQueue — dispatch polyg... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-02 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-02 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [kargnas/laravel-ai-translator](https://github.com/kargnas/laravel-ai-translator) | 250 | 2026-10-02 | High quality automatic translate your language files into ma... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-02T06:49 | 2 | 1716 | 6734 |
 | 2026-10-02T01:08 | 6 | 1712 | 6733 |
 | 2026-10-01T18:39 | 6 | 1710 | 6727 |
 | 2026-10-01T12:45 | 7 | 1710 | 6721 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-09-30T12:48 | 2 | 1713 | 6702 |
 | 2026-09-30T06:50 | 2 | 1714 | 6700 |
 | 2026-09-30T01:11 | 7 | 1709 | 6698 |
-| 2026-09-29T18:38 | 5 | 1709 | 6691 |
 
 ---
 

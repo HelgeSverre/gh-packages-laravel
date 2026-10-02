@@ -1858,5 +1858,27 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-09-28T12:47:28.468Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "devrabiul/livewire-doctor": {
+    "name": "devrabiul/livewire-doctor",
+    "url": "https://github.com/devrabiul/livewire-doctor",
+    "description": "LivewireDoctor: Your smart assistant for Laravel Livewire. Detects & auto-fixes issues like missing assets, bad directives & outdated components.",
+    "stars": 56,
+    "forks": 3,
+    "topics": [
+      "laravel",
+      "livewire",
+      "livewire-doctor",
+      "livewire-helper",
+      "php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-05-28T17:49:12Z",
+    "updated_at": "2025-11-05T20:32:37Z",
+    "pushed_at": "2025-10-02T03:36:28Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-10-02T06:49:32.342Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

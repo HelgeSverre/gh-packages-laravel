@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6755  
-**Last updated:** 2026-10-03T06:54:53.187Z
+**Total packages tracked:** 6760  
+**Last updated:** 2026-10-03T14:03:37.858Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [hashamkhan11/fit-hub](https://github.com/hashamkhan11/fit-hub) | 0 | Multi-tenant gym management platform: Laravel/Livewire staff dashboard, Flutter ... |
+| [php-regex/regex-laravel](https://github.com/php-regex/regex-laravel) | 0 | [READ-ONLY] Laravel integration for PHPRegex: the Regex service and facade, and ... |
+| [tibor-src/xai-sdk-laravel](https://github.com/tibor-src/xai-sdk-laravel) | 0 | Laravel package for the xAI PHP SDK |
+| [tibor-src/xai-sdk-php](https://github.com/tibor-src/xai-sdk-php) | 0 | PHP port of the official xAI TypeScript SDK, plus a Laravel package |
+| [mona-software/laravel-monapay](https://github.com/mona-software/laravel-monapay) | 0 | Laravel package for MONA Pay: VietQR bank-transfer confirmation, HMAC webhooks, ... |
 | [maelzx/AssetKOM](https://github.com/maelzx/AssetKOM) | 0 | Web-based asset management for SMEs still tracking assets in Excel — built as an... |
 | [itxshakil/laravel-form-shield](https://github.com/itxshakil/laravel-form-shield) | 0 | CAPTCHA-free spam scoring for Laravel forms |
 | [HaziqAzni/Travelora-Laravel10](https://github.com/HaziqAzni/Travelora-Laravel10) | 0 | A Laravel-based travel booking prototype for Travelora featuring flight, hotel, ... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | Activity feeds for Laravel, aligned with the W3C Activity Streams 2.0 standard. ... |
 | [P2Flux/laravel](https://github.com/P2Flux/laravel) | 0 | Laravel package for P2Flux: USDC payments and subscriptions on Base, and an x402... |
 | [troccoli/laravel-queue-monitor-flux](https://github.com/troccoli/laravel-queue-monitor-flux) | 0 | A companion package to romanzipp/laravel-queue-monitor to use FluxUI components |
-| [DireSMS/diresms-laravel](https://github.com/DireSMS/diresms-laravel) | 0 | Official Laravel package for DireSMS: facade, notification channel, webhooks and... |
-| [gkwelding/php-upgrade-skills](https://github.com/gkwelding/php-upgrade-skills) | 0 | Upgrade Laravel (10 to 13), Symfony (6.4 to 8) and PHPUnit / Pest one major at a... |
-| [rszqx/laravel-ecommerce](https://github.com/rszqx/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
-| [topanxxvii/xerads-laravel](https://github.com/topanxxvii/xerads-laravel) | 0 | XerAds for Laravel: receive XerAds articles, render widgets, and get on-page and... |
-| [pnscripts/pn-shop-core](https://github.com/pnscripts/pn-shop-core) | 0 | PN Shop platform core (Composer package). Read-only: published from pnscripts/pn... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [itxshakil/laravel-form-shield](https://github.com/itxshakil/laravel-form-shield) | 0 | 2026-10-03 | CAPTCHA-free spam scoring for Laravel forms |
+| [Fredrumond/pm_helper](https://github.com/Fredrumond/pm_helper) | 1 | 2026-10-03 | Assistente de discovery para Product Managers: entrevista gu... |
+| [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 3 | 2026-10-03 | Bring Tempest Discovery to Laravel |
+| [pnscripts/pn-shop-core](https://github.com/pnscripts/pn-shop-core) | 0 | 2026-10-03 | PN Shop platform core (Composer package). Read-only: publish... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-03 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-10-03 | A todo list app that's MCP-native, so AI agents can claim, c... |
-| [wobqqq/laravel-nova-sandbox](https://github.com/wobqqq/laravel-nova-sandbox) | 2 | 2026-10-03 | 🧪 Clean Laravel Nova app for installing and testing Nova pa... |
-| [ibaiicb/laravel-make-action](https://github.com/ibaiicb/laravel-make-action) | 1 | 2026-10-03 | A Laravel package that adds a make:action Artisan command to... |
-| [developermithu/tallcraftui](https://github.com/developermithu/tallcraftui) | 168 | 2026-10-03 | TallCraftUI is a Laravel blade UI components library built o... |
-| [maelzx/AssetKOM](https://github.com/maelzx/AssetKOM) | 0 | 2026-10-03 | Web-based asset management for SMEs still tracking assets in... |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-10-03 | Manage, process, and serve files in Laravel with scalable up... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-10-03 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [topanxxvii/xerads-laravel](https://github.com/topanxxvii/xerads-laravel) | 0 | 2026-10-03 | XerAds for Laravel: receive XerAds articles, render widgets,... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-10-03 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-10-03 | Integrate Mixpanel analytics into Filament projects to track... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-10-03 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-10-03 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-10-03 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-10-03 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-10-03 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [Particle-Academy/laravel-jobs-reference](https://github.com/Particle-Academy/laravel-jobs-reference) | 0 | 2026-10-03 | A real Laravel consumer of laravel-jobs + job-board. The sha... |
-| [corgab/aether](https://github.com/corgab/aether) | 4 | 2026-10-03 | Quantum computing bridge for Laravel. Solve the impossible w... |
-| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-03 | Odden CRM: modular, open-source CRM packages for Laravel and... |
+| [pekral/cursor-rules](https://github.com/pekral/cursor-rules) | 10 | 2026-10-03 | PHP and Laravel Cursor rules — coding standards, testing, an... |
+| [isocroft/laravel-faked](https://github.com/isocroft/laravel-faked) | 0 | 2026-10-03 | A simple library that fakes out all the core components in t... |
+| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-10-03 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [laranail/artisan-ui](https://github.com/laranail/artisan-ui) | 0 | 2026-10-03 | A secure web panel for running Artisan commands: Gate-author... |
+| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-10-03 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
+| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-10-03 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-10-03 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-10-03 | Type-safe fluent validation rule builders for Laravel, plus ... |
+| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-10-03 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
+| [laranail/pdf](https://github.com/laranail/pdf) | 0 | 2026-10-03 | PDF rendering for Laravel behind a capability-checked driver... |
+| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-10-03 | Laravel user impersonation with scoped modes, audit trails, ... |
+| [laranail/barua](https://github.com/laranail/barua) | 0 | 2026-10-03 | Responsive, un-styled Blade email components and a fluent ma... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-10-03 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-10-03 | Runtime base library for building Laravel packages: fluent P... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-03 | A multi-purpose content and application platform for Laravel... |
+| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 12 | 2026-10-03 | Filament plugin for Help Desk ticket management — User, Oper... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-03T14:03 | 5 | 1715 | 6760 |
 | 2026-10-03T06:54 | 3 | 1715 | 6755 |
 | 2026-10-03T01:05 | 7 | 1711 | 6752 |
 | 2026-10-02T18:38 | 7 | 1712 | 6745 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-01T18:39 | 6 | 1710 | 6727 |
 | 2026-10-01T12:45 | 7 | 1710 | 6721 |
 | 2026-10-01T06:51 | 1 | 1716 | 6714 |
-| 2026-10-01T01:18 | 5 | 1711 | 6713 |
 
 ---
 

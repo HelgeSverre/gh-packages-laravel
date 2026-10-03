@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6752  
-**Last updated:** 2026-10-03T01:05:21.416Z
+**Total packages tracked:** 6755  
+**Last updated:** 2026-10-03T06:54:53.187Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [maelzx/AssetKOM](https://github.com/maelzx/AssetKOM) | 0 | Web-based asset management for SMEs still tracking assets in Excel — built as an... |
+| [itxshakil/laravel-form-shield](https://github.com/itxshakil/laravel-form-shield) | 0 | CAPTCHA-free spam scoring for Laravel forms |
+| [HaziqAzni/Travelora-Laravel10](https://github.com/HaziqAzni/Travelora-Laravel10) | 0 | A Laravel-based travel booking prototype for Travelora featuring flight, hotel, ... |
 | [smit-backend/laravel-stream-chat-llm](https://github.com/smit-backend/laravel-stream-chat-llm) | 0 | Real-time SSE event-stream chat component for Laravel Livewire and React, integr... |
 | [reyhan-commerce/core](https://github.com/reyhan-commerce/core) | 0 | Sovereign Enterprise Headless E-Commerce Core Framework Library for Laravel 13 |
 | [smit-backend/laravel-backup-vault](https://github.com/smit-backend/laravel-backup-vault) | 0 | Artisan package to compress, AES-256 encrypt, and stream large database dumps di... |
@@ -25,10 +28,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [gkwelding/php-upgrade-skills](https://github.com/gkwelding/php-upgrade-skills) | 0 | Upgrade Laravel (10 to 13), Symfony (6.4 to 8) and PHPUnit / Pest one major at a... |
 | [rszqx/laravel-ecommerce](https://github.com/rszqx/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
 | [topanxxvii/xerads-laravel](https://github.com/topanxxvii/xerads-laravel) | 0 | XerAds for Laravel: receive XerAds articles, render widgets, and get on-page and... |
-| [pnscripts/pn-shop-core](https://github.com/pnscripts/pn-shop-core) | 0 | PN Shop platform core (Composer package). Read-only: published from pnscripts/la... |
-| [Stanislas-Poisson/French-Postal-Code](https://github.com/Stanislas-Poisson/French-Postal-Code) | 87 | Laravel package that builds and maintains a normalized database of France's regi... |
-| [Josue-Isai-Sanchez-Santos/ai-companion-chatbot](https://github.com/Josue-Isai-Sanchez-Santos/ai-companion-chatbot) | 1 | Laravel AI companion chatbot with persistent conversations, semantic memory via ... |
-| [Monty7352/Rate-Limit-Dashboard-monitoring](https://github.com/Monty7352/Rate-Limit-Dashboard-monitoring) | 0 | Laravel package to monitor all you request and block suspicious attack |
+| [pnscripts/pn-shop-core](https://github.com/pnscripts/pn-shop-core) | 0 | PN Shop platform core (Composer package). Read-only: published from pnscripts/pn... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ArtisanPack-UI/ecommerce-admin-livewire](https://github.com/ArtisanPack-UI/ecommerce-admin-livewire) | 0 | 2026-10-03 | Livewire admin for the ArtisanPack UI ecommerce engine — pro... |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 11 | 2026-10-03 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
-| [petar-spasic/laravel-house](https://github.com/petar-spasic/laravel-house) | 1 | 2026-10-03 | House rules for Laravel projects: project setup, Docker depl... |
-| [hatamiarash7/Laravel-OpenALPR](https://github.com/hatamiarash7/Laravel-OpenALPR) | 3 | 2026-10-03 | OpenALPR package for laravel |
-| [mwguerra/web-terminal-stream](https://github.com/mwguerra/web-terminal-stream) | 2 | 2026-10-03 | A Stream-mode web terminal for Filament/Laravel: full intera... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-03 | Magic Framework Laravel backend starter package. |
-| [smit-backend/laravel-stream-chat-llm](https://github.com/smit-backend/laravel-stream-chat-llm) | 0 | 2026-10-02 | Real-time SSE event-stream chat component for Laravel Livewi... |
-| [smit-backend/laravel-backup-vault](https://github.com/smit-backend/laravel-backup-vault) | 0 | 2026-10-02 | Artisan package to compress, AES-256 encrypt, and stream lar... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-02 | The NativePHP website |
-| [Particle-Academy/laravel-jobs](https://github.com/Particle-Academy/laravel-jobs) | 0 | 2026-10-02 | Laravel package for job boards - employer job postings, publ... |
-| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-10-02 | Somente leitura — espelho de packages/installer do monorepo ... |
-| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-10-02 | Somente leitura — espelho de packages/admin do monorepo kelv... |
-| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-10-02 | Somente leitura — espelho de packages/uploads do monorepo ke... |
-| [kelvindk9w/twstec-kit-accounts](https://github.com/kelvindk9w/twstec-kit-accounts) | 0 | 2026-10-02 | Somente leitura — espelho de packages/accounts do monorepo k... |
-| [kelvindk9w/twstec-kit-auth](https://github.com/kelvindk9w/twstec-kit-auth) | 0 | 2026-10-02 | Somente leitura — espelho de packages/auth do monorepo kelvi... |
-| [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | 2026-10-02 | Somente leitura — espelho de packages/foundation do monorepo... |
-| [reyhan-commerce/core](https://github.com/reyhan-commerce/core) | 0 | 2026-10-02 | Sovereign Enterprise Headless E-Commerce Core Framework Libr... |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-02 | Plataforma de planeación y control de producción para manufa... |
-| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-10-02 | Chief admin package |
-| [mosaiqo/proofread](https://github.com/mosaiqo/proofread) | 0 | 2026-10-02 | The only eval package native to the official Laravel AI stac... |
+| [itxshakil/laravel-form-shield](https://github.com/itxshakil/laravel-form-shield) | 0 | 2026-10-03 | CAPTCHA-free spam scoring for Laravel forms |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-03 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-10-03 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [wobqqq/laravel-nova-sandbox](https://github.com/wobqqq/laravel-nova-sandbox) | 2 | 2026-10-03 | 🧪 Clean Laravel Nova app for installing and testing Nova pa... |
+| [ibaiicb/laravel-make-action](https://github.com/ibaiicb/laravel-make-action) | 1 | 2026-10-03 | A Laravel package that adds a make:action Artisan command to... |
+| [developermithu/tallcraftui](https://github.com/developermithu/tallcraftui) | 168 | 2026-10-03 | TallCraftUI is a Laravel blade UI components library built o... |
+| [maelzx/AssetKOM](https://github.com/maelzx/AssetKOM) | 0 | 2026-10-03 | Web-based asset management for SMEs still tracking assets in... |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-10-03 | Manage, process, and serve files in Laravel with scalable up... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-10-03 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [topanxxvii/xerads-laravel](https://github.com/topanxxvii/xerads-laravel) | 0 | 2026-10-03 | XerAds for Laravel: receive XerAds articles, render widgets,... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-10-03 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-10-03 | Integrate Mixpanel analytics into Filament projects to track... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-10-03 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-10-03 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-10-03 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-10-03 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-10-03 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [Particle-Academy/laravel-jobs-reference](https://github.com/Particle-Academy/laravel-jobs-reference) | 0 | 2026-10-03 | A real Laravel consumer of laravel-jobs + job-board. The sha... |
+| [corgab/aether](https://github.com/corgab/aether) | 4 | 2026-10-03 | Quantum computing bridge for Laravel. Solve the impossible w... |
+| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-03 | Odden CRM: modular, open-source CRM packages for Laravel and... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-03T06:54 | 3 | 1715 | 6755 |
 | 2026-10-03T01:05 | 7 | 1711 | 6752 |
 | 2026-10-02T18:38 | 7 | 1712 | 6745 |
 | 2026-10-02T12:44 | 4 | 1716 | 6738 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-01T12:45 | 7 | 1710 | 6721 |
 | 2026-10-01T06:51 | 1 | 1716 | 6714 |
 | 2026-10-01T01:18 | 5 | 1711 | 6713 |
-| 2026-09-30T18:38 | 6 | 1710 | 6708 |
 
 ---
 

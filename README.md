@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6824  
-**Last updated:** 2026-10-04T01:36:25.733Z
+**Total packages tracked:** 6827  
+**Last updated:** 2026-10-04T08:26:03.041Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [data-health-php/data-health](https://github.com/data-health-php/data-health) | 0 | A Laravel package for detecting, verifying, organizing, and resolving data incon... |
+| [farookhridoy/bizz-approval-matrix](https://github.com/farookhridoy/bizz-approval-matrix) | 0 | Shared approval matrix engine + admin UI (Laravel package) for the Bizzsol ERP a... |
+| [farookhridoy/bizz-role-registry](https://github.com/farookhridoy/bizz-role-registry) | 0 | Shared functional role registry (Laravel package) for the Bizzsol ERP apps |
 | [igunter/laravel-store](https://github.com/igunter/laravel-store) | 0 |  |
 | [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | Nevela for Laravel. Read-only copy of packages/laravel from MarkColeMukisa/nevel... |
 | [overtrue/laravel-emoji](https://github.com/overtrue/laravel-emoji) | 150 | :smile: This package assist you in getting started with emoji easily. |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [roundly-consulting/attributes-for-laravel](https://github.com/roundly-consulting/attributes-for-laravel) | 0 | Attach multiple dynamic key/value attributes to any Eloquent model. |
 | [roundly-consulting/geolocation-for-laravel](https://github.com/roundly-consulting/geolocation-for-laravel) | 0 | Resolve a client's location and travel distance through pluggable geolocation pr... |
 | [roundly-consulting/reports-for-laravel](https://github.com/roundly-consulting/reports-for-laravel) | 0 | Easily handle reports on Laravel entities |
-| [fartex/laravel-strat](https://github.com/fartex/laravel-strat) | 2 | Dashboard and management for Laravel migrations. |
-| [roundly-consulting/trading-analytics-for-laravel](https://github.com/roundly-consulting/trading-analytics-for-laravel) | 0 | Calculate trading performance analytics — P&L, returns, streaks, profit factor —... |
-| [roundly-consulting/crypto-for-laravel](https://github.com/roundly-consulting/crypto-for-laravel) | 0 | Native, audited cryptographic and encoding primitives for Laravel: JWS/JOSE, TOT... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-10-04 | Simple package for adding directives to show/hide content fr... |
+| [ultraviolettes/filament-jobs-monitor](https://github.com/ultraviolettes/filament-jobs-monitor) | 283 | 2026-10-04 | Queue Monitoring Package for Filament  |
+| [foodineers/locale](https://github.com/foodineers/locale) | 0 | 2026-10-04 | Laravel Package for handling multicountry and multilanguage ... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-04 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 3 | 2026-10-04 | Bring Tempest Discovery to Laravel |
 | [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-10-04 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
-| [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 473 | 2026-10-04 | A Qiniu Storage filesystem for Laravel |
-| [overtrue/laravel-emoji](https://github.com/overtrue/laravel-emoji) | 150 | 2026-10-04 | :smile: This package assist you in getting started with emoj... |
-| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 10 | 2026-10-04 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-10-04 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-10-04 | A Filament plugin to add markdown-based documentation to you... |
-| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-10-04 | Sistema de gestão para centros e casas espíritas: assistidos... |
-| [juaniquillo/laravel-backend-component](https://github.com/juaniquillo/laravel-backend-component) | 0 | 2026-10-04 | A package that facilitates the creation of Laravel component... |
-| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-04 | Odden CRM: modular, open-source CRM packages for Laravel and... |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 11 | 2026-10-04 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-10-04 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-10-04 | Privacy-first Matomo analytics for Laravel with cookieless t... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-10-03 | Automated code analysis for Laravel applications with 73 com... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-03 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jesusantguerrero/insane-treasurer](https://github.com/jesusantguerrero/insane-treasurer) | 0 | 2026-10-03 | Laravel package to handle subscriptions via paypal |
-| [lenorix/filament-autosave](https://github.com/lenorix/filament-autosave) | 5 | 2026-10-03 | Saves form changes after the user pauses typing |
-| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | 2026-10-03 | Laravel package for the eRecht24 API. Simple integration by ... |
-| [igunter/laravel-store](https://github.com/igunter/laravel-store) | 0 | 2026-10-03 |  |
-| [GhDj/laravel-visitor-tracker](https://github.com/GhDj/laravel-visitor-tracker) | 1 | 2026-10-03 | A Laravel package for visitor tracking with analytics, geolo... |
-| [leonardozaneladias/ht2-erp](https://github.com/leonardozaneladias/ht2-erp) | 0 | 2026-10-03 | ERP administrativo multiempresa em Laravel 13 + Livewire 4 +... |
+| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-10-04 | WireStack — a Livewire admin framework for Laravel: core, fo... |
+| [data-health-php/data-health](https://github.com/data-health-php/data-health) | 0 | 2026-10-04 | A Laravel package for detecting, verifying, organizing, and ... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 70 | 2026-10-04 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [andes2912/indobank](https://github.com/andes2912/indobank) | 21 | 2026-10-04 | Package Laravel Daftar Bank di Indonesia |
+| [vpndetection-io/sdk-php-laravel](https://github.com/vpndetection-io/sdk-php-laravel) | 0 | 2026-10-04 | Official Laravel middleware for the VPNDetection API. Detect... |
+| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 144 | 2026-10-04 | Create and manage menu in your Filament app. |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-10-04 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-10-04 | Manage and track inventory with a PHP package that integrate... |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 2 | 2026-10-04 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-10-04 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-10-04 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-10-04 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-10-04 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 443 | 2026-10-04 | A media picker plugin for Filament Panels. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-04T08:26 | 3 | 1732 | 6827 |
 | 2026-10-04T01:36 | 5 | 1731 | 6824 |
 | 2026-10-03T19:05 | 60 | 1674 | 6820 |
 | 2026-10-03T14:03 | 5 | 1715 | 6760 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-02T12:44 | 4 | 1716 | 6738 |
 | 2026-10-02T06:49 | 2 | 1716 | 6734 |
 | 2026-10-02T01:08 | 6 | 1712 | 6733 |
-| 2026-10-01T18:39 | 6 | 1710 | 6727 |
 
 ---
 

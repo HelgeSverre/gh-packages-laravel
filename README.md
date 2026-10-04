@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6829  
-**Last updated:** 2026-10-04T14:17:22.882Z
+**Total packages tracked:** 6831  
+**Last updated:** 2026-10-04T19:30:49.264Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [hashamkhan11/propnest](https://github.com/hashamkhan11/propnest) | 0 | Real estate marketplace built with Laravel 13 & Livewire: agent subscriptions, S... |
+| [khaledtarek54/threadwire-laravel](https://github.com/khaledtarek54/threadwire-laravel) | 0 | Official Laravel package for Threadwire: send WhatsApp messages from your own nu... |
 | [NyonCode/wire-module-tenants](https://github.com/NyonCode/wire-module-tenants) | 0 | Companies for wire: register a company, keep its profile, and invite and manage ... |
 | [trianity/laravel-ip-analyzer](https://github.com/trianity/laravel-ip-analyzer) | 0 | Local IP country and ASN analysis with extensible observation-based rules for La... |
 | [data-health-php/data-health](https://github.com/data-health-php/data-health) | 0 | A Laravel package for detecting, verifying, organizing, and resolving data incon... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [roundly-consulting/jwt-for-laravel](https://github.com/roundly-consulting/jwt-for-laravel) | 0 | Native RS256 user tokens + HS256 service tokens, guards, jti denylist and claim-... |
 | [roundly-consulting/credits-for-laravel](https://github.com/roundly-consulting/credits-for-laravel) | 0 | Manage credits / wallet balance on entity. |
 | [roundly-consulting/reviews-for-laravel](https://github.com/roundly-consulting/reviews-for-laravel) | 0 | Write reviews to any entity from any entity. |
-| [roundly-consulting/contacts-for-laravel](https://github.com/roundly-consulting/contacts-for-laravel) | 0 | Store and query contacts for any entity or category in a Laravel application. |
-| [roundly-consulting/attributes-for-laravel](https://github.com/roundly-consulting/attributes-for-laravel) | 0 | Attach multiple dynamic key/value attributes to any Eloquent model. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-04 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [roundly-consulting/teams-for-laravel](https://github.com/roundly-consulting/teams-for-laravel) | 0 | 2026-10-04 | Associate users with teams, roles, permissions, and invitati... |
+| [roundly-consulting/certificates-for-laravel](https://github.com/roundly-consulting/certificates-for-laravel) | 0 | 2026-10-04 | Manage and provision TLS certificates for your domains from ... |
+| [roundly-consulting/passkeys-for-laravel](https://github.com/roundly-consulting/passkeys-for-laravel) | 0 | 2026-10-04 | Native WebAuthn / FIDO2 passkey relying party for Laravel |
+| [roundly-consulting/auth-for-laravel](https://github.com/roundly-consulting/auth-for-laravel) | 0 | 2026-10-04 | Headless multi-guard authentication for Laravel: password, m... |
 | [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-04 |  |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-04 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-04 | A multi-purpose content and application platform for Laravel... |
-| [mixudev/package_LaravelAuthentication](https://github.com/mixudev/package_LaravelAuthentication) | 0 | 2026-10-04 |  |
-| [trianity/laravel-ip-analyzer](https://github.com/trianity/laravel-ip-analyzer) | 0 | 2026-10-04 | Local IP country and ASN analysis with extensible observatio... |
-| [pnscripts/pn-shop-core](https://github.com/pnscripts/pn-shop-core) | 0 | 2026-10-04 | PN Shop platform core (Composer package). Read-only: publish... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-04 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [hatemsweileh/planvio](https://github.com/hatemsweileh/planvio) | 10 | 2026-10-04 | Plan the work. Let AI run it. An open-source, self-hosted pr... |
-| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 2 | 2026-10-04 | HelpDesk starter kit built on Laravel 12.x and Filament 3.x ... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-04 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-04 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-04 | The NativePHP website |
-| [edulazaro/laratext](https://github.com/edulazaro/laratext) | 77 | 2026-10-04 | A Laravel package to easily handle translated texts and tran... |
-| [edulazaro/laralang](https://github.com/edulazaro/laralang) | 3 | 2026-10-04 | A simple but powerful localization package for Laravel |
-| [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 3 | 2026-10-04 | Bring Tempest Discovery to Laravel |
-| [DrCantagalo/laravel-monitor](https://github.com/DrCantagalo/laravel-monitor) | 1 | 2026-10-04 | Laravel Monitor: A lightweight Laravel package providing bas... |
+| [roundly-consulting/sluggable-for-laravel](https://github.com/roundly-consulting/sluggable-for-laravel) | 0 | 2026-10-04 | Single- and multi-language (json/jsonb locale-map) slugs for... |
+| [roundly-consulting/messages-for-laravel](https://github.com/roundly-consulting/messages-for-laravel) | 0 | 2026-10-04 | Realtime messages between entities using Laravel broadcastin... |
+| [roundly-consulting/qr-for-laravel](https://github.com/roundly-consulting/qr-for-laravel) | 0 | 2026-10-04 | Native QR codes for Laravel: an ISO/IEC 18004 encoder with o... |
+| [roundly-consulting/reviews-for-laravel](https://github.com/roundly-consulting/reviews-for-laravel) | 0 | 2026-10-04 | Write reviews to any entity from any entity. |
+| [roundly-consulting/forms-for-laravel](https://github.com/roundly-consulting/forms-for-laravel) | 0 | 2026-10-04 | Manage form structures, fields, and submissions in the datab... |
+| [admin9-labs/laravel-oidc-server](https://github.com/admin9-labs/laravel-oidc-server) | 4 | 2026-10-04 | Reusable OpenID Connect server extension for Laravel Passpor... |
 | [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-04 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 70 | 2026-10-04 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 10 | 2026-10-04 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-04 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [jeffersongoncalves/filament-carve](https://github.com/jeffersongoncalves/filament-carve) | 2 | 2026-10-04 | Carve markup for Filament: validated editor with preview, re... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-10-04 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [jeffersongoncalves/laravel-carve](https://github.com/jeffersongoncalves/laravel-carve) | 1 | 2026-10-04 | Carve markup for Laravel: render profiles, Blade directives ... |
+| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-10-04 | Generic Laravel article campaign domain engine, policies, di... |
+| [NyonCode/wire-module-media](https://github.com/NyonCode/wire-module-media) | 0 | 2026-10-04 | A media library for wire: uploads, a browsable list and a pi... |
+| [NyonCode/wire-module-tenants](https://github.com/NyonCode/wire-module-tenants) | 0 | 2026-10-04 | Companies for wire: register a company, keep its profile, an... |
+| [NyonCode/wire-module-notifications](https://github.com/NyonCode/wire-module-notifications) | 0 | 2026-10-04 | Stored notifications for wire: the history behind the bell, ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-04T19:30 | 2 | 1733 | 6831 |
 | 2026-10-04T14:17 | 2 | 1733 | 6829 |
 | 2026-10-04T08:26 | 3 | 1732 | 6827 |
 | 2026-10-04T01:36 | 5 | 1731 | 6824 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-03T01:05 | 7 | 1711 | 6752 |
 | 2026-10-02T18:38 | 7 | 1712 | 6745 |
 | 2026-10-02T12:44 | 4 | 1716 | 6738 |
-| 2026-10-02T06:49 | 2 | 1716 | 6734 |
 
 ---
 

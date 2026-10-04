@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6820  
-**Last updated:** 2026-10-03T19:05:44.592Z
+**Total packages tracked:** 6824  
+**Last updated:** 2026-10-04T01:36:25.733Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [igunter/laravel-store](https://github.com/igunter/laravel-store) | 0 |  |
+| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | Nevela for Laravel. Read-only copy of packages/laravel from MarkColeMukisa/nevel... |
+| [overtrue/laravel-emoji](https://github.com/overtrue/laravel-emoji) | 150 | :smile: This package assist you in getting started with emoji easily. |
+| [jesusantguerrero/insane-treasurer](https://github.com/jesusantguerrero/insane-treasurer) | 0 | Laravel package to handle subscriptions via paypal |
+| [ijeffro/laralocker](https://github.com/ijeffro/laralocker) | 9 | Laravel + Learning Locker || A Laravel Package for Learning Locker. |
 | [roundly-consulting/git-for-laravel](https://github.com/roundly-consulting/git-for-laravel) | 0 | Access git repositories (GitHub, GitLab, Bitbucket) through a single Laravel-nat... |
 | [roundly-consulting/refresh-tokens-for-laravel](https://github.com/roundly-consulting/refresh-tokens-for-laravel) | 0 | Opaque, rotating refresh tokens and device sessions for Laravel — SHA-256 at res... |
 | [roundly-consulting/translatable-for-laravel](https://github.com/roundly-consulting/translatable-for-laravel) | 0 | Locale-map (jsonb) translatable attributes with a fallback chain for Eloquent; p... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [fartex/laravel-strat](https://github.com/fartex/laravel-strat) | 2 | Dashboard and management for Laravel migrations. |
 | [roundly-consulting/trading-analytics-for-laravel](https://github.com/roundly-consulting/trading-analytics-for-laravel) | 0 | Calculate trading performance analytics — P&L, returns, streaks, profit factor —... |
 | [roundly-consulting/crypto-for-laravel](https://github.com/roundly-consulting/crypto-for-laravel) | 0 | Native, audited cryptographic and encoding primitives for Laravel: JWS/JOSE, TOT... |
-| [roundly-consulting/opening-hours-for-laravel](https://github.com/roundly-consulting/opening-hours-for-laravel) | 0 | Opening hours, seasonal schedules, exceptions and bookable availability for any ... |
-| [roundly-consulting/lifecycle-for-laravel](https://github.com/roundly-consulting/lifecycle-for-laravel) | 0 | Status lifecycles for Eloquent models: guarded named transitions, limits and quo... |
-| [roundly-consulting/query-builder-for-laravel](https://github.com/roundly-consulting/query-builder-for-laravel) | 0 | Native, allow-list-driven filter, sort and pagination for Laravel API list endpo... |
-| [roundly-consulting/metrics-for-laravel](https://github.com/roundly-consulting/metrics-for-laravel) | 0 | Calculate value, trend, progress, and partition metrics from any Eloquent query. |
-| [roundly-consulting/onboarding-for-laravel](https://github.com/roundly-consulting/onboarding-for-laravel) | 0 | Define and track multiple onboarding flows for your Laravel application. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,7 +40,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 471 | A Qiniu Storage filesystem for Laravel |
+| [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 473 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 467 | Open Source Laravel CRM Package |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 3 | 2026-10-03 | Bring Tempest Discovery to Laravel |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 70 | 2026-10-03 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-03 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [AliBalash/kara-plus](https://github.com/AliBalash/kara-plus) | 0 | 2026-10-03 | Laravel and Livewire admin panel scaffold for car-rental ope... |
-| [Stanislas-Poisson/French-Postal-Code-Package](https://github.com/Stanislas-Poisson/French-Postal-Code-Package) | 0 | 2026-10-03 | The regions, departments, communes and postal codes of Franc... |
-| [NyonCode/wire-core](https://github.com/NyonCode/wire-core) | 0 | 2026-10-03 | Shared foundation for the Wire ecosystem – traits, actions, ... |
-| [NyonCode/wire-admin](https://github.com/NyonCode/wire-admin) | 0 | 2026-10-03 | The optional admin shell for wire: a layout and a sidebar ov... |
-| [NyonCode/wire-module-notifications](https://github.com/NyonCode/wire-module-notifications) | 0 | 2026-10-03 | Stored notifications for wire: the history behind the bell, ... |
-| [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | 2026-10-03 | Enterprise-grade Livewire table system with inline editing, ... |
-| [NyonCode/wire-module-audit](https://github.com/NyonCode/wire-module-audit) | 0 | 2026-10-03 | Audit log administration for wire: the trail core already re... |
-| [NyonCode/wire-module-users](https://github.com/NyonCode/wire-module-users) | 0 | 2026-10-03 | User administration for wire: a ready-made module with its r... |
-| [NyonCode/wire-panels](https://github.com/NyonCode/wire-panels) | 0 | 2026-10-03 | Application owner layer for wire: resources and their pages.... |
-| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | 2026-10-03 | Standalone form system for the Wire ecosystem – fields, vali... |
-| [NyonCode/wire-module-auth](https://github.com/NyonCode/wire-module-auth) | 0 | 2026-10-03 | The signed-out screens for wire: login, password reset, emai... |
-| [NyonCode/wire-module-media](https://github.com/NyonCode/wire-module-media) | 0 | 2026-10-03 | A media library for wire: uploads, a browsable list and a pi... |
-| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | 2026-10-03 | AI tooling for the Wire ecosystem – an MCP server, AI guidel... |
-| [NyonCode/wire-sortable](https://github.com/NyonCode/wire-sortable) | 0 | 2026-10-03 | Drag & drop row reordering plugin for wire-table. — READ ONL... |
-| [NyonCode/wire-module-settings](https://github.com/NyonCode/wire-module-settings) | 0 | 2026-10-03 | Application settings for wire: typed key/value settings with... |
-| [NyonCode/wire-suite](https://github.com/NyonCode/wire-suite) | 0 | 2026-10-03 | The whole wire stack in one require, with an interactive ins... |
+| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-10-04 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
+| [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 473 | 2026-10-04 | A Qiniu Storage filesystem for Laravel |
+| [overtrue/laravel-emoji](https://github.com/overtrue/laravel-emoji) | 150 | 2026-10-04 | :smile: This package assist you in getting started with emoj... |
+| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 10 | 2026-10-04 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-10-04 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [jeffersongoncalves/filament-documentation](https://github.com/jeffersongoncalves/filament-documentation) | 9 | 2026-10-04 | A Filament plugin to add markdown-based documentation to you... |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-10-04 | Sistema de gestão para centros e casas espíritas: assistidos... |
+| [juaniquillo/laravel-backend-component](https://github.com/juaniquillo/laravel-backend-component) | 0 | 2026-10-04 | A package that facilitates the creation of Laravel component... |
+| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-04 | Odden CRM: modular, open-source CRM packages for Laravel and... |
+| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 11 | 2026-10-04 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-10-04 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-10-04 | Privacy-first Matomo analytics for Laravel with cookieless t... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-10-03 | Automated code analysis for Laravel applications with 73 com... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-03 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jesusantguerrero/insane-treasurer](https://github.com/jesusantguerrero/insane-treasurer) | 0 | 2026-10-03 | Laravel package to handle subscriptions via paypal |
+| [lenorix/filament-autosave](https://github.com/lenorix/filament-autosave) | 5 | 2026-10-03 | Saves form changes after the user pauses typing |
+| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | 2026-10-03 | Laravel package for the eRecht24 API. Simple integration by ... |
+| [igunter/laravel-store](https://github.com/igunter/laravel-store) | 0 | 2026-10-03 |  |
+| [GhDj/laravel-visitor-tracker](https://github.com/GhDj/laravel-visitor-tracker) | 1 | 2026-10-03 | A Laravel package for visitor tracking with analytics, geolo... |
+| [leonardozaneladias/ht2-erp](https://github.com/leonardozaneladias/ht2-erp) | 0 | 2026-10-03 | ERP administrativo multiempresa em Laravel 13 + Livewire 4 +... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-04T01:36 | 5 | 1731 | 6824 |
 | 2026-10-03T19:05 | 60 | 1674 | 6820 |
 | 2026-10-03T14:03 | 5 | 1715 | 6760 |
 | 2026-10-03T06:54 | 3 | 1715 | 6755 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-02T06:49 | 2 | 1716 | 6734 |
 | 2026-10-02T01:08 | 6 | 1712 | 6733 |
 | 2026-10-01T18:39 | 6 | 1710 | 6727 |
-| 2026-10-01T12:45 | 7 | 1710 | 6721 |
 
 ---
 

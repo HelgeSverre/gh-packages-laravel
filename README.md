@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6833  
-**Last updated:** 2026-10-05T01:13:53.088Z
+**Total packages tracked:** 6835  
+**Last updated:** 2026-10-05T07:07:43.674Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Russelcruz28/filament-demo-mode](https://github.com/Russelcruz28/filament-demo-mode) | 0 | Persistent SQLite demo sandboxes and role switching for Laravel 12 and Filament ... |
+| [pasupathy-manikam-jr/quality-ms](https://github.com/pasupathy-manikam-jr/quality-ms) | 0 | Open-source quality management system (QMS) for manufacturers: material certific... |
 | [foxws/laravel-media](https://github.com/foxws/laravel-media) | 0 | Probe, encode, package and stream media in Laravel with ffmpeg, ab-av1 and Shaka... |
 | [ibrahimjml/Laravel-Modules](https://github.com/ibrahimjml/Laravel-Modules) | 0 | Package for generating modular structure |
 | [hashamkhan11/propnest](https://github.com/hashamkhan11/propnest) | 0 | Real estate marketplace built with Laravel 13 & Livewire: agent subscriptions, S... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [roundly-consulting/refresh-tokens-for-laravel](https://github.com/roundly-consulting/refresh-tokens-for-laravel) | 0 | Opaque, rotating refresh tokens and device sessions for Laravel — SHA-256 at res... |
 | [roundly-consulting/translatable-for-laravel](https://github.com/roundly-consulting/translatable-for-laravel) | 0 | Locale-map (jsonb) translatable attributes with a fallback chain for Eloquent; p... |
 | [roundly-consulting/qr-for-laravel](https://github.com/roundly-consulting/qr-for-laravel) | 0 | Native QR codes for Laravel: an ISO/IEC 18004 encoder with optimal segmentation,... |
-| [roundly-consulting/coupons-for-laravel](https://github.com/roundly-consulting/coupons-for-laravel) | 0 | Create, manage, and apply discount coupons in Laravel. |
-| [roundly-consulting/jwt-for-laravel](https://github.com/roundly-consulting/jwt-for-laravel) | 0 | Native RS256 user tokens + HS256 service tokens, guards, jti denylist and claim-... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-10-05 |  |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-10-05 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-05 | Magic Framework Laravel backend starter package. |
-| [phpclaw-php/phpclaw-monorepo](https://github.com/phpclaw-php/phpclaw-monorepo) | 12 | 2026-10-05 | The universal AI agent engine for PHP. Tools, memory, guards... |
-| [richardDobron/blade-google-material-symbols-200](https://github.com/richardDobron/blade-google-material-symbols-200) | 0 | 2026-10-05 | A package to easily make use of Google's Material Symbols (2... |
-| [richardDobron/blade-google-material-symbols-100](https://github.com/richardDobron/blade-google-material-symbols-100) | 0 | 2026-10-05 | A package to easily make use of Google's Material Symbols (1... |
-| [richardDobron/blade-google-material-symbols-700](https://github.com/richardDobron/blade-google-material-symbols-700) | 0 | 2026-10-05 | A package to easily make use of Google's Material Symbols (7... |
-| [richardDobron/blade-google-material-symbols-500](https://github.com/richardDobron/blade-google-material-symbols-500) | 0 | 2026-10-05 | A package to easily make use of Google's Material Symbols (5... |
-| [richardDobron/blade-google-material-symbols-400](https://github.com/richardDobron/blade-google-material-symbols-400) | 0 | 2026-10-05 | A package to easily make use of Google's Material Symbols (4... |
-| [richardDobron/blade-google-material-symbols-300](https://github.com/richardDobron/blade-google-material-symbols-300) | 0 | 2026-10-05 | A package to easily make use of Google's Material Symbols (3... |
-| [richardDobron/blade-google-material-symbols-600](https://github.com/richardDobron/blade-google-material-symbols-600) | 0 | 2026-10-05 | A package to easily make use of Google's Material Symbols (6... |
-| [richardDobron/blade-google-material-symbols](https://github.com/richardDobron/blade-google-material-symbols) | 0 | 2026-10-05 | A package to easily make use of Google's Material Symbols in... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-05 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [yannelli/attempt](https://github.com/yannelli/attempt) | 28 | 2026-10-05 | Attempt is a Laravel package provides a fluent, composable r... |
-| [l4nos/laravel-cashier-stripe-connect](https://github.com/l4nos/laravel-cashier-stripe-connect) | 83 | 2026-10-05 | 💲 Adds Stripe Connect functionality to Laravel's main billi... |
-| [foxws/laravel-media](https://github.com/foxws/laravel-media) | 0 | 2026-10-05 | Probe, encode, package and stream media in Laravel with ffmp... |
+| [avexsoft/donkey](https://github.com/avexsoft/donkey) | 3 | 2026-10-05 | The smart-ass Laravel package to manage config() in producti... |
 | [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-05 |  |
-| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-10-05 | Laravel OTP is a Laravel package that enables developers to ... |
+| [Russelcruz28/filament-demo-mode](https://github.com/Russelcruz28/filament-demo-mode) | 0 | 2026-10-05 | Persistent SQLite demo sandboxes and role switching for Lara... |
+| [hashamkhan11/fit-hub](https://github.com/hashamkhan11/fit-hub) | 0 | 2026-10-05 | Multi-tenant gym management platform: Laravel/Livewire staff... |
+| [cortejojicoy/digital-signature](https://github.com/cortejojicoy/digital-signature) | 0 | 2026-10-05 |  |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 48 | 2026-10-05 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-10-05 | Laravel-based API for storing sensor data from distributed n... |
+| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-10-05 | Can a balcony weather station forecast its own next six hour... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-10-05 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-10-05 | Runtime base library for building Laravel packages: fluent P... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-10-05 | Laravel package scaffolder: generate complete, convention-re... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-05 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [yannelli/attempt](https://github.com/yannelli/attempt) | 28 | 2026-10-05 | Attempt is a Laravel package provides a fluent, composable r... |
+| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 8 | 2026-10-05 | Laravel Pesapal is a Laravel package designed to facilitate ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-05 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [TitaniaAnn/makerhearth-architecture](https://github.com/TitaniaAnn/makerhearth-architecture) | 0 | 2026-10-05 | Reference implementation of the multi-tenant studio-manageme... |
+| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-10-05 | A Laravel Package providing seamless integration for the wun... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-05 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [satheez/laravel-rate-limit-dashboard](https://github.com/satheez/laravel-rate-limit-dashboard) | 0 | 2026-10-05 | Laravel package providing an intuitive dashboard for monitor... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-05T07:07 | 2 | 1735 | 6835 |
 | 2026-10-05T01:13 | 2 | 1735 | 6833 |
 | 2026-10-04T19:30 | 2 | 1733 | 6831 |
 | 2026-10-04T14:17 | 2 | 1733 | 6829 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-03T14:03 | 5 | 1715 | 6760 |
 | 2026-10-03T06:54 | 3 | 1715 | 6755 |
 | 2026-10-03T01:05 | 7 | 1711 | 6752 |
-| 2026-10-02T18:38 | 7 | 1712 | 6745 |
 
 ---
 

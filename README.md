@@ -2,17 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6865  
-**Last updated:** 2026-10-06T12:43:56.394Z
+**Total packages tracked:** 6868  
+**Last updated:** 2026-10-06T18:38:55.981Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [fosseva/laravel-web-mcp](https://github.com/fosseva/laravel-web-mcp) | 0 | Expose Laravel AI SDK tools to browser agents through Blade and native WebMCP. |
+| [flagmint/flagmint-laravel](https://github.com/flagmint/flagmint-laravel) | 0 | Official Flagmint Laravel package — facade, Blade @feature, middleware, and Arti... |
+| [ngarak-dev/laravel-modularization](https://github.com/ngarak-dev/laravel-modularization) | 0 | A Laravel package for business-domain modules with optional repository and servi... |
 | [rkwebforge/bladewell-starter-kit](https://github.com/rkwebforge/bladewell-starter-kit) | 0 | Laravel starter kit: sign in, registration and settings built from LarawellUI Bl... |
 | [fixwire/fixwire-laravel](https://github.com/fixwire/fixwire-laravel) | 0 | Fixwire for Laravel 11, 12 and 13: exceptions, requests, queues, scheduled tasks... |
 | [crushjs/mini-pdf](https://github.com/crushjs/mini-pdf) | 0 | A lightweight PDF generator for Laravel with built-in Khmer (Unicode) support |
-| [Pharaonic/laravel-hijri](https://github.com/Pharaonic/laravel-hijri) | 13 | Hijri (Islamic) calendar integration for Laravel with Carbon conversion, Blade s... |
+| [Pharaonic/laravel-hijri](https://github.com/Pharaonic/laravel-hijri) | 14 | Hijri (Islamic) calendar integration for Laravel with Carbon conversion, Blade s... |
 | [maiobarbero/laravel-aftercare](https://github.com/maiobarbero/laravel-aftercare) | 0 | An opinionated starting configuration for Laravel, with Pint, PHPStan, Rector, a... |
 | [ICBMT/atlas-scope](https://github.com/ICBMT/atlas-scope) | 0 | Laravel package for visualizing Laravel, C++, C# and Python projects as an inter... |
 | [tomise20/laravel-barion](https://github.com/tomise20/laravel-barion) | 0 | A simple Laravel package for Barion payment gateway |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [vimatech-io/laravel-audit-log](https://github.com/vimatech-io/laravel-audit-log) | 0 | Append-only, tenant-aware audit log for Laravel |
 | [benjaminLedel/covey-laravel](https://github.com/benjaminLedel/covey-laravel) | 0 | Give a covey agent (covey.work) a door into your Laravel application: schema, re... |
 | [SytxLabs/LaravelWebMCP](https://github.com/SytxLabs/LaravelWebMCP) | 0 | Expose laravel/mcp tools and resources as WebMCP tools (document.modelContext) i... |
-| [rajeshmk/laravel-eloquent-foundation](https://github.com/rajeshmk/laravel-eloquent-foundation) | 0 | Foundational Eloquent traits and scopes for Laravel applications |
-| [uendelsilveira/Multi_Tenant](https://github.com/uendelsilveira/Multi_Tenant) | 0 | Base multi-tenant com um banco por empresa, em Laravel 13 e Filament 5, para con... |
-| [rajeshmk/laravel-steward](https://github.com/rajeshmk/laravel-steward) | 0 | Production-grade CQRS primitives, declarative HTTP query parsing, bounded valida... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,25 +59,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-06 | Filament plugin that allows to add dynamic, user-defined for... |
-| [ades4827/sprintflow](https://github.com/ades4827/sprintflow) | 1 | 2026-10-06 | Laravel Package for speed up your project development |
-| [pirabyte/erecht24-laravel](https://github.com/pirabyte/erecht24-laravel) | 1 | 2026-10-06 |  |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-10-06 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-10-06 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [rkwebforge/bladewell-starter-kit](https://github.com/rkwebforge/bladewell-starter-kit) | 0 | 2026-10-06 | Laravel starter kit: sign in, registration and settings buil... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-10-06 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-06 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-06 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [Pollora/framework](https://github.com/Pollora/framework) | 2 | 2026-10-06 | The Laravel framework for WordPress: Blade, Laravel routing ... |
-| [benjaminLedel/covey-laravel](https://github.com/benjaminLedel/covey-laravel) | 0 | 2026-10-06 | Give a covey agent (covey.work) a door into your Laravel app... |
-| [fixwire/fixwire-laravel](https://github.com/fixwire/fixwire-laravel) | 0 | 2026-10-06 | Fixwire for Laravel 11, 12 and 13: exceptions, requests, que... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-10-06 | The Moox Project - Packages for Filament and Laravel |
-| [builtbyberry/laravel-swarm-mcp](https://github.com/builtbyberry/laravel-swarm-mcp) | 1 | 2026-10-06 | Read-only Model Context Protocol (MCP) server for Laravel Sw... |
-| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 3 | 2026-10-06 | Free, read-only Filament observability panel for Laravel Swa... |
-| [ICBMT/atlas-scope](https://github.com/ICBMT/atlas-scope) | 0 | 2026-10-06 | Laravel package for visualizing Laravel, C++, C# and Python ... |
-| [invelity/laravel-headless-wizard](https://github.com/invelity/laravel-headless-wizard) | 2 | 2026-10-06 | 🧙‍♂️ Headless multi-step wizard package for Laravel with in... |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 443 | 2026-10-06 | A media picker plugin for Filament Panels. |
+| [fosseva/laravel-web-mcp](https://github.com/fosseva/laravel-web-mcp) | 0 | 2026-10-06 | Expose Laravel AI SDK tools to browser agents through Blade ... |
+| [MarcelWeidum/filament-expiration-notice](https://github.com/MarcelWeidum/filament-expiration-notice) | 95 | 2026-10-06 | Customize the 'Page expired' livewire message into a filamen... |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-06 | Plataforma de planeación y control de producción para manufa... |
+| [flagmint/flagmint-laravel](https://github.com/flagmint/flagmint-laravel) | 0 | 2026-10-06 | Official Flagmint Laravel package — facade, Blade @feature, ... |
+| [arthur-bpv/ERD-laravel-package](https://github.com/arthur-bpv/ERD-laravel-package) | 0 | 2026-10-06 |  |
+| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-10-06 | Package to manage medias within Laravel |
+| [ICCM-Americas/ConferenceToolsHost](https://github.com/ICCM-Americas/ConferenceToolsHost) | 0 | 2026-10-06 | Laravel host application for the conference-tools packages —... |
+| [risetechapps/monitoring-for-laravel](https://github.com/risetechapps/monitoring-for-laravel) | 0 | 2026-10-06 | Package Laravel Monitorin and Logs |
+| [awcodes/richer-editor](https://github.com/awcodes/richer-editor) | 44 | 2026-10-06 | A collection of extensions and tools to enhance the Filament... |
+| [diegosurita/pennant-ui](https://github.com/diegosurita/pennant-ui) | 0 | 2026-10-06 | A user-friendly UI for Laravel Pennant package |
+| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-06 | A job board where a company's silence shows. Laravel, Livewi... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-10-06 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-06 | A multi-purpose content and application platform for Laravel... |
+| [folkloreinc/laravel-folklore](https://github.com/folkloreinc/laravel-folklore) | 0 | 2026-10-06 | Laravel 5 package to manage general dependencies and utiliti... |
+| [awcodes/typebar](https://github.com/awcodes/typebar) | 3 | 2026-10-06 | Mobile Markdown symbol row for the Filament Markdown editor. |
 | [Zairakai/PHP-Package_laravel_dev_tools](https://github.com/Zairakai/PHP-Package_laravel_dev_tools) | 0 | 2026-10-06 |  |
-| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-06 |  |
+| [ArtisanPack-UI/ecommerce-admin-livewire](https://github.com/ArtisanPack-UI/ecommerce-admin-livewire) | 0 | 2026-10-06 | Livewire admin for the ArtisanPack UI ecommerce engine — pro... |
+| [Zairakai/PHP-Package_laravel_activity](https://github.com/Zairakai/PHP-Package_laravel_activity) | 0 | 2026-10-06 |  |
 | [Zairakai/PHP-Package_laravel_essentials](https://github.com/Zairakai/PHP-Package_laravel_essentials) | 0 | 2026-10-06 |  |
 
 ---
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-06T18:38 | 3 | 1729 | 6868 |
 | 2026-10-06T12:43 | 9 | 1723 | 6865 |
 | 2026-10-06T06:50 | 4 | 1728 | 6856 |
 | 2026-10-06T01:08 | 4 | 1729 | 6852 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-05T01:13 | 2 | 1735 | 6833 |
 | 2026-10-04T19:30 | 2 | 1733 | 6831 |
 | 2026-10-04T14:17 | 2 | 1733 | 6829 |
-| 2026-10-04T08:26 | 3 | 1732 | 6827 |
 
 ---
 

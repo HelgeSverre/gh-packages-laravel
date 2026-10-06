@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6848  
-**Last updated:** 2026-10-05T18:40:26.843Z
+**Total packages tracked:** 6852  
+**Last updated:** 2026-10-06T01:08:01.693Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | A job board where a company's silence shows. Laravel, Livewire, Filament, Pest. |
+| [vimatech-io/laravel-audit-log](https://github.com/vimatech-io/laravel-audit-log) | 0 | Append-only, tenant-aware audit log for Laravel |
+| [benjaminLedel/covey-laravel](https://github.com/benjaminLedel/covey-laravel) | 0 | Give a covey agent (covey.work) a door into your Laravel application: schema, re... |
+| [SytxLabs/LaravelWebMCP](https://github.com/SytxLabs/LaravelWebMCP) | 0 | Expose laravel/mcp tools and resources as WebMCP tools (document.modelContext) i... |
 | [rajeshmk/laravel-eloquent-foundation](https://github.com/rajeshmk/laravel-eloquent-foundation) | 0 | Foundational Eloquent traits and scopes for Laravel applications |
 | [uendelsilveira/Multi_Tenant](https://github.com/uendelsilveira/Multi_Tenant) | 0 | Base multi-tenant com um banco por empresa, em Laravel 13 e Filament 5, para con... |
 | [rajeshmk/laravel-steward](https://github.com/rajeshmk/laravel-steward) | 0 | Production-grade CQRS primitives, declarative HTTP query parsing, bounded valida... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Russelcruz28/filament-demo-mode](https://github.com/Russelcruz28/filament-demo-mode) | 0 | Persistent SQLite demo sandboxes and role switching for Laravel 12 and Filament ... |
 | [pasupathy-manikam-jr/quality-ms](https://github.com/pasupathy-manikam-jr/quality-ms) | 0 | Open-source quality management system (QMS) for manufacturers: material certific... |
 | [foxws/laravel-media](https://github.com/foxws/laravel-media) | 1 | Probe, encode, package and stream media in Laravel with ffmpeg, ab-av1 and Shaka... |
-| [ibrahimjml/Laravel-Modules](https://github.com/ibrahimjml/Laravel-Modules) | 0 | Package for generating modular structure |
-| [hashamkhan11/propnest](https://github.com/hashamkhan11/propnest) | 0 | Real estate marketplace built with Laravel 13 & Livewire: agent subscriptions, S... |
-| [khaledtarek54/threadwire-laravel](https://github.com/khaledtarek54/threadwire-laravel) | 0 | Official Laravel package for Threadwire: send WhatsApp messages from your own nu... |
-| [NyonCode/wire-module-tenants](https://github.com/NyonCode/wire-module-tenants) | 0 | Companies for wire: register a company, keep its profile, and invite and manage ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [WendellAdriel/slidewire](https://github.com/WendellAdriel/slidewire) | 142 | 2026-10-05 | Create beautiful presentations powered by Livewire |
-| [phpclaw-php/phpclaw-monorepo](https://github.com/phpclaw-php/phpclaw-monorepo) | 12 | 2026-10-05 | The universal AI agent engine for PHP. Tools, memory, guards... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-06 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-06 |  |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-10-06 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-10-06 | Integrate Mixpanel analytics into Filament projects to track... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-10-06 | Automated code analysis for Laravel applications with 73 com... |
+| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-10-06 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-10-06 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [loki495/insights](https://github.com/loki495/insights) | 0 | 2026-10-06 | Self-hosted Laravel/Livewire personal-finance app with Plaid... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-06 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-10-06 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
+| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-10-06 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
+| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-10-06 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
+| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-10-06 | 💰 Simplify your financial management with Finova, an open-s... |
+| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-10-06 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
+| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | 2026-10-06 | Visual feedback for Laravel and Livewire with client-side sc... |
+| [schmeits/filament-character-counter](https://github.com/schmeits/filament-character-counter) | 34 | 2026-10-06 | This is a Filament PHP character counter TextField and Texta... |
+| [mmstewart/laravel-x-ray](https://github.com/mmstewart/laravel-x-ray) | 0 | 2026-10-06 | Laravel X-Ray is pre-upgrade readiness scanner for Laravel. ... |
 | [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-05 | Magic Framework Laravel backend starter package. |
-| [loki495/insights](https://github.com/loki495/insights) | 0 | 2026-10-05 | Self-hosted Laravel/Livewire personal-finance app with Plaid... |
-| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 10 | 2026-10-05 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
-| [arthur-bpv/ERD-laravel-package](https://github.com/arthur-bpv/ERD-laravel-package) | 0 | 2026-10-05 |  |
-| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-05 |  |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-10-05 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 205 | 2026-10-05 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [roundly-consulting/reviews-for-laravel](https://github.com/roundly-consulting/reviews-for-laravel) | 0 | 2026-10-05 | Write reviews to any entity from any entity. |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-05 | A multi-purpose content and application platform for Laravel... |
-| [uendelsilveira/Multi_Tenant](https://github.com/uendelsilveira/Multi_Tenant) | 0 | 2026-10-05 | Base multi-tenant com um banco por empresa, em Laravel 13 e ... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-10-05 | A lightweight, convention-driven modular architecture packag... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-10-05 | A Laravel package that provides flexible and extensible reso... |
-| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 216 | 2026-10-05 | Laravel SmartCache - Optimize Caching for Large Data |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-10-05 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [roundly-consulting/lifecycle-for-laravel](https://github.com/roundly-consulting/lifecycle-for-laravel) | 0 | 2026-10-05 | Status lifecycles for Eloquent models: guarded named transit... |
-| [petar-spasic/laravel-house](https://github.com/petar-spasic/laravel-house) | 1 | 2026-10-05 | House rules for Laravel projects: project setup, Docker depl... |
-| [pnscripts/pn-shop-core](https://github.com/pnscripts/pn-shop-core) | 0 | 2026-10-05 | PN Shop platform core (Composer package). Read-only: publish... |
-| [awcodes/richer-editor](https://github.com/awcodes/richer-editor) | 44 | 2026-10-05 | A collection of extensions and tools to enhance the Filament... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [adeildo-jr/laravel-runner](https://github.com/adeildo-jr/laravel-runner) | 0 | 2026-10-05 | Laravel Runner is a package to run one-time actions in your ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-06T01:08 | 4 | 1729 | 6852 |
 | 2026-10-05T18:40 | 8 | 1726 | 6848 |
 | 2026-10-05T12:47 | 5 | 1729 | 6840 |
 | 2026-10-05T07:07 | 2 | 1735 | 6835 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-04T08:26 | 3 | 1732 | 6827 |
 | 2026-10-04T01:36 | 5 | 1731 | 6824 |
 | 2026-10-03T19:05 | 60 | 1674 | 6820 |
-| 2026-10-03T14:03 | 5 | 1715 | 6760 |
 
 ---
 

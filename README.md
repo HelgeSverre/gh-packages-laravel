@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6852  
-**Last updated:** 2026-10-06T01:08:01.693Z
+**Total packages tracked:** 6856  
+**Last updated:** 2026-10-06T06:50:20.489Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Moustafa-Ahmed/lms](https://github.com/Moustafa-Ahmed/lms) | 0 | Production-style Learning Management System: public catalog, free-preview video ... |
+| [Mahmoud217TR/snowflake-for-laravel](https://github.com/Mahmoud217TR/snowflake-for-laravel) | 1 | Distributed, time-sortable 64-bit Snowflake IDs for Laravel with Redis coordinat... |
+| [ksubodh9/smart-ai-assistant](https://github.com/ksubodh9/smart-ai-assistant) | 0 | Smart AI Assistant is a Laravel package that reduces repetitive customer support... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | A Laravel-native integration & workflow automation package. |
 | [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | A job board where a company's silence shows. Laravel, Livewire, Filament, Pest. |
 | [vimatech-io/laravel-audit-log](https://github.com/vimatech-io/laravel-audit-log) | 0 | Append-only, tenant-aware audit log for Laravel |
 | [benjaminLedel/covey-laravel](https://github.com/benjaminLedel/covey-laravel) | 0 | Give a covey agent (covey.work) a door into your Laravel application: schema, re... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rajeshmk/laravel-modular-lite](https://github.com/rajeshmk/laravel-modular-lite) | 1 | Lightweight, zero-ceremony modular architecture for Laravel applications with au... |
 | [rajeshmk/laravel-modular](https://github.com/rajeshmk/laravel-modular) | 1 | Enterprise Domain-Driven Design (DDD) 4-Layer Modular Architecture for Laravel w... |
 | [wittyfox/S3DatabaseBackup](https://github.com/wittyfox/S3DatabaseBackup) | 1 | Backups your laravel project's database and uploads to S3. You can also specify ... |
-| [jangaraev/laravel-blade-cache](https://github.com/jangaraev/laravel-blade-cache) | 3 | A tiny package to cache blade views. |
-| [Russelcruz28/filament-demo-mode](https://github.com/Russelcruz28/filament-demo-mode) | 0 | Persistent SQLite demo sandboxes and role switching for Laravel 12 and Filament ... |
-| [pasupathy-manikam-jr/quality-ms](https://github.com/pasupathy-manikam-jr/quality-ms) | 0 | Open-source quality management system (QMS) for manufacturers: material certific... |
-| [foxws/laravel-media](https://github.com/foxws/laravel-media) | 1 | Probe, encode, package and stream media in Laravel with ffmpeg, ab-av1 and Shaka... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [gem-partij/gemboot-lara](https://github.com/gem-partij/gemboot-lara) | 1 | 2026-10-06 | Laravel Package that support SMVC (Service-Model-View-Contro... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-06 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-10-06 | A headless CMS for Laravel: content modelled in PHP, edited ... |
+| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-10-06 | Monorepo for Finity Labs' Filament packages |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-10-06 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [little-green-man/earhart](https://github.com/little-green-man/earhart) | 3 | 2026-10-06 | A package to use PropelAuth with Laravel |
 | [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-06 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-10-06 | Manage, process, and serve files in Laravel with scalable up... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 283 | 2026-10-06 | A live database structure viewer for Laravel that renders yo... |
+| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-10-06 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
+| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-10-06 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-10-06 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-10-06 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [hashamkhan11/propnest](https://github.com/hashamkhan11/propnest) | 0 | 2026-10-06 | Real estate marketplace built with Laravel 13 & Livewire: ag... |
 | [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-06 |  |
 | [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-10-06 | Integrate Laravel with the Agent Runner microservice to mana... |
 | [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-10-06 | Integrate Mixpanel analytics into Filament projects to track... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-10-06 | Automated code analysis for Laravel applications with 73 com... |
-| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-10-06 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
-| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-10-06 | A todo list app that's MCP-native, so AI agents can claim, c... |
-| [loki495/insights](https://github.com/loki495/insights) | 0 | 2026-10-06 | Self-hosted Laravel/Livewire personal-finance app with Plaid... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-06 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [metrictower/funnypot-policy](https://github.com/metrictower/funnypot-policy) | 0 | 2026-10-06 | The decision engine for funnypot. Normally not installed dir... |
 | [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-10-06 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [Alfan129/AidaGateway](https://github.com/Alfan129/AidaGateway) | 0 | 2026-10-06 | 💳 Simplify payment integration in Laravel with AidaGateway,... |
-| [Franccolonialist589/laravel-model-docs-md](https://github.com/Franccolonialist589/laravel-model-docs-md) | 1 | 2026-10-06 | 📄 Generate Markdown documentation for your Laravel Eloquent... |
-| [Felipe2099/finova](https://github.com/Felipe2099/finova) | 0 | 2026-10-06 | 💰 Simplify your financial management with Finova, an open-s... |
-| [Mehdia-Batool/laravel-helperbox](https://github.com/Mehdia-Batool/laravel-helperbox) | 0 | 2026-10-06 | 🚀 Accelerate Laravel development with 600+ native helper fu... |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | 2026-10-06 | Visual feedback for Laravel and Livewire with client-side sc... |
-| [schmeits/filament-character-counter](https://github.com/schmeits/filament-character-counter) | 34 | 2026-10-06 | This is a Filament PHP character counter TextField and Texta... |
-| [mmstewart/laravel-x-ray](https://github.com/mmstewart/laravel-x-ray) | 0 | 2026-10-06 | Laravel X-Ray is pre-upgrade readiness scanner for Laravel. ... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-05 | Magic Framework Laravel backend starter package. |
-| [capell-app/capell](https://github.com/capell-app/capell) | 4 | 2026-10-05 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [adeildo-jr/laravel-runner](https://github.com/adeildo-jr/laravel-runner) | 0 | 2026-10-05 | Laravel Runner is a package to run one-time actions in your ... |
+| [ksubodh9/smart-ai-assistant](https://github.com/ksubodh9/smart-ai-assistant) | 0 | 2026-10-06 | Smart AI Assistant is a Laravel package that reduces repetit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-06T06:50 | 4 | 1728 | 6856 |
 | 2026-10-06T01:08 | 4 | 1729 | 6852 |
 | 2026-10-05T18:40 | 8 | 1726 | 6848 |
 | 2026-10-05T12:47 | 5 | 1729 | 6840 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-04T14:17 | 2 | 1733 | 6829 |
 | 2026-10-04T08:26 | 3 | 1732 | 6827 |
 | 2026-10-04T01:36 | 5 | 1731 | 6824 |
-| 2026-10-03T19:05 | 60 | 1674 | 6820 |
 
 ---
 

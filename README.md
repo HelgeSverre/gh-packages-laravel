@@ -2,13 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6856  
-**Last updated:** 2026-10-06T06:50:20.489Z
+**Total packages tracked:** 6865  
+**Last updated:** 2026-10-06T12:43:56.394Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [rkwebforge/bladewell-starter-kit](https://github.com/rkwebforge/bladewell-starter-kit) | 0 | Laravel starter kit: sign in, registration and settings built from LarawellUI Bl... |
+| [fixwire/fixwire-laravel](https://github.com/fixwire/fixwire-laravel) | 0 | Fixwire for Laravel 11, 12 and 13: exceptions, requests, queues, scheduled tasks... |
+| [crushjs/mini-pdf](https://github.com/crushjs/mini-pdf) | 0 | A lightweight PDF generator for Laravel with built-in Khmer (Unicode) support |
+| [Pharaonic/laravel-hijri](https://github.com/Pharaonic/laravel-hijri) | 13 | Hijri (Islamic) calendar integration for Laravel with Carbon conversion, Blade s... |
+| [maiobarbero/laravel-aftercare](https://github.com/maiobarbero/laravel-aftercare) | 0 | An opinionated starting configuration for Laravel, with Pint, PHPStan, Rector, a... |
+| [ICBMT/atlas-scope](https://github.com/ICBMT/atlas-scope) | 0 | Laravel package for visualizing Laravel, C++, C# and Python projects as an inter... |
+| [tomise20/laravel-barion](https://github.com/tomise20/laravel-barion) | 0 | A simple Laravel package for Barion payment gateway |
+| [lhaamed/media-module](https://github.com/lhaamed/media-module) | 0 | A powerful and extensible Laravel package for centralized media management. |
+| [crushjs/mini-datatables](https://github.com/crushjs/mini-datatables) | 0 | This is a mini package for making you easy display data with datatable |
 | [Moustafa-Ahmed/lms](https://github.com/Moustafa-Ahmed/lms) | 0 | Production-style Learning Management System: public catalog, free-preview video ... |
 | [Mahmoud217TR/snowflake-for-laravel](https://github.com/Mahmoud217TR/snowflake-for-laravel) | 1 | Distributed, time-sortable 64-bit Snowflake IDs for Laravel with Redis coordinat... |
 | [ksubodh9/smart-ai-assistant](https://github.com/ksubodh9/smart-ai-assistant) | 0 | Smart AI Assistant is a Laravel package that reduces repetitive customer support... |
@@ -20,15 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rajeshmk/laravel-eloquent-foundation](https://github.com/rajeshmk/laravel-eloquent-foundation) | 0 | Foundational Eloquent traits and scopes for Laravel applications |
 | [uendelsilveira/Multi_Tenant](https://github.com/uendelsilveira/Multi_Tenant) | 0 | Base multi-tenant com um banco por empresa, em Laravel 13 e Filament 5, para con... |
 | [rajeshmk/laravel-steward](https://github.com/rajeshmk/laravel-steward) | 0 | Production-grade CQRS primitives, declarative HTTP query parsing, bounded valida... |
-| [ArtisanPack-UI/ecommerce-storefront-livewire](https://github.com/ArtisanPack-UI/ecommerce-storefront-livewire) | 0 | Livewire storefront for the ArtisanPack UI ecommerce engine — catalog, product p... |
-| [Paemark/laravel-paypal-secure](https://github.com/Paemark/laravel-paypal-secure) | 0 | A secure, easy-to-use, and strictly typed PayPal integration package for Laravel... |
-| [caixingyue/laravel-star-log](https://github.com/caixingyue/laravel-star-log) | 1 | This is a package that enhances the Laravel log format. It can inject request ID... |
-| [nowshad7/laravel-activitylog-ui](https://github.com/nowshad7/laravel-activitylog-ui) | 16 | Laravel Activity Log UI is a Tailwind CSS-powered user interface for the popular... |
-| [afiqiqmal/country-holiday](https://github.com/afiqiqmal/country-holiday) | 1 | A PHP package to retrieve holiday dates for various countries. |
-| [sorge-it/phpunit-pest-html-assertions](https://github.com/sorge-it/phpunit-pest-html-assertions) | 0 | HTML assertions for PHPUnit and Pest: check rendered HTML with CSS selectors, ne... |
-| [rajeshmk/laravel-modular-lite](https://github.com/rajeshmk/laravel-modular-lite) | 1 | Lightweight, zero-ceremony modular architecture for Laravel applications with au... |
-| [rajeshmk/laravel-modular](https://github.com/rajeshmk/laravel-modular) | 1 | Enterprise Domain-Driven Design (DDD) 4-Layer Modular Architecture for Laravel w... |
-| [wittyfox/S3DatabaseBackup](https://github.com/wittyfox/S3DatabaseBackup) | 1 | Backups your laravel project's database and uploads to S3. You can also specify ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [gem-partij/gemboot-lara](https://github.com/gem-partij/gemboot-lara) | 1 | 2026-10-06 | Laravel Package that support SMVC (Service-Model-View-Contro... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-06 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-10-06 | A headless CMS for Laravel: content modelled in PHP, edited ... |
-| [finity-labs/fin-components](https://github.com/finity-labs/fin-components) | 0 | 2026-10-06 | Monorepo for Finity Labs' Filament packages |
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-10-06 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [little-green-man/earhart](https://github.com/little-green-man/earhart) | 3 | 2026-10-06 | A package to use PropelAuth with Laravel |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-06 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-10-06 | Manage, process, and serve files in Laravel with scalable up... |
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 283 | 2026-10-06 | A live database structure viewer for Laravel that renders yo... |
-| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-10-06 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
-| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-10-06 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-10-06 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-10-06 | A todo list app that's MCP-native, so AI agents can claim, c... |
-| [hashamkhan11/propnest](https://github.com/hashamkhan11/propnest) | 0 | 2026-10-06 | Real estate marketplace built with Laravel 13 & Livewire: ag... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-06 | Filament plugin that allows to add dynamic, user-defined for... |
+| [ades4827/sprintflow](https://github.com/ades4827/sprintflow) | 1 | 2026-10-06 | Laravel Package for speed up your project development |
+| [pirabyte/erecht24-laravel](https://github.com/pirabyte/erecht24-laravel) | 1 | 2026-10-06 |  |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-10-06 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-10-06 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [rkwebforge/bladewell-starter-kit](https://github.com/rkwebforge/bladewell-starter-kit) | 0 | 2026-10-06 | Laravel starter kit: sign in, registration and settings buil... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-10-06 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-06 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-06 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 2 | 2026-10-06 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [benjaminLedel/covey-laravel](https://github.com/benjaminLedel/covey-laravel) | 0 | 2026-10-06 | Give a covey agent (covey.work) a door into your Laravel app... |
+| [fixwire/fixwire-laravel](https://github.com/fixwire/fixwire-laravel) | 0 | 2026-10-06 | Fixwire for Laravel 11, 12 and 13: exceptions, requests, que... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-10-06 | The Moox Project - Packages for Filament and Laravel |
+| [builtbyberry/laravel-swarm-mcp](https://github.com/builtbyberry/laravel-swarm-mcp) | 1 | 2026-10-06 | Read-only Model Context Protocol (MCP) server for Laravel Sw... |
+| [builtbyberry/laravel-swarm-filament](https://github.com/builtbyberry/laravel-swarm-filament) | 3 | 2026-10-06 | Free, read-only Filament observability panel for Laravel Swa... |
+| [ICBMT/atlas-scope](https://github.com/ICBMT/atlas-scope) | 0 | 2026-10-06 | Laravel package for visualizing Laravel, C++, C# and Python ... |
+| [invelity/laravel-headless-wizard](https://github.com/invelity/laravel-headless-wizard) | 2 | 2026-10-06 | 🧙‍♂️ Headless multi-step wizard package for Laravel with in... |
+| [Zairakai/PHP-Package_laravel_dev_tools](https://github.com/Zairakai/PHP-Package_laravel_dev_tools) | 0 | 2026-10-06 |  |
 | [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-06 |  |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-10-06 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-10-06 | Integrate Mixpanel analytics into Filament projects to track... |
-| [metrictower/funnypot-policy](https://github.com/metrictower/funnypot-policy) | 0 | 2026-10-06 | The decision engine for funnypot. Normally not installed dir... |
-| [Runeson13/laravel-boost-guidelines](https://github.com/Runeson13/laravel-boost-guidelines) | 0 | 2026-10-06 | 🚀 Boost Laravel projects with AI-driven coding guidelines f... |
-| [ksubodh9/smart-ai-assistant](https://github.com/ksubodh9/smart-ai-assistant) | 0 | 2026-10-06 | Smart AI Assistant is a Laravel package that reduces repetit... |
+| [Zairakai/PHP-Package_laravel_essentials](https://github.com/Zairakai/PHP-Package_laravel_essentials) | 0 | 2026-10-06 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-06T12:43 | 9 | 1723 | 6865 |
 | 2026-10-06T06:50 | 4 | 1728 | 6856 |
 | 2026-10-06T01:08 | 4 | 1729 | 6852 |
 | 2026-10-05T18:40 | 8 | 1726 | 6848 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-04T19:30 | 2 | 1733 | 6831 |
 | 2026-10-04T14:17 | 2 | 1733 | 6829 |
 | 2026-10-04T08:26 | 3 | 1732 | 6827 |
-| 2026-10-04T01:36 | 5 | 1731 | 6824 |
 
 ---
 

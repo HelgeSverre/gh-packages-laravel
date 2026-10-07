@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6879  
-**Last updated:** 2026-10-07T06:49:56.075Z
+**Total packages tracked:** 6900  
+**Last updated:** 2026-10-07T12:46:59.110Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [usamatoor1993/firebase-notifications](https://github.com/usamatoor1993/firebase-notifications) | 0 | Send Firebase Cloud Messaging (FCM) push notifications in Laravel using OAuth2 c... |
-| [digbly/cms](https://github.com/digbly/cms) | 191 | Juzaweb CMS is a Content Management System (CMS) developed based on Laravel Fram... |
-| [Webekspres/fonte-otp](https://github.com/Webekspres/fonte-otp) | 0 | This package provides an easy way to send OTP (One-Time Password) via WhatsApp u... |
-| [vlados/vladko.dev](https://github.com/vlados/vladko.dev) | 1 | My personal resume |
-| [boring-o11y/wirestan](https://github.com/boring-o11y/wirestan) | 0 | A collection of PHPStan rules for correct LiveWire usage |
-| [jeffersongoncalves/filament-mail-editor](https://github.com/jeffersongoncalves/filament-mail-editor) | 1 | Visual email template builder for Filament: drag-and-drop blocks, live preview a... |
-| [peter9x/laravel-mail-listeners](https://github.com/peter9x/laravel-mail-listeners) | 0 | Laravel package: read mailboxes (Microsoft Graph, IMAP) and turn every new email... |
-| [Zairakai/PHP-Package_laravel_blade_components](https://github.com/Zairakai/PHP-Package_laravel_blade_components) | 0 |  |
-| [bajoski34/Laravel](https://github.com/bajoski34/Laravel) | 7 | The Official Flutterwave package for Laravel |
-| [AminulBD/laravel-packages](https://github.com/AminulBD/laravel-packages) | 8 |  |
-| [AryeoHQ/eloquent-search-backup](https://github.com/AryeoHQ/eloquent-search-backup) | 0 | Laravel package providing OpenSearch Scout integration, index migration tooling,... |
-| [fosseva/laravel-web-mcp](https://github.com/fosseva/laravel-web-mcp) | 5 | Expose Laravel AI SDK tools to browser agents through Blade and native WebMCP. |
-| [flagmint/flagmint-laravel](https://github.com/flagmint/flagmint-laravel) | 0 | Official Flagmint Laravel package — facade, Blade @feature, middleware, and Arti... |
-| [ngarak-dev/laravel-modularization](https://github.com/ngarak-dev/laravel-modularization) | 0 | A Laravel package for business-domain modules with optional repository and servi... |
-| [rkwebforge/bladewell-starter-kit](https://github.com/rkwebforge/bladewell-starter-kit) | 0 | Laravel starter kit: sign in, registration and settings built from LarawellUI Bl... |
-| [fixwire/fixwire-laravel](https://github.com/fixwire/fixwire-laravel) | 0 | Fixwire for Laravel 11, 12 and 13: exceptions, requests, queues, scheduled tasks... |
-| [crushjs/mini-pdf](https://github.com/crushjs/mini-pdf) | 0 | A lightweight PDF generator for Laravel with built-in Khmer (Unicode) support |
-| [Pharaonic/laravel-hijri](https://github.com/Pharaonic/laravel-hijri) | 14 | Hijri (Islamic) calendar integration for Laravel with Carbon conversion, Blade s... |
-| [maiobarbero/laravel-aftercare](https://github.com/maiobarbero/laravel-aftercare) | 0 | An opinionated starting configuration for Laravel, with Pint, PHPStan, Rector, a... |
-| [ICBMT/atlas-scope](https://github.com/ICBMT/atlas-scope) | 0 | Laravel package for visualizing Laravel, C++, C# and Python projects as an inter... |
+| [jeffersongoncalves/filament-metrics-posthog](https://github.com/jeffersongoncalves/filament-metrics-posthog) | 1 | PostHog analytics dashboard widgets for Filament with settings page powered by S... |
+| [jeffersongoncalves/filament-metrics-ga4](https://github.com/jeffersongoncalves/filament-metrics-ga4) | 1 | Google Analytics 4 dashboard widgets for Filament with settings page powered by ... |
+| [asignua/filament-chat](https://github.com/asignua/filament-chat) | 4 | Team chat inside Filament 5 panels: direct messages and groups, @mentions, repli... |
+| [asignua/filament-json-yaml-editor](https://github.com/asignua/filament-json-yaml-editor) | 1 | JSON and YAML editors for Filament 5: code view with highlighting and folding pl... |
+| [asignua/filament-spreadsheet-grid](https://github.com/asignua/filament-spreadsheet-grid) | 1 | Excel-style editing for Filament 5 tables: arrow-key navigation, type over a cel... |
+| [asignua/filament-group-summaries](https://github.com/asignua/filament-group-summaries) | 2 | Column summaries (Sum, Average, Count, Range, custom) in the group header row of... |
+| [asignua/filament-relation-manager-tabs](https://github.com/asignua/filament-relation-manager-tabs) | 2 | Render Filament 5 relation managers as ordinary tabs of the record form, so an e... |
+| [asignua/filament-infinite-scroll](https://github.com/asignua/filament-infinite-scroll) | 1 | Infinite scroll and a "Load more" button for Filament 5 tables with one line: ->... |
+| [asignua/filament-xlsx-export](https://github.com/asignua/filament-xlsx-export) | 1 | Download what is on the screen as a real Excel file: the Filament 5 table's curr... |
+| [asignua/filament-image-meta](https://github.com/asignua/filament-image-meta) | 1 | Per-file alt text (per locale), a decorative flag, caption, title and focal poin... |
+| [asignua/filament-rich-editor-toolkit](https://github.com/asignua/filament-rich-editor-toolkit) | 0 | Five free plugins for the Filament 5 RichEditor (TipTap): paste cleanup for Word... |
+| [asignua/filament-csp-nonce](https://github.com/asignua/filament-csp-nonce) | 0 | Strict Content-Security-Policy for Filament 5 panels without 'unsafe-inline' scr... |
+| [asignua/filament-seo-files](https://github.com/asignua/filament-seo-files) | 1 | sitemap.xml, robots.txt, llms.txt and llms-full.txt for Filament 5, generated fr... |
+| [asignua/filament-redirects](https://github.com/asignua/filament-redirects) | 0 | Redirect manager and 404 log for Filament 5. Visitors' and Googlebot's 404s are ... |
+| [asignua/filament-activity-log-plus](https://github.com/asignua/filament-activity-log-plus) | 0 | Audit trail for Filament 5 on spatie/laravel-activitylog 5 that writes the truth... |
+| [asignua/filament-translatable-fields](https://github.com/asignua/filament-translatable-fields) | 0 | Per-field language tabs for spatie/laravel-translatable in Filament 5. Every loc... |
+| [SAJADDIPURO/payroll-service](https://github.com/SAJADDIPURO/payroll-service) | 0 | Employee attendance & HR system with geolocation check-in, shifts, schedules, le... |
+| [Pharaonic/laravel-sluggable](https://github.com/Pharaonic/laravel-sluggable) | 4 | Automatic and customizable slug generation for Laravel Eloquent models. |
+| [jeffersongoncalves/laravel-metrics-posthog](https://github.com/jeffersongoncalves/laravel-metrics-posthog) | 1 | PostHog web analytics metrics for Laravel via HogQL - visitors, sessions, pagevi... |
+| [jeffersongoncalves/laravel-metrics-ga4](https://github.com/jeffersongoncalves/laravel-metrics-ga4) | 1 | Google Analytics 4 metrics for Laravel via the GA4 Data API - visitors, sessions... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [gem-partij/gemboot-lara](https://github.com/gem-partij/gemboot-lara) | 1 | 2026-10-07 | Laravel package for API services behind a central auth servi... |
-| [crontinel/laravel](https://github.com/crontinel/laravel) | 0 | 2026-10-07 | Laravel package for Crontinel background job monitoring |
-| [cliqthemes/log-lens-core](https://github.com/cliqthemes/log-lens-core) | 0 | 2026-10-07 | Local-first log dashboard and error tracker for Laravel, Hor... |
-| [cliqthemes/log-lens](https://github.com/cliqthemes/log-lens) | 5 | 2026-10-07 | Local-first log dashboard and error tracker for Laravel, Hor... |
-| [mueller-schmitz/laravel-model-integrity](https://github.com/mueller-schmitz/laravel-model-integrity) | 1 | 2026-10-07 | Immutable and versioned Eloquent models with a gapless, cryp... |
+| [rishadblack/i-reports](https://github.com/rishadblack/i-reports) | 1 | 2026-10-07 | A reusable Laravel reporting package with Livewire support, ... |
+| [CreativeCrafts/laravel-ai-assistant](https://github.com/CreativeCrafts/laravel-ai-assistant) | 14 | 2026-10-07 | A handy package to interact with openai chatgpt |
+| [roundly-consulting/two-factor-for-laravel](https://github.com/roundly-consulting/two-factor-for-laravel) | 0 | 2026-10-07 | Native RFC 6238 TOTP two-factor authentication for Laravel —... |
+| [roundly-consulting/certificates-for-laravel](https://github.com/roundly-consulting/certificates-for-laravel) | 0 | 2026-10-07 | Manage and provision TLS certificates for your domains from ... |
+| [Pharaonic/laravel-sluggable](https://github.com/Pharaonic/laravel-sluggable) | 4 | 2026-10-07 | Automatic and customizable slug generation for Laravel Eloqu... |
+| [roundly-consulting/git-for-laravel](https://github.com/roundly-consulting/git-for-laravel) | 0 | 2026-10-07 | Access git repositories (GitHub, GitLab, Bitbucket) through ... |
+| [SAJADDIPURO/payroll-service](https://github.com/SAJADDIPURO/payroll-service) | 0 | 2026-10-07 | Employee attendance & HR system with geolocation check-in, s... |
+| [ozodbekphp/laravel-imei-reader](https://github.com/ozodbekphp/laravel-imei-reader) | 0 | 2026-10-07 | High-performance PHP & Laravel package to decode barcodes an... |
+| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-10-07 | A headless CMS for Laravel: content modelled in PHP, edited ... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-07 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | 2026-10-07 | A Laravel library for attaching files to Eloquent models. |
+| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-10-07 | Filament package for easy attachment uploading and browsing. |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-07 | Filament plugin that allows to add dynamic, user-defined for... |
 | [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-07 | A job board where a company's silence shows. Laravel, Livewi... |
-| [cipi-sh/agent](https://github.com/cipi-sh/agent) | 6 | 2026-10-07 | Cipi Agent for Laravel applications |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 71 | 2026-10-07 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [Climactic/laravel-credits](https://github.com/Climactic/laravel-credits) | 330 | 2026-10-07 | A ledger-based Laravel package for managing credit-based sys... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-10-07 | Simple package for adding directives to show/hide content fr... |
-| [mattmy/laravel-icalendar-reader](https://github.com/mattmy/laravel-icalendar-reader) | 0 | 2026-10-07 | Read, validate, and query .ics calendars with a Laravel API—... |
-| [digbly/cms](https://github.com/digbly/cms) | 191 | 2026-10-07 | Juzaweb CMS is a Content Management System (CMS) developed b... |
-| [ksubodh9/smart-ai-assistant](https://github.com/ksubodh9/smart-ai-assistant) | 0 | 2026-10-07 | Smart AI Assistant is a Laravel package that reduces repetit... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-07 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [usamatoor1993/firebase-notifications](https://github.com/usamatoor1993/firebase-notifications) | 0 | 2026-10-07 | Send Firebase Cloud Messaging (FCM) push notifications in La... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-10-07 | A package to create datatables using alpinejs, tailwind, liv... |
-| [rkwebforge/bladewell-starter-kit](https://github.com/rkwebforge/bladewell-starter-kit) | 0 | 2026-10-07 | Laravel starter kit: sign in, registration and settings buil... |
-| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-10-07 |  |
-| [mrezdev/laravel-talkto](https://github.com/mrezdev/laravel-talkto) | 1 | 2026-10-07 | Secure Laravel service-to-service command transport with sig... |
-| [roundly-consulting/passkeys-for-laravel](https://github.com/roundly-consulting/passkeys-for-laravel) | 0 | 2026-10-07 | Native WebAuthn / FIDO2 passkey relying party for Laravel |
+| [hatemsweileh/planvio](https://github.com/hatemsweileh/planvio) | 10 | 2026-10-07 | Plan the work. Let AI run it. An open-source, self-hosted pr... |
+| [rutgers-oit-eds/laravel-cas-authentication](https://github.com/rutgers-oit-eds/laravel-cas-authentication) | 0 | 2026-10-07 | Laravel package for integrating Apereo phpCAS |
+| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 10 | 2026-10-07 | An in-panel AI assistant and an MCP server for Filament v5 p... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-07 | The NativePHP website |
+| [Pollora/framework](https://github.com/Pollora/framework) | 2 | 2026-10-07 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-07 | A multi-purpose content and application platform for Laravel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-07T12:46 | 21 | 1700 | 6900 |
 | 2026-10-07T06:49 | 3 | 1730 | 6879 |
 | 2026-10-07T01:11 | 8 | 1723 | 6876 |
 | 2026-10-06T18:38 | 3 | 1729 | 6868 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-05T18:40 | 8 | 1726 | 6848 |
 | 2026-10-05T12:47 | 5 | 1729 | 6840 |
 | 2026-10-05T07:07 | 2 | 1735 | 6835 |
-| 2026-10-05T01:13 | 2 | 1735 | 6833 |
 
 ---
 

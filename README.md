@@ -2,14 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6868  
-**Last updated:** 2026-10-06T18:38:55.981Z
+**Total packages tracked:** 6876  
+**Last updated:** 2026-10-07T01:11:33.144Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [fosseva/laravel-web-mcp](https://github.com/fosseva/laravel-web-mcp) | 0 | Expose Laravel AI SDK tools to browser agents through Blade and native WebMCP. |
+| [vlados/vladko.dev](https://github.com/vlados/vladko.dev) | 1 | My personal resume |
+| [boring-o11y/wirestan](https://github.com/boring-o11y/wirestan) | 0 | A collection of PHPStan rules for correct LiveWire usage |
+| [jeffersongoncalves/filament-mail-editor](https://github.com/jeffersongoncalves/filament-mail-editor) | 1 | Visual email template builder for Filament: drag-and-drop blocks, live preview a... |
+| [peter9x/laravel-mail-listeners](https://github.com/peter9x/laravel-mail-listeners) | 0 | Laravel package: read mailboxes (Microsoft Graph, IMAP) and turn every new email... |
+| [Zairakai/PHP-Package_laravel_blade_components](https://github.com/Zairakai/PHP-Package_laravel_blade_components) | 0 |  |
+| [bajoski34/Laravel](https://github.com/bajoski34/Laravel) | 7 | The Official Flutterwave package for Laravel |
+| [AminulBD/laravel-packages](https://github.com/AminulBD/laravel-packages) | 8 |  |
+| [AryeoHQ/eloquent-search-backup](https://github.com/AryeoHQ/eloquent-search-backup) | 0 | Laravel package providing OpenSearch Scout integration, index migration tooling,... |
+| [fosseva/laravel-web-mcp](https://github.com/fosseva/laravel-web-mcp) | 3 | Expose Laravel AI SDK tools to browser agents through Blade and native WebMCP. |
 | [flagmint/flagmint-laravel](https://github.com/flagmint/flagmint-laravel) | 0 | Official Flagmint Laravel package — facade, Blade @feature, middleware, and Arti... |
 | [ngarak-dev/laravel-modularization](https://github.com/ngarak-dev/laravel-modularization) | 0 | A Laravel package for business-domain modules with optional repository and servi... |
 | [rkwebforge/bladewell-starter-kit](https://github.com/rkwebforge/bladewell-starter-kit) | 0 | Laravel starter kit: sign in, registration and settings built from LarawellUI Bl... |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [tomise20/laravel-barion](https://github.com/tomise20/laravel-barion) | 0 | A simple Laravel package for Barion payment gateway |
 | [lhaamed/media-module](https://github.com/lhaamed/media-module) | 0 | A powerful and extensible Laravel package for centralized media management. |
 | [crushjs/mini-datatables](https://github.com/crushjs/mini-datatables) | 0 | This is a mini package for making you easy display data with datatable |
-| [Moustafa-Ahmed/lms](https://github.com/Moustafa-Ahmed/lms) | 0 | Production-style Learning Management System: public catalog, free-preview video ... |
-| [Mahmoud217TR/snowflake-for-laravel](https://github.com/Mahmoud217TR/snowflake-for-laravel) | 1 | Distributed, time-sortable 64-bit Snowflake IDs for Laravel with Redis coordinat... |
-| [ksubodh9/smart-ai-assistant](https://github.com/ksubodh9/smart-ai-assistant) | 0 | Smart AI Assistant is a Laravel package that reduces repetitive customer support... |
-| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | A Laravel-native integration & workflow automation package. |
-| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | A job board where a company's silence shows. Laravel, Livewire, Filament, Pest. |
-| [vimatech-io/laravel-audit-log](https://github.com/vimatech-io/laravel-audit-log) | 0 | Append-only, tenant-aware audit log for Laravel |
-| [benjaminLedel/covey-laravel](https://github.com/benjaminLedel/covey-laravel) | 0 | Give a covey agent (covey.work) a door into your Laravel application: schema, re... |
-| [SytxLabs/LaravelWebMCP](https://github.com/SytxLabs/LaravelWebMCP) | 0 | Expose laravel/mcp tools and resources as WebMCP tools (document.modelContext) i... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 443 | 2026-10-06 | A media picker plugin for Filament Panels. |
-| [fosseva/laravel-web-mcp](https://github.com/fosseva/laravel-web-mcp) | 0 | 2026-10-06 | Expose Laravel AI SDK tools to browser agents through Blade ... |
-| [MarcelWeidum/filament-expiration-notice](https://github.com/MarcelWeidum/filament-expiration-notice) | 95 | 2026-10-06 | Customize the 'Page expired' livewire message into a filamen... |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-06 | Plataforma de planeación y control de producción para manufa... |
-| [flagmint/flagmint-laravel](https://github.com/flagmint/flagmint-laravel) | 0 | 2026-10-06 | Official Flagmint Laravel package — facade, Blade @feature, ... |
-| [arthur-bpv/ERD-laravel-package](https://github.com/arthur-bpv/ERD-laravel-package) | 0 | 2026-10-06 |  |
-| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-10-06 | Package to manage medias within Laravel |
-| [ICCM-Americas/ConferenceToolsHost](https://github.com/ICCM-Americas/ConferenceToolsHost) | 0 | 2026-10-06 | Laravel host application for the conference-tools packages —... |
-| [risetechapps/monitoring-for-laravel](https://github.com/risetechapps/monitoring-for-laravel) | 0 | 2026-10-06 | Package Laravel Monitorin and Logs |
-| [awcodes/richer-editor](https://github.com/awcodes/richer-editor) | 44 | 2026-10-06 | A collection of extensions and tools to enhance the Filament... |
-| [diegosurita/pennant-ui](https://github.com/diegosurita/pennant-ui) | 0 | 2026-10-06 | A user-friendly UI for Laravel Pennant package |
-| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-06 | A job board where a company's silence shows. Laravel, Livewi... |
+| [Particle-Academy/laravel-jobs-reference](https://github.com/Particle-Academy/laravel-jobs-reference) | 0 | 2026-10-07 | A real Laravel consumer of laravel-jobs + job-board. The sha... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-10-07 | A Laravel-based web application that tracks, analyzes, and p... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-10-07 | Automated code analysis for Laravel applications with 73 com... |
+| [phpclaw-php/phpclaw-monorepo](https://github.com/phpclaw-php/phpclaw-monorepo) | 12 | 2026-10-07 | The universal AI agent engine for PHP. Tools, memory, guards... |
+| [jeffersongoncalves/filament-mail-editor](https://github.com/jeffersongoncalves/filament-mail-editor) | 1 | 2026-10-07 | Visual email template builder for Filament: drag-and-drop bl... |
+| [Russelcruz28/filament-demo-mode](https://github.com/Russelcruz28/filament-demo-mode) | 2 | 2026-10-07 | Filament 4 & 5 plugin: present your panel on a persistent SQ... |
+| [petar-spasic/laravel-house](https://github.com/petar-spasic/laravel-house) | 1 | 2026-10-07 | House rules for Laravel projects: project setup, Docker depl... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-10-07 | A Laravel-native integration & workflow automation package. |
+| [peter9x/laravel-mail-listeners](https://github.com/peter9x/laravel-mail-listeners) | 0 | 2026-10-07 | Laravel package: read mailboxes (Microsoft Graph, IMAP) and ... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-10-07 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-10-07 | Manage and track inventory with a PHP package that integrate... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-07 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-10-07 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-10-06 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
 | [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-10-06 | A todo list app that's MCP-native, so AI agents can claim, c... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-06 | A multi-purpose content and application platform for Laravel... |
-| [folkloreinc/laravel-folklore](https://github.com/folkloreinc/laravel-folklore) | 0 | 2026-10-06 | Laravel 5 package to manage general dependencies and utiliti... |
-| [awcodes/typebar](https://github.com/awcodes/typebar) | 3 | 2026-10-06 | Mobile Markdown symbol row for the Filament Markdown editor. |
-| [Zairakai/PHP-Package_laravel_dev_tools](https://github.com/Zairakai/PHP-Package_laravel_dev_tools) | 0 | 2026-10-06 |  |
-| [ArtisanPack-UI/ecommerce-admin-livewire](https://github.com/ArtisanPack-UI/ecommerce-admin-livewire) | 0 | 2026-10-06 | Livewire admin for the ArtisanPack UI ecommerce engine — pro... |
-| [Zairakai/PHP-Package_laravel_activity](https://github.com/Zairakai/PHP-Package_laravel_activity) | 0 | 2026-10-06 |  |
-| [Zairakai/PHP-Package_laravel_essentials](https://github.com/Zairakai/PHP-Package_laravel_essentials) | 0 | 2026-10-06 |  |
+| [cosmira/sandbox](https://github.com/cosmira/sandbox) | 0 | 2026-10-06 | Laravel package for dual-table sandbox editing |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-10-06 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-10-06 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [little-green-man/earhart](https://github.com/little-green-man/earhart) | 3 | 2026-10-06 | A package to use PropelAuth with Laravel |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-10-06 | Enhance your Laravel applications with the ecommerce.cart pa... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-07T01:11 | 8 | 1723 | 6876 |
 | 2026-10-06T18:38 | 3 | 1729 | 6868 |
 | 2026-10-06T12:43 | 9 | 1723 | 6865 |
 | 2026-10-06T06:50 | 4 | 1728 | 6856 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-05T07:07 | 2 | 1735 | 6835 |
 | 2026-10-05T01:13 | 2 | 1735 | 6833 |
 | 2026-10-04T19:30 | 2 | 1733 | 6831 |
-| 2026-10-04T14:17 | 2 | 1733 | 6829 |
 
 ---
 

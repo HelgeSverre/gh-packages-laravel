@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6900  
-**Last updated:** 2026-10-07T12:46:59.110Z
+**Total packages tracked:** 6911  
+**Last updated:** 2026-10-07T18:40:14.793Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-clarity](https://github.com/jeffersongoncalves/filament-clarity) | 1 | Microsoft Clarity for Filament - tracking tag injected into your panels plus a s... |
+| [jeffersongoncalves/filament-saml2](https://github.com/jeffersongoncalves/filament-saml2) | 1 | Filament plugin for SAML2 single sign-on with multi-tenant Identity Providers (E... |
+| [jeffersongoncalves/filament-discord-logger](https://github.com/jeffersongoncalves/filament-discord-logger) | 1 | Filament settings page for laravel-discord-logger - webhook, level, per-level ch... |
+| [M-Araujo/LifeAtlas](https://github.com/M-Araujo/LifeAtlas) | 0 | Local-first personal development and journaling application built with Laravel, ... |
+| [Larasell-dev/cushion](https://github.com/Larasell-dev/cushion) | 0 | Temporarily store form data to prevent accidental loss |
+| [jeffersongoncalves/laravel-clarity](https://github.com/jeffersongoncalves/laravel-clarity) | 1 | Microsoft Clarity for Laravel - heatmaps and session recordings via a Blade incl... |
+| [jeffersongoncalves/laravel-settings-discord-logger](https://github.com/jeffersongoncalves/laravel-settings-discord-logger) | 1 | Manage laravel-discord-logger from the database with spatie/laravel-settings - w... |
+| [Kareylo/laravel-entity-routing](https://github.com/Kareylo/laravel-entity-routing) | 0 | Entity routing for Laravel: generate URLs by passing a whole model, array or obj... |
+| [yousef-aman/filament-modal-repeater](https://github.com/yousef-aman/filament-modal-repeater) | 18 | Filament repeater that shows items in a compact table and edits each one in a mo... |
+| [yousef-aman/filament-autosave](https://github.com/yousef-aman/filament-autosave) | 3 | Autosave for Filament v4/v5 forms: saves Edit pages to the database after a debo... |
+| [Webnuvola/laravel-json-ld](https://github.com/Webnuvola/laravel-json-ld) | 5 | This package allows you to use the torann/json-ld package with Laravel. |
 | [jeffersongoncalves/filament-metrics-posthog](https://github.com/jeffersongoncalves/filament-metrics-posthog) | 1 | PostHog analytics dashboard widgets for Filament with settings page powered by S... |
 | [jeffersongoncalves/filament-metrics-ga4](https://github.com/jeffersongoncalves/filament-metrics-ga4) | 1 | Google Analytics 4 dashboard widgets for Filament with settings page powered by ... |
 | [asignua/filament-chat](https://github.com/asignua/filament-chat) | 4 | Team chat inside Filament 5 panels: direct messages and groups, @mentions, repli... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [asignua/filament-relation-manager-tabs](https://github.com/asignua/filament-relation-manager-tabs) | 2 | Render Filament 5 relation managers as ordinary tabs of the record form, so an e... |
 | [asignua/filament-infinite-scroll](https://github.com/asignua/filament-infinite-scroll) | 1 | Infinite scroll and a "Load more" button for Filament 5 tables with one line: ->... |
 | [asignua/filament-xlsx-export](https://github.com/asignua/filament-xlsx-export) | 1 | Download what is on the screen as a real Excel file: the Filament 5 table's curr... |
-| [asignua/filament-image-meta](https://github.com/asignua/filament-image-meta) | 1 | Per-file alt text (per locale), a decorative flag, caption, title and focal poin... |
-| [asignua/filament-rich-editor-toolkit](https://github.com/asignua/filament-rich-editor-toolkit) | 0 | Five free plugins for the Filament 5 RichEditor (TipTap): paste cleanup for Word... |
-| [asignua/filament-csp-nonce](https://github.com/asignua/filament-csp-nonce) | 0 | Strict Content-Security-Policy for Filament 5 panels without 'unsafe-inline' scr... |
-| [asignua/filament-seo-files](https://github.com/asignua/filament-seo-files) | 1 | sitemap.xml, robots.txt, llms.txt and llms-full.txt for Filament 5, generated fr... |
-| [asignua/filament-redirects](https://github.com/asignua/filament-redirects) | 0 | Redirect manager and 404 log for Filament 5. Visitors' and Googlebot's 404s are ... |
-| [asignua/filament-activity-log-plus](https://github.com/asignua/filament-activity-log-plus) | 0 | Audit trail for Filament 5 on spatie/laravel-activitylog 5 that writes the truth... |
-| [asignua/filament-translatable-fields](https://github.com/asignua/filament-translatable-fields) | 0 | Per-field language tabs for spatie/laravel-translatable in Filament 5. Every loc... |
-| [SAJADDIPURO/payroll-service](https://github.com/SAJADDIPURO/payroll-service) | 0 | Employee attendance & HR system with geolocation check-in, shifts, schedules, le... |
-| [Pharaonic/laravel-sluggable](https://github.com/Pharaonic/laravel-sluggable) | 4 | Automatic and customizable slug generation for Laravel Eloquent models. |
-| [jeffersongoncalves/laravel-metrics-posthog](https://github.com/jeffersongoncalves/laravel-metrics-posthog) | 1 | PostHog web analytics metrics for Laravel via HogQL - visitors, sessions, pagevi... |
-| [jeffersongoncalves/laravel-metrics-ga4](https://github.com/jeffersongoncalves/laravel-metrics-ga4) | 1 | Google Analytics 4 metrics for Laravel via the GA4 Data API - visitors, sessions... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-07 | Durable execution for PHP: workflows that survive deploys, r... |
+| [robot-council/core](https://github.com/robot-council/core) | 2 | 2026-10-07 | The core of Robot Council, a coordination service for fleets... |
+| [Larasell-dev/cushion](https://github.com/Larasell-dev/cushion) | 0 | 2026-10-07 | Temporarily store form data to prevent accidental loss |
+| [folkloreinc/laravel-folklore](https://github.com/folkloreinc/laravel-folklore) | 0 | 2026-10-07 | Laravel 5 package to manage general dependencies and utiliti... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-07 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [zielu92/filament-image-labeler](https://github.com/zielu92/filament-image-labeler) | 2 | 2026-10-07 | Filament v5 plugin for labeling images with rectangles and p... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-07 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-10-07 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
+| [imanghafoori1/laravel-microscope-tester](https://github.com/imanghafoori1/laravel-microscope-tester) | 0 | 2026-10-07 | This Laravel app is intended to provide a realistic environm... |
+| [loki495/homie](https://github.com/loki495/homie) | 0 | 2026-10-07 | A self-hosted, configurable homepage/dashboard for home lab ... |
+| [roundly-consulting/sentinel-for-laravel](https://github.com/roundly-consulting/sentinel-for-laravel) | 0 | 2026-10-07 | Tamper-evident seals for Eloquent models (keyed MACs and sig... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-07 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 33 | 2026-10-07 | A PHPStan extension for analysis of Laravel applications and... |
 | [rishadblack/i-reports](https://github.com/rishadblack/i-reports) | 1 | 2026-10-07 | A reusable Laravel reporting package with Livewire support, ... |
-| [CreativeCrafts/laravel-ai-assistant](https://github.com/CreativeCrafts/laravel-ai-assistant) | 14 | 2026-10-07 | A handy package to interact with openai chatgpt |
-| [roundly-consulting/two-factor-for-laravel](https://github.com/roundly-consulting/two-factor-for-laravel) | 0 | 2026-10-07 | Native RFC 6238 TOTP two-factor authentication for Laravel —... |
-| [roundly-consulting/certificates-for-laravel](https://github.com/roundly-consulting/certificates-for-laravel) | 0 | 2026-10-07 | Manage and provision TLS certificates for your domains from ... |
-| [Pharaonic/laravel-sluggable](https://github.com/Pharaonic/laravel-sluggable) | 4 | 2026-10-07 | Automatic and customizable slug generation for Laravel Eloqu... |
-| [roundly-consulting/git-for-laravel](https://github.com/roundly-consulting/git-for-laravel) | 0 | 2026-10-07 | Access git repositories (GitHub, GitLab, Bitbucket) through ... |
-| [SAJADDIPURO/payroll-service](https://github.com/SAJADDIPURO/payroll-service) | 0 | 2026-10-07 | Employee attendance & HR system with geolocation check-in, s... |
-| [ozodbekphp/laravel-imei-reader](https://github.com/ozodbekphp/laravel-imei-reader) | 0 | 2026-10-07 | High-performance PHP & Laravel package to decode barcodes an... |
-| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-10-07 | A headless CMS for Laravel: content modelled in PHP, edited ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-07 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | 2026-10-07 | A Laravel library for attaching files to Eloquent models. |
-| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-10-07 | Filament package for easy attachment uploading and browsing. |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-07 | Filament plugin that allows to add dynamic, user-defined for... |
 | [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-07 | A job board where a company's silence shows. Laravel, Livewi... |
-| [hatemsweileh/planvio](https://github.com/hatemsweileh/planvio) | 10 | 2026-10-07 | Plan the work. Let AI run it. An open-source, self-hosted pr... |
-| [rutgers-oit-eds/laravel-cas-authentication](https://github.com/rutgers-oit-eds/laravel-cas-authentication) | 0 | 2026-10-07 | Laravel package for integrating Apereo phpCAS |
-| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 10 | 2026-10-07 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-07 | The NativePHP website |
-| [Pollora/framework](https://github.com/Pollora/framework) | 2 | 2026-10-07 | The Laravel framework for WordPress: Blade, Laravel routing ... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-07 | A multi-purpose content and application platform for Laravel... |
+| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-10-07 | A headless CMS for Laravel: content modelled in PHP, edited ... |
+| [asignua/filament-chat](https://github.com/asignua/filament-chat) | 4 | 2026-10-07 | Team chat inside Filament 5 panels: direct messages and grou... |
+| [Zairakai/PHP-Package_laravel_blade_components](https://github.com/Zairakai/PHP-Package_laravel_blade_components) | 0 | 2026-10-07 |  |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-07 | Plataforma de planeación y control de producción para manufa... |
+| [roundly-consulting/google-places-for-laravel](https://github.com/roundly-consulting/google-places-for-laravel) | 0 | 2026-10-07 | Query the Google Places API — place details, autocomplete, r... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-07T18:40 | 11 | 1709 | 6911 |
 | 2026-10-07T12:46 | 21 | 1700 | 6900 |
 | 2026-10-07T06:49 | 3 | 1730 | 6879 |
 | 2026-10-07T01:11 | 8 | 1723 | 6876 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-06T01:08 | 4 | 1729 | 6852 |
 | 2026-10-05T18:40 | 8 | 1726 | 6848 |
 | 2026-10-05T12:47 | 5 | 1729 | 6840 |
-| 2026-10-05T07:07 | 2 | 1735 | 6835 |
 
 ---
 

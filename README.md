@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6911  
-**Last updated:** 2026-10-07T18:40:14.793Z
+**Total packages tracked:** 6921  
+**Last updated:** 2026-10-08T01:11:02.290Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-open-hours](https://github.com/jeffersongoncalves/filament-open-hours) | 1 | Opening hours for Filament: manage the weekly schedule, holidays, special dates ... |
+| [filamentcraft/starter-livewire](https://github.com/filamentcraft/starter-livewire) | 0 | Laravel + Livewire + Flux starter kit with teams, where every team builds and pu... |
+| [zhoorta/ferrite](https://github.com/zhoorta/ferrite) | 0 | Self-hosted file storage for one person or a small team. A web-only Google Drive... |
+| [rishadblack/wire-tomselect](https://github.com/rishadblack/wire-tomselect) | 4 | Searchable Livewire dropdowns backed by Tom Select: one component class per drop... |
+| [rishadblack/larahelpers](https://github.com/rishadblack/larahelpers) | 1 | Laravel helper functions for Bangladesh: number & currency formatting, lakh/cror... |
+| [jeffersongoncalves/filament-translation-manager](https://github.com/jeffersongoncalves/filament-translation-manager) | 1 | Translation manager for Filament: edit app, JSON and vendor package translations... |
+| [jobmetric/laravel-post](https://github.com/jobmetric/laravel-post) | 2 | This is a post and article management package in Laravel that you can use in you... |
+| [jeffersongoncalves/laravel-translation-manager](https://github.com/jeffersongoncalves/laravel-translation-manager) | 1 | Database overrides for Laravel translations: edit any key - app, JSON or vendor ... |
+| [pmochine/Laravel-Tongue](https://github.com/pmochine/Laravel-Tongue) | 41 | 🎉 Finally a subdomain localization that works how you want it to work. 🌐 |
+| [fomvasss/laravel-notify-templates](https://github.com/fomvasss/laravel-notify-templates) | 2 | Database-driven notification templates for Laravel. Admins edit the subject and ... |
 | [jeffersongoncalves/filament-clarity](https://github.com/jeffersongoncalves/filament-clarity) | 1 | Microsoft Clarity for Filament - tracking tag injected into your panels plus a s... |
 | [jeffersongoncalves/filament-saml2](https://github.com/jeffersongoncalves/filament-saml2) | 1 | Filament plugin for SAML2 single sign-on with multi-tenant Identity Providers (E... |
 | [jeffersongoncalves/filament-discord-logger](https://github.com/jeffersongoncalves/filament-discord-logger) | 1 | Filament settings page for laravel-discord-logger - webhook, level, per-level ch... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Kareylo/laravel-entity-routing](https://github.com/Kareylo/laravel-entity-routing) | 0 | Entity routing for Laravel: generate URLs by passing a whole model, array or obj... |
 | [yousef-aman/filament-modal-repeater](https://github.com/yousef-aman/filament-modal-repeater) | 18 | Filament repeater that shows items in a compact table and edits each one in a mo... |
 | [yousef-aman/filament-autosave](https://github.com/yousef-aman/filament-autosave) | 3 | Autosave for Filament v4/v5 forms: saves Edit pages to the database after a debo... |
-| [Webnuvola/laravel-json-ld](https://github.com/Webnuvola/laravel-json-ld) | 5 | This package allows you to use the torann/json-ld package with Laravel. |
-| [jeffersongoncalves/filament-metrics-posthog](https://github.com/jeffersongoncalves/filament-metrics-posthog) | 1 | PostHog analytics dashboard widgets for Filament with settings page powered by S... |
-| [jeffersongoncalves/filament-metrics-ga4](https://github.com/jeffersongoncalves/filament-metrics-ga4) | 1 | Google Analytics 4 dashboard widgets for Filament with settings page powered by ... |
-| [asignua/filament-chat](https://github.com/asignua/filament-chat) | 4 | Team chat inside Filament 5 panels: direct messages and groups, @mentions, repli... |
-| [asignua/filament-json-yaml-editor](https://github.com/asignua/filament-json-yaml-editor) | 1 | JSON and YAML editors for Filament 5: code view with highlighting and folding pl... |
-| [asignua/filament-spreadsheet-grid](https://github.com/asignua/filament-spreadsheet-grid) | 1 | Excel-style editing for Filament 5 tables: arrow-key navigation, type over a cel... |
-| [asignua/filament-group-summaries](https://github.com/asignua/filament-group-summaries) | 2 | Column summaries (Sum, Average, Count, Range, custom) in the group header row of... |
-| [asignua/filament-relation-manager-tabs](https://github.com/asignua/filament-relation-manager-tabs) | 2 | Render Filament 5 relation managers as ordinary tabs of the record form, so an e... |
-| [asignua/filament-infinite-scroll](https://github.com/asignua/filament-infinite-scroll) | 1 | Infinite scroll and a "Load more" button for Filament 5 tables with one line: ->... |
-| [asignua/filament-xlsx-export](https://github.com/asignua/filament-xlsx-export) | 1 | Download what is on the screen as a real Excel file: the Filament 5 table's curr... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-07 | Durable execution for PHP: workflows that survive deploys, r... |
-| [robot-council/core](https://github.com/robot-council/core) | 2 | 2026-10-07 | The core of Robot Council, a coordination service for fleets... |
-| [Larasell-dev/cushion](https://github.com/Larasell-dev/cushion) | 0 | 2026-10-07 | Temporarily store form data to prevent accidental loss |
-| [folkloreinc/laravel-folklore](https://github.com/folkloreinc/laravel-folklore) | 0 | 2026-10-07 | Laravel 5 package to manage general dependencies and utiliti... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-07 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [zielu92/filament-image-labeler](https://github.com/zielu92/filament-image-labeler) | 2 | 2026-10-07 | Filament v5 plugin for labeling images with rectangles and p... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-07 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-10-07 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
-| [imanghafoori1/laravel-microscope-tester](https://github.com/imanghafoori1/laravel-microscope-tester) | 0 | 2026-10-07 | This Laravel app is intended to provide a realistic environm... |
-| [loki495/homie](https://github.com/loki495/homie) | 0 | 2026-10-07 | A self-hosted, configurable homepage/dashboard for home lab ... |
-| [roundly-consulting/sentinel-for-laravel](https://github.com/roundly-consulting/sentinel-for-laravel) | 0 | 2026-10-07 | Tamper-evident seals for Eloquent models (keyed MACs and sig... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-07 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 33 | 2026-10-07 | A PHPStan extension for analysis of Laravel applications and... |
-| [rishadblack/i-reports](https://github.com/rishadblack/i-reports) | 1 | 2026-10-07 | A reusable Laravel reporting package with Livewire support, ... |
-| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-07 | A job board where a company's silence shows. Laravel, Livewi... |
-| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-10-07 | A headless CMS for Laravel: content modelled in PHP, edited ... |
-| [asignua/filament-chat](https://github.com/asignua/filament-chat) | 4 | 2026-10-07 | Team chat inside Filament 5 panels: direct messages and grou... |
-| [Zairakai/PHP-Package_laravel_blade_components](https://github.com/Zairakai/PHP-Package_laravel_blade_components) | 0 | 2026-10-07 |  |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-07 | Plataforma de planeación y control de producción para manufa... |
-| [roundly-consulting/google-places-for-laravel](https://github.com/roundly-consulting/google-places-for-laravel) | 0 | 2026-10-07 | Query the Google Places API — place details, autocomplete, r... |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-08 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 199 | 2026-10-08 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
+| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-08 | Odden CRM: modular, open-source CRM packages for Laravel and... |
+| [saade/filament-autograph](https://github.com/saade/filament-autograph) | 83 | 2026-10-08 | A Filament package to collect signatures. |
+| [Jackardios/laravel-eloquent-spatial](https://github.com/Jackardios/laravel-eloquent-spatial) | 0 | 2026-10-08 | Laravel Eloquent spatial package. |
+| [gem-partij/gemboot-lara](https://github.com/gem-partij/gemboot-lara) | 1 | 2026-10-08 | Laravel package for API services behind a central auth servi... |
+| [Jackardios/laravel-image-dimensions](https://github.com/Jackardios/laravel-image-dimensions) | 1 | 2026-10-08 | A Laravel package to efficiently determine image dimensions ... |
+| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 100 | 2026-10-08 | A Filament package to manage adjacency lists (aka trees). |
+| [jeffersongoncalves/filament-open-hours](https://github.com/jeffersongoncalves/filament-open-hours) | 1 | 2026-10-08 | Opening hours for Filament: manage the weekly schedule, holi... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-10-08 | A Laravel-native integration & workflow automation package. |
+| [jeffersongoncalves/filament-translation-manager](https://github.com/jeffersongoncalves/filament-translation-manager) | 1 | 2026-10-08 | Translation manager for Filament: edit app, JSON and vendor ... |
+| [jeffersongoncalves/filament-plugin-cli](https://github.com/jeffersongoncalves/filament-plugin-cli) | 1 | 2026-10-08 | Scaffold new open-source Filament plugins with multi-branch ... |
+| [jobmetric/laravel-post](https://github.com/jobmetric/laravel-post) | 2 | 2026-10-08 | This is a post and article management package in Laravel tha... |
+| [filamentcraft/starter-livewire](https://github.com/filamentcraft/starter-livewire) | 0 | 2026-10-08 | Laravel + Livewire + Flux starter kit with teams, where ever... |
+| [jeffersongoncalves/laravel-translation-manager](https://github.com/jeffersongoncalves/laravel-translation-manager) | 1 | 2026-10-08 | Database overrides for Laravel translations: edit any key - ... |
+| [loki495/homie](https://github.com/loki495/homie) | 0 | 2026-10-08 | A self-hosted, configurable homepage/dashboard for home lab ... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-08 | Open-source, self-hosted video processing & delivery engine ... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-10-08 |  |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-10-07 | NativeKit starter kit built on Laravel 13.x, Filament 3.x an... |
+| [jonaaix/laravel-easy-backups](https://github.com/jonaaix/laravel-easy-backups) | 1 | 2026-10-07 | A developer-first, fluent and flexible package for creating ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-08T01:11 | 10 | 1708 | 6921 |
 | 2026-10-07T18:40 | 11 | 1709 | 6911 |
 | 2026-10-07T12:46 | 21 | 1700 | 6900 |
 | 2026-10-07T06:49 | 3 | 1730 | 6879 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-06T06:50 | 4 | 1728 | 6856 |
 | 2026-10-06T01:08 | 4 | 1729 | 6852 |
 | 2026-10-05T18:40 | 8 | 1726 | 6848 |
-| 2026-10-05T12:47 | 5 | 1729 | 6840 |
 
 ---
 

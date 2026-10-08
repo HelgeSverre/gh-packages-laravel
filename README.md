@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6921  
-**Last updated:** 2026-10-08T01:11:02.290Z
+**Total packages tracked:** 6925  
+**Last updated:** 2026-10-08T06:52:10.367Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [marcpope/cortendesk](https://github.com/marcpope/cortendesk) | 148 | A web based, open-source console for managing the RustDesk OSS Server and Client... |
+| [zero0cool0/laravel-healthcheck](https://github.com/zero0cool0/laravel-healthcheck) | 0 | A simple Laravel package that simplifies Docker health check. |
+| [jeffersongoncalves/laravel-whatsapp-widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget) | 9 | This Laravel package provides a simple yet customizable WhatsApp widget for your... |
+| [zeal-io/paymob](https://github.com/zeal-io/paymob) | 0 | Laravel package for integrating the Paymob payment gateway and processing paymen... |
 | [jeffersongoncalves/filament-open-hours](https://github.com/jeffersongoncalves/filament-open-hours) | 1 | Opening hours for Filament: manage the weekly schedule, holidays, special dates ... |
 | [filamentcraft/starter-livewire](https://github.com/filamentcraft/starter-livewire) | 0 | Laravel + Livewire + Flux starter kit with teams, where every team builds and pu... |
 | [zhoorta/ferrite](https://github.com/zhoorta/ferrite) | 0 | Self-hosted file storage for one person or a small team. A web-only Google Drive... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [M-Araujo/LifeAtlas](https://github.com/M-Araujo/LifeAtlas) | 0 | Local-first personal development and journaling application built with Laravel, ... |
 | [Larasell-dev/cushion](https://github.com/Larasell-dev/cushion) | 0 | Temporarily store form data to prevent accidental loss |
 | [jeffersongoncalves/laravel-clarity](https://github.com/jeffersongoncalves/laravel-clarity) | 1 | Microsoft Clarity for Laravel - heatmaps and session recordings via a Blade incl... |
-| [jeffersongoncalves/laravel-settings-discord-logger](https://github.com/jeffersongoncalves/laravel-settings-discord-logger) | 1 | Manage laravel-discord-logger from the database with spatie/laravel-settings - w... |
-| [Kareylo/laravel-entity-routing](https://github.com/Kareylo/laravel-entity-routing) | 0 | Entity routing for Laravel: generate URLs by passing a whole model, array or obj... |
-| [yousef-aman/filament-modal-repeater](https://github.com/yousef-aman/filament-modal-repeater) | 18 | Filament repeater that shows items in a compact table and edits each one in a mo... |
-| [yousef-aman/filament-autosave](https://github.com/yousef-aman/filament-autosave) | 3 | Autosave for Filament v4/v5 forms: saves Edit pages to the database after a debo... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-10-08 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
+| [gplanchat/durable-filament](https://github.com/gplanchat/durable-filament) | 0 | 2026-10-08 | Filament 3 and 4 panel plugin: an admin dashboard for Durabl... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-08 | Durable execution for PHP: workflows that survive deploys, r... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-10-08 | Provides email verification on the go. |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-08 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-10-08 | WireStack — a Livewire admin framework for Laravel: core, fo... |
+| [arb-rajab/laravel-consent-guard](https://github.com/arb-rajab/laravel-consent-guard) | 0 | 2026-10-08 | Tamper-evident audit logging and consent-guard middleware fo... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-08 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-08 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-08 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [ozodbekphp/laravel-imei-reader](https://github.com/ozodbekphp/laravel-imei-reader) | 0 | 2026-10-08 | High-performance PHP & Laravel package to decode barcodes an... |
 | [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-08 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [NativeBlade/NativeBlade](https://github.com/NativeBlade/NativeBlade) | 199 | 2026-10-08 | Build desktop & mobile apps with Laravel + Livewire. No Elec... |
-| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-08 | Odden CRM: modular, open-source CRM packages for Laravel and... |
-| [saade/filament-autograph](https://github.com/saade/filament-autograph) | 83 | 2026-10-08 | A Filament package to collect signatures. |
-| [Jackardios/laravel-eloquent-spatial](https://github.com/Jackardios/laravel-eloquent-spatial) | 0 | 2026-10-08 | Laravel Eloquent spatial package. |
-| [gem-partij/gemboot-lara](https://github.com/gem-partij/gemboot-lara) | 1 | 2026-10-08 | Laravel package for API services behind a central auth servi... |
-| [Jackardios/laravel-image-dimensions](https://github.com/Jackardios/laravel-image-dimensions) | 1 | 2026-10-08 | A Laravel package to efficiently determine image dimensions ... |
-| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 100 | 2026-10-08 | A Filament package to manage adjacency lists (aka trees). |
-| [jeffersongoncalves/filament-open-hours](https://github.com/jeffersongoncalves/filament-open-hours) | 1 | 2026-10-08 | Opening hours for Filament: manage the weekly schedule, holi... |
-| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-10-08 | A Laravel-native integration & workflow automation package. |
-| [jeffersongoncalves/filament-translation-manager](https://github.com/jeffersongoncalves/filament-translation-manager) | 1 | 2026-10-08 | Translation manager for Filament: edit app, JSON and vendor ... |
-| [jeffersongoncalves/filament-plugin-cli](https://github.com/jeffersongoncalves/filament-plugin-cli) | 1 | 2026-10-08 | Scaffold new open-source Filament plugins with multi-branch ... |
-| [jobmetric/laravel-post](https://github.com/jobmetric/laravel-post) | 2 | 2026-10-08 | This is a post and article management package in Laravel tha... |
-| [filamentcraft/starter-livewire](https://github.com/filamentcraft/starter-livewire) | 0 | 2026-10-08 | Laravel + Livewire + Flux starter kit with teams, where ever... |
-| [jeffersongoncalves/laravel-translation-manager](https://github.com/jeffersongoncalves/laravel-translation-manager) | 1 | 2026-10-08 | Database overrides for Laravel translations: edit any key - ... |
-| [loki495/homie](https://github.com/loki495/homie) | 0 | 2026-10-08 | A self-hosted, configurable homepage/dashboard for home lab ... |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-08 | Open-source, self-hosted video processing & delivery engine ... |
+| [nowshad7/laravel-activitylog-ui](https://github.com/nowshad7/laravel-activitylog-ui) | 16 | 2026-10-08 | Laravel Activity Log UI is a Tailwind CSS-powered user inter... |
 | [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-10-08 |  |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-10-07 | NativeKit starter kit built on Laravel 13.x, Filament 3.x an... |
-| [jonaaix/laravel-easy-backups](https://github.com/jonaaix/laravel-easy-backups) | 1 | 2026-10-07 | A developer-first, fluent and flexible package for creating ... |
+| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-08 |  |
+| [mikeyperes/laravel-hexa-package-wordpress-seo](https://github.com/mikeyperes/laravel-hexa-package-wordpress-seo) | 0 | 2026-10-08 | Abstract WordPress SEO orchestration package for scanning, i... |
+| [Pharaonic/laravel-hijri](https://github.com/Pharaonic/laravel-hijri) | 14 | 2026-10-08 | Hijri (Islamic) calendar integration for Laravel with Carbon... |
+| [gem-partij/gemboot-lara](https://github.com/gem-partij/gemboot-lara) | 1 | 2026-10-08 | Laravel package for API services behind a central auth servi... |
+| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-10-08 | A headless CMS for Laravel: content modelled in PHP, edited ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-08T06:52 | 4 | 1711 | 6925 |
 | 2026-10-08T01:11 | 10 | 1708 | 6921 |
 | 2026-10-07T18:40 | 11 | 1709 | 6911 |
 | 2026-10-07T12:46 | 21 | 1700 | 6900 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-06T12:43 | 9 | 1723 | 6865 |
 | 2026-10-06T06:50 | 4 | 1728 | 6856 |
 | 2026-10-06T01:08 | 4 | 1729 | 6852 |
-| 2026-10-05T18:40 | 8 | 1726 | 6848 |
 
 ---
 

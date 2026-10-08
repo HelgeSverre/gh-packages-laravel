@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6925  
-**Last updated:** 2026-10-08T06:52:10.367Z
+**Total packages tracked:** 6933  
+**Last updated:** 2026-10-08T12:47:19.134Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [rishadblack/wire-modals](https://github.com/rishadblack/wire-modals) | 0 | On-demand Livewire components with Bootstrap 5 modals: mount a component when a ... |
+| [Timmsy1998/PiltoverClient](https://github.com/Timmsy1998/PiltoverClient) | 1 | PiltoverClient is a lightweight, framework-agnostic API client for the Riot Game... |
+| [dmitry-ivanov/laravel-helper-functions](https://github.com/dmitry-ivanov/laravel-helper-functions) | 107 | Laravel-specific and pure PHP Helper Functions. |
+| [dmitry-ivanov/laravel-testing-tools](https://github.com/dmitry-ivanov/laravel-testing-tools) | 54 | Laravel-specific Testing Helpers and Assertions. |
+| [IonBazan/laravel-container-debug](https://github.com/IonBazan/laravel-container-debug) | 6 | Lists available services in Laravel IoC Container. Works with Laravel 5.4-13.x |
+| [BetaNow/laravel-ai-seeder](https://github.com/BetaNow/laravel-ai-seeder) | 0 | Base Laravel AI seeder package |
+| [hwkdo/llama-parse-laravel](https://github.com/hwkdo/llama-parse-laravel) | 0 | a package for using llama parse api in laravel |
+| [codalaya/php-project-install-wizard](https://github.com/codalaya/php-project-install-wizard) | 0 | This package is designed to be installed along with laravel packages.  |
+| [tanthammar/laravel-extras](https://github.com/tanthammar/laravel-extras) | 3 | Laravel macros and helpers I use in my personal projects and packages |
 | [marcpope/cortendesk](https://github.com/marcpope/cortendesk) | 148 | A web based, open-source console for managing the RustDesk OSS Server and Client... |
 | [zero0cool0/laravel-healthcheck](https://github.com/zero0cool0/laravel-healthcheck) | 0 | A simple Laravel package that simplifies Docker health check. |
 | [jeffersongoncalves/laravel-whatsapp-widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget) | 9 | This Laravel package provides a simple yet customizable WhatsApp widget for your... |
 | [zeal-io/paymob](https://github.com/zeal-io/paymob) | 0 | Laravel package for integrating the Paymob payment gateway and processing paymen... |
 | [jeffersongoncalves/filament-open-hours](https://github.com/jeffersongoncalves/filament-open-hours) | 1 | Opening hours for Filament: manage the weekly schedule, holidays, special dates ... |
 | [filamentcraft/starter-livewire](https://github.com/filamentcraft/starter-livewire) | 0 | Laravel + Livewire + Flux starter kit with teams, where every team builds and pu... |
-| [zhoorta/ferrite](https://github.com/zhoorta/ferrite) | 0 | Self-hosted file storage for one person or a small team. A web-only Google Drive... |
+| [zhoorta/ferrite](https://github.com/zhoorta/ferrite) | 0 | Ferrite by StackCare: a small self-hosted file server. Resumable uploads, share ... |
 | [rishadblack/wire-tomselect](https://github.com/rishadblack/wire-tomselect) | 4 | Searchable Livewire dropdowns backed by Tom Select: one component class per drop... |
 | [rishadblack/larahelpers](https://github.com/rishadblack/larahelpers) | 1 | Laravel helper functions for Bangladesh: number & currency formatting, lakh/cror... |
 | [jeffersongoncalves/filament-translation-manager](https://github.com/jeffersongoncalves/filament-translation-manager) | 1 | Translation manager for Filament: edit app, JSON and vendor package translations... |
 | [jobmetric/laravel-post](https://github.com/jobmetric/laravel-post) | 2 | This is a post and article management package in Laravel that you can use in you... |
-| [jeffersongoncalves/laravel-translation-manager](https://github.com/jeffersongoncalves/laravel-translation-manager) | 1 | Database overrides for Laravel translations: edit any key - app, JSON or vendor ... |
-| [pmochine/Laravel-Tongue](https://github.com/pmochine/Laravel-Tongue) | 41 | 🎉 Finally a subdomain localization that works how you want it to work. 🌐 |
-| [fomvasss/laravel-notify-templates](https://github.com/fomvasss/laravel-notify-templates) | 2 | Database-driven notification templates for Laravel. Admins edit the subject and ... |
-| [jeffersongoncalves/filament-clarity](https://github.com/jeffersongoncalves/filament-clarity) | 1 | Microsoft Clarity for Filament - tracking tag injected into your panels plus a s... |
-| [jeffersongoncalves/filament-saml2](https://github.com/jeffersongoncalves/filament-saml2) | 1 | Filament plugin for SAML2 single sign-on with multi-tenant Identity Providers (E... |
-| [jeffersongoncalves/filament-discord-logger](https://github.com/jeffersongoncalves/filament-discord-logger) | 1 | Filament settings page for laravel-discord-logger - webhook, level, per-level ch... |
-| [M-Araujo/LifeAtlas](https://github.com/M-Araujo/LifeAtlas) | 0 | Local-first personal development and journaling application built with Laravel, ... |
-| [Larasell-dev/cushion](https://github.com/Larasell-dev/cushion) | 0 | Temporarily store form data to prevent accidental loss |
-| [jeffersongoncalves/laravel-clarity](https://github.com/jeffersongoncalves/laravel-clarity) | 1 | Microsoft Clarity for Laravel - heatmaps and session recordings via a Blade incl... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-10-08 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
-| [gplanchat/durable-filament](https://github.com/gplanchat/durable-filament) | 0 | 2026-10-08 | Filament 3 and 4 panel plugin: an admin dashboard for Durabl... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-08 | Durable execution for PHP: workflows that survive deploys, r... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-10-08 | Provides email verification on the go. |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-08 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-10-08 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [arb-rajab/laravel-consent-guard](https://github.com/arb-rajab/laravel-consent-guard) | 0 | 2026-10-08 | Tamper-evident audit logging and consent-guard middleware fo... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-08 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-08 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
-| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-08 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
-| [ozodbekphp/laravel-imei-reader](https://github.com/ozodbekphp/laravel-imei-reader) | 0 | 2026-10-08 | High-performance PHP & Laravel package to decode barcodes an... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-08 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [nowshad7/laravel-activitylog-ui](https://github.com/nowshad7/laravel-activitylog-ui) | 16 | 2026-10-08 | Laravel Activity Log UI is a Tailwind CSS-powered user inter... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-10-08 |  |
-| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-08 |  |
-| [mikeyperes/laravel-hexa-package-wordpress-seo](https://github.com/mikeyperes/laravel-hexa-package-wordpress-seo) | 0 | 2026-10-08 | Abstract WordPress SEO orchestration package for scanning, i... |
-| [Pharaonic/laravel-hijri](https://github.com/Pharaonic/laravel-hijri) | 14 | 2026-10-08 | Hijri (Islamic) calendar integration for Laravel with Carbon... |
-| [gem-partij/gemboot-lara](https://github.com/gem-partij/gemboot-lara) | 1 | 2026-10-08 | Laravel package for API services behind a central auth servi... |
-| [schotman-development/mainstay](https://github.com/schotman-development/mainstay) | 0 | 2026-10-08 | A headless CMS for Laravel: content modelled in PHP, edited ... |
+| [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-10-08 | Laravel user impersonation with scoped modes, audit trails, ... |
+| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-10-08 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-08 | Filament plugin that allows to add dynamic, user-defined for... |
+| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-10-08 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [codalaya/php-project-install-wizard](https://github.com/codalaya/php-project-install-wizard) | 0 | 2026-10-08 | This package is designed to be installed along with laravel ... |
+| [foxws/laravel-docs](https://github.com/foxws/laravel-docs) | 1 | 2026-10-08 | Pull a package's docs/*.md folder from GitHub into queryable... |
+| [albertoarena/codemetry](https://github.com/albertoarena/codemetry) | 0 | 2026-10-08 | Laravel-first Composer package that analyses a Git repositor... |
+| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | 2026-10-08 | Toolkit with testing utilities for php and Laravel |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 157 | 2026-10-08 | The Moox Project - Packages for Filament and Laravel |
+| [foxws/app](https://github.com/foxws/app) | 1 | 2026-10-08 | Source of foxws.nl, the documentation site for the Foxws Lar... |
+| [trianity/laravel-ip-analyzer](https://github.com/trianity/laravel-ip-analyzer) | 0 | 2026-10-08 | Local IP country and ASN analysis with extensible observatio... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-08 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-10-08 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-10-08 | Detect language using Google Translation API |
+| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 278 | 2026-10-08 | Feature-rich Laravel package for detecting and blocking disp... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 2 | 2026-10-08 | The Laravel framework for WordPress: Blade, Laravel routing ... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jobmetric/laravel-post](https://github.com/jobmetric/laravel-post) | 2 | 2026-10-08 | This is a post and article management package in Laravel tha... |
+| [Benefits-me/php-api-auth](https://github.com/Benefits-me/php-api-auth) | 0 | 2026-10-08 | Laravel package for checking the API token. |
+| [Timmsy1998/PiltoverClient](https://github.com/Timmsy1998/PiltoverClient) | 1 | 2026-10-08 | PiltoverClient is a lightweight, framework-agnostic API clie... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-08T12:47 | 9 | 1707 | 6933 |
 | 2026-10-08T06:52 | 4 | 1711 | 6925 |
 | 2026-10-08T01:11 | 10 | 1708 | 6921 |
 | 2026-10-07T18:40 | 11 | 1709 | 6911 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-06T18:38 | 3 | 1729 | 6868 |
 | 2026-10-06T12:43 | 9 | 1723 | 6865 |
 | 2026-10-06T06:50 | 4 | 1728 | 6856 |
-| 2026-10-06T01:08 | 4 | 1729 | 6852 |
 
 ---
 

@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6933  
-**Last updated:** 2026-10-08T12:47:19.134Z
+**Total packages tracked:** 6960  
+**Last updated:** 2026-10-08T18:39:55.024Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [rishadblack/wire-modals](https://github.com/rishadblack/wire-modals) | 0 | On-demand Livewire components with Bootstrap 5 modals: mount a component when a ... |
-| [Timmsy1998/PiltoverClient](https://github.com/Timmsy1998/PiltoverClient) | 1 | PiltoverClient is a lightweight, framework-agnostic API client for the Riot Game... |
-| [dmitry-ivanov/laravel-helper-functions](https://github.com/dmitry-ivanov/laravel-helper-functions) | 107 | Laravel-specific and pure PHP Helper Functions. |
-| [dmitry-ivanov/laravel-testing-tools](https://github.com/dmitry-ivanov/laravel-testing-tools) | 54 | Laravel-specific Testing Helpers and Assertions. |
-| [IonBazan/laravel-container-debug](https://github.com/IonBazan/laravel-container-debug) | 6 | Lists available services in Laravel IoC Container. Works with Laravel 5.4-13.x |
-| [BetaNow/laravel-ai-seeder](https://github.com/BetaNow/laravel-ai-seeder) | 0 | Base Laravel AI seeder package |
-| [hwkdo/llama-parse-laravel](https://github.com/hwkdo/llama-parse-laravel) | 0 | a package for using llama parse api in laravel |
-| [codalaya/php-project-install-wizard](https://github.com/codalaya/php-project-install-wizard) | 0 | This package is designed to be installed along with laravel packages.  |
-| [tanthammar/laravel-extras](https://github.com/tanthammar/laravel-extras) | 3 | Laravel macros and helpers I use in my personal projects and packages |
-| [marcpope/cortendesk](https://github.com/marcpope/cortendesk) | 148 | A web based, open-source console for managing the RustDesk OSS Server and Client... |
-| [zero0cool0/laravel-healthcheck](https://github.com/zero0cool0/laravel-healthcheck) | 0 | A simple Laravel package that simplifies Docker health check. |
-| [jeffersongoncalves/laravel-whatsapp-widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget) | 9 | This Laravel package provides a simple yet customizable WhatsApp widget for your... |
-| [zeal-io/paymob](https://github.com/zeal-io/paymob) | 0 | Laravel package for integrating the Paymob payment gateway and processing paymen... |
-| [jeffersongoncalves/filament-open-hours](https://github.com/jeffersongoncalves/filament-open-hours) | 1 | Opening hours for Filament: manage the weekly schedule, holidays, special dates ... |
-| [filamentcraft/starter-livewire](https://github.com/filamentcraft/starter-livewire) | 0 | Laravel + Livewire + Flux starter kit with teams, where every team builds and pu... |
-| [zhoorta/ferrite](https://github.com/zhoorta/ferrite) | 0 | Ferrite by StackCare: a small self-hosted file server. Resumable uploads, share ... |
-| [rishadblack/wire-tomselect](https://github.com/rishadblack/wire-tomselect) | 4 | Searchable Livewire dropdowns backed by Tom Select: one component class per drop... |
-| [rishadblack/larahelpers](https://github.com/rishadblack/larahelpers) | 1 | Laravel helper functions for Bangladesh: number & currency formatting, lakh/cror... |
-| [jeffersongoncalves/filament-translation-manager](https://github.com/jeffersongoncalves/filament-translation-manager) | 1 | Translation manager for Filament: edit app, JSON and vendor package translations... |
-| [jobmetric/laravel-post](https://github.com/jobmetric/laravel-post) | 2 | This is a post and article management package in Laravel that you can use in you... |
+| [jeffersongoncalves/editorialthemev3](https://github.com/jeffersongoncalves/editorialthemev3) | 1 | EditorialTheme starter kit built on Laravel 13.x and Filament 3.x: multi-panel, ... |
+| [jeffersongoncalves/editorialthemev4](https://github.com/jeffersongoncalves/editorialthemev4) | 1 | EditorialTheme starter kit built on Laravel 13.x and Filament 4.x: multi-panel, ... |
+| [jeffersongoncalves/editorialthemev5](https://github.com/jeffersongoncalves/editorialthemev5) | 1 | EditorialTheme starter kit built on Laravel 13.x and Filament 5.x: multi-panel, ... |
+| [spasojewagner/mini-order-admin](https://github.com/spasojewagner/mini-order-admin) | 0 | Order and inventory management in Laravel 12, with a Filament admin panel, a Rea... |
+| [asignua/filament-vat-id](https://github.com/asignua/filament-vat-id) | 0 | Tax ID and VAT number validation for Filament 5: offline format and checksum rul... |
+| [asignua/filament-iban](https://github.com/asignua/filament-iban) | 0 | IBAN input, validation rule, infolist entry and table column for Filament 5: gro... |
+| [edmer664/fila-boost](https://github.com/edmer664/fila-boost) | 1 | Free, open-source alternative to Filament Blueprint. Supercharge AI coding agent... |
+| [Ruvelo/laravel-wiki](https://github.com/Ruvelo/laravel-wiki) | 0 | A drop-in wiki for Laravel: Markdown pages, [[wiki links]], backlinks, revision ... |
+| [dmitry-ivanov/laravel-db-profiler](https://github.com/dmitry-ivanov/laravel-db-profiler) | 169 | Database Profiler for Laravel Web and Console Applications. |
+| [dmitry-ivanov/laravel-console-mutex](https://github.com/dmitry-ivanov/laravel-console-mutex) | 147 | Mutex for Laravel Console Commands. |
+| [itxshakil/cpanel-whm](https://github.com/itxshakil/cpanel-whm) | 0 | Typed, token-only, fakeable cPanel WHM API 1 client for Laravel, with UAPI throu... |
+| [dmitry-ivanov/laravel-console-logger](https://github.com/dmitry-ivanov/laravel-console-logger) | 86 | Logging and Notifications for Laravel Console Commands. |
+| [jeremykenedy/laravel-uuid](https://github.com/jeremykenedy/laravel-uuid) | 23 | Laravel package to generate a UUID according to the RFC 4122 standard. UUID  Ver... |
+| [jeremykenedy/laravel-roles-example](https://github.com/jeremykenedy/laravel-roles-example) | 8 | An example of jeremykenedy/laravel-roles, a Laravel 5.4+ roles package. |
+| [jeremykenedy/laravel-dashboard](https://github.com/jeremykenedy/laravel-dashboard) | 22 | This is an example of Spatie Laravel Dashboard using Livewire and package compon... |
+| [anjan-talukdar/laravel-api-mail](https://github.com/anjan-talukdar/laravel-api-mail) | 0 | Multi-provider HTTP Email API driver and notification package for Laravel. Featu... |
+| [dhavalu903/laravel_package](https://github.com/dhavalu903/laravel_package) | 0 |  |
+| [ashanda/laravel-otp-package](https://github.com/ashanda/laravel-otp-package) | 0 |  |
+| [Nlincs/marketing-cloud-laravel](https://github.com/Nlincs/marketing-cloud-laravel) | 0 | A lightweight Laravel package for interacting with Salesforce Marketing Cloud. |
+| [xalaad/laravel_modules](https://github.com/xalaad/laravel_modules) | 0 | Laravel Modules Package, with more flexibility to manage structure and options (... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 443 | 2026-10-08 | A media picker plugin for Filament Panels. |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-08 | Plataforma de planeación y control de producción para manufa... |
 | [laranail/impersonator](https://github.com/laranail/impersonator) | 0 | 2026-10-08 | Laravel user impersonation with scoped modes, audit trails, ... |
-| [laranail/installer-web](https://github.com/laranail/installer-web) | 0 | 2026-10-08 | Tailwind + Blade + Livewire 4 install wizard for laranail/in... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-08 | Filament plugin that allows to add dynamic, user-defined for... |
-| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-10-08 | A framework-agnostic web UI for editing .env: JSON API and t... |
-| [codalaya/php-project-install-wizard](https://github.com/codalaya/php-project-install-wizard) | 0 | 2026-10-08 | This package is designed to be installed along with laravel ... |
-| [foxws/laravel-docs](https://github.com/foxws/laravel-docs) | 1 | 2026-10-08 | Pull a package's docs/*.md folder from GitHub into queryable... |
-| [albertoarena/codemetry](https://github.com/albertoarena/codemetry) | 0 | 2026-10-08 | Laravel-first Composer package that analyses a Git repositor... |
-| [craftzing/php-testbench](https://github.com/craftzing/php-testbench) | 0 | 2026-10-08 | Toolkit with testing utilities for php and Laravel |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 157 | 2026-10-08 | The Moox Project - Packages for Filament and Laravel |
-| [foxws/app](https://github.com/foxws/app) | 1 | 2026-10-08 | Source of foxws.nl, the documentation site for the Foxws Lar... |
-| [trianity/laravel-ip-analyzer](https://github.com/trianity/laravel-ip-analyzer) | 0 | 2026-10-08 | Local IP country and ASN analysis with extensible observatio... |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-08 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-10-08 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-10-08 | Detect language using Google Translation API |
-| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 278 | 2026-10-08 | Feature-rich Laravel package for detecting and blocking disp... |
-| [Pollora/framework](https://github.com/Pollora/framework) | 2 | 2026-10-08 | The Laravel framework for WordPress: Blade, Laravel routing ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [jobmetric/laravel-post](https://github.com/jobmetric/laravel-post) | 2 | 2026-10-08 | This is a post and article management package in Laravel tha... |
-| [Benefits-me/php-api-auth](https://github.com/Benefits-me/php-api-auth) | 0 | 2026-10-08 | Laravel package for checking the API token. |
-| [Timmsy1998/PiltoverClient](https://github.com/Timmsy1998/PiltoverClient) | 1 | 2026-10-08 | PiltoverClient is a lightweight, framework-agnostic API clie... |
+| [zeal-io/paymob](https://github.com/zeal-io/paymob) | 0 | 2026-10-08 | Laravel package for integrating the Paymob payment gateway a... |
+| [r2luna/brain](https://github.com/r2luna/brain) | 64 | 2026-10-08 | Brain is an elegant Laravel Package that helps you organize ... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-08 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [ArtisanPack-UI/ecommerce-storefront-livewire](https://github.com/ArtisanPack-UI/ecommerce-storefront-livewire) | 0 | 2026-10-08 | Livewire storefront for the ArtisanPack UI ecommerce engine ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [zhoorta/ferrite](https://github.com/zhoorta/ferrite) | 0 | 2026-10-08 | Ferrite by StackCare: a small self-hosted file server. Resum... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-10-08 | Package analytics laravel + livewire |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-08 | Magic Framework Laravel backend starter package. |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-10-08 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-10-08 | A lightweight, convention-driven modular architecture packag... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-10-08 | A Laravel package to handle AWS SNS notifications, providing... |
+| [Ruvelo/laravel-wiki](https://github.com/Ruvelo/laravel-wiki) | 0 | 2026-10-08 | A drop-in wiki for Laravel: Markdown pages, [[wiki links]], ... |
+| [jeremykenedy/laravel-uuid](https://github.com/jeremykenedy/laravel-uuid) | 23 | 2026-10-08 | Laravel package to generate a UUID according to the RFC 4122... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-08 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-10-08 | WireStack — a Livewire admin framework for Laravel: core, fo... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-08 | Activity feeds for Laravel, aligned with the W3C Activity St... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-08T18:39 | 27 | 1692 | 6960 |
 | 2026-10-08T12:47 | 9 | 1707 | 6933 |
 | 2026-10-08T06:52 | 4 | 1711 | 6925 |
 | 2026-10-08T01:11 | 10 | 1708 | 6921 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-07T01:11 | 8 | 1723 | 6876 |
 | 2026-10-06T18:38 | 3 | 1729 | 6868 |
 | 2026-10-06T12:43 | 9 | 1723 | 6865 |
-| 2026-10-06T06:50 | 4 | 1728 | 6856 |
 
 ---
 

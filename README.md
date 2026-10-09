@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 6997  
-**Last updated:** 2026-10-09T01:13:03.614Z
+**Total packages tracked:** 7003  
+**Last updated:** 2026-10-09T06:52:10.292Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-security-headers](https://github.com/jeffersongoncalves/filament-security-headers) | 0 | Filament settings page for laravel-security-headers: edit the Content Security P... |
+| [Digit7s/filament-audit-toolkit](https://github.com/Digit7s/filament-audit-toolkit) | 0 | Read-only Filament 5 explorer and record history UI for Digit7s Laravel audit ev... |
+| [Taldres/laravel-immutable-attributes](https://github.com/Taldres/laravel-immutable-attributes) | 0 | Guard Eloquent model attributes against changes once a row exists: declare them ... |
+| [Ruvelo/laravel-device](https://github.com/Ruvelo/laravel-device) | 0 | Detect devices, browsers, systems and bots (including AI crawlers) in Laravel. T... |
+| [Taldres/laravel-last-seen](https://github.com/Taldres/laravel-last-seen) | 1 | Track and display the last time a user was active in your Laravel application. |
+| [Taldres/laravel-waitlist](https://github.com/Taldres/laravel-waitlist) | 0 | Privacy-first, headless waitlist package for Laravel: subscription cycles with v... |
 | [heyitsmi/social-media-TALL-](https://github.com/heyitsmi/social-media-TALL-) | 1 | this repo just for learn to create social media using TALL (Tailwind, Alpine JS,... |
 | [teylabs/mod](https://github.com/teylabs/mod) | 0 | Lightweight toolkit for modular development in Laravel. Choose or extend common ... |
 | [Ruvelo/laravel-feedback](https://github.com/Ruvelo/laravel-feedback) | 0 | A feedback board, public roadmap and changelog for your Laravel app: users vote,... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Ruvelo/laravel-comments](https://github.com/Ruvelo/laravel-comments) | 0 | Free, polished comments for any Eloquent model: threads, reactions, Markdown, mo... |
 | [Ruvelo/laravel-inbox](https://github.com/Ruvelo/laravel-inbox) | 0 | The notification inbox Laravel never shipped: a bell, an inbox page and per-user... |
 | [djunehor/laravel-revert-model-event](https://github.com/djunehor/laravel-revert-model-event) | 8 | Laravel Model Event Logger and Revert logs every action on a model (create, dele... |
-| [djunehor/laravel-grammar](https://github.com/djunehor/laravel-grammar) | 4 | Get part of speech of word |
-| [joetjen/php-cooper-laravel](https://github.com/joetjen/php-cooper-laravel) | 0 | Laravel integration of Cooper: a CASC document fills the configuration repositor... |
-| [jeffersongoncalves/filament-page-cache](https://github.com/jeffersongoncalves/filament-page-cache) | 0 | Filament page to watch and control the laravel-page-cache full-page cache: hit r... |
-| [jeffersongoncalves/filament-tawk-to](https://github.com/jeffersongoncalves/filament-tawk-to) | 1 | Filament plugin for Tawk.to: renders the live chat widget in your panels and add... |
-| [jeffersongoncalves/filament-crisp](https://github.com/jeffersongoncalves/filament-crisp) | 1 | Filament plugin for Crisp: renders the live chat widget in your panels and adds ... |
-| [jeffersongoncalves/filament-goatcounter](https://github.com/jeffersongoncalves/filament-goatcounter) | 1 | Filament plugin for GoatCounter: injects the tracking script into your panels an... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-10-09 | Automated code analysis for Laravel applications with 73 ope... |
-| [gem-partij/gemboot-lara](https://github.com/gem-partij/gemboot-lara) | 1 | 2026-10-09 | Laravel package for API services behind a central auth servi... |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-09 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-09 | The flexible backbone for your next CMS. This powerful frame... |
-| [christianalban/laravel-collective-spatie-html-parser](https://github.com/christianalban/laravel-collective-spatie-html-parser) | 7 | 2026-10-09 | Adapter class that allows use spatie/laravel-html for old pr... |
-| [ArtisanPack-UI/ecommerce-storefront-livewire](https://github.com/ArtisanPack-UI/ecommerce-storefront-livewire) | 0 | 2026-10-09 | Livewire storefront for the ArtisanPack UI ecommerce engine ... |
-| [jeffersongoncalves/filament-plugin-cli](https://github.com/jeffersongoncalves/filament-plugin-cli) | 1 | 2026-10-09 | Scaffold new open-source Filament plugins with multi-branch ... |
-| [jeffersongoncalves/filament-page-cache](https://github.com/jeffersongoncalves/filament-page-cache) | 0 | 2026-10-09 | Filament page to watch and control the laravel-page-cache fu... |
-| [jeffersongoncalves/laravel-page-cache](https://github.com/jeffersongoncalves/laravel-page-cache) | 1 | 2026-10-08 | Full-page response cache for stateless public pages, keyed b... |
-| [arb-rajab/laravel-consent-guard](https://github.com/arb-rajab/laravel-consent-guard) | 0 | 2026-10-08 | Tamper-evident audit logging and consent-guard middleware fo... |
-| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-10-08 | Official Laravel package for seamless ProofAge API integrati... |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-10-08 | Laravel Dusk Testing Helper for Package Development |
-| [NBCS-IT/laravel-sso](https://github.com/NBCS-IT/laravel-sso) | 0 | 2026-10-08 | Integrated SAML2 package for Laravel |
-| [nanakwafo/package-laravel_contact](https://github.com/nanakwafo/package-laravel_contact) | 0 | 2026-10-08 | This will send email to admin and save contact query in data... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-08 | Lightweight toolkit for modular development in Laravel. Choo... |
-| [jeffersongoncalves/filament-tawk-to](https://github.com/jeffersongoncalves/filament-tawk-to) | 1 | 2026-10-08 | Filament plugin for Tawk.to: renders the live chat widget in... |
-| [jeffersongoncalves/filament-crisp](https://github.com/jeffersongoncalves/filament-crisp) | 1 | 2026-10-08 | Filament plugin for Crisp: renders the live chat widget in y... |
-| [jeffersongoncalves/filament-goatcounter](https://github.com/jeffersongoncalves/filament-goatcounter) | 1 | 2026-10-08 | Filament plugin for GoatCounter: injects the tracking script... |
-| [jeffersongoncalves/filament-pirsch](https://github.com/jeffersongoncalves/filament-pirsch) | 1 | 2026-10-08 | Filament plugin for Pirsch: injects the tracking script into... |
-| [jeffersongoncalves/filament-simple-analytics](https://github.com/jeffersongoncalves/filament-simple-analytics) | 1 | 2026-10-08 | Filament plugin for Simple Analytics: injects the tracking s... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-09 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [orptech-com/laravel-migration-partition](https://github.com/orptech-com/laravel-migration-partition) | 36 | 2026-10-09 | This package extends Illuminate to enable partitioned table ... |
+| [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | 2026-10-09 | Self-hosted, first-party analytics for Laravel: page views, ... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-09 | Lightweight toolkit for modular development in Laravel. Choo... |
+| [oi-lab/oi-laravel-ts](https://github.com/oi-lab/oi-laravel-ts) | 1 | 2026-10-09 | Generate TypeScript interfaces from Laravel Eloquent models |
+| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-09 | A job board where a company's silence shows. Laravel, Livewi... |
+| [Taldres/laravel-immutable-attributes](https://github.com/Taldres/laravel-immutable-attributes) | 0 | 2026-10-09 | Guard Eloquent model attributes against changes once a row e... |
+| [LastDragon-ru/lara-asp-spa](https://github.com/LastDragon-ru/lara-asp-spa) | 0 | 2026-10-09 |  |
+| [LastDragon-ru/lara-asp-documentator](https://github.com/LastDragon-ru/lara-asp-documentator) | 1 | 2026-10-09 | This package provides various utilities for documentation ge... |
+| [LastDragon-ru/lara-asp-graphql](https://github.com/LastDragon-ru/lara-asp-graphql) | 5 | 2026-10-09 | This package provides highly powerful `@searchBy` and `@sort... |
+| [LastDragon-ru/lara-asp-eloquent](https://github.com/LastDragon-ru/lara-asp-eloquent) | 1 | 2026-10-09 | Contains useful extensions and mixins for Eloquent. |
+| [LastDragon-ru/lara-asp-dev](https://github.com/LastDragon-ru/lara-asp-dev) | 0 | 2026-10-09 | Various tools and helpers to develop the package. |
+| [LastDragon-ru/lara-asp-testing](https://github.com/LastDragon-ru/lara-asp-testing) | 0 | 2026-10-09 | Provides various useful asserts for PHPUnit and better solut... |
+| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 14 | 2026-10-09 |  |
+| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-10-09 | WireStack — a Livewire admin framework for Laravel: core, fo... |
+| [cipi-sh/agent](https://github.com/cipi-sh/agent) | 6 | 2026-10-09 | Cipi Agent for Laravel applications |
+| [zielu92/filament-image-labeler](https://github.com/zielu92/filament-image-labeler) | 2 | 2026-10-09 | Filament v5 plugin for labeling images with rectangles and p... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-09 | Durable execution for PHP: workflows that survive deploys, r... |
+| [Gallyan/md2spip](https://github.com/Gallyan/md2spip) | 0 | 2026-10-09 | Convertisseur Markdown vers SPIP en temps réel. Laravel 13 +... |
+| [chuoke/laravel-blog](https://github.com/chuoke/laravel-blog) | 0 | 2026-10-09 | A standalone, themeable Laravel blog package with an Inertia... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-09T06:52 | 6 | 1714 | 7003 |
 | 2026-10-09T01:13 | 37 | 1681 | 6997 |
 | 2026-10-08T18:39 | 27 | 1692 | 6960 |
 | 2026-10-08T12:47 | 9 | 1707 | 6933 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-07T12:46 | 21 | 1700 | 6900 |
 | 2026-10-07T06:49 | 3 | 1730 | 6879 |
 | 2026-10-07T01:11 | 8 | 1723 | 6876 |
-| 2026-10-06T18:38 | 3 | 1729 | 6868 |
 
 ---
 

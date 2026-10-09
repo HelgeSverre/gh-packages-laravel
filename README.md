@@ -2,14 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7003  
-**Last updated:** 2026-10-09T06:52:10.292Z
+**Total packages tracked:** 7010  
+**Last updated:** 2026-10-09T12:44:11.762Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [jeffersongoncalves/filament-security-headers](https://github.com/jeffersongoncalves/filament-security-headers) | 0 | Filament settings page for laravel-security-headers: edit the Content Security P... |
+| [aantanaskovic/booking-platform](https://github.com/aantanaskovic/booking-platform) | 0 | A modern appointment booking platform built with Laravel and Livewire. Manage bo... |
+| [strontiumcorp/laravel-mfa](https://github.com/strontiumcorp/laravel-mfa) | 0 | Drop-in multi-factor authentication for Laravel 11–13: authenticator apps (TOTP)... |
+| [fatihkartal35/package-builder-assignment](https://github.com/fatihkartal35/package-builder-assignment) | 0 | Travel package builder with a four-step wizard. Laravel | React | SQLite |
+| [labboisah/laravel-licensing-package](https://github.com/labboisah/laravel-licensing-package) | 1 | company for software licensing, activation, and  sales |
+| [jeremykenedy/laravel-users](https://github.com/jeremykenedy/laravel-users) | 455 | Laravel user management with Bootstrap 4 and 5, roles and permissions, account s... |
+| [Spits-online/laravel-openprovider](https://github.com/Spits-online/laravel-openprovider) | 0 | Use this package to set up a connection with the Openprovider API |
+| [technohub92/laravel-fbr-di](https://github.com/technohub92/laravel-fbr-di) | 0 | Official Laravel SDK and fluent integration package for FBR PRAL Digital Invoici... |
+| [jeffersongoncalves/filament-security-headers](https://github.com/jeffersongoncalves/filament-security-headers) | 1 | Filament settings page for laravel-security-headers: edit the Content Security P... |
 | [Digit7s/filament-audit-toolkit](https://github.com/Digit7s/filament-audit-toolkit) | 0 | Read-only Filament 5 explorer and record history UI for Digit7s Laravel audit ev... |
 | [Taldres/laravel-immutable-attributes](https://github.com/Taldres/laravel-immutable-attributes) | 0 | Guard Eloquent model attributes against changes once a row exists: declare them ... |
 | [Ruvelo/laravel-device](https://github.com/Ruvelo/laravel-device) | 0 | Detect devices, browsers, systems and bots (including AI crawlers) in Laravel. T... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/laravel-crisp](https://github.com/jeffersongoncalves/laravel-crisp) | 1 | Crisp for Laravel: render the live chat widget in your Blade layouts, with the s... |
 | [jeffersongoncalves/laravel-goatcounter](https://github.com/jeffersongoncalves/laravel-goatcounter) | 1 | GoatCounter for Laravel: inject the tracking script in your Blade layouts, with ... |
 | [jeffersongoncalves/laravel-pirsch](https://github.com/jeffersongoncalves/laravel-pirsch) | 1 | Pirsch for Laravel: inject the tracking script in your Blade layouts, with the s... |
-| [jeffersongoncalves/laravel-simple-analytics](https://github.com/jeffersongoncalves/laravel-simple-analytics) | 1 | Simple Analytics for Laravel: inject the tracking script in your Blade layouts, ... |
-| [jeffersongoncalves/laravel-cloudflare-web-analytics](https://github.com/jeffersongoncalves/laravel-cloudflare-web-analytics) | 1 | Cloudflare Web Analytics for Laravel: inject the tracking script in your Blade l... |
-| [Ruvelo/laravel-translations](https://github.com/Ruvelo/laravel-translations) | 0 | Manage your Laravel app's translations in the browser: find missing keys, catch ... |
-| [Ruvelo/laravel-help-center](https://github.com/Ruvelo/laravel-help-center) | 0 | A public help centre for your Laravel app: searchable articles, categories, 'was... |
-| [Ruvelo/laravel-comments](https://github.com/Ruvelo/laravel-comments) | 0 | Free, polished comments for any Eloquent model: threads, reactions, Markdown, mo... |
-| [Ruvelo/laravel-inbox](https://github.com/Ruvelo/laravel-inbox) | 0 | The notification inbox Laravel never shipped: a bell, an inbox page and per-user... |
-| [djunehor/laravel-revert-model-event](https://github.com/djunehor/laravel-revert-model-event) | 8 | Laravel Model Event Logger and Revert logs every action on a model (create, dele... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -46,6 +46,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 464 | A simple package to help integrate Cloudflare Turnstile. |
+| [jeremykenedy/laravel-users](https://github.com/jeremykenedy/laravel-users) | 455 | Laravel user management with Bootstrap 4 and 5, roles and permissions, account s... |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 448 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -53,32 +54,31 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 440 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
-| [msurguy/Honeypot](https://github.com/msurguy/Honeypot) | 437 | Simple spam prevention package for Laravel applications |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-09 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [orptech-com/laravel-migration-partition](https://github.com/orptech-com/laravel-migration-partition) | 36 | 2026-10-09 | This package extends Illuminate to enable partitioned table ... |
-| [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | 2026-10-09 | Self-hosted, first-party analytics for Laravel: page views, ... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 5 | 2026-10-09 | Durable execution for PHP: workflows that survive deploys, r... |
 | [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-09 | Lightweight toolkit for modular development in Laravel. Choo... |
-| [oi-lab/oi-laravel-ts](https://github.com/oi-lab/oi-laravel-ts) | 1 | 2026-10-09 | Generate TypeScript interfaces from Laravel Eloquent models |
-| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-09 | A job board where a company's silence shows. Laravel, Livewi... |
-| [Taldres/laravel-immutable-attributes](https://github.com/Taldres/laravel-immutable-attributes) | 0 | 2026-10-09 | Guard Eloquent model attributes against changes once a row e... |
-| [LastDragon-ru/lara-asp-spa](https://github.com/LastDragon-ru/lara-asp-spa) | 0 | 2026-10-09 |  |
-| [LastDragon-ru/lara-asp-documentator](https://github.com/LastDragon-ru/lara-asp-documentator) | 1 | 2026-10-09 | This package provides various utilities for documentation ge... |
-| [LastDragon-ru/lara-asp-graphql](https://github.com/LastDragon-ru/lara-asp-graphql) | 5 | 2026-10-09 | This package provides highly powerful `@searchBy` and `@sort... |
-| [LastDragon-ru/lara-asp-eloquent](https://github.com/LastDragon-ru/lara-asp-eloquent) | 1 | 2026-10-09 | Contains useful extensions and mixins for Eloquent. |
-| [LastDragon-ru/lara-asp-dev](https://github.com/LastDragon-ru/lara-asp-dev) | 0 | 2026-10-09 | Various tools and helpers to develop the package. |
-| [LastDragon-ru/lara-asp-testing](https://github.com/LastDragon-ru/lara-asp-testing) | 0 | 2026-10-09 | Provides various useful asserts for PHPUnit and better solut... |
-| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 14 | 2026-10-09 |  |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-10-09 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [cipi-sh/agent](https://github.com/cipi-sh/agent) | 6 | 2026-10-09 | Cipi Agent for Laravel applications |
-| [zielu92/filament-image-labeler](https://github.com/zielu92/filament-image-labeler) | 2 | 2026-10-09 | Filament v5 plugin for labeling images with rectangles and p... |
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 4 | 2026-10-09 | Durable execution for PHP: workflows that survive deploys, r... |
-| [Gallyan/md2spip](https://github.com/Gallyan/md2spip) | 0 | 2026-10-09 | Convertisseur Markdown vers SPIP en temps réel. Laravel 13 +... |
-| [chuoke/laravel-blog](https://github.com/chuoke/laravel-blog) | 0 | 2026-10-09 | A standalone, themeable Laravel blog package with an Inertia... |
+| [Stanislas-Poisson/French-Postal-Code-Package](https://github.com/Stanislas-Poisson/French-Postal-Code-Package) | 0 | 2026-10-09 | The regions, departments, communes and postal codes of Franc... |
+| [SynergiTech/laravel-typesense-tools](https://github.com/SynergiTech/laravel-typesense-tools) | 0 | 2026-10-09 | This package adds Artisan commands that help manage Typesens... |
+| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-10-09 | Official Laravel package for seamless ProofAge API integrati... |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-10-09 | MobileKit starter kit built on Laravel 13.x, Filament 3.x an... |
+| [ovidiurosu90/laravel-package-myfinance2](https://github.com/ovidiurosu90/laravel-package-myfinance2) | 0 | 2026-10-09 | Laravel package for managing my finances |
+| [strontiumcorp/laravel-mfa](https://github.com/strontiumcorp/laravel-mfa) | 0 | 2026-10-09 | Drop-in multi-factor authentication for Laravel 11–13: authe... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 2 | 2026-10-09 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-09 | Filament plugin that allows to add dynamic, user-defined for... |
+| [arb-rajab/laravel-consent-guard](https://github.com/arb-rajab/laravel-consent-guard) | 0 | 2026-10-09 | Tamper-evident audit logging and consent-guard middleware fo... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-10-09 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [Digit7s/filament-audit-toolkit](https://github.com/Digit7s/filament-audit-toolkit) | 0 | 2026-10-09 | Read-only Filament 5 explorer and record history UI for Digi... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-09 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-09 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [leonardo-max/new-here](https://github.com/leonardo-max/new-here) | 0 | 2026-10-09 | Show each Filament user what's new right where it lives: pul... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-09 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [jeffersongoncalves/laravel-gtag](https://github.com/jeffersongoncalves/laravel-gtag) | 2 | 2026-10-09 | Laravel package for Google Analytics (Gtag) with database-ba... |
+| [jeffersongoncalves/laravel-gtm](https://github.com/jeffersongoncalves/laravel-gtm) | 4 | 2026-10-09 | Laravel package for Google Tag Manager (GTM) integration wit... |
+| [jeffersongoncalves/laravel-page-cache](https://github.com/jeffersongoncalves/laravel-page-cache) | 1 | 2026-10-09 | Full-page response cache for stateless public pages, keyed b... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-09T12:44 | 7 | 1711 | 7010 |
 | 2026-10-09T06:52 | 6 | 1714 | 7003 |
 | 2026-10-09T01:13 | 37 | 1681 | 6997 |
 | 2026-10-08T18:39 | 27 | 1692 | 6960 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-07T18:40 | 11 | 1709 | 6911 |
 | 2026-10-07T12:46 | 21 | 1700 | 6900 |
 | 2026-10-07T06:49 | 3 | 1730 | 6879 |
-| 2026-10-07T01:11 | 8 | 1723 | 6876 |
 
 ---
 

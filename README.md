@@ -2,19 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7020  
-**Last updated:** 2026-10-09T18:38:19.507Z
+**Total packages tracked:** 7023  
+**Last updated:** 2026-10-10T01:10:53.752Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [nowshad7/laravel-ai-meter](https://github.com/nowshad7/laravel-ai-meter) | 0 | Self-hosted metering & budget enforcement for AI/LLM & agent calls in Laravel — ... |
+| [jeffersongoncalves/filament-barcode-field](https://github.com/jeffersongoncalves/filament-barcode-field) | 4 | A Laravel Filament package that provides Barcode field functionality for your we... |
+| [AbanGateway/abangateway-php-package](https://github.com/AbanGateway/abangateway-php-package) | 0 | AbanGateway for PHP and Laravel |
 | [granitehldg/filament-iban-input](https://github.com/granitehldg/filament-iban-input) | 0 | A Filament form field for IBAN (International Bank Account Number) input with re... |
 | [semitexa/laravel-ai-verify](https://github.com/semitexa/laravel-ai-verify) | 1 | Stop Claude Code, Cursor & Codex from faking "done" in Laravel. ai:verify runs o... |
 | [ErfanVahabpour/laravel-jalali-schedule](https://github.com/ErfanVahabpour/laravel-jalali-schedule) | 1 | Seamless Jalali (Solar Hijri) scheduling macros for Laravel tasks | ماکروهای زما... |
 | [zain-ul-abdain/laravel-route-permissions](https://github.com/zain-ul-abdain/laravel-route-permissions) | 0 | Scaffold Laravel permissions from your named routes, then enforce them. Roles, c... |
 | [zain-ul-abdain/laravel-webhook-ledger](https://github.com/zain-ul-abdain/laravel-webhook-ledger) | 0 | Exactly-once webhook processing for Laravel — signature verification, atomic ded... |
-| [marcreichel/igdb-laravel](https://github.com/marcreichel/igdb-laravel) | 114 | Simplify the integration of the IGDB API into your Laravel app. Including IGDB w... |
+| [marcreichel/igdb-laravel](https://github.com/marcreichel/igdb-laravel) | 114 | Eloquent-style models and query builder for the IGDB API in Laravel, with Twitch... |
 | [isap-ou/laravel-cart](https://github.com/isap-ou/laravel-cart) | 0 | Laravel Cart is a highly customizable package that enables you to easily add sho... |
 | [Spits-online/laravel-wefact](https://github.com/Spits-online/laravel-wefact) | 0 | Use this package to set up communication with the WeFact API |
 | [bolivir/laravel-doctrine-sanctum](https://github.com/bolivir/laravel-doctrine-sanctum) | 3 | Laravel doctrine integration for the official laravel-sanctum package |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeremykenedy/laravel-users](https://github.com/jeremykenedy/laravel-users) | 455 | Laravel user management with Bootstrap 4 and 5, roles and permissions, account s... |
 | [Spits-online/laravel-openprovider](https://github.com/Spits-online/laravel-openprovider) | 0 | Use this package to set up a connection with the Openprovider API |
 | [technohub92/laravel-fbr-di](https://github.com/technohub92/laravel-fbr-di) | 0 | Official Laravel SDK and fluent integration package for FBR PRAL Digital Invoici... |
-| [jeffersongoncalves/filament-security-headers](https://github.com/jeffersongoncalves/filament-security-headers) | 1 | Filament settings page for laravel-security-headers: edit the Content Security P... |
-| [Digit7s/filament-audit-toolkit](https://github.com/Digit7s/filament-audit-toolkit) | 1 | Read-only Filament 5 explorer and record history UI for Digit7s Laravel audit ev... |
-| [Taldres/laravel-immutable-attributes](https://github.com/Taldres/laravel-immutable-attributes) | 0 | Guard Eloquent model attributes against changes once a row exists: declare them ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-10-09 |  |
-| [marcreichel/igdb-laravel](https://github.com/marcreichel/igdb-laravel) | 114 | 2026-10-09 | Simplify the integration of the IGDB API into your Laravel a... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-09 | A multi-purpose content and application platform for Laravel... |
-| [strontiumcorp/laravel-mfa](https://github.com/strontiumcorp/laravel-mfa) | 0 | 2026-10-09 | Drop-in multi-factor authentication for Laravel 11–13: authe... |
-| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 5 | 2026-10-09 | A Laravel package for creating and redirecting short URLs, w... |
+| [jeffersongoncalves/filament-barcode-field](https://github.com/jeffersongoncalves/filament-barcode-field) | 4 | 2026-10-10 | A Laravel Filament package that provides Barcode field funct... |
+| [jeffersongoncalves/filament-keyable](https://github.com/jeffersongoncalves/filament-keyable) | 5 | 2026-10-10 | This is a Laravel Filament package that provides API Key man... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-10 | Lightweight toolkit for modular development in Laravel. Choo... |
+| [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-10-10 | Prevent risky Laravel database migrations with static analys... |
+| [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-10-10 | Manage and track inventory with a PHP package that integrate... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-10 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-10-10 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
+| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 11 | 2026-10-10 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
+| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-10-10 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-10 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [petar-spasic/laravel-house](https://github.com/petar-spasic/laravel-house) | 1 | 2026-10-10 | House rules for Laravel projects: project setup, Docker depl... |
+| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-10-10 | 🛡️ Enhance your Filament applications with Filament-shield,... |
+| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-10-10 | ✨ Build robust Laravel applications with the Filament Starte... |
+| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-10-10 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [tzsk/payu](https://github.com/tzsk/payu) | 46 | 2026-10-10 | Payu Laravel Payment Gateway with Payment Verification Packa... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-10 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [jeffersongoncalves/mobilekitv4](https://github.com/jeffersongoncalves/mobilekitv4) | 14 | 2026-10-09 | MobileKit starter kit built on Laravel 13.x, Filament 4.x an... |
 | [arb-rajab/laravel-consent-guard](https://github.com/arb-rajab/laravel-consent-guard) | 0 | 2026-10-09 | Tamper-evident audit logging and consent-guard middleware fo... |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 204 | 2026-10-09 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 5 | 2026-10-09 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-09 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [Stanislas-Poisson/French-Postal-Code-Package](https://github.com/Stanislas-Poisson/French-Postal-Code-Package) | 0 | 2026-10-09 | The regions, departments, communes and postal codes of Franc... |
-| [overtrue/laravel-package](https://github.com/overtrue/laravel-package) | 35 | 2026-10-09 | Laravel package template |
-| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-10-09 | Gremio Linhir |
-| [ovidiurosu90/laravel-package-myfinance2](https://github.com/ovidiurosu90/laravel-package-myfinance2) | 0 | 2026-10-09 | Laravel package for managing my finances |
-| [zhoorta/ferrite](https://github.com/zhoorta/ferrite) | 0 | 2026-10-09 | Ferrite by StackCare: a small self-hosted file server. Resum... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-09 | Lightweight toolkit for modular development in Laravel. Choo... |
-| [happenv-com/filament-translatable](https://github.com/happenv-com/filament-translatable) | 10 | 2026-10-09 | ilament Translatable is a flexible package that provides a c... |
-| [jeremykenedy/laravel-users](https://github.com/jeremykenedy/laravel-users) | 455 | 2026-10-09 | Laravel user management with Bootstrap 4 and 5, roles and pe... |
-| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 161 | 2026-10-09 | HTTP Idempotency Middleware for Laravel applications |
-| [hyn/state-machine](https://github.com/hyn/state-machine) | 16 | 2026-10-09 | The hyn state machine package is a flexible library that hel... |
-| [arthur-bpv/ERD-laravel-package](https://github.com/arthur-bpv/ERD-laravel-package) | 0 | 2026-10-09 |  |
+| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 1 | 2026-10-09 | The shared base of a Laravel admin app as one updatable pack... |
+| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-10-09 | 🔒 The missing package for Laravel Nova that lets you know w... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-10T01:10 | 3 | 1717 | 7023 |
 | 2026-10-09T18:38 | 10 | 1711 | 7020 |
 | 2026-10-09T12:44 | 7 | 1711 | 7010 |
 | 2026-10-09T06:52 | 6 | 1714 | 7003 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-08T06:52 | 4 | 1711 | 6925 |
 | 2026-10-08T01:11 | 10 | 1708 | 6921 |
 | 2026-10-07T18:40 | 11 | 1709 | 6911 |
-| 2026-10-07T12:46 | 21 | 1700 | 6900 |
 
 ---
 

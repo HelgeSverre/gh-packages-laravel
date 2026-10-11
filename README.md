@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7078  
-**Last updated:** 2026-10-11T12:43:07.334Z
+**Total packages tracked:** 7089  
+**Last updated:** 2026-10-11T18:37:39.568Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [zcwilt/forumkit-forums](https://github.com/zcwilt/forumkit-forums) | 0 | ForumKit forums: forum groups, forums, threads and posts, visibility and posting... |
+| [zcwilt/forumkit-entitlements](https://github.com/zcwilt/forumkit-entitlements) | 0 | ForumKit entitlements: definitions, grants, requests, a cached resolver and the ... |
+| [HoceineEl/filament-sidebar-editor](https://github.com/HoceineEl/filament-sidebar-editor) | 1 | Sidebar editor for Filament: hide, show and reorder navigation groups and pages ... |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 0 | Modulare Web-App für Freiwillige Feuerwehren: Fahrzeugbuchung, Einsatzbericht, K... |
+| [lauroguedes/laravel-astro-landing](https://github.com/lauroguedes/laravel-astro-landing) | 0 | Keep an Astro landing page in your Laravel repository: scaffold it from a templa... |
+| [erlanggabyu/khaybar-tour](https://github.com/erlanggabyu/khaybar-tour) | 0 | Umrah registration system built with Laravel 13 & MySQL — package booking, pilgr... |
+| [zcwilt/forumkit-package-skeleton](https://github.com/zcwilt/forumkit-package-skeleton) | 0 | Template for ForumKit packages: a Laravel 13 and Filament 5 plugin with Pest, La... |
+| [zcwilt/forumkit-core](https://github.com/zcwilt/forumkit-core) | 0 | ForumKit core: module registry, settings and shared support for the ForumKit Fil... |
+| [jeffersongoncalves/pest-plugin-database-migrations](https://github.com/jeffersongoncalves/pest-plugin-database-migrations) | 1 | Load a package's migrations in tests in the exact order declared by its spatie/l... |
+| [zcwilt/forumkit-demo](https://github.com/zcwilt/forumkit-demo) | 0 | A Laravel 13 and Filament 5 app that installs the ForumKit packages: development... |
+| [aungkhantzaw777/http-security-headers](https://github.com/aungkhantzaw777/http-security-headers) | 0 | A PHP enum package for HTTP security headers, providing a consistent, typo-free ... |
 | [noneym/loggerxo](https://github.com/noneym/loggerxo) | 0 | Open source error tracking, log search and performance monitoring for Laravel an... |
 | [frizennwave/siakad-manm](https://github.com/frizennwave/siakad-manm) | 0 | Integrated Academic Information System with Laravel, MySQL, REST API, and QR Cod... |
 | [romanzipp/Laravel-Env-Normalizer](https://github.com/romanzipp/Laravel-Env-Normalizer) | 1 | Format .env files according to your .env.example structure to keep track of used... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [baidou5/laravel-device-tracking](https://github.com/baidou5/laravel-device-tracking) | 0 | Vivala maintained Laravel device tracking package source |
 | [baidou5/laravel-dompdf](https://github.com/baidou5/laravel-dompdf) | 0 | Vivala maintained Laravel DomPDF package source |
 | [romanzipp/Laravel-Turnstile](https://github.com/romanzipp/Laravel-Turnstile) | 32 | 🔥 Cloudflare Turnstile CAPTCHA package for Laravel |
-| [romanzipp/Laravel-SEO](https://github.com/romanzipp/Laravel-SEO) | 349 | SEO package made for maximum customization and flexibility |
-| [romanzipp/Laravel-Make-File-Permissions](https://github.com/romanzipp/Laravel-Make-File-Permissions) | 3 | This package automatically applies unix file permissions after the 'artisan make... |
-| [idpuniv/laravel-artisan-commands](https://github.com/idpuniv/laravel-artisan-commands) | 0 | this is a laravel artisan commands package |
-| [mazdel/dayravel](https://github.com/mazdel/dayravel) | 0 | A Laravel package for scaffolding modules and automatically loading their web an... |
-| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | A standard suite of essentials for every Laravel app you build. |
-| [lepresk/laravel-onesignal](https://github.com/lepresk/laravel-onesignal) | 2 | OneSignal push notification channel for Laravel. Send mobile and web push notifi... |
-| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL backend, Filament admi... |
-| [mk-josias/laravel-microservices-core](https://github.com/mk-josias/laravel-microservices-core) | 0 | Read-only split of packages/core from mk-josias/laravel-microservices |
-| [mk-josias/laravel-microservices-redis-stream](https://github.com/mk-josias/laravel-microservices-redis-stream) | 0 | Read-only split of packages/redis-event-stream from mk-josias/laravel-microservi... |
-| [mk-josias/laravel-microservices-queue-stream](https://github.com/mk-josias/laravel-microservices-queue-stream) | 0 | Read-only split of packages/queue-event-stream from mk-josias/laravel-microservi... |
-| [mk-josias/laravel-microservices-http-rpc](https://github.com/mk-josias/laravel-microservices-http-rpc) | 0 | Read-only split of packages/http-rpc from mk-josias/laravel-microservices |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -44,8 +44,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 469 | Open Source Laravel CRM Package |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
+| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 465 | A simple package to help integrate Cloudflare Turnstile. |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
-| [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 464 | A simple package to help integrate Cloudflare Turnstile. |
 | [jeremykenedy/laravel-users](https://github.com/jeremykenedy/laravel-users) | 455 | Laravel user management with Bootstrap 4 and 5, roles and permissions, account s... |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 448 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Taldres/laravel-waitlist](https://github.com/Taldres/laravel-waitlist) | 0 | 2026-10-11 | Privacy-first, headless waitlist package for Laravel: subscr... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-11 | Magic Framework Laravel backend starter package. |
-| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-11 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
-| [robyajo/pasak](https://github.com/robyajo/pasak) | 0 | 2026-10-11 | Package monitoring dan audit keamanan otomatis untuk aplikas... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-10-11 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [jeffersongoncalves/filament-qrcode-field](https://github.com/jeffersongoncalves/filament-qrcode-field) | 20 | 2026-10-11 | A Laravel Filament package that provides QR Code field funct... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-11 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-11 | Filament plugin that allows to add dynamic, user-defined for... |
-| [ahmed-nour-dev/circuit-breaker](https://github.com/ahmed-nour-dev/circuit-breaker) | 0 | 2026-10-11 | Distributed circuit breaker for Laravel: Redis-backed shared... |
-| [maxi032/LaravelAdminPackage](https://github.com/maxi032/LaravelAdminPackage) | 0 | 2026-10-11 | Laravel admin package |
-| [lianmaymesi/laravel-multidomain-starter](https://github.com/lianmaymesi/laravel-multidomain-starter) | 0 | 2026-10-11 | Laravel starter kit for multi-subdomain apps: dedicated auth... |
 | [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-10-11 |  |
+| [Zairakai/PHP-Package_laravel_auth](https://github.com/Zairakai/PHP-Package_laravel_auth) | 0 | 2026-10-11 |  |
 | [Zairakai/PHP-Package_laravel_essentials](https://github.com/Zairakai/PHP-Package_laravel_essentials) | 0 | 2026-10-11 |  |
-| [Zairakai/PHP-Package_laravel_eloquent](https://github.com/Zairakai/PHP-Package_laravel_eloquent) | 0 | 2026-10-11 |  |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-10-11 | Manage, process, and serve files in Laravel with scalable up... |
-| [Zairakai/PHP-Package_laravel_blade_components](https://github.com/Zairakai/PHP-Package_laravel_blade_components) | 0 | 2026-10-11 |  |
-| [roundly-consulting/testing-for-laravel](https://github.com/roundly-consulting/testing-for-laravel) | 0 | 2026-10-11 | Dev-only test machinery for Laravel packages and apps: base ... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 8 | 2026-10-11 | An event sourcing laravel package, complete with all the ess... |
-| [zfhassaan/payfast](https://github.com/zfhassaan/payfast) | 10 | 2026-10-11 | Integrate Payfast payments into your Laravel 9 to 13  app wi... |
+| [Larasell-dev/cushion](https://github.com/Larasell-dev/cushion) | 0 | 2026-10-11 | Temporarily store form data to prevent accidental loss |
+| [tanthammar/laravel-extras](https://github.com/tanthammar/laravel-extras) | 3 | 2026-10-11 | Laravel macros and helpers I use in my personal projects and... |
+| [ublabs/blade-simple-icons](https://github.com/ublabs/blade-simple-icons) | 19 | 2026-10-11 | A package to easily make use of Simple Icons in your Laravel... |
+| [Zairakai/PHP-Package_laravel_dev_tools](https://github.com/Zairakai/PHP-Package_laravel_dev_tools) | 0 | 2026-10-11 |  |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-11 | Lightweight toolkit for modular development in Laravel, for ... |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-11 | Magic Framework Laravel backend starter package. |
 | [Zairakai/PHP-Package_laravel_activity](https://github.com/Zairakai/PHP-Package_laravel_activity) | 0 | 2026-10-11 |  |
+| [Zairakai/PHP-Package_laravel_blade_components](https://github.com/Zairakai/PHP-Package_laravel_blade_components) | 0 | 2026-10-11 |  |
+| [Zairakai/PHP-Package_laravel_eloquent](https://github.com/Zairakai/PHP-Package_laravel_eloquent) | 0 | 2026-10-11 |  |
+| [ali-hassan-dev/time-tracker](https://github.com/ali-hassan-dev/time-tracker) | 0 | 2026-10-11 | Laravel 11 + Livewire employee time tracker built for an Upw... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-11 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-10-11 | Manage, process, and serve files in Laravel with scalable up... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-10-11 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-10-11 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-11 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-10-11 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
+| [lauroguedes/laravel-astro-landing](https://github.com/lauroguedes/laravel-astro-landing) | 0 | 2026-10-11 | Keep an Astro landing page in your Laravel repository: scaff... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-11T18:37 | 11 | 1703 | 7089 |
 | 2026-10-11T12:43 | 13 | 1702 | 7078 |
 | 2026-10-11T06:48 | 7 | 1705 | 7065 |
 | 2026-10-11T01:16 | 20 | 1691 | 7058 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-10T01:10 | 3 | 1717 | 7023 |
 | 2026-10-09T18:38 | 10 | 1711 | 7020 |
 | 2026-10-09T12:44 | 7 | 1711 | 7010 |
-| 2026-10-09T06:52 | 6 | 1714 | 7003 |
 
 ---
 

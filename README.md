@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7038  
-**Last updated:** 2026-10-10T18:36:51.361Z
+**Total packages tracked:** 7058  
+**Last updated:** 2026-10-11T01:16:15.471Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [STAFE-GROUP-AB/laravel-executive-ai](https://github.com/STAFE-GROUP-AB/laravel-executive-ai) | 0 | Laravel Executive AI — open source, self-hosted, macOS-native AI executive assis... |
-| [yousef-aman/laravel-feedback-board](https://github.com/yousef-aman/laravel-feedback-board) | 0 | Self-hosted in-app feedback board for Laravel — clients report, developers resol... |
-| [amarenkov/laravel-mutable-content-tasks](https://github.com/amarenkov/laravel-mutable-content-tasks) | 0 | Task domain for laravel-mutable-content: tasks, participants and time tracking w... |
-| [arb-rajab/laravel-package-template](https://github.com/arb-rajab/laravel-package-template) | 0 | Laravel package starter: Testbench, Pest, Larastan, PHP x Laravel CI matrix |
-| [alizeinodin/SMSApi](https://github.com/alizeinodin/SMSApi) | 21 | پکیج ایرانی لاراول جهت ارتباط با ارائه‌دهندگان ایرانی خدمات پیامکی مثل sms.ir, ق... |
-| [joseignaciosegovia/sports-court-booking](https://github.com/joseignaciosegovia/sports-court-booking) | 0 | Reserva de pistas deportivas con pagos Stripe, roles de usuario y 367 tests auto... |
-| [amarenkov/laravel-mutable-content-daisyui](https://github.com/amarenkov/laravel-mutable-content-daisyui) | 0 | Server-rendered Blade, Livewire and daisyUI screens for laravel-mutable-content:... |
-| [amarenkov/laravel-mutable-content-filament](https://github.com/amarenkov/laravel-mutable-content-filament) | 0 | Filament 5 admin panel for laravel-mutable-content: forms and tables built from ... |
-| [itxshakil/laravel-aadhaar-offline](https://github.com/itxshakil/laravel-aadhaar-offline) | 0 | Read and verify Aadhaar Offline e-KYC (share-code ZIP / signed XML) and Secure Q... |
-| [kwasii1/laravel-sql-parser](https://github.com/kwasii1/laravel-sql-parser) | 0 | A fast SQL parser and transpiler for Laravel, written in pure PHP. Parse SQL int... |
-| [metalinked/laravel-defender](https://github.com/metalinked/laravel-defender) | 5 | Security middleware for Laravel in one line: blocks attack probes, scanners and ... |
-| [amarenkov/laravel-mutable-content-scramble](https://github.com/amarenkov/laravel-mutable-content-scramble) | 0 | Scramble OpenAPI extension for laravel-mutable-content: field labels in request ... |
-| [amarenkov/laravel-mutable-content](https://github.com/amarenkov/laravel-mutable-content) | 0 | Laravel models with user-defined fields: typed JSON fields added without migrati... |
-| [natnaeln4d/laravel-mail-customizer](https://github.com/natnaeln4d/laravel-mail-customizer) | 2 | A powerful Laravel package for creating and customizing email templates with a u... |
-| [jeffersongoncalves/filament-qrcode-field](https://github.com/jeffersongoncalves/filament-qrcode-field) | 20 | A Laravel Filament package that provides QR Code field functionality for your we... |
-| [nowshad7/laravel-ai-meter](https://github.com/nowshad7/laravel-ai-meter) | 0 | Self-hosted metering & budget enforcement for AI/LLM & agent calls in Laravel — ... |
-| [jeffersongoncalves/filament-barcode-field](https://github.com/jeffersongoncalves/filament-barcode-field) | 4 | A Laravel Filament package that provides Barcode field functionality for your we... |
-| [AbanGateway/abangateway-php-package](https://github.com/AbanGateway/abangateway-php-package) | 0 | AbanGateway for PHP and Laravel |
-| [granitehldg/filament-iban-input](https://github.com/granitehldg/filament-iban-input) | 0 | A Filament form field for IBAN (International Bank Account Number) input with re... |
-| [semitexa/laravel-ai-verify](https://github.com/semitexa/laravel-ai-verify) | 1 | Stop Claude Code, Cursor & Codex from faking "done" in Laravel. ai:verify runs o... |
+| [ali-hassan-dev/time-tracker](https://github.com/ali-hassan-dev/time-tracker) | 0 | Laravel 11 + Livewire employee time tracker built for an Upwork client (five-sta... |
+| [capell-app/widget-showcase](https://github.com/capell-app/widget-showcase) | 0 | Dependency bundle that installs all ten Capell Foundation widget extensions. |
+| [capell-app/widget-youtube](https://github.com/capell-app/widget-youtube) | 0 | Privacy-gated YouTube embeds with local posters for Capell. |
+| [capell-app/widget-slideshow](https://github.com/capell-app/widget-slideshow) | 0 | Accessible, theme-neutral slideshow widget for Capell. |
+| [capell-app/widget-location-map](https://github.com/capell-app/widget-location-map) | 0 | Privacy-gated OpenStreetMap location widget for Capell. |
+| [capell-app/widget-live-poll](https://github.com/capell-app/widget-live-poll) | 0 | Transactional privacy-conscious live poll widget for Capell. |
+| [capell-app/widget-hotspots](https://github.com/capell-app/widget-hotspots) | 0 | Accessible image hotspots with ordered placement and secure lazy targets for Cap... |
+| [capell-app/widget-data-chart](https://github.com/capell-app/widget-data-chart) | 0 | Accessible server-rendered data chart widget for Capell. |
+| [capell-app/widget-countdown](https://github.com/capell-app/widget-countdown) | 0 | Timezone-aware countdown widget with UTC targets and accessible announcements fo... |
+| [capell-app/widget-content-reveal](https://github.com/capell-app/widget-content-reveal) | 0 | Secure nested content reveal widget for Capell. |
+| [capell-app/widget-before-after](https://github.com/capell-app/widget-before-after) | 0 | Accessible, keyboard- and touch-friendly before-and-after image comparison widge... |
+| [capell-app/widget-audio-playlist](https://github.com/capell-app/widget-audio-playlist) | 0 | Accessible uploaded audio playlist widget for Capell. |
+| [yousef-aman/filament-smart-fill](https://github.com/yousef-aman/filament-smart-fill) | 0 | AI form filling for Filament v4/v5: reads a PDF, an image or pasted text, shows ... |
+| [Clearsoft-net/easysql-php-laravel](https://github.com/Clearsoft-net/easysql-php-laravel) | 0 | EasySQL PHP SDK — laravel package (read-only split mirror) |
+| [chuckbe/ponto-connect-laravel-sdk](https://github.com/chuckbe/ponto-connect-laravel-sdk) | 0 | A Laravel package to consume the Ponto Connect API (Isabel Group). |
+| [ptondereau/biscuit-laravel](https://github.com/ptondereau/biscuit-laravel) | 0 | [READ-ONLY] Laravel package for Biscuit PHP extension |
+| [urlbox/urlbox-php](https://github.com/urlbox/urlbox-php) | 11 | PHP composer package to generate website thumbnail screenshots using urlbox.io |
+| [blackfinwebware/laravel-mail-merge](https://github.com/blackfinwebware/laravel-mail-merge) | 1 | Laravel package that provides a facility to merge email templates with objects i... |
+| [capell-app/inertia-vue-adapter](https://github.com/capell-app/inertia-vue-adapter) | 0 | Vue 3 client adapter for Capell Inertia pages, package routes, and adapter-drive... |
+| [capell-app/inertia-react-adapter](https://github.com/capell-app/inertia-react-adapter) | 0 | React client adapter for Capell Inertia pages, package routes, and adapter-drive... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-10 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [STAFE-GROUP-AB/laravel-executive-ai](https://github.com/STAFE-GROUP-AB/laravel-executive-ai) | 0 | 2026-10-10 | Laravel Executive AI — open source, self-hosted, macOS-nativ... |
-| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-10 | 🛒 Build and manage your online store effortlessly with Shop... |
-| [aporat/laravel-filter-var](https://github.com/aporat/laravel-filter-var) | 3 | 2026-10-10 | Laravel package for filtering and sanitizing request variabl... |
-| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-10-10 |  |
-| [jeffersongoncalves/filament-umami](https://github.com/jeffersongoncalves/filament-umami) | 4 | 2026-10-10 | Filament plugin for Umami analytics — tracking script inject... |
-| [jeffersongoncalves/filament-matomo](https://github.com/jeffersongoncalves/filament-matomo) | 4 | 2026-10-10 | Filament plugin for Matomo Analytics with Settings Page — ma... |
-| [jeffersongoncalves/filament-gtag](https://github.com/jeffersongoncalves/filament-gtag) | 5 | 2026-10-10 | Filament plugin for managing Google Analytics (Gtag) setting... |
-| [aporat/laravel-auth-signature](https://github.com/aporat/laravel-auth-signature) | 1 | 2026-10-10 | A Laravel package providing a middleware for validating API ... |
-| [amarenkov/laravel-mutable-content-filament](https://github.com/amarenkov/laravel-mutable-content-filament) | 0 | 2026-10-10 | Filament 5 admin panel for laravel-mutable-content: forms an... |
-| [jeffersongoncalves/laravel-sso-server](https://github.com/jeffersongoncalves/laravel-sso-server) | 1 | 2026-10-10 | Central SSO identity provider for Laravel: Authorization Cod... |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-10 | Plataforma de planeación y control de producción para manufa... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-11 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-10-11 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [aporat/laravel-appstore-purchases](https://github.com/aporat/laravel-appstore-purchases) | 5 | 2026-10-11 | Laravel package for handling App Store (Apple, iTunes, Amazo... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-11 | A multi-purpose content and application platform for Laravel... |
+| [Clearsoft-net/easysql-php-laravel](https://github.com/Clearsoft-net/easysql-php-laravel) | 0 | 2026-10-11 | EasySQL PHP SDK — laravel package (read-only split mirror) |
+| [Raghu427/filamentphp-boilerplate](https://github.com/Raghu427/filamentphp-boilerplate) | 1 | 2026-10-11 | Build Laravel apps faster with a pre-configured FilamentPHP ... |
+| [KeremKarsiyaka/laravel-fuzzy-search](https://github.com/KeremKarsiyaka/laravel-fuzzy-search) | 1 | 2026-10-11 | 🔍 Enhance search capabilities in Laravel with this zero-con... |
+| [tzsk/payu](https://github.com/tzsk/payu) | 46 | 2026-10-11 | Payu Laravel Payment Gateway with Payment Verification Packa... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-11 | The flexible backbone for your next CMS. This powerful frame... |
+| [ZachWatkins/infer-laravel-blueprint](https://github.com/ZachWatkins/infer-laravel-blueprint) | 0 | 2026-10-11 | PHP package to infer the SQL column schema of a data source. |
+| [ErnestoCLOUSTER/Shopperlabs](https://github.com/ErnestoCLOUSTER/Shopperlabs) | 1 | 2026-10-11 | 🛒 Build and manage your online store effortlessly with Shop... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-10 | Open-source, self-hosted video processing & delivery engine ... |
 | [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-10 | Magic Framework Laravel backend starter package. |
-| [roundly-consulting/purchases-for-laravel](https://github.com/roundly-consulting/purchases-for-laravel) | 0 | 2026-10-10 | Handle payments and subscriptions from Payment Gateways and ... |
-| [roundly-consulting/approvals-for-laravel](https://github.com/roundly-consulting/approvals-for-laravel) | 0 | 2026-10-10 | Record polymorphic approvals between Eloquent models for Lar... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-10 | Lightweight toolkit for modular development in Laravel, for ... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-10 | The flexible backbone for your next CMS. This powerful frame... |
-| [roundly-consulting/requests-for-laravel](https://github.com/roundly-consulting/requests-for-laravel) | 0 | 2026-10-10 | Requests from entities with approvals. |
-| [itxshakil/laravel-aadhaar-offline](https://github.com/itxshakil/laravel-aadhaar-offline) | 0 | 2026-10-10 | Read and verify Aadhaar Offline e-KYC (share-code ZIP / sign... |
-| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 12 | 2026-10-10 | Filament plugin for Help Desk ticket management — User, Oper... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-10 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 2 | 2026-10-10 | Automated code analysis for Laravel applications with 73 ope... |
+| [imaginarts/FreeSGA](https://github.com/imaginarts/FreeSGA) | 0 | 2026-10-10 | Sistema de Gerenciamento de Atendimento (senhas e filas) ope... |
+| [STAFE-GROUP-AB/laravel-executive-ai](https://github.com/STAFE-GROUP-AB/laravel-executive-ai) | 0 | 2026-10-10 | Laravel Executive AI — open source, self-hosted, macOS-nativ... |
+| [roundly-consulting/crypto-for-laravel](https://github.com/roundly-consulting/crypto-for-laravel) | 0 | 2026-10-10 | Native, audited cryptographic and encoding primitives for La... |
+| [roundly-consulting/geolocation-for-laravel](https://github.com/roundly-consulting/geolocation-for-laravel) | 0 | 2026-10-10 | Resolve a client's location and travel distance through plug... |
+| [jeffersongoncalves/filament-admin](https://github.com/jeffersongoncalves/filament-admin) | 2 | 2026-10-10 | Filament Admin model, AdminResource, status-aware Login page... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-11T01:16 | 20 | 1691 | 7058 |
 | 2026-10-10T18:36 | 5 | 1708 | 7038 |
 | 2026-10-10T12:41 | 9 | 1705 | 7033 |
 | 2026-10-10T06:47 | 1 | 1713 | 7024 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-09T06:52 | 6 | 1714 | 7003 |
 | 2026-10-09T01:13 | 37 | 1681 | 6997 |
 | 2026-10-08T18:39 | 27 | 1692 | 6960 |
-| 2026-10-08T12:47 | 9 | 1707 | 6933 |
 
 ---
 

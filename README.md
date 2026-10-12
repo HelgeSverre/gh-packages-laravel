@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7117  
-**Last updated:** 2026-10-12T13:03:47.550Z
+**Total packages tracked:** 7120  
+**Last updated:** 2026-10-12T18:40:31.401Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [zcwilt/forumkit-logs](https://github.com/zcwilt/forumkit-logs) | 0 | Audit log viewer and email log for ForumKit |
+| [saade/fluppy](https://github.com/saade/fluppy) | 0 | The last upload field your Filament app will need. Uppy for Filament, with chunk... |
+| [expertsystemsau/trackto-php-sdk](https://github.com/expertsystemsau/trackto-php-sdk) | 0 | track.to PHP SDK monorepo — framework-agnostic client + Laravel integration. Dev... |
 | [asignua/filament-clusters](https://github.com/asignua/filament-clusters) | 0 | Group several Filament 5 fields into one input row with a shared label, joined b... |
 | [asignua/filament-mail-log](https://github.com/asignua/filament-mail-log) | 0 | Read-only log of every outgoing Laravel mail in Filament 5: queued, sent and fai... |
 | [asignua/filament-image-annotations](https://github.com/asignua/filament-image-annotations) | 0 | Non-destructive annotations for images in Filament 5: arrows, shapes, pen, highl... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Ruvelo/filament-security-alerts](https://github.com/Ruvelo/filament-security-alerts) | 0 | Laravel Security Alerts inside your Filament panel: findings, exploited flaws fi... |
 | [Ruvelo/filament-wiki](https://github.com/Ruvelo/filament-wiki) | 0 | Your Laravel wiki inside Filament: pages, a Markdown editor with live preview, h... |
 | [ingsivan/reservapro](https://github.com/ingsivan/reservapro) | 0 | Una plataforma para que negocios administren sus servicios, horarios y citas. Lo... |
-| [Abdullah-Zaman/student-support-portal](https://github.com/Abdullah-Zaman/student-support-portal) | 0 | Student support and grievance portal for the SE Department, Superior University.... |
-| [meledjearmel/portalfy](https://github.com/meledjearmel/portalfy) | 0 | Un portail WiFi payant qui permet d'acheter un accès Internet en quelques second... |
-| [Pharaonic/laravel-readable](https://github.com/Pharaonic/laravel-readable) | 22 | Human-readable numbers, dates, relative times, durations and file sizes for Lara... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-12 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-12 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Pollora/framework](https://github.com/Pollora/framework) | 5 | 2026-10-12 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-12 | Lightweight toolkit for modular development in Laravel, for ... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-12 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [luisfernando2607/SolarMed](https://github.com/luisfernando2607/SolarMed) | 0 | 2026-10-12 | Sistema de gestión clínica con Laravel 12 + Livewire 3: turn... |
 | [aofdafaw/Laravel-migration-guard](https://github.com/aofdafaw/Laravel-migration-guard) | 1 | 2026-10-12 | Prevent risky Laravel database migrations with static analys... |
-| [igorsmoleac/design-laravel-kit](https://github.com/igorsmoleac/design-laravel-kit) | 0 | 2026-10-12 | Blade components for Italian Public Administration websites ... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-12 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
 | [sneadxx/nexus-inventory](https://github.com/sneadxx/nexus-inventory) | 1 | 2026-10-12 | Manage and track inventory with a PHP package that integrate... |
 | [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-10-12 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [spdotdev/scuttlemail-dev](https://github.com/spdotdev/scuttlemail-dev) | 0 | 2026-10-12 | Laravel site-package for scuttlemail.dev, mounted into sd-ad... |
+| [isaidgitmenow/laravel-errors](https://github.com/isaidgitmenow/laravel-errors) | 0 | 2026-10-12 | Cure your Laravel exception handling headaches. Manage error... |
 | [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-10-12 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [chuckbe/dokapi-laravel-sdk](https://github.com/chuckbe/dokapi-laravel-sdk) | 0 | 2026-10-12 | A Laravel package to consume the Dokapi API. |
-| [philharmonie/lexware-office-laravel](https://github.com/philharmonie/lexware-office-laravel) | 2 | 2026-10-12 | A Laravel package for seamless integration with the Lexware ... |
-| [oralunal/laravel-clickhouse](https://github.com/oralunal/laravel-clickhouse) | 0 | 2026-10-12 | ClickHouse for Laravel: Eloquent models and Laravel's query ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-12 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-10-12 | A Laravel-based web application that tracks, analyzes, and p... |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-12 | Plataforma de planeación y control de producción para manufa... |
+| [ArtisanPack-UI/ecommerce-storefront-livewire](https://github.com/ArtisanPack-UI/ecommerce-storefront-livewire) | 0 | 2026-10-12 | Livewire storefront for the ArtisanPack UI ecommerce engine ... |
 | [albertoarena/filament-event-sourcing](https://github.com/albertoarena/filament-event-sourcing) | 7 | 2026-10-12 | Integrate spatie/laravel-event-sourcing v7 with Filament v4:... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-12 | Daywatch Laravel package to integrate into collecting events... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-12 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-10-12 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-10-12 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-10-12 | Enhance your Laravel applications with the ecommerce.cart pa... |
-| [php-regex/regex-laravel](https://github.com/php-regex/regex-laravel) | 0 | 2026-10-12 | [READ-ONLY] Laravel integration for PHPRegex: the Regex serv... |
-| [justbetter/laravel-magento-stock](https://github.com/justbetter/laravel-magento-stock) | 12 | 2026-10-12 | Package to send stock to Magento from a Laravel application ... |
+| [oralunal/laravel-clickhouse](https://github.com/oralunal/laravel-clickhouse) | 0 | 2026-10-12 | ClickHouse for Laravel: Eloquent models and Laravel's query ... |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 0 | 2026-10-12 | Modulare Web-App für Freiwillige Feuerwehren: Fahrzeugbuchun... |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-12 | Magic Framework Laravel backend starter package. |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-10-12 | Runtime base library for building Laravel packages: fluent P... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-10-12 | Laravel package scaffolder: generate complete, convention-re... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-10-12 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-12T18:40 | 3 | 1706 | 7120 |
 | 2026-10-12T13:03 | 11 | 1698 | 7117 |
 | 2026-10-12T07:09 | 3 | 1711 | 7106 |
 | 2026-10-12T01:19 | 14 | 1699 | 7103 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-11T01:16 | 20 | 1691 | 7058 |
 | 2026-10-10T18:36 | 5 | 1708 | 7038 |
 | 2026-10-10T12:41 | 9 | 1705 | 7033 |
-| 2026-10-10T06:47 | 1 | 1713 | 7024 |
 
 ---
 

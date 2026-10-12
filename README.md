@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7103  
-**Last updated:** 2026-10-12T01:19:02.847Z
+**Total packages tracked:** 7106  
+**Last updated:** 2026-10-12T07:09:58.905Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [sajjadhossainshohag/laravel-lang-cache](https://github.com/sajjadhossainshohag/laravel-lang-cache) | 2 | Cache Laravel translation files with php artisan lang:cache: 62× to 1,600× faste... |
+| [slash197/etransport-laravel](https://github.com/slash197/etransport-laravel) | 0 | Laravel bridge for slash197/etransport, the PHP package for ANAF's RO e-Transpor... |
+| [EevnxX1/AR4N-GROUP_LandingPage](https://github.com/EevnxX1/AR4N-GROUP_LandingPage) | 0 | ARAN GROUP landing page built with Laravel, React, TypeScript, and Inertia.js. P... |
 | [Ruvelo/filament-security-alerts](https://github.com/Ruvelo/filament-security-alerts) | 0 | Laravel Security Alerts inside your Filament panel: findings, exploited flaws fi... |
 | [Ruvelo/filament-wiki](https://github.com/Ruvelo/filament-wiki) | 0 | Your Laravel wiki inside Filament: pages, a Markdown editor with live preview, h... |
 | [ingsivan/reservapro](https://github.com/ingsivan/reservapro) | 0 | Una plataforma para que negocios administren sus servicios, horarios y citas. Lo... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [zcwilt/forumkit-forums](https://github.com/zcwilt/forumkit-forums) | 0 | ForumKit forums: forum groups, forums, threads and posts, visibility and posting... |
 | [zcwilt/forumkit-entitlements](https://github.com/zcwilt/forumkit-entitlements) | 0 | ForumKit entitlements: definitions, grants, requests, a cached resolver and the ... |
 | [HoceineEl/filament-sidebar-editor](https://github.com/HoceineEl/filament-sidebar-editor) | 1 | Sidebar editor for Filament: hide, show and reorder navigation groups and pages ... |
-| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 0 | Modulare Web-App für Freiwillige Feuerwehren: Fahrzeugbuchung, Einsatzbericht, K... |
-| [lauroguedes/laravel-astro-landing](https://github.com/lauroguedes/laravel-astro-landing) | 0 | Keep an Astro landing page in your Laravel repository: scaffold it from a templa... |
-| [erlanggabyu/khaybar-tour](https://github.com/erlanggabyu/khaybar-tour) | 0 | Umrah registration system built with Laravel 13 & MySQL — package booking, pilgr... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-12 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-12 | Lightweight toolkit for modular development in Laravel, for ... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 3 | 2026-10-12 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-10-12 | Filament admin panel, editor workflows, settings, and extens... |
+| [slash197/etransport-laravel](https://github.com/slash197/etransport-laravel) | 0 | 2026-10-12 | Laravel bridge for slash197/etransport, the PHP package for ... |
+| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-10-12 | Extension discovery, account linking, install authorization,... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-12 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-10-12 | Ptah — Laravel package that forges complete module structure... |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-10-12 | A personal portfolio built as an interactive browser-based t... |
-| [mk-josias/laravel-distributable-modules-core](https://github.com/mk-josias/laravel-distributable-modules-core) | 0 | 2026-10-12 | Read-only split of packages/core from mk-josias/laravel-dist... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-10-12 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-10-12 | A lightweight, convention-driven modular architecture packag... |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-10-12 | A Laravel package to handle AWS SNS notifications, providing... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 8 | 2026-10-12 | An event sourcing laravel package, complete with all the ess... |
+| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-10-12 | Guided browser installer for bootstrapping new Capell CMS ap... |
+| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-10-12 | Public routing, rendering, caching boundaries, and theme int... |
+| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-10-12 | Shared content models, services, contracts, and extension fo... |
+| [it-peoplelogy/laravel-xero-bridge](https://github.com/it-peoplelogy/laravel-xero-bridge) | 0 | 2026-10-12 | Shared Laravel package for the Xero Accounting API — OAuth c... |
+| [codebar-ag/laravel-m-files](https://github.com/codebar-ag/laravel-m-files) | 0 | 2026-10-12 |  |
+| [ComfyCodersBV/laravel-vue-table-builder](https://github.com/ComfyCodersBV/laravel-vue-table-builder) | 0 | 2026-10-12 | A VueJS/Inertia TableBuilder package for Laravel |
+| [avexsoft/donkey](https://github.com/avexsoft/donkey) | 3 | 2026-10-12 | The smart-ass Laravel package to manage config() in producti... |
+| [vpndetection-io/sdk-php-laravel](https://github.com/vpndetection-io/sdk-php-laravel) | 0 | 2026-10-12 | Official Laravel middleware for the VPNDetection API. Detect... |
+| [Taldres/laravel-immutable-attributes](https://github.com/Taldres/laravel-immutable-attributes) | 0 | 2026-10-12 | Guard Eloquent model attributes against changes once a row e... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-10-12 | A Laravel package that crawls websites to detect broken link... |
+| [smart-dato/dpd-sdk](https://github.com/smart-dato/dpd-sdk) | 0 | 2026-10-12 | A Laravel package for integrating with the DPD shipping serv... |
 | [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-10-12 | Laravel-based API for storing sensor data from distributed n... |
-| [ingsivan/reservapro](https://github.com/ingsivan/reservapro) | 0 | 2026-10-12 | Una plataforma para que negocios administren sus servicios, ... |
-| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-10-12 | Laravel OTP is a Laravel package that enables developers to ... |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-10-12 | Manage, process, and serve files in Laravel with scalable up... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 15 | 2026-10-12 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [Ruvelo/filament-security-alerts](https://github.com/Ruvelo/filament-security-alerts) | 0 | 2026-10-12 | Laravel Security Alerts inside your Filament panel: findings... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-10-12 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-10-11 | Integrate Laravel with the Agent Runner microservice to mana... |
-| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-10-11 | Integrate Mixpanel analytics into Filament projects to track... |
-| [Ruvelo/laravel-security-alerts](https://github.com/Ruvelo/laravel-security-alerts) | 0 | 2026-10-11 | Know the day a package your Laravel app runs becomes vulnera... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 8 | 2026-10-12 | An event sourcing laravel package, complete with all the ess... |
+| [amit-eiitech/laravel-installer](https://github.com/amit-eiitech/laravel-installer) | 3 | 2026-10-12 | A package to install Laravel applications with wizard steps. |
+| [smart-dato/brt-tracking](https://github.com/smart-dato/brt-tracking) | 0 | 2026-10-12 | Laravel package for interfacing with the BRT VAS100 tracking... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-12T07:09 | 3 | 1711 | 7106 |
 | 2026-10-12T01:19 | 14 | 1699 | 7103 |
 | 2026-10-11T18:37 | 11 | 1703 | 7089 |
 | 2026-10-11T12:43 | 13 | 1702 | 7078 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-10T12:41 | 9 | 1705 | 7033 |
 | 2026-10-10T06:47 | 1 | 1713 | 7024 |
 | 2026-10-10T01:10 | 3 | 1717 | 7023 |
-| 2026-10-09T18:38 | 10 | 1711 | 7020 |
 
 ---
 

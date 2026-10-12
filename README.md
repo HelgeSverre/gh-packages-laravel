@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7089  
-**Last updated:** 2026-10-11T18:37:39.568Z
+**Total packages tracked:** 7103  
+**Last updated:** 2026-10-12T01:19:02.847Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Ruvelo/filament-security-alerts](https://github.com/Ruvelo/filament-security-alerts) | 0 | Laravel Security Alerts inside your Filament panel: findings, exploited flaws fi... |
+| [Ruvelo/filament-wiki](https://github.com/Ruvelo/filament-wiki) | 0 | Your Laravel wiki inside Filament: pages, a Markdown editor with live preview, h... |
+| [ingsivan/reservapro](https://github.com/ingsivan/reservapro) | 0 | Una plataforma para que negocios administren sus servicios, horarios y citas. Lo... |
+| [Abdullah-Zaman/student-support-portal](https://github.com/Abdullah-Zaman/student-support-portal) | 0 | Student support and grievance portal for the SE Department, Superior University.... |
+| [meledjearmel/portalfy](https://github.com/meledjearmel/portalfy) | 0 | Un portail WiFi payant qui permet d'acheter un accès Internet en quelques second... |
+| [Pharaonic/laravel-readable](https://github.com/Pharaonic/laravel-readable) | 22 | Human-readable numbers, dates, relative times, durations and file sizes for Lara... |
+| [Ruvelo/laravel-security-alerts](https://github.com/Ruvelo/laravel-security-alerts) | 0 | Know the day a package your Laravel app runs becomes vulnerable, and first when ... |
+| [mk-josias/laravel-distributable-modules-core](https://github.com/mk-josias/laravel-distributable-modules-core) | 0 | Read-only split of packages/core from mk-josias/laravel-distributable-modules |
+| [ombabush/story-studio](https://github.com/ombabush/story-studio) | 0 | Laravel package for paged stories — comics, manga, illustrated books: a Reader a... |
+| [Buymeua/laravel-google-translate](https://github.com/Buymeua/laravel-google-translate) | 0 | Laravel package for the Google Translate API |
+| [philharmonie/lexware-office-laravel](https://github.com/philharmonie/lexware-office-laravel) | 2 | A Laravel package for seamless integration with the Lexware Office API. This pac... |
+| [mk-josias/laravel-microservices-stream-redis](https://github.com/mk-josias/laravel-microservices-stream-redis) | 0 | Read-only split of packages/redis-event-stream from mk-josias/laravel-microservi... |
+| [mk-josias/laravel-microservices-stream-queue](https://github.com/mk-josias/laravel-microservices-stream-queue) | 0 | Read-only split of packages/queue-event-stream from mk-josias/laravel-microservi... |
+| [mk-josias/laravel-microservices-rpc-http](https://github.com/mk-josias/laravel-microservices-rpc-http) | 0 | Read-only split of packages/http-rpc from mk-josias/laravel-microservices |
 | [zcwilt/forumkit-forums](https://github.com/zcwilt/forumkit-forums) | 0 | ForumKit forums: forum groups, forums, threads and posts, visibility and posting... |
 | [zcwilt/forumkit-entitlements](https://github.com/zcwilt/forumkit-entitlements) | 0 | ForumKit entitlements: definitions, grants, requests, a cached resolver and the ... |
 | [HoceineEl/filament-sidebar-editor](https://github.com/HoceineEl/filament-sidebar-editor) | 1 | Sidebar editor for Filament: hide, show and reorder navigation groups and pages ... |
 | [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 0 | Modulare Web-App für Freiwillige Feuerwehren: Fahrzeugbuchung, Einsatzbericht, K... |
 | [lauroguedes/laravel-astro-landing](https://github.com/lauroguedes/laravel-astro-landing) | 0 | Keep an Astro landing page in your Laravel repository: scaffold it from a templa... |
 | [erlanggabyu/khaybar-tour](https://github.com/erlanggabyu/khaybar-tour) | 0 | Umrah registration system built with Laravel 13 & MySQL — package booking, pilgr... |
-| [zcwilt/forumkit-package-skeleton](https://github.com/zcwilt/forumkit-package-skeleton) | 0 | Template for ForumKit packages: a Laravel 13 and Filament 5 plugin with Pest, La... |
-| [zcwilt/forumkit-core](https://github.com/zcwilt/forumkit-core) | 0 | ForumKit core: module registry, settings and shared support for the ForumKit Fil... |
-| [jeffersongoncalves/pest-plugin-database-migrations](https://github.com/jeffersongoncalves/pest-plugin-database-migrations) | 1 | Load a package's migrations in tests in the exact order declared by its spatie/l... |
-| [zcwilt/forumkit-demo](https://github.com/zcwilt/forumkit-demo) | 0 | A Laravel 13 and Filament 5 app that installs the ForumKit packages: development... |
-| [aungkhantzaw777/http-security-headers](https://github.com/aungkhantzaw777/http-security-headers) | 0 | A PHP enum package for HTTP security headers, providing a consistent, typo-free ... |
-| [noneym/loggerxo](https://github.com/noneym/loggerxo) | 0 | Open source error tracking, log search and performance monitoring for Laravel an... |
-| [frizennwave/siakad-manm](https://github.com/frizennwave/siakad-manm) | 0 | Integrated Academic Information System with Laravel, MySQL, REST API, and QR Cod... |
-| [romanzipp/Laravel-Env-Normalizer](https://github.com/romanzipp/Laravel-Env-Normalizer) | 1 | Format .env files according to your .env.example structure to keep track of used... |
-| [noneym/loggerxo-laravel](https://github.com/noneym/loggerxo-laravel) | 0 | Laravel SDK for Loggerxo: exceptions, log channel, breadcrumbs and performance t... |
-| [robyajo/pasak](https://github.com/robyajo/pasak) | 0 | Package monitoring dan audit keamanan otomatis untuk aplikasi Laravel. Mendeteks... |
-| [baidou5/laravelrave](https://github.com/baidou5/laravelrave) | 0 | Vivala maintained Laravel Rave package source |
-| [baidou5/laravel-device-tracking](https://github.com/baidou5/laravel-device-tracking) | 0 | Vivala maintained Laravel device tracking package source |
-| [baidou5/laravel-dompdf](https://github.com/baidou5/laravel-dompdf) | 0 | Vivala maintained Laravel DomPDF package source |
-| [romanzipp/Laravel-Turnstile](https://github.com/romanzipp/Laravel-Turnstile) | 32 | 🔥 Cloudflare Turnstile CAPTCHA package for Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-10-11 |  |
-| [Zairakai/PHP-Package_laravel_auth](https://github.com/Zairakai/PHP-Package_laravel_auth) | 0 | 2026-10-11 |  |
-| [Zairakai/PHP-Package_laravel_essentials](https://github.com/Zairakai/PHP-Package_laravel_essentials) | 0 | 2026-10-11 |  |
-| [Larasell-dev/cushion](https://github.com/Larasell-dev/cushion) | 0 | 2026-10-11 | Temporarily store form data to prevent accidental loss |
-| [tanthammar/laravel-extras](https://github.com/tanthammar/laravel-extras) | 3 | 2026-10-11 | Laravel macros and helpers I use in my personal projects and... |
-| [ublabs/blade-simple-icons](https://github.com/ublabs/blade-simple-icons) | 19 | 2026-10-11 | A package to easily make use of Simple Icons in your Laravel... |
-| [Zairakai/PHP-Package_laravel_dev_tools](https://github.com/Zairakai/PHP-Package_laravel_dev_tools) | 0 | 2026-10-11 |  |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-11 | Lightweight toolkit for modular development in Laravel, for ... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-11 | Magic Framework Laravel backend starter package. |
-| [Zairakai/PHP-Package_laravel_activity](https://github.com/Zairakai/PHP-Package_laravel_activity) | 0 | 2026-10-11 |  |
-| [Zairakai/PHP-Package_laravel_blade_components](https://github.com/Zairakai/PHP-Package_laravel_blade_components) | 0 | 2026-10-11 |  |
-| [Zairakai/PHP-Package_laravel_eloquent](https://github.com/Zairakai/PHP-Package_laravel_eloquent) | 0 | 2026-10-11 |  |
-| [ali-hassan-dev/time-tracker](https://github.com/ali-hassan-dev/time-tracker) | 0 | 2026-10-11 | Laravel 11 + Livewire employee time tracker built for an Upw... |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-11 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-10-11 | Manage, process, and serve files in Laravel with scalable up... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-10-11 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-10-11 | Build reusable Filament dashboard widgets for Laravel, inclu... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-11 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-10-11 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
-| [lauroguedes/laravel-astro-landing](https://github.com/lauroguedes/laravel-astro-landing) | 0 | 2026-10-11 | Keep an Astro landing page in your Laravel repository: scaff... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-12 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-12 | Lightweight toolkit for modular development in Laravel, for ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-12 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-10-12 | Ptah — Laravel package that forges complete module structure... |
+| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-10-12 | A personal portfolio built as an interactive browser-based t... |
+| [mk-josias/laravel-distributable-modules-core](https://github.com/mk-josias/laravel-distributable-modules-core) | 0 | 2026-10-12 | Read-only split of packages/core from mk-josias/laravel-dist... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-10-12 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-10-12 | A lightweight, convention-driven modular architecture packag... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-10-12 | A Laravel package to handle AWS SNS notifications, providing... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 8 | 2026-10-12 | An event sourcing laravel package, complete with all the ess... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-10-12 | Laravel-based API for storing sensor data from distributed n... |
+| [ingsivan/reservapro](https://github.com/ingsivan/reservapro) | 0 | 2026-10-12 | Una plataforma para que negocios administren sus servicios, ... |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-10-12 | Laravel OTP is a Laravel package that enables developers to ... |
+| [adema3087/laravel-media-vault](https://github.com/adema3087/laravel-media-vault) | 0 | 2026-10-12 | Manage, process, and serve files in Laravel with scalable up... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 15 | 2026-10-12 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [Ruvelo/filament-security-alerts](https://github.com/Ruvelo/filament-security-alerts) | 0 | 2026-10-12 | Laravel Security Alerts inside your Filament panel: findings... |
+| [Luxs239/FilaWidgets](https://github.com/Luxs239/FilaWidgets) | 1 | 2026-10-12 | Build reusable Filament dashboard widgets for Laravel, inclu... |
+| [Angel010-11/laravel-agent-runner](https://github.com/Angel010-11/laravel-agent-runner) | 1 | 2026-10-11 | Integrate Laravel with the Agent Runner microservice to mana... |
+| [Samsam0684/filament-mixpanel](https://github.com/Samsam0684/filament-mixpanel) | 0 | 2026-10-11 | Integrate Mixpanel analytics into Filament projects to track... |
+| [Ruvelo/laravel-security-alerts](https://github.com/Ruvelo/laravel-security-alerts) | 0 | 2026-10-11 | Know the day a package your Laravel app runs becomes vulnera... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-12T01:19 | 14 | 1699 | 7103 |
 | 2026-10-11T18:37 | 11 | 1703 | 7089 |
 | 2026-10-11T12:43 | 13 | 1702 | 7078 |
 | 2026-10-11T06:48 | 7 | 1705 | 7065 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-10T06:47 | 1 | 1713 | 7024 |
 | 2026-10-10T01:10 | 3 | 1717 | 7023 |
 | 2026-10-09T18:38 | 10 | 1711 | 7020 |
-| 2026-10-09T12:44 | 7 | 1711 | 7010 |
 
 ---
 

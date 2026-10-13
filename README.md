@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7132  
-**Last updated:** 2026-10-13T06:55:30.324Z
+**Total packages tracked:** 7137  
+**Last updated:** 2026-10-13T12:48:59.939Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [maytham553/filament-tablekit](https://github.com/maytham553/filament-tablekit) | 0 | Saved views and power tools for Filament tables: views, presets, view manager, m... |
+| [blemli/specialchars-for-filament](https://github.com/blemli/specialchars-for-filament) | 0 | The characters a keyboard lacks, one click away on any Filament text field. |
+| [Temples-Dev/shellnet-portal](https://github.com/Temples-Dev/shellnet-portal) | 0 | Customer self-service portal and staff dashboard for a Mikrotik hotspot ISP: vou... |
+| [Fiikayor/livechat](https://github.com/Fiikayor/livechat) | 0 | Self-hosted live chat for any website. No monthly fees, no third-party servers. ... |
+| [sufianrubel/laravel-unique-slug](https://github.com/sufianrubel/laravel-unique-slug) | 1 | Collection of reusable PHP packages, experiments, and development utilities. |
 | [caturseptian/laravel-pennant-analytics](https://github.com/caturseptian/laravel-pennant-analytics) | 0 | Impression & conversion analytics with statistical significance for Laravel Penn... |
 | [maxo-patrick/laravel-maxo-sms](https://github.com/maxo-patrick/laravel-maxo-sms) | 0 | Laravel 12 package for sending and managing SMS through the MaxoTel API, with qu... |
 | [ITMOSOFT/laravel-settings](https://github.com/ITMOSOFT/laravel-settings) | 0 | Reusable Laravel application settings package with database storage. |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [zcwilt/forumkit-logs](https://github.com/zcwilt/forumkit-logs) | 0 | Audit log viewer and email log for ForumKit |
 | [saade/fluppy](https://github.com/saade/fluppy) | 0 | The last upload field your Filament app will need. Uppy for Filament, with chunk... |
 | [expertsystemsau/trackto-php-sdk](https://github.com/expertsystemsau/trackto-php-sdk) | 0 | track.to PHP SDK monorepo — framework-agnostic client + Laravel integration. Dev... |
-| [asignua/filament-clusters](https://github.com/asignua/filament-clusters) | 0 | Group several Filament 5 fields into one input row with a shared label, joined b... |
-| [asignua/filament-mail-log](https://github.com/asignua/filament-mail-log) | 1 | Read-only log of every outgoing Laravel mail in Filament 5: queued, sent and fai... |
-| [asignua/filament-image-annotations](https://github.com/asignua/filament-image-annotations) | 0 | Non-destructive annotations for images in Filament 5: arrows, shapes, pen, highl... |
-| [asignua/filament-toggle-icon-column](https://github.com/asignua/filament-toggle-icon-column) | 0 | A clickable icon column for Filament 5 tables and relation managers that toggles... |
-| [asignua/filament-captcha](https://github.com/asignua/filament-captcha) | 0 | Captcha field for Filament 5 forms, the panel login and plain Livewire component... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 0 | 2026-10-13 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
-| [Siren55/laravel-ai-memory](https://github.com/Siren55/laravel-ai-memory) | 3 | 2026-10-13 | 🧠 Manage AI agent memory in Laravel for seamless context re... |
-| [Ophuongonthemic/yt-cover-gen](https://github.com/Ophuongonthemic/yt-cover-gen) | 1 | 2026-10-13 | 🎨 Create eye-catching YouTube thumbnails effortlessly with ... |
-| [lauroguedes/laravel-astro-landing](https://github.com/lauroguedes/laravel-astro-landing) | 0 | 2026-10-13 | Keep an Astro landing page in your Laravel repository: scaff... |
-| [maxo-patrick/laravel-maxo-sms](https://github.com/maxo-patrick/laravel-maxo-sms) | 0 | 2026-10-13 | Laravel 12 package for sending and managing SMS through the ... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 73 | 2026-10-13 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [ThanhDt716/Filament-shield](https://github.com/ThanhDt716/Filament-shield) | 1 | 2026-10-13 | 🛡️ Enhance your Filament applications with Filament-shield,... |
-| [PEDROMJSKHEIEBEIEJE/filament-starter-kit](https://github.com/PEDROMJSKHEIEBEIEJE/filament-starter-kit) | 1 | 2026-10-13 | ✨ Build robust Laravel applications with the Filament Starte... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-10-13 | A package to create datatables using alpinejs, tailwind, liv... |
-| [Dubey-Anuj/ecommerce.cart](https://github.com/Dubey-Anuj/ecommerce.cart) | 0 | 2026-10-13 | Enhance your Laravel applications with the ecommerce.cart pa... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 15 | 2026-10-13 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [Taldres/laravel-last-seen](https://github.com/Taldres/laravel-last-seen) | 1 | 2026-10-13 | Track and display the last time a user was active in your La... |
+| [schmeits/filament-character-counter](https://github.com/schmeits/filament-character-counter) | 34 | 2026-10-13 | This is a Filament PHP character counter TextField and Texta... |
+| [plin-code/laravel-custom-fields](https://github.com/plin-code/laravel-custom-fields) | 3 | 2026-10-13 | Typed, extensible custom fields for Eloquent models with fil... |
+| [schmeits/filament-pan-analytics-widget](https://github.com/schmeits/filament-pan-analytics-widget) | 23 | 2026-10-13 | A widget plugin for pan analytics. |
+| [STAFE-GROUP-AB/laravel-executive-ai](https://github.com/STAFE-GROUP-AB/laravel-executive-ai) | 0 | 2026-10-13 | Laravel Executive AI — open source, self-hosted, macOS-nativ... |
+| [Smansilla98/SistemaDeGestion](https://github.com/Smansilla98/SistemaDeGestion) | 0 | 2026-10-13 | Sistema de gestion para restaurantes: mesas, pedidos, cocina... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-13 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [jvjvjv/CodeTalker](https://github.com/jvjvjv/CodeTalker) | 0 | 2026-10-13 | Multi-provider AI communications package for Laravel |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 5 | 2026-10-13 | Durable execution for PHP: workflows that survive deploys, r... |
+| [dskripchenko/laravel-php-pdf](https://github.com/dskripchenko/laravel-php-pdf) | 1 | 2026-10-13 | Laravel bridge for dskripchenko/php-pdf — MIT PDF toolkit. P... |
+| [maytham553/filament-tablekit](https://github.com/maytham553/filament-tablekit) | 0 | 2026-10-13 | Saved views and power tools for Filament tables: views, pres... |
+| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-10-13 | Gremio Linhir |
+| [fuzzyfox/lucide-for-laravel](https://github.com/fuzzyfox/lucide-for-laravel) | 0 | 2026-10-13 | An always-current Lucide icon set and PHP enum for Laravel a... |
+| [Fiikayor/livechat](https://github.com/Fiikayor/livechat) | 0 | 2026-10-13 | Self-hosted live chat for any website. No monthly fees, no t... |
 | [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-13 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
-| [ITMOSOFT/laravel-settings](https://github.com/ITMOSOFT/laravel-settings) | 0 | 2026-10-13 | Reusable Laravel application settings package with database ... |
-| [jonangelo18gpca/laravel-gpca-networking](https://github.com/jonangelo18gpca/laravel-gpca-networking) | 1 | 2026-10-13 |  |
-| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-13 | A job board where a company's silence shows. Laravel, Livewi... |
-| [ingsivan/reservapro](https://github.com/ingsivan/reservapro) | 0 | 2026-10-13 | Una plataforma para que negocios administren sus servicios, ... |
-| [caturseptian/laravel-pennant-analytics](https://github.com/caturseptian/laravel-pennant-analytics) | 0 | 2026-10-13 | Impression & conversion analytics with statistical significa... |
-| [Magna-CMS/Magna-Pages](https://github.com/Magna-CMS/Magna-Pages) | 0 | 2026-10-13 | Visual page builder for Laravel — drag-and-drop pages, templ... |
-| [isaidgitmenow/laravel-errors](https://github.com/isaidgitmenow/laravel-errors) | 0 | 2026-10-13 | Cure your Laravel exception handling headaches. Manage error... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 374 | 2026-10-13 | The official Laravel Nightwatch package. |
-| [blemli/blade-blemlicons](https://github.com/blemli/blade-blemlicons) | 0 | 2026-10-13 | A package to easily make use of [Blemlicons](https://github.... |
+| [foxws/laravel-scout-relations](https://github.com/foxws/laravel-scout-relations) | 1 | 2026-10-13 | Automatically re-index Scout-searchable related models when ... |
+| [foxws/laravel-relatable](https://github.com/foxws/laravel-relatable) | 1 | 2026-10-13 | Relate Eloquent models to other models, with a base score an... |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 0 | 2026-10-13 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-13 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-13T12:48 | 5 | 1705 | 7137 |
 | 2026-10-13T06:55 | 4 | 1705 | 7132 |
 | 2026-10-13T01:14 | 8 | 1701 | 7128 |
 | 2026-10-12T18:40 | 3 | 1706 | 7120 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-11T18:37 | 11 | 1703 | 7089 |
 | 2026-10-11T12:43 | 13 | 1702 | 7078 |
 | 2026-10-11T06:48 | 7 | 1705 | 7065 |
-| 2026-10-11T01:16 | 20 | 1691 | 7058 |
 
 ---
 

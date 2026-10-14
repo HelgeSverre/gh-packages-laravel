@@ -1923,5 +1923,33 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-10-08T12:47:19.099Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "eisblume0901/animaker": {
+    "name": "eisBlume0901/AniMaker",
+    "url": "https://github.com/eisBlume0901/AniMaker",
+    "description": "Fundamentals of Database and Applications and Development of Emerging Technologies Final Project",
+    "stars": 1,
+    "forks": 2,
+    "topics": [
+      "anime-database",
+      "anime-databases",
+      "anime-website",
+      "blade",
+      "eloquent",
+      "html",
+      "laravel",
+      "livewire",
+      "mysql",
+      "php",
+      "tailwindcss"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2024-03-12T04:50:05Z",
+    "updated_at": "2025-10-14T11:31:39Z",
+    "pushed_at": "2025-10-14T11:31:35Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-10-14T12:41:42.442Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

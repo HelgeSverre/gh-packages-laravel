@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7210  
-**Last updated:** 2026-10-14T12:41:42.468Z
+**Total packages tracked:** 7220  
+**Last updated:** 2026-10-14T18:38:44.658Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [filagora/filagora-compliance](https://github.com/filagora/filagora-compliance) | 0 | Cookie consent, policy versions and privacy requests (export and erasure) for Fi... |
+| [geraldj92020/soketi-app-manager-filament](https://github.com/geraldj92020/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [AaronSiekiera403/soketi-app-manager-filament](https://github.com/AaronSiekiera403/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [Laurab471/soketi-app-manager-filament](https://github.com/Laurab471/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [ru5iru/api-mock-service](https://github.com/ru5iru/api-mock-service) | 0 | Self-hosted API mocking with Laravel and Livewire. Import cURL or Postman collec... |
+| [chas688/qboAuth](https://github.com/chas688/qboAuth) | 0 | Laravel demo package for Authenticating with QBO using Intuit's SDK |
+| [x-laravel/validation-tr-citizen-number-extend](https://github.com/x-laravel/validation-tr-citizen-number-extend) | 0 | Turkey citizen number (TC No) validation extend package for Laravel. |
+| [HawkForge/laravel-ai-blog](https://github.com/HawkForge/laravel-ai-blog) | 6 | Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an ... |
+| [effina/Larastitial](https://github.com/effina/Larastitial) | 0 | Laravel interstitial package for creating and managing interstitials |
+| [ashrafbendary/laravel-secure-email](https://github.com/ashrafbendary/laravel-secure-email) | 0 | ses compatible package |
 | [tkozelek/cnmx_zmeny](https://github.com/tkozelek/cnmx_zmeny) | 0 | Shift planning app used by about 30 cinema staff: weekly sign-up calendar, absen... |
 | [moessimple/laravel-starter-kit-livewire](https://github.com/moessimple/laravel-starter-kit-livewire) | 0 | Blank Laravel 13 + Livewire 4 skeleton for PHP 8.5 with the quality gate and dev... |
 | [Mominde92/sirah-cv](https://github.com/Mominde92/sirah-cv) | 0 | Bilingual (EN/AR, RTL) ATS-friendly CV builder SaaS — Laravel 12, Livewire 4, Ta... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [NovWyatt/laravel-login-guard](https://github.com/NovWyatt/laravel-login-guard) | 0 | Brute-force login protection for Laravel: progressive lockouts per IP and userna... |
 | [Danaserver/farapayamak-laravel](https://github.com/Danaserver/farapayamak-laravel) | 0 | 📱 پکیج جامع فراپیامک برای لاراول • Comprehensive Laravel package for Farapayama... |
 | [coverzen/configurable-sqs](https://github.com/coverzen/configurable-sqs) | 1 | This package provides a simple way to subscribe to an AWS SQS queue in Laravel. ... |
-| [Beatrizf734/soketi-app-manager-filament](https://github.com/Beatrizf734/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 0 | AI-made how-to videos of your Laravel app. Describe a flow, and Claude, OpenAI, ... |
-| [SETechSolutions/php-whois](https://github.com/SETechSolutions/php-whois) | 1 | PHP domain lookup over RDAP with WHOIS fallback: registrar, expiry date, name se... |
-| [mykholy/laravel-leakproof](https://github.com/mykholy/laravel-leakproof) | 0 | Detect sensitive data leaks in Laravel JSON API responses with PHPUnit assertion... |
-| [freepeace13/inertia-live-laravel](https://github.com/freepeace13/inertia-live-laravel) | 0 | Live Inertia pages driven by Spatie Event Sourcing projections (Laravel adapter ... |
-| [jeffersongoncalves/filament-cnpj-field](https://github.com/jeffersongoncalves/filament-cnpj-field) | 1 | The Filament CNPJ Field is a custom input component for Brazilian company regist... |
-| [freepeace13/laraversine](https://github.com/freepeace13/laraversine) | 2 | Laraversine is a laravel package that uses haversine formula to determine the ne... |
-| [jeffersongoncalves/laravel-cnpj](https://github.com/jeffersongoncalves/laravel-cnpj) | 1 | A simple and efficient Laravel package for querying Brazilian company registrati... |
-| [NikkiPanwar/Travel_buddy_backend](https://github.com/NikkiPanwar/Travel_buddy_backend) | 0 | Travel Buddies Backend is a RESTful API service built with Laravel 10 and MySQL.... |
-| [DevMegabit/megabit-laravel](https://github.com/DevMegabit/megabit-laravel) | 0 | A Firebird database package for the Laravel Framework |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 27 | 2026-10-14 | Artisan command to scaffold Spatie event sourcing domains - ... |
-| [glesys/butler-health](https://github.com/glesys/butler-health) | 0 | 2026-10-14 | Laravel package for returning application "health". |
-| [cable8mm/laravel-portone](https://github.com/cable8mm/laravel-portone) | 0 | 2026-10-14 | 한국의 PG사 포트원(PortOne) V2 단건 결제를 위한 Laravel 패키지입니다. Laravel Ca... |
-| [glesys/butler-audit](https://github.com/glesys/butler-audit) | 1 | 2026-10-14 | Laravel package for sending audit events to a remote endpoin... |
-| [j3ns3n/laravel-linkly](https://github.com/j3ns3n/laravel-linkly) | 0 | 2026-10-14 | A Laravel Package for the Linkly API |
-| [Webfresh-Uden/wfresourcebalance](https://github.com/Webfresh-Uden/wfresourcebalance) | 0 | 2026-10-14 | Webfresh Resource balance Package for Laravel |
-| [asciisd/cashier-core](https://github.com/asciisd/cashier-core) | 0 | 2026-10-14 | A flexible payment processing system for Laravel using the F... |
-| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 0 | 2026-10-14 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-14 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [laraplus/form](https://github.com/laraplus/form) | 4 | 2026-10-14 | A powerful package for building forms in Laravel |
-| [php-regex/regex-laravel](https://github.com/php-regex/regex-laravel) | 0 | 2026-10-14 | [READ-ONLY] Laravel integration for PHPRegex: the Regex serv... |
-| [tkozelek/cnmx_zmeny](https://github.com/tkozelek/cnmx_zmeny) | 0 | 2026-10-14 | Shift planning app used by about 30 cinema staff: weekly sig... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 163 | 2026-10-14 | Collect everything about sent mails in your Filament app. |
-| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-10-14 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-10-14 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-10-14 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-10-14 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-10-14 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 255 | 2026-10-14 | Collect everything about sent mails in your Laravel app |
-| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 6 | 2026-10-14 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-14 | The flexible backbone for your next CMS. This powerful frame... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-14 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [filagora/filagora-cms](https://github.com/filagora/filagora-cms) | 0 | 2026-10-14 | Pages, blocks, menus, media and a draft, version, schedule a... |
+| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 2 | 2026-10-14 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
+| [clickfwd/yoyo](https://github.com/clickfwd/yoyo) | 208 | 2026-10-14 | Yoyo is a full-stack PHP framework to create rich, dynamic i... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-14 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [VanOns/laravel-translations-sync](https://github.com/VanOns/laravel-translations-sync) | 0 | 2026-10-14 | A package that synchronizes translations between your Larave... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 374 | 2026-10-14 | The official Laravel Nightwatch package. |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-10-14 | A practical work management information system built with La... |
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 5 | 2026-10-14 | Durable execution for PHP: workflows that survive deploys, r... |
+| [filagora/filagora-forums](https://github.com/filagora/filagora-forums) | 0 | 2026-10-14 | Filagora forums: forum groups, forums, threads and posts, vi... |
+| [freepeace13/laraversine](https://github.com/freepeace13/laraversine) | 2 | 2026-10-14 | Laraversine is a laravel package that uses haversine formula... |
+| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-10-14 | A standard suite of essentials for every Laravel app you bui... |
+| [artisan-toolbox/mosaicast](https://github.com/artisan-toolbox/mosaicast) | 0 | 2026-10-14 | Mosaicast is a Laravel event delivery package that intellige... |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 0 | 2026-10-14 | Plataforma de planeación y control de producción para manufa... |
+| [effina/Larastitial](https://github.com/effina/Larastitial) | 0 | 2026-10-14 | Laravel interstitial package for creating and managing inter... |
+| [filakitphp/basev3](https://github.com/filakitphp/basev3) | 2 | 2026-10-14 | Base starter kit built on Laravel 13.x and Filament 3.x with... |
+| [joshdonnell/skeleton-package](https://github.com/joshdonnell/skeleton-package) | 0 | 2026-10-14 | A barebones skeleton for building Laravel packages pre-confi... |
+| [filagora/filagora-entitlements](https://github.com/filagora/filagora-entitlements) | 0 | 2026-10-14 | Filagora entitlements: definitions, grants, requests, a cach... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-14 | A multi-purpose content and application platform for Laravel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-14T18:38 | 10 | 1707 | 7220 |
 | 2026-10-14T12:41 | 10 | 1709 | 7210 |
 | 2026-10-14T06:47 | 9 | 1710 | 7201 |
 | 2026-10-14T01:00 | 2 | 1715 | 7192 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-13T01:14 | 8 | 1701 | 7128 |
 | 2026-10-12T18:40 | 3 | 1706 | 7120 |
 | 2026-10-12T13:03 | 11 | 1698 | 7117 |
-| 2026-10-12T07:09 | 3 | 1711 | 7106 |
 
 ---
 

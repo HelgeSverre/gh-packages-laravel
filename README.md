@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7230  
-**Last updated:** 2026-10-15T06:47:23.334Z
+**Total packages tracked:** 7235  
+**Last updated:** 2026-10-15T12:43:04.290Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [asyntai/filament-ai-chatbot](https://github.com/asyntai/filament-ai-chatbot) | 0 | AI chatbot for Filament: add an AI chat assistant to your Filament panels that a... |
+| [welldigit/kalimera](https://github.com/welldigit/kalimera) | 0 | Interactive CLI installer that scaffolds fresh Laravel apps: one unattended run ... |
+| [byteminus/laravel-ai-blog](https://github.com/byteminus/laravel-ai-blog) | 6 | Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an ... |
+| [RodosGrup/iyzi-laravel](https://github.com/RodosGrup/iyzi-laravel) | 1 | Iyzico Laravel Package |
+| [DKBSDEV-TEAM/dkbsign-sdk-laravel](https://github.com/DKBSDEV-TEAM/dkbsign-sdk-laravel) | 0 | Package for implementing DKBSign API using Laravel |
 | [filagora/filagora-messages](https://github.com/filagora/filagora-messages) | 0 | Private conversations between members, with folders, read state and trash, for F... |
 | [JuiceboxCreative/laravel-apistacker](https://github.com/JuiceboxCreative/laravel-apistacker) | 0 | Installable package for Laravel frameworks as a starter to aid with API related ... |
 | [firumon/dbc](https://github.com/firumon/dbc) | 0 | Digital Business Card - Laravel Package Backend Codebase  |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [AaronSiekiera403/soketi-app-manager-filament](https://github.com/AaronSiekiera403/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [Laurab471/soketi-app-manager-filament](https://github.com/Laurab471/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [ru5iru/api-mock-service](https://github.com/ru5iru/api-mock-service) | 0 | Self-hosted API mocking with Laravel and Livewire. Import cURL or Postman collec... |
-| [chas688/qboAuth](https://github.com/chas688/qboAuth) | 0 | Laravel demo package for Authenticating with QBO using Intuit's SDK |
-| [x-laravel/validation-tr-citizen-number-extend](https://github.com/x-laravel/validation-tr-citizen-number-extend) | 0 | Turkey citizen number (TC No) validation extend package for Laravel. |
-| [HawkForge/laravel-ai-blog](https://github.com/HawkForge/laravel-ai-blog) | 6 | Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an ... |
-| [effina/Larastitial](https://github.com/effina/Larastitial) | 0 | Laravel interstitial package for creating and managing interstitials |
-| [ashrafbendary/laravel-secure-email](https://github.com/ashrafbendary/laravel-secure-email) | 0 | ses compatible package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 5 | 2026-10-15 | Durable execution for PHP: workflows that survive deploys, r... |
-| [Taldres/laravel-last-seen](https://github.com/Taldres/laravel-last-seen) | 1 | 2026-10-15 | Track and display the last time a user was active in your La... |
-| [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 0 | 2026-10-15 | Open-source, self-hosted deployment panel. Push to deploy La... |
-| [JuiceboxCreative/laravel-apistacker](https://github.com/JuiceboxCreative/laravel-apistacker) | 0 | 2026-10-15 | Installable package for Laravel frameworks as a starter to a... |
-| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 100 | 2026-10-15 | A Filament package to manage adjacency lists (aka trees). |
+| [vibefilter/filament](https://github.com/vibefilter/filament) | 4 | 2026-10-15 | Filter Filament tables with a plain-English statement. Each ... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 16 | 2026-10-15 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [AbanGateway/abangateway-php-package](https://github.com/AbanGateway/abangateway-php-package) | 0 | 2026-10-15 | AbanGateway for PHP and Laravel |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-15 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-15 | A multi-purpose content and application platform for Laravel... |
-| [openric/service](https://github.com/openric/service) | 0 | 2026-10-15 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-15 | Open-source, self-hosted video processing & delivery engine ... |
+| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-10-15 | Balcony weather station in Plzeň: an ESP32 measuring tempera... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-15 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [PHP-CMSIG/seal-laravel-package](https://github.com/PHP-CMSIG/seal-laravel-package) | 4 | 2026-10-15 | An integration of CMS-IG SEAL search abstraction into Larave... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 73 | 2026-10-15 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-15 | The NativePHP website |
 | [mooxphp/moox](https://github.com/mooxphp/moox) | 157 | 2026-10-15 | The Moox Project - Packages for Filament and Laravel |
-| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-10-15 | Official Laravel package for VeliraPay crypto payments: a fa... |
-| [jeffersongoncalves/laravel-sso-client](https://github.com/jeffersongoncalves/laravel-sso-client) | 1 | 2026-10-15 | SSO client for Laravel: Authorization Code + PKCE login, RS2... |
-| [foxws/laravel-shaka](https://github.com/foxws/laravel-shaka) | 2 | 2026-10-15 | A Laravel integration for Google's Shaka Packager, enabling ... |
-| [php-regex/regex-laravel](https://github.com/php-regex/regex-laravel) | 0 | 2026-10-15 | [READ-ONLY] Laravel integration for PHPRegex: the Regex serv... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-10-15 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [fkrzski/laravel-canonical](https://github.com/fkrzski/laravel-canonical) | 2 | 2026-10-15 | Laravel package for managing canonical URLs and preventing d... |
-| [luisfernando2607/SolarMed](https://github.com/luisfernando2607/SolarMed) | 1 | 2026-10-15 | Sistema de gestión clínica con Laravel 12 + Livewire 3: turn... |
-| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-15 | A job board where a company's silence shows. Laravel, Livewi... |
-| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-15 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
-| [Maya-AQSS/shared-auth-laravel](https://github.com/Maya-AQSS/shared-auth-laravel) | 0 | 2026-10-15 | Read-only mirror of packages/php/shared-auth-laravel from ma... |
-| [Maya-AQSS/shared-http-laravel](https://github.com/Maya-AQSS/shared-http-laravel) | 0 | 2026-10-15 | Read-only mirror of packages/php/shared-http-laravel from ma... |
+| [it-healer/laravel-evm](https://github.com/it-healer/laravel-evm) | 1 | 2026-10-15 | A Laravel package for working with any EVM network (Ethereum... |
+| [ringlesoft/laravel-accounting](https://github.com/ringlesoft/laravel-accounting) | 0 | 2026-10-15 |  A feature-rich Laravel package for complete accounting mana... |
+| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 0 | 2026-10-15 | AI-made how-to videos of your Laravel app. Describe a flow, ... |
+| [lara-zeus/dynamic-dashboard](https://github.com/lara-zeus/dynamic-dashboard) | 16 | 2026-10-15 | simple way to manage widgets and layout for your website lan... |
+| [clickfwd/yoyo](https://github.com/clickfwd/yoyo) | 207 | 2026-10-15 | Yoyo is a full-stack PHP framework to create rich, dynamic i... |
+| [bajoski34/Laravel](https://github.com/bajoski34/Laravel) | 7 | 2026-10-15 | The Official Flutterwave package for Laravel |
+| [amarenkov/laravel-mutable-content-finance](https://github.com/amarenkov/laravel-mutable-content-finance) | 0 | 2026-10-15 | Personal finance domain for laravel-mutable-content: account... |
+| [amarenkov/laravel-mutable-content-tasks](https://github.com/amarenkov/laravel-mutable-content-tasks) | 0 | 2026-10-15 | Task domain for laravel-mutable-content: tasks, participants... |
+| [innovativesprout/laravel-maya-sdk](https://github.com/innovativesprout/laravel-maya-sdk) | 1 | 2026-10-15 | Simplify Maya API integration for efficient checkout using o... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-15T12:43 | 5 | 1715 | 7235 |
 | 2026-10-15T06:47 | 3 | 1716 | 7230 |
 | 2026-10-15T00:59 | 7 | 1714 | 7227 |
 | 2026-10-14T18:38 | 10 | 1707 | 7220 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-13T18:41 | 53 | 1663 | 7190 |
 | 2026-10-13T12:48 | 5 | 1705 | 7137 |
 | 2026-10-13T06:55 | 4 | 1705 | 7132 |
-| 2026-10-13T01:14 | 8 | 1701 | 7128 |
 
 ---
 

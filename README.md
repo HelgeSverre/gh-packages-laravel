@@ -2,14 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7227  
-**Last updated:** 2026-10-15T00:59:01.978Z
+**Total packages tracked:** 7230  
+**Last updated:** 2026-10-15T06:47:23.334Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [Krixx1337/filament-licensekit](https://github.com/Krixx1337/filament-licensekit) | 4 | Filament plugin for self-hosted software licensing |
+| [filagora/filagora-messages](https://github.com/filagora/filagora-messages) | 0 | Private conversations between members, with folders, read state and trash, for F... |
+| [JuiceboxCreative/laravel-apistacker](https://github.com/JuiceboxCreative/laravel-apistacker) | 0 | Installable package for Laravel frameworks as a starter to aid with API related ... |
+| [firumon/dbc](https://github.com/firumon/dbc) | 0 | Digital Business Card - Laravel Package Backend Codebase  |
+| [Krixx1337/filament-licensekit](https://github.com/Krixx1337/filament-licensekit) | 4 | Your software, your rules. Self-hosted licensing for Laravel & Filament. 🔑 |
 | [aantanaskovic/realtime-chat](https://github.com/aantanaskovic/realtime-chat) | 0 | A real-time team collaboration platform built with Laravel, Livewire, and Tailwi... |
 | [mykholy/laravel-flowguard](https://github.com/mykholy/laravel-flowguard) | 0 | Laravel idempotency, durable webhook inbox, transactional outbox, and explicit r... |
 | [ringlesoft/laravel-accounting](https://github.com/ringlesoft/laravel-accounting) | 0 |  A feature-rich Laravel package for complete accounting management and IFRS repo... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [HawkForge/laravel-ai-blog](https://github.com/HawkForge/laravel-ai-blog) | 6 | Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an ... |
 | [effina/Larastitial](https://github.com/effina/Larastitial) | 0 | Laravel interstitial package for creating and managing interstitials |
 | [ashrafbendary/laravel-secure-email](https://github.com/ashrafbendary/laravel-secure-email) | 0 | ses compatible package |
-| [tkozelek/cnmx_zmeny](https://github.com/tkozelek/cnmx_zmeny) | 0 | Shift planning app used by about 30 cinema staff: weekly sign-up calendar, absen... |
-| [moessimple/laravel-starter-kit-livewire](https://github.com/moessimple/laravel-starter-kit-livewire) | 0 | Blank Laravel 13 + Livewire 4 skeleton for PHP 8.5 with the quality gate and dev... |
-| [Mominde92/sirah-cv](https://github.com/Mominde92/sirah-cv) | 0 | Bilingual (EN/AR, RTL) ATS-friendly CV builder SaaS — Laravel 12, Livewire 4, Ta... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [gplanchat/durable-dev](https://github.com/gplanchat/durable-dev) | 5 | 2026-10-15 | Durable execution for PHP: workflows that survive deploys, r... |
+| [Taldres/laravel-last-seen](https://github.com/Taldres/laravel-last-seen) | 1 | 2026-10-15 | Track and display the last time a user was active in your La... |
 | [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 0 | 2026-10-15 | Open-source, self-hosted deployment panel. Push to deploy La... |
-| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 12 | 2026-10-15 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-10-15 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
-| [mykholy/laravel-flowguard](https://github.com/mykholy/laravel-flowguard) | 0 | 2026-10-15 | Laravel idempotency, durable webhook inbox, transactional ou... |
+| [JuiceboxCreative/laravel-apistacker](https://github.com/JuiceboxCreative/laravel-apistacker) | 0 | 2026-10-15 | Installable package for Laravel frameworks as a starter to a... |
+| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 100 | 2026-10-15 | A Filament package to manage adjacency lists (aka trees). |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-15 | A multi-purpose content and application platform for Laravel... |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-10-15 | NativeKit starter kit built on Laravel 13.x, Filament 3.x an... |
-| [ringlesoft/laravel-accounting](https://github.com/ringlesoft/laravel-accounting) | 0 | 2026-10-15 |  A feature-rich Laravel package for complete accounting mana... |
-| [jeffersongoncalves/filament-one-time-operations](https://github.com/jeffersongoncalves/filament-one-time-operations) | 2 | 2026-10-15 | This is a Laravel Filament package that provides a One Time ... |
-| [jeffersongoncalves/laravel-simple-analytics](https://github.com/jeffersongoncalves/laravel-simple-analytics) | 1 | 2026-10-15 | Simple Analytics for Laravel: inject the tracking script in ... |
-| [leonardo-max/new-here](https://github.com/leonardo-max/new-here) | 0 | 2026-10-15 | Show each Filament user what's new right where it lives: pul... |
-| [jeffersongoncalves/filament-goatcounter](https://github.com/jeffersongoncalves/filament-goatcounter) | 1 | 2026-10-15 | Filament plugin for GoatCounter: injects the tracking script... |
-| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-10-15 | An up-to-date SDK package for all your Teamleader API needs! |
-| [jeffersongoncalves/laravel-image-cache](https://github.com/jeffersongoncalves/laravel-image-cache) | 1 | 2026-10-15 | SSRF-safe remote image fetch-and-cache for Laravel: pinned r... |
-| [filagora/filagora-forums](https://github.com/filagora/filagora-forums) | 0 | 2026-10-15 | Filagora forums: forum groups, forums, threads and posts, vi... |
-| [Krixx1337/filament-licensekit](https://github.com/Krixx1337/filament-licensekit) | 4 | 2026-10-15 | Filament plugin for self-hosted software licensing |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 374 | 2026-10-14 | The official Laravel Nightwatch package. |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-14 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-14 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [openric/service](https://github.com/openric/service) | 0 | 2026-10-14 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
-| [jamesgifford/hold](https://github.com/jamesgifford/hold) | 1 | 2026-10-14 | Reusable "coming soon" (pre-launch) and enhanced maintenance... |
+| [openric/service](https://github.com/openric/service) | 0 | 2026-10-15 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-15 | Open-source, self-hosted video processing & delivery engine ... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 157 | 2026-10-15 | The Moox Project - Packages for Filament and Laravel |
+| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-10-15 | Official Laravel package for VeliraPay crypto payments: a fa... |
+| [jeffersongoncalves/laravel-sso-client](https://github.com/jeffersongoncalves/laravel-sso-client) | 1 | 2026-10-15 | SSO client for Laravel: Authorization Code + PKCE login, RS2... |
+| [foxws/laravel-shaka](https://github.com/foxws/laravel-shaka) | 2 | 2026-10-15 | A Laravel integration for Google's Shaka Packager, enabling ... |
+| [php-regex/regex-laravel](https://github.com/php-regex/regex-laravel) | 0 | 2026-10-15 | [READ-ONLY] Laravel integration for PHPRegex: the Regex serv... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-10-15 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [fkrzski/laravel-canonical](https://github.com/fkrzski/laravel-canonical) | 2 | 2026-10-15 | Laravel package for managing canonical URLs and preventing d... |
+| [luisfernando2607/SolarMed](https://github.com/luisfernando2607/SolarMed) | 1 | 2026-10-15 | Sistema de gestión clínica con Laravel 12 + Livewire 3: turn... |
+| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-15 | A job board where a company's silence shows. Laravel, Livewi... |
+| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-15 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
+| [Maya-AQSS/shared-auth-laravel](https://github.com/Maya-AQSS/shared-auth-laravel) | 0 | 2026-10-15 | Read-only mirror of packages/php/shared-auth-laravel from ma... |
+| [Maya-AQSS/shared-http-laravel](https://github.com/Maya-AQSS/shared-http-laravel) | 0 | 2026-10-15 | Read-only mirror of packages/php/shared-http-laravel from ma... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-15T06:47 | 3 | 1716 | 7230 |
 | 2026-10-15T00:59 | 7 | 1714 | 7227 |
 | 2026-10-14T18:38 | 10 | 1707 | 7220 |
 | 2026-10-14T12:41 | 10 | 1709 | 7210 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-13T12:48 | 5 | 1705 | 7137 |
 | 2026-10-13T06:55 | 4 | 1705 | 7132 |
 | 2026-10-13T01:14 | 8 | 1701 | 7128 |
-| 2026-10-12T18:40 | 3 | 1706 | 7120 |
 
 ---
 

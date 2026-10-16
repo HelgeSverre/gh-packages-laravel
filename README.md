@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 7246  
-**Last updated:** 2026-10-16T00:58:48.396Z
+**Last updated:** 2026-10-16T06:47:14.343Z
 
 ## 📦 Recently Discovered
 
@@ -41,7 +41,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 473 | A Qiniu Storage filesystem for Laravel |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 468 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 469 | Open Source Laravel CRM Package |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 465 | A simple package to help integrate Cloudflare Turnstile. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-16 | The flexible backbone for your next CMS. This powerful frame... |
-| [mmstewart/laravel-x-ray](https://github.com/mmstewart/laravel-x-ray) | 0 | 2026-10-16 | Laravel X-Ray is pre-upgrade readiness scanner for Laravel. ... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-16 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-16 | A job board where a company's silence shows. Laravel, Livewi... |
-| [mk-josias/laravel-distributable-modules-core](https://github.com/mk-josias/laravel-distributable-modules-core) | 0 | 2026-10-16 | Read-only split of packages/core from mk-josias/laravel-dist... |
-| [mk-josias/laravel-distributable-modules](https://github.com/mk-josias/laravel-distributable-modules) | 0 | 2026-10-16 | Design each Laravel module as a microservice: a context boun... |
-| [anabiiil/laravel-wallet](https://github.com/anabiiil/laravel-wallet) | 0 | 2026-10-16 | Race-safe Laravel wallets with an immutable ledger, multi-gu... |
-| [mk-josias/laravel-microservices-rpc-http](https://github.com/mk-josias/laravel-microservices-rpc-http) | 0 | 2026-10-16 | Read-only split of packages/http-rpc from mk-josias/laravel-... |
-| [mk-josias/laravel-microservices-core](https://github.com/mk-josias/laravel-microservices-core) | 0 | 2026-10-16 | Read-only split of packages/core from mk-josias/laravel-micr... |
-| [mk-josias/laravel-microservices-stream-queue](https://github.com/mk-josias/laravel-microservices-stream-queue) | 0 | 2026-10-16 | Read-only split of packages/queue-event-stream from mk-josia... |
-| [mk-josias/laravel-microservices-stream-redis](https://github.com/mk-josias/laravel-microservices-stream-redis) | 0 | 2026-10-16 | Read-only split of packages/redis-event-stream from mk-josia... |
-| [mk-josias/laravel-microservices](https://github.com/mk-josias/laravel-microservices) | 0 | 2026-10-16 | Laravel apps as microservices: signed RPC through contracts,... |
-| [Clearsoft-net/easysql-php-laravel](https://github.com/Clearsoft-net/easysql-php-laravel) | 0 | 2026-10-16 | EasySQL PHP SDK — laravel package (read-only split mirror) |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-15 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-10-15 | Package to manage medias within Laravel |
-| [nereauweb/mercatura](https://github.com/nereauweb/mercatura) | 0 | 2026-10-15 | Open-source e-commerce core for B2B and B2C shops on Laravel... |
-| [HoceineEl/filament-keyboard-shortcuts](https://github.com/HoceineEl/filament-keyboard-shortcuts) | 3 | 2026-10-15 | Keyboard shortcuts for Filament panels: a ? cheat sheet, g-c... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-10-15 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 0 | 2026-10-15 | AI-made how-to videos of your Laravel app. Describe a flow, ... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-15 | A multi-purpose content and application platform for Laravel... |
+| [Elvesora/latidoflow-laravel](https://github.com/Elvesora/latidoflow-laravel) | 0 | 2026-10-16 | Laravel package for monitoring scheduled tasks and selected ... |
+| [businesstilto/commentable](https://github.com/businesstilto/commentable) | 18 | 2026-10-16 | An extensive and very customizable package that adds comment... |
+| [pushery/polyslug-for-laravel](https://github.com/pushery/polyslug-for-laravel) | 6 | 2026-10-16 | Polyslug gives Laravel Eloquent models multilingual, polymor... |
+| [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 20 | 2026-10-16 | AI observability package for Laravel |
+| [VanOns/laravel-translations-sync](https://github.com/VanOns/laravel-translations-sync) | 0 | 2026-10-16 | A package that synchronizes translations between your Larave... |
+| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-10-16 | Filament package for easy attachment uploading and browsing. |
+| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | 2026-10-16 | A Laravel library for attaching files to Eloquent models. |
+| [sdon2/cloud-sass](https://github.com/sdon2/cloud-sass) | 0 | 2026-10-16 | Package to Convert LARAVEL APPLICATION to SASS |
+| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 69 | 2026-10-16 | The ultimate form components kit and custom fields builder f... |
+| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 162 | 2026-10-16 | HTTP Idempotency Middleware for Laravel applications |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 1 | 2026-10-16 | A Laravel package to interact with the Studizz API |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-10-16 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [openric/service](https://github.com/openric/service) | 0 | 2026-10-16 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
+| [asignua/filament-mail-log](https://github.com/asignua/filament-mail-log) | 1 | 2026-10-16 | Read-only log of every outgoing Laravel mail in Filament 5: ... |
+| [starnerz/laravel-daraja](https://github.com/starnerz/laravel-daraja) | 7 | 2026-10-16 | Every Safaricom M-Pesa Daraja API as ordinary Laravel code —... |
+| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-16 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
+| [mozex/laravel-modules](https://github.com/mozex/laravel-modules) | 6 | 2026-10-16 | Laravel package that auto-discovers and registers module ass... |
+| [pushery/fortify-hardening-for-laravel](https://github.com/pushery/fortify-hardening-for-laravel) | 1 | 2026-10-16 | Prevent account enumeration in Laravel Fortify with neutral ... |
+| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 46 | 2026-10-16 | Passwordless email magic-link & OTP authentication for Larav... |
+| [jeffersongoncalves/laravel-gtm](https://github.com/jeffersongoncalves/laravel-gtm) | 4 | 2026-10-16 | Laravel package for Google Tag Manager (GTM) integration wit... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-16T06:47 | 0 | 1725 | 7246 |
 | 2026-10-16T00:58 | 5 | 1720 | 7246 |
 | 2026-10-15T18:37 | 6 | 1717 | 7241 |
 | 2026-10-15T12:43 | 5 | 1715 | 7235 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-14T12:41 | 10 | 1709 | 7210 |
 | 2026-10-14T06:47 | 9 | 1710 | 7201 |
 | 2026-10-14T01:00 | 2 | 1715 | 7192 |
-| 2026-10-13T18:41 | 53 | 1663 | 7190 |
 
 ---
 

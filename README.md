@@ -2,15 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7241  
-**Last updated:** 2026-10-15T18:37:07.088Z
+**Total packages tracked:** 7246  
+**Last updated:** 2026-10-16T00:58:48.396Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [MarilynIyer36317/soketi-app-manager-filament](https://github.com/MarilynIyer36317/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [anabiiil/laravel-wallet](https://github.com/anabiiil/laravel-wallet) | 0 | Race-safe Laravel wallets with an immutable ledger, multi-guard holders, transfe... |
+| [amarenkov/laravel-mutable-content-shop](https://github.com/amarenkov/laravel-mutable-content-shop) | 0 | Shop domain for laravel-mutable-content: carts of users and guests, orders with ... |
+| [RussellMoore1987/Core-Integration-Laravel](https://github.com/RussellMoore1987/Core-Integration-Laravel) | 1 | This project is taking the concepts from the Core Integration framework and appl... |
+| [inertiapixel/laravel-log-viewer](https://github.com/inertiapixel/laravel-log-viewer) | 0 | A feature-rich Laravel log viewer package with searchable logs, advanced filters... |
 | [Sandrez12/Gestor-de-Inventario](https://github.com/Sandrez12/Gestor-de-Inventario) | 0 | Gestor de inventario para almacenes pequeños: productos, clientes, proveedores, ... |
-| [Quittio/quittio](https://github.com/Quittio/quittio) | 6 | E-invoicing for Laravel: ZUGFeRD/Factur-X, XRechnung, UBL and Peppol BIS based o... |
+| [Quittio/quittio](https://github.com/Quittio/quittio) | 9 | E-invoicing for Laravel: ZUGFeRD/Factur-X, XRechnung, UBL and Peppol BIS based o... |
 | [Quittio/laravel](https://github.com/Quittio/laravel) | 0 | [READ ONLY] Subtree split of the Quittio Laravel integration. Issues and pull re... |
 | [IntegradSI/laravel-db-deeper](https://github.com/IntegradSI/laravel-db-deeper) | 0 | An independent Laravel package for creating, protecting, storing, and restoring ... |
 | [Sammie-web/another-ai-database-assistant](https://github.com/Sammie-web/another-ai-database-assistant) | 0 | An installable Laravel 13 package for an existing authenticated application. Inc... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [JuiceboxCreative/laravel-apistacker](https://github.com/JuiceboxCreative/laravel-apistacker) | 0 | Installable package for Laravel frameworks as a starter to aid with API related ... |
 | [firumon/dbc](https://github.com/firumon/dbc) | 0 | Digital Business Card - Laravel Package Backend Codebase  |
 | [Krixx1337/filament-licensekit](https://github.com/Krixx1337/filament-licensekit) | 4 | Your software, your rules. Self-hosted licensing for Laravel & Filament. 🔑 |
-| [aantanaskovic/realtime-chat](https://github.com/aantanaskovic/realtime-chat) | 0 | A real-time team collaboration platform built with Laravel, Livewire, and Tailwi... |
-| [mykholy/laravel-flowguard](https://github.com/mykholy/laravel-flowguard) | 0 | Laravel idempotency, durable webhook inbox, transactional outbox, and explicit r... |
-| [ringlesoft/laravel-accounting](https://github.com/ringlesoft/laravel-accounting) | 0 |  A feature-rich Laravel package for complete accounting management and IFRS repo... |
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | Laravel package to create administration dashboards |
-| [chas688/qbo-auth](https://github.com/chas688/qbo-auth) | 0 | Laravel demo package for Authenticating with QBO using Intuit's SDK |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 1 | 2026-10-15 | Plataforma de planeación y control de producción para manufa... |
-| [ashanda/laravel-otp-package](https://github.com/ashanda/laravel-otp-package) | 0 | 2026-10-15 |  |
-| [GTS-MEGHNI/laravel-essentials-kit](https://github.com/GTS-MEGHNI/laravel-essentials-kit) | 0 | 2026-10-15 | Kick off a Laravel API with the boilerplate already written:... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-16 | The flexible backbone for your next CMS. This powerful frame... |
+| [mmstewart/laravel-x-ray](https://github.com/mmstewart/laravel-x-ray) | 0 | 2026-10-16 | Laravel X-Ray is pre-upgrade readiness scanner for Laravel. ... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-16 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-16 | A job board where a company's silence shows. Laravel, Livewi... |
+| [mk-josias/laravel-distributable-modules-core](https://github.com/mk-josias/laravel-distributable-modules-core) | 0 | 2026-10-16 | Read-only split of packages/core from mk-josias/laravel-dist... |
+| [mk-josias/laravel-distributable-modules](https://github.com/mk-josias/laravel-distributable-modules) | 0 | 2026-10-16 | Design each Laravel module as a microservice: a context boun... |
+| [anabiiil/laravel-wallet](https://github.com/anabiiil/laravel-wallet) | 0 | 2026-10-16 | Race-safe Laravel wallets with an immutable ledger, multi-gu... |
+| [mk-josias/laravel-microservices-rpc-http](https://github.com/mk-josias/laravel-microservices-rpc-http) | 0 | 2026-10-16 | Read-only split of packages/http-rpc from mk-josias/laravel-... |
+| [mk-josias/laravel-microservices-core](https://github.com/mk-josias/laravel-microservices-core) | 0 | 2026-10-16 | Read-only split of packages/core from mk-josias/laravel-micr... |
+| [mk-josias/laravel-microservices-stream-queue](https://github.com/mk-josias/laravel-microservices-stream-queue) | 0 | 2026-10-16 | Read-only split of packages/queue-event-stream from mk-josia... |
+| [mk-josias/laravel-microservices-stream-redis](https://github.com/mk-josias/laravel-microservices-stream-redis) | 0 | 2026-10-16 | Read-only split of packages/redis-event-stream from mk-josia... |
+| [mk-josias/laravel-microservices](https://github.com/mk-josias/laravel-microservices) | 0 | 2026-10-16 | Laravel apps as microservices: signed RPC through contracts,... |
+| [Clearsoft-net/easysql-php-laravel](https://github.com/Clearsoft-net/easysql-php-laravel) | 0 | 2026-10-16 | EasySQL PHP SDK — laravel package (read-only split mirror) |
 | [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-15 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [jeffersongoncalves/filament-translation-manager](https://github.com/jeffersongoncalves/filament-translation-manager) | 1 | 2026-10-15 | Translation manager for Filament: edit app, JSON and vendor ... |
-| [mnapoli/dotlock](https://github.com/mnapoli/dotlock) | 16 | 2026-10-15 | Secure secrets for local Laravel development |
-| [Krixx1337/filament-licensekit](https://github.com/Krixx1337/filament-licensekit) | 4 | 2026-10-15 | Your software, your rules. Self-hosted licensing for Laravel... |
-| [cable8mm/laravel-portone](https://github.com/cable8mm/laravel-portone) | 0 | 2026-10-15 | 한국의 PG사 포트원(PortOne) V2 단건 결제를 위한 Laravel 패키지입니다. Laravel Ca... |
-| [Sandrez12/Gestor-de-Inventario](https://github.com/Sandrez12/Gestor-de-Inventario) | 0 | 2026-10-15 | Gestor de inventario para almacenes pequeños: productos, cli... |
+| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-10-15 | Package to manage medias within Laravel |
 | [nereauweb/mercatura](https://github.com/nereauweb/mercatura) | 0 | 2026-10-15 | Open-source e-commerce core for B2B and B2C shops on Laravel... |
-| [zielu92/filament-image-labeler](https://github.com/zielu92/filament-image-labeler) | 3 | 2026-10-15 | Filament v5 plugin for labeling images with rectangles and p... |
-| [semitexa/laravel-ai-verify](https://github.com/semitexa/laravel-ai-verify) | 1 | 2026-10-15 | Stop Claude Code, Cursor & Codex from faking "done" in Larav... |
-| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-15 | A job board where a company's silence shows. Laravel, Livewi... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Taldres/laravel-last-seen](https://github.com/Taldres/laravel-last-seen) | 1 | 2026-10-15 | Track and display the last time a user was active in your La... |
-| [bajoski34/Laravel](https://github.com/bajoski34/Laravel) | 7 | 2026-10-15 | The Official Flutterwave package for Laravel |
-| [edulazaro/laratext](https://github.com/edulazaro/laratext) | 77 | 2026-10-15 | A Laravel package to easily handle translated texts and tran... |
-| [usamatoor1993/firebase-notifications](https://github.com/usamatoor1993/firebase-notifications) | 0 | 2026-10-15 | Send Firebase Cloud Messaging (FCM) push notifications in La... |
-| [jeffersongoncalves/filament-simple-analytics](https://github.com/jeffersongoncalves/filament-simple-analytics) | 1 | 2026-10-15 | Filament plugin for Simple Analytics: injects the tracking s... |
-| [tomatophp/filament-cms-github](https://github.com/tomatophp/filament-cms-github) | 0 | 2026-10-15 | Github integration to import your repo docs README files as ... |
+| [HoceineEl/filament-keyboard-shortcuts](https://github.com/HoceineEl/filament-keyboard-shortcuts) | 3 | 2026-10-15 | Keyboard shortcuts for Filament panels: a ? cheat sheet, g-c... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-10-15 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 0 | 2026-10-15 | AI-made how-to videos of your Laravel app. Describe a flow, ... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-15 | A multi-purpose content and application platform for Laravel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-16T00:58 | 5 | 1720 | 7246 |
 | 2026-10-15T18:37 | 6 | 1717 | 7241 |
 | 2026-10-15T12:43 | 5 | 1715 | 7235 |
 | 2026-10-15T06:47 | 3 | 1716 | 7230 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-14T06:47 | 9 | 1710 | 7201 |
 | 2026-10-14T01:00 | 2 | 1715 | 7192 |
 | 2026-10-13T18:41 | 53 | 1663 | 7190 |
-| 2026-10-13T12:48 | 5 | 1705 | 7137 |
 
 ---
 

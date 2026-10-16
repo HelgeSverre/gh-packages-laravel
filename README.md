@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7246  
-**Last updated:** 2026-10-16T06:47:14.343Z
+**Total packages tracked:** 7255  
+**Last updated:** 2026-10-16T12:42:22.452Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Papageorgiou07/soketi-app-manager-filament](https://github.com/Papageorgiou07/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [ejaworski6410/soketi-app-manager-filament](https://github.com/ejaworski6410/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [Willem91473/soketi-app-manager-filament](https://github.com/Willem91473/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [somchairaza95/soketi-app-manager-filament](https://github.com/somchairaza95/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [dev-think-one/laravel-forms-entries](https://github.com/dev-think-one/laravel-forms-entries) | 0 | Package to save forms entries and send notifications. |
+| [HeleneMirza/laravel-devtoolbox](https://github.com/HeleneMirza/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [maryamh03434/laravel-devtoolbox](https://github.com/maryamh03434/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [huseyin4634/laravel-devtoolbox](https://github.com/huseyin4634/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [kraenzle-ritter/nara-risk](https://github.com/kraenzle-ritter/nara-risk) | 0 | Laravel package for NARA Digital Preservation Framework risk assessment |
 | [MarilynIyer36317/soketi-app-manager-filament](https://github.com/MarilynIyer36317/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [anabiiil/laravel-wallet](https://github.com/anabiiil/laravel-wallet) | 0 | Race-safe Laravel wallets with an immutable ledger, multi-guard holders, transfe... |
 | [amarenkov/laravel-mutable-content-shop](https://github.com/amarenkov/laravel-mutable-content-shop) | 0 | Shop domain for laravel-mutable-content: carts of users and guests, orders with ... |
 | [RussellMoore1987/Core-Integration-Laravel](https://github.com/RussellMoore1987/Core-Integration-Laravel) | 1 | This project is taking the concepts from the Core Integration framework and appl... |
 | [inertiapixel/laravel-log-viewer](https://github.com/inertiapixel/laravel-log-viewer) | 0 | A feature-rich Laravel log viewer package with searchable logs, advanced filters... |
 | [Sandrez12/Gestor-de-Inventario](https://github.com/Sandrez12/Gestor-de-Inventario) | 0 | Gestor de inventario para almacenes pequeños: productos, clientes, proveedores, ... |
-| [Quittio/quittio](https://github.com/Quittio/quittio) | 9 | E-invoicing for Laravel: ZUGFeRD/Factur-X, XRechnung, UBL and Peppol BIS based o... |
+| [Quittio/quittio](https://github.com/Quittio/quittio) | 14 | E-invoicing for Laravel: ZUGFeRD/Factur-X, XRechnung, UBL and Peppol BIS based o... |
 | [Quittio/laravel](https://github.com/Quittio/laravel) | 0 | [READ ONLY] Subtree split of the Quittio Laravel integration. Issues and pull re... |
 | [IntegradSI/laravel-db-deeper](https://github.com/IntegradSI/laravel-db-deeper) | 0 | An independent Laravel package for creating, protecting, storing, and restoring ... |
 | [Sammie-web/another-ai-database-assistant](https://github.com/Sammie-web/another-ai-database-assistant) | 0 | An installable Laravel 13 package for an existing authenticated application. Inc... |
 | [as-yakovenko/laravel-class-generator](https://github.com/as-yakovenko/laravel-class-generator) | 5 | A Laravel package to generate Service, Utility, Trait, Enum, and Helper classes |
-| [asyntai/filament-ai-chatbot](https://github.com/asyntai/filament-ai-chatbot) | 0 | AI chatbot for Filament: add an AI chat assistant to your Filament panels that a... |
-| [welldigit/kalimera](https://github.com/welldigit/kalimera) | 0 | Interactive CLI installer that scaffolds fresh Laravel apps: one unattended run ... |
-| [byteminus/laravel-ai-blog](https://github.com/byteminus/laravel-ai-blog) | 6 | Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an ... |
-| [RodosGrup/iyzi-laravel](https://github.com/RodosGrup/iyzi-laravel) | 1 | Iyzico Laravel Package |
-| [DKBSDEV-TEAM/dkbsign-sdk-laravel](https://github.com/DKBSDEV-TEAM/dkbsign-sdk-laravel) | 0 | Package for implementing DKBSign API using Laravel |
-| [filagora/filagora-messages](https://github.com/filagora/filagora-messages) | 0 | Private conversations between members, with folders, read state and trash, for F... |
-| [JuiceboxCreative/laravel-apistacker](https://github.com/JuiceboxCreative/laravel-apistacker) | 0 | Installable package for Laravel frameworks as a starter to aid with API related ... |
-| [firumon/dbc](https://github.com/firumon/dbc) | 0 | Digital Business Card - Laravel Package Backend Codebase  |
-| [Krixx1337/filament-licensekit](https://github.com/Krixx1337/filament-licensekit) | 4 | Your software, your rules. Self-hosted licensing for Laravel & Filament. 🔑 |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Elvesora/latidoflow-laravel](https://github.com/Elvesora/latidoflow-laravel) | 0 | 2026-10-16 | Laravel package for monitoring scheduled tasks and selected ... |
-| [businesstilto/commentable](https://github.com/businesstilto/commentable) | 18 | 2026-10-16 | An extensive and very customizable package that adds comment... |
-| [pushery/polyslug-for-laravel](https://github.com/pushery/polyslug-for-laravel) | 6 | 2026-10-16 | Polyslug gives Laravel Eloquent models multilingual, polymor... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-16 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [Quittio/laravel](https://github.com/Quittio/laravel) | 0 | 2026-10-16 | [READ ONLY] Subtree split of the Quittio Laravel integration... |
+| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 0 | 2026-10-16 | AI-made how-to videos of your Laravel app. Describe a flow, ... |
+| [clarkewing/handoff](https://github.com/clarkewing/handoff) | 0 | 2026-10-16 | Lightweight Laravel package for secure cross-application use... |
 | [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 20 | 2026-10-16 | AI observability package for Laravel |
-| [VanOns/laravel-translations-sync](https://github.com/VanOns/laravel-translations-sync) | 0 | 2026-10-16 | A package that synchronizes translations between your Larave... |
-| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-10-16 | Filament package for easy attachment uploading and browsing. |
-| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | 2026-10-16 | A Laravel library for attaching files to Eloquent models. |
-| [sdon2/cloud-sass](https://github.com/sdon2/cloud-sass) | 0 | 2026-10-16 | Package to Convert LARAVEL APPLICATION to SASS |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 69 | 2026-10-16 | The ultimate form components kit and custom fields builder f... |
-| [WendellAdriel/laravel-idempotency](https://github.com/WendellAdriel/laravel-idempotency) | 162 | 2026-10-16 | HTTP Idempotency Middleware for Laravel applications |
-| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 1 | 2026-10-16 | A Laravel package to interact with the Studizz API |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-10-16 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [openric/service](https://github.com/openric/service) | 0 | 2026-10-16 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
-| [asignua/filament-mail-log](https://github.com/asignua/filament-mail-log) | 1 | 2026-10-16 | Read-only log of every outgoing Laravel mail in Filament 5: ... |
-| [starnerz/laravel-daraja](https://github.com/starnerz/laravel-daraja) | 7 | 2026-10-16 | Every Safaricom M-Pesa Daraja API as ordinary Laravel code —... |
-| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-16 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
-| [mozex/laravel-modules](https://github.com/mozex/laravel-modules) | 6 | 2026-10-16 | Laravel package that auto-discovers and registers module ass... |
-| [pushery/fortify-hardening-for-laravel](https://github.com/pushery/fortify-hardening-for-laravel) | 1 | 2026-10-16 | Prevent account enumeration in Laravel Fortify with neutral ... |
-| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 46 | 2026-10-16 | Passwordless email magic-link & OTP authentication for Larav... |
-| [jeffersongoncalves/laravel-gtm](https://github.com/jeffersongoncalves/laravel-gtm) | 4 | 2026-10-16 | Laravel package for Google Tag Manager (GTM) integration wit... |
+| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-10-16 | MobileKit starter kit built on Laravel 13.x, Filament 3.x an... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 288 | 2026-10-16 | A live database structure viewer for Laravel that renders yo... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 74 | 2026-10-16 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [MichaMegretDeveloppementWeb/falcon-analytics](https://github.com/MichaMegretDeveloppementWeb/falcon-analytics) | 0 | 2026-10-16 | Package analytics laravel + livewire |
+| [Quittio/quittio](https://github.com/Quittio/quittio) | 14 | 2026-10-16 | E-invoicing for Laravel: ZUGFeRD/Factur-X, XRechnung, UBL an... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 19 | 2026-10-16 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [nereauweb/mercatura](https://github.com/nereauweb/mercatura) | 0 | 2026-10-16 | Open-source e-commerce core for B2B and B2C shops on Laravel... |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-10-16 | [READ ONLY] API Platform for Laravel |
+| [andydefer/laravel-reports](https://github.com/andydefer/laravel-reports) | 0 | 2026-10-16 | Package Laravel de signalement polymorphique avec pattern Re... |
+| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-10-16 | Toth is a Laravel package for database backup and snapshot m... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-10-16 | Laravel package providing OTP (One-Time Password) management... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-10-16 | Laravel package providing polymorphic comments with Reposito... |
+| [andydefer/laravel-likes](https://github.com/andydefer/laravel-likes) | 0 | 2026-10-16 | Laravel package providing polymorphic reactions (like, love,... |
+| [andydefer/laravel-totp](https://github.com/andydefer/laravel-totp) | 0 | 2026-10-16 | Laravel TOTP package for two-factor authentication with poly... |
+| [dev-think-one/laravel-forms-entries](https://github.com/dev-think-one/laravel-forms-entries) | 0 | 2026-10-16 | Package to save forms entries and send notifications. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-16T12:42 | 9 | 1719 | 7255 |
 | 2026-10-16T06:47 | 0 | 1725 | 7246 |
 | 2026-10-16T00:58 | 5 | 1720 | 7246 |
 | 2026-10-15T18:37 | 6 | 1717 | 7241 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-14T18:38 | 10 | 1707 | 7220 |
 | 2026-10-14T12:41 | 10 | 1709 | 7210 |
 | 2026-10-14T06:47 | 9 | 1710 | 7201 |
-| 2026-10-14T01:00 | 2 | 1715 | 7192 |
 
 ---
 

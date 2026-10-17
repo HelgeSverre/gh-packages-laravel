@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7273  
-**Last updated:** 2026-10-17T00:59:49.996Z
+**Total packages tracked:** 7274  
+**Last updated:** 2026-10-17T06:42:32.074Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [KielD-01/deploy.me](https://github.com/KielD-01/deploy.me) | 0 | Deploy your projects to your own servers over SSH: releases, Docker Compose, blu... |
 | [eduardoribeirodev/filament-kanban](https://github.com/eduardoribeirodev/filament-kanban) | 0 | Kanban boards for Filament with native filters, actions, card layouts, drag and ... |
 | [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | Laravel mail transport for Groundmail transactional email. Keep Mail::to()->send... |
 | [pnscripts/laravel-sentfold-lite](https://github.com/pnscripts/laravel-sentfold-lite) | 0 | Free archive of every e-mail your Laravel app sends, with secrets redacted befor... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [adilKhan72/laravel-pii-redactor](https://github.com/adilKhan72/laravel-pii-redactor) | 0 | Laravel package: redact PII (SSNs, account/routing/card numbers, emails, phones,... |
 | [ilBronza/accesses](https://github.com/ilBronza/accesses) | 0 | Laravel package for badges, assignments, access gates and access logs |
 | [dev-think-one/laravel-simple-image-manager](https://github.com/dev-think-one/laravel-simple-image-manager) | 3 | Simple package to save multiple images formats when upload an image. |
-| [Papageorgiou07/soketi-app-manager-filament](https://github.com/Papageorgiou07/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-17 | A multi-purpose content and application platform for Laravel... |
-| [ahmerthiserh/laravel-pos-backup](https://github.com/ahmerthiserh/laravel-pos-backup) | 0 | 2026-10-17 | A reusable Laravel package for automated MySQL database back... |
-| [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 6 | 2026-10-17 | Filament v5 plugin exposing Livewire Flux Pro components — D... |
-| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | 2026-10-17 | Laravel mail transport for Groundmail transactional email. K... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-10-17 | Ptah — Laravel package that forges complete module structure... |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 11 | 2026-10-17 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
-| [AIArmada/engagement](https://github.com/AIArmada/engagement) | 0 | 2026-10-17 | Laravel engagement package: follow, bookmark, respond, react... |
-| [jeffersongoncalves/filament-hidden-action](https://github.com/jeffersongoncalves/filament-hidden-action) | 9 | 2026-10-17 | This package provides a HiddenAction for Filament, allowing ... |
-| [mwguerra/web-terminal-stream](https://github.com/mwguerra/web-terminal-stream) | 3 | 2026-10-17 | A Stream-mode web terminal for Filament/Laravel: full intera... |
-| [dgtlss/easyerd](https://github.com/dgtlss/easyerd) | 6 | 2026-10-17 | A Laravel package to generate ERD (Entity Relationship Diagr... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-16 | The flexible backbone for your next CMS. This powerful frame... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-10-16 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-10-16 | A lightweight, convention-driven modular architecture packag... |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-10-16 | A Laravel package to handle AWS SNS notifications, providing... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-16 | Magic Framework Laravel backend starter package. |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 7 | 2026-10-16 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [offline-agency/laravel-cart](https://github.com/offline-agency/laravel-cart) | 2 | 2026-10-16 | A simple cart implementation for Laravel with fiscal support... |
-| [jeffersongoncalves/filament-sso-server](https://github.com/jeffersongoncalves/filament-sso-server) | 1 | 2026-10-16 | Filament plugin to manage clients and active sessions of jef... |
-| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-10-16 | 🔒 The missing package for Laravel Nova that lets you know w... |
-| [jeffersongoncalves/mobilekitv4](https://github.com/jeffersongoncalves/mobilekitv4) | 14 | 2026-10-16 | MobileKit starter kit built on Laravel 13.x, Filament 4.x an... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-10-17 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 74 | 2026-10-17 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-17 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-10-17 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 288 | 2026-10-17 | A live database structure viewer for Laravel that renders yo... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-10-17 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-10-17 | A Laravel package to handle AWS SNS notifications, providing... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-10-17 | A lightweight, convention-driven modular architecture packag... |
+| [jeffersongoncalves/filament-cookie-consent](https://github.com/jeffersongoncalves/filament-cookie-consent) | 8 | 2026-10-17 | Filament plugin for cookie consent with settings page - GDPR... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-17 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [andydefer/laravel-images](https://github.com/andydefer/laravel-images) | 0 | 2026-10-17 | Laravel package providing polymorphic image management with ... |
+| [andydefer/laravel-utils](https://github.com/andydefer/laravel-utils) | 0 | 2026-10-17 | Utility package for Laravel including Transformable proxies ... |
+| [andydefer/laravel-reports](https://github.com/andydefer/laravel-reports) | 0 | 2026-10-17 | Package Laravel de signalement polymorphique avec pattern Re... |
+| [andydefer/laravel-toth](https://github.com/andydefer/laravel-toth) | 0 | 2026-10-17 | Toth is a Laravel package for database backup and snapshot m... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-17 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 244 | 2026-10-17 | form builder for your users, with so many use cases |
+| [ITMOSOFT/laravel-settings](https://github.com/ITMOSOFT/laravel-settings) | 0 | 2026-10-17 | Reusable Laravel application settings package with database ... |
+| [andydefer/laravel-fcm-notifications](https://github.com/andydefer/laravel-fcm-notifications) | 0 | 2026-10-17 | Laravel package for Firebase Cloud Messaging notifications i... |
+| [andydefer/laravel-otp](https://github.com/andydefer/laravel-otp) | 0 | 2026-10-17 | Laravel package providing OTP (One-Time Password) management... |
+| [andydefer/laravel-comments](https://github.com/andydefer/laravel-comments) | 0 | 2026-10-17 | Laravel package providing polymorphic comments with Reposito... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-17T06:42 | 1 | 1728 | 7274 |
 | 2026-10-17T00:59 | 8 | 1720 | 7273 |
 | 2026-10-16T18:35 | 11 | 1717 | 7266 |
 | 2026-10-16T12:42 | 9 | 1719 | 7255 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-15T12:43 | 5 | 1715 | 7235 |
 | 2026-10-15T06:47 | 3 | 1716 | 7230 |
 | 2026-10-15T00:59 | 7 | 1714 | 7227 |
-| 2026-10-14T18:38 | 10 | 1707 | 7220 |
 
 ---
 

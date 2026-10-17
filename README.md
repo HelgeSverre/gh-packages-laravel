@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7266  
-**Last updated:** 2026-10-16T18:35:28.976Z
+**Total packages tracked:** 7273  
+**Last updated:** 2026-10-17T00:59:49.996Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [eduardoribeirodev/filament-kanban](https://github.com/eduardoribeirodev/filament-kanban) | 0 | Kanban boards for Filament with native filters, actions, card layouts, drag and ... |
+| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | Laravel mail transport for Groundmail transactional email. Keep Mail::to()->send... |
+| [pnscripts/laravel-sentfold-lite](https://github.com/pnscripts/laravel-sentfold-lite) | 0 | Free archive of every e-mail your Laravel app sends, with secrets redacted befor... |
+| [ahmerthiserh/laravel-pos-backup](https://github.com/ahmerthiserh/laravel-pos-backup) | 0 | A reusable Laravel package for automated MySQL database backups to private Amazo... |
+| [dgtlss/easyerd](https://github.com/dgtlss/easyerd) | 6 | A Laravel package to generate ERD (Entity Relationship Diagram) diagrams from yo... |
+| [hagenimanasamuel/rightra-laravel](https://github.com/hagenimanasamuel/rightra-laravel) | 0 | Laravel package for Rightra. Blade component that renders the Rightra browser pl... |
+| [Naby224610/procedures-cli](https://github.com/Naby224610/procedures-cli) | 0 | Package Laravel pour la gestion des procédures CLI |
+| [infernalmedia/laravel-favicon-generator](https://github.com/infernalmedia/laravel-favicon-generator) | 0 | Package to generate favicons within your Laravel application. |
 | [leone84124/soketi-app-manager-filament](https://github.com/leone84124/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [dawrandev/besqala-mining](https://github.com/dawrandev/besqala-mining) | 0 | Digital platform for Besqala Mining Valley — resident registration, permit issui... |
 | [seyedsinanabavi/Shopbi-API](https://github.com/seyedsinanabavi/Shopbi-API) | 1 | A powerful Laravel-based RESTful API for Shopbi, featuring OTP authentication, r... |
 | [foxws/laravel-installer](https://github.com/foxws/laravel-installer) | 1 | A one-time installer for Laravel apps in containers: run it, set up, remove it. |
 | [vipertecpro/data-rights-desk](https://github.com/vipertecpro/data-rights-desk) | 0 | Notices, consent records, data rights requests and breach drafts that help a Lar... |
-| [phoenix1331/laravel-ai-headroom](https://github.com/phoenix1331/laravel-ai-headroom) | 0 | Token counting and context limits for the Laravel AI SDK. Counts the whole agent... |
+| [phoenix1331/laravel-ai-headroom](https://github.com/phoenix1331/laravel-ai-headroom) | 1 | Token counting and context limits for the Laravel AI SDK. Counts the whole agent... |
 | [gaian041/laravel-devtoolbox](https://github.com/gaian041/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
 | [Tuyeni019/laravel-devtoolbox](https://github.com/Tuyeni019/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
 | [adilKhan72/laravel-pii-redactor](https://github.com/adilKhan72/laravel-pii-redactor) | 0 | Laravel package: redact PII (SSNs, account/routing/card numbers, emails, phones,... |
 | [ilBronza/accesses](https://github.com/ilBronza/accesses) | 0 | Laravel package for badges, assignments, access gates and access logs |
 | [dev-think-one/laravel-simple-image-manager](https://github.com/dev-think-one/laravel-simple-image-manager) | 3 | Simple package to save multiple images formats when upload an image. |
 | [Papageorgiou07/soketi-app-manager-filament](https://github.com/Papageorgiou07/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [ejaworski6410/soketi-app-manager-filament](https://github.com/ejaworski6410/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [Willem91473/soketi-app-manager-filament](https://github.com/Willem91473/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [somchairaza95/soketi-app-manager-filament](https://github.com/somchairaza95/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [dev-think-one/laravel-forms-entries](https://github.com/dev-think-one/laravel-forms-entries) | 0 | Package to save forms entries and send notifications. |
-| [HeleneMirza/laravel-devtoolbox](https://github.com/HeleneMirza/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [maryamh03434/laravel-devtoolbox](https://github.com/maryamh03434/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [huseyin4634/laravel-devtoolbox](https://github.com/huseyin4634/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [kraenzle-ritter/nara-risk](https://github.com/kraenzle-ritter/nara-risk) | 0 | Laravel package for NARA Digital Preservation Framework risk assessment |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [TheZohaibKhan/AI-Quiz-Engine](https://github.com/TheZohaibKhan/AI-Quiz-Engine) | 0 | 2026-10-16 | AI-powered quiz and examination platform built with Laravel ... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-10-16 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [stefanzweifel/laravel-backup-restore](https://github.com/stefanzweifel/laravel-backup-restore) | 214 | 2026-10-16 | A package to restore database backups made with spatie/larav... |
-| [XBLOssia/librenms-theme-selector](https://github.com/XBLOssia/librenms-theme-selector) | 0 | 2026-10-16 | Theme Selector for LibreNMS |
-| [vipertecpro/data-rights-desk](https://github.com/vipertecpro/data-rights-desk) | 0 | 2026-10-16 | Notices, consent records, data rights requests and breach dr... |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-10-16 | NativeKit starter kit built on Laravel 13.x, Filament 5.x an... |
-| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-10-16 | Balcony weather station in Plzeň: an ESP32 measuring tempera... |
-| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-10-16 | Laravel package for integrating with Ranetrace – error track... |
-| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-10-16 | Package to manage medias within Laravel |
-| [starnerz/laravel-daraja](https://github.com/starnerz/laravel-daraja) | 7 | 2026-10-16 | Every Safaricom M-Pesa Daraja API as ordinary Laravel code —... |
-| [gaian041/laravel-devtoolbox](https://github.com/gaian041/laravel-devtoolbox) | 0 | 2026-10-16 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debu... |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 1 | 2026-10-16 | Plataforma de planeación y control de producción para manufa... |
-| [leone84124/soketi-app-manager-filament](https://github.com/leone84124/soketi-app-manager-filament) | 0 | 2026-10-16 | Manage soketi websocket server and apps with ease. |
-| [Tuyeni019/laravel-devtoolbox](https://github.com/Tuyeni019/laravel-devtoolbox) | 0 | 2026-10-16 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debu... |
-| [SimplePark-BV/laravel-invoices](https://github.com/SimplePark-BV/laravel-invoices) | 2 | 2026-10-16 | A modern Laravel package for creating, customizing, and expo... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-16 | The NativePHP website |
-| [ZachWatkins/infer-laravel-blueprint](https://github.com/ZachWatkins/infer-laravel-blueprint) | 0 | 2026-10-16 | PHP package to infer the SQL column schema of a data source. |
-| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 0 | 2026-10-16 | Automatic how-to and product demo videos for Laravel apps. D... |
-| [yungifez/april-ui](https://github.com/yungifez/april-ui) | 365 | 2026-10-16 | Gorgeous shadcn inspired UI library for laravel blade using ... |
-| [dawrandev/besqala-mining](https://github.com/dawrandev/besqala-mining) | 0 | 2026-10-16 | Digital platform for Besqala Mining Valley — resident regist... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-17 | A multi-purpose content and application platform for Laravel... |
+| [ahmerthiserh/laravel-pos-backup](https://github.com/ahmerthiserh/laravel-pos-backup) | 0 | 2026-10-17 | A reusable Laravel package for automated MySQL database back... |
+| [jeffersongoncalves/filament-flux-pro](https://github.com/jeffersongoncalves/filament-flux-pro) | 6 | 2026-10-17 | Filament v5 plugin exposing Livewire Flux Pro components — D... |
+| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | 2026-10-17 | Laravel mail transport for Groundmail transactional email. K... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-10-17 | Ptah — Laravel package that forges complete module structure... |
+| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 11 | 2026-10-17 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
+| [AIArmada/engagement](https://github.com/AIArmada/engagement) | 0 | 2026-10-17 | Laravel engagement package: follow, bookmark, respond, react... |
+| [jeffersongoncalves/filament-hidden-action](https://github.com/jeffersongoncalves/filament-hidden-action) | 9 | 2026-10-17 | This package provides a HiddenAction for Filament, allowing ... |
+| [mwguerra/web-terminal-stream](https://github.com/mwguerra/web-terminal-stream) | 3 | 2026-10-17 | A Stream-mode web terminal for Filament/Laravel: full intera... |
+| [dgtlss/easyerd](https://github.com/dgtlss/easyerd) | 6 | 2026-10-17 | A Laravel package to generate ERD (Entity Relationship Diagr... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-16 | The flexible backbone for your next CMS. This powerful frame... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-10-16 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-10-16 | A lightweight, convention-driven modular architecture packag... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-10-16 | A Laravel package to handle AWS SNS notifications, providing... |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-16 | Magic Framework Laravel backend starter package. |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 7 | 2026-10-16 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [offline-agency/laravel-cart](https://github.com/offline-agency/laravel-cart) | 2 | 2026-10-16 | A simple cart implementation for Laravel with fiscal support... |
+| [jeffersongoncalves/filament-sso-server](https://github.com/jeffersongoncalves/filament-sso-server) | 1 | 2026-10-16 | Filament plugin to manage clients and active sessions of jef... |
+| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-10-16 | 🔒 The missing package for Laravel Nova that lets you know w... |
+| [jeffersongoncalves/mobilekitv4](https://github.com/jeffersongoncalves/mobilekitv4) | 14 | 2026-10-16 | MobileKit starter kit built on Laravel 13.x, Filament 4.x an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-17T00:59 | 8 | 1720 | 7273 |
 | 2026-10-16T18:35 | 11 | 1717 | 7266 |
 | 2026-10-16T12:42 | 9 | 1719 | 7255 |
 | 2026-10-16T06:47 | 0 | 1725 | 7246 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-15T06:47 | 3 | 1716 | 7230 |
 | 2026-10-15T00:59 | 7 | 1714 | 7227 |
 | 2026-10-14T18:38 | 10 | 1707 | 7220 |
-| 2026-10-14T12:41 | 10 | 1709 | 7210 |
 
 ---
 

@@ -1951,5 +1951,26 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-10-14T12:41:42.442Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "chucho-kun/devjobs-docker": {
+    "name": "Chucho-Kun/devjobs-docker",
+    "url": "https://github.com/Chucho-Kun/devjobs-docker",
+    "description": "Job posting platform for recruiters and employees, contains a search engine for terms, categories and salaries",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "blade",
+      "jobsearch",
+      "laravel",
+      "livewire"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-10-06T23:37:41Z",
+    "updated_at": "2025-10-16T20:04:59Z",
+    "pushed_at": "2025-10-16T20:04:56Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-10-17T00:59:49.952Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

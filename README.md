@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7307  
-**Last updated:** 2026-10-18T01:05:23.973Z
+**Total packages tracked:** 7313  
+**Last updated:** 2026-10-18T06:43:04.815Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [strataface/billstack-status-badge](https://github.com/strataface/billstack-status-badge) | 0 | Invoice payment status badge (draft, sent, paid, overdue, void) for Laravel Live... |
+| [carloalejandrosalas/customer-satisfaction-survey](https://github.com/carloalejandrosalas/customer-satisfaction-survey) | 0 | PHP Laravel, Livewire and Flux - Customer Satisfaction Survey System |
+| [jeffersongoncalves/laravel-report-url](https://github.com/jeffersongoncalves/laravel-report-url) | 1 | Temporary, signed, expiring download links for generated files in Laravel, with ... |
+| [Islam016/laravel-saudi-leave-balance](https://github.com/Islam016/laravel-saudi-leave-balance) | 0 | Laravel package that calculates annual leave balance under Saudi labor rules: 21... |
+| [Mattia4201/laravel-devtoolbox](https://github.com/Mattia4201/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [yuqigrigorev769/laravel-devtoolbox](https://github.com/yuqigrigorev769/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
 | [filagora/filagora-memberships](https://github.com/filagora/filagora-memberships) | 0 | Memberships and billing for Filagora: plans, prices, member subscriptions, PayPa... |
 | [jvsqekrrnl/soketi-app-manager-filament](https://github.com/jvsqekrrnl/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [benjaminj39/soketi-app-manager-filament](https://github.com/benjaminj39/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ElsaPowell/laravel-devtoolbox](https://github.com/ElsaPowell/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
 | [simonet85/laravel-moneyfusion](https://github.com/simonet85/laravel-moneyfusion) | 1 | Package Money Fusion |
 | [albertoberg877/laravel-devtoolbox](https://github.com/albertoberg877/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [me-arif-dewan/Laravel-With-Wordpress-via-Corcel-package](https://github.com/me-arif-dewan/Laravel-With-Wordpress-via-Corcel-package) | 0 | This project demonstrates how to integrate WordPress with Laravel via the Corcel... |
-| [MohmmedAshraf/tally-laravel](https://github.com/MohmmedAshraf/tally-laravel) | 0 | Read-only split of packages/php from MohmmedAshraf/tally: the Tally Query Protoc... |
-| [jeffersongoncalves/filament-saved-filter](https://github.com/jeffersongoncalves/filament-saved-filter) | 3 | Saved filters for Filament tables: save, share and restore filters, sort, search... |
-| [pnscripts/filament-broadquill-lite](https://github.com/pnscripts/filament-broadquill-lite) | 0 | Bulk edit for Filament 4 and 5 tables: tick the fields, set or clear values, per... |
-| [thetheago/laravel-seeder-versioning](https://github.com/thetheago/laravel-seeder-versioning) | 1 | A Laravel package that provides version control for database seeders, similar to... |
-| [Bos6559/soketi-app-manager-filament](https://github.com/Bos6559/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-10-18 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 422 | 2026-10-18 | Laravel Kanban boards with intelligent pagination, drag-and-... |
-| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-18 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
-| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-10-18 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-10-18 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [jeffersongoncalves/filament-scanner-guard](https://github.com/jeffersongoncalves/filament-scanner-guard) | 5 | 2026-10-18 | Filament UI for jeffersongoncalves/laravel-scanner-guard: li... |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 442 | 2026-10-18 | A media picker plugin for Filament Panels. |
 | [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-18 | Magic Framework Laravel backend starter package. |
+| [polirium/polirium](https://github.com/polirium/polirium) | 42 | 2026-10-18 | Polirium là một nền tảng ERP (Enterprise Resource Planning) ... |
+| [safegrd/laravel-package](https://github.com/safegrd/laravel-package) | 0 | 2026-10-18 | SafeGrd Backup for Laravel: the database, .env and storage/a... |
+| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-18 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
+| [mertbag96/laravel-domain-migrator](https://github.com/mertbag96/laravel-domain-migrator) | 0 | 2026-10-18 | Analyze a Laravel MVC app, suggest domains and a shared kern... |
+| [saade/filament-autograph](https://github.com/saade/filament-autograph) | 83 | 2026-10-18 | A Filament package to collect signatures. |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-10-18 | Simple package for adding directives to show/hide content fr... |
+| [jeffersongoncalves/filament-whatsapp-widget](https://github.com/jeffersongoncalves/filament-whatsapp-widget) | 12 | 2026-10-18 | This Filament package provides a simple yet customizable Wha... |
+| [Islam016/laravel-saudi-leave-balance](https://github.com/Islam016/laravel-saudi-leave-balance) | 0 | 2026-10-18 | Laravel package that calculates annual leave balance under S... |
+| [Taldres/laravel-immutable-attributes](https://github.com/Taldres/laravel-immutable-attributes) | 0 | 2026-10-18 | Guard Eloquent model attributes against changes once a row e... |
+| [Taldres/laravel-last-seen](https://github.com/Taldres/laravel-last-seen) | 1 | 2026-10-18 | Track and display the last time a user was active in your La... |
+| [Taldres/laravel-waitlist](https://github.com/Taldres/laravel-waitlist) | 0 | 2026-10-18 | Privacy-first, headless waitlist package for Laravel: subscr... |
+| [eshanized/OpenMail](https://github.com/eshanized/OpenMail) | 0 | 2026-10-18 | Modern, beautiful, self-hosted webmail client for organizati... |
+| [afsakar/filament-otp-login](https://github.com/afsakar/filament-otp-login) | 66 | 2026-10-18 | OTP Login for FilamentPHP |
+| [jeffersongoncalves/filament-bladewind](https://github.com/jeffersongoncalves/filament-bladewind) | 1 | 2026-10-18 | Per-page CSS for Filament panels: splits the fi-* theme per ... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-18 | A multi-purpose content and application platform for Laravel... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-10-18 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [jeffersongoncalves/laravel-brevo](https://github.com/jeffersongoncalves/laravel-brevo) | 1 | 2026-10-18 | PHP/Laravel client for the Brevo (formerly Sendinblue) REST ... |
-| [jeffersongoncalves/laravel-convertkit](https://github.com/jeffersongoncalves/laravel-convertkit) | 1 | 2026-10-18 | PHP/Laravel client for the ConvertKit REST API v3: subscribe... |
-| [jeffersongoncalves/laravel-customer-io](https://github.com/jeffersongoncalves/laravel-customer-io) | 1 | 2026-10-18 | Laravel client for Customer.io's Track and App APIs: custome... |
-| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-10-17 | Sales and warehousing management system |
-| [hagenimanasamuel/rightra-laravel](https://github.com/hagenimanasamuel/rightra-laravel) | 0 | 2026-10-17 | Laravel package for Rightra. Blade component that renders th... |
-| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 0 | 2026-10-17 | Automatic how-to and product demo videos for Laravel apps. D... |
-| [yousef-aman/filament-autosave](https://github.com/yousef-aman/filament-autosave) | 3 | 2026-10-17 | Autosave for Filament v4/v5 forms: saves Edit pages to the d... |
-| [jeffersongoncalves/filament-saved-filter](https://github.com/jeffersongoncalves/filament-saved-filter) | 3 | 2026-10-17 | Saved filters for Filament tables: save, share and restore f... |
-| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 5 | 2026-10-17 | A Laravel package for creating and redirecting short URLs, w... |
-| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 75 | 2026-10-17 |  |
-| [jeffersongoncalves/filament-additional-information](https://github.com/jeffersongoncalves/filament-additional-information) | 1 | 2026-10-17 | Reusable created/updated timestamps section for Filament inf... |
+| [strataface/billstack-status-badge](https://github.com/strataface/billstack-status-badge) | 0 | 2026-10-18 | Invoice payment status badge (draft, sent, paid, overdue, vo... |
+| [liberusoftware/ecommerce-laravel](https://github.com/liberusoftware/ecommerce-laravel) | 190 | 2026-10-18 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [amarenkov/laravel-mutable-content](https://github.com/amarenkov/laravel-mutable-content) | 0 | 2026-10-18 | Laravel models with user-defined fields: typed JSON fields a... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-18T06:43 | 6 | 1724 | 7313 |
 | 2026-10-18T01:05 | 16 | 1715 | 7307 |
 | 2026-10-17T18:31 | 3 | 1726 | 7291 |
 | 2026-10-17T12:36 | 14 | 1714 | 7288 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-16T12:42 | 9 | 1719 | 7255 |
 | 2026-10-16T06:47 | 0 | 1725 | 7246 |
 | 2026-10-16T00:58 | 5 | 1720 | 7246 |
-| 2026-10-15T18:37 | 6 | 1717 | 7241 |
 
 ---
 

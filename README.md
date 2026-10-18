@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7291  
-**Last updated:** 2026-10-17T18:31:51.627Z
+**Total packages tracked:** 7307  
+**Last updated:** 2026-10-18T01:05:23.973Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [jeffersongoncalves/filament-saved-filter](https://github.com/jeffersongoncalves/filament-saved-filter) | 1 | Saved filters for Filament tables: save, share and restore filters, sort, search... |
+| [filagora/filagora-memberships](https://github.com/filagora/filagora-memberships) | 0 | Memberships and billing for Filagora: plans, prices, member subscriptions, PayPa... |
+| [jvsqekrrnl/soketi-app-manager-filament](https://github.com/jvsqekrrnl/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [benjaminj39/soketi-app-manager-filament](https://github.com/benjaminj39/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [chevalier1759/soketi-app-manager-filament](https://github.com/chevalier1759/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [phoenix1331/laravel-ai-headroom-ledger](https://github.com/phoenix1331/laravel-ai-headroom-ledger) | 0 | A ledger for every AI request your Laravel app makes: estimated, used, spent. It... |
+| [ycoya/laravel-telnet-brute-force](https://github.com/ycoya/laravel-telnet-brute-force) | 2 | Recovering password from telnet service by using brute force. |
+| [mertbag96/laravel-domain-migrator](https://github.com/mertbag96/laravel-domain-migrator) | 0 | Analyze a Laravel MVC app, suggest domains and a shared kernel, and move it towa... |
+| [roundly-consulting/tickets-for-laravel](https://github.com/roundly-consulting/tickets-for-laravel) | 2 | Headless helpdesk ticketing core: categories, swappable statuses, replies and in... |
+| [Lopez162/laravel-devtoolbox](https://github.com/Lopez162/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [Nehrub137/laravel-devtoolbox](https://github.com/Nehrub137/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [nashikaga031/laravel-devtoolbox](https://github.com/nashikaga031/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [ElsaPowell/laravel-devtoolbox](https://github.com/ElsaPowell/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [simonet85/laravel-moneyfusion](https://github.com/simonet85/laravel-moneyfusion) | 1 | Package Money Fusion |
+| [albertoberg877/laravel-devtoolbox](https://github.com/albertoberg877/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [me-arif-dewan/Laravel-With-Wordpress-via-Corcel-package](https://github.com/me-arif-dewan/Laravel-With-Wordpress-via-Corcel-package) | 0 | This project demonstrates how to integrate WordPress with Laravel via the Corcel... |
+| [MohmmedAshraf/tally-laravel](https://github.com/MohmmedAshraf/tally-laravel) | 0 | Read-only split of packages/php from MohmmedAshraf/tally: the Tally Query Protoc... |
+| [jeffersongoncalves/filament-saved-filter](https://github.com/jeffersongoncalves/filament-saved-filter) | 3 | Saved filters for Filament tables: save, share and restore filters, sort, search... |
 | [pnscripts/filament-broadquill-lite](https://github.com/pnscripts/filament-broadquill-lite) | 0 | Bulk edit for Filament 4 and 5 tables: tick the fields, set or clear values, per... |
 | [thetheago/laravel-seeder-versioning](https://github.com/thetheago/laravel-seeder-versioning) | 1 | A Laravel package that provides version control for database seeders, similar to... |
 | [Bos6559/soketi-app-manager-filament](https://github.com/Bos6559/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [adrian0541/soketi-app-manager-filament](https://github.com/adrian0541/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [jigomit/laravel-upgrade-audit](https://github.com/jigomit/laravel-upgrade-audit) | 0 | Audit a Laravel app's composer.json or composer.lock: PHP and Laravel end-of-lif... |
-| [HeatherPeterson9401/laravel-devtoolbox](https://github.com/HeatherPeterson9401/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [panagiotisd2443/laravel-devtoolbox](https://github.com/panagiotisd2443/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [escapeboy/diazoma-laravel](https://github.com/escapeboy/diazoma-laravel) | 0 | Laravel package for Diazoma walls (split of escapeboy/diazoma plugins/laravel). |
-| [EceAlekseev9893/laravel-devtoolbox](https://github.com/EceAlekseev9893/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [michalbos52181/laravel-devtoolbox](https://github.com/michalbos52181/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [Christoph42979/laravel-devtoolbox](https://github.com/Christoph42979/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [realedwardgough/laravel-github](https://github.com/realedwardgough/laravel-github) | 1 | A small Laravel package for connecting a GitHub App installation to one organisa... |
-| [Hi-Folks/fusion](https://github.com/Hi-Folks/fusion) | 38 | Fusion is a Laravel package designed to manage Markdown content via Eloquent Mod... |
-| [alimrun/accounting-laravel-package](https://github.com/alimrun/accounting-laravel-package) | 0 |  |
-| [nadyshalaby/laravel-zatca](https://github.com/nadyshalaby/laravel-zatca) | 7 | Laravel package for ZATCA e-invoicing integration (Saudi Arabia Phase 2) |
-| [ShotaGreco/laravel-devtoolbox](https://github.com/ShotaGreco/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [KielD-01/deploy.me](https://github.com/KielD-01/deploy.me) | 0 | Deploy your projects to your own servers over SSH: releases, Docker Compose, blu... |
-| [eduardoribeirodev/filament-kanban](https://github.com/eduardoribeirodev/filament-kanban) | 0 | Kanban boards for Filament with native filters, actions, card layouts, drag and ... |
-| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | Laravel mail transport for Groundmail transactional email. Keep Mail::to()->send... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [roundly-consulting/messages-for-laravel](https://github.com/roundly-consulting/messages-for-laravel) | 5 | 2026-10-17 | Realtime messages between entities using Laravel broadcastin... |
-| [KielD-01/deploy.me](https://github.com/KielD-01/deploy.me) | 0 | 2026-10-17 | Deploy your projects to your own servers over SSH: releases,... |
-| [roundly-consulting/testing-for-laravel](https://github.com/roundly-consulting/testing-for-laravel) | 5 | 2026-10-17 | Dev-only test machinery for Laravel packages and apps: base ... |
-| [roundly-consulting/media-library-for-laravel](https://github.com/roundly-consulting/media-library-for-laravel) | 5 | 2026-10-17 | Native Laravel media library: polymorphic media buckets, mul... |
-| [roundly-consulting/refresh-tokens-for-laravel](https://github.com/roundly-consulting/refresh-tokens-for-laravel) | 5 | 2026-10-17 | Opaque, rotating refresh tokens and device sessions for Lara... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-17 | Magic Framework Laravel backend starter package. |
-| [roundly-consulting/query-builder-for-laravel](https://github.com/roundly-consulting/query-builder-for-laravel) | 5 | 2026-10-17 | Native, allow-list-driven filter, sort and pagination for La... |
-| [roundly-consulting/likes-for-laravel](https://github.com/roundly-consulting/likes-for-laravel) | 5 | 2026-10-17 | Lightweight Laravel package to handle likes on entities |
-| [jeffersongoncalves/filament-saml2](https://github.com/jeffersongoncalves/filament-saml2) | 1 | 2026-10-17 | Filament plugin for SAML2 single sign-on with multi-tenant I... |
-| [roundly-consulting/purchases-for-laravel](https://github.com/roundly-consulting/purchases-for-laravel) | 6 | 2026-10-17 | Handle payments and subscriptions from Payment Gateways and ... |
-| [jeffersongoncalves/laravel-teams](https://github.com/jeffersongoncalves/laravel-teams) | 1 | 2026-10-17 | A Laravel package that adds Teams, memberships, and team inv... |
-| [jeffersongoncalves/laravel-whatsapp-widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget) | 9 | 2026-10-17 | This Laravel package provides a simple yet customizable What... |
-| [jeffersongoncalves/laravel-cep](https://github.com/jeffersongoncalves/laravel-cep) | 3 | 2026-10-17 | A simple and efficient PHP package for querying Brazilian po... |
-| [jeffersongoncalves/laravel-cnpj](https://github.com/jeffersongoncalves/laravel-cnpj) | 1 | 2026-10-17 | A simple and efficient Laravel package for querying Brazilia... |
-| [roundly-consulting/connections-for-laravel](https://github.com/roundly-consulting/connections-for-laravel) | 5 | 2026-10-17 | Many-to-many connections between Eloquent models with permis... |
-| [roundly-consulting/lifecycle-for-laravel](https://github.com/roundly-consulting/lifecycle-for-laravel) | 5 | 2026-10-17 | Status lifecycles for Eloquent models: guarded named transit... |
-| [roundly-consulting/comments-for-laravel](https://github.com/roundly-consulting/comments-for-laravel) | 6 | 2026-10-17 | Attach polymorphic comments to any Laravel model |
-| [roundly-consulting/certificates-for-laravel](https://github.com/roundly-consulting/certificates-for-laravel) | 5 | 2026-10-17 | Manage and provision TLS certificates for your domains from ... |
-| [roundly-consulting/campaigns-for-laravel](https://github.com/roundly-consulting/campaigns-for-laravel) | 5 | 2026-10-17 | Send campaigns to multiple recipients |
-| [janczakb/filament-flex-fields](https://github.com/janczakb/filament-flex-fields) | 70 | 2026-10-17 | The ultimate form components kit and custom fields builder f... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-10-18 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 422 | 2026-10-18 | Laravel Kanban boards with intelligent pagination, drag-and-... |
+| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-18 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
+| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-10-18 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-10-18 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [jeffersongoncalves/filament-scanner-guard](https://github.com/jeffersongoncalves/filament-scanner-guard) | 5 | 2026-10-18 | Filament UI for jeffersongoncalves/laravel-scanner-guard: li... |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-18 | Magic Framework Laravel backend starter package. |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-18 | A multi-purpose content and application platform for Laravel... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-10-18 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [jeffersongoncalves/laravel-brevo](https://github.com/jeffersongoncalves/laravel-brevo) | 1 | 2026-10-18 | PHP/Laravel client for the Brevo (formerly Sendinblue) REST ... |
+| [jeffersongoncalves/laravel-convertkit](https://github.com/jeffersongoncalves/laravel-convertkit) | 1 | 2026-10-18 | PHP/Laravel client for the ConvertKit REST API v3: subscribe... |
+| [jeffersongoncalves/laravel-customer-io](https://github.com/jeffersongoncalves/laravel-customer-io) | 1 | 2026-10-18 | Laravel client for Customer.io's Track and App APIs: custome... |
+| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-10-17 | Sales and warehousing management system |
+| [hagenimanasamuel/rightra-laravel](https://github.com/hagenimanasamuel/rightra-laravel) | 0 | 2026-10-17 | Laravel package for Rightra. Blade component that renders th... |
+| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 0 | 2026-10-17 | Automatic how-to and product demo videos for Laravel apps. D... |
+| [yousef-aman/filament-autosave](https://github.com/yousef-aman/filament-autosave) | 3 | 2026-10-17 | Autosave for Filament v4/v5 forms: saves Edit pages to the d... |
+| [jeffersongoncalves/filament-saved-filter](https://github.com/jeffersongoncalves/filament-saved-filter) | 3 | 2026-10-17 | Saved filters for Filament tables: save, share and restore f... |
+| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 5 | 2026-10-17 | A Laravel package for creating and redirecting short URLs, w... |
+| [tallcms/tallcms](https://github.com/tallcms/tallcms) | 75 | 2026-10-17 |  |
+| [jeffersongoncalves/filament-additional-information](https://github.com/jeffersongoncalves/filament-additional-information) | 1 | 2026-10-17 | Reusable created/updated timestamps section for Filament inf... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-18T01:05 | 16 | 1715 | 7307 |
 | 2026-10-17T18:31 | 3 | 1726 | 7291 |
 | 2026-10-17T12:36 | 14 | 1714 | 7288 |
 | 2026-10-17T06:42 | 1 | 1728 | 7274 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-16T06:47 | 0 | 1725 | 7246 |
 | 2026-10-16T00:58 | 5 | 1720 | 7246 |
 | 2026-10-15T18:37 | 6 | 1717 | 7241 |
-| 2026-10-15T12:43 | 5 | 1715 | 7235 |
 
 ---
 

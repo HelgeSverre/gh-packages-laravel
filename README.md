@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7318  
-**Last updated:** 2026-10-18T12:37:19.096Z
+**Total packages tracked:** 7328  
+**Last updated:** 2026-10-18T18:32:35.368Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mohamed-ali-akir/stagepilot](https://github.com/mohamed-ali-akir/stagepilot) | 1 | Application Laravel qui automatise la recherche de stage : entreprises à proximi... |
+| [pablozagni/nightguardian-laravel](https://github.com/pablozagni/nightguardian-laravel) | 0 | Laravel SDK for NightGuardian: error, log, job and slow-query capture that never... |
+| [mk-josias/laravel-distributable](https://github.com/mk-josias/laravel-distributable) | 0 | Design each Laravel module as a microservice: a context bounded to its module, c... |
+| [phoenix1331/filament-headroom](https://github.com/phoenix1331/filament-headroom) | 0 | A Filament dashboard for AI token usage, cost and context limits, powered by Hea... |
+| [yaeouk-rajab/laravel-consent-guard](https://github.com/yaeouk-rajab/laravel-consent-guard) | 0 | Tamper-evident audit logging and consent-guard middleware for Laravel apps (Comp... |
+| [rapltech/laravel-sms](https://github.com/rapltech/laravel-sms) | 3 | Linkstreet laravel sms package |
+| [njdigitallab/laraauth](https://github.com/njdigitallab/laraauth) | 0 | An authentication package for Laravel |
+| [xmlvalid/xmlvalid-laravel](https://github.com/xmlvalid/xmlvalid-laravel) | 0 | Laravel package for xmlvalid.com: a ValidXml rule for uploaded XML and e-invoice... |
+| [matthias4786/laravel-devtoolbox](https://github.com/matthias4786/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
+| [Viktork8066/laravel-devtoolbox](https://github.com/Viktork8066/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
 | [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 0 | Runtime-managed, identity-aware rate limiting for Laravel: change limits without... |
 | [ajones48754/soketi-app-manager-filament](https://github.com/ajones48754/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [Desai6676/laravel-devtoolbox](https://github.com/Desai6676/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/laravel-report-url](https://github.com/jeffersongoncalves/laravel-report-url) | 1 | Temporary, signed, expiring download links for generated files in Laravel, with ... |
 | [Islam016/laravel-saudi-leave-balance](https://github.com/Islam016/laravel-saudi-leave-balance) | 0 | Laravel package that calculates annual leave balances under Saudi labor rules: 2... |
 | [Mattia4201/laravel-devtoolbox](https://github.com/Mattia4201/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [yuqigrigorev769/laravel-devtoolbox](https://github.com/yuqigrigorev769/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [filagora/filagora-memberships](https://github.com/filagora/filagora-memberships) | 0 | Memberships and billing for Filagora: plans, prices, member subscriptions, PayPa... |
-| [jvsqekrrnl/soketi-app-manager-filament](https://github.com/jvsqekrrnl/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [benjaminj39/soketi-app-manager-filament](https://github.com/benjaminj39/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [chevalier1759/soketi-app-manager-filament](https://github.com/chevalier1759/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [phoenix1331/laravel-ai-headroom-ledger](https://github.com/phoenix1331/laravel-ai-headroom-ledger) | 0 | A ledger for every AI request your Laravel app makes: estimated, used, spent. It... |
-| [ycoya/laravel-telnet-brute-force](https://github.com/ycoya/laravel-telnet-brute-force) | 2 | Recovering password from telnet service by using brute force. |
-| [mertbag96/laravel-domain-migrator](https://github.com/mertbag96/laravel-domain-migrator) | 0 | Analyze a Laravel MVC app, suggest domains and a shared kernel, and move it towa... |
-| [roundly-consulting/tickets-for-laravel](https://github.com/roundly-consulting/tickets-for-laravel) | 2 | Headless helpdesk ticketing core: categories, swappable statuses, replies and in... |
-| [Lopez162/laravel-devtoolbox](https://github.com/Lopez162/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -50,8 +50,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 448 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 442 | A media picker plugin for Filament Panels. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 441 | A modern PostGIS toolbox for Laravel |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 441 | A media picker plugin for Filament Panels. |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 440 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cruciblephp/laravents](https://github.com/cruciblephp/laravents) | 1 | 2026-10-18 | Laravents is a powerful package for Laravel that brings modu... |
-| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 0 | 2026-10-18 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
-| [jeffersongoncalves/laravel-mail](https://github.com/jeffersongoncalves/laravel-mail) | 11 | 2026-10-18 | Complete email management for Laravel: logging, database tem... |
-| [puth-io/laravel](https://github.com/puth-io/laravel) | 1 | 2026-10-18 | [READ ONLY] Subtree split of the Puth Laravel package (see p... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-18 | A multi-purpose content and application platform for Laravel... |
-| [jeffersongoncalves/filament-qrcode-field](https://github.com/jeffersongoncalves/filament-qrcode-field) | 20 | 2026-10-18 | A Laravel Filament package that provides QR Code field funct... |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 6 | 2026-10-18 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [ru5iru/api-mock-service](https://github.com/ru5iru/api-mock-service) | 0 | 2026-10-18 | Self-hosted API mocking with Laravel and Livewire. Import cU... |
-| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 0 | 2026-10-18 | Automatic how-to and product demo videos for Laravel apps. D... |
-| [jeffersongoncalves/laravel-ahrefs](https://github.com/jeffersongoncalves/laravel-ahrefs) | 1 | 2026-10-18 | A lightweight Ahrefs API v3 client for Laravel — domain rati... |
-| [businesstilto/commentable](https://github.com/businesstilto/commentable) | 18 | 2026-10-18 | An extensive and very customizable package that adds comment... |
-| [phoenix1331/laravel-ai-headroom-ledger](https://github.com/phoenix1331/laravel-ai-headroom-ledger) | 0 | 2026-10-18 | A ledger for every AI request your Laravel app makes: estima... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-18 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-10-18 | ServiceDesk starter kit built on Laravel 13.x and Filament 3... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-18 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [jeffersongoncalves/laravel-testimonial](https://github.com/jeffersongoncalves/laravel-testimonial) | 1 | 2026-10-18 | A Laravel package for managing testimonials with translatabl... |
-| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-18 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
-| [mertbag96/laravel-domain-migrator](https://github.com/mertbag96/laravel-domain-migrator) | 0 | 2026-10-18 | Analyze a Laravel MVC app, suggest domains and a shared kern... |
-| [jeffersongoncalves/filament-oidc](https://github.com/jeffersongoncalves/filament-oidc) | 3 | 2026-10-18 | Drop-in OpenID Connect (OIDC) SSO for Filament v5 panels wit... |
-| [mahmoud-almalah/laravel-api-helpers](https://github.com/mahmoud-almalah/laravel-api-helpers) | 1 | 2026-10-18 | A clean and elegant Laravel package that provides a consiste... |
+| [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) | 390 | 2026-10-18 | Validate products and subscription receipts. Handle subscrip... |
+| [jeffersongoncalves/laravel-pwa-service-worker](https://github.com/jeffersongoncalves/laravel-pwa-service-worker) | 1 | 2026-10-18 | Serve a versioned PWA service worker at /sw.js from Blade — ... |
+| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 3 | 2026-10-18 | A file-based CMS package for Laravel. Renders documentation,... |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-10-18 | Sistema de gestão para centros e casas espíritas: assistidos... |
+| [rapltech/laravel-sms](https://github.com/rapltech/laravel-sms) | 3 | 2026-10-18 | Linkstreet laravel sms package |
+| [njdigitallab/laraauth](https://github.com/njdigitallab/laraauth) | 0 | 2026-10-18 | An authentication package for Laravel |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-10-18 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 46 | 2026-10-18 | Passwordless email magic-link & OTP authentication for Larav... |
+| [zarbinco/laravel-workdays](https://github.com/zarbinco/laravel-workdays) | 0 | 2026-10-18 | A Laravel package for calculating working days, business day... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-10-18 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
+| [jeffersongoncalves/laravel-whatsapp-widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget) | 9 | 2026-10-18 | This Laravel package provides a simple yet customizable What... |
+| [alirezachali/Sales-Management-System](https://github.com/alirezachali/Sales-Management-System) | 3 | 2026-10-18 | Sales and warehousing management system |
+| [AhmadSubadri/digidesa-smart-village](https://github.com/AhmadSubadri/digidesa-smart-village) | 0 | 2026-10-18 | DigiDesa — Platform Sistem Informasi Desa & Portal Layanan M... |
+| [xmlvalid/xmlvalid-laravel](https://github.com/xmlvalid/xmlvalid-laravel) | 0 | 2026-10-18 | Laravel package for xmlvalid.com: a ValidXml rule for upload... |
+| [jeffersongoncalves/laravel-dub](https://github.com/jeffersongoncalves/laravel-dub) | 1 | 2026-10-18 | A lightweight Dub.co API client for Laravel — link managemen... |
+| [NyonCode/wire-module-tenants](https://github.com/NyonCode/wire-module-tenants) | 0 | 2026-10-18 | Companies for wire: register a company, keep its profile, an... |
+| [NyonCode/wire-module-settings](https://github.com/NyonCode/wire-module-settings) | 0 | 2026-10-18 | Application settings for wire: typed key/value settings with... |
+| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | 2026-10-18 | Standalone form system for the Wire ecosystem – fields, vali... |
+| [NyonCode/wire-module-notifications](https://github.com/NyonCode/wire-module-notifications) | 0 | 2026-10-18 | Stored notifications for wire: the history behind the bell, ... |
+| [NyonCode/wire-module-auth](https://github.com/NyonCode/wire-module-auth) | 0 | 2026-10-18 | The signed-out screens for wire: login, password reset, emai... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-18T18:32 | 10 | 1722 | 7328 |
 | 2026-10-18T12:37 | 5 | 1725 | 7318 |
 | 2026-10-18T06:43 | 6 | 1724 | 7313 |
 | 2026-10-18T01:05 | 16 | 1715 | 7307 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-17T00:59 | 8 | 1720 | 7273 |
 | 2026-10-16T18:35 | 11 | 1717 | 7266 |
 | 2026-10-16T12:42 | 9 | 1719 | 7255 |
-| 2026-10-16T06:47 | 0 | 1725 | 7246 |
 
 ---
 

@@ -2,15 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7358  
-**Last updated:** 2026-10-19T12:44:42.379Z
+**Total packages tracked:** 7361  
+**Last updated:** 2026-10-19T18:38:53.114Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [joshdaugherty/home-dashboard](https://github.com/joshdaugherty/home-dashboard) | 1 | A responsive, touch-first family dashboard kiosk (Livewire + Flux) for a wall-mo... |
+| [lyrixx/nativella-laravel](https://github.com/lyrixx/nativella-laravel) | 0 | [READ-ONLY] Subtree split of packages/laravel (nativella/laravel). Issues and pu... |
+| [njdigitallab/laranonce](https://github.com/njdigitallab/laranonce) | 0 | A nonce generator package for your laravel applications. |
 | [thefoxylabs/simple-task-tracker](https://github.com/thefoxylabs/simple-task-tracker) | 0 | Open-source, self-hosted, white-label task tracker for teams. Kanban board, proj... |
-| [rizalahmaddd/islamic-schools](https://github.com/rizalahmaddd/islamic-schools) | 0 | Sistem Informasi Manajemen Sekolah Islam & Pondok Pesantren Modern (SIAKAD, Tahf... |
+| [rizalahmaddd/islamic-schools](https://github.com/rizalahmaddd/islamic-schools) | 1 | Sistem Informasi Manajemen Sekolah Islam & Pondok Pesantren Modern (SIAKAD, Tahf... |
 | [petecoop/protec](https://github.com/petecoop/protec) | 0 | Detect & block suspicious requests to your Laravel application |
 | [vanderlee/comprehend-laravel](https://github.com/vanderlee/comprehend-laravel) | 0 | A standalone Laravel validation bridge for the Comprehend parser combinator fram... |
 | [ArvidDeJong/bullhorn-api](https://github.com/ArvidDeJong/bullhorn-api) | 0 | PHP client for the Bullhorn REST API (staffing and recruitment CRM): OAuth login... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kaitoolsson912/soketi-app-manager-filament](https://github.com/kaitoolsson912/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [Matteo6950/soketi-app-manager-filament](https://github.com/Matteo6950/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [do48265/soketi-app-manager-filament](https://github.com/do48265/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [alexeimenon2273/soketi-app-manager-filament](https://github.com/alexeimenon2273/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [kevinanderson073/soketi-app-manager-filament](https://github.com/kevinanderson073/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [iriley57/soketi-app-manager-filament](https://github.com/iriley57/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -36,7 +36,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 |---------|-----|-------------|
 | [aimeos/pagible](https://github.com/aimeos/pagible) | 500 | Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with ... |
 | [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) | 500 | Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, a... |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 498 | A full-featured Laravel package for aiding in Shopify App development |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 499 | A full-featured Laravel package for aiding in Shopify App development |
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [plin-code/laravel-custom-fields](https://github.com/plin-code/laravel-custom-fields) | 3 | 2026-10-19 | Typed, extensible custom fields for Eloquent models with fil... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-10-19 | Simple package for adding directives to show/hide content fr... |
-| [it-healer/laravel-evm](https://github.com/it-healer/laravel-evm) | 1 | 2026-10-19 | A Laravel package for working with any EVM network (Ethereum... |
-| [Pollora/framework](https://github.com/Pollora/framework) | 20 | 2026-10-19 | The Laravel framework for WordPress: Blade, Laravel routing ... |
-| [openric/service](https://github.com/openric/service) | 0 | 2026-10-19 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
-| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-10-19 | A framework-agnostic web UI for editing .env: JSON API and t... |
-| [mbpcoder/world](https://github.com/mbpcoder/world) | 24 | 2026-10-19 | World - PHP & Laravel Package for Geographical Data |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-19 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [laranail/artisan-ui](https://github.com/laranail/artisan-ui) | 0 | 2026-10-19 | A secure web panel for running Artisan commands: Gate-author... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-10-19 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-10-19 | An up-to-date SDK package for all your Teamleader API needs! |
-| [Quittio/laravel](https://github.com/Quittio/laravel) | 0 | 2026-10-19 | [READ ONLY] Subtree split of the Quittio Laravel integration... |
-| [petecoop/protec](https://github.com/petecoop/protec) | 0 | 2026-10-19 | Detect & block suspicious requests to your Laravel applicati... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-19 | Lightweight toolkit for modular development in Laravel, for ... |
+| [joshdaugherty/home-dashboard](https://github.com/joshdaugherty/home-dashboard) | 1 | 2026-10-19 | A responsive, touch-first family dashboard kiosk (Livewire +... |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 1 | 2026-10-19 | Plataforma de planeación y control de producción para manufa... |
+| [jeffersongoncalves/laravel-satis](https://github.com/jeffersongoncalves/laravel-satis) | 4 | 2026-10-19 | A Laravel package for managing private Composer repositories... |
+| [saade/fluppy](https://github.com/saade/fluppy) | 2 | 2026-10-19 | The last upload field your Filament app will need. Uppy for ... |
 | [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 0 | 2026-10-19 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
-| [RobertBoes/blade-selfhst-icons](https://github.com/RobertBoes/blade-selfhst-icons) | 0 | 2026-10-19 | A package to easily make use of selfh.st Icons in your Larav... |
-| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-10-19 | Type-safe fluent validation rule builders for Laravel, plus ... |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-10-19 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-10-19 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 41 | 2026-10-19 |  |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-19 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-19 | Lightweight toolkit for modular development in Laravel, for ... |
+| [laraclaw/laraclaw](https://github.com/laraclaw/laraclaw) | 4 | 2026-10-19 | The Laravel Lobster |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-10-19 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-10-19 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [IonFlux84/wake](https://github.com/IonFlux84/wake) | 0 | 2026-10-19 | Free flat-file CMS on Laravel: Markdown files, no database, ... |
+| [thinktomorrow/chief](https://github.com/thinktomorrow/chief) | 5 | 2026-10-19 | Chief admin package |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-19 | Magic Framework Laravel backend starter package. |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-19 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | 2026-10-19 | UniMarket - a campus marketplace where verified university s... |
+| [wekser/laragram](https://github.com/wekser/laragram) | 7 | 2026-10-19 | A Laravel package for building Telegram bots in MVC style. |
+| [tomatophp/filament-themes-manager](https://github.com/tomatophp/filament-themes-manager) | 0 | 2026-10-19 | Manage your frontend themes using Modules HMVC Arch and easy... |
+| [World-eSports-LLC/laravel-auto-tenancy](https://github.com/World-eSports-LLC/laravel-auto-tenancy) | 33 | 2026-10-19 | This Laravel package allows any laravel installation to beco... |
+| [LaraPlugins/doctor-health](https://github.com/LaraPlugins/doctor-health) | 5 | 2026-10-19 | Laravel Doctor diagnostic that checks your Composer dependen... |
+| [rivalex/clearance](https://github.com/rivalex/clearance) | 0 | 2026-10-19 | Livewire 4 + Flux UI admin panel for permissions, roles, cei... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-19T18:38 | 3 | 1734 | 7361 |
 | 2026-10-19T12:44 | 6 | 1732 | 7358 |
 | 2026-10-19T07:00 | 6 | 1731 | 7352 |
 | 2026-10-19T01:05 | 18 | 1717 | 7346 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-18T01:05 | 16 | 1715 | 7307 |
 | 2026-10-17T18:31 | 3 | 1726 | 7291 |
 | 2026-10-17T12:36 | 14 | 1714 | 7288 |
-| 2026-10-17T06:42 | 1 | 1728 | 7274 |
 
 ---
 

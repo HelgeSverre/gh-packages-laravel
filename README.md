@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7352  
-**Last updated:** 2026-10-19T07:00:17.833Z
+**Total packages tracked:** 7358  
+**Last updated:** 2026-10-19T12:44:42.379Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [thefoxylabs/simple-task-tracker](https://github.com/thefoxylabs/simple-task-tracker) | 0 | Open-source, self-hosted, white-label task tracker for teams. Kanban board, proj... |
+| [rizalahmaddd/islamic-schools](https://github.com/rizalahmaddd/islamic-schools) | 0 | Sistem Informasi Manajemen Sekolah Islam & Pondok Pesantren Modern (SIAKAD, Tahf... |
+| [petecoop/protec](https://github.com/petecoop/protec) | 0 | Detect & block suspicious requests to your Laravel application |
+| [vanderlee/comprehend-laravel](https://github.com/vanderlee/comprehend-laravel) | 0 | A standalone Laravel validation bridge for the Comprehend parser combinator fram... |
+| [ArvidDeJong/bullhorn-api](https://github.com/ArvidDeJong/bullhorn-api) | 0 | PHP client for the Bullhorn REST API (staffing and recruitment CRM): OAuth login... |
+| [amarenkov/laravel-mutable-content-ai](https://github.com/amarenkov/laravel-mutable-content-ai) | 0 | AI agents for laravel-mutable-content apps: long-term memory and a run journal w... |
 | [StavrosYoon852/soketi-app-manager-filament](https://github.com/StavrosYoon852/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [cReddy81851/soketi-app-manager-filament](https://github.com/cReddy81851/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [anthonywisniewski81116/soketi-app-manager-filament](https://github.com/anthonywisniewski81116/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [alexeimenon2273/soketi-app-manager-filament](https://github.com/alexeimenon2273/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [kevinanderson073/soketi-app-manager-filament](https://github.com/kevinanderson073/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [iriley57/soketi-app-manager-filament](https://github.com/iriley57/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
-| [mykholy/laravel-failurelab](https://github.com/mykholy/laravel-failurelab) | 0 | Deterministic fault injection, webhook replay and recovery assertions for Larave... |
-| [filagora/filagora-plugins](https://github.com/filagora/filagora-plugins) | 0 | Filagora plugins: a plugin and release library with moderation, reports, subscri... |
-| [abolaradev/otp](https://github.com/abolaradev/otp) | 0 | A flexible Laravel OTP package for generating, sending, and verifying one-time p... |
-| [aldeebhasan/lottie-laravel](https://github.com/aldeebhasan/lottie-laravel) | 10 | This package will allow you to manage and preview lottie files in your laravel p... |
-| [OthmanHaba/falak-apm-laravel](https://github.com/OthmanHaba/falak-apm-laravel) | 0 | Falak APM for Laravel (read-only mirror of OthmanHaba/falak packages/apm-laravel... |
-| [andreanomura/laravel-devtoolbox](https://github.com/andreanomura/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ProgrammerNomad/laracorekit-package](https://github.com/ProgrammerNomad/laracorekit-package) | 0 | 2026-10-19 | Reusable Laravel foundation for public frontend and Filament... |
+| [plin-code/laravel-custom-fields](https://github.com/plin-code/laravel-custom-fields) | 3 | 2026-10-19 | Typed, extensible custom fields for Eloquent models with fil... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-10-19 | Simple package for adding directives to show/hide content fr... |
+| [it-healer/laravel-evm](https://github.com/it-healer/laravel-evm) | 1 | 2026-10-19 | A Laravel package for working with any EVM network (Ethereum... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 20 | 2026-10-19 | The Laravel framework for WordPress: Blade, Laravel routing ... |
 | [openric/service](https://github.com/openric/service) | 0 | 2026-10-19 | Standalone OpenRiC API service — Laravel 12, extracted from ... |
+| [laranail/env-kit-webui](https://github.com/laranail/env-kit-webui) | 0 | 2026-10-19 | A framework-agnostic web UI for editing .env: JSON API and t... |
+| [mbpcoder/world](https://github.com/mbpcoder/world) | 24 | 2026-10-19 | World - PHP & Laravel Package for Geographical Data |
 | [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-19 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-19 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [ayimdomnic/laragraph](https://github.com/ayimdomnic/laragraph) | 5 | 2026-10-19 | A modern, feature-rich, code-first GraphQL package for Larav... |
-| [StavrosYoon852/soketi-app-manager-filament](https://github.com/StavrosYoon852/soketi-app-manager-filament) | 0 | 2026-10-19 | Manage soketi websocket server and apps with ease. |
-| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-10-19 | A Laravel package that crawls websites to detect broken link... |
-| [BabelQueue/laravel](https://github.com/BabelQueue/laravel) | 1 | 2026-10-19 | Drop-in Laravel queue driver for BabelQueue — dispatch polyg... |
-| [strontiumcorp/laravel-mfa](https://github.com/strontiumcorp/laravel-mfa) | 0 | 2026-10-19 | Drop-in multi-factor authentication for Laravel 11–13: authe... |
-| [cReddy81851/soketi-app-manager-filament](https://github.com/cReddy81851/soketi-app-manager-filament) | 0 | 2026-10-19 | Manage soketi websocket server and apps with ease. |
-| [Neluxx/cli-portfolio](https://github.com/Neluxx/cli-portfolio) | 0 | 2026-10-19 | A personal portfolio built as an interactive browser-based t... |
-| [itxshakil/cpanel-whm](https://github.com/itxshakil/cpanel-whm) | 0 | 2026-10-19 | Typed, token-only, fakeable cPanel WHM API 1 client for Lara... |
-| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-19 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
-| [anthonywisniewski81116/soketi-app-manager-filament](https://github.com/anthonywisniewski81116/soketi-app-manager-filament) | 0 | 2026-10-19 | Manage soketi websocket server and apps with ease. |
-| [BrahimHernandez/soketi-app-manager-filament](https://github.com/BrahimHernandez/soketi-app-manager-filament) | 0 | 2026-10-19 | Manage soketi websocket server and apps with ease. |
-| [ekstremedia/laravel-yr](https://github.com/ekstremedia/laravel-yr) | 0 | 2026-10-19 | A Yr.no package for Laravel |
-| [Taldres/laravel-geocode-cache](https://github.com/Taldres/laravel-geocode-cache) | 0 | 2026-10-19 | A geocoding cache for Laravel with retention limits, schedul... |
-| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-10-19 | A Laravel Package providing seamless integration for the wun... |
-| [jeffersongoncalves/filament-mixpanel](https://github.com/jeffersongoncalves/filament-mixpanel) | 1 | 2026-10-19 | Filament plugin for Mixpanel analytics — tracking script inj... |
-| [jeffersongoncalves/laravel-linkedin-ads](https://github.com/jeffersongoncalves/laravel-linkedin-ads) | 1 | 2026-10-19 | A lightweight LinkedIn Ads (Marketing API) client for Larave... |
+| [laranail/artisan-ui](https://github.com/laranail/artisan-ui) | 0 | 2026-10-19 | A secure web panel for running Artisan commands: Gate-author... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-10-19 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-10-19 | An up-to-date SDK package for all your Teamleader API needs! |
+| [Quittio/laravel](https://github.com/Quittio/laravel) | 0 | 2026-10-19 | [READ ONLY] Subtree split of the Quittio Laravel integration... |
+| [petecoop/protec](https://github.com/petecoop/protec) | 0 | 2026-10-19 | Detect & block suspicious requests to your Laravel applicati... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-19 | Lightweight toolkit for modular development in Laravel, for ... |
+| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 0 | 2026-10-19 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
+| [RobertBoes/blade-selfhst-icons](https://github.com/RobertBoes/blade-selfhst-icons) | 0 | 2026-10-19 | A package to easily make use of selfh.st Icons in your Larav... |
+| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-10-19 | Type-safe fluent validation rule builders for Laravel, plus ... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-10-19 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [laranail/db-console-webui](https://github.com/laranail/db-console-webui) | 0 | 2026-10-19 | Thin Livewire + Flux web UI for laranail/db-console — all UI... |
+| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 41 | 2026-10-19 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-19T12:44 | 6 | 1732 | 7358 |
 | 2026-10-19T07:00 | 6 | 1731 | 7352 |
 | 2026-10-19T01:05 | 18 | 1717 | 7346 |
 | 2026-10-18T18:32 | 10 | 1722 | 7328 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-17T18:31 | 3 | 1726 | 7291 |
 | 2026-10-17T12:36 | 14 | 1714 | 7288 |
 | 2026-10-17T06:42 | 1 | 1728 | 7274 |
-| 2026-10-17T00:59 | 8 | 1720 | 7273 |
 
 ---
 

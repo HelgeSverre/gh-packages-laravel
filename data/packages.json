@@ -542,7 +542,7 @@
     "license": "MIT",
     "created_at": "2025-06-19T08:33:50Z",
     "updated_at": "2026-10-14T20:09:21Z",
-    "pushed_at": "2026-10-14T20:09:24Z",
+    "pushed_at": "2026-10-19T05:34:55Z",
     "discovered_at": "2026-01-29T01:22:25.332Z"
   },
   "lava83/laravel-ddd": {
@@ -5124,7 +5124,7 @@
     "license": "MIT",
     "created_at": "2023-03-27T08:17:08Z",
     "updated_at": "2026-10-15T15:47:35Z",
-    "pushed_at": "2026-10-04T08:23:11Z",
+    "pushed_at": "2026-10-19T04:49:57Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "torann/localization-helpers": {
@@ -17617,8 +17617,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T23:00:42Z",
-    "updated_at": "2026-10-16T14:54:56Z",
-    "pushed_at": "2026-10-17T15:03:47Z",
+    "updated_at": "2026-10-19T01:44:26Z",
+    "pushed_at": "2026-10-19T01:56:05Z",
     "discovered_at": "2026-02-02T00:23:09.415Z"
   },
   "artisanpack-ui/code-style-pint": {
@@ -25850,8 +25850,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-01T22:55:48Z",
-    "updated_at": "2026-10-16T21:34:01Z",
-    "pushed_at": "2026-10-19T00:22:13Z",
+    "updated_at": "2026-10-19T01:54:10Z",
+    "pushed_at": "2026-10-19T01:56:14Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "elegantengineeringtech/laravel-forex": {
@@ -30882,8 +30882,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-02-10T21:01:58Z",
-    "updated_at": "2026-10-14T13:42:36Z",
-    "pushed_at": "2026-10-14T13:49:05Z",
+    "updated_at": "2026-10-19T02:34:10Z",
+    "pushed_at": "2026-10-19T02:34:13Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "inerba/filament-db-config": {
@@ -37184,7 +37184,7 @@
     "license": "MIT",
     "created_at": "2020-10-12T07:06:41Z",
     "updated_at": "2026-10-01T10:45:40Z",
-    "pushed_at": "2026-10-12T12:18:04Z",
+    "pushed_at": "2026-10-19T04:14:45Z",
     "discovered_at": "2026-02-19T12:14:44.976Z"
   },
   "laravel-enso/logs": {
@@ -38948,8 +38948,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-23T02:02:42Z",
-    "updated_at": "2026-10-10T19:53:36Z",
-    "pushed_at": "2026-10-10T19:53:33Z",
+    "updated_at": "2026-10-19T03:26:19Z",
+    "pushed_at": "2026-10-19T03:26:22Z",
     "discovered_at": "2026-02-23T06:25:59.063Z"
   },
   "tonsoo/task-tracker": {
@@ -38997,8 +38997,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-23T02:10:22Z",
-    "updated_at": "2026-10-10T19:38:04Z",
-    "pushed_at": "2026-10-10T19:38:12Z",
+    "updated_at": "2026-10-19T05:23:59Z",
+    "pushed_at": "2026-10-19T05:24:26Z",
     "discovered_at": "2026-02-23T06:25:59.066Z"
   },
   "mstfam21/membership-project-spatie": {
@@ -39302,8 +39302,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-23T11:14:49Z",
-    "updated_at": "2026-09-29T00:20:40Z",
-    "pushed_at": "2026-09-29T00:10:11Z",
+    "updated_at": "2026-10-19T05:19:40Z",
+    "pushed_at": "2026-10-19T05:20:30Z",
     "discovered_at": "2026-02-23T18:22:55.411Z"
   },
   "nextpointergr/laravel_prestashop": {
@@ -42307,8 +42307,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-23T19:59:41Z",
-    "updated_at": "2026-10-14T02:42:14Z",
-    "pushed_at": "2026-10-14T02:42:12Z",
+    "updated_at": "2026-10-19T06:24:10Z",
+    "pushed_at": "2026-10-19T06:24:07Z",
     "discovered_at": "2026-03-02T12:12:22.685Z"
   },
   "foxen-digital/laravel-uk-bank-holidays": {
@@ -48631,7 +48631,7 @@
     "license": "MIT",
     "created_at": "2026-02-26T08:01:28Z",
     "updated_at": "2026-10-12T06:33:03Z",
-    "pushed_at": "2026-10-12T06:33:17Z",
+    "pushed_at": "2026-10-19T06:27:21Z",
     "discovered_at": "2026-03-17T06:24:57.142Z"
   },
   "njoguamos/laravel-turnstile": {
@@ -53835,8 +53835,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-23T14:43:51Z",
-    "updated_at": "2026-10-18T14:59:21Z",
-    "pushed_at": "2026-10-18T14:59:25Z",
+    "updated_at": "2026-10-19T03:08:37Z",
+    "pushed_at": "2026-10-19T03:08:43Z",
     "discovered_at": "2026-03-25T00:24:30.229Z"
   },
   "johnnywebs/laravel-package-creator": {
@@ -55603,8 +55603,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-02-23T19:55:46Z",
-    "updated_at": "2026-10-14T02:31:54Z",
-    "pushed_at": "2026-10-14T02:31:51Z",
+    "updated_at": "2026-10-19T04:51:12Z",
+    "pushed_at": "2026-10-19T04:51:09Z",
     "discovered_at": "2026-03-28T00:24:23.344Z"
   },
   "ezermeno/fmxpluck": {
@@ -60932,8 +60932,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-04-08T11:05:53Z",
-    "updated_at": "2026-10-18T19:17:03Z",
-    "pushed_at": "2026-10-18T19:17:00Z",
+    "updated_at": "2026-10-19T04:36:37Z",
+    "pushed_at": "2026-10-19T04:36:34Z",
     "discovered_at": "2026-04-10T07:22:31.971Z"
   },
   "shubhamc4/cgrate-laravel": {
@@ -64990,8 +64990,8 @@
     "language": "PHP",
     "license": "AGPL-3.0",
     "created_at": "2026-04-18T12:09:40Z",
-    "updated_at": "2026-10-16T10:07:27Z",
-    "pushed_at": "2026-10-16T10:07:21Z",
+    "updated_at": "2026-10-19T06:57:18Z",
+    "pushed_at": "2026-10-19T06:57:13Z",
     "discovered_at": "2026-04-21T07:44:04.211Z"
   },
   "escolalms/auth": {
@@ -67655,8 +67655,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-02-08T03:18:28Z",
-    "updated_at": "2026-10-17T07:11:00Z",
-    "pushed_at": "2026-10-18T14:13:33Z",
+    "updated_at": "2026-10-19T02:03:23Z",
+    "pushed_at": "2026-10-19T02:03:20Z",
     "discovered_at": "2026-04-29T12:34:27.343Z"
   },
   "dimasnugroho673/laravel-component-js": {
@@ -68212,7 +68212,7 @@
     "license": "MIT",
     "created_at": "2024-06-30T06:47:18Z",
     "updated_at": "2026-10-14T22:17:49Z",
-    "pushed_at": "2026-10-12T10:54:13Z",
+    "pushed_at": "2026-10-19T04:10:00Z",
     "discovered_at": "2026-05-01T06:56:26.452Z"
   },
   "metasyncsite/laravel-translations-client": {
@@ -75141,8 +75141,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-05-18T04:19:16Z",
-    "updated_at": "2026-10-05T03:47:41Z",
-    "pushed_at": "2026-10-05T05:21:51Z",
+    "updated_at": "2026-10-19T03:57:22Z",
+    "pushed_at": "2026-10-19T03:59:31Z",
     "discovered_at": "2026-05-19T00:42:56.533Z"
   },
   "square-bit/laravel-pt-localization": {
@@ -79169,7 +79169,7 @@
     "license": "MIT",
     "created_at": "2024-05-10T06:11:09Z",
     "updated_at": "2026-10-14T12:40:31Z",
-    "pushed_at": "2026-10-14T12:40:30Z",
+    "pushed_at": "2026-10-19T04:21:18Z",
     "discovered_at": "2026-06-03T00:53:59.862Z"
   },
   "alimarchal/laravel-chart-of-accounts-package": {
@@ -80457,8 +80457,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-06-06T09:06:50Z",
-    "updated_at": "2026-10-17T17:04:32Z",
-    "pushed_at": "2026-10-17T17:04:35Z",
+    "updated_at": "2026-10-19T06:26:59Z",
+    "pushed_at": "2026-10-19T06:26:55Z",
     "discovered_at": "2026-06-06T12:28:50.783Z"
   },
   "sosupp/questionable": {
@@ -91931,7 +91931,7 @@
     "license": "MIT",
     "created_at": "2026-01-28T09:09:07Z",
     "updated_at": "2026-10-17T09:37:35Z",
-    "pushed_at": "2026-10-17T09:37:36Z",
+    "pushed_at": "2026-10-19T04:58:25Z",
     "discovered_at": "2026-07-03T09:40:45.705Z"
   },
   "promethys/revive": {
@@ -99854,8 +99854,8 @@
     "language": "PHP",
     "license": "NOASSERTION",
     "created_at": "2025-11-14T17:21:25Z",
-    "updated_at": "2026-08-10T18:59:35Z",
-    "pushed_at": "2026-08-10T18:59:12Z",
+    "updated_at": "2026-10-19T05:56:52Z",
+    "pushed_at": "2026-10-19T05:57:36Z",
     "discovered_at": "2026-07-25T18:40:33.099Z"
   },
   "mohamadreza-rezaei/corekit-laravel": {
@@ -100389,7 +100389,7 @@
     "url": "https://github.com/albertoarena/laravel-truss",
     "description": "A live database structure viewer for Laravel that renders your schema as a scrollable, zoomable ER diagram. Structure only, never data.",
     "stars": 288,
-    "forks": 15,
+    "forks": 16,
     "topics": [
       "database",
       "database-schema",
@@ -101438,7 +101438,7 @@
     "name": "liberusoftware/accounting-erp-laravel",
     "url": "https://github.com/liberusoftware/accounting-erp-laravel",
     "description": "Accounting application written in Laravel 13 / PHP 8.5 using Filament 5. QuickBooks, Xero, FreeAgent, Akhaunting ERP alternative.",
-    "stars": 169,
+    "stars": 170,
     "forks": 91,
     "topics": [
       "accounting",
@@ -101455,7 +101455,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-02-04T14:44:58Z",
-    "updated_at": "2026-10-11T20:17:17Z",
+    "updated_at": "2026-10-19T01:11:23Z",
     "pushed_at": "2026-10-11T20:17:12Z",
     "discovered_at": "2026-07-30T18:52:10.650Z"
   },
@@ -103864,8 +103864,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-08-07T10:13:38Z",
-    "updated_at": "2026-10-12T13:49:35Z",
-    "pushed_at": "2026-09-17T11:38:24Z",
+    "updated_at": "2026-10-19T04:55:28Z",
+    "pushed_at": "2026-10-19T04:55:30Z",
     "discovered_at": "2026-08-07T12:35:45.953Z"
   },
   "ekrambd/laravel-discount-calculator-package": {
@@ -108011,8 +108011,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-14T02:23:12Z",
-    "updated_at": "2026-10-18T21:07:51Z",
-    "pushed_at": "2026-10-18T21:07:46Z",
+    "updated_at": "2026-10-19T06:19:53Z",
+    "pushed_at": "2026-10-19T06:53:04Z",
     "discovered_at": "2026-08-19T18:33:34.560Z"
   },
   "ahmed-laggoun/moyasar": {
@@ -115461,8 +115461,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-09-07T21:44:19Z",
-    "updated_at": "2026-09-28T23:34:07Z",
-    "pushed_at": "2026-09-28T23:34:04Z",
+    "updated_at": "2026-10-19T04:53:08Z",
+    "pushed_at": "2026-10-19T04:53:11Z",
     "discovered_at": "2026-09-08T01:03:31.702Z"
   },
   "jeffersongoncalves/laravel-meta-ads": {
@@ -115483,8 +115483,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-09-07T21:30:30Z",
-    "updated_at": "2026-09-29T00:24:22Z",
-    "pushed_at": "2026-09-29T00:24:20Z",
+    "updated_at": "2026-10-19T05:17:52Z",
+    "pushed_at": "2026-10-19T05:17:55Z",
     "discovered_at": "2026-09-08T01:03:31.702Z"
   },
   "jeffersongoncalves/laravel-mention-me": {
@@ -115526,8 +115526,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-09-07T20:56:33Z",
-    "updated_at": "2026-09-29T00:33:51Z",
-    "pushed_at": "2026-09-29T00:33:48Z",
+    "updated_at": "2026-10-19T03:14:23Z",
+    "pushed_at": "2026-10-19T03:14:27Z",
     "discovered_at": "2026-09-08T01:03:31.702Z"
   },
   "jeffersongoncalves/laravel-livestorm": {
@@ -115569,8 +115569,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-09-07T20:34:33Z",
-    "updated_at": "2026-10-10T19:52:35Z",
-    "pushed_at": "2026-10-10T19:52:32Z",
+    "updated_at": "2026-10-19T05:23:16Z",
+    "pushed_at": "2026-10-19T05:23:19Z",
     "discovered_at": "2026-09-08T01:03:31.702Z"
   },
   "jeffersongoncalves/laravel-klaviyo": {
@@ -115632,8 +115632,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-09-07T18:36:33Z",
-    "updated_at": "2026-09-29T00:32:45Z",
-    "pushed_at": "2026-09-29T00:32:39Z",
+    "updated_at": "2026-10-19T04:31:10Z",
+    "pushed_at": "2026-10-19T04:31:14Z",
     "discovered_at": "2026-09-08T01:03:31.702Z"
   },
   "guilhermepolicarpo/llumo": {
@@ -115660,7 +115660,7 @@
     "license": "MIT",
     "created_at": "2026-09-05T16:06:17Z",
     "updated_at": "2026-10-18T23:57:30Z",
-    "pushed_at": "2026-10-19T00:03:34Z",
+    "pushed_at": "2026-10-19T04:32:03Z",
     "discovered_at": "2026-09-08T01:03:31.703Z"
   },
   "senaranya/laravel-slack": {
@@ -117579,8 +117579,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-04-15T07:21:14Z",
-    "updated_at": "2026-10-14T00:45:43Z",
-    "pushed_at": "2026-10-14T00:46:04Z",
+    "updated_at": "2026-10-19T03:36:04Z",
+    "pushed_at": "2026-10-19T03:35:59Z",
     "discovered_at": "2026-09-11T11:32:27.615Z"
   },
   "alex-kassel/laravel-package-audit": {
@@ -119227,7 +119227,7 @@
     "name": "tomatophp/filament-ecommerce",
     "url": "https://github.com/tomatophp/filament-ecommerce",
     "description": "Build your own ecommerce store with Filament & Splade",
-    "stars": 106,
+    "stars": 107,
     "forks": 25,
     "topics": [
       "delivery",
@@ -119244,7 +119244,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-05-09T12:14:40Z",
-    "updated_at": "2026-10-17T13:21:49Z",
+    "updated_at": "2026-10-19T02:24:06Z",
     "pushed_at": "2026-10-15T17:11:00Z",
     "discovered_at": "2026-09-15T11:53:23.156Z"
   },
@@ -119635,8 +119635,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-07-01T17:28:16Z",
-    "updated_at": "2026-10-18T22:02:40Z",
-    "pushed_at": "2026-10-18T22:02:37Z",
+    "updated_at": "2026-10-19T01:44:06Z",
+    "pushed_at": "2026-10-19T01:44:02Z",
     "discovered_at": "2026-09-16T04:57:33.220Z"
   },
   "nereauweb/mercatura": {
@@ -119707,8 +119707,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-09-12T23:41:12Z",
-    "updated_at": "2026-10-18T19:02:24Z",
-    "pushed_at": "2026-10-18T19:02:27Z",
+    "updated_at": "2026-10-19T01:46:16Z",
+    "pushed_at": "2026-10-19T01:46:13Z",
     "discovered_at": "2026-09-16T04:57:33.220Z"
   },
   "loki495/insights": {
@@ -119730,8 +119730,8 @@
     "language": "PHP",
     "license": "AGPL-3.0",
     "created_at": "2026-03-29T20:15:44Z",
-    "updated_at": "2026-10-18T19:11:05Z",
-    "pushed_at": "2026-10-18T19:11:08Z",
+    "updated_at": "2026-10-19T01:49:43Z",
+    "pushed_at": "2026-10-19T01:49:41Z",
     "discovered_at": "2026-09-16T04:57:33.220Z"
   },
   "f-e-t/laravel-cookie-consent": {
@@ -119869,8 +119869,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-09-16T17:18:37Z",
-    "updated_at": "2026-10-13T22:04:21Z",
-    "pushed_at": "2026-10-14T06:28:52Z",
+    "updated_at": "2026-10-19T06:43:55Z",
+    "pushed_at": "2026-10-19T06:46:50Z",
     "discovered_at": "2026-09-16T21:25:29.103Z"
   },
   "abelacostaec/velntra": {
@@ -122990,8 +122990,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2016-08-27T08:43:29Z",
-    "updated_at": "2026-10-17T19:48:09Z",
-    "pushed_at": "2026-10-17T19:48:49Z",
+    "updated_at": "2026-10-19T06:30:36Z",
+    "pushed_at": "2026-10-19T06:30:39Z",
     "discovered_at": "2026-09-24T18:35:42.959Z"
   },
   "happenv-com/filament-enhanced-charts": {
@@ -125306,7 +125306,7 @@
     "license": "BSD-3-Clause",
     "created_at": "2026-09-23T16:05:15Z",
     "updated_at": "2026-10-05T15:26:42Z",
-    "pushed_at": "2026-10-12T12:56:31Z",
+    "pushed_at": "2026-10-19T04:32:35Z",
     "discovered_at": "2026-09-29T18:38:44.099Z"
   },
   "sphinx-code-studio/filament-mobile-navigation": {
@@ -130645,8 +130645,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2023-01-04T11:12:24Z",
-    "updated_at": "2026-10-16T01:35:30Z",
-    "pushed_at": "2026-10-16T01:35:26Z",
+    "updated_at": "2026-10-19T02:16:07Z",
+    "pushed_at": "2026-10-19T02:16:04Z",
     "discovered_at": "2026-10-08T18:39:54.977Z"
   },
   "ashanda/laravel-otp-package": {
@@ -130659,8 +130659,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-25T06:37:01Z",
-    "updated_at": "2026-10-15T18:30:33Z",
-    "pushed_at": "2026-10-15T18:30:29Z",
+    "updated_at": "2026-10-19T04:21:37Z",
+    "pushed_at": "2026-10-19T04:21:33Z",
     "discovered_at": "2026-10-08T18:39:54.977Z"
   },
   "nlincs/marketing-cloud-laravel": {
@@ -130887,8 +130887,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-10-08T03:40:25Z",
-    "updated_at": "2026-10-14T16:57:36Z",
-    "pushed_at": "2026-10-14T16:57:33Z",
+    "updated_at": "2026-10-19T06:18:16Z",
+    "pushed_at": "2026-10-19T06:20:03Z",
     "discovered_at": "2026-10-08T18:39:54.979Z"
   },
   "dmitry-ivanov/laravel-console-logger": {
@@ -132122,8 +132122,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-10-08T15:58:28Z",
-    "updated_at": "2026-10-11T08:06:05Z",
-    "pushed_at": "2026-10-11T08:06:01Z",
+    "updated_at": "2026-10-19T06:25:23Z",
+    "pushed_at": "2026-10-19T06:25:19Z",
     "discovered_at": "2026-10-09T12:44:11.726Z"
   },
   "aantanaskovic/booking-platform": {
@@ -132795,7 +132795,7 @@
     "license": "MIT",
     "created_at": "2026-10-10T13:36:33Z",
     "updated_at": "2026-10-13T23:41:29Z",
-    "pushed_at": "2026-10-13T23:41:27Z",
+    "pushed_at": "2026-10-19T04:38:13Z",
     "discovered_at": "2026-10-10T18:36:51.324Z"
   },
   "clearsoft-net/easysql-php-laravel": {
@@ -133361,8 +133361,8 @@
     "language": "PHP",
     "license": null,
     "created_at": "2026-10-10T11:27:46Z",
-    "updated_at": "2026-10-19T00:36:16Z",
-    "pushed_at": "2026-10-19T00:36:14Z",
+    "updated_at": "2026-10-19T06:16:58Z",
+    "pushed_at": "2026-10-19T06:16:56Z",
     "discovered_at": "2026-10-11T06:48:28.209Z"
   },
   "robyajo/pasak": {
@@ -134151,7 +134151,7 @@
     "name": "sajjadhossainshohag/laravel-lang-cache",
     "url": "https://github.com/sajjadhossainshohag/laravel-lang-cache",
     "description": "Make your Laravel translations load faster by caching them, like config and routes. Up to 1,600 times faster with OPcache. Works with Laravel 10–13.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "cache",
@@ -134166,7 +134166,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-10-12T03:45:20Z",
-    "updated_at": "2026-10-12T08:47:01Z",
+    "updated_at": "2026-10-19T04:21:38Z",
     "pushed_at": "2026-10-12T08:46:32Z",
     "discovered_at": "2026-10-12T07:09:58.870Z"
   },
@@ -134223,7 +134223,7 @@
     "license": "MIT",
     "created_at": "2026-10-12T04:49:10Z",
     "updated_at": "2026-10-18T19:10:09Z",
-    "pushed_at": "2026-10-18T19:10:05Z",
+    "pushed_at": "2026-10-19T01:21:10Z",
     "discovered_at": "2026-10-12T13:03:47.523Z"
   },
   "oralunal/laravel-clickhouse": {
@@ -138786,8 +138786,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-10-09T16:33:36Z",
-    "updated_at": "2026-10-18T14:42:25Z",
-    "pushed_at": "2026-10-18T14:42:22Z",
+    "updated_at": "2026-10-19T01:39:44Z",
+    "pushed_at": "2026-10-19T01:39:40Z",
     "discovered_at": "2026-10-18T18:32:35.342Z"
   },
   "phoenix1331/filament-headroom": {
@@ -139198,5 +139198,135 @@
     "updated_at": "2026-10-18T19:39:58Z",
     "pushed_at": "2026-10-18T19:39:39Z",
     "discovered_at": "2026-10-19T01:05:59.563Z"
+  },
+  "programmernomad/laracorekit-package": {
+    "name": "ProgrammerNomad/laracorekit-package",
+    "url": "https://github.com/ProgrammerNomad/laracorekit-package",
+    "description": "Reusable Laravel foundation for public frontend and Filament administration. Distribution source maintained in the LaraCoreKit monorepo.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "composer-package",
+      "filament",
+      "laravel",
+      "livewire",
+      "starter-kit"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-10-19T06:43:16Z",
+    "updated_at": "2026-10-19T06:58:05Z",
+    "pushed_at": "2026-10-19T06:58:01Z",
+    "discovered_at": "2026-10-19T07:00:17.795Z"
+  },
+  "taldres/laravel-geocode-cache": {
+    "name": "Taldres/laravel-geocode-cache",
+    "url": "https://github.com/Taldres/laravel-geocode-cache",
+    "description": "A geocoding cache for Laravel with retention limits, scheduled deletion and locks against duplicate lookups.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "cache",
+      "geocode",
+      "geocoding",
+      "google-maps",
+      "laravel",
+      "laravel-package",
+      "php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-10-17T11:07:44Z",
+    "updated_at": "2026-10-19T05:54:24Z",
+    "pushed_at": "2026-10-19T05:56:36Z",
+    "discovered_at": "2026-10-19T07:00:17.797Z"
+  },
+  "stavrosyoon852/soketi-app-manager-filament": {
+    "name": "StavrosYoon852/soketi-app-manager-filament",
+    "url": "https://github.com/StavrosYoon852/soketi-app-manager-filament",
+    "description": "Manage soketi websocket server and apps with ease.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "app-manager",
+      "dashboard",
+      "filamentphp",
+      "frontend",
+      "laravel",
+      "livewire",
+      "soketi"
+    ],
+    "language": "PHP",
+    "license": "NOASSERTION",
+    "created_at": "2026-10-19T06:27:41Z",
+    "updated_at": "2026-10-19T06:28:34Z",
+    "pushed_at": "2026-10-19T06:27:54Z",
+    "discovered_at": "2026-10-19T07:00:17.798Z"
+  },
+  "creddy81851/soketi-app-manager-filament": {
+    "name": "cReddy81851/soketi-app-manager-filament",
+    "url": "https://github.com/cReddy81851/soketi-app-manager-filament",
+    "description": "Manage soketi websocket server and apps with ease.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "app-manager",
+      "dashboard",
+      "filamentphp",
+      "frontend",
+      "laravel",
+      "livewire",
+      "soketi"
+    ],
+    "language": "PHP",
+    "license": "NOASSERTION",
+    "created_at": "2026-10-19T06:24:17Z",
+    "updated_at": "2026-10-19T06:24:34Z",
+    "pushed_at": "2026-10-19T06:24:24Z",
+    "discovered_at": "2026-10-19T07:00:17.798Z"
+  },
+  "anthonywisniewski81116/soketi-app-manager-filament": {
+    "name": "anthonywisniewski81116/soketi-app-manager-filament",
+    "url": "https://github.com/anthonywisniewski81116/soketi-app-manager-filament",
+    "description": "Manage soketi websocket server and apps with ease.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "app-manager",
+      "dashboard",
+      "filamentphp",
+      "frontend",
+      "laravel",
+      "livewire",
+      "soketi"
+    ],
+    "language": "PHP",
+    "license": "NOASSERTION",
+    "created_at": "2026-10-19T06:10:55Z",
+    "updated_at": "2026-10-19T06:12:33Z",
+    "pushed_at": "2026-10-19T06:11:31Z",
+    "discovered_at": "2026-10-19T07:00:17.798Z"
+  },
+  "brahimhernandez/soketi-app-manager-filament": {
+    "name": "BrahimHernandez/soketi-app-manager-filament",
+    "url": "https://github.com/BrahimHernandez/soketi-app-manager-filament",
+    "description": "Manage soketi websocket server and apps with ease.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "app-manager",
+      "dashboard",
+      "filamentphp",
+      "frontend",
+      "laravel",
+      "livewire",
+      "soketi"
+    ],
+    "language": "PHP",
+    "license": "NOASSERTION",
+    "created_at": "2026-10-19T05:59:39Z",
+    "updated_at": "2026-10-19T06:05:55Z",
+    "pushed_at": "2026-10-19T06:05:50Z",
+    "discovered_at": "2026-10-19T07:00:17.798Z"
   }
 }

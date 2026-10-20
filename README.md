@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7376  
-**Last updated:** 2026-10-20T06:46:49.285Z
+**Total packages tracked:** 7384  
+**Last updated:** 2026-10-20T12:43:04.485Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [packstub/filament-nitpick](https://github.com/packstub/filament-nitpick) | 1 | Themes for Filament panels: designed looks, an open registry, a per-panel defaul... |
+| [chiarakang/soketi-app-manager-filament](https://github.com/chiarakang/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [momo8280/soketi-app-manager-filament](https://github.com/momo8280/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [Nduta06/KadariStores-Portfolio](https://github.com/Nduta06/KadariStores-Portfolio) | 0 | Laravel and Livewire inventory, sales and gross-profit demo with fictional data,... |
+| [roundly-consulting/events-for-laravel](https://github.com/roundly-consulting/events-for-laravel) | 1 | Real-world events for any Eloquent app: reusable venues with near-me search, tic... |
+| [dineshuprety/laravel-zip-bomb-guard](https://github.com/dineshuprety/laravel-zip-bomb-guard) | 0 | Laravel package for ZIP bomb detection, archive validation, and guarded extracti... |
+| [kreatifsayfa/nocache-laravel](https://github.com/kreatifsayfa/nocache-laravel) | 0 | Laravel package for nocache.dev |
+| [kaylas43700/laravel-devtoolbox](https://github.com/kaylas43700/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
 | [sergeismirnov31999/soketi-app-manager-filament](https://github.com/sergeismirnov31999/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
 | [roundly-consulting/tags-for-laravel](https://github.com/roundly-consulting/tags-for-laravel) | 1 | Typed taxonomies for any Eloquent model: flat or nested, single- or multi-select... |
 | [Tsipras31/laravel-devtoolbox](https://github.com/Tsipras31/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [BushlanovDev/laravel-prometheus-exporter](https://github.com/BushlanovDev/laravel-prometheus-exporter) | 1 | 📊 Laravel and Lumen prometheus exporter |
 | [LarissaSun766/laravel-devtoolbox](https://github.com/LarissaSun766/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
 | [edwards739/laravel-devtoolbox](https://github.com/edwards739/laravel-devtoolbox) | 0 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debug, and explore every... |
-| [maximklassen/nomenar](https://github.com/maximklassen/nomenar) | 0 | A modular user management and access control package for Laravel, providing auth... |
-| [Formbraid/laravel](https://github.com/Formbraid/laravel) | 0 | Read-only Composer mirror of the Formbraid Laravel package. Development lives in... |
-| [falak-sh/falak-apm-laravel](https://github.com/falak-sh/falak-apm-laravel) | 0 | Falak APM for Laravel (read-only mirror of OthmanHaba/falak packages/apm-laravel... |
-| [joshdaugherty/home-dashboard](https://github.com/joshdaugherty/home-dashboard) | 1 | A responsive, touch-first family dashboard kiosk (Livewire + Flux) for a wall-mo... |
-| [lyrixx/nativella-laravel](https://github.com/lyrixx/nativella-laravel) | 0 | [READ-ONLY] Subtree split of packages/laravel (nativella/laravel). Issues and pu... |
-| [njdigitallab/laranonce](https://github.com/njdigitallab/laranonce) | 0 | A nonce generator package for your laravel applications. |
-| [thefoxylabs/simple-task-tracker](https://github.com/thefoxylabs/simple-task-tracker) | 0 | Open-source, self-hosted, white-label task tracker for teams. Kanban board, proj... |
-| [rizalahmaddd/islamic-schools](https://github.com/rizalahmaddd/islamic-schools) | 1 | Sistem Informasi Manajemen Sekolah Islam & Pondok Pesantren Modern (SIAKAD, Tahf... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-20 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 1 | 2026-10-20 | Open-source, self-hosted deployment panel. Push to deploy La... |
-| [cosmira/sandbox](https://github.com/cosmira/sandbox) | 0 | 2026-10-20 | Laravel package for dual-table sandbox editing |
-| [santwer/Exporter](https://github.com/santwer/Exporter) | 1 | 2026-10-20 | Package for easy Word exports in Laravel on given Templates. |
-| [lava83/laravel-ddd](https://github.com/lava83/laravel-ddd) | 0 | 2026-10-20 | A comprehensive toolkit providing foundational building bloc... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-20 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [jeffersongoncalves/laravel-resend](https://github.com/jeffersongoncalves/laravel-resend) | 1 | 2026-10-20 | Laravel client for the Resend API: emails, domains, audience... |
-| [Magna-CMS/Magna-Pages](https://github.com/Magna-CMS/Magna-Pages) | 0 | 2026-10-20 | Visual page builder for Laravel — drag-and-drop pages, templ... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-10-20 | Laravel USPS Package to integrate USPS Address |
-| [ru5iru/api-mock-service](https://github.com/ru5iru/api-mock-service) | 0 | 2026-10-20 | Self-hosted API mocking with Laravel and Livewire. Import cU... |
-| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 46 | 2026-10-20 | Passwordless email magic-link & OTP authentication for Larav... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-20 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jeffersongoncalves/laravel-snov](https://github.com/jeffersongoncalves/laravel-snov) | 2 | 2026-10-20 | A Laravel client for the Snov.io API - domain search, email ... |
-| [Tsipras31/laravel-devtoolbox](https://github.com/Tsipras31/laravel-devtoolbox) | 0 | 2026-10-20 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debu... |
-| [Gokhan1026/laravel-devtoolbox](https://github.com/Gokhan1026/laravel-devtoolbox) | 0 | 2026-10-20 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debu... |
-| [sergeismirnov31999/soketi-app-manager-filament](https://github.com/sergeismirnov31999/soketi-app-manager-filament) | 0 | 2026-10-20 | Manage soketi websocket server and apps with ease. |
-| [jeffersongoncalves/laravel-tolt](https://github.com/jeffersongoncalves/laravel-tolt) | 1 | 2026-10-20 | Tolt affiliate and referral program API integration for Lara... |
-| [zipavlin/redline-laravel](https://github.com/zipavlin/redline-laravel) | 1 | 2026-10-20 | A Laravel package that adds a local, on-page bug-reporting t... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-10-20 | Runtime base library for building Laravel packages: fluent P... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-10-20 | Laravel package scaffolder: generate complete, convention-re... |
+| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | 2026-10-20 | A Laravel library for attaching files to Eloquent models. |
+| [Quittio/quittio](https://github.com/Quittio/quittio) | 23 | 2026-10-20 | E-invoicing for Laravel: ZUGFeRD/Factur-X, XRechnung, UBL an... |
+| [packstub/filament-nitpick](https://github.com/packstub/filament-nitpick) | 1 | 2026-10-20 | Themes for Filament panels: designed looks, an open registry... |
+| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-10-20 | Filament package for easy attachment uploading and browsing. |
+| [tapsilat/tapsilat-laravel](https://github.com/tapsilat/tapsilat-laravel) | 0 | 2026-10-20 | Laravel Package for Tapsilat |
+| [rajtik76/weather-station](https://github.com/rajtik76/weather-station) | 0 | 2026-10-20 | Balcony weather station in Plzeň: an ESP32 measuring tempera... |
+| [Quittio/laravel](https://github.com/Quittio/laravel) | 0 | 2026-10-20 | [READ ONLY] Subtree split of the Quittio Laravel integration... |
+| [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) | 391 | 2026-10-20 | Validate products and subscription receipts. Handle subscrip... |
+| [ayimdomnic/laragraph](https://github.com/ayimdomnic/laragraph) | 5 | 2026-10-20 | Code-first GraphQL server for Laravel: declarative types, N+... |
+| [jeffersongoncalves/laravel-partnerstack](https://github.com/jeffersongoncalves/laravel-partnerstack) | 1 | 2026-10-20 | PartnerStack partner and affiliate program API integration f... |
+| [AmphiBee/studizz](https://github.com/AmphiBee/studizz) | 1 | 2026-10-20 | A Laravel package to interact with the Studizz API |
+| [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | 2026-10-20 | UniMarket - a campus marketplace where verified university s... |
+| [spatie/laravel-mobile-pass-demo](https://github.com/spatie/laravel-mobile-pass-demo) | 17 | 2026-10-20 | A Laravel app to demonstrate the Laravel Mobile Pass package |
 | [roundly-consulting/tags-for-laravel](https://github.com/roundly-consulting/tags-for-laravel) | 1 | 2026-10-20 | Typed taxonomies for any Eloquent model: flat or nested, sin... |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-20 | Open-source, self-hosted video processing & delivery engine ... |
+| [roundly-consulting/events-for-laravel](https://github.com/roundly-consulting/events-for-laravel) | 1 | 2026-10-20 | Real-world events for any Eloquent app: reusable venues with... |
+| [roundly-consulting/tickets-for-laravel](https://github.com/roundly-consulting/tickets-for-laravel) | 2 | 2026-10-20 | Headless helpdesk ticketing core: categories, swappable stat... |
+| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-10-20 | NativeKit starter kit built on Laravel 13.x, Filament 5.x an... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-10-20 | NativeKit starter kit built on Laravel 13.x, Filament 3.x an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-20T12:43 | 8 | 1736 | 7384 |
 | 2026-10-20T06:46 | 7 | 1737 | 7376 |
 | 2026-10-20T01:01 | 8 | 1733 | 7369 |
 | 2026-10-19T18:38 | 3 | 1734 | 7361 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-18T18:32 | 10 | 1722 | 7328 |
 | 2026-10-18T12:37 | 5 | 1725 | 7318 |
 | 2026-10-18T06:43 | 6 | 1724 | 7313 |
-| 2026-10-18T01:05 | 16 | 1715 | 7307 |
 
 ---
 

@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7402  
-**Last updated:** 2026-10-21T06:47:53.635Z
+**Total packages tracked:** 7421  
+**Last updated:** 2026-10-21T12:43:07.352Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [amjadiqbal/laravel-driver-js](https://github.com/amjadiqbal/laravel-driver-js) | 1 | Driver.js product tours and onboarding for Laravel: build guided tours in PHP, r... |
-| [christianavila703/spannr](https://github.com/christianavila703/spannr) | 0 | Longevity clinic directory and content site: clinic, doctor and retreat listings... |
-| [moaaskt/Alvora](https://github.com/moaaskt/Alvora) | 0 | Plataforma LMS B2B com IA anti-evasão — Score de Risco preditivo, intervenção au... |
-| [iniznet/nightpost-laravel](https://github.com/iniznet/nightpost-laravel) | 0 | Nightpost Laravel producer package (tracker#278 sec3) |
-| [devtdlv/stockpilot](https://github.com/devtdlv/stockpilot) | 0 | A Laravel 12 and Livewire 4 inventory management application with stock tracking... |
-| [tailcove/laravel](https://github.com/tailcove/laravel) | 0 | Laravel logging for Tailcove: a Monolog handler and service provider that ships ... |
-| [gcego/core](https://github.com/gcego/core) | 1 | Laravel integration kernel for GCEGO Admin Studio: configuration, lifecycle, pac... |
-| [andreaselia/laravel-analytics](https://github.com/andreaselia/laravel-analytics) | 198 | Analytics for the Laravel framework. |
-| [FrameNetBrasil/framework](https://github.com/FrameNetBrasil/framework) | 0 | Package for Laravel Applications |
-| [jeffersongoncalves/filament-skeleton](https://github.com/jeffersongoncalves/filament-skeleton) | 1 | Automatic Flux-style skeleton loading states for Filament infolists, plus skelet... |
-| [Moussa404/laravel-blog-social](https://github.com/Moussa404/laravel-blog-social) | 0 | Social blogging platform built with Laravel 12 & Livewire 3 — posts with media, ... |
-| [kommthom/t-benninghaus](https://github.com/kommthom/t-benninghaus) | 0 | Ein einfacher Blog, um die kleinen und großen Dinge in meinem Leben festzuhalten... |
-| [byteminus/laravel-bdpaygate](https://github.com/byteminus/laravel-bdpaygate) | 5 | Every Bangladeshi payment gateway behind one Laravel API: bKash, Nagad, SSLComme... |
-| [Tawked/tawked-laravel](https://github.com/Tawked/tawked-laravel) | 0 | Tawked for Laravel: mail transport, WhatsApp Business API notification channel, ... |
-| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 0 | Opinionated ECS, Rector, and PHPStan presets for PHP and Laravel packages and ap... |
-| [reliqarts/laravel-scavenger](https://github.com/reliqarts/laravel-scavenger) | 156 | The most integrated web scraper package for Laravel. |
-| [carloschnouda1/laravel-newsletter-subscriptions](https://github.com/carloschnouda1/laravel-newsletter-subscriptions) | 0 | Lightweight Laravel newsletter package with double opt-in and unsubscribe handli... |
-| [shasha1589/laravel-razorpay-billing](https://github.com/shasha1589/laravel-razorpay-billing) | 2 | `laravel-razorpay-billing` is an open-source (MIT) Laravel package providing Cas... |
-| [packstub/filament-nitpick](https://github.com/packstub/filament-nitpick) | 1 | Themes for Filament panels: designed looks, an open registry, a per-panel defaul... |
-| [chiarakang/soketi-app-manager-filament](https://github.com/chiarakang/soketi-app-manager-filament) | 0 | Manage soketi websocket server and apps with ease. |
+| [JULIEN-CHRETIEN/pieges-laravel](https://github.com/JULIEN-CHRETIEN/pieges-laravel) | 0 | Pièges Laravel, Blade, Filament et Livewire rencontrés en production : le symptô... |
+| [amjadiqbal/laravel-media-viewer](https://github.com/amjadiqbal/laravel-media-viewer) | 0 | Blade and Livewire components that show PDFs (pdf.js), video and audio (video.js... |
+| [amjadiqbal/laravel-mysql-advisor](https://github.com/amjadiqbal/laravel-mysql-advisor) | 0 | Read-only MySQL and MariaDB health advisor for Laravel: finds unused and missing... |
+| [amjadiqbal/laravel-gridjs](https://github.com/amjadiqbal/laravel-gridjs) | 1 | Grid.js datagrid for Laravel: searchable, sortable, paginated data tables from a... |
+| [amjadiqbal/laravel-swiper](https://github.com/amjadiqbal/laravel-swiper) | 0 | Swiper sliders and carousels for Laravel: Blade components with typed props, Liv... |
+| [triopsi/SplitNest](https://github.com/triopsi/SplitNest) | 1 | SplitNest helps shared households manage budgets and split expenses fairly. Trac... |
+| [Gabrieldevro/laravel-consent-mode](https://github.com/Gabrieldevro/laravel-consent-mode) | 0 | Banner GDPR de cookie-uri pentru Laravel cu Google Consent Mode v2: refuzat impl... |
+| [Gabrieldevro/laravel-netopia](https://github.com/Gabrieldevro/laravel-netopia) | 0 | NETOPIA Payments (API v2) pentru Laravel: plăți cu cardul, status tranzacție și ... |
+| [Gabrieldevro/laravel-romanian-rules](https://github.com/Gabrieldevro/laravel-romanian-rules) | 0 | Reguli de validare Laravel pentru CNP, CUI/CIF, IBAN românesc și numere de telef... |
+| [amjadiqbal/refresher](https://github.com/amjadiqbal/refresher) | 0 | Faster Laravel tests: cache the migrated (and seeded) test database as a snapsho... |
+| [amjadiqbal/laravel-sweetalert2](https://github.com/amjadiqbal/laravel-sweetalert2) | 0 | SweetAlert2 popups, toasts and confirm dialogs for Laravel 12/13: flash from con... |
+| [amjadiqbal/laravel-ninja-keys](https://github.com/amjadiqbal/laravel-ninja-keys) | 0 | Cmd+K command palette for Laravel: ninja-keys actions built in PHP, filtered by ... |
+| [TecClubb/laravel-releasekit](https://github.com/TecClubb/laravel-releasekit) | 0 | Headless Laravel package for app releases: version checks with force-update and ... |
+| [onlyfansapi/onlyfansapi-php](https://github.com/onlyfansapi/onlyfansapi-php) | 1 | OnlyFans PHP SDK for the OnlyFans API. Composer package for PHP 8.1+ and Laravel... |
+| [phurix/laravel-html](https://github.com/phurix/laravel-html) | 0 | Phurix HTML compatibility package for Laravel 12; Composer package phurix/html |
+| [warhsn/payfast](https://github.com/warhsn/payfast) | 28 | Basic Laravel Package For ITN Payments through Payfast |
+| [apility/microsoft-graph-api](https://github.com/apility/microsoft-graph-api) | 2 | This package provides a PHP client library for working with the Microsoft Graph ... |
+| [claudiodekker/laravel-guardrails](https://github.com/claudiodekker/laravel-guardrails) | 0 | Deterministic checks for Laravel apps and packages that run on the lines you cha... |
+| [ravindra-dot/seeder-package](https://github.com/ravindra-dot/seeder-package) | 0 | Static Laravel diagnostics for Eloquent model and factory mappings, with source ... |
+| [putuwahyu29/bps-auth](https://github.com/putuwahyu29/bps-auth) | 0 | Keycloak Single Sign-On (SSO BPS & SSO Majapahit) and Employee REST API package ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [tkozelek/cnmx_zmeny](https://github.com/tkozelek/cnmx_zmeny) | 0 | 2026-10-21 | Shift planning app used by about 30 cinema staff: weekly sig... |
-| [nvl-laravel-suite/core](https://github.com/nvl-laravel-suite/core) | 0 | 2026-10-21 | Shared Support contracts and Data infrastructure for NVL Lar... |
-| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 5 | 2026-10-21 | Laravel package for interacting with Traccar api |
-| [filagora/filagora-plugins](https://github.com/filagora/filagora-plugins) | 0 | 2026-10-21 | Filagora plugins: a plugin and release library with moderati... |
-| [jeffersongoncalves/laravel-webhooks](https://github.com/jeffersongoncalves/laravel-webhooks) | 1 | 2026-10-21 | Outgoing webhooks for Laravel fired by Eloquent model events... |
-| [amjadiqbal/laravel-driver-js](https://github.com/amjadiqbal/laravel-driver-js) | 1 | 2026-10-21 | Driver.js product tours and onboarding for Laravel: build gu... |
-| [iniznet/nightpost-laravel](https://github.com/iniznet/nightpost-laravel) | 0 | 2026-10-21 | Nightpost Laravel producer package (tracker#278 sec3) |
+| [BrunosCode/TwillTranslationHandler](https://github.com/BrunosCode/TwillTranslationHandler) | 0 | 2026-10-21 | A Twill CMS capsule for managing Laravel translations direct... |
+| [JULIEN-CHRETIEN/pieges-laravel](https://github.com/JULIEN-CHRETIEN/pieges-laravel) | 0 | 2026-10-21 | Pièges Laravel, Blade, Filament et Livewire rencontrés en pr... |
+| [OpenAfghanistan/provinces](https://github.com/OpenAfghanistan/provinces) | 9 | 2026-10-21 | Laravel Package: Afghanistan Provinces & Districts |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-10-21 | A practical work management information system built with La... |
+| [amjadiqbal/laravel-media-viewer](https://github.com/amjadiqbal/laravel-media-viewer) | 0 | 2026-10-21 | Blade and Livewire components that show PDFs (pdf.js), video... |
+| [amjadiqbal/laralink](https://github.com/amjadiqbal/laralink) | 0 | 2026-10-21 | Local package development for Laravel: link a package from a... |
+| [TecClubb/laravel-releasekit](https://github.com/TecClubb/laravel-releasekit) | 0 | 2026-10-21 | Headless Laravel package for app releases: version checks wi... |
+| [amjadiqbal/kiln](https://github.com/amjadiqbal/kiln) | 2 | 2026-10-21 | Deploy-time OPcache control for Laravel: clear, warm and ins... |
 | [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-21 | Daywatch Laravel package to integrate into collecting events... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-10-21 | Laravel USPS Package to integrate USPS Address |
-| [Climactic/laravel-credits](https://github.com/Climactic/laravel-credits) | 330 | 2026-10-21 | A ledger-based Laravel package for managing credit-based sys... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-10-21 | Simple package for adding directives to show/hide content fr... |
-| [christianavila703/spannr](https://github.com/christianavila703/spannr) | 0 | 2026-10-21 | Longevity clinic directory and content site: clinic, doctor ... |
-| [AleksandrSamokhin/articlo](https://github.com/AleksandrSamokhin/articlo) | 0 | 2026-10-21 | Articlo is a modern social media platform built with Laravel... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 167 | 2026-10-21 | Filament plugin that allows to add dynamic, user-defined for... |
-| [jeffersongoncalves/laravel-service-desk](https://github.com/jeffersongoncalves/laravel-service-desk) | 9 | 2026-10-21 | A complete, headless Service Desk package for Laravel featur... |
-| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 0 | 2026-10-21 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-21 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [php-regex/regex-laravel](https://github.com/php-regex/regex-laravel) | 0 | 2026-10-21 | [READ-ONLY] Laravel integration for PHPRegex: the Regex serv... |
-| [ringlesoft/laravel-accounting](https://github.com/ringlesoft/laravel-accounting) | 0 | 2026-10-21 |  A feature-rich Laravel package for complete accounting mana... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-21 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [onlyfansapi/onlyfansapi-php](https://github.com/onlyfansapi/onlyfansapi-php) | 1 | 2026-10-21 | OnlyFans PHP SDK for the OnlyFans API. Composer package for ... |
+| [jeffersongoncalves/filament-metrics-posthog](https://github.com/jeffersongoncalves/filament-metrics-posthog) | 1 | 2026-10-21 | PostHog analytics dashboard widgets for Filament with settin... |
+| [jeffersongoncalves/filament-metrics-plausible](https://github.com/jeffersongoncalves/filament-metrics-plausible) | 1 | 2026-10-21 | Plausible Analytics dashboard widgets for Filament with sett... |
+| [amjadiqbal/laravel-mysql-advisor](https://github.com/amjadiqbal/laravel-mysql-advisor) | 0 | 2026-10-21 | Read-only MySQL and MariaDB health advisor for Laravel: find... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 21 | 2026-10-21 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [amjadiqbal/laravel-gridjs](https://github.com/amjadiqbal/laravel-gridjs) | 1 | 2026-10-21 | Grid.js datagrid for Laravel: searchable, sortable, paginate... |
+| [amjadiqbal/laravel-swiper](https://github.com/amjadiqbal/laravel-swiper) | 0 | 2026-10-21 | Swiper sliders and carousels for Laravel: Blade components w... |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 1 | 2026-10-21 | Plataforma de planeación y control de producción para manufa... |
+| [yuriyakishin/laravel-ai-chat-bot](https://github.com/yuriyakishin/laravel-ai-chat-bot) | 0 | 2026-10-21 | AI chat widget for Laravel with multiple LLM providers, func... |
+| [rutgers-oit-eds/laravel-cas-authentication](https://github.com/rutgers-oit-eds/laravel-cas-authentication) | 0 | 2026-10-21 | Laravel package for integrating Apereo phpCAS |
+| [yousef-aman/filament-modal-repeater](https://github.com/yousef-aman/filament-modal-repeater) | 18 | 2026-10-21 | Filament repeater that shows items in a compact table and ed... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-21T12:43 | 20 | 1713 | 7421 |
 | 2026-10-21T06:47 | 4 | 1731 | 7402 |
 | 2026-10-21T01:01 | 5 | 1732 | 7398 |
 | 2026-10-20T18:36 | 9 | 1732 | 7393 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-19T18:38 | 3 | 1734 | 7361 |
 | 2026-10-19T12:44 | 6 | 1732 | 7358 |
 | 2026-10-19T07:00 | 6 | 1731 | 7352 |
-| 2026-10-19T01:05 | 18 | 1717 | 7346 |
 
 ---
 

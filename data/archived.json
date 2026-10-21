@@ -1972,5 +1972,27 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-10-17T00:59:49.952Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "mohamed-ali-agourram/netpost": {
+    "name": "mohamed-ali-agourram/NetPost",
+    "url": "https://github.com/mohamed-ali-agourram/NetPost",
+    "description": "Social Media Web App, a platform designed for seamless social interactions",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "alpinejs",
+      "jquery",
+      "laravel",
+      "livewire",
+      "mysql"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2023-10-24T14:20:06Z",
+    "updated_at": "2025-10-21T10:50:43Z",
+    "pushed_at": "2025-10-21T10:50:40Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-10-21T12:43:07.315Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

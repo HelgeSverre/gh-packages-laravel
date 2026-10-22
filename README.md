@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7437  
-**Last updated:** 2026-10-22T00:59:54.510Z
+**Total packages tracked:** 7440  
+**Last updated:** 2026-10-22T06:48:06.428Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Hikki-dev/Laravel-Watch](https://github.com/Hikki-dev/Laravel-Watch) | 0 | Watch Website built on Laravel & MySQL |
+| [jturazzi/laravel-status](https://github.com/jturazzi/laravel-status) | 0 | Central dashboard monitoring Laravel applications through the GET /api/system-in... |
+| [ashiqfardus/laravel-fuzzy-search-demo](https://github.com/ashiqfardus/laravel-fuzzy-search-demo) | 0 | Laravel fuzzy search demo project using ashiqfardus/laravel-fuzzy-search package |
 | [filagora/filagora-notifications](https://github.com/filagora/filagora-notifications) | 0 | Notification preferences for Filagora: per-person, per-category, per-channel cho... |
 | [vergil-lai/laravel-daily-activity](https://github.com/vergil-lai/laravel-daily-activity) | 1 | 使用紧凑的年度位图记录每日活动，并统计连续活动天数。 |
 | [flooris/laravel-xelion](https://github.com/flooris/laravel-xelion) | 0 | Laravel package for connecting to Xelion |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [dkeepersun/botguard-laravel](https://github.com/dkeepersun/botguard-laravel) | 0 | BotGuard Laravel 适配包（只读镜像，由 dkeepersun/BotGuard 的 packages/laravel 自动同步，请勿直接提交） |
 | [stevenbraham/laravel-blade-translations-extractor](https://github.com/stevenbraham/laravel-blade-translations-extractor) | 0 | Laravel package for auto extracting strings from __ and @lang tags in Blade to J... |
 | [JULIEN-CHRETIEN/pieges-laravel](https://github.com/JULIEN-CHRETIEN/pieges-laravel) | 0 | Pièges Laravel, Blade, Filament et Livewire rencontrés en production : le symptô... |
-| [amjadiqbal/laravel-media-viewer](https://github.com/amjadiqbal/laravel-media-viewer) | 0 | Blade and Livewire components that show PDFs (pdf.js), video and audio (video.js... |
-| [amjadiqbal/laravel-mysql-advisor](https://github.com/amjadiqbal/laravel-mysql-advisor) | 0 | Read-only MySQL and MariaDB health advisor for Laravel: finds unused and missing... |
-| [amjadiqbal/laravel-gridjs](https://github.com/amjadiqbal/laravel-gridjs) | 1 | Grid.js datagrid for Laravel: searchable, sortable, paginated data tables from a... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -41,7 +41,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 473 | A Qiniu Storage filesystem for Laravel |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 470 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 469 | Open Source Laravel CRM Package |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 465 | A simple package to help integrate Cloudflare Turnstile. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jordanpartridge/github-client](https://github.com/jordanpartridge/github-client) | 3 | 2026-10-22 | A Github client that plays nice with Laravel |
+| [amjadiqbal/filament-rankforge-lite](https://github.com/amjadiqbal/filament-rankforge-lite) | 0 | 2026-10-22 | Free SEO fields for Filament 4 and 5: meta, Open Graph and T... |
+| [alifcoder/activity-log](https://github.com/alifcoder/activity-log) | 0 | 2026-10-22 | Laravel Activity Log A lightweight and extensible Laravel pa... |
+| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 100 | 2026-10-22 | A Filament package to manage adjacency lists (aka trees). |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-10-22 | A practical work management information system built with La... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-10-22 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-22 | A multi-purpose content and application platform for Laravel... |
-| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-10-22 | Package to manage medias within Laravel |
-| [leonardo-max/new-here](https://github.com/leonardo-max/new-here) | 1 | 2026-10-22 | Show each Filament user what's new right where it lives: pul... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 2 | 2026-10-22 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [MCore-Services-bv/teamleader-sdk](https://github.com/MCore-Services-bv/teamleader-sdk) | 0 | 2026-10-22 | An up-to-date SDK package for all your Teamleader API needs! |
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-10-22 | Laravel package to create administration dashboards |
-| [mmstewart/laravel-x-ray](https://github.com/mmstewart/laravel-x-ray) | 0 | 2026-10-22 | Laravel X-Ray is pre-upgrade readiness scanner for Laravel. ... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 15 | 2026-10-21 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 11 | 2026-10-21 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-10-21 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-21 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-10-21 | NativeKit starter kit built on Laravel 13.x, Filament 3.x an... |
-| [StuMason/laravel-coolify](https://github.com/StuMason/laravel-coolify) | 14 | 2026-10-21 | Laravel package for deploying to Coolify. Dashboard, CLI com... |
-| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-10-21 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
-| [jeffersongoncalves/laravel-metrics-ga4](https://github.com/jeffersongoncalves/laravel-metrics-ga4) | 1 | 2026-10-21 | Google Analytics 4 metrics for Laravel via the GA4 Data API ... |
-| [brunocfalcao/blade-feather-icons](https://github.com/brunocfalcao/blade-feather-icons) | 36 | 2026-10-21 | A package to easily make use of Feather Icons in your Larave... |
-| [creasico/laravel-dusk-browserstack](https://github.com/creasico/laravel-dusk-browserstack) | 2 | 2026-10-21 | Additional BrowserStack support for Laravel Dusk |
-| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 3 | 2026-10-21 | Automatic how-to and product demo videos for Laravel apps. D... |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 1 | 2026-10-21 | Plataforma de planeación y control de producción para manufa... |
+| [lfv-greven/lfv-intranet](https://github.com/lfv-greven/lfv-intranet) | 0 | 2026-10-22 | LfV Intranet is the internal platform of Luftfahrtvereinigun... |
+| [amjadiqbal/laravel-redis-advisor](https://github.com/amjadiqbal/laravel-redis-advisor) | 0 | 2026-10-22 | Read-only Redis health advisor for Laravel: finds queues at ... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-10-22 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-10-22 | Laravel USPS Package to integrate USPS Address |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-22 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [amjadiqbal/laravel-webpush-kit](https://github.com/amjadiqbal/laravel-webpush-kit) | 0 | 2026-10-22 | The browser side of Laravel web push: a Blade/Livewire subsc... |
+| [XBLOssia/librenms-theme-selector](https://github.com/XBLOssia/librenms-theme-selector) | 0 | 2026-10-22 | Theme Selector for LibreNMS |
+| [jonangelo18gpca/laravel-gpca-networking](https://github.com/jonangelo18gpca/laravel-gpca-networking) | 1 | 2026-10-22 |  |
+| [mk-josias/laravel-distributable](https://github.com/mk-josias/laravel-distributable) | 0 | 2026-10-22 | Design each Laravel module as a microservice: a context boun... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-10-22 | Public routing, rendering, caching boundaries, and theme int... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-22 | Open-source, self-hosted video processing & delivery engine ... |
+| [triopsi/SplitNest](https://github.com/triopsi/SplitNest) | 1 | 2026-10-22 | SplitNest helps shared households manage budgets and split e... |
+| [padosoft/laravel-ai-search-providers](https://github.com/padosoft/laravel-ai-search-providers) | 1 | 2026-10-22 | A plug-and-play Laravel package that exposes a single contra... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-22T06:48 | 3 | 1731 | 7440 |
 | 2026-10-22T00:59 | 3 | 1730 | 7437 |
 | 2026-10-21T18:36 | 13 | 1720 | 7434 |
 | 2026-10-21T12:43 | 20 | 1713 | 7421 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-20T12:43 | 8 | 1736 | 7384 |
 | 2026-10-20T06:46 | 7 | 1737 | 7376 |
 | 2026-10-20T01:01 | 8 | 1733 | 7369 |
-| 2026-10-19T18:38 | 3 | 1734 | 7361 |
 
 ---
 

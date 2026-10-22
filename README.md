@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7450  
-**Last updated:** 2026-10-22T12:43:59.938Z
+**Total packages tracked:** 7468  
+**Last updated:** 2026-10-22T18:36:24.171Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [amjadiqbal/filament-stat-cards](https://github.com/amjadiqbal/filament-stat-cards) | 0 | Richer stat cards for the Filament 4 and 5 stats overview widget: progress bars,... |
+| [jeffersongoncalves/laravel-zapsign](https://github.com/jeffersongoncalves/laravel-zapsign) | 1 | Laravel client for the ZapSign e-signature API: documents, templates, signers, r... |
+| [amjadiqbal/filament-deleted-records](https://github.com/amjadiqbal/filament-deleted-records) | 0 | A recycle bin for Filament 4 and 5: browse, preview, restore or permanently dele... |
+| [SimoneCerruti/laravel-translation-audit](https://github.com/SimoneCerruti/laravel-translation-audit) | 0 | Audit your app for missing or unused translations. |
+| [jeffersongoncalves/filament-zapsign](https://github.com/jeffersongoncalves/filament-zapsign) | 0 | Filament plugin for ZapSign e-signatures: send documents to sign, track signers ... |
+| [nodonhq/filament-bodega-lite](https://github.com/nodonhq/filament-bodega-lite) | 0 | Bodega Lite: a free, warm and highly legible Filament theme for shops and small ... |
+| [jeffersongoncalves/filament-autentique](https://github.com/jeffersongoncalves/filament-autentique) | 1 | Filament plugin for Autentique e-signatures: send documents to sign, track signe... |
+| [VTech9NL/filament-polder-theme](https://github.com/VTech9NL/filament-polder-theme) | 0 | Polder: an inset-layout theme for Filament 5 panels, with light and dark mode, c... |
+| [bakliounsaid/Cours](https://github.com/bakliounsaid/Cours) | 0 | Application de gestion des cours d’une école privée, avec planning, pointage et ... |
+| [devtdlv/restock](https://github.com/devtdlv/restock) | 0 | A Laravel 12 and Livewire 4 inventory management application with stock tracking... |
+| [aspic36/momokit-laravel](https://github.com/aspic36/momokit-laravel) | 0 | Read-only split of packages/laravel — Laravel bridge for MomoKit |
+| [shipbytes/laravel-settings](https://github.com/shipbytes/laravel-settings) | 0 | Database-backed application settings for Laravel, with a cache in front and a fa... |
+| [spatie/laravel-mailcoach-unlayer](https://github.com/spatie/laravel-mailcoach-unlayer) | 34 | [READ ONLY] An Unlayer editor package for Mailcoach |
+| [spatie/laravel-mailcoach-editor](https://github.com/spatie/laravel-mailcoach-editor) | 11 | [READ-ONLY] The Mailcoach Editor.js package |
+| [deniztezcan/laravel-postnl-api](https://github.com/deniztezcan/laravel-postnl-api) | 3 | Laravel PostNL API package |
+| [deniztezcan/laravel-bolcom-retailer-api](https://github.com/deniztezcan/laravel-bolcom-retailer-api) | 2 | Laravel package for the Bol.com v3 Retailer API |
+| [deniztezcan/laravel-responsecache-additions](https://github.com/deniztezcan/laravel-responsecache-additions) | 0 | Additions to Spatie's speed up a Laravel app by caching the entire response pack... |
+| [deniztezcan/laravel-google-shopping](https://github.com/deniztezcan/laravel-google-shopping) | 3 | Laravel Google Shopping package |
 | [jeffersongoncalves/laravel-autentique](https://github.com/jeffersongoncalves/laravel-autentique) | 1 | Laravel client for the Autentique e-signature GraphQL API: documents, signers, f... |
 | [alexisgeneau/laravel-belvedere](https://github.com/alexisgeneau/laravel-belvedere) | 0 | Horizon-style queue dashboard for Laravel's database queue driver |
-| [signl-no/laravel-valkyrie](https://github.com/signl-no/laravel-valkyrie) | 0 | Roles and abilities for Laravel — scoped grants, ownership rules, forbids that a... |
-| [Yativo/yativo-fiat-laravel](https://github.com/Yativo/yativo-fiat-laravel) | 0 | Official Laravel package for the Yativo Fiat API: config, facade, signed webhook... |
-| [aw-studio/laravel-states](https://github.com/aw-studio/laravel-states) | 44 | A package to make use of the finite state pattern in eloquent Models |
-| [reefki/laravel-geoip](https://github.com/reefki/laravel-geoip) | 21 | A Laravel package to get IP addresses geographical location. |
-| [medigeneit/master-genesis](https://github.com/medigeneit/master-genesis) | 3 | A Laravel package for genesis common api for master schedule, subjects, facultie... |
-| [Mo7mud/laravel-payment-gateways](https://github.com/Mo7mud/laravel-payment-gateways) | 0 | A package for payment gateways |
-| [vandarpay/cashier](https://github.com/vandarpay/cashier) | 11 | Vandar Cashier is a Laravel package that allows you to seamlessly implement IPG ... |
-| [ciiixid/laravel-db-timetravel](https://github.com/ciiixid/laravel-db-timetravel) | 0 | Siap! Ini draf deskripsi GitHub yang padat, jelas, langsung ke inti, dan pas di ... |
-| [Hikki-dev/Laravel-Watch](https://github.com/Hikki-dev/Laravel-Watch) | 0 | Watch Website built on Laravel & MySQL |
-| [jturazzi/laravel-status](https://github.com/jturazzi/laravel-status) | 0 | Central dashboard monitoring Laravel applications through the GET /api/system-in... |
-| [ashiqfardus/laravel-fuzzy-search-demo](https://github.com/ashiqfardus/laravel-fuzzy-search-demo) | 0 | Laravel fuzzy search demo project using ashiqfardus/laravel-fuzzy-search package |
-| [filagora/filagora-notifications](https://github.com/filagora/filagora-notifications) | 0 | Notification preferences for Filagora: per-person, per-category, per-channel cho... |
-| [vergil-lai/laravel-daily-activity](https://github.com/vergil-lai/laravel-daily-activity) | 1 | 使用紧凑的年度位图记录每日活动，并统计连续活动天数。 |
-| [flooris/laravel-xelion](https://github.com/flooris/laravel-xelion) | 0 | Laravel package for connecting to Xelion |
-| [amjadiqbal/laravel-webpush-kit](https://github.com/amjadiqbal/laravel-webpush-kit) | 0 | The browser side of Laravel web push: a Blade/Livewire subscribe button with a p... |
-| [amjadiqbal/laravel-redis-advisor](https://github.com/amjadiqbal/laravel-redis-advisor) | 0 | Read-only Redis health advisor for Laravel: finds queues at risk of eviction, ke... |
-| [amjadiqbal/laravel-notification-inbox](https://github.com/amjadiqbal/laravel-notification-inbox) | 0 | Catches every non-mail Laravel notification in local and staging (web push, FCM,... |
-| [amjadiqbal/laravel-pennant-dashboard](https://github.com/amjadiqbal/laravel-pennant-dashboard) | 0 | Standalone dashboard for Laravel Pennant feature flags: per-scope toggles, stick... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-10-22 | Scaffolds Ichava icon packages: one command, a token-substit... |
-| [igorsmoleac/design-laravel-kit](https://github.com/igorsmoleac/design-laravel-kit) | 0 | 2026-10-22 | Blade components for Italian Public Administration websites ... |
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-10-22 | Laravel package to create administration dashboards |
-| [haoyuqi/download-bing-wallpaper](https://github.com/haoyuqi/download-bing-wallpaper) | 0 | 2026-10-22 | Laravel 13 package that retrieves Bing wallpaper metadata by... |
-| [Pod-Point/countries](https://github.com/Pod-Point/countries) | 0 | 2026-10-22 | A little package that provides Laravel and Lumen application... |
-| [Yativo/yativo-fiat-laravel](https://github.com/Yativo/yativo-fiat-laravel) | 0 | 2026-10-22 | Official Laravel package for the Yativo Fiat API: config, fa... |
-| [hms5232/laravel-swagger](https://github.com/hms5232/laravel-swagger) | 3 | 2026-10-22 | Integrate Swagger UI and Editor  into Laravel |
-| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-10-22 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
-| [aw-studio/laravel-states](https://github.com/aw-studio/laravel-states) | 44 | 2026-10-22 | A package to make use of the finite state pattern in eloquen... |
-| [amjadiqbal/filament-change-requests](https://github.com/amjadiqbal/filament-change-requests) | 0 | 2026-10-22 | Filament plugin that holds record edits as change requests: ... |
-| [preprio/laravel-rest-sdk](https://github.com/preprio/laravel-rest-sdk) | 2 | 2026-10-22 | This Laravel package is a provider for the Prepr REST API. |
-| [filagora/filagora-notifications](https://github.com/filagora/filagora-notifications) | 0 | 2026-10-22 | Notification preferences for Filagora: per-person, per-categ... |
-| [jeffersongoncalves/laravel-autentique](https://github.com/jeffersongoncalves/laravel-autentique) | 1 | 2026-10-22 | Laravel client for the Autentique e-signature GraphQL API: d... |
-| [SaptooAji/seafood-marketplace](https://github.com/SaptooAji/seafood-marketplace) | 0 | 2026-10-22 | Multi-vendor seafood marketplace: Laravel 13 + PostgreSQL ba... |
-| [dkeepersun/botguard-laravel](https://github.com/dkeepersun/botguard-laravel) | 0 | 2026-10-22 | BotGuard Laravel 适配包（只读镜像，由 dkeepersun/BotGuard 的 packages/l... |
-| [alifcoder/activity-log](https://github.com/alifcoder/activity-log) | 0 | 2026-10-22 | Laravel Activity Log A lightweight and extensible Laravel pa... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 42 | 2026-10-22 | This project collects the most commonly used Laravel extensi... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-22 | A multi-purpose content and application platform for Laravel... |
+| [claudiodekker/laravel-guardrails](https://github.com/claudiodekker/laravel-guardrails) | 0 | 2026-10-22 | Deterministic checks for Laravel apps and packages that run ... |
+| [filagora/filagora-demo](https://github.com/filagora/filagora-demo) | 0 | 2026-10-22 | A Laravel 13 and Filament 5 app that installs the Filagora p... |
+| [ArtisanPack-UI/forms](https://github.com/ArtisanPack-UI/forms) | 2 | 2026-10-22 | A comprehensive form builder and management package for Lara... |
+| [stefro/laravel-lang-country](https://github.com/stefro/laravel-lang-country) | 301 | 2026-10-22 | Setting the locale is not enough most of the time, some coun... |
+| [alexisgeneau/laravel-belvedere](https://github.com/alexisgeneau/laravel-belvedere) | 0 | 2026-10-22 | Horizon-style queue dashboard for Laravel's database queue d... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-10-22 | Laravel package for haddowg/json-api: idiomatic routing, con... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 5 | 2026-10-22 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-22 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [amjadiqbal/filament-stat-cards](https://github.com/amjadiqbal/filament-stat-cards) | 0 | 2026-10-22 | Richer stat cards for the Filament 4 and 5 stats overview wi... |
+| [filagora/filagora-cms](https://github.com/filagora/filagora-cms) | 0 | 2026-10-22 | Pages, blocks, menus, media and a draft, version, schedule a... |
+| [filagora/filagora-core](https://github.com/filagora/filagora-core) | 0 | 2026-10-22 | Filagora core: module registry, settings and shared support ... |
+| [packstub/filament-account-switcher](https://github.com/packstub/filament-account-switcher) | 46 | 2026-10-22 | Switch between accounts in Filament: impersonate users, link... |
+| [folkloreinc/laravel-folklore](https://github.com/folkloreinc/laravel-folklore) | 0 | 2026-10-22 | Laravel 5 package to manage general dependencies and utiliti... |
+| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 11 | 2026-10-22 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-22 | Daywatch Laravel package to integrate into collecting events... |
+| [janecodelife/livewire-secure-properties](https://github.com/janecodelife/livewire-secure-properties) | 2 | 2026-10-22 | secure your livewire 4 properties with zero configs and void... |
+| [RussellMoore1987/Core-Integration-Laravel](https://github.com/RussellMoore1987/Core-Integration-Laravel) | 1 | 2026-10-22 | This project is taking the concepts from the Core Integratio... |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-22 | Open-source, self-hosted video processing & delivery engine ... |
+| [jeffersongoncalves/filament-zapsign](https://github.com/jeffersongoncalves/filament-zapsign) | 0 | 2026-10-22 | Filament plugin for ZapSign e-signatures: send documents to ... |
+| [XBLOssia/librenms-theme-selector](https://github.com/XBLOssia/librenms-theme-selector) | 0 | 2026-10-22 | Theme Selector for LibreNMS |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-10-22 | Laravel package to create administration dashboards |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-22T18:36 | 18 | 1709 | 7468 |
 | 2026-10-22T12:43 | 10 | 1721 | 7450 |
 | 2026-10-22T06:48 | 3 | 1731 | 7440 |
 | 2026-10-22T00:59 | 3 | 1730 | 7437 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-21T01:01 | 5 | 1732 | 7398 |
 | 2026-10-20T18:36 | 9 | 1732 | 7393 |
 | 2026-10-20T12:43 | 8 | 1736 | 7384 |
-| 2026-10-20T06:46 | 7 | 1737 | 7376 |
 
 ---
 

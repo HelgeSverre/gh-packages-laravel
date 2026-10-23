@@ -1,21 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-09-28T18:38:40.267Z",
-      "fetched": 2000,
-      "unique": 1780,
-      "new": 3,
-      "updated": 1720,
-      "archived": 0,
-      "total": 6669,
-      "queries": {
-        "laravel+package+language:PHP": 1000,
-        "topic:laravel-package+language:PHP": 500,
-        "topic:filament-plugin+language:PHP": 200,
-        "topic:livewire+language:PHP": 300
-      }
-    },
-    {
       "timestamp": "2026-09-29T01:09:19.780Z",
       "fetched": 2000,
       "unique": 1774,
@@ -1499,8 +1484,23 @@
         "topic:filament-plugin+language:PHP": 200,
         "topic:livewire+language:PHP": 300
       }
+    },
+    {
+      "timestamp": "2026-10-23T18:37:56.009Z",
+      "fetched": 2000,
+      "unique": 1775,
+      "new": 11,
+      "updated": 1705,
+      "archived": 0,
+      "total": 7501,
+      "queries": {
+        "laravel+package+language:PHP": 1000,
+        "topic:laravel-package+language:PHP": 500,
+        "topic:filament-plugin+language:PHP": 200,
+        "topic:livewire+language:PHP": 300
+      }
     }
   ],
-  "total_discovered": 7490,
-  "last_run": "2026-10-23T12:41:31.790Z"
+  "total_discovered": 7501,
+  "last_run": "2026-10-23T18:37:56.011Z"
 }

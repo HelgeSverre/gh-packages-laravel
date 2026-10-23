@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7490  
-**Last updated:** 2026-10-23T12:41:31.790Z
+**Total packages tracked:** 7501  
+**Last updated:** 2026-10-23T18:37:56.011Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [muhammadatiq1/my-tasks](https://github.com/muhammadatiq1/my-tasks) | 0 | Task-management app built with Laravel 12, Breeze authentication and Livewire — ... |
+| [amjadiqbal/laravel-sql-dashboard](https://github.com/amjadiqbal/laravel-sql-dashboard) | 0 | Read-only SQL dashboard for Laravel: saved queries with typed variables, charts,... |
+| [drivkraft/interlock](https://github.com/drivkraft/interlock) | 0 | Lightweight architecture manager for structuring Laravel apps with modules. |
+| [amjadiqbal/filament-record-pdf](https://github.com/amjadiqbal/filament-record-pdf) | 0 | Preview, download, bulk-download as ZIP, email and save any Filament 4/5 record ... |
+| [amjadiqbal/filament-audience-sync](https://github.com/amjadiqbal/filament-audience-sync) | 0 | Email-marketing audience sync for Filament 4 and 5: subscribe, unsubscribe, tag ... |
+| [amjadiqbal/filament-crm-sync](https://github.com/amjadiqbal/filament-crm-sync) | 0 | A free Filament 4 and 5 plugin that syncs your records to HubSpot as contacts, c... |
+| [amjadiqbal/laravel-first-party-analytics](https://github.com/amjadiqbal/laravel-first-party-analytics) | 0 | Self-hosted, privacy-friendly web analytics for Laravel: visits, sessions, pages... |
+| [maxkhim/laravel-storage-dedupler](https://github.com/maxkhim/laravel-storage-dedupler) | 46 | Laravel Package Prevents File Duplication |
+| [shoyim/latin-to-cyrillic](https://github.com/shoyim/latin-to-cyrillic) | 0 | Uzbek Latin ↔ Cyrillic ↔ New Latin transliteration package for Laravel |
+| [nashsaint/laravel-impersonation](https://github.com/nashsaint/laravel-impersonation) | 0 | A reusable, session-based impersonation package for Laravel 12 and 13. Explicit ... |
+| [amjadiqbal/laravel-pennant-experiments](https://github.com/amjadiqbal/laravel-pennant-experiments) | 0 | A/B and multivariate experiments for Laravel Pennant: weighted variants, sticky ... |
 | [LaravelPlus/payment-gateway](https://github.com/LaravelPlus/payment-gateway) | 0 | Multi-provider payment gateway for Laravel: Stripe, PayPal, crypto and more. |
 | [amjadiqbal/filament-billing-console](https://github.com/amjadiqbal/filament-billing-console) | 0 | A free, read-only Filament 4/5 billing console for Laravel Cashier (Stripe): cus... |
 | [packstub/filament-session-replay](https://github.com/packstub/filament-session-replay) | 8 | Session replay inside a Filament v5 panel, built on rrweb and packstub/session-r... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [amplifiedhq/laravatar](https://github.com/amplifiedhq/laravatar) | 7 | 🚀 A lightweight and easy-to-use Laravel package that add avatars to your models |
 | [mykholy/mavvix-safe-actions](https://github.com/mykholy/mavvix-safe-actions) | 0 | Production-safe bulk actions for FilamentPHP. Preview changes, validate permissi... |
 | [eloquage/laravel-places-scout](https://github.com/eloquage/laravel-places-scout) | 0 | A fluent Laravel package for interacting with the Google Places API with strongl... |
-| [tmgbedu/role-permission](https://github.com/tmgbedu/role-permission) | 3 | Laravel Role Permission package. |
-| [tmgbedu/laravel-media](https://github.com/tmgbedu/laravel-media) | 4 | Laravel Media Handler package. |
-| [ismailkorkmaz6806/pazaryeri](https://github.com/ismailkorkmaz6806/pazaryeri) | 0 | Laravel 13 ve MySQL 8 ile geliştirilen çok satıcılı (multi-vendor) modern e-tica... |
-| [corpuscom/blost-laravel](https://github.com/corpuscom/blost-laravel) | 0 | Ready-to-use Blost blog integration for Laravel; maintained in corpuscom/blost-b... |
-| [signllabs/valkyrie](https://github.com/signllabs/valkyrie) | 0 | Roles and abilities for Laravel — scoped grants, ownership rules, forbids that a... |
-| [signllabs/laravel-modules](https://github.com/signllabs/laravel-modules) | 0 | Lightweight architecture manager for structuring Laravel apps with modules. |
-| [siberfx/laravel-rustfs](https://github.com/siberfx/laravel-rustfs) | 0 | RustFS for Laravel 13+: S3 buckets & objects (versioning, object lock, lifecycle... |
-| [amjadiqbal/filament-uptime-monitor](https://github.com/amjadiqbal/filament-uptime-monitor) | 0 | Filament 4 and 5 admin UI for spatie/laravel-uptime-monitor: add, edit, enable a... |
-| [amjadiqbal/filament-xlsx-import](https://github.com/amjadiqbal/filament-xlsx-import) | 0 | Excel (.xlsx) and OpenDocument (.ods) files in Filament's core ImportAction, wit... |
-| [smtpfast/smtpfast-laravel](https://github.com/smtpfast/smtpfast-laravel) | 0 | Send Laravel mail through the SMTPfast API: mail driver, API client and webhook ... |
-| [kemaloskan/datatable-laravel](https://github.com/kemaloskan/datatable-laravel) | 0 | Read-only mirror of packages/adapter-laravel from kemaloskan/acun-datatable (Pac... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-10-23 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-23 | Daywatch Laravel package to integrate into collecting events... |
-| [jeffersongoncalves/mobilekit](https://github.com/jeffersongoncalves/mobilekit) | 7 | 2026-10-23 | MobileKit starter kit built on Laravel 13.x, Filament 3.x an... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-10-23 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-23 | The NativePHP website |
-| [OpenSID/Laravel-Filemanager](https://github.com/OpenSID/Laravel-Filemanager) | 2 | 2026-10-23 | Storage/Flysystem-backed Laravel file manager package, deriv... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-23 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-10-23 | A practical work management information system built with La... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-23 | A multi-purpose content and application platform for Laravel... |
-| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-10-23 | Package to manage medias within Laravel |
+| [amjadiqbal/laravel-sql-dashboard](https://github.com/amjadiqbal/laravel-sql-dashboard) | 0 | 2026-10-23 | Read-only SQL dashboard for Laravel: saved queries with type... |
+| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-10-23 | Scaffolds Ichava icon packages: one command, a token-substit... |
+| [drivkraft/interlock](https://github.com/drivkraft/interlock) | 0 | 2026-10-23 | Lightweight architecture manager for structuring Laravel app... |
+| [amjadiqbal/laravel-pennant-experiments](https://github.com/amjadiqbal/laravel-pennant-experiments) | 0 | 2026-10-23 | A/B and multivariate experiments for Laravel Pennant: weight... |
+| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 2 | 2026-10-23 | The shared base of a Laravel admin app as one updatable pack... |
 | [hughcube/laravel-knight](https://github.com/hughcube/laravel-knight) | 1 | 2026-10-23 | A powerful Laravel extension package providing enhanced Eloq... |
-| [alifcoder/permission](https://github.com/alifcoder/permission) | 1 | 2026-10-23 | Alif Permissions is a modular, lightweight Laravel package f... |
-| [petar-spasic/laravel-house](https://github.com/petar-spasic/laravel-house) | 1 | 2026-10-23 | House rules for Laravel projects: project setup, Docker depl... |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-10-23 | Public routing, rendering, caching boundaries, and theme int... |
-| [amplifiedhq/laravatar](https://github.com/amplifiedhq/laravatar) | 7 | 2026-10-23 | 🚀 A lightweight and easy-to-use Laravel package that add av... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-23 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-10-23 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
+| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-10-23 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
+| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-10-23 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
+| [whilesmartphp/eloquent-workspaces](https://github.com/whilesmartphp/eloquent-workspaces) | 0 | 2026-10-23 | A teams or workspace package for Laravel |
 | [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) | 391 | 2026-10-23 | Validate products and subscription receipts. Handle subscrip... |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 2 | 2026-10-23 | Visual feedback for Laravel and Livewire with client-side sc... |
-| [amjadiqbal/filament-record-settings](https://github.com/amjadiqbal/filament-record-settings) | 0 | 2026-10-23 | Edit per-user, per-team and per-tenant settings in Filament ... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-23 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-10-23 | A Laravel-based web application that tracks, analyzes, and p... |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-10-23 | Laravel package to create administration dashboards |
+| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-23 | Odden CRM: modular, open-source CRM packages for Laravel and... |
+| [toneflix/laravel-approvable-notifications](https://github.com/toneflix/laravel-approvable-notifications) | 0 | 2026-10-23 | A Laravel package to handle database notifications that requ... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-10-23 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-23 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 1 | 2026-10-23 | Plataforma de planeación y control de producción para manufa... |
+| [maxkhim/laravel-storage-dedupler](https://github.com/maxkhim/laravel-storage-dedupler) | 46 | 2026-10-23 | Laravel Package Prevents File Duplication |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-10-23 | Open-source Laravel-native CMS for structured, multi-site pu... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-23T18:37 | 11 | 1705 | 7501 |
 | 2026-10-23T12:41 | 7 | 1713 | 7490 |
 | 2026-10-23T06:47 | 4 | 1719 | 7484 |
 | 2026-10-23T01:03 | 12 | 1710 | 7480 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-22T00:59 | 3 | 1730 | 7437 |
 | 2026-10-21T18:36 | 13 | 1720 | 7434 |
 | 2026-10-21T12:43 | 20 | 1713 | 7421 |
-| 2026-10-21T06:47 | 4 | 1731 | 7402 |
 
 ---
 

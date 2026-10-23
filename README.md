@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7480  
-**Last updated:** 2026-10-23T01:03:17.446Z
+**Total packages tracked:** 7484  
+**Last updated:** 2026-10-23T06:47:40.739Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mykholy/mavvix-safe-actions](https://github.com/mykholy/mavvix-safe-actions) | 0 | Production-safe bulk actions for FilamentPHP. Preview changes, validate permissi... |
+| [eloquage/laravel-places-scout](https://github.com/eloquage/laravel-places-scout) | 0 | A fluent Laravel package for interacting with the Google Places API with strongl... |
+| [tmgbedu/role-permission](https://github.com/tmgbedu/role-permission) | 3 | Laravel Role Permission package. |
+| [tmgbedu/laravel-media](https://github.com/tmgbedu/laravel-media) | 4 | Laravel Media Handler package. |
 | [ismailkorkmaz6806/pazaryeri](https://github.com/ismailkorkmaz6806/pazaryeri) | 0 | Laravel 13 ve MySQL 8 ile geliştirilen çok satıcılı (multi-vendor) modern e-tica... |
 | [corpuscom/blost-laravel](https://github.com/corpuscom/blost-laravel) | 0 | Ready-to-use Blost blog integration for Laravel; maintained in corpuscom/blost-b... |
 | [signllabs/valkyrie](https://github.com/signllabs/valkyrie) | 0 | Roles and abilities for Laravel — scoped grants, ownership rules, forbids that a... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/laravel-zapsign](https://github.com/jeffersongoncalves/laravel-zapsign) | 1 | Laravel client for the ZapSign e-signature API: documents, templates, signers, r... |
 | [amjadiqbal/filament-deleted-records](https://github.com/amjadiqbal/filament-deleted-records) | 0 | A recycle bin for Filament 4 and 5: browse, preview, restore or permanently dele... |
 | [SimoneCerruti/laravel-translation-audit](https://github.com/SimoneCerruti/laravel-translation-audit) | 0 | Audit your app for missing or unused translations. |
-| [jeffersongoncalves/filament-zapsign](https://github.com/jeffersongoncalves/filament-zapsign) | 1 | Filament plugin for ZapSign e-signatures: send documents to sign, track signers ... |
-| [nodonhq/filament-bodega-lite](https://github.com/nodonhq/filament-bodega-lite) | 0 | Bodega Lite: a free, warm and highly legible Filament theme for shops and small ... |
-| [jeffersongoncalves/filament-autentique](https://github.com/jeffersongoncalves/filament-autentique) | 1 | Filament plugin for Autentique e-signatures: send documents to sign, track signe... |
-| [VTech9NL/filament-polder-theme](https://github.com/VTech9NL/filament-polder-theme) | 0 | Polder: an inset-layout theme for Filament 5 panels, with light and dark mode, c... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-10-23 | Sistema de gestão para centros e casas espíritas: assistidos... |
-| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-10-23 | Gremio Linhir |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-23 | Open-source, self-hosted video processing & delivery engine ... |
-| [XBLOssia/librenms-theme-selector](https://github.com/XBLOssia/librenms-theme-selector) | 0 | 2026-10-23 | Theme Selector for LibreNMS |
-| [businesstilto/commentable](https://github.com/businesstilto/commentable) | 18 | 2026-10-23 | An extensive and very customizable package that adds comment... |
-| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-10-23 | PHP / Laravel packages used by Visns Studio |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-23 | The flexible backbone for your next CMS. This powerful frame... |
-| [kra8/laravel-snowflake](https://github.com/kra8/laravel-snowflake) | 193 | 2026-10-23 | This Laravel package to generate 64 bit identifier like the ... |
+| [faustbrian/sequencer](https://github.com/faustbrian/sequencer) | 0 | 2026-10-23 | A powerful Laravel package that orchestrates sequential exec... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-10-23 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [eloquage/laravel-places-scout](https://github.com/eloquage/laravel-places-scout) | 0 | 2026-10-23 | A fluent Laravel package for interacting with the Google Pla... |
+| [alifcoder/permission](https://github.com/alifcoder/permission) | 1 | 2026-10-23 | Alif Permissions is a modular, lightweight Laravel package f... |
+| [benhartwich/leihregal](https://github.com/benhartwich/leihregal) | 0 | 2026-10-23 | Medienbibliothek mit Ausleihe, Reservierung und KI-gestützte... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-23 | A multi-purpose content and application platform for Laravel... |
-| [James-Lavina/Budget-App](https://github.com/James-Lavina/Budget-App) | 0 | 2026-10-23 |  |
-| [Hikki-dev/Laravel-Watch](https://github.com/Hikki-dev/Laravel-Watch) | 0 | 2026-10-23 | Watch Website built on Laravel & MySQL |
-| [folkloreinc/laravel-folklore](https://github.com/folkloreinc/laravel-folklore) | 0 | 2026-10-23 | Laravel 5 package to manage general dependencies and utiliti... |
-| [corpuscom/blost-laravel](https://github.com/corpuscom/blost-laravel) | 0 | 2026-10-23 | Ready-to-use Blost blog integration for Laravel; maintained ... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-23 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [signllabs/valkyrie](https://github.com/signllabs/valkyrie) | 0 | 2026-10-23 | Roles and abilities for Laravel — scoped grants, ownership r... |
-| [signllabs/laravel-modules](https://github.com/signllabs/laravel-modules) | 0 | 2026-10-22 | Lightweight architecture manager for structuring Laravel app... |
-| [kemaloskan/datatable-laravel](https://github.com/kemaloskan/datatable-laravel) | 0 | 2026-10-22 | Read-only mirror of packages/adapter-laravel from kemaloskan... |
-| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-10-22 | Laravel-based API for storing sensor data from distributed n... |
-| [HoceineEl/filament-keyboard-shortcuts](https://github.com/HoceineEl/filament-keyboard-shortcuts) | 4 | 2026-10-22 | Keyboard shortcuts for Filament panels: a ? cheat sheet, g-c... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-22 | The NativePHP website |
+| [Mo7mud/laravel-payment-gateways](https://github.com/Mo7mud/laravel-payment-gateways) | 0 | 2026-10-23 | A package for payment gateways |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-10-23 | A lightweight, convention-driven modular architecture packag... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-10-23 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-10-23 | A Laravel package to handle AWS SNS notifications, providing... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-10-23 | Laravel USPS Package to integrate USPS Address |
+| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-10-23 | Gremio Linhir |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-23 | Daywatch Laravel package to integrate into collecting events... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-10-23 | A Laravel package that crawls websites to detect broken link... |
+| [mikeyperes/laravel-hexa-package-article-campaigns](https://github.com/mikeyperes/laravel-hexa-package-article-campaigns) | 0 | 2026-10-23 | Generic Laravel article campaign domain engine, policies, di... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 33 | 2026-10-23 | A PHPStan extension for analysis of Laravel applications and... |
+| [hms5232/laravel-swagger](https://github.com/hms5232/laravel-swagger) | 3 | 2026-10-23 | Integrate Swagger UI and Editor  into Laravel |
+| [mozex/laravel-modules](https://github.com/mozex/laravel-modules) | 6 | 2026-10-23 | Laravel package that auto-discovers and registers module ass... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-10-23 | A Laravel-native integration & workflow automation package. |
+| [codebar-ag/laravel-event-logs](https://github.com/codebar-ag/laravel-event-logs) | 0 | 2026-10-23 | Event logging for HTTP requests and model events with plugga... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-23T06:47 | 4 | 1719 | 7484 |
 | 2026-10-23T01:03 | 12 | 1710 | 7480 |
 | 2026-10-22T18:36 | 18 | 1709 | 7468 |
 | 2026-10-22T12:43 | 10 | 1721 | 7450 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-21T12:43 | 20 | 1713 | 7421 |
 | 2026-10-21T06:47 | 4 | 1731 | 7402 |
 | 2026-10-21T01:01 | 5 | 1732 | 7398 |
-| 2026-10-20T18:36 | 9 | 1732 | 7393 |
 
 ---
 

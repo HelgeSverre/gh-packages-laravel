@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7501  
-**Last updated:** 2026-10-23T18:37:56.011Z
+**Total packages tracked:** 7503  
+**Last updated:** 2026-10-24T00:59:27.122Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [aantanaskovic/folio-cms](https://github.com/aantanaskovic/folio-cms) | 0 | A block-based portfolio CMS built with Laravel 13, Livewire 4, and Filament 5, f... |
+| [hanineelsrogy/inventory-dashboard-api](https://github.com/hanineelsrogy/inventory-dashboard-api) | 0 | REST API for inventory management built with Laravel and Sanctum. Role-based acc... |
 | [muhammadatiq1/my-tasks](https://github.com/muhammadatiq1/my-tasks) | 0 | Task-management app built with Laravel 12, Breeze authentication and Livewire — ... |
 | [amjadiqbal/laravel-sql-dashboard](https://github.com/amjadiqbal/laravel-sql-dashboard) | 0 | Read-only SQL dashboard for Laravel: saved queries with typed variables, charts,... |
 | [drivkraft/interlock](https://github.com/drivkraft/interlock) | 0 | Lightweight architecture manager for structuring Laravel apps with modules. |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kalimulhaq/qubuilder](https://github.com/kalimulhaq/qubuilder) | 1 | Turn a JSON filter payload into a chained Laravel Eloquent query: filters, eager... |
 | [packstub/session-replay](https://github.com/packstub/session-replay) | 14 | Session replay for Laravel, built on rrweb: a recorder with privacy defaults, to... |
 | [amplifiedhq/laravatar](https://github.com/amplifiedhq/laravatar) | 7 | 🚀 A lightweight and easy-to-use Laravel package that add avatars to your models |
-| [mykholy/mavvix-safe-actions](https://github.com/mykholy/mavvix-safe-actions) | 0 | Production-safe bulk actions for FilamentPHP. Preview changes, validate permissi... |
-| [eloquage/laravel-places-scout](https://github.com/eloquage/laravel-places-scout) | 0 | A fluent Laravel package for interacting with the Google Places API with strongl... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [amjadiqbal/laravel-sql-dashboard](https://github.com/amjadiqbal/laravel-sql-dashboard) | 0 | 2026-10-23 | Read-only SQL dashboard for Laravel: saved queries with type... |
-| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-10-23 | Scaffolds Ichava icon packages: one command, a token-substit... |
-| [drivkraft/interlock](https://github.com/drivkraft/interlock) | 0 | 2026-10-23 | Lightweight architecture manager for structuring Laravel app... |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 1 | 2026-10-24 | Plataforma de planeación y control de producción para manufa... |
+| [cholladay0816/American-Dad-Speedruns](https://github.com/cholladay0816/American-Dad-Speedruns) | 1 | 2026-10-24 | A website I built for americandadspeedruns.com, designed to ... |
+| [folkloreinc/laravel-folklore](https://github.com/folkloreinc/laravel-folklore) | 0 | 2026-10-24 | Laravel 5 package to manage general dependencies and utiliti... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-10-24 | A Laravel-based web application that tracks, analyzes, and p... |
+| [jeffersongoncalves/editorialthemev3](https://github.com/jeffersongoncalves/editorialthemev3) | 1 | 2026-10-24 | EditorialTheme starter kit built on Laravel 13.x and Filamen... |
+| [foxws/wireuse](https://github.com/foxws/wireuse) | 7 | 2026-10-24 | Collection of useful Livewire utilities. |
+| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 11 | 2026-10-24 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
+| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-24 | Odden CRM: modular, open-source CRM packages for Laravel and... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-10-24 | A Laravel-native integration & workflow automation package. |
+| [aantanaskovic/folio-cms](https://github.com/aantanaskovic/folio-cms) | 0 | 2026-10-23 | A block-based portfolio CMS built with Laravel 13, Livewire ... |
+| [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 3 | 2026-10-23 | Open-source, self-hosted deployment panel. Push to deploy La... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-23 | The NativePHP website |
+| [petar-spasic/laravel-house](https://github.com/petar-spasic/laravel-house) | 1 | 2026-10-23 | House rules for Laravel projects: project setup, Docker depl... |
+| [mykholy/laravel-flowguard](https://github.com/mykholy/laravel-flowguard) | 0 | 2026-10-23 | Laravel idempotency, durable webhook inbox, transactional ou... |
+| [mykholy/laravel-failurelab](https://github.com/mykholy/laravel-failurelab) | 0 | 2026-10-23 | Deterministic fault injection, webhook replay and recovery a... |
+| [mykholy/laravel-leakproof](https://github.com/mykholy/laravel-leakproof) | 0 | 2026-10-23 | Detect sensitive data leaks in Laravel JSON API responses wi... |
+| [mykholy/laravel-accessproof](https://github.com/mykholy/laravel-accessproof) | 0 | 2026-10-23 | Catch Laravel authorization regressions, IDOR/BOLA and cross... |
+| [The-3Labs-Team/nova-busy-resource-field](https://github.com/The-3Labs-Team/nova-busy-resource-field) | 3 | 2026-10-23 | 🔒 The missing package for Laravel Nova that lets you know w... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 0 | 2026-10-23 | The flexible backbone for your next CMS. This powerful frame... |
 | [amjadiqbal/laravel-pennant-experiments](https://github.com/amjadiqbal/laravel-pennant-experiments) | 0 | 2026-10-23 | A/B and multivariate experiments for Laravel Pennant: weight... |
-| [mrjthedifferent/laravel-foundation](https://github.com/mrjthedifferent/laravel-foundation) | 2 | 2026-10-23 | The shared base of a Laravel admin app as one updatable pack... |
-| [hughcube/laravel-knight](https://github.com/hughcube/laravel-knight) | 1 | 2026-10-23 | A powerful Laravel extension package providing enhanced Eloq... |
-| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-10-23 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
-| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-10-23 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
-| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-10-23 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
-| [whilesmartphp/eloquent-workspaces](https://github.com/whilesmartphp/eloquent-workspaces) | 0 | 2026-10-23 | A teams or workspace package for Laravel |
-| [imdhemy/laravel-in-app-purchases](https://github.com/imdhemy/laravel-in-app-purchases) | 391 | 2026-10-23 | Validate products and subscription receipts. Handle subscrip... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-10-23 | A Laravel-based web application that tracks, analyzes, and p... |
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-10-23 | Laravel package to create administration dashboards |
-| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-23 | Odden CRM: modular, open-source CRM packages for Laravel and... |
-| [toneflix/laravel-approvable-notifications](https://github.com/toneflix/laravel-approvable-notifications) | 0 | 2026-10-23 | A Laravel package to handle database notifications that requ... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-10-23 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-23 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 1 | 2026-10-23 | Plataforma de planeación y control de producción para manufa... |
-| [maxkhim/laravel-storage-dedupler](https://github.com/maxkhim/laravel-storage-dedupler) | 46 | 2026-10-23 | Laravel Package Prevents File Duplication |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-10-23 | Open-source Laravel-native CMS for structured, multi-site pu... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-24T00:59 | 2 | 1714 | 7503 |
 | 2026-10-23T18:37 | 11 | 1705 | 7501 |
 | 2026-10-23T12:41 | 7 | 1713 | 7490 |
 | 2026-10-23T06:47 | 4 | 1719 | 7484 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-22T06:48 | 3 | 1731 | 7440 |
 | 2026-10-22T00:59 | 3 | 1730 | 7437 |
 | 2026-10-21T18:36 | 13 | 1720 | 7434 |
-| 2026-10-21T12:43 | 20 | 1713 | 7421 |
 
 ---
 

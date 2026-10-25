@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7523  
-**Last updated:** 2026-10-25T01:05:42.571Z
+**Total packages tracked:** 7525  
+**Last updated:** 2026-10-25T06:44:03.897Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [kaziomarsh24/laravel-atomic-cache](https://github.com/kaziomarsh24/laravel-atomic-cache) | 0 | High-performance, stampede-proof caching package for Laravel with atomic locks, ... |
+| [andriichuk/laracash](https://github.com/andriichuk/laracash) | 74 | PHP Laravel Money Package 💰 |
 | [jeffersongoncalves/filament-session-management](https://github.com/jeffersongoncalves/filament-session-management) | 1 | A Filament plugin to read and manage Laravel's database sessions: see who is log... |
 | [atannex/workflow](https://github.com/atannex/workflow) | 1 | A workflow engine for Laravel Eloquent models. Define states and transitions onc... |
 | [atannex/retrive](https://github.com/atannex/retrive) | 1 | Data retrieval layer for Laravel Eloquent models: resource definitions, a fluent... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Saivra/meui-theme](https://github.com/Saivra/meui-theme) | 0 | A native light and dark application theme for Filament 5, by Saivra Technologies... |
 | [yavuz/filament-theme](https://github.com/yavuz/filament-theme) | 0 | A panel theme for Filament 5: dark full-height sidebar, top bar with search, qui... |
 | [ExeQue/laravel-mosparo](https://github.com/ExeQue/laravel-mosparo) | 0 | mosparo spam protection for Laravel and Livewire: Blade directives, a validation... |
-| [nafiur/laravel-web-analytics](https://github.com/nafiur/laravel-web-analytics) | 0 | A modern, fast, and self-hosted Web Traffic & Visitor Analytics Dashboard for La... |
-| [denniepasman/laravel-signals](https://github.com/denniepasman/laravel-signals) | 0 | Laravel package: client error and log intake for DennieOS (contract v1) |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-25 | Odden CRM: modular, open-source CRM packages for Laravel and... |
-| [hughcube/laravel-knight](https://github.com/hughcube/laravel-knight) | 1 | 2026-10-25 | A powerful Laravel extension package providing enhanced Eloq... |
-| [atannex/workflow](https://github.com/atannex/workflow) | 1 | 2026-10-25 | A workflow engine for Laravel Eloquent models. Define states... |
-| [atannex/retrive](https://github.com/atannex/retrive) | 1 | 2026-10-25 | Data retrieval layer for Laravel Eloquent models: resource d... |
-| [atannex/matrix](https://github.com/atannex/matrix) | 1 | 2026-10-25 | The engagement matrix for Laravel: views, reading time, clic... |
-| [atannex/generator](https://github.com/atannex/generator) | 1 | 2026-10-25 | Unique, human-readable codes for Laravel: reference numbers,... |
-| [atannex/ecosystem](https://github.com/atannex/ecosystem) | 1 | 2026-10-25 | Deep, ranked search for Laravel Eloquent: any relation depth... |
-| [atannex/scopable](https://github.com/atannex/scopable) | 1 | 2026-10-25 | Declarative state and date scopes for Laravel Eloquent: publ... |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 441 | 2026-10-25 | A media picker plugin for Filament Panels. |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-10-25 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [cable8mm/Youtube](https://github.com/cable8mm/Youtube) | 1 | 2026-10-25 | Renewal Laravel PHP Facade/Wrapper for the Youtube Data API |
+| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 0 | 2026-10-25 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
+| [mdsazzad0002/SUBandL](https://github.com/mdsazzad0002/SUBandL) | 0 | 2026-10-25 | SUBandL — Software Update, Backup and License package for La... |
+| [SachinPawaskarUNO/tags](https://github.com/SachinPawaskarUNO/tags) | 0 | 2026-10-25 | A laravel package for associating tags to any model |
+| [saade/filament-autograph](https://github.com/saade/filament-autograph) | 83 | 2026-10-25 | A Filament package to collect signatures. |
+| [kaziomarsh24/laravel-atomic-cache](https://github.com/kaziomarsh24/laravel-atomic-cache) | 0 | 2026-10-25 | High-performance, stampede-proof caching package for Laravel... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-10-25 | Simple package for adding directives to show/hide content fr... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-10-25 | Laravel USPS Package to integrate USPS Address |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-25 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [andriichuk/laracash](https://github.com/andriichuk/laracash) | 74 | 2026-10-25 | PHP Laravel Money Package 💰 |
+| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-10-25 | A practical work management information system built with La... |
 | [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-25 | Daywatch Laravel package to integrate into collecting events... |
-| [jordanpartridge/laravel-say-logger](https://github.com/jordanpartridge/laravel-say-logger) | 0 | 2026-10-25 | 🎵 Laravel package that speaks your log messages using macOS... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-10-25 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-10-25 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [roberts/leads](https://github.com/roberts/leads) | 4 | 2026-10-25 | Laravel Package for multi-step lead generation |
-| [tudor-constantin/monitor](https://github.com/tudor-constantin/monitor) | 0 | 2026-10-24 | Self-hosted website uptime monitoring with response-time tra... |
-| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-10-24 | Laravel Podman brings Podman Quadlet support to your Laravel... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-24 | Lightweight toolkit for modular development in Laravel, for ... |
-| [jordanpartridge/github-client](https://github.com/jordanpartridge/github-client) | 3 | 2026-10-24 | A Github client that plays nice with Laravel |
-| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-10-24 | A standard suite of essentials for every Laravel app you bui... |
-| [Users-au/laravel-client](https://github.com/Users-au/laravel-client) | 1 | 2026-10-24 | This package is a Laravel client for Users.au Oauth. It prov... |
-| [bernskiold/laravel-ppt](https://github.com/bernskiold/laravel-ppt) | 2 | 2026-10-24 | A wrapper around PHP Presentation to easily create powerful ... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-25 | Lightweight toolkit for modular development in Laravel, for ... |
+| [moessimple/laravel-starter-kit-livewire](https://github.com/moessimple/laravel-starter-kit-livewire) | 0 | 2026-10-25 | Blank Laravel 13 + Livewire 4 skeleton for PHP 8.5 with the ... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-10-25 | A Laravel package that crawls websites to detect broken link... |
+| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 0 | 2026-10-25 | A job board where a company's silence shows. Laravel, Livewi... |
+| [Hikki-dev/Laravel-Watch](https://github.com/Hikki-dev/Laravel-Watch) | 0 | 2026-10-25 | Luxury watch marketplace on Laravel 12: 360° views, roles an... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 33 | 2026-10-25 | A PHPStan extension for analysis of Laravel applications and... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-25T06:44 | 2 | 1706 | 7525 |
 | 2026-10-25T01:05 | 11 | 1698 | 7523 |
 | 2026-10-24T18:33 | 4 | 1710 | 7513 |
 | 2026-10-24T12:37 | 5 | 1708 | 7509 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-23T12:41 | 7 | 1713 | 7490 |
 | 2026-10-23T06:47 | 4 | 1719 | 7484 |
 | 2026-10-23T01:03 | 12 | 1710 | 7480 |
-| 2026-10-22T18:36 | 18 | 1709 | 7468 |
 
 ---
 

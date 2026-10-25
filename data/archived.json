@@ -2015,5 +2015,30 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-10-23T12:41:31.751Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "unitedbycode/filament-blog-starter-kit": {
+    "name": "unitedbycode/filament-blog-starter-kit",
+    "url": "https://github.com/unitedbycode/filament-blog-starter-kit",
+    "description": "Simple, extensible publishing for devs, powered by Filament 4 & TALL.",
+    "stars": 5,
+    "forks": 1,
+    "topics": [
+      "alpinejs",
+      "blog",
+      "cms",
+      "filamentphp",
+      "laravel",
+      "livewire",
+      "tailwindcss",
+      "tall-stack"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-07-03T09:07:21Z",
+    "updated_at": "2026-01-23T15:34:04Z",
+    "pushed_at": "2025-10-24T23:50:43Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-10-25T01:05:42.514Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

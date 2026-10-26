@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7539  
-**Last updated:** 2026-10-25T18:34:04.406Z
+**Total packages tracked:** 7543  
+**Last updated:** 2026-10-26T01:05:23.351Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ismailkorkmaz6806/alsepete](https://github.com/ismailkorkmaz6806/alsepete) | 0 | Laravel 13 ve MySQL 8 ile geliştirilen çok satıcılı (multi-vendor) modern e-tica... |
+| [Lunixi-Payment/lunixi-laravel](https://github.com/Lunixi-Payment/lunixi-laravel) | 0 | Lunixi for Laravel: config, facade, webhook route with queue support, checkout f... |
+| [bernskiold/laravel-postmark](https://github.com/bernskiold/laravel-postmark) | 0 | Receive Postmark webhooks as typed Laravel events, and recognise Postmark inacti... |
+| [parsaaftabi/laravel-strong-migrations](https://github.com/parsaaftabi/laravel-strong-migrations) | 0 | Catch dangerous migrations before they lock your production tables. strong_migra... |
+| [EvanSchleret/laravel-user-presence](https://github.com/EvanSchleret/laravel-user-presence) | 0 | This package allows you to track user presence in your Laravel application. It p... |
 | [skillbobby/Spiggle-Geo-Lock](https://github.com/skillbobby/Spiggle-Geo-Lock) | 0 | Decide which Filament roles can open the panel from which countries and regions. |
 | [gsferro/filament-starter-kit-easy](https://github.com/gsferro/filament-starter-kit-easy) | 4 |  |
 | [katsugtgz/inventory-management](https://github.com/katsugtgz/inventory-management) | 0 | Laravel 13 + Filament 5 inventory management: stock ledger via observers, purcha... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [nitefine/laravel-db-timetravel](https://github.com/nitefine/laravel-db-timetravel) | 0 | A lightweight Laravel package for database time-travel and Git-style workflows. ... |
 | [azishapidin/indoregion](https://github.com/azishapidin/indoregion) | 273 | Package Laravel wilayah Indonesia | Data Provinsi, Kabupaten/Kota, Kecamatan dan... |
 | [kaziomarsh24/laravel-atomic-cache](https://github.com/kaziomarsh24/laravel-atomic-cache) | 2 | Zero-headache caching for Laravel. Cache database queries in 2 lines with automa... |
-| [andriichuk/laracash](https://github.com/andriichuk/laracash) | 74 | PHP Laravel Money Package 💰 |
-| [jeffersongoncalves/filament-session-management](https://github.com/jeffersongoncalves/filament-session-management) | 1 | A Filament plugin to read and manage Laravel's database sessions: see who is log... |
-| [atannex/workflow](https://github.com/atannex/workflow) | 1 | A workflow engine for Laravel Eloquent models. Define states and transitions onc... |
-| [atannex/retrive](https://github.com/atannex/retrive) | 1 | Data retrieval layer for Laravel Eloquent models: resource definitions, a fluent... |
-| [atannex/matrix](https://github.com/atannex/matrix) | 1 | The engagement matrix for Laravel: views, reading time, clicks, reactions, ratin... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [onurkacmaz/laravel-model-translate](https://github.com/onurkacmaz/laravel-model-translate) | 2 | 2026-10-25 | This package allows model translation. It is like Symfony's ... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-10-25 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [Chargily/chargily-pay-php](https://github.com/Chargily/chargily-pay-php) | 17 | 2026-10-25 | PHP Package of Chargily Pay™, the easiest and free way to in... |
-| [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | 2026-10-25 | Self-hosted, first-party analytics for Laravel: page views, ... |
-| [eramitgupta/laravel-disposable-email](https://github.com/eramitgupta/laravel-disposable-email) | 283 | 2026-10-25 | Feature-rich Laravel package for detecting and blocking disp... |
-| [bagistoplus/visual-debut](https://github.com/bagistoplus/visual-debut) | 2 | 2026-10-25 | The official reference theme for Bagisto Visual — lightweigh... |
-| [bakliounsaid/appointment](https://github.com/bakliounsaid/appointment) | 1 | 2026-10-25 | A web application for scheduling appointments online, allowi... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-10-25 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
-| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-10-25 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
-| [christopheraseidl/laravel-email-composer](https://github.com/christopheraseidl/laravel-email-composer) | 0 | 2026-10-25 | A simple Laravel package to compose email drafts and send to... |
-| [maxi032/LaravelAdminPackage](https://github.com/maxi032/LaravelAdminPackage) | 0 | 2026-10-25 | Laravel admin package |
-| [janecodelife/livewire-secure-properties](https://github.com/janecodelife/livewire-secure-properties) | 2 | 2026-10-25 | secure your livewire 4 properties with zero configs and void... |
-| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-10-25 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
-| [damianulan/laravel-sentinel](https://github.com/damianulan/laravel-sentinel) | 0 | 2026-10-25 | Laravel roles and permission package, that exhausts contextu... |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-10-25 | Public routing, rendering, caching boundaries, and theme int... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 1 | 2026-10-25 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [ringlesoft/laravel-accounting](https://github.com/ringlesoft/laravel-accounting) | 0 | 2026-10-25 |  A feature-rich Laravel package for complete accounting mana... |
+| [ArtisanPack-UI/forms](https://github.com/ArtisanPack-UI/forms) | 2 | 2026-10-26 | A comprehensive form builder and management package for Lara... |
+| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 42 | 2026-10-26 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-26 | Daywatch Laravel package to integrate into collecting events... |
+| [EvanSchleret/laravel-user-presence](https://github.com/EvanSchleret/laravel-user-presence) | 0 | 2026-10-26 | This package allows you to track user presence in your Larav... |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-10-26 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
+| [jordanpartridge/github-client](https://github.com/jordanpartridge/github-client) | 3 | 2026-10-26 | A Github client that plays nice with Laravel |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 15 | 2026-10-26 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-10-26 | Laravel OTP is a Laravel package that enables developers to ... |
+| [AlwaysCuriousCo/package-pipeline](https://github.com/AlwaysCuriousCo/package-pipeline) | 74 | 2026-10-26 | Your software. Your distribution. Your terms. |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-26 | A multi-purpose content and application platform for Laravel... |
+| [ismailkorkmaz6806/alsepete](https://github.com/ismailkorkmaz6806/alsepete) | 0 | 2026-10-25 | Laravel 13 ve MySQL 8 ile geliştirilen çok satıcılı (multi-v... |
+| [jonaaix/laravel-easy-backups](https://github.com/jonaaix/laravel-easy-backups) | 1 | 2026-10-25 | A developer-first, fluent and flexible package for creating ... |
+| [ivanmitrikeski/laravel-shipping](https://github.com/ivanmitrikeski/laravel-shipping) | 24 | 2026-10-25 | Shipping package for Laravel. Supported providers: UPS REST/... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-10-25 | A Laravel-native integration & workflow automation package. |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-10-25 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-25 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [liberusoftware/accounting-erp-laravel](https://github.com/liberusoftware/accounting-erp-laravel) | 170 | 2026-10-25 | Accounting application written in Laravel 13 / PHP 8.5 using... |
 | [liberusoftware/genealogy-laravel](https://github.com/liberusoftware/genealogy-laravel) | 193 | 2026-10-25 | Full genealogy and family tree building application using La... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-25 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [liberusoftware/automation-laravel](https://github.com/liberusoftware/automation-laravel) | 39 | 2026-10-25 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
+| [liberusoftware/maintenance-laravel](https://github.com/liberusoftware/maintenance-laravel) | 69 | 2026-10-25 | CMMS - Computerised maintenance management system applicatio... |
+| [matchory/response-cache](https://github.com/matchory/response-cache) | 2 | 2026-10-25 | A Laravel package that adds a smart cache for full responses |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-26T01:05 | 5 | 1699 | 7543 |
 | 2026-10-25T18:34 | 6 | 1699 | 7539 |
 | 2026-10-25T12:38 | 8 | 1697 | 7533 |
 | 2026-10-25T06:44 | 2 | 1706 | 7525 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-24T06:43 | 1 | 1715 | 7504 |
 | 2026-10-24T00:59 | 2 | 1714 | 7503 |
 | 2026-10-23T18:37 | 11 | 1705 | 7501 |
-| 2026-10-23T12:41 | 7 | 1713 | 7490 |
 
 ---
 

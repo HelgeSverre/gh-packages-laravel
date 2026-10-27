@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7573  
-**Last updated:** 2026-10-26T18:46:41.228Z
+**Total packages tracked:** 7577  
+**Last updated:** 2026-10-27T01:04:08.798Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [MujahidAbbas/laravel-umpire](https://github.com/MujahidAbbas/laravel-umpire) | 0 | Per-tool Gate authorization, tool-call audit events and a safe stale-client purg... |
+| [stayuptimistic/uptimistic-laravel](https://github.com/stayuptimistic/uptimistic-laravel) | 0 | Tells your Uptimistic monitor what a Laravel app runs on: Laravel, PHP, the data... |
+| [lucacermenati/nova-settings](https://github.com/lucacermenati/nova-settings) | 0 | Package for Laravel Nova to manage settings via nice UI |
+| [victorive/superban](https://github.com/victorive/superban) | 1 | Laravel package for rate limiting, banning API clients, and abuse prevention wit... |
 | [MatheusDiamantino/Livewire](https://github.com/MatheusDiamantino/Livewire) | 0 | Agenda de contatos em Laravel 11 + Livewire 3: cadastro, busca em tempo real, pa... |
 | [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: auth, permisos, nave... |
 | [paper-leaf/papertrail-laravel-agent](https://github.com/paper-leaf/papertrail-laravel-agent) | 0 | A Laravel package that securely connects Laravel applications to PaperTrail, pro... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [otatechie/filament-kinetics](https://github.com/otatechie/filament-kinetics) | 7 | A minimal theme for Filament 4 and 5. |
 | [cbz1991/laravel-db-safe-mode](https://github.com/cbz1991/laravel-db-safe-mode) | 0 | Work with production data locally without fear: block DB writes, outbound mail/n... |
 | [andriichuk/pushbox](https://github.com/andriichuk/pushbox) | 1 | Preview and test Laravel push notifications. |
-| [danielebarbaro/scout-phpvector](https://github.com/danielebarbaro/scout-phpvector) | 0 | Laravel Scout engine backed by ezimuel/phpvector: full text, semantic and hybrid... |
-| [Sknadim6297/delta-support-laravel](https://github.com/Sknadim6297/delta-support-laravel) | 0 | A Laravel 12-based tours and travel management platform featuring Admin and Memb... |
-| [Ngoni-Sendama/dischub-php](https://github.com/Ngoni-Sendama/dischub-php) | 0 | A Laravel package for integrating with the Dischub payments API |
-| [theRuined143/laravel-gotenberg](https://github.com/theRuined143/laravel-gotenberg) | 0 | A small package to use with laravel for screenshoting blade templates and storin... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dskripchenko/laravel-api](https://github.com/dskripchenko/laravel-api) | 13 | 2026-10-26 | Versioned Laravel APIs with OpenAPI 3.0 docs generated from ... |
-| [tsitsishvili/elastic-audit](https://github.com/tsitsishvili/elastic-audit) | 0 | 2026-10-26 | Laravel package that logs third-party HTTP traffic (outgoing... |
-| [Jurager/teams](https://github.com/Jurager/teams) | 236 | 2026-10-26 | Laravel package for managing teams and user permissions. |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-10-26 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [hughcube/laravel-knight](https://github.com/hughcube/laravel-knight) | 1 | 2026-10-26 | A powerful Laravel extension package providing enhanced Eloq... |
-| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 499 | 2026-10-26 | A full-featured Laravel package for aiding in Shopify App de... |
-| [lyrixx/nativella-laravel](https://github.com/lyrixx/nativella-laravel) | 0 | 2026-10-26 | [READ-ONLY] Subtree split of packages/laravel (nativella/lar... |
-| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-10-26 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
-| [ArtisanPack-UI/forms](https://github.com/ArtisanPack-UI/forms) | 2 | 2026-10-26 | A comprehensive form builder and management package for Lara... |
-| [PERSISPELEKELO/uni-market](https://github.com/PERSISPELEKELO/uni-market) | 0 | 2026-10-26 | UniMarket - a campus marketplace where verified university s... |
-| [andriichuk/pushbox](https://github.com/andriichuk/pushbox) | 1 | 2026-10-26 | Preview and test Laravel push notifications. |
-| [LabskAI/shopmade-core](https://github.com/LabskAI/shopmade-core) | 0 | 2026-10-26 | Shopmade core: open source Laravel website system with conte... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-10-26 | A package to create datatables using alpinejs, tailwind, liv... |
-| [phpay-io/phpay-laravel](https://github.com/phpay-io/phpay-laravel) | 3 | 2026-10-26 | Bridge do PHPay para Laravel: service provider, config, reso... |
-| [Abdullah-Zaman/student-support-portal](https://github.com/Abdullah-Zaman/student-support-portal) | 0 | 2026-10-26 | Student support and grievance portal for the SE Department, ... |
-| [Quittio/quittio](https://github.com/Quittio/quittio) | 30 | 2026-10-26 | E-invoicing for Laravel: ZUGFeRD/Factur-X, XRechnung, UBL an... |
-| [saade/fluppy](https://github.com/saade/fluppy) | 2 | 2026-10-26 | The last upload field your Filament app will need. Uppy for ... |
-| [Ngoni-Sendama/dischub-php](https://github.com/Ngoni-Sendama/dischub-php) | 0 | 2026-10-26 | A Laravel package for integrating with the Dischub payments ... |
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 204 | 2026-10-26 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [ArtisanPack-UI/forms](https://github.com/ArtisanPack-UI/forms) | 2 | 2026-10-27 | A comprehensive form builder and management package for Lara... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 376 | 2026-10-27 | The official Laravel Nightwatch package. |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-27 | A multi-purpose content and application platform for Laravel... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-27 | Daywatch Laravel package to integrate into collecting events... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-10-27 | A package to create datatables using alpinejs, tailwind, liv... |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-27 | Magic Framework Laravel backend starter package. |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-10-27 | The Moox Project - Packages for Filament and Laravel |
+| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-27 | Odden CRM: modular, open-source CRM packages for Laravel and... |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-10-27 | Sistema de gestão para centros e casas espíritas: assistidos... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-10-26 | Laravel package for haddowg/json-api: idiomatic routing, con... |
 | [ichava/core](https://github.com/ichava/core) | 0 | 2026-10-26 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [cboxdk/laravel-telemetry-ui](https://github.com/cboxdk/laravel-telemetry-ui) | 2 | 2026-10-26 | Laravel-native observability UI for cboxdk/laravel-telemetry... |
+| [stayuptimistic/uptimistic-laravel](https://github.com/stayuptimistic/uptimistic-laravel) | 0 | 2026-10-26 | Tells your Uptimistic monitor what a Laravel app runs on: La... |
+| [liberusoftware/module-liberu-executive-insights-livewire](https://github.com/liberusoftware/module-liberu-executive-insights-livewire) | 0 | 2026-10-26 | This optional Livewire 4 package presents exactly one new Li... |
+| [liberusoftware/module-liberu-executive-insights-filament](https://github.com/liberusoftware/module-liberu-executive-insights-filament) | 0 | 2026-10-26 | This optional Filament 5 package presents exactly one new Li... |
+| [liberusoftware/module-liberu-executive-insights-api](https://github.com/liberusoftware/module-liberu-executive-insights-api) | 0 | 2026-10-26 | This optional API package presents exactly one new Liberu cr... |
+| [liberusoftware/module-liberu-executive-insights](https://github.com/liberusoftware/module-liberu-executive-insights) | 0 | 2026-10-26 | This package is the authoritative, provider-neutral implemen... |
+| [liberusoftware/module-liberu-business-workflow-reconciliation-livewire](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-livewire) | 0 | 2026-10-26 | This optional Livewire 4 package presents exactly one new Li... |
+| [liberusoftware/module-liberu-business-workflow-reconciliation-filament](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-filament) | 0 | 2026-10-26 | This optional Filament 5 package presents exactly one new Li... |
+| [liberusoftware/module-liberu-business-workflow-reconciliation-api](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-api) | 0 | 2026-10-26 | This optional API package presents exactly one new Liberu cr... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-27T01:04 | 4 | 1702 | 7577 |
 | 2026-10-26T18:46 | 11 | 1695 | 7573 |
 | 2026-10-26T14:09 | 9 | 1695 | 7562 |
 | 2026-10-26T07:01 | 11 | 1693 | 7553 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-25T06:44 | 2 | 1706 | 7525 |
 | 2026-10-25T01:05 | 11 | 1698 | 7523 |
 | 2026-10-24T18:33 | 4 | 1710 | 7513 |
-| 2026-10-24T12:37 | 5 | 1708 | 7509 |
 
 ---
 

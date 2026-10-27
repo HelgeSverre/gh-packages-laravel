@@ -36364,25 +36364,6 @@
     "pushed_at": "2025-10-27T16:15:04Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
-  "einundzwanzig-podcast/einundzwanzig-portal": {
-    "name": "Einundzwanzig-Podcast/einundzwanzig-portal",
-    "url": "https://github.com/Einundzwanzig-Podcast/einundzwanzig-portal",
-    "description": "Einundzwanzig Portal ",
-    "stars": 13,
-    "forks": 6,
-    "topics": [
-      "laravel",
-      "livewire",
-      "php",
-      "portal"
-    ],
-    "language": "PHP",
-    "license": "MIT",
-    "created_at": "2022-11-29T10:56:18Z",
-    "updated_at": "2026-03-23T12:08:28Z",
-    "pushed_at": "2025-10-27T10:59:29Z",
-    "discovered_at": "2026-02-19T00:44:48.867Z"
-  },
   "tonegabes/filament-mpac": {
     "name": "tonegabes/filament-mpac",
     "url": "https://github.com/tonegabes/filament-mpac",

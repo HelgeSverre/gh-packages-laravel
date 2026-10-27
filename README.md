@@ -2,8 +2,8 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7580  
-**Last updated:** 2026-10-27T06:49:40.376Z
+**Total packages tracked:** 7579  
+**Last updated:** 2026-10-27T12:44:42.706Z
 
 ## 📦 Recently Discovered
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-27T12:44 | 0 | 0 | 7579 |
 | 2026-10-27T06:49 | 3 | 1701 | 7580 |
 | 2026-10-27T01:04 | 4 | 1702 | 7577 |
 | 2026-10-26T18:46 | 11 | 1695 | 7573 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-25T18:34 | 6 | 1699 | 7539 |
 | 2026-10-25T12:38 | 8 | 1697 | 7533 |
 | 2026-10-25T06:44 | 2 | 1706 | 7525 |
-| 2026-10-25T01:05 | 11 | 1698 | 7523 |
 
 ---
 

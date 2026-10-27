@@ -2116,5 +2116,51 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-10-27T12:44:42.673Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "jose-daniel-g/ecommerce-laravel-tailwind": {
+    "name": "Jose-Daniel-G/ecommerce-laravel-tailwind",
+    "url": "https://github.com/Jose-Daniel-G/ecommerce-laravel-tailwind",
+    "description": "",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "laravel",
+      "livewire",
+      "tailwind"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2025-10-05T03:19:58Z",
+    "updated_at": "2025-10-28T01:38:39Z",
+    "pushed_at": "2025-10-27T17:59:54Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-10-27T18:27:53.492Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "pablorica/statamic_starter_kit": {
+    "name": "pablorica/statamic_starter_kit",
+    "url": "https://github.com/pablorica/statamic_starter_kit",
+    "description": "A Statamic starter kit based in Statamic Peak",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "alpinejs",
+      "laravel",
+      "laravel-framework",
+      "livewire",
+      "php",
+      "statamic",
+      "statamic-v3",
+      "tailwindcss",
+      "tall-stack"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2023-10-16T17:47:26Z",
+    "updated_at": "2025-10-27T16:15:09Z",
+    "pushed_at": "2025-10-27T16:15:04Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-10-27T18:27:53.492Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

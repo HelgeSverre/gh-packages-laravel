@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7577  
-**Last updated:** 2026-10-27T01:04:08.798Z
+**Total packages tracked:** 7580  
+**Last updated:** 2026-10-27T06:49:40.376Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [rootstuff/laravel-ops-mcp](https://github.com/rootstuff/laravel-ops-mcp) | 0 | A read-only MCP server inside your Laravel app so your agent can read the logs, ... |
+| [udaykiranchenna/Multiverse](https://github.com/udaykiranchenna/Multiverse) | 6 | Run Python workers seamlessly from Laravel. Execute Python scripts for AI, machi... |
+| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | A consumer-agent voting ledger for major package changes: a zero-dependency chan... |
 | [MujahidAbbas/laravel-umpire](https://github.com/MujahidAbbas/laravel-umpire) | 0 | Per-tool Gate authorization, tool-call audit events and a safe stale-client purg... |
 | [stayuptimistic/uptimistic-laravel](https://github.com/stayuptimistic/uptimistic-laravel) | 0 | Tells your Uptimistic monitor what a Laravel app runs on: Laravel, PHP, the data... |
 | [lucacermenati/nova-settings](https://github.com/lucacermenati/nova-settings) | 0 | Package for Laravel Nova to manage settings via nice UI |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Maxxksim/laravel-backup-package](https://github.com/Maxxksim/laravel-backup-package) | 0 |  |
 | [aotr/laravel-animated-icons](https://github.com/aotr/laravel-animated-icons) | 0 | Plug-and-play animated SVG icons for Laravel Blade — hover, click, auto, on-view... |
 | [tahir242/koha-mam](https://github.com/tahir242/koha-mam) | 0 | Digital media for your Koha catalogue: upload, check, review and publish scans, ... |
-| [otatechie/filament-kinetics](https://github.com/otatechie/filament-kinetics) | 7 | A minimal theme for Filament 4 and 5. |
-| [cbz1991/laravel-db-safe-mode](https://github.com/cbz1991/laravel-db-safe-mode) | 0 | Work with production data locally without fear: block DB writes, outbound mail/n... |
-| [andriichuk/pushbox](https://github.com/andriichuk/pushbox) | 1 | Preview and test Laravel push notifications. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ArtisanPack-UI/forms](https://github.com/ArtisanPack-UI/forms) | 2 | 2026-10-27 | A comprehensive form builder and management package for Lara... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 376 | 2026-10-27 | The official Laravel Nightwatch package. |
+| [MujahidAbbas/laravel-umpire](https://github.com/MujahidAbbas/laravel-umpire) | 0 | 2026-10-27 | Per-tool Gate authorization, tool-call audit events and a sa... |
+| [christopheraseidl/laravel-email-composer](https://github.com/christopheraseidl/laravel-email-composer) | 0 | 2026-10-27 | A simple Laravel package to compose email drafts and send to... |
+| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | 2026-10-27 | A consumer-agent voting ledger for major package changes: a ... |
+| [amondar-libs/repository-pattern](https://github.com/amondar-libs/repository-pattern) | 1 | 2026-10-27 | Laravel package to implement the repository pattern |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-10-27 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 1 | 2026-10-27 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
+| [vonsofh/laravel-faspay-test-lab](https://github.com/vonsofh/laravel-faspay-test-lab) | 1 | 2026-10-27 | Laravel package for Faspay SNAP UAT certification & automate... |
+| [kaziomarsh24/laravel-atomic-cache](https://github.com/kaziomarsh24/laravel-atomic-cache) | 2 | 2026-10-27 | Zero-headache caching for Laravel. Cache database queries in... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-27 | A multi-purpose content and application platform for Laravel... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-27 | Daywatch Laravel package to integrate into collecting events... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-10-27 | A package to create datatables using alpinejs, tailwind, liv... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-10-27 | Magic Framework Laravel backend starter package. |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-10-27 | The Moox Project - Packages for Filament and Laravel |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 123 | 2026-10-27 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-10-27 | Laravel USPS Package to integrate USPS Address |
+| [schmeits/pulse-panphp](https://github.com/schmeits/pulse-panphp) | 5 | 2026-10-27 | A Laravel Pulse card displaying PanPHP analytics |
+| [Particle-Academy/laravel-courses](https://github.com/Particle-Academy/laravel-courses) | 0 | 2026-10-27 | Laravel package for selling & serving curriculums, courses, ... |
 | [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-10-27 | Odden CRM: modular, open-source CRM packages for Laravel and... |
-| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-10-27 | Sistema de gestão para centros e casas espíritas: assistidos... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-10-26 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-10-26 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [cboxdk/laravel-telemetry-ui](https://github.com/cboxdk/laravel-telemetry-ui) | 2 | 2026-10-26 | Laravel-native observability UI for cboxdk/laravel-telemetry... |
-| [stayuptimistic/uptimistic-laravel](https://github.com/stayuptimistic/uptimistic-laravel) | 0 | 2026-10-26 | Tells your Uptimistic monitor what a Laravel app runs on: La... |
-| [liberusoftware/module-liberu-executive-insights-livewire](https://github.com/liberusoftware/module-liberu-executive-insights-livewire) | 0 | 2026-10-26 | This optional Livewire 4 package presents exactly one new Li... |
-| [liberusoftware/module-liberu-executive-insights-filament](https://github.com/liberusoftware/module-liberu-executive-insights-filament) | 0 | 2026-10-26 | This optional Filament 5 package presents exactly one new Li... |
-| [liberusoftware/module-liberu-executive-insights-api](https://github.com/liberusoftware/module-liberu-executive-insights-api) | 0 | 2026-10-26 | This optional API package presents exactly one new Liberu cr... |
-| [liberusoftware/module-liberu-executive-insights](https://github.com/liberusoftware/module-liberu-executive-insights) | 0 | 2026-10-26 | This package is the authoritative, provider-neutral implemen... |
-| [liberusoftware/module-liberu-business-workflow-reconciliation-livewire](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-livewire) | 0 | 2026-10-26 | This optional Livewire 4 package presents exactly one new Li... |
-| [liberusoftware/module-liberu-business-workflow-reconciliation-filament](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-filament) | 0 | 2026-10-26 | This optional Filament 5 package presents exactly one new Li... |
-| [liberusoftware/module-liberu-business-workflow-reconciliation-api](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-api) | 0 | 2026-10-26 | This optional API package presents exactly one new Liberu cr... |
+| [Particle-Academy/laravel-jobs-reference](https://github.com/Particle-Academy/laravel-jobs-reference) | 0 | 2026-10-27 | A real Laravel consumer of laravel-jobs + job-board. The sha... |
+| [Particle-Academy/laravel-jobs](https://github.com/Particle-Academy/laravel-jobs) | 0 | 2026-10-27 | Laravel package for job boards - employer job postings, publ... |
+| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 12 | 2026-10-27 | Complete gamification package with optional UI |
+| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-10-27 | Dedicated Instagram account attach, authenticated browser sc... |
+| [dskripchenko/laravel-api](https://github.com/dskripchenko/laravel-api) | 13 | 2026-10-27 | Versioned Laravel APIs with OpenAPI 3.0 docs generated from ... |
+| [dskripchenko/laravel-schemify](https://github.com/dskripchenko/laravel-schemify) | 0 | 2026-10-27 | Dynamic multi-schema PostgreSQL connections for Laravel — pe... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-27T06:49 | 3 | 1701 | 7580 |
 | 2026-10-27T01:04 | 4 | 1702 | 7577 |
 | 2026-10-26T18:46 | 11 | 1695 | 7573 |
 | 2026-10-26T14:09 | 9 | 1695 | 7562 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-25T12:38 | 8 | 1697 | 7533 |
 | 2026-10-25T06:44 | 2 | 1706 | 7525 |
 | 2026-10-25T01:05 | 11 | 1698 | 7523 |
-| 2026-10-24T18:33 | 4 | 1710 | 7513 |
 
 ---
 

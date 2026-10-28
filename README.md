@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7599  
-**Last updated:** 2026-10-28T06:36:44.655Z
+**Total packages tracked:** 7606  
+**Last updated:** 2026-10-28T12:33:04.731Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 0 | Open-source web hosting control panel for Ubuntu servers, with a first-class Lar... |
+| [imranbru99/school-and-college-management-erp-education-saas](https://github.com/imranbru99/school-and-college-management-erp-education-saas) | 0 | Enterprise Multi-Tenant AI Education ERP & SaaS Platform for Schools & Colleges.... |
+| [imranbru99/ai-e-governance](https://github.com/imranbru99/ai-e-governance) | 0 | AI-E-Governance: Complete AI-Powered Digital Government Operating System (GovOS)... |
+| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 1 | A fast Gantt chart and resource timeline for Filament: any Eloquent query with a... |
+| [Privatus-Analytics/filament-analytics](https://github.com/Privatus-Analytics/filament-analytics) | 0 | Privatus Analytics dashboard widgets for Filament: cookieless traffic stats, top... |
+| [Jarryd-W-Hoffman/route-notes](https://github.com/Jarryd-W-Hoffman/route-notes) | 1 | Add human‑readable context to Laravel routes and surface them directly in the ro... |
+| [touhidurabir/laravel-model-uuid](https://github.com/touhidurabir/laravel-model-uuid) | 11 | A laravel package to attach uuid to model classes |
 | [Pharaonic/laravel-uploader](https://github.com/Pharaonic/laravel-uploader) | 4 | Upload files to any Laravel disk with hashed names, image thumbnails, visibility... |
 | [Vishal09Software/laratribe-native-datepicker](https://github.com/Vishal09Software/laratribe-native-datepicker) | 2 | A lightweight Laravel-native datepicker package for seamless date selection, eas... |
 | [ronaldoaires/unset](https://github.com/ronaldoaires/unset) | 0 | Production BIM platform for Revit families: Laravel 13 + Filament 5 marketplace ... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [MrPunyapal/devstore](https://github.com/MrPunyapal/devstore) | 3 | A Laravel and Livewire developer hardware catalog for experimenting with Typesen... |
 | [hdqsta/choffeshop-qr-menu](https://github.com/hdqsta/choffeshop-qr-menu) | 0 | Coffee shop QR table ordering with Dynamic QRIS payments (Midtrans, Xendit, manu... |
 | [asseco-voice/laravel-custom-fields](https://github.com/asseco-voice/laravel-custom-fields) | 50 | Extensible Laravel models without the need for additional database attributes |
-| [asseco-voice/laravel-plan-router](https://github.com/asseco-voice/laravel-plan-router) | 0 | Laravel support for regex input matching.  |
-| [asseco-voice/laravel-json-search](https://github.com/asseco-voice/laravel-json-search) | 7 | Enabling 'search' method for Laravel Eloquent models. |
-| [asseco-voice/laravel-comments](https://github.com/asseco-voice/laravel-comments) | 0 | Comments for Laravel models |
-| [asseco-voice/laravel-common](https://github.com/asseco-voice/laravel-common) | 0 | Common classes and functions for our packages |
-| [asseco-voice/laravel-jwt-authentication](https://github.com/asseco-voice/laravel-jwt-authentication) | 1 | JWT token based Laravel authentication |
-| [InfarisHQ/monitoring-php](https://github.com/InfarisHQ/monitoring-php) | 0 | Guard by Infaris App Monitoring for PHP: Shopware, Symfony, Laravel, WordPress (... |
-| [latevaweb/laravel-translatable](https://github.com/latevaweb/laravel-translatable) | 0 | Make Eloquent model attributes translatables using Translations table |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-28 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [packstub/filament-account-switcher](https://github.com/packstub/filament-account-switcher) | 46 | 2026-10-28 | Switch between accounts in Filament: impersonate users, link... |
-| [triopsi/SplitNest](https://github.com/triopsi/SplitNest) | 1 | 2026-10-28 | SplitNest helps shared households manage budgets and split e... |
-| [Pharaonic/laravel-uploader](https://github.com/Pharaonic/laravel-uploader) | 4 | 2026-10-28 | Upload files to any Laravel disk with hashed names, image th... |
-| [katsugtgz/inventory-management](https://github.com/katsugtgz/inventory-management) | 0 | 2026-10-28 | Laravel 13 + Filament 5 inventory management: stock ledger v... |
-| [packstub/filament-nitpick](https://github.com/packstub/filament-nitpick) | 1 | 2026-10-28 | Themes for Filament panels: designed looks, an open registry... |
-| [packstub/filament-session-replay](https://github.com/packstub/filament-session-replay) | 8 | 2026-10-28 | Session replay inside a Filament v5 panel, built on rrweb an... |
-| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 3 | 2026-10-28 | Automatic how-to and product demo videos for Laravel apps. D... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-10-28 | Laravel USPS Package to integrate USPS Address |
-| [pawan1793/shopify-rest-to-graphql](https://github.com/pawan1793/shopify-rest-to-graphql) | 4 | 2026-10-28 | Shopify REST to GraphQL Processor is a Laravel package that ... |
-| [Vishal09Software/laratribe-native-datepicker](https://github.com/Vishal09Software/laratribe-native-datepicker) | 2 | 2026-10-28 | A lightweight Laravel-native datepicker package for seamless... |
-| [BushlanovDev/max-bot-api-client-php](https://github.com/BushlanovDev/max-bot-api-client-php) | 51 | 2026-10-28 | 🤖💬 Max Bot API Client library for PHP |
-| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 13 | 2026-10-28 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
-| [Jurager/teams](https://github.com/Jurager/teams) | 236 | 2026-10-28 | Laravel package for managing teams and user permissions. |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-28 | Lightweight toolkit for modular development in Laravel, for ... |
-| [T-Labs-Co/formatter](https://github.com/T-Labs-Co/formatter) | 1 | 2026-10-28 | A powerful data formatting package for Laravel — apply chain... |
-| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | 2026-10-28 | Laravel mail transport for Groundmail transactional email. K... |
-| [T-Labs-Co/config-walker](https://github.com/T-Labs-Co/config-walker) | 1 | 2026-10-28 | A centralized configuration walker for Laravel — merge multi... |
-| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 145 | 2026-10-28 | Create and manage menu in your Filament app. |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 377 | 2026-10-28 | The official Laravel Nightwatch package. |
+| [fnx-software/filament-astrotomic](https://github.com/fnx-software/filament-astrotomic) | 3 | 2026-10-28 | Manage multilingual content in Filament v4 & v5+ with astrot... |
+| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 0 | 2026-10-28 | Open-source web hosting control panel for Ubuntu servers, wi... |
+| [kaziomarsh24/laravel-atomic-cache](https://github.com/kaziomarsh24/laravel-atomic-cache) | 5 | 2026-10-28 | Zero-headache caching for Laravel. Cache database queries in... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-28 | The NativePHP website |
+| [kalimulhaq/qubuilder](https://github.com/kalimulhaq/qubuilder) | 1 | 2026-10-28 | Turn a JSON filter payload into a chained Laravel Eloquent q... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-10-28 | A package to create datatables using alpinejs, tailwind, liv... |
+| [worksome/feature-flags](https://github.com/worksome/feature-flags) | 11 | 2026-10-28 | A package to manage feature flags in your application. |
+| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 71 | 2026-10-28 | Skeleton for Laravel packages |
+| [worksome/laravel-telemetry](https://github.com/worksome/laravel-telemetry) | 4 | 2026-10-28 | A package for adding Telemetry in Laravel |
+| [worksome/laravel-onfido](https://github.com/worksome/laravel-onfido) | 1 | 2026-10-28 | The Onfido Laravel Package |
+| [Maxxksim/laravel-backup-package](https://github.com/Maxxksim/laravel-backup-package) | 0 | 2026-10-28 |  |
+| [worksome/laravel-mfa](https://github.com/worksome/laravel-mfa) | 9 | 2026-10-28 | A driver-based multifactor authentication package for Larave... |
+| [worksome/laravel-ip-geolocation](https://github.com/worksome/laravel-ip-geolocation) | 0 | 2026-10-28 | A driver-based package to handle IP geolocation for Laravel |
+| [albertoarena/filament-truss](https://github.com/albertoarena/filament-truss) | 2 | 2026-10-28 | Live ER diagram (ERD) of your real database inside a Filamen... |
+| [SytxLabs/LaravelWebMCP](https://github.com/SytxLabs/LaravelWebMCP) | 0 | 2026-10-28 | Expose laravel/mcp tools and resources as WebMCP tools (docu... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 167 | 2026-10-28 | Filament plugin that allows to add dynamic, user-defined for... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-10-28 | Ptah — Laravel package that forges complete module structure... |
+| [Mo7mud/laravel-payment-gateways](https://github.com/Mo7mud/laravel-payment-gateways) | 0 | 2026-10-28 | A package for payment gateways |
+| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-10-28 | Laravel Dusk Testing Helper for Package Development |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-10-28 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-28T12:33 | 7 | 1697 | 7606 |
 | 2026-10-28T06:36 | 2 | 1704 | 7599 |
 | 2026-10-28T00:49 | 7 | 1697 | 7597 |
 | 2026-10-27T18:27 | 13 | 1690 | 7590 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-26T18:46 | 11 | 1695 | 7573 |
 | 2026-10-26T14:09 | 9 | 1695 | 7562 |
 | 2026-10-26T07:01 | 11 | 1693 | 7553 |
-| 2026-10-26T01:05 | 5 | 1699 | 7543 |
 
 ---
 

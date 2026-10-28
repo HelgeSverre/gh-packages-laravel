@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7606  
-**Last updated:** 2026-10-28T12:33:04.731Z
+**Total packages tracked:** 7611  
+**Last updated:** 2026-10-28T18:29:23.919Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [chkltlabs/laravel-porthole](https://github.com/chkltlabs/laravel-porthole) | 0 | Authenticated, closed-first MCP server for Laravel Horizon, Pulse, and Telescope... |
+| [cbz1991/laravel-stedi](https://github.com/cbz1991/laravel-stedi) | 0 | Laravel SDK for the Stedi healthcare APIs: real-time eligibility, claims, claim ... |
+| [cbz1991/laravel-tembo](https://github.com/cbz1991/laravel-tembo) | 0 | Laravel SDK for the Tembo API. Start background coding agents (Claude Code, Code... |
+| [shabayekdes/laravel-sms](https://github.com/shabayekdes/laravel-sms) | 2 | Laravel Package for SMS Gateway Integration |
+| [Swen1978/consulmedics-imap-access](https://github.com/Swen1978/consulmedics-imap-access) | 0 | Consulmedics IMAP access package (Laravel 10-12) |
 | [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 0 | Open-source web hosting control panel for Ubuntu servers, with a first-class Lar... |
 | [imranbru99/school-and-college-management-erp-education-saas](https://github.com/imranbru99/school-and-college-management-erp-education-saas) | 0 | Enterprise Multi-Tenant AI Education ERP & SaaS Platform for Schools & Colleges.... |
 | [imranbru99/ai-e-governance](https://github.com/imranbru99/ai-e-governance) | 0 | AI-E-Governance: Complete AI-Powered Digital Government Operating System (GovOS)... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Gabrieldevro/laravel-anaf](https://github.com/Gabrieldevro/laravel-anaf) | 0 | Look up Romanian companies by CUI/CIF from the official ANAF API in Laravel: nam... |
 | [snb4crazy/laravel-magic-link-auth](https://github.com/snb4crazy/laravel-magic-link-auth) | 0 | Passwordless magic-link authentication package for Laravel APIs, with one-time e... |
 | [wtroiano86/simple-reward](https://github.com/wtroiano86/simple-reward) | 1 | A simple ledger-based Laravel package for managing rewards in your application. |
-| [sasateguh/bayarkit-php](https://github.com/sasateguh/bayarkit-php) | 0 | Read-only mirror of the bayarkit PHP/Laravel package for Packagist; issues and p... |
-| [samimhamza/freight-erp](https://github.com/samimhamza/freight-erp) | 0 | Production-grade Freight Forwarding & Logistics ERP built with Laravel 13, Filam... |
-| [MrPunyapal/devstore](https://github.com/MrPunyapal/devstore) | 3 | A Laravel and Livewire developer hardware catalog for experimenting with Typesen... |
-| [hdqsta/choffeshop-qr-menu](https://github.com/hdqsta/choffeshop-qr-menu) | 0 | Coffee shop QR table ordering with Dynamic QRIS payments (Midtrans, Xendit, manu... |
-| [asseco-voice/laravel-custom-fields](https://github.com/asseco-voice/laravel-custom-fields) | 50 | Extensible Laravel models without the need for additional database attributes |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [fnx-software/filament-astrotomic](https://github.com/fnx-software/filament-astrotomic) | 3 | 2026-10-28 | Manage multilingual content in Filament v4 & v5+ with astrot... |
-| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 0 | 2026-10-28 | Open-source web hosting control panel for Ubuntu servers, wi... |
-| [kaziomarsh24/laravel-atomic-cache](https://github.com/kaziomarsh24/laravel-atomic-cache) | 5 | 2026-10-28 | Zero-headache caching for Laravel. Cache database queries in... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-28 | The NativePHP website |
-| [kalimulhaq/qubuilder](https://github.com/kalimulhaq/qubuilder) | 1 | 2026-10-28 | Turn a JSON filter payload into a chained Laravel Eloquent q... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-10-28 | A package to create datatables using alpinejs, tailwind, liv... |
-| [worksome/feature-flags](https://github.com/worksome/feature-flags) | 11 | 2026-10-28 | A package to manage feature flags in your application. |
-| [laravel/package-skeleton](https://github.com/laravel/package-skeleton) | 71 | 2026-10-28 | Skeleton for Laravel packages |
-| [worksome/laravel-telemetry](https://github.com/worksome/laravel-telemetry) | 4 | 2026-10-28 | A package for adding Telemetry in Laravel |
-| [worksome/laravel-onfido](https://github.com/worksome/laravel-onfido) | 1 | 2026-10-28 | The Onfido Laravel Package |
-| [Maxxksim/laravel-backup-package](https://github.com/Maxxksim/laravel-backup-package) | 0 | 2026-10-28 |  |
-| [worksome/laravel-mfa](https://github.com/worksome/laravel-mfa) | 9 | 2026-10-28 | A driver-based multifactor authentication package for Larave... |
-| [worksome/laravel-ip-geolocation](https://github.com/worksome/laravel-ip-geolocation) | 0 | 2026-10-28 | A driver-based package to handle IP geolocation for Laravel |
-| [albertoarena/filament-truss](https://github.com/albertoarena/filament-truss) | 2 | 2026-10-28 | Live ER diagram (ERD) of your real database inside a Filamen... |
-| [SytxLabs/LaravelWebMCP](https://github.com/SytxLabs/LaravelWebMCP) | 0 | 2026-10-28 | Expose laravel/mcp tools and resources as WebMCP tools (docu... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 167 | 2026-10-28 | Filament plugin that allows to add dynamic, user-defined for... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-10-28 | Ptah — Laravel package that forges complete module structure... |
-| [Mo7mud/laravel-payment-gateways](https://github.com/Mo7mud/laravel-payment-gateways) | 0 | 2026-10-28 | A package for payment gateways |
-| [orchestral/testbench-dusk](https://github.com/orchestral/testbench-dusk) | 105 | 2026-10-28 | Laravel Dusk Testing Helper for Package Development |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-10-28 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-10-28 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
+| [jeffersongoncalves/teamkitv4](https://github.com/jeffersongoncalves/teamkitv4) | 9 | 2026-10-28 | TeamKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-10-28 | TeamKit starter kit built on Laravel 13.x and Filament 3.x w... |
+| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 2 | 2026-10-28 | HelpDesk starter kit built on Laravel 13.x and Filament 3.x ... |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-10-28 | ServiceDesk starter kit built on Laravel 13.x and Filament 3... |
+| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 2 | 2026-10-28 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-28 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jeffersongoncalves/evolutionkitv4](https://github.com/jeffersongoncalves/evolutionkitv4) | 10 | 2026-10-28 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
+| [jeffersongoncalves/helpdeskkitv4](https://github.com/jeffersongoncalves/helpdeskkitv4) | 6 | 2026-10-28 | HelpDesk starter kit built on Laravel 13.x and Filament 4.x ... |
+| [jeffersongoncalves/mfakitv5](https://github.com/jeffersongoncalves/mfakitv5) | 3 | 2026-10-28 | MFAKit starter kit built on Laravel 13.x and Filament 5.x wi... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 15 | 2026-10-28 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [jeffersongoncalves/filament-ace-editor-field](https://github.com/jeffersongoncalves/filament-ace-editor-field) | 4 | 2026-10-28 | A Laravel Filament field that integrates the Ace code editor... |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-10-28 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 10 | 2026-10-28 | MFAKit starter kit built on Laravel 13.x and Filament 4.x wi... |
+| [jeffersongoncalves/laravel-page-visits](https://github.com/jeffersongoncalves/laravel-page-visits) | 2 | 2026-10-28 | Track page-view visits on any Laravel app's public routes, w... |
+| [jeffersongoncalves/nativekitv4](https://github.com/jeffersongoncalves/nativekitv4) | 5 | 2026-10-28 | NativeKit starter kit built on Laravel 13.x, Filament 4.x an... |
+| [jeffersongoncalves/filament-barcode-field](https://github.com/jeffersongoncalves/filament-barcode-field) | 4 | 2026-10-28 | A Laravel Filament package that provides Barcode field funct... |
+| [jeffersongoncalves/laravel-visitor-fingerprint](https://github.com/jeffersongoncalves/laravel-visitor-fingerprint) | 7 | 2026-10-28 | A zero-domain-knowledge visitor-fingerprinting toolkit for L... |
+| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 5 | 2026-10-28 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
+| [jeffersongoncalves/filament-scanner-guard](https://github.com/jeffersongoncalves/filament-scanner-guard) | 5 | 2026-10-28 | Filament UI for jeffersongoncalves/laravel-scanner-guard: li... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-28T18:29 | 5 | 1696 | 7611 |
 | 2026-10-28T12:33 | 7 | 1697 | 7606 |
 | 2026-10-28T06:36 | 2 | 1704 | 7599 |
 | 2026-10-28T00:49 | 7 | 1697 | 7597 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-27T01:04 | 4 | 1702 | 7577 |
 | 2026-10-26T18:46 | 11 | 1695 | 7573 |
 | 2026-10-26T14:09 | 9 | 1695 | 7562 |
-| 2026-10-26T07:01 | 11 | 1693 | 7553 |
 
 ---
 

@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7590  
-**Last updated:** 2026-10-27T18:27:53.519Z
+**Total packages tracked:** 7597  
+**Last updated:** 2026-10-28T00:49:33.155Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ronaldoaires/unset](https://github.com/ronaldoaires/unset) | 0 | Production BIM platform for Revit families: Laravel 13 + Filament 5 marketplace ... |
+| [webcrafts-studio/lens-for-laravel](https://github.com/webcrafts-studio/lens-for-laravel) | 55 | Local-first WCAG accessibility auditing for Laravel. Scan your app, trace issues... |
+| [Gabrieldevro/laravel-llms-txt](https://github.com/Gabrieldevro/laravel-llms-txt) | 0 | Serve /llms.txt and /llms-full.txt from Laravel so ChatGPT, Claude and Perplexit... |
+| [Gabrieldevro/laravel-anaf](https://github.com/Gabrieldevro/laravel-anaf) | 0 | Look up Romanian companies by CUI/CIF from the official ANAF API in Laravel: nam... |
+| [snb4crazy/laravel-magic-link-auth](https://github.com/snb4crazy/laravel-magic-link-auth) | 0 | Passwordless magic-link authentication package for Laravel APIs, with one-time e... |
+| [wtroiano86/simple-reward](https://github.com/wtroiano86/simple-reward) | 1 | A simple ledger-based Laravel package for managing rewards in your application. |
+| [sasateguh/bayarkit-php](https://github.com/sasateguh/bayarkit-php) | 0 | Read-only mirror of the bayarkit PHP/Laravel package for Packagist; issues and p... |
 | [samimhamza/freight-erp](https://github.com/samimhamza/freight-erp) | 0 | Production-grade Freight Forwarding & Logistics ERP built with Laravel 13, Filam... |
 | [MrPunyapal/devstore](https://github.com/MrPunyapal/devstore) | 1 | A Laravel and Livewire developer hardware catalog for experimenting with Typesen... |
 | [hdqsta/choffeshop-qr-menu](https://github.com/hdqsta/choffeshop-qr-menu) | 0 | Coffee shop QR table ordering with Dynamic QRIS payments (Midtrans, Xendit, manu... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [latevaweb/laravel-translatable](https://github.com/latevaweb/laravel-translatable) | 0 | Make Eloquent model attributes translatables using Translations table |
 | [tinovn/laravel-tinopay](https://github.com/tinovn/laravel-tinopay) | 0 | Laravel package cho TinoPay: nhận webhook giao dịch ngân hàng, tự xác nhận thanh... |
 | [tuupke/laravel-finalizer](https://github.com/tuupke/laravel-finalizer) | 0 | Simple package with helpers to handle execution after closed connections |
-| [rootstuff/laravel-ops-mcp](https://github.com/rootstuff/laravel-ops-mcp) | 0 | A read-only MCP server inside your Laravel app so your agent can read the logs, ... |
-| [udaykiranchenna/Multiverse](https://github.com/udaykiranchenna/Multiverse) | 6 | Run Python workers seamlessly from Laravel. Execute Python scripts for AI, machi... |
-| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | A consumer-agent voting ledger for major package changes: a zero-dependency chan... |
-| [MujahidAbbas/laravel-umpire](https://github.com/MujahidAbbas/laravel-umpire) | 0 | Per-tool Gate authorization, tool-call audit events and a safe stale-client purg... |
-| [stayuptimistic/uptimistic-laravel](https://github.com/stayuptimistic/uptimistic-laravel) | 0 | Tells your Uptimistic monitor what a Laravel app runs on: Laravel, PHP, the data... |
-| [lucacermenati/nova-settings](https://github.com/lucacermenati/nova-settings) | 0 | Package for Laravel Nova to manage settings via nice UI |
-| [victorive/superban](https://github.com/victorive/superban) | 1 | Laravel package for rate limiting, banning API clients, and abuse prevention wit... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-10-27 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-10-27 | Automated code analysis for Laravel applications with 73 ope... |
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 41 | 2026-10-27 |  |
-| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-10-27 | A Laravel-native integration & workflow automation package. |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 167 | 2026-10-27 | Filament plugin that allows to add dynamic, user-defined for... |
-| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-10-27 | A standard suite of essentials for every Laravel app you bui... |
-| [cipi-sh/agent](https://github.com/cipi-sh/agent) | 6 | 2026-10-27 | Cipi Agent for Laravel applications |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 123 | 2026-10-27 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [jtylek/EpesiCRM](https://github.com/jtylek/EpesiCRM) | 43 | 2026-10-27 | Open-source CRM and a kickstarter for custom ERP systems bui... |
-| [sunchayn/fresh-package](https://github.com/sunchayn/fresh-package) | 33 | 2026-10-27 | An opinionated skeleton for scaffolding a modular and declut... |
-| [mdiqbalhossan/laravel-payments](https://github.com/mdiqbalhossan/laravel-payments) | 3 | 2026-10-27 | A unified payment gateway package for Laravel supporting 21+... |
-| [Maxxksim/laravel-backup-package](https://github.com/Maxxksim/laravel-backup-package) | 0 | 2026-10-27 |  |
-| [awaisjameel/laravel-cpanel-hosting](https://github.com/awaisjameel/laravel-cpanel-hosting) | 0 | 2026-10-27 | A robust, secure, and production-ready Laravel package that ... |
-| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-10-27 | Scaffolds Ichava icon packages: one command, a token-substit... |
-| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-10-27 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
-| [awaisjameel/laravel-address-parser](https://github.com/awaisjameel/laravel-address-parser) | 0 | 2026-10-27 | A Laravel package for parsing US addresses. |
-| [awaisjameel/Base64FileHandler](https://github.com/awaisjameel/Base64FileHandler) | 0 | 2026-10-27 | A Laravel package for handling and storing base64 encoded fi... |
-| [awaisjameel/MimeTypes](https://github.com/awaisjameel/MimeTypes) | 0 | 2026-10-27 | A Laravel package for dynamically fetching and resolving MIM... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-10-27 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 85 | 2026-10-27 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-10-28 | Automated code analysis for Laravel applications with 73 ope... |
+| [jeffersongoncalves/laravel-page-visits](https://github.com/jeffersongoncalves/laravel-page-visits) | 2 | 2026-10-28 | Track page-view visits on any Laravel app's public routes, w... |
+| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-10-28 | PHP / Laravel packages used by Visns Studio |
+| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 0 | 2026-10-28 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
+| [HPWebdeveloper/laravel-env-settings](https://github.com/HPWebdeveloper/laravel-env-settings) | 17 | 2026-10-28 | Move non-secret config out of Laravel's .env into typed, env... |
+| [filagora/filagora-cms](https://github.com/filagora/filagora-cms) | 0 | 2026-10-28 | Pages, blocks, menus, media and a draft, version, schedule a... |
+| [filagora/filagora-forums](https://github.com/filagora/filagora-forums) | 0 | 2026-10-28 | Filagora forums: forum groups, forums, threads and posts, vi... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-28 | Lightweight toolkit for modular development in Laravel, for ... |
+| [webcrafts-studio/lens-for-laravel](https://github.com/webcrafts-studio/lens-for-laravel) | 55 | 2026-10-28 | Local-first WCAG accessibility auditing for Laravel. Scan yo... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-10-28 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [skillbobby/Spiggle-Visual-Dashboards](https://github.com/skillbobby/Spiggle-Visual-Dashboards) | 0 | 2026-10-28 | Dashboard canvas and charts for Laravel Filament. |
+| [Gabrieldevro/laravel-romanian-rules](https://github.com/Gabrieldevro/laravel-romanian-rules) | 0 | 2026-10-28 | Reguli de validare Laravel pentru CNP, CUI/CIF, IBAN românes... |
+| [Gabrieldevro/laravel-netopia](https://github.com/Gabrieldevro/laravel-netopia) | 0 | 2026-10-28 | NETOPIA Payments (API v2) pentru Laravel: plăți cu cardul, s... |
+| [Gabrieldevro/laravel-consent-mode](https://github.com/Gabrieldevro/laravel-consent-mode) | 0 | 2026-10-28 | Banner GDPR de cookie-uri pentru Laravel cu Google Consent M... |
+| [Capevace/cabinet](https://github.com/Capevace/cabinet) | 19 | 2026-10-28 | Cabinet is a turn-key file management solution for Laravel, ... |
+| [snb4crazy/laravel-magic-link-auth](https://github.com/snb4crazy/laravel-magic-link-auth) | 0 | 2026-10-28 | Passwordless magic-link authentication package for Laravel A... |
+| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-10-28 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
+| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-10-28 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
+| [Neluxx/enviro-hub](https://github.com/Neluxx/enviro-hub) | 0 | 2026-10-27 | Laravel-based API for storing sensor data from distributed n... |
+| [GTS-MEGHNI/laravel-satim](https://github.com/GTS-MEGHNI/laravel-satim) | 0 | 2026-10-27 | Accept CIB and Edahabia card payments in Laravel through the... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-28T00:49 | 7 | 1697 | 7597 |
 | 2026-10-27T18:27 | 13 | 1690 | 7590 |
 | 2026-10-27T12:44 | 0 | 0 | 7579 |
 | 2026-10-27T06:49 | 3 | 1701 | 7580 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-26T07:01 | 11 | 1693 | 7553 |
 | 2026-10-26T01:05 | 5 | 1699 | 7543 |
 | 2026-10-25T18:34 | 6 | 1699 | 7539 |
-| 2026-10-25T12:38 | 8 | 1697 | 7533 |
 
 ---
 

@@ -2,13 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7649  
-**Last updated:** 2026-10-29T18:29:30.083Z
+**Total packages tracked:** 7660  
+**Last updated:** 2026-10-30T00:49:50.745Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [giantsoup/webportfolio](https://github.com/giantsoup/webportfolio) | 0 | Personal portfolio and project showcase built with Laravel, Livewire, Flux UI, a... |
+| [myerscode/laravel-domain-validator](https://github.com/myerscode/laravel-domain-validator) | 2 | Validate Domains names in Laravel using PHP Domain Parser. |
+| [quinrel/laravel](https://github.com/quinrel/laravel) | 0 | Quinrel is a visiblity and discoverability laravel package for quinrel cloud. Wh... |
+| [mapo-89/laravel-homeassistant-api](https://github.com/mapo-89/laravel-homeassistant-api) | 1 | Laravel package to work with the Home Assistant API. |
+| [proteo/drupal-backend](https://github.com/proteo/drupal-backend) | 0 | A Laravel package for consuming a Drupal JSON:API backend |
+| [usamamuneerchaudhary/laravel-tagify](https://github.com/usamamuneerchaudhary/laravel-tagify) | 22 | Simple Tagging Package for Laravel |
+| [bernskiold/laravel-euromonitor](https://github.com/bernskiold/laravel-euromonitor) | 0 | A package for Laravel to interact with the Euromonitor API. |
+| [myerscode/avail](https://github.com/myerscode/avail) | 1 | A helper package for Laravel 5 |
+| [watchtowerobservability/watchtower-laravel](https://github.com/watchtowerobservability/watchtower-laravel) | 0 | Watchtower Laravel package |
+| [denischweya/tandem](https://github.com/denischweya/tandem) | 0 | Tandem monorepo: Next.js web, Laravel API, and shared TypeScript package |
+| [spdotdev/splotnikov-dev](https://github.com/spdotdev/splotnikov-dev) | 0 | Laravel site-package for splotnikov.dev — mounted into sd-admin via host-based r... |
 | [jeffersongoncalves/livewire-logs](https://github.com/jeffersongoncalves/livewire-logs) | 1 | Log the errors Livewire hides behind a 419 and add component context to Livewire... |
 | [mmrtonmoybd/fishing-women-bangladesh](https://github.com/mmrtonmoybd/fishing-women-bangladesh) | 0 | Bangla community reporting platform for fishing women in Bangladesh, organised b... |
 | [mmrtonmoybd/grasenglow](https://github.com/mmrtonmoybd/grasenglow) | 0 | Grace & Glow — website and CMS for a Dhaka social enterprise turning rescued tex... |
@@ -18,17 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ArvidDeJong/laravel-api-key-alert](https://github.com/ArvidDeJong/laravel-api-key-alert) | 0 | Get an email the moment an API key stops working in Laravel: detects rejected ke... |
 | [HawkForge/lunar-detached](https://github.com/HawkForge/lunar-detached) | 0 | An open-source package that brings the power of modern headless e-commerce funct... |
 | [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | WELD's fleet scanner: every app answers present with its PHP image, Laravel and ... |
-| [padosoft/product_image_discovery_admin](https://github.com/padosoft/product_image_discovery_admin) | 1 | Professional Admin panel for Laravel product image discovery Ai Package |
-| [Muneeb1998/laravel-job-guard](https://github.com/Muneeb1998/laravel-job-guard) | 0 | A Laravel package for keeping background jobs relevant through expiration, super... |
-| [dkvadratu/Laravel-cookie-consent](https://github.com/dkvadratu/Laravel-cookie-consent) | 0 | A Laravel package built on [Whitecube Laravel Cookie Consent](https://github.com... |
-| [laratribe/native-php-datepicker](https://github.com/laratribe/native-php-datepicker) | 0 | A lightweight Laravel-nativephp datepicker package for seamless date selection, ... |
-| [BabeRuka/systemroles](https://github.com/BabeRuka/systemroles) | 0 | SystemRoles is a Laravel Role Management is a powerful package designed to simpl... |
-| [ajangsupardi/zkteco-laravel](https://github.com/ajangsupardi/zkteco-laravel) | 0 | Laravel package for ZKTeco biometric attendance devices |
-| [mmrtonmoybd/news-photocard-generator](https://github.com/mmrtonmoybd/news-photocard-generator) | 0 | Create branded news photocards with headline, photo, Bangla or English date, log... |
-| [laravolt/camunda](https://github.com/laravolt/camunda) | 21 | Convenience Laravel HTTP client wrapper to interact with Camunda REST API. |
-| [HawkForge/lunar](https://github.com/HawkForge/lunar) | 0 | An open-source package that brings the power of modern headless e-commerce funct... |
-| [izzeran96/laravel-ai-blog](https://github.com/izzeran96/laravel-ai-blog) | 0 | Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an ... |
-| [yahyakhalid/watsy-laravel](https://github.com/yahyakhalid/watsy-laravel) | 23 | Official Laravel package for Watsy: OTP verification codes over WhatsApp, Telegr... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,8 +40,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 472 | Open Source Laravel CRM Package |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 471 | Open Source Laravel CRM Package |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 465 | A simple package to help integrate Cloudflare Turnstile. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [alexhackney/lara-nimble](https://github.com/alexhackney/lara-nimble) | 4 | 2026-10-29 | Laravel Package For Interacting with Nimble Streamer |
+| [sunaoka/laravel-facade-generator](https://github.com/sunaoka/laravel-facade-generator) | 16 | 2026-10-30 | Facade generator for Laravel |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 85 | 2026-10-30 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [spdotdev/splotnikov-dev](https://github.com/spdotdev/splotnikov-dev) | 0 | 2026-10-30 | Laravel site-package for splotnikov.dev — mounted into sd-ad... |
+| [mapo-89/laravel-homeassistant-api](https://github.com/mapo-89/laravel-homeassistant-api) | 1 | 2026-10-30 | Laravel package to work with the Home Assistant API. |
+| [XBLOssia/librenms-theme-selector](https://github.com/XBLOssia/librenms-theme-selector) | 0 | 2026-10-30 | Theme Selector for LibreNMS |
+| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-10-30 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
+| [cc-consulting-nv/laravel-cc-blog](https://github.com/cc-consulting-nv/laravel-cc-blog) | 0 | 2026-10-29 | Reusable Laravel package for CC Platform blog integration wi... |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-10-29 | Sistema de gestão para centros e casas espíritas: assistidos... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-29 | Lightweight toolkit for modular development in Laravel, for ... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-10-29 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [glesys/butler-graphql](https://github.com/glesys/butler-graphql) | 35 | 2026-10-29 | An opinionated GraphQL package for Laravel. |
+| [proteo/drupal-backend](https://github.com/proteo/drupal-backend) | 0 | 2026-10-29 | A Laravel package for consuming a Drupal JSON:API backend |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-29 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 123 | 2026-10-29 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [jeffersongoncalves/filament-translation-manager](https://github.com/jeffersongoncalves/filament-translation-manager) | 1 | 2026-10-29 | Translation manager for Filament: edit app, JSON and vendor ... |
-| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-10-29 | Package to manage medias within Laravel |
-| [mertbag96/laravel-domain-migrator](https://github.com/mertbag96/laravel-domain-migrator) | 5 | 2026-10-29 | Analyze a Laravel MVC app, suggest domains and a shared kern... |
-| [opsfour/s3-server](https://github.com/opsfour/s3-server) | 19 | 2026-10-29 | A production-grade, fully S3-compatible object storage serve... |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 85 | 2026-10-29 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [jeffersongoncalves/filament-zapsign](https://github.com/jeffersongoncalves/filament-zapsign) | 1 | 2026-10-29 | Filament plugin for ZapSign e-signatures: send documents to ... |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-10-29 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
+| [jeffersongoncalves/laravel-autentique](https://github.com/jeffersongoncalves/laravel-autentique) | 1 | 2026-10-29 | Laravel client for the Autentique e-signature GraphQL API: d... |
+| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | 2026-10-29 | Laravel package for the eRecht24 API. Simple integration by ... |
 | [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-10-29 | WELD's fleet scanner: every app answers present with its PHP... |
-| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | 2026-10-29 | A consumer-agent voting ledger for major package changes: a ... |
-| [SilvertipSoftware/fixtures](https://github.com/SilvertipSoftware/fixtures) | 2 | 2026-10-29 | Fixture package for Laravel 5 |
+| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-29 | Open-source, self-hosted video processing & delivery engine ... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-29 | A multi-purpose content and application platform for Laravel... |
-| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 1 | 2026-10-29 | Open-source web hosting control panel for Ubuntu servers, wi... |
-| [ru5iru/api-mock-service](https://github.com/ru5iru/api-mock-service) | 0 | 2026-10-29 | Self-hosted API mocking with Laravel and Livewire. Import cU... |
-| [jeffersongoncalves/filament-simple-analytics](https://github.com/jeffersongoncalves/filament-simple-analytics) | 1 | 2026-10-29 | Filament plugin for Simple Analytics: injects the tracking s... |
-| [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 21 | 2026-10-29 | Observability for AI and LLM calls in Laravel. Automatically... |
-| [ogunsakin01/laravel-video-demos](https://github.com/ogunsakin01/laravel-video-demos) | 3 | 2026-10-29 | Automatic how-to and product demo videos for Laravel apps. D... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-10-29 | The NativePHP website |
-| [ismailkorkmaz6806/alsepete](https://github.com/ismailkorkmaz6806/alsepete) | 0 | 2026-10-29 | Laravel 13 ve MySQL 8 ile geliştirilen çok satıcılı (multi-v... |
-| [ayimdomnic/laragraph](https://github.com/ayimdomnic/laragraph) | 5 | 2026-10-29 | Code-first GraphQL server for Laravel: declarative types, N+... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-30T00:49 | 11 | 1685 | 7660 |
 | 2026-10-29T18:29 | 16 | 1677 | 7649 |
 | 2026-10-29T12:33 | 0 | 0 | 7634 |
 | 2026-10-29T06:36 | 16 | 1678 | 7634 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-28T06:36 | 2 | 1704 | 7599 |
 | 2026-10-28T00:49 | 7 | 1697 | 7597 |
 | 2026-10-27T18:27 | 13 | 1690 | 7590 |
-| 2026-10-27T12:44 | 0 | 0 | 7579 |
 
 ---
 

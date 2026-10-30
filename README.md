@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7660  
-**Last updated:** 2026-10-30T06:36:54.277Z
+**Total packages tracked:** 7667  
+**Last updated:** 2026-10-30T12:33:55.371Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, web routes, middlewa... |
+| [Jarryd-W-Hoffman/sunset](https://github.com/Jarryd-W-Hoffman/sunset) | 0 | 🌅 Retire old routes in your Laravel app without breaking the people still using... |
+| [shad0wn0mad/laravel-gotenberg](https://github.com/shad0wn0mad/laravel-gotenberg) | 0 | A small package to use with laravel for screenshoting blade templates and storin... |
+| [micromagicman/laravel-telegram-webapp](https://github.com/micromagicman/laravel-telegram-webapp) | 26 | Laravel package for Telegram WebApp integration |
+| [garyblankenship/sentinels](https://github.com/garyblankenship/sentinels) | 2 | Laravel package for agent-based task orchestration with invokable agents, pipeli... |
+| [w3designweb/laravel-cookie-consent](https://github.com/w3designweb/laravel-cookie-consent) | 0 | This package for Laravel allows you to manage user consents in compliance with p... |
+| [maurohmartinez/impersonate-users-backpack-laravel](https://github.com/maurohmartinez/impersonate-users-backpack-laravel) | 11 | A simple package that adds the impersonate operation for admins |
 | [dojorob76/laravel-architect](https://github.com/dojorob76/laravel-architect) | 0 | Package for quick, strict, highly opinionated API scaffolding for Laravel 12+ us... |
 | [giantsoup/webportfolio](https://github.com/giantsoup/webportfolio) | 0 | Personal portfolio and project showcase built with Laravel, Livewire, Flux UI, a... |
 | [myerscode/laravel-domain-validator](https://github.com/myerscode/laravel-domain-validator) | 2 | Validate Domains names in Laravel using PHP Domain Parser. |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [denischweya/tandem](https://github.com/denischweya/tandem) | 0 | Tandem monorepo: Next.js web, Laravel API, and shared TypeScript package |
 | [spdotdev/splotnikov-dev](https://github.com/spdotdev/splotnikov-dev) | 0 | Laravel site-package for splotnikov.dev — mounted into sd-admin via host-based r... |
 | [jeffersongoncalves/livewire-logs](https://github.com/jeffersongoncalves/livewire-logs) | 1 | Log the errors Livewire hides behind a 419 and add component context to Livewire... |
-| [mmrtonmoybd/fishing-women-bangladesh](https://github.com/mmrtonmoybd/fishing-women-bangladesh) | 0 | Bangla community reporting platform for fishing women in Bangladesh, organised b... |
-| [mmrtonmoybd/grasenglow](https://github.com/mmrtonmoybd/grasenglow) | 0 | Grace & Glow — website and CMS for a Dhaka social enterprise turning rescued tex... |
-| [jfrintrop/env-validator](https://github.com/jfrintrop/env-validator) | 0 | Validate environment variables against a schema with Laravel rules – fail fast a... |
-| [Jarryd-W-Hoffman/ghost-buster](https://github.com/Jarryd-W-Hoffman/ghost-buster) | 1 | Find the routes in your Laravel app that nobody uses any more. Tracks real traff... |
-| [kaziomarsh24/laravel-smart-upload](https://github.com/kaziomarsh24/laravel-smart-upload) | 0 | A developer-first, zero-database file and chunk upload toolkit for Laravel with ... |
-| [ArvidDeJong/laravel-api-key-alert](https://github.com/ArvidDeJong/laravel-api-key-alert) | 0 | Get an email the moment an API key stops working in Laravel: detects rejected ke... |
-| [HawkForge/lunar-detached](https://github.com/HawkForge/lunar-detached) | 0 | An open-source package that brings the power of modern headless e-commerce funct... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-10-30 | A standard suite of essentials for every Laravel app you bui... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-30 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 6 | 2026-10-30 | Laravel package for interacting with Traccar api |
-| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 3 | 2026-10-30 | An opinionated Laravel package for interacting with WAHA API |
-| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 2 | 2026-10-30 | Open-source web hosting control panel for Ubuntu servers, wi... |
-| [DevWizardHQ/wiz-captcha](https://github.com/DevWizardHQ/wiz-captcha) | 1 | 2026-10-30 | wiz captcha package for laravel. |
-| [DevWizardHQ/laravel-textify](https://github.com/DevWizardHQ/laravel-textify) | 6 | 2026-10-30 | A powerful and enterprise-ready SMS package for Laravel appl... |
-| [DevWizardHQ/laravel-localizer](https://github.com/DevWizardHQ/laravel-localizer) | 7 | 2026-10-30 | Laravel Localizer bridges Laravel translations to your SPA f... |
-| [DevWizardHQ/laravel-filex](https://github.com/DevWizardHQ/laravel-filex) | 7 | 2026-10-30 | Laravel Filex is a powerful, modern, and enterprise-grade fi... |
-| [DevWizardHQ/laravel-enumify](https://github.com/DevWizardHQ/laravel-enumify) | 7 | 2026-10-30 | Auto-generate TypeScript enums and types from Laravel PHP en... |
-| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 14 | 2026-10-30 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-10-30 | Laravel USPS Package to integrate USPS Address |
-| [spdotdev/splotnikov-dev](https://github.com/spdotdev/splotnikov-dev) | 0 | 2026-10-30 | Laravel site-package for splotnikov.dev — mounted into sd-ad... |
-| [sudiptpa/filament-turnstile](https://github.com/sudiptpa/filament-turnstile) | 0 | 2026-10-30 | Cloudflare Turnstile field, login page, and validation rule ... |
-| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | 2026-10-30 | Laravel mail transport for Groundmail transactional email. K... |
-| [devlabsza/error-vault_laravel](https://github.com/devlabsza/error-vault_laravel) | 0 | 2026-10-30 | Laravel package for connecting to Error-vault. |
-| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-10-30 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
-| [denischweya/tandem](https://github.com/denischweya/tandem) | 0 | 2026-10-30 | Tandem monorepo: Next.js web, Laravel API, and shared TypeSc... |
-| [Riasath/laravel-r2-backup](https://github.com/Riasath/laravel-r2-backup) | 0 | 2026-10-30 | A focused, one-job package: dump your database, gzip it, pus... |
-| [ru5iru/api-mock-service](https://github.com/ru5iru/api-mock-service) | 0 | 2026-10-30 | Self-hosted API mocking with Laravel and Livewire. Import cU... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-30 | Daywatch Laravel package to integrate into collecting events... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-10-30 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-10-30 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
+| [filagora/filagora-forums](https://github.com/filagora/filagora-forums) | 0 | 2026-10-30 | Filagora forums: forum groups, forums, threads and posts, vi... |
+| [jeffersongoncalves/laravel-page-cache](https://github.com/jeffersongoncalves/laravel-page-cache) | 1 | 2026-10-30 | Full-page response cache for stateless public pages, keyed b... |
+| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 3 | 2026-10-30 | Open-source web hosting control panel for Ubuntu servers, wi... |
+| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-10-30 | Scaffolds Ichava icon packages: one command, a token-substit... |
+| [Sknadim6297/delta-support-laravel](https://github.com/Sknadim6297/delta-support-laravel) | 0 | 2026-10-30 | A Laravel 12-based tours and travel management platform feat... |
+| [jeffersongoncalves/livewire-logs](https://github.com/jeffersongoncalves/livewire-logs) | 1 | 2026-10-30 | Log the errors Livewire hides behind a 419 and add component... |
+| [Users-au/laravel-client](https://github.com/Users-au/laravel-client) | 1 | 2026-10-30 | This package is a Laravel client for Users.au Oauth. It prov... |
+| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-10-30 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
+| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-10-30 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
+| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-10-30 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-30 | Filament plugin that allows to add dynamic, user-defined for... |
+| [lukawar/laravel-bank-kit](https://github.com/lukawar/laravel-bank-kit) | 0 | 2026-10-30 | A Laravel package for generating Polish bank transfer files ... |
+| [jeffersongoncalves/filament-fathom](https://github.com/jeffersongoncalves/filament-fathom) | 3 | 2026-10-30 | Filament plugin for Fathom analytics with a built-in setting... |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 164 | 2026-10-30 | Collect everything about sent mails in your Filament app. |
+| [Smansilla98/SistemaDeGestion](https://github.com/Smansilla98/SistemaDeGestion) | 0 | 2026-10-30 | Sistema de gestion para restaurantes: mesas, pedidos, cocina... |
+| [Users-au/socialite-provider](https://github.com/Users-au/socialite-provider) | 0 | 2026-10-30 | A Laravel Socialite OAuth2 provider for Users.au authenticat... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-30T12:33 | 7 | 1691 | 7667 |
 | 2026-10-30T06:36 | 1 | 1698 | 7660 |
 | 2026-10-30T00:49 | 11 | 1685 | 7660 |
 | 2026-10-29T18:29 | 16 | 1677 | 7649 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-28T18:29 | 5 | 1696 | 7611 |
 | 2026-10-28T12:33 | 7 | 1697 | 7606 |
 | 2026-10-28T06:36 | 2 | 1704 | 7599 |
-| 2026-10-28T00:49 | 7 | 1697 | 7597 |
 
 ---
 

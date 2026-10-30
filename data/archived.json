@@ -2185,5 +2185,35 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-10-29T18:29:30.012Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "bumbummen99/filament-blocks-builder": {
+    "name": "bumbummen99/filament-blocks-builder",
+    "url": "https://github.com/bumbummen99/filament-blocks-builder",
+    "description": "This Filament PHP plugin adds a BlockBuilder form component, that allows you to create layouts using Blocks. This can be used as a builder for anything: layout, content, data and more.",
+    "stars": 24,
+    "forks": 6,
+    "topics": [
+      "blocks",
+      "builder",
+      "filament",
+      "filament-form",
+      "filament-forms",
+      "filament-plugin",
+      "filamentphp",
+      "filamentphp-plugin",
+      "hacktoberfest",
+      "laravel",
+      "laravel-package",
+      "layoutbuilder",
+      "pagebuilder"
+    ],
+    "language": "PHP",
+    "license": "GPL-3.0",
+    "created_at": "2024-09-29T22:39:44Z",
+    "updated_at": "2026-06-05T14:58:31Z",
+    "pushed_at": "2025-10-30T03:18:25Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-10-30T06:36:54.233Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

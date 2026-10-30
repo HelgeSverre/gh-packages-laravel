@@ -3,12 +3,13 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 7660  
-**Last updated:** 2026-10-30T00:49:50.745Z
+**Last updated:** 2026-10-30T06:36:54.277Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [dojorob76/laravel-architect](https://github.com/dojorob76/laravel-architect) | 0 | Package for quick, strict, highly opinionated API scaffolding for Laravel 12+ us... |
 | [giantsoup/webportfolio](https://github.com/giantsoup/webportfolio) | 0 | Personal portfolio and project showcase built with Laravel, Livewire, Flux UI, a... |
 | [myerscode/laravel-domain-validator](https://github.com/myerscode/laravel-domain-validator) | 2 | Validate Domains names in Laravel using PHP Domain Parser. |
 | [quinrel/laravel](https://github.com/quinrel/laravel) | 0 | Quinrel is a visiblity and discoverability laravel package for quinrel cloud. Wh... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kaziomarsh24/laravel-smart-upload](https://github.com/kaziomarsh24/laravel-smart-upload) | 0 | A developer-first, zero-database file and chunk upload toolkit for Laravel with ... |
 | [ArvidDeJong/laravel-api-key-alert](https://github.com/ArvidDeJong/laravel-api-key-alert) | 0 | Get an email the moment an API key stops working in Laravel: detects rejected ke... |
 | [HawkForge/lunar-detached](https://github.com/HawkForge/lunar-detached) | 0 | An open-source package that brings the power of modern headless e-commerce funct... |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | WELD's fleet scanner: every app answers present with its PHP image, Laravel and ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [sunaoka/laravel-facade-generator](https://github.com/sunaoka/laravel-facade-generator) | 16 | 2026-10-30 | Facade generator for Laravel |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 85 | 2026-10-30 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-30 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [thingstelemetry/laravel-traccar](https://github.com/thingstelemetry/laravel-traccar) | 6 | 2026-10-30 | Laravel package for interacting with Traccar api |
+| [njoguamos/laravel-waha](https://github.com/njoguamos/laravel-waha) | 3 | 2026-10-30 | An opinionated Laravel package for interacting with WAHA API |
+| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 2 | 2026-10-30 | Open-source web hosting control panel for Ubuntu servers, wi... |
+| [DevWizardHQ/wiz-captcha](https://github.com/DevWizardHQ/wiz-captcha) | 1 | 2026-10-30 | wiz captcha package for laravel. |
+| [DevWizardHQ/laravel-textify](https://github.com/DevWizardHQ/laravel-textify) | 6 | 2026-10-30 | A powerful and enterprise-ready SMS package for Laravel appl... |
+| [DevWizardHQ/laravel-localizer](https://github.com/DevWizardHQ/laravel-localizer) | 7 | 2026-10-30 | Laravel Localizer bridges Laravel translations to your SPA f... |
+| [DevWizardHQ/laravel-filex](https://github.com/DevWizardHQ/laravel-filex) | 7 | 2026-10-30 | Laravel Filex is a powerful, modern, and enterprise-grade fi... |
+| [DevWizardHQ/laravel-enumify](https://github.com/DevWizardHQ/laravel-enumify) | 7 | 2026-10-30 | Auto-generate TypeScript enums and types from Laravel PHP en... |
+| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 14 | 2026-10-30 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-10-30 | Laravel USPS Package to integrate USPS Address |
 | [spdotdev/splotnikov-dev](https://github.com/spdotdev/splotnikov-dev) | 0 | 2026-10-30 | Laravel site-package for splotnikov.dev — mounted into sd-ad... |
-| [mapo-89/laravel-homeassistant-api](https://github.com/mapo-89/laravel-homeassistant-api) | 1 | 2026-10-30 | Laravel package to work with the Home Assistant API. |
-| [XBLOssia/librenms-theme-selector](https://github.com/XBLOssia/librenms-theme-selector) | 0 | 2026-10-30 | Theme Selector for LibreNMS |
-| [sillyleo/smking-laravel](https://github.com/sillyleo/smking-laravel) | 0 | 2026-10-30 | Laravel package for smking — auto-inject AEO (JSON-LD, FAQ, ... |
-| [cc-consulting-nv/laravel-cc-blog](https://github.com/cc-consulting-nv/laravel-cc-blog) | 0 | 2026-10-29 | Reusable Laravel package for CC Platform blog integration wi... |
-| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-10-29 | Sistema de gestão para centros e casas espíritas: assistidos... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-10-29 | Lightweight toolkit for modular development in Laravel, for ... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-10-29 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [glesys/butler-graphql](https://github.com/glesys/butler-graphql) | 35 | 2026-10-29 | An opinionated GraphQL package for Laravel. |
-| [proteo/drupal-backend](https://github.com/proteo/drupal-backend) | 0 | 2026-10-29 | A Laravel package for consuming a Drupal JSON:API backend |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-29 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jeffersongoncalves/filament-zapsign](https://github.com/jeffersongoncalves/filament-zapsign) | 1 | 2026-10-29 | Filament plugin for ZapSign e-signatures: send documents to ... |
-| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-10-29 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
-| [jeffersongoncalves/laravel-autentique](https://github.com/jeffersongoncalves/laravel-autentique) | 1 | 2026-10-29 | Laravel client for the Autentique e-signature GraphQL API: d... |
-| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | 2026-10-29 | Laravel package for the eRecht24 API. Simple integration by ... |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-10-29 | WELD's fleet scanner: every app answers present with its PHP... |
-| [chikenare/nukevideo](https://github.com/chikenare/nukevideo) | 0 | 2026-10-29 | Open-source, self-hosted video processing & delivery engine ... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-10-29 | A multi-purpose content and application platform for Laravel... |
+| [sudiptpa/filament-turnstile](https://github.com/sudiptpa/filament-turnstile) | 0 | 2026-10-30 | Cloudflare Turnstile field, login page, and validation rule ... |
+| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | 2026-10-30 | Laravel mail transport for Groundmail transactional email. K... |
+| [devlabsza/error-vault_laravel](https://github.com/devlabsza/error-vault_laravel) | 0 | 2026-10-30 | Laravel package for connecting to Error-vault. |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-10-30 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
+| [denischweya/tandem](https://github.com/denischweya/tandem) | 0 | 2026-10-30 | Tandem monorepo: Next.js web, Laravel API, and shared TypeSc... |
+| [Riasath/laravel-r2-backup](https://github.com/Riasath/laravel-r2-backup) | 0 | 2026-10-30 | A focused, one-job package: dump your database, gzip it, pus... |
+| [ru5iru/api-mock-service](https://github.com/ru5iru/api-mock-service) | 0 | 2026-10-30 | Self-hosted API mocking with Laravel and Livewire. Import cU... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-30 | Daywatch Laravel package to integrate into collecting events... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-30T06:36 | 1 | 1698 | 7660 |
 | 2026-10-30T00:49 | 11 | 1685 | 7660 |
 | 2026-10-29T18:29 | 16 | 1677 | 7649 |
 | 2026-10-29T12:33 | 0 | 0 | 7634 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-28T12:33 | 7 | 1697 | 7606 |
 | 2026-10-28T06:36 | 2 | 1704 | 7599 |
 | 2026-10-28T00:49 | 7 | 1697 | 7597 |
-| 2026-10-27T18:27 | 13 | 1690 | 7590 |
 
 ---
 

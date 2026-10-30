@@ -2,13 +2,26 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7667  
-**Last updated:** 2026-10-30T12:33:55.371Z
+**Total packages tracked:** 7680  
+**Last updated:** 2026-10-30T18:25:18.053Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [RedberryProducts/mailbox-for-laravel](https://github.com/RedberryProducts/mailbox-for-laravel) | 128 | Mailbox for Laravel is a zero-configuration local inbox that lets you capture, i... |
+| [khweb/novaposhta-filament](https://github.com/khweb/novaposhta-filament) | 0 | API Нова Пошта для Laravel 12+ та Filament 5: локальні довідники доставки, синхр... |
+| [thirdsai/filament-render](https://github.com/thirdsai/filament-render) | 0 | Filament action that renders a record to PDF or PNG with thirds.ai, then downloa... |
+| [hibira-io/filament](https://github.com/hibira-io/filament) | 0 | Live notifications for Filament panels on Hibira (Pusher-compatible) |
+| [Zobercito/gestor-de-contactos](https://github.com/Zobercito/gestor-de-contactos) | 0 | Gestor de contactos con Laravel, Livewire y PostgreSQL: segmentos, notas, histor... |
+| [mundoprogra/json-api](https://github.com/mundoprogra/json-api) | 0 | JSON:API 1.1 request validation and responses for Laravel 10 to 13. |
+| [jeffersongoncalves/livewire-horizon](https://github.com/jeffersongoncalves/livewire-horizon) | 1 | Laravel Horizon's dashboard rewritten with Livewire and Flux: search every job l... |
+| [pushery/ai-content-marking-for-laravel](https://github.com/pushery/ai-content-marking-for-laravel) | 0 | Marks AI-generated content in Laravel: machine-readable markers where your app d... |
+| [skybleak333/hindsight-php](https://github.com/skybleak333/hindsight-php) | 0 | PHP client for Hindsight agent memory, with long-term memory for Laravel AI SDK ... |
+| [CeyDrew/laravel-tr-validation](https://github.com/CeyDrew/laravel-tr-validation) | 0 | Laravel validation rules for Turkish data: TC Kimlik No, Vergi No (VKN), TR IBAN... |
+| [RedberryProducts/synapse](https://github.com/RedberryProducts/synapse) | 56 | Synapse for Laravel is a development dashboard that lets you chat with, test, an... |
+| [hibira-io/laravel](https://github.com/hibira-io/laravel) | 0 | Laravel broadcasting, push notifications and webhooks for Hibira |
+| [milwad-dev/laravel-validate-filament](https://github.com/milwad-dev/laravel-validate-filament) | 1 | The Laravel-Validate-Filament package brings Laravel-Validate’s custom rules to ... |
 | [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, web routes, middlewa... |
 | [Jarryd-W-Hoffman/sunset](https://github.com/Jarryd-W-Hoffman/sunset) | 0 | 🌅 Retire old routes in your Laravel app without breaking the people still using... |
 | [shad0wn0mad/laravel-gotenberg](https://github.com/shad0wn0mad/laravel-gotenberg) | 0 | A small package to use with laravel for screenshoting blade templates and storin... |
@@ -16,19 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [garyblankenship/sentinels](https://github.com/garyblankenship/sentinels) | 2 | Laravel package for agent-based task orchestration with invokable agents, pipeli... |
 | [w3designweb/laravel-cookie-consent](https://github.com/w3designweb/laravel-cookie-consent) | 0 | This package for Laravel allows you to manage user consents in compliance with p... |
 | [maurohmartinez/impersonate-users-backpack-laravel](https://github.com/maurohmartinez/impersonate-users-backpack-laravel) | 11 | A simple package that adds the impersonate operation for admins |
-| [dojorob76/laravel-architect](https://github.com/dojorob76/laravel-architect) | 0 | Package for quick, strict, highly opinionated API scaffolding for Laravel 12+ us... |
-| [giantsoup/webportfolio](https://github.com/giantsoup/webportfolio) | 0 | Personal portfolio and project showcase built with Laravel, Livewire, Flux UI, a... |
-| [myerscode/laravel-domain-validator](https://github.com/myerscode/laravel-domain-validator) | 2 | Validate Domains names in Laravel using PHP Domain Parser. |
-| [quinrel/laravel](https://github.com/quinrel/laravel) | 0 | Quinrel is a visiblity and discoverability laravel package for quinrel cloud. Wh... |
-| [mapo-89/laravel-homeassistant-api](https://github.com/mapo-89/laravel-homeassistant-api) | 1 | Laravel package to work with the Home Assistant API. |
-| [proteo/drupal-backend](https://github.com/proteo/drupal-backend) | 0 | A Laravel package for consuming a Drupal JSON:API backend |
-| [usamamuneerchaudhary/laravel-tagify](https://github.com/usamamuneerchaudhary/laravel-tagify) | 22 | Simple Tagging Package for Laravel |
-| [bernskiold/laravel-euromonitor](https://github.com/bernskiold/laravel-euromonitor) | 0 | A package for Laravel to interact with the Euromonitor API. |
-| [myerscode/avail](https://github.com/myerscode/avail) | 1 | A helper package for Laravel 5 |
-| [watchtowerobservability/watchtower-laravel](https://github.com/watchtowerobservability/watchtower-laravel) | 0 | Watchtower Laravel package |
-| [denischweya/tandem](https://github.com/denischweya/tandem) | 0 | Tandem monorepo: Next.js web, Laravel API, and shared TypeScript package |
-| [spdotdev/splotnikov-dev](https://github.com/spdotdev/splotnikov-dev) | 0 | Laravel site-package for splotnikov.dev — mounted into sd-admin via host-based r... |
-| [jeffersongoncalves/livewire-logs](https://github.com/jeffersongoncalves/livewire-logs) | 1 | Log the errors Livewire hides behind a 419 and add component context to Livewire... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-10-30 | A standard suite of essentials for every Laravel app you bui... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-30 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-10-30 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 205 | 2026-10-30 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [spdotdev/splotnikov-dev](https://github.com/spdotdev/splotnikov-dev) | 0 | 2026-10-30 | Laravel site-package for splotnikov.dev — mounted into sd-ad... |
 | [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-10-30 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
-| [filagora/filagora-forums](https://github.com/filagora/filagora-forums) | 0 | 2026-10-30 | Filagora forums: forum groups, forums, threads and posts, vi... |
-| [jeffersongoncalves/laravel-page-cache](https://github.com/jeffersongoncalves/laravel-page-cache) | 1 | 2026-10-30 | Full-page response cache for stateless public pages, keyed b... |
-| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 3 | 2026-10-30 | Open-source web hosting control panel for Ubuntu servers, wi... |
+| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-30 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-30 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [robot-council/core](https://github.com/robot-council/core) | 2 | 2026-10-30 | The core of Robot Council, a coordination service for fleets... |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-10-30 | Laravel package to create administration dashboards |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-10-30 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [CornellCustomDev/CD-LaravelLdap](https://github.com/CornellCustomDev/CD-LaravelLdap) | 0 | 2026-10-30 | A Laravel package for retrieving Cornell University LDAP dat... |
+| [asciisd/cashier-core](https://github.com/asciisd/cashier-core) | 0 | 2026-10-30 | A flexible payment processing system for Laravel using the F... |
+| [datalogix/laravel-validation](https://github.com/datalogix/laravel-validation) | 3 | 2026-10-30 | Laravel Validation is a package the power of Respect Validat... |
+| [datalogix/laravel-sensible](https://github.com/datalogix/laravel-sensible) | 0 | 2026-10-30 | Laravel Sensible is a lightweight utility package for applyi... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-30 | Daywatch Laravel package to integrate into collecting events... |
 | [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-10-30 | Scaffolds Ichava icon packages: one command, a token-substit... |
-| [Sknadim6297/delta-support-laravel](https://github.com/Sknadim6297/delta-support-laravel) | 0 | 2026-10-30 | A Laravel 12-based tours and travel management platform feat... |
-| [jeffersongoncalves/livewire-logs](https://github.com/jeffersongoncalves/livewire-logs) | 1 | 2026-10-30 | Log the errors Livewire hides behind a 419 and add component... |
-| [Users-au/laravel-client](https://github.com/Users-au/laravel-client) | 1 | 2026-10-30 | This package is a Laravel client for Users.au Oauth. It prov... |
+| [mapo-89/laravel-homeassistant-api](https://github.com/mapo-89/laravel-homeassistant-api) | 1 | 2026-10-30 | Laravel package to work with the Home Assistant API. |
 | [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-10-30 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
+| [salfade/laravel-login-tracker](https://github.com/salfade/laravel-login-tracker) | 4 | 2026-10-30 | A simple package to track successful user login attempts and... |
 | [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-10-30 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
 | [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-10-30 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-30 | Filament plugin that allows to add dynamic, user-defined for... |
-| [lukawar/laravel-bank-kit](https://github.com/lukawar/laravel-bank-kit) | 0 | 2026-10-30 | A Laravel package for generating Polish bank transfer files ... |
-| [jeffersongoncalves/filament-fathom](https://github.com/jeffersongoncalves/filament-fathom) | 3 | 2026-10-30 | Filament plugin for Fathom analytics with a built-in setting... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 164 | 2026-10-30 | Collect everything about sent mails in your Filament app. |
-| [Smansilla98/SistemaDeGestion](https://github.com/Smansilla98/SistemaDeGestion) | 0 | 2026-10-30 | Sistema de gestion para restaurantes: mesas, pedidos, cocina... |
-| [Users-au/socialite-provider](https://github.com/Users-au/socialite-provider) | 0 | 2026-10-30 | A Laravel Socialite OAuth2 provider for Users.au authenticat... |
+| [Zobercito/gestor-de-contactos](https://github.com/Zobercito/gestor-de-contactos) | 0 | 2026-10-30 | Gestor de contactos con Laravel, Livewire y PostgreSQL: segm... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-30T18:25 | 13 | 1684 | 7680 |
 | 2026-10-30T12:33 | 7 | 1691 | 7667 |
 | 2026-10-30T06:36 | 1 | 1698 | 7660 |
 | 2026-10-30T00:49 | 11 | 1685 | 7660 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-29T00:48 | 7 | 1688 | 7618 |
 | 2026-10-28T18:29 | 5 | 1696 | 7611 |
 | 2026-10-28T12:33 | 7 | 1697 | 7606 |
-| 2026-10-28T06:36 | 2 | 1704 | 7599 |
 
 ---
 

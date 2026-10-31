@@ -2215,5 +2215,32 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-10-30T06:36:54.233Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "chlnlto/first-balfour-asset-management-system": {
+    "name": "CHlNlTO/first-balfour-asset-management-system",
+    "url": "https://github.com/CHlNlTO/first-balfour-asset-management-system",
+    "description": "PHP Laravel Filament Asset Management System ",
+    "stars": 3,
+    "forks": 5,
+    "topics": [
+      "alpinejs",
+      "blade",
+      "filamentphp",
+      "heroicons",
+      "laravel",
+      "livewire",
+      "mysql",
+      "php",
+      "tailwindcss",
+      "xampp"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2024-07-18T13:46:42Z",
+    "updated_at": "2025-10-31T05:33:10Z",
+    "pushed_at": "2025-10-31T05:26:22Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-10-31T06:28:45.321Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

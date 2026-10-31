@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7692  
-**Last updated:** 2026-10-31T12:26:07.959Z
+**Total packages tracked:** 7699  
+**Last updated:** 2026-10-31T18:24:16.988Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [awcodes/thermal](https://github.com/awcodes/thermal) | 0 | Heatmap visualizations for Filament: calendar activity grids and custom tile lay... |
+| [hibira-io/filament-collab](https://github.com/hibira-io/filament-collab) | 0 | Collaborative rich text editing for Filament: several people edit one field at o... |
+| [hibira-io/filament-support](https://github.com/hibira-io/filament-support) | 0 | AI live chat support for Filament: a website chat widget answered first by AI wi... |
+| [hibira-io/filament-approvals](https://github.com/hibira-io/filament-approvals) | 0 | Live Filament inbox for Laravel AI tool approvals: your agent pauses before a ri... |
+| [illhammf/arus-2026](https://github.com/illhammf/arus-2026) | 0 | Arus is a personal finance management web application built with Laravel, design... |
+| [Knackline/laravel-listmonk](https://github.com/Knackline/laravel-listmonk) | 4 | Laravel + Listmonk : A Laravel package to interact with the Listmonk API, provid... |
+| [codebar-ag/json-body-guard](https://github.com/codebar-ag/json-body-guard) | 0 | Rejects JSON request bodies before your PHP application decodes them, except on ... |
 | [toon-van-berkel/dnd-encounter-library](https://github.com/toon-van-berkel/dnd-encounter-library) | 1 | A Laravel-based D&D encounter library where users can create, discover, filter a... |
 | [lmottasin/laravel-http-mailer](https://github.com/lmottasin/laravel-http-mailer) | 4 | Laravel mail over HTTPS: send through the SendGrid or Brevo API when SMTP ports ... |
 | [codebar-ag/laravel-microsoft-azure](https://github.com/codebar-ag/laravel-microsoft-azure) | 0 |  |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [EmilienKopp/Metamon](https://github.com/EmilienKopp/Metamon) | 1 | A Laravel package for handling model metadata with role-based access control |
 | [SachinPawaskarUNO/human-examinations](https://github.com/SachinPawaskarUNO/human-examinations) | 0 | This package allows you to add human examinations & related images, components &... |
 | [aliqsm/laravel-authkit](https://github.com/aliqsm/laravel-authkit) | 0 | laravel auth package |
-| [RedberryProducts/mailbox-for-laravel](https://github.com/RedberryProducts/mailbox-for-laravel) | 129 | Mailbox for Laravel is a zero-configuration local inbox that lets you capture, i... |
-| [khweb/novaposhta-filament](https://github.com/khweb/novaposhta-filament) | 0 | API Нова Пошта для Laravel 12+ та Filament 5: локальні довідники доставки, синхр... |
-| [thirdsai/filament-render](https://github.com/thirdsai/filament-render) | 0 | Filament action that renders a record to PDF or PNG with thirds.ai, then downloa... |
-| [hibira-io/filament](https://github.com/hibira-io/filament) | 0 | Live notifications for Filament panels on Hibira (Pusher-compatible) |
-| [Zobercito/gestor-de-contactos](https://github.com/Zobercito/gestor-de-contactos) | 0 | Gestor de contactos con Laravel, Livewire y PostgreSQL: segmentos, notas, histor... |
-| [mundoprogra/json-api](https://github.com/mundoprogra/json-api) | 0 | JSON:API 1.1 request validation and responses for Laravel 10 to 13. |
-| [jeffersongoncalves/livewire-horizon](https://github.com/jeffersongoncalves/livewire-horizon) | 1 | Laravel Horizon's dashboard rewritten with Livewire and Flux: search every job l... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 14 | 2026-10-31 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
+| [Power-Components/turbine](https://github.com/Power-Components/turbine) | 1 | 2026-10-31 | Framework-agnostic data engine for Laravel (search, filters,... |
 | [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-31 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [jeffersongoncalves/website](https://github.com/jeffersongoncalves/website) | 1 | 2026-10-31 | Personal portfolio and developer site of Jefferson Goncalves... |
-| [jeffersongoncalves/filament-faq](https://github.com/jeffersongoncalves/filament-faq) | 3 | 2026-10-31 | Filament admin UI (CRUD) for jeffersongoncalves/laravel-faq ... |
-| [jeffersongoncalves/laravel-faq](https://github.com/jeffersongoncalves/laravel-faq) | 1 | 2026-10-31 | A Laravel package for managing FAQs with translatable catego... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-10-31 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [spdotdev/splotnikov-dev](https://github.com/spdotdev/splotnikov-dev) | 0 | 2026-10-31 | Laravel site-package for splotnikov.dev — mounted into sd-ad... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-10-31 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-10-31 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
-| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-10-31 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
-| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-10-31 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
+| [Knackline/laravel-olm](https://github.com/Knackline/laravel-olm) | 3 | 2026-10-31 | Laravel package for on-device / local language models (MLX, ... |
+| [Knackline/laravel-listmonk](https://github.com/Knackline/laravel-listmonk) | 4 | 2026-10-31 | Laravel + Listmonk : A Laravel package to interact with the ... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-31 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [jeffersongoncalves/filament-refresh-sidebar](https://github.com/jeffersongoncalves/filament-refresh-sidebar) | 11 | 2026-10-31 | Filament Refresh Sidebar is a lightweight plugin designed to... |
+| [Lunixi-Payment/lunixi-laravel](https://github.com/Lunixi-Payment/lunixi-laravel) | 0 | 2026-10-31 | Lunixi for Laravel: config, facade, webhook route with queue... |
+| [awcodes/overlook](https://github.com/awcodes/overlook) | 193 | 2026-10-31 | An app overview widget for Filament panels. |
+| [awcodes/mason](https://github.com/awcodes/mason) | 249 | 2026-10-31 | A simple block based drag and drop page / document builder f... |
+| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 1 | 2026-10-31 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
+| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 10 | 2026-10-31 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-31 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 102 | 2026-10-31 | Complete, ready-to-use Indonesian administrative region data... |
-| [jeffersongoncalves/laravel-page-cache](https://github.com/jeffersongoncalves/laravel-page-cache) | 1 | 2026-10-31 | Full-page response cache for stateless public pages, keyed b... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-10-31 | Filament plugin that allows to add dynamic, user-defined for... |
-| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-10-31 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
-| [cruciblephp/laravents](https://github.com/cruciblephp/laravents) | 5 | 2026-10-31 | Laravents is a powerful package for Laravel that brings modu... |
-| [atannex/bridge-workspace](https://github.com/atannex/bridge-workspace) | 0 | 2026-10-31 | Example Laravel backend and Expo app for Atannex Bridge, wit... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 77 | 2026-10-31 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [awcodes/thermal](https://github.com/awcodes/thermal) | 0 | 2026-10-31 | Heatmap visualizations for Filament: calendar activity grids... |
+| [zeroit789/meetcita](https://github.com/zeroit789/meetcita) | 0 | 2026-10-31 | Reservas de citas autoalojadas para Laravel: calendario, cit... |
 | [madebyclowd/laravel-documentable](https://github.com/madebyclowd/laravel-documentable) | 2 | 2026-10-31 | Attach S3-compatible document storage to any Eloquent model ... |
-| [iamkarsoft/movie-app](https://github.com/iamkarsoft/movie-app) | 1 | 2026-10-31 | Movie App to keep track of movies |
-| [Jarryd-W-Hoffman/giraffe-ui](https://github.com/Jarryd-W-Hoffman/giraffe-ui) | 0 | 2026-10-31 | Free, accessible Blade + Alpine components for Laravel and T... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 123 | 2026-10-31 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-10-31 | A Laravel-based web application that tracks, analyzes, and p... |
+| [codebar-ag/json-body-guard](https://github.com/codebar-ag/json-body-guard) | 0 | 2026-10-31 | Rejects JSON request bodies before your PHP application deco... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-10-31T18:24 | 7 | 1689 | 7699 |
 | 2026-10-31T12:26 | 7 | 1686 | 7692 |
 | 2026-10-31T06:28 | 1 | 1693 | 7685 |
 | 2026-10-31T00:41 | 5 | 1691 | 7685 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-30T00:49 | 11 | 1685 | 7660 |
 | 2026-10-29T18:29 | 16 | 1677 | 7649 |
 | 2026-10-29T12:33 | 0 | 0 | 7634 |
-| 2026-10-29T06:36 | 16 | 1678 | 7634 |
 
 ---
 

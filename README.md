@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7699  
-**Last updated:** 2026-10-31T18:24:16.988Z
+**Total packages tracked:** 7707  
+**Last updated:** 2026-11-01T00:48:28.134Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [awcodes/panelist](https://github.com/awcodes/panelist) | 3 | A Filament plugin that turns a resource's list page into a master-detail editor:... |
+| [drivkraft/valkyrie](https://github.com/drivkraft/valkyrie) | 0 | Role-based authorization for Laravel. Roles, permissions and abilities with scop... |
+| [kstmostofa/laravel-backfill](https://github.com/kstmostofa/laravel-backfill) | 1 | Safe, resumable data backfills for Laravel. Kill it at any moment and resume to ... |
+| [kaihempel/facebook-graph-api-laravel](https://github.com/kaihempel/facebook-graph-api-laravel) | 0 | Meta Facebook Graph API as Laravel Package |
+| [Knackline/laravel-deploy](https://github.com/Knackline/laravel-deploy) | 5 | A Laravel package for deploying Laravel projects using a shell script. |
+| [Knackline/laravel-toon](https://github.com/Knackline/laravel-toon) | 1 | A powerful Laravel package for integrating Toon functionality into your Laravel ... |
+| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | Open-source, self-hosted video processing & delivery engine — upload, transcode ... |
+| [hitechcloud-vietnam/laravel-hitechcloudpay](https://github.com/hitechcloud-vietnam/laravel-hitechcloudpay) | 0 | Laravel package cho HiTechCloudPay:  Cổng thanh toán — HiTechCloud Pay, HiTechCl... |
 | [awcodes/thermal](https://github.com/awcodes/thermal) | 0 | Heatmap visualizations for Filament: calendar activity grids and custom tile lay... |
 | [hibira-io/filament-collab](https://github.com/hibira-io/filament-collab) | 0 | Collaborative rich text editing for Filament: several people edit one field at o... |
 | [hibira-io/filament-support](https://github.com/hibira-io/filament-support) | 0 | AI live chat support for Filament: a website chat widget answered first by AI wi... |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [codebar-ag/laravel-microsoft-azure](https://github.com/codebar-ag/laravel-microsoft-azure) | 0 |  |
 | [milwad-dev/pcreators](https://github.com/milwad-dev/pcreators) | 19 | An interactive CLI to scaffold a production-ready PHP/Laravel package in seconds |
 | [atannex/bridge-workspace](https://github.com/atannex/bridge-workspace) | 0 | Example Laravel backend and Expo app for Atannex Bridge, with the cross-package ... |
-| [codebar-ag/laravel-translations](https://github.com/codebar-ag/laravel-translations) | 0 |  |
-| [codebar-ag/laravel-odoo](https://github.com/codebar-ag/laravel-odoo) | 0 |  |
-| [janainarque/passa-desafio](https://github.com/janainarque/passa-desafio) | 0 | Plataforma de cartões corporativos pré-pagos com Laravel 13, processamento finan... |
-| [ArvidDeJong/laravel-uploads](https://github.com/ArvidDeJong/laravel-uploads) | 0 | One Upload model for every file in a Laravel app: attach files to any model in n... |
-| [pushery/production-preflight-for-laravel](https://github.com/pushery/production-preflight-for-laravel) | 2 | Laravel production checks for what passes every test: unsafe settings, a .env th... |
-| [EmilienKopp/Metamon](https://github.com/EmilienKopp/Metamon) | 1 | A Laravel package for handling model metadata with role-based access control |
-| [SachinPawaskarUNO/human-examinations](https://github.com/SachinPawaskarUNO/human-examinations) | 0 | This package allows you to add human examinations & related images, components &... |
-| [aliqsm/laravel-authkit](https://github.com/aliqsm/laravel-authkit) | 0 | laravel auth package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 14 | 2026-10-31 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
-| [Power-Components/turbine](https://github.com/Power-Components/turbine) | 1 | 2026-10-31 | Framework-agnostic data engine for Laravel (search, filters,... |
-| [stephanfo/club-o-clock](https://github.com/stephanfo/club-o-clock) | 0 | 2026-10-31 | Club'O'Clock — Nage, pédale, cavale… fini le planning infern... |
-| [Knackline/laravel-olm](https://github.com/Knackline/laravel-olm) | 3 | 2026-10-31 | Laravel package for on-device / local language models (MLX, ... |
-| [Knackline/laravel-listmonk](https://github.com/Knackline/laravel-listmonk) | 4 | 2026-10-31 | Laravel + Listmonk : A Laravel package to interact with the ... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-10-31 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [jeffersongoncalves/filament-refresh-sidebar](https://github.com/jeffersongoncalves/filament-refresh-sidebar) | 11 | 2026-10-31 | Filament Refresh Sidebar is a lightweight plugin designed to... |
-| [Lunixi-Payment/lunixi-laravel](https://github.com/Lunixi-Payment/lunixi-laravel) | 0 | 2026-10-31 | Lunixi for Laravel: config, facade, webhook route with queue... |
-| [awcodes/overlook](https://github.com/awcodes/overlook) | 193 | 2026-10-31 | An app overview widget for Filament panels. |
-| [awcodes/mason](https://github.com/awcodes/mason) | 249 | 2026-10-31 | A simple block based drag and drop page / document builder f... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 1 | 2026-10-31 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 10 | 2026-10-31 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-10-31 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 77 | 2026-10-31 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [awcodes/thermal](https://github.com/awcodes/thermal) | 0 | 2026-10-31 | Heatmap visualizations for Filament: calendar activity grids... |
-| [zeroit789/meetcita](https://github.com/zeroit789/meetcita) | 0 | 2026-10-31 | Reservas de citas autoalojadas para Laravel: calendario, cit... |
-| [madebyclowd/laravel-documentable](https://github.com/madebyclowd/laravel-documentable) | 2 | 2026-10-31 | Attach S3-compatible document storage to any Eloquent model ... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 123 | 2026-10-31 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-10-31 | A Laravel-based web application that tracks, analyzes, and p... |
-| [codebar-ag/json-body-guard](https://github.com/codebar-ag/json-body-guard) | 0 | 2026-10-31 | Rejects JSON request bodies before your PHP application deco... |
+| [spdotdev/splotnikov-dev](https://github.com/spdotdev/splotnikov-dev) | 0 | 2026-11-01 | Laravel package that serves splotnikov.dev, the personal sit... |
+| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 102 | 2026-11-01 | Complete, ready-to-use Indonesian administrative region data... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-11-01 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [jeffersongoncalves/filament-scanner-guard](https://github.com/jeffersongoncalves/filament-scanner-guard) | 6 | 2026-11-01 | Filament UI for jeffersongoncalves/laravel-scanner-guard: li... |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-11-01 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-01 | Automated code analysis for Laravel applications with 73 ope... |
+| [jeffersongoncalves/laravel-convertkit](https://github.com/jeffersongoncalves/laravel-convertkit) | 1 | 2026-11-01 | PHP/Laravel client for the ConvertKit REST API v3: subscribe... |
+| [spdotdev/scuttlemail-dev](https://github.com/spdotdev/scuttlemail-dev) | 0 | 2026-11-01 | Laravel site-package for scuttlemail.dev, mounted into sd-ad... |
+| [jeffersongoncalves/laravel-brevo](https://github.com/jeffersongoncalves/laravel-brevo) | 1 | 2026-11-01 | PHP/Laravel client for the Brevo (formerly Sendinblue) REST ... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-11-01 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [jeffersongoncalves/laravel-customer-io](https://github.com/jeffersongoncalves/laravel-customer-io) | 1 | 2026-11-01 | Laravel client for Customer.io's Track and App APIs: custome... |
+| [AkibaAT/fvn.li](https://github.com/AkibaAT/fvn.li) | 10 | 2026-11-01 | A Laravel-based web application that tracks, analyzes, and p... |
+| [Derrytech-Inc/laravel-telegram-logger](https://github.com/Derrytech-Inc/laravel-telegram-logger) | 0 | 2026-10-31 | A package to set up telegram logging for laravel application... |
+| [hitechcloud-vietnam/laravel-hitechcloudpay](https://github.com/hitechcloud-vietnam/laravel-hitechcloudpay) | 0 | 2026-10-31 | Laravel package cho HiTechCloudPay:  Cổng thanh toán — HiTec... |
+| [kaihempel/facebook-graph-api-laravel](https://github.com/kaihempel/facebook-graph-api-laravel) | 0 | 2026-10-31 | Meta Facebook Graph API as Laravel Package |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-10-31 | Daywatch Laravel package to integrate into collecting events... |
+| [boldlygrow/okta-api-client](https://github.com/boldlygrow/okta-api-client) | 0 | 2026-10-31 | Composer package for Laravel applications for connecting to ... |
+| [jeffersongoncalves/filament-sensible-defaults](https://github.com/jeffersongoncalves/filament-sensible-defaults) | 2 | 2026-10-31 | Opinionated global Filament defaults for forms, tables, acti... |
+| [jeffersongoncalves/filament-additional-information](https://github.com/jeffersongoncalves/filament-additional-information) | 1 | 2026-10-31 | Reusable created/updated timestamps section for Filament inf... |
+| [boldlygrow/gitlab-api-client](https://github.com/boldlygrow/gitlab-api-client) | 0 | 2026-10-31 | Composer package for Laravel applications for connecting to ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-01T00:48 | 8 | 1687 | 7707 |
 | 2026-10-31T18:24 | 7 | 1689 | 7699 |
 | 2026-10-31T12:26 | 7 | 1686 | 7692 |
 | 2026-10-31T06:28 | 1 | 1693 | 7685 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-30T06:36 | 1 | 1698 | 7660 |
 | 2026-10-30T00:49 | 11 | 1685 | 7660 |
 | 2026-10-29T18:29 | 16 | 1677 | 7649 |
-| 2026-10-29T12:33 | 0 | 0 | 7634 |
 
 ---
 

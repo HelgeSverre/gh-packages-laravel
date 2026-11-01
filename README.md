@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7715  
-**Last updated:** 2026-11-01T12:26:39.917Z
+**Total packages tracked:** 7727  
+**Last updated:** 2026-11-01T18:24:14.367Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | Bokföring med öppen källkod för svenska företag: bokföring, fakturor, moms, boks... |
+| [esenciadevida/labgato](https://github.com/esenciadevida/labgato) | 0 | Clinical toolkit for laboratory professionals - calculators, reference ranges, S... |
+| [Damar2121/laravel-pos-booking](https://github.com/Damar2121/laravel-pos-booking) | 1 | ⚡ NexPOS: Modern Point of Sale & Appointment Booking System Starter Kit built wi... |
+| [Ezz0o/livewireArtWebsite](https://github.com/Ezz0o/livewireArtWebsite) | 0 | A simplistic art posting website made as practice in learning the Livewire frame... |
+| [pokertour/Silo](https://github.com/pokertour/Silo) | 1 | Self-hosted vault to upload, organize and share disk images (ISO, QCOW2, VMDK, I... |
+| [atangageihcollins/core](https://github.com/atangageihcollins/core) | 1 | Laravel integration kernel for GCEGO Studio: configuration, lifecycle, package c... |
+| [turahe/laravel-userstamps](https://github.com/turahe/laravel-userstamps) | 0 | A Laravel package to automatically add `created_by`, `updated_by`, and `deleted_... |
+| [turahe/master-data](https://github.com/turahe/master-data) | 1 | A comprehensive Laravel package that provides master data for countries, provinc... |
+| [RobTrehy/LaravelApplicationSettings](https://github.com/RobTrehy/LaravelApplicationSettings) | 0 | A package for Laravel to store Application Settings |
+| [RobTrehy/LaravelUserPreferences](https://github.com/RobTrehy/LaravelUserPreferences) | 3 | A package for Laravel to store user preferences for your project |
+| [khurrambaig007/hr-management](https://github.com/khurrambaig007/hr-management) | 0 | HR management package for Laravel 11+: departments, employees, attendance, leave... |
+| [brianzaballa/check-printing](https://github.com/brianzaballa/check-printing) | 0 | Laravel package for generating printable bank checks as PDFs |
 | [pokertour/Deepsky](https://github.com/pokertour/Deepsky) | 0 | Self-hosted astrophotography portfolio with a live sky observatory, AR sky view ... |
-| [kayedspace/laravel-mcp-bridge](https://github.com/kayedspace/laravel-mcp-bridge) | 0 | Turn your Laravel app into an MCP server for AI agents. Routes, Artisan commands... |
+| [kayedspace/laravel-mcp-bridge](https://github.com/kayedspace/laravel-mcp-bridge) | 2 | Turn your Laravel app into an MCP server for AI agents. Routes, Artisan commands... |
 | [kaihempel/tiktok-upload-laravel](https://github.com/kaihempel/tiktok-upload-laravel) | 0 | Basic TikTok Upload API as Laravel package. |
 | [abdurrahamanbabu/laravel-seo](https://github.com/abdurrahamanbabu/laravel-seo) | 0 |  production-ready SEO management package for Laravel. Manage meta tags, social s... |
 | [thewonderjoy/gaze-laravel](https://github.com/thewonderjoy/gaze-laravel) | 0 | Gaze package for Laravel |
 | [qiick-io/excubia-core](https://github.com/qiick-io/excubia-core) | 1 | Excubia: health checks for Laravel apps (lockfiles, EOL, vulnerabilities, abando... |
 | [fadugyamfi/laravel-api-base](https://github.com/fadugyamfi/laravel-api-base) | 37 | Laravel Package For Easy RESTful API Development |
 | [nubinter/laravel-onedrive](https://github.com/nubinter/laravel-onedrive) | 0 | Laravel package untuk OneDrive Personal (Microsoft account) dengan login permane... |
-| [awcodes/panelist](https://github.com/awcodes/panelist) | 7 | A Filament plugin that turns a resource's list page into a master-detail editor:... |
-| [drivkraft/valkyrie](https://github.com/drivkraft/valkyrie) | 0 | Role-based authorization for Laravel. Roles, permissions and abilities with scop... |
-| [kstmostofa/laravel-backfill](https://github.com/kstmostofa/laravel-backfill) | 1 | Safe, resumable data backfills for Laravel. Kill it at any moment and resume to ... |
-| [kaihempel/facebook-graph-api-laravel](https://github.com/kaihempel/facebook-graph-api-laravel) | 0 | Meta Facebook Graph API as Laravel Package |
-| [Knackline/laravel-deploy](https://github.com/Knackline/laravel-deploy) | 5 | A Laravel package for deploying Laravel projects using a shell script. |
-| [Knackline/laravel-toon](https://github.com/Knackline/laravel-toon) | 1 | A powerful Laravel package for integrating Toon functionality into your Laravel ... |
-| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | Open-source, self-hosted video processing & delivery engine — upload, transcode ... |
-| [hitechcloud-vietnam/laravel-hitechcloudpay](https://github.com/hitechcloud-vietnam/laravel-hitechcloudpay) | 0 | Laravel package cho HiTechCloudPay:  Cổng thanh toán — HiTechCloud Pay, HiTechCl... |
-| [awcodes/thermal](https://github.com/awcodes/thermal) | 0 | Heatmap visualizations for Filament: calendar activity grids and custom tile lay... |
-| [hibira-io/filament-collab](https://github.com/hibira-io/filament-collab) | 0 | Collaborative rich text editing for Filament: several people edit one field at o... |
-| [hibira-io/filament-support](https://github.com/hibira-io/filament-support) | 0 | AI live chat support for Filament: a website chat widget answered first by AI wi... |
-| [hibira-io/filament-approvals](https://github.com/hibira-io/filament-approvals) | 0 | Live Filament inbox for Laravel AI tool approvals: your agent pauses before a ri... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -50,35 +50,35 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 448 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
-| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 444 | A modern PostGIS toolbox for Laravel |
+| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 445 | A modern PostGIS toolbox for Laravel |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 440 | A media picker plugin for Filament Panels. |
-| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 440 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
+| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 439 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/laravel-mail](https://github.com/jeffersongoncalves/laravel-mail) | 11 | 2026-11-01 | Complete email management for Laravel: logging, database tem... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-11-01 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [kayedspace/laravel-mcp-bridge](https://github.com/kayedspace/laravel-mcp-bridge) | 0 | 2026-11-01 | Turn your Laravel app into an MCP server for AI agents. Rout... |
-| [pokertour/Deepsky](https://github.com/pokertour/Deepsky) | 0 | 2026-11-01 | Self-hosted astrophotography portfolio with a live sky obser... |
-| [aporat/laravel-api-middleware](https://github.com/aporat/laravel-api-middleware) | 1 | 2026-11-01 | A Laravel package for API middleware including trust proxies... |
-| [jeffersongoncalves/filament-qrcode-field](https://github.com/jeffersongoncalves/filament-qrcode-field) | 20 | 2026-11-01 | A Laravel Filament package that provides QR Code field funct... |
-| [laricekl/ProximaJob-livrable](https://github.com/laricekl/ProximaJob-livrable) | 0 | 2026-11-01 | Laravel livrable package for deployment |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-01 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [kstmostofa/laravel-backfill](https://github.com/kstmostofa/laravel-backfill) | 1 | 2026-11-01 | Safe, resumable data backfills for Laravel. Kill it at any m... |
-| [kaihempel/tiktok-upload-laravel](https://github.com/kaihempel/tiktok-upload-laravel) | 0 | 2026-11-01 | Basic TikTok Upload API as Laravel package. |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-01 | Daywatch Laravel package to integrate into collecting events... |
-| [abdurrahamanbabu/laravel-seo](https://github.com/abdurrahamanbabu/laravel-seo) | 0 | 2026-11-01 |  production-ready SEO management package for Laravel. Manage... |
-| [mish-ka-mishka/laravel-tools](https://github.com/mish-ka-mishka/laravel-tools) | 0 | 2026-11-01 | This package contains simple tools for your Laravel applicat... |
-| [Particle-Academy/laravel-jobs-reference](https://github.com/Particle-Academy/laravel-jobs-reference) | 0 | 2026-11-01 | A real Laravel consumer of laravel-jobs + job-board. The sha... |
-| [sosupp/slimer-tenancy](https://github.com/sosupp/slimer-tenancy) | 1 | 2026-11-01 | A simple and slimer mulit-tenancy package for laravel. A dro... |
-| [albertoarena/codemetry](https://github.com/albertoarena/codemetry) | 0 | 2026-11-01 | Laravel-first Composer package that analyses a Git repositor... |
-| [jeffersongoncalves/laravel-ahrefs](https://github.com/jeffersongoncalves/laravel-ahrefs) | 1 | 2026-11-01 | A lightweight Ahrefs API v3 client for Laravel — domain rati... |
-| [albertoarena/codemetry-laravel](https://github.com/albertoarena/codemetry-laravel) | 1 | 2026-11-01 | Laravel adapter for Codemetry - Git-powered code quality met... |
-| [qiick-io/excubia-core](https://github.com/qiick-io/excubia-core) | 1 | 2026-11-01 | Excubia: health checks for Laravel apps (lockfiles, EOL, vul... |
-| [Linkxtr/laravel-qrcode](https://github.com/Linkxtr/laravel-qrcode) | 41 | 2026-11-01 |  |
+| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-11-01 | Dedicated Instagram account attach, authenticated browser sc... |
+| [troccoli/blade-health-icons](https://github.com/troccoli/blade-health-icons) | 10 | 2026-11-01 | A package to easily make use of Health Icons in your Laravel... |
+| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-01 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
+| [pokertour/Silo](https://github.com/pokertour/Silo) | 1 | 2026-11-01 | Self-hosted vault to upload, organize and share disk images ... |
+| [aliqsm/laravel-authkit](https://github.com/aliqsm/laravel-authkit) | 0 | 2026-11-01 | laravel auth package |
+| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-11-01 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
+| [turahe/laravel-userstamps](https://github.com/turahe/laravel-userstamps) | 0 | 2026-11-01 | A Laravel package to automatically add `created_by`, `update... |
+| [jeffersongoncalves/laravel-whatsapp-widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget) | 9 | 2026-11-01 | This Laravel package provides a simple yet customizable What... |
+| [Laravel-Backpack/demo](https://github.com/Laravel-Backpack/demo) | 344 | 2026-11-01 | A working demo of Laravel with all Backpack packages install... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-01 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-01 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [esenciadevida/labgato](https://github.com/esenciadevida/labgato) | 0 | 2026-11-01 | Clinical toolkit for laboratory professionals - calculators,... |
+| [turahe/master-data](https://github.com/turahe/master-data) | 1 | 2026-11-01 | A comprehensive Laravel package that provides master data fo... |
+| [ronaldoaires/unset](https://github.com/ronaldoaires/unset) | 0 | 2026-11-01 | Production BIM platform for Revit families: Laravel 13 + Fil... |
+| [jeffersongoncalves/laravel-dub](https://github.com/jeffersongoncalves/laravel-dub) | 1 | 2026-11-01 | A lightweight Dub.co API client for Laravel — link managemen... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-11-01 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [jeffersongoncalves/teamkitv4](https://github.com/jeffersongoncalves/teamkitv4) | 9 | 2026-11-01 | TeamKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-11-01 | TeamKit starter kit built on Laravel 13.x and Filament 3.x w... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 28 | 2026-11-01 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 2 | 2026-11-01 | HelpDesk starter kit built on Laravel 13.x and Filament 3.x ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-01T18:24 | 12 | 1683 | 7727 |
 | 2026-11-01T12:26 | 7 | 1686 | 7715 |
 | 2026-11-01T06:30 | 1 | 1693 | 7708 |
 | 2026-11-01T00:48 | 8 | 1687 | 7707 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-31T00:41 | 5 | 1691 | 7685 |
 | 2026-10-30T18:25 | 13 | 1684 | 7680 |
 | 2026-10-30T12:33 | 7 | 1691 | 7667 |
-| 2026-10-30T06:36 | 1 | 1698 | 7660 |
 
 ---
 

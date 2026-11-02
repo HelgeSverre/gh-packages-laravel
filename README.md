@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7742  
-**Last updated:** 2026-11-02T12:29:09.437Z
+**Total packages tracked:** 7752  
+**Last updated:** 2026-11-02T18:26:10.172Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [dehnavi/filaforge-studio](https://github.com/dehnavi/filaforge-studio) | 1 | A visual page builder for Laravel and Filament 5, with Persian and RTL authoring... |
+| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 1 | Open-source, self-hosted IT documentation for MSPs — servers, network, credentia... |
+| [levixflow-com/physical-workflow-bridge](https://github.com/levixflow-com/physical-workflow-bridge) | 0 | Pick-to-light packing bench on a Dingtian DT-R008. Demo by Levixflow. |
+| [ghostland-dev/energy-client-portal](https://github.com/ghostland-dev/energy-client-portal) | 1 | Laravel client portal for managing companies, sites and gas/electricity meters. |
+| [m77mdabdo/rehlet_sehha](https://github.com/m77mdabdo/rehlet_sehha) | 0 | Bilingual (Arabic/English) website, online booking and staff panel for a clinica... |
+| [prabowosd/laravel-collective-html](https://github.com/prabowosd/laravel-collective-html) | 0 | Laravel compatible fork of LaravelCollective/html. Namespaces kept as original f... |
+| [mranonyms022/laravel-zetca](https://github.com/mranonyms022/laravel-zetca) | 0 | Zetca Phase 2 Einvoicing package |
+| [moessimple/package-skeleton-laravel](https://github.com/moessimple/package-skeleton-laravel) | 0 |  |
+| [Acunsoft-Yazilim/datatable-laravel](https://github.com/Acunsoft-Yazilim/datatable-laravel) | 0 | Read-only mirror of packages/adapter-laravel from kemaloskan/acun-datatable (Pac... |
+| [niftitech/laravel-permissions](https://github.com/niftitech/laravel-permissions) | 0 | A permission package with a Entity -> Action style (User can update (Action) pos... |
 | [asignua/filament-xlsx-import](https://github.com/asignua/filament-xlsx-import) | 0 | Import .xlsx, .ods and .csv into any model from a Filament 5 panel: map the file... |
 | [m77mdabdo/riyadat_al_jawhara](https://github.com/m77mdabdo/riyadat_al_jawhara) | 0 | Bilingual (Arabic/English) website, stone catalogue, CRM and no-code CMS for a S... |
 | [ahmed29345/laravel-tenant-rbac](https://github.com/ahmed29345/laravel-tenant-rbac) | 0 |  |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [atannex/atannex-provider](https://github.com/atannex/atannex-provider) | 1 | A base Laravel service provider for packages: declare resources once, registered... |
 | [dvlpr1996/livewire-image-studio](https://github.com/dvlpr1996/livewire-image-studio) | 0 | Livewire-powered image optimization studio for Laravel |
 | [graynb25/papyrus](https://github.com/graynb25/papyrus) | 0 | A self-hosted web manga reader. Laravel 13, Livewire 4, Flux 2 and Tailwind 4 on... |
-| [JeroenBolhuis/WebsiteBuilder](https://github.com/JeroenBolhuis/WebsiteBuilder) | 0 | Laravel website builder for student association Het Koppel |
-| [mtubis/html-translator-laravel](https://github.com/mtubis/html-translator-laravel) | 0 | Laravel integration for mtubis/html-translator: translate HTML with LLMs (OpenAI... |
-| [kitloom/nova-starter](https://github.com/kitloom/nova-starter) | 0 | Laravel starter kit: kitloom with the Laravel Nova admin. The packages it instal... |
-| [ossycodes/nigeriabulksms](https://github.com/ossycodes/nigeriabulksms) | 9 | this package makes it easy to send notifications via Nigeriabulksms with Laravel |
-| [turahe/core](https://github.com/turahe/core) | 0 | A comprehensive Laravel package providing essential core functionality including... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | Bokföring med öppen källkod för svenska företag: bokföring, fakturor, moms, boks... |
-| [esenciadevida/labgato](https://github.com/esenciadevida/labgato) | 0 | Clinical toolkit for laboratory professionals - calculators, reference ranges, S... |
-| [Damar2121/laravel-pos-booking](https://github.com/Damar2121/laravel-pos-booking) | 1 | ⚡ NexPOS: Modern Point of Sale & Appointment Booking System Starter Kit built wi... |
-| [Ezz0o/livewireArtWebsite](https://github.com/Ezz0o/livewireArtWebsite) | 0 | A simplistic art posting website made as practice in learning the Livewire frame... |
-| [pokertour/Silo](https://github.com/pokertour/Silo) | 1 | Self-hosted vault to upload, organize and share disk images (ISO, QCOW2, VMDK, I... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 3 | 2026-11-02 | Bring Tempest Discovery to Laravel |
-| [artryazanov/laravel-error-mailer](https://github.com/artryazanov/laravel-error-mailer) | 1 | 2026-11-02 | Laravel 11-13 package to automatically send detailed excepti... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-11-02 | Runtime base library for building Laravel packages: fluent P... |
-| [asignua/filament-chat](https://github.com/asignua/filament-chat) | 6 | 2026-11-02 | Team chat inside Filament 5 panels: direct messages and grou... |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 205 | 2026-11-02 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 1 | 2026-11-02 | Open-source, self-hosted IT documentation for MSPs — servers... |
+| [mranonyms022/laravel-zetca](https://github.com/mranonyms022/laravel-zetca) | 0 | 2026-11-02 | Zetca Phase 2 Einvoicing package |
+| [moessimple/package-skeleton-laravel](https://github.com/moessimple/package-skeleton-laravel) | 0 | 2026-11-02 |  |
 | [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-02 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-11-02 | The NativePHP website |
-| [promptphp/deck](https://github.com/promptphp/deck) | 117 | 2026-11-02 | A Laravel package for versioned AI prompt management with va... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-11-02 | The Moox Project - Packages for Filament and Laravel |
-| [BlueStarSystem/aura-starter-kit](https://github.com/BlueStarSystem/aura-starter-kit) | 2 | 2026-11-02 | Laravel starter kit wired to Aura UI: MIT Blade components, ... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-02 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [asignua/filament-mail-log](https://github.com/asignua/filament-mail-log) | 1 | 2026-11-02 | Read-only log of every outgoing Laravel mail in Filament 5: ... |
-| [asignua/filament-seo-files](https://github.com/asignua/filament-seo-files) | 1 | 2026-11-02 | sitemap.xml, robots.txt, llms.txt and llms-full.txt for Fila... |
-| [asignua/filament-xlsx-import](https://github.com/asignua/filament-xlsx-import) | 0 | 2026-11-02 | Import .xlsx, .ods and .csv into any model from a Filament 5... |
-| [asignua/filament-infinite-scroll](https://github.com/asignua/filament-infinite-scroll) | 1 | 2026-11-02 | Infinite scroll and a "Load more" button for Filament 5 tabl... |
-| [asignua/filament-group-summaries](https://github.com/asignua/filament-group-summaries) | 2 | 2026-11-02 | Column summaries (Sum, Average, Count, Range, custom) in the... |
-| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-11-02 | Scaffolds Ichava icon packages: one command, a token-substit... |
-| [reasvyn/internara](https://github.com/reasvyn/internara) | 4 | 2026-11-02 | A practical work management information system built with La... |
-| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-11-02 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
-| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-11-02 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
-| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-11-02 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
+| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 102 | 2026-11-02 | Complete, ready-to-use Indonesian administrative region data... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-11-02 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 14 | 2026-11-02 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
+| [chkltlabs/laravel-porthole](https://github.com/chkltlabs/laravel-porthole) | 1 | 2026-11-02 | Authenticated, closed-first MCP server for Laravel Horizon, ... |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-02 | Laravel package to create administration dashboards |
+| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-02 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-11-02 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-11-02 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [Abdullah-Zaman/student-support-portal](https://github.com/Abdullah-Zaman/student-support-portal) | 0 | 2026-11-02 | Student support and grievance portal for the SE Department, ... |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-02 | WELD's fleet scanner: every app answers present with its PHP... |
+| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 5 | 2026-11-02 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
+| [akira-io/laravel-pdf-invoices](https://github.com/akira-io/laravel-pdf-invoices) | 39 | 2026-11-02 | A modern, strictly typed, and extensible invoice generator f... |
+| [LabskAI/shopmade-core](https://github.com/LabskAI/shopmade-core) | 2 | 2026-11-02 | Shopmade core: open source Laravel website system with conte... |
+| [jeffersongoncalves/laravel-package-cli](https://github.com/jeffersongoncalves/laravel-package-cli) | 1 | 2026-11-02 | Scaffold new open-source Laravel packages with git already c... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-02 | Open-source Laravel-native CMS for structured, multi-site pu... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-02T18:26 | 10 | 1683 | 7752 |
 | 2026-11-02T12:29 | 5 | 1687 | 7742 |
 | 2026-11-02T06:40 | 3 | 1691 | 7737 |
 | 2026-11-02T00:44 | 7 | 1687 | 7734 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-01T00:48 | 8 | 1687 | 7707 |
 | 2026-10-31T18:24 | 7 | 1689 | 7699 |
 | 2026-10-31T12:26 | 7 | 1686 | 7692 |
-| 2026-10-31T06:28 | 1 | 1693 | 7685 |
 
 ---
 

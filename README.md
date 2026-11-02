@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7734  
-**Last updated:** 2026-11-02T00:44:07.521Z
+**Total packages tracked:** 7737  
+**Last updated:** 2026-11-02T06:40:17.868Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Rizz404/digital-agency-ai](https://github.com/Rizz404/digital-agency-ai) | 0 | Multi-tenant digital agency site with an AI Digital Strategist, service packages... |
+| [atannex/foundation](https://github.com/atannex/foundation) | 0 | Headless foundation for Atannex Laravel packages: package descriptors, dependenc... |
+| [atannex/atannex-provider](https://github.com/atannex/atannex-provider) | 1 | A base Laravel service provider for packages: declare resources once, registered... |
 | [dvlpr1996/livewire-image-studio](https://github.com/dvlpr1996/livewire-image-studio) | 0 | Livewire-powered image optimization studio for Laravel |
 | [graynb25/papyrus](https://github.com/graynb25/papyrus) | 0 | A self-hosted web manga reader. Laravel 13, Livewire 4, Flux 2 and Tailwind 4 on... |
 | [JeroenBolhuis/WebsiteBuilder](https://github.com/JeroenBolhuis/WebsiteBuilder) | 0 | Laravel website builder for student association Het Koppel |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [turahe/master-data](https://github.com/turahe/master-data) | 1 | A comprehensive Laravel package that provides master data for countries, provinc... |
 | [RobTrehy/LaravelApplicationSettings](https://github.com/RobTrehy/LaravelApplicationSettings) | 0 | A package for Laravel to store Application Settings |
 | [RobTrehy/LaravelUserPreferences](https://github.com/RobTrehy/LaravelUserPreferences) | 3 | A package for Laravel to store user preferences for your project |
-| [khurrambaig007/hr-management](https://github.com/khurrambaig007/hr-management) | 0 | HR management package for Laravel 11+: departments, employees, attendance, leave... |
-| [brianzaballa/check-printing](https://github.com/brianzaballa/check-printing) | 0 | Laravel package for generating printable bank checks as PDFs |
-| [pokertour/Deepsky](https://github.com/pokertour/Deepsky) | 0 | Self-hosted astrophotography portfolio with a live sky observatory, AR sky view ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -50,7 +50,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 448 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
-| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 446 | A modern PostGIS toolbox for Laravel |
+| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 447 | A modern PostGIS toolbox for Laravel |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 440 | A media picker plugin for Filament Panels. |
 | [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 440 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [kitloom/nova-starter](https://github.com/kitloom/nova-starter) | 0 | 2026-11-02 | Laravel starter kit: kitloom with the Laravel Nova admin. Th... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-02 | Daywatch Laravel package to integrate into collecting events... |
-| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 42 | 2026-11-02 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
-| [mapo-89/laravel-homeassistant-api](https://github.com/mapo-89/laravel-homeassistant-api) | 1 | 2026-11-02 | Laravel package to work with the Home Assistant API. |
+| [Grazulex/laravel-autobuilder](https://github.com/Grazulex/laravel-autobuilder) | 49 | 2026-11-02 | Visual automation builder for Laravel - Create workflows wit... |
+| [Grazulex/laravel-atlas](https://github.com/Grazulex/laravel-atlas) | 23 | 2026-11-02 | 🗺️ Laravel Atlas scans your Laravel project to generate a c... |
+| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-11-02 | Laravel enterprise accounting package: chart of accounts, do... |
 | [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-11-02 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
-| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 122 | 2026-11-02 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [ossycodes/nigeriabulksms](https://github.com/ossycodes/nigeriabulksms) | 9 | 2026-11-02 | this package makes it easy to send notifications via Nigeria... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-11-02 | A Laravel package that crawls websites to detect broken link... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-02 | Laravel USPS Package to integrate USPS Address |
 | [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 102 | 2026-11-02 | Complete, ready-to-use Indonesian administrative region data... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 15 | 2026-11-02 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-02 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [mtubis/html-translator-laravel](https://github.com/mtubis/html-translator-laravel) | 0 | 2026-11-02 | Laravel integration for mtubis/html-translator: translate HT... |
-| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-11-02 | Laravel OTP is a Laravel package that enables developers to ... |
-| [lara-zeus/spatie-translatable](https://github.com/lara-zeus/spatie-translatable) | 37 | 2026-11-02 | Lara Zeus Translatable is Filament support for Spatie's Lara... |
-| [marcpope/cortendesk](https://github.com/marcpope/cortendesk) | 196 | 2026-11-02 | A web based, open-source console for managing the RustDesk O... |
-| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-01 | A Laravel-native integration & workflow automation package. |
-| [aporat/laravel-appstore-purchases](https://github.com/aporat/laravel-appstore-purchases) | 5 | 2026-11-01 | Laravel package for handling App Store (Apple, iTunes, Amazo... |
-| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-11-01 | Official Laravel package for VeliraPay crypto payments: a fa... |
-| [jeffersongoncalves/filament-widget-configuration](https://github.com/jeffersongoncalves/filament-widget-configuration) | 1 | 2026-11-01 | Configure global Filament widget defaults (polling interval,... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-11-01 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [opsfour/s3-server](https://github.com/opsfour/s3-server) | 19 | 2026-11-01 | A production-grade, fully S3-compatible object storage serve... |
+| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 8 | 2026-11-02 | Laravel Pesapal is a Laravel package designed to facilitate ... |
+| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-11-02 | A Laravel Package providing seamless integration for the wun... |
+| [jeffersongoncalves/laravel-linkedin-ads](https://github.com/jeffersongoncalves/laravel-linkedin-ads) | 1 | 2026-11-02 | A lightweight LinkedIn Ads (Marketing API) client for Larave... |
+| [jeffersongoncalves/filament-mixpanel](https://github.com/jeffersongoncalves/filament-mixpanel) | 1 | 2026-11-02 | Filament plugin for Mixpanel analytics — tracking script inj... |
+| [jturazzi/laravel-status](https://github.com/jturazzi/laravel-status) | 0 | 2026-11-02 | Central dashboard monitoring Laravel applications through th... |
+| [igorsmoleac/design-laravel-kit](https://github.com/igorsmoleac/design-laravel-kit) | 0 | 2026-11-02 | Blade components for Italian Public Administration websites ... |
+| [jeffersongoncalves/filament-translatable](https://github.com/jeffersongoncalves/filament-translatable) | 2 | 2026-11-02 | Enhanced Filament plugin for spatie/laravel-translatable wit... |
+| [jeffersongoncalves/laravel-meta-ads](https://github.com/jeffersongoncalves/laravel-meta-ads) | 1 | 2026-11-02 | Laravel integration for the Meta Ads (Facebook/Instagram Ads... |
+| [albertoarena/laravel-event-sourcing-generator](https://github.com/albertoarena/laravel-event-sourcing-generator) | 28 | 2026-11-02 | Artisan command to scaffold Spatie event sourcing domains - ... |
+| [Grazulex/laravel-chronotrace](https://github.com/Grazulex/laravel-chronotrace) | 132 | 2026-11-02 | 🎥 Record and replay Laravel requests deterministically and ... |
+| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 42 | 2026-11-02 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
+| [richardDobron/blade-google-material-symbols-600](https://github.com/richardDobron/blade-google-material-symbols-600) | 0 | 2026-11-02 | A package to easily make use of Google's Material Symbols (6... |
+| [richardDobron/blade-google-material-symbols-200](https://github.com/richardDobron/blade-google-material-symbols-200) | 0 | 2026-11-02 | A package to easily make use of Google's Material Symbols (2... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-02T06:40 | 3 | 1691 | 7737 |
 | 2026-11-02T00:44 | 7 | 1687 | 7734 |
 | 2026-11-01T18:24 | 12 | 1683 | 7727 |
 | 2026-11-01T12:26 | 7 | 1686 | 7715 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-10-31T12:26 | 7 | 1686 | 7692 |
 | 2026-10-31T06:28 | 1 | 1693 | 7685 |
 | 2026-10-31T00:41 | 5 | 1691 | 7685 |
-| 2026-10-30T18:25 | 13 | 1684 | 7680 |
 
 ---
 

@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7752  
-**Last updated:** 2026-11-02T18:26:10.172Z
+**Total packages tracked:** 7756  
+**Last updated:** 2026-11-03T00:41:32.570Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Lotmanine/wedding-matching-app](https://github.com/Lotmanine/wedding-matching-app) | 0 | A two-sided wedding-services marketplace: a couple submits one request, and the ... |
+| [MetaGrenade/MetaForge-DiscordBot](https://github.com/MetaGrenade/MetaForge-DiscordBot) | 0 | A Discord bot companion for the MetaForger boilerplate. |
+| [unitpostcom/unitpost-laravel](https://github.com/unitpostcom/unitpost-laravel) | 0 | Laravel package for Unitpost: send email and SMS |
+| [atannex/action](https://github.com/atannex/action) | 0 | Headless action engine for Laravel: register named operations once and run them ... |
 | [dehnavi/filaforge-studio](https://github.com/dehnavi/filaforge-studio) | 1 | A visual page builder for Laravel and Filament 5, with Persian and RTL authoring... |
 | [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 1 | Open-source, self-hosted IT documentation for MSPs — servers, network, credentia... |
 | [levixflow-com/physical-workflow-bridge](https://github.com/levixflow-com/physical-workflow-bridge) | 0 | Pick-to-light packing bench on a Dingtian DT-R008. Demo by Levixflow. |
@@ -16,7 +20,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [m77mdabdo/rehlet_sehha](https://github.com/m77mdabdo/rehlet_sehha) | 0 | Bilingual (Arabic/English) website, online booking and staff panel for a clinica... |
 | [prabowosd/laravel-collective-html](https://github.com/prabowosd/laravel-collective-html) | 0 | Laravel compatible fork of LaravelCollective/html. Namespaces kept as original f... |
 | [mranonyms022/laravel-zetca](https://github.com/mranonyms022/laravel-zetca) | 0 | Zetca Phase 2 Einvoicing package |
-| [moessimple/package-skeleton-laravel](https://github.com/moessimple/package-skeleton-laravel) | 0 |  |
+| [moessimple/package-skeleton-laravel](https://github.com/moessimple/package-skeleton-laravel) | 0 | Laravel 12 and 13 package skeleton for PHP 8.4+ with the quality gate and releas... |
 | [Acunsoft-Yazilim/datatable-laravel](https://github.com/Acunsoft-Yazilim/datatable-laravel) | 0 | Read-only mirror of packages/adapter-laravel from kemaloskan/acun-datatable (Pac... |
 | [niftitech/laravel-permissions](https://github.com/niftitech/laravel-permissions) | 0 | A permission package with a Entity -> Action style (User can update (Action) pos... |
 | [asignua/filament-xlsx-import](https://github.com/asignua/filament-xlsx-import) | 0 | Import .xlsx, .ods and .csv into any model from a Filament 5 panel: map the file... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [kennethandreas/lingkung-gunung-resort](https://github.com/kennethandreas/lingkung-gunung-resort) | 0 | Official website & direct booking system for Lingkung Gunung Adventure Camp Reso... |
 | [Eolica-Web/php-cloudflare-turnstile-laravel](https://github.com/Eolica-Web/php-cloudflare-turnstile-laravel) | 0 | [READ ONLY] Subtree split of the Cloudflare Turnstile Laravel package |
 | [Rizz404/digital-agency-ai](https://github.com/Rizz404/digital-agency-ai) | 0 | Multi-tenant digital agency site with an AI Digital Strategist, service packages... |
-| [atannex/foundation](https://github.com/atannex/foundation) | 0 | Headless foundation for Atannex Laravel packages: package descriptors, dependenc... |
-| [atannex/atannex-provider](https://github.com/atannex/atannex-provider) | 1 | A base Laravel service provider for packages: declare resources once, registered... |
-| [dvlpr1996/livewire-image-studio](https://github.com/dvlpr1996/livewire-image-studio) | 0 | Livewire-powered image optimization studio for Laravel |
-| [graynb25/papyrus](https://github.com/graynb25/papyrus) | 0 | A self-hosted web manga reader. Laravel 13, Livewire 4, Flux 2 and Tailwind 4 on... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 205 | 2026-11-02 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 1 | 2026-11-02 | Open-source, self-hosted IT documentation for MSPs — servers... |
-| [mranonyms022/laravel-zetca](https://github.com/mranonyms022/laravel-zetca) | 0 | 2026-11-02 | Zetca Phase 2 Einvoicing package |
-| [moessimple/package-skeleton-laravel](https://github.com/moessimple/package-skeleton-laravel) | 0 | 2026-11-02 |  |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-02 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 102 | 2026-11-02 | Complete, ready-to-use Indonesian administrative region data... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-11-02 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 14 | 2026-11-02 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
-| [chkltlabs/laravel-porthole](https://github.com/chkltlabs/laravel-porthole) | 1 | 2026-11-02 | Authenticated, closed-first MCP server for Laravel Horizon, ... |
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-02 | Laravel package to create administration dashboards |
-| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-02 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-11-02 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-11-02 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [Abdullah-Zaman/student-support-portal](https://github.com/Abdullah-Zaman/student-support-portal) | 0 | 2026-11-02 | Student support and grievance portal for the SE Department, ... |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-02 | WELD's fleet scanner: every app answers present with its PHP... |
-| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 5 | 2026-11-02 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
-| [akira-io/laravel-pdf-invoices](https://github.com/akira-io/laravel-pdf-invoices) | 39 | 2026-11-02 | A modern, strictly typed, and extensible invoice generator f... |
-| [LabskAI/shopmade-core](https://github.com/LabskAI/shopmade-core) | 2 | 2026-11-02 | Shopmade core: open source Laravel website system with conte... |
-| [jeffersongoncalves/laravel-package-cli](https://github.com/jeffersongoncalves/laravel-package-cli) | 1 | 2026-11-02 | Scaffold new open-source Laravel packages with git already c... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-02 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [cosmira/sandbox](https://github.com/cosmira/sandbox) | 0 | 2026-11-03 | Laravel package for dual-table sandbox editing |
+| [ronaldoaires/unset](https://github.com/ronaldoaires/unset) | 0 | 2026-11-03 | Production BIM platform for Revit families: Laravel 13 + Fil... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-03 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jeffersongoncalves/filament-analytics-core](https://github.com/jeffersongoncalves/filament-analytics-core) | 1 | 2026-11-03 | Shared base classes for jeffersongoncalves Filament analytic... |
+| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 447 | 2026-11-03 | A modern PostGIS toolbox for Laravel |
+| [atannex/action](https://github.com/atannex/action) | 0 | 2026-11-03 | Headless action engine for Laravel: register named operation... |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-03 | WELD's fleet scanner: every app answers present with its PHP... |
+| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-03 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
+| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-11-03 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
+| [jeffersongoncalves/laravel-wistia](https://github.com/jeffersongoncalves/laravel-wistia) | 1 | 2026-11-03 | A lightweight Wistia Data API client for Laravel. |
+| [YasserElgammal/pure-text](https://github.com/YasserElgammal/pure-text) | 11 | 2026-11-03 | PureText: A Laravel package for automatic filtering and repl... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-03 | A lightweight, convention-driven modular architecture packag... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-03 | A Laravel package that provides flexible and extensible reso... |
+| [atannex/foundation](https://github.com/atannex/foundation) | 0 | 2026-11-03 | Headless foundation for Atannex Laravel packages: package de... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-03 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-11-03 | Official Laravel package for VeliraPay crypto payments: a fa... |
+| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 1 | 2026-11-02 | The flexible backbone for your next CMS. This powerful frame... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-02 | A Laravel-native integration & workflow automation package. |
+| [atannex/atannex-provider](https://github.com/atannex/atannex-provider) | 1 | 2026-11-02 | A base Laravel service provider for packages: declare resour... |
+| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 7 | 2026-11-02 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-03T00:41 | 4 | 1690 | 7756 |
 | 2026-11-02T18:26 | 10 | 1683 | 7752 |
 | 2026-11-02T12:29 | 5 | 1687 | 7742 |
 | 2026-11-02T06:40 | 3 | 1691 | 7737 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-01T06:30 | 1 | 1693 | 7708 |
 | 2026-11-01T00:48 | 8 | 1687 | 7707 |
 | 2026-10-31T18:24 | 7 | 1689 | 7699 |
-| 2026-10-31T12:26 | 7 | 1686 | 7692 |
 
 ---
 

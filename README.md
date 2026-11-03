@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7783  
-**Last updated:** 2026-11-03T12:28:59.577Z
+**Total packages tracked:** 7800  
+**Last updated:** 2026-11-03T18:25:26.686Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [irishdistillers/shopify-storefront-checkout](https://github.com/irishdistillers/shopify-storefront-checkout) | 0 | This library helps you create immutable checkouts in Shopify with products, disc... |
+| [Pharaonic/laravel-seo](https://github.com/Pharaonic/laravel-seo) | 5 | SEO meta tags for Laravel: title, description, keywords, canonical and hreflang ... |
+| [aotr/open-a11y-laravel](https://github.com/aotr/open-a11y-laravel) | 0 | Open-source accessibility widget for Laravel Blade, Livewire, and Inertia React,... |
+| [bhuvidya/laravel-geocoder](https://github.com/bhuvidya/laravel-geocoder) | 0 | A Laravel 5 package to make geocoding a breeze. |
+| [bhuvidya/laravel-countries](https://github.com/bhuvidya/laravel-countries) | 33 | A laravel package to install a table filled with country information. Big kudos ... |
+| [microweber-packages/microweber-translation](https://github.com/microweber-packages/microweber-translation) | 0 | Standalone Laravel package for managing translations with database storage, impo... |
+| [microweber-packages/microweber-template-fonts](https://github.com/microweber-packages/microweber-template-fonts) | 0 | Standalone Laravel package for template font management: Google Fonts, system fo... |
+| [microweber-packages/microweber-template-custom-css](https://github.com/microweber-packages/microweber-template-custom-css) | 0 | Standalone Laravel package for template CSS management: live-edit CSS, user cust... |
+| [microweber-packages/microweber-system-licenses](https://github.com/microweber-packages/microweber-system-licenses) | 0 | Standalone license management package for Laravel. Manages system_licenses table... |
+| [microweber-packages/microweber-repository](https://github.com/microweber-packages/microweber-repository) | 0 | Reusable Laravel repository pattern package with caching, query filtering and mo... |
+| [microweber-packages/microweber-package-manager-client](https://github.com/microweber-packages/microweber-package-manager-client) | 0 | Standalone Composer package manager client for Microweber and Laravel apps: sear... |
+| [microweber-packages/microweber-notification](https://github.com/microweber-packages/microweber-notification) | 0 | Standalone Laravel package for database notifications, mail channel delivery, ad... |
+| [microweber-packages/microweber-media-thumbnail](https://github.com/microweber-packages/microweber-media-thumbnail) | 0 | Standalone Laravel package for media thumbnail caching and generation. Provides ... |
+| [microweber-packages/microweber-database](https://github.com/microweber-packages/microweber-database) | 0 | Reusable Laravel database manager package with caching, CRUD helpers, query filt... |
+| [microweber-packages/microweber-view](https://github.com/microweber-packages/microweber-view) | 0 | Reusable Microweber View package for Laravel: PHP file views, StringBlade render... |
+| [RedArchon/ledger-fox](https://github.com/RedArchon/ledger-fox) | 0 | Laravel package that publishes Cursor agent rules and configuration into an appl... |
+| [ultraviolettes/constellation-for-laravel](https://github.com/ultraviolettes/constellation-for-laravel) | 0 | Laravel package that collects and sends periodic maintenance snapshots to Conste... |
 | [Blaspsoft/forerunner](https://github.com/Blaspsoft/forerunner) | 54 | 🏗️✨ Define structured output schemas for LLMs using Laravel's familiar migratio... |
 | [Blaspsoft/doxswap](https://github.com/Blaspsoft/doxswap) | 237 | 📄 🔄 Doxswap is a Laravel package for seamless document conversion using LibreO... |
 | [bhuvidya/laravel-query-logger](https://github.com/bhuvidya/laravel-query-logger) | 0 | A laravel package to dump database queries easily. |
-| [microweber-packages/microweber-thumbnailer](https://github.com/microweber-packages/microweber-thumbnailer) | 0 | Standalone Laravel package for image thumbnail generation |
-| [microweber-packages/microweber-social-login](https://github.com/microweber-packages/microweber-social-login) | 0 | Social login package for Microweber CMS and standalone Laravel apps – provides O... |
-| [microweber-packages/microweber-phpquery](https://github.com/microweber-packages/microweber-phpquery) | 0 | PHPQuery - server-side CSS3 selector driven DOM API based on jQuery. Standalone ... |
-| [microweber-packages/microweber-pagination](https://github.com/microweber-packages/microweber-pagination) | 0 | Unified, reusable pagination package for Laravel — Bootstrap, Tailwind, dropdown... |
-| [microweber-packages/microweber-minifier](https://github.com/microweber-packages/microweber-minifier) | 0 | Standalone Laravel package for JS and CSS minification. Reusable in any Laravel ... |
-| [microweber-packages/microweber-media-pixum](https://github.com/microweber-packages/microweber-media-pixum) | 0 | Standalone Laravel package for generating and serving placeholder (pixum) images... |
-| [microweber-packages/microweber-mail-sender](https://github.com/microweber-packages/microweber-mail-sender) | 0 | Standalone Laravel package for sending email via configurable transports (SMTP, ... |
-| [microweber-packages/microweber-livewire-modal](https://github.com/microweber-packages/microweber-livewire-modal) | 0 | Standalone Livewire modal package for Laravel. Supports stacked/nested modals, u... |
-| [microweber-packages/microweber-image-optimization](https://github.com/microweber-packages/microweber-image-optimization) | 0 | Standalone Laravel package for image optimization: WebP conversion, lazy loading... |
-| [microweber-packages/microweber-fortify](https://github.com/microweber-packages/microweber-fortify) | 0 | Microweber Fortify - Two-Factor Authentication package for Microweber CMS and st... |
-| [microweber-packages/microweber-format](https://github.com/microweber-packages/microweber-format) | 0 | Reusable Laravel formatting & utility package – dates, strings, arrays, encoding... |
-| [Blaspsoft/onym](https://github.com/Blaspsoft/onym) | 123 | 📂 🎨 A flexible Laravel package for generating structured, unique, and customiz... |
-| [microweber-packages/microweber-config-merge](https://github.com/microweber-packages/microweber-config-merge) | 0 | Package-priority config merging for Laravel – lets package/module config values ... |
-| [microweber-packages/microweber-cdn-sync](https://github.com/microweber-packages/microweber-cdn-sync) | 0 | Standalone CDN sync package for Laravel. Syncs any Eloquent model's files to S3-... |
-| [microweber-packages/microweber-zip](https://github.com/microweber-packages/microweber-zip) | 0 | Standalone Laravel zip package: create and extract ZIP archives with zip-bomb pr... |
-| [microweber-packages/microweber-url](https://github.com/microweber-packages/microweber-url) | 0 | URL management package for Microweber - can be used standalone with any Laravel ... |
-| [microweber-packages/microweber-queue](https://github.com/microweber-packages/microweber-queue) | 0 | Standalone Laravel package for queue management: process pending jobs, Filament ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dehnavi/filaforge-studio](https://github.com/dehnavi/filaforge-studio) | 1 | 2026-11-03 | A visual page builder for Laravel and Filament 5, with Persi... |
-| [Blaspsoft/onym](https://github.com/Blaspsoft/onym) | 123 | 2026-11-03 | 📂 🎨 A flexible Laravel package for generating structured, ... |
-| [Blaspsoft/blasp](https://github.com/Blaspsoft/blasp) | 356 | 2026-11-03 | 🤬 🚫 Blasp is a profanity filter package for Laravel that h... |
+| [irishdistillers/shopify-storefront-checkout](https://github.com/irishdistillers/shopify-storefront-checkout) | 0 | 2026-11-03 | This library helps you create immutable checkouts in Shopify... |
+| [liberusoftware/boilerplate-laravel](https://github.com/liberusoftware/boilerplate-laravel) | 205 | 2026-11-03 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-03 | Laravel package to create administration dashboards |
+| [francosancheztowell/towell](https://github.com/francosancheztowell/towell) | 1 | 2026-11-03 | Plataforma de planeación y control de producción para manufa... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-03 | A Laravel-native integration & workflow automation package. |
+| [sasateguh/bayarkit-php](https://github.com/sasateguh/bayarkit-php) | 0 | 2026-11-03 | Read-only mirror of the bayarkit PHP/Laravel package for Pac... |
+| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-11-03 | A standard suite of essentials for every Laravel app you bui... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-11-03 | Lightweight toolkit for modular development in Laravel, for ... |
+| [Smansilla98/SistemaDeGestion](https://github.com/Smansilla98/SistemaDeGestion) | 0 | 2026-11-03 | Sistema de gestion para restaurantes: mesas, pedidos, cocina... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-03 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [bhuvidya/laravel-query-logger](https://github.com/bhuvidya/laravel-query-logger) | 0 | 2026-11-03 | A laravel package to dump database queries easily. |
+| [qiick-io/excubia-core](https://github.com/qiick-io/excubia-core) | 1 | 2026-11-03 | Excubia: health checks for Laravel apps (lockfiles, EOL, vul... |
+| [bhuvidya/laravel-geocoder](https://github.com/bhuvidya/laravel-geocoder) | 0 | 2026-11-03 | A Laravel 5 package to make geocoding a breeze. |
 | [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 102 | 2026-11-03 | Complete, ready-to-use Indonesian administrative region data... |
-| [secondnetwork/blade-tabler-icons](https://github.com/secondnetwork/blade-tabler-icons) | 40 | 2026-11-03 | A Blade icons package for the Tabler icons set. |
-| [packstub/session-replay](https://github.com/packstub/session-replay) | 51 | 2026-11-03 | Session replay for Laravel, built on rrweb: a recorder with ... |
-| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 13 | 2026-11-03 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [Blaspsoft/doxswap](https://github.com/Blaspsoft/doxswap) | 237 | 2026-11-03 | 📄 🔄 Doxswap is a Laravel package for seamless document con... |
-| [jeffersongoncalves/laravel-partnerstack](https://github.com/jeffersongoncalves/laravel-partnerstack) | 1 | 2026-11-03 | PartnerStack partner and affiliate program API integration f... |
-| [Blaspsoft/forerunner](https://github.com/Blaspsoft/forerunner) | 54 | 2026-11-03 | 🏗️✨ Define structured output schemas for LLMs using Laravel... |
-| [christopheraseidl/laravel-email-composer](https://github.com/christopheraseidl/laravel-email-composer) | 0 | 2026-11-03 | A simple Laravel package to compose email drafts and send to... |
-| [packstub/partisan](https://github.com/packstub/partisan) | 8 | 2026-11-03 | Artisan for Laravel packages — make: generators that write i... |
-| [packstub/filament-nitpick](https://github.com/packstub/filament-nitpick) | 3 | 2026-11-03 | Themes for Filament panels: designed looks, an open registry... |
-| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 1 | 2026-11-03 | A fast Gantt chart and resource timeline for Filament: any E... |
-| [packstub/filament-form-builder](https://github.com/packstub/filament-form-builder) | 10 | 2026-11-03 | Form builder for Filament panels: build forms in the admin, ... |
-| [packstub/filament-flow](https://github.com/packstub/filament-flow) | 21 | 2026-11-03 | Visual workflow automation for Filament panels: triggers, co... |
-| [packstub/filament-account-switcher](https://github.com/packstub/filament-account-switcher) | 47 | 2026-11-03 | Switch between accounts in Filament: impersonate users, link... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-03 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [thewonderjoy/gaze-laravel](https://github.com/thewonderjoy/gaze-laravel) | 0 | 2026-11-03 | Gaze package for Laravel |
+| [bhuvidya/laravel-countries](https://github.com/bhuvidya/laravel-countries) | 33 | 2026-11-03 | A laravel package to install a table filled with country inf... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-03 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [Magna-CMS/Magna-Pages](https://github.com/Magna-CMS/Magna-Pages) | 0 | 2026-11-03 | Visual page builder for Laravel — drag-and-drop pages, templ... |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-11-03 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-11-03 | Sistema de gestão para centros espíritas: assistidos, agenda... |
+| [CornellCustomDev/CD-LaravelLdap](https://github.com/CornellCustomDev/CD-LaravelLdap) | 0 | 2026-11-03 | A Laravel package for retrieving Cornell University LDAP dat... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-03T18:25 | 17 | 1676 | 7800 |
 | 2026-11-03T12:28 | 26 | 1667 | 7783 |
 | 2026-11-03T06:32 | 1 | 1693 | 7757 |
 | 2026-11-03T00:41 | 4 | 1690 | 7756 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-02T00:44 | 7 | 1687 | 7734 |
 | 2026-11-01T18:24 | 12 | 1683 | 7727 |
 | 2026-11-01T12:26 | 7 | 1686 | 7715 |
-| 2026-11-01T06:30 | 1 | 1693 | 7708 |
 
 ---
 

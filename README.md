@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7756  
-**Last updated:** 2026-11-03T00:41:32.570Z
+**Total packages tracked:** 7757  
+**Last updated:** 2026-11-03T06:32:00.044Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [andikapratamazaid/siaga](https://github.com/andikapratamazaid/siaga) | 0 | SIAGA (Sistem Asisten Kerja Lapangan): role-based WhatsApp-first assistant for c... |
 | [Lotmanine/wedding-matching-app](https://github.com/Lotmanine/wedding-matching-app) | 0 | A two-sided wedding-services marketplace: a couple submits one request, and the ... |
 | [MetaGrenade/MetaForge-DiscordBot](https://github.com/MetaGrenade/MetaForge-DiscordBot) | 0 | A Discord bot companion for the MetaForger boilerplate. |
 | [unitpostcom/unitpost-laravel](https://github.com/unitpostcom/unitpost-laravel) | 0 | Laravel package for Unitpost: send email and SMS |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ahmed29345/laravel-tenant-rbac](https://github.com/ahmed29345/laravel-tenant-rbac) | 0 |  |
 | [kennethandreas/lingkung-gunung-resort](https://github.com/kennethandreas/lingkung-gunung-resort) | 0 | Official website & direct booking system for Lingkung Gunung Adventure Camp Reso... |
 | [Eolica-Web/php-cloudflare-turnstile-laravel](https://github.com/Eolica-Web/php-cloudflare-turnstile-laravel) | 0 | [READ ONLY] Subtree split of the Cloudflare Turnstile Laravel package |
-| [Rizz404/digital-agency-ai](https://github.com/Rizz404/digital-agency-ai) | 0 | Multi-tenant digital agency site with an AI Digital Strategist, service packages... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -51,34 +51,34 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 447 | A modern PostGIS toolbox for Laravel |
+| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 441 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 440 | A media picker plugin for Filament Panels. |
-| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 440 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 
 ## 🔥 Recently Active
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [cosmira/sandbox](https://github.com/cosmira/sandbox) | 0 | 2026-11-03 | Laravel package for dual-table sandbox editing |
-| [ronaldoaires/unset](https://github.com/ronaldoaires/unset) | 0 | 2026-11-03 | Production BIM platform for Revit families: Laravel 13 + Fil... |
+| [aliziodev/laravel-taxonomy](https://github.com/aliziodev/laravel-taxonomy) | 245 | 2026-11-03 | Laravel package for managing taxonomies, categories, tags, a... |
+| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | 2026-11-03 | Laravel package powered by LibreDWG for DWG thumbnail extrac... |
+| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-11-03 | Privacy-first Matomo analytics for Laravel with cookieless t... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-03 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jeffersongoncalves/filament-analytics-core](https://github.com/jeffersongoncalves/filament-analytics-core) | 1 | 2026-11-03 | Shared base classes for jeffersongoncalves Filament analytic... |
-| [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 447 | 2026-11-03 | A modern PostGIS toolbox for Laravel |
-| [atannex/action](https://github.com/atannex/action) | 0 | 2026-11-03 | Headless action engine for Laravel: register named operation... |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-03 | WELD's fleet scanner: every app answers present with its PHP... |
-| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-03 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
-| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-11-03 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
-| [jeffersongoncalves/laravel-wistia](https://github.com/jeffersongoncalves/laravel-wistia) | 1 | 2026-11-03 | A lightweight Wistia Data API client for Laravel. |
-| [YasserElgammal/pure-text](https://github.com/YasserElgammal/pure-text) | 11 | 2026-11-03 | PureText: A Laravel package for automatic filtering and repl... |
 | [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-03 | A lightweight, convention-driven modular architecture packag... |
 | [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-03 | A Laravel package that provides flexible and extensible reso... |
-| [atannex/foundation](https://github.com/atannex/foundation) | 0 | 2026-11-03 | Headless foundation for Atannex Laravel packages: package de... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-03 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-11-03 | Official Laravel package for VeliraPay crypto payments: a fa... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 1 | 2026-11-02 | The flexible backbone for your next CMS. This powerful frame... |
-| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-02 | A Laravel-native integration & workflow automation package. |
-| [atannex/atannex-provider](https://github.com/atannex/atannex-provider) | 1 | 2026-11-02 | A base Laravel service provider for packages: declare resour... |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 7 | 2026-11-02 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-03 | Laravel USPS Package to integrate USPS Address |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-03 | WELD's fleet scanner: every app answers present with its PHP... |
+| [jeffersongoncalves/laravel-snov](https://github.com/jeffersongoncalves/laravel-snov) | 2 | 2026-11-03 | A Laravel client for the Snov.io API - domain search, email ... |
+| [pushery/email-magic-link-for-laravel](https://github.com/pushery/email-magic-link-for-laravel) | 46 | 2026-11-03 | Passwordless email magic-link & OTP authentication for Larav... |
+| [jeffersongoncalves/laravel-tolt](https://github.com/jeffersongoncalves/laravel-tolt) | 1 | 2026-11-03 | Tolt affiliate and referral program API integration for Lara... |
+| [akira-io/laravel-pdf-invoices](https://github.com/akira-io/laravel-pdf-invoices) | 39 | 2026-11-03 | A modern, strictly typed, and extensible invoice generator f... |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-11-03 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-11-03 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [jeffersongoncalves/laravel-postmark](https://github.com/jeffersongoncalves/laravel-postmark) | 1 | 2026-11-03 | PHP/Laravel client for the Postmark REST API: transactional ... |
+| [ronaldoaires/unset](https://github.com/ronaldoaires/unset) | 0 | 2026-11-03 | Production BIM platform for Revit families: Laravel 13 + Fil... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-03 | A Laravel-native integration & workflow automation package. |
+| [MetaGrenade/MetaForge-DiscordBot](https://github.com/MetaGrenade/MetaForge-DiscordBot) | 0 | 2026-11-03 | A Discord bot companion for the MetaForger boilerplate. |
+| [andikapratamazaid/siaga](https://github.com/andikapratamazaid/siaga) | 0 | 2026-11-03 | SIAGA (Sistem Asisten Kerja Lapangan): role-based WhatsApp-f... |
+| [jeffersongoncalves/filament-skeleton](https://github.com/jeffersongoncalves/filament-skeleton) | 1 | 2026-11-03 | Automatic Flux-style skeleton loading states for Filament in... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-03T06:32 | 1 | 1693 | 7757 |
 | 2026-11-03T00:41 | 4 | 1690 | 7756 |
 | 2026-11-02T18:26 | 10 | 1683 | 7752 |
 | 2026-11-02T12:29 | 5 | 1687 | 7742 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-01T12:26 | 7 | 1686 | 7715 |
 | 2026-11-01T06:30 | 1 | 1693 | 7708 |
 | 2026-11-01T00:48 | 8 | 1687 | 7707 |
-| 2026-10-31T18:24 | 7 | 1689 | 7699 |
 
 ---
 

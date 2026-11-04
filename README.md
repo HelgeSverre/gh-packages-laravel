@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7823  
-**Last updated:** 2026-11-04T12:28:50.074Z
+**Total packages tracked:** 7860  
+**Last updated:** 2026-11-04T18:26:00.897Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [rohitgulam/sac-auction-bid-service](https://github.com/rohitgulam/sac-auction-bid-service) | 0 | Laravel and Livewire portfolio demo of atomic, deposit-backed auction bidding on... |
-| [JustSteveKing/LaravelPostcodes](https://github.com/JustSteveKing/LaravelPostcodes) | 82 | A service wrapper around postcodes.io |
-| [Pharaonic/laravel-likes](https://github.com/Pharaonic/laravel-likes) | 0 | Polymorphic likes for Laravel Eloquent models: CanLike and HasLikes traits, like... |
-| [ss2i-service-dev/filament-masonry](https://github.com/ss2i-service-dev/filament-masonry) | 0 | Masonry layout for Filament form and infolist sections, by SS2i Digital |
-| [ITMOSOFT/laravel-promotions](https://github.com/ITMOSOFT/laravel-promotions) | 0 | A reusable Laravel promotions package with coupons, discount campaigns, eligibil... |
-| [ITMOSOFT/laravel-pricing](https://github.com/ITMOSOFT/laravel-pricing) | 0 | A reusable Laravel pricing package with polymorphic prices, currency support, sc... |
-| [ITMOSOFT/laravel-inventory](https://github.com/ITMOSOFT/laravel-inventory) | 0 | A reusable Laravel inventory package for stock locations, stock levels, movement... |
-| [Zapwebp/laravel](https://github.com/Zapwebp/laravel) | 0 | Laravel package for image conversion via the CLI. |
-| [inovector/MixpostApp](https://github.com/inovector/MixpostApp) | 132 | Standalone application with the Laravel Package of Mixpost Lite pre-installed an... |
-| [rizalahmaddd/laravel-rawprint](https://github.com/rizalahmaddd/laravel-rawprint) | 0 | Laravel package for RawPrint Agent: print ESC/P, ESC/POS, and ZPL raw data from ... |
-| [Javaabu/manifest](https://github.com/Javaabu/manifest) | 0 | Laravel asset shipper: lets packages declare their CSS, JS, Sass, TS, React and ... |
-| [orange-soft/laravel-gmail-mailer](https://github.com/orange-soft/laravel-gmail-mailer) | 0 | [25D] A Laravel composer package for Gmail Mailer |
-| [ITMOSOFT/laravel-product-catalog](https://github.com/ITMOSOFT/laravel-product-catalog) | 0 | A reusable Laravel product catalog package with products, categories, brands, at... |
-| [ITMOSOFT/laravel-query-filters](https://github.com/ITMOSOFT/laravel-query-filters) | 0 | A lightweight, allowlist-based query filtering, searching, and sorting package f... |
-| [prasanthkumarkb/formbuilder](https://github.com/prasanthkumarkb/formbuilder) | 0 | A low-code Journey/Form Builder package for Laravel. |
-| [imranbru99/ai-meeting-notes-meeting-intelligence-saas](https://github.com/imranbru99/ai-meeting-notes-meeting-intelligence-saas) | 0 | Open-source multi-tenant AI meeting intelligence SaaS platform. Automates in-bro... |
-| [imranbru99/cloud-accounting-erp](https://github.com/imranbru99/cloud-accounting-erp) | 0 | Multi-tenant Cloud Accounting & ERP SaaS built with Laravel 12 & Filament 3. Str... |
-| [Pharaonic/laravel-dynamic-config](https://github.com/Pharaonic/laravel-dynamic-config) | 0 | Store Laravel configuration values in the database, globally, per identifier or ... |
-| [WeBRTeu/stripe](https://github.com/WeBRTeu/stripe) | 0 | Laravel Stripe package from WeBRT.eu |
-| [SameOldNick/laravel-notification-preferences](https://github.com/SameOldNick/laravel-notification-preferences) | 0 | A Laravel package for managing user notification preferences by notification typ... |
+| [atiqpm/my-tasks](https://github.com/atiqpm/my-tasks) | 0 | Task-management app built with Laravel 12, Breeze authentication and Livewire — ... |
+| [manoranjan2050/RestoPro-ERP-Web](https://github.com/manoranjan2050/RestoPro-ERP-Web) | 1 | Open-source restaurant back-office (Laravel 12 + Livewire): daily sales, expense... |
+| [anzims/satura](https://github.com/anzims/satura) | 0 | Satura — дизайн-система для Laravel 13 и Livewire 4: токены, Blade-компоненты и ... |
+| [ayr77on/nexo-commerce](https://github.com/ayr77on/nexo-commerce) | 0 | A Laravel commerce dashboard with sales, CRM, inventory, and an interactive stat... |
+| [luaniban/crud-pessoa](https://github.com/luaniban/crud-pessoa) | 0 | Cadastro de pessoas com endereço e documentos e exportação em CSV, JSON e PDF. L... |
+| [luaniban/projeto-jogos](https://github.com/luaniban/projeto-jogos) | 0 | Coleções de jogos com dados da API FreeToGame. Laravel 11, Livewire 3 e TallStac... |
+| [luaniban/crud-livewire](https://github.com/luaniban/crud-livewire) | 0 | CRUDs de usuários, disciplinas e currículos com Laravel 11, Livewire 3 e TallSta... |
+| [luaniban/security-system](https://github.com/luaniban/security-system) | 0 | SecureShop: loja em Laravel 13 e Livewire 4 para estudar segurança web (OWASP), ... |
+| [luaniban/livewire-crud-messages](https://github.com/luaniban/livewire-crud-messages) | 0 | Mensagens em que administradores escolhem os destinatários e veem quem visualizo... |
+| [Beziworld/laravel-gls](https://github.com/Beziworld/laravel-gls) | 0 | GLS Poland (ADE-Plus WebAPI) client for Laravel: consignments, labels, pickup co... |
+| [Beziworld/laravel-ceidg](https://github.com/Beziworld/laravel-ceidg) | 0 | Laravel client for the official CEIDG API v3: look up Polish sole proprietorship... |
+| [Beziworld/laravel-twilio](https://github.com/Beziworld/laravel-twilio) | 0 | Lightweight Laravel integration for Twilio: SMS, WhatsApp templates, Verify, Loo... |
+| [ichava/icon-sets-openmoji](https://github.com/ichava/icon-sets-openmoji) | 0 | OpenMoji emoji (CC-BY-SA-4.0) for the Ichava icon ecosystem. |
+| [Beziworld/laravel-wfirma](https://github.com/Beziworld/laravel-wfirma) | 0 | wFirma API client for Laravel: invoices, contractors, goods, PDF download and e-... |
+| [Beziworld/laravel-infakt](https://github.com/Beziworld/laravel-infakt) | 0 | inFakt API v3 client for Laravel: asynchronous invoice creation, PDF, payments, ... |
+| [Beziworld/laravel-fakturownia](https://github.com/Beziworld/laravel-fakturownia) | 0 | Fakturownia API client for Laravel: invoices, PDF, e-mail, payments, clients, pr... |
+| [Beziworld/laravel-imoje](https://github.com/Beziworld/laravel-imoje) | 0 | imoje (ING Pay) payment gateway for Laravel: payment links, transactions, BLIK, ... |
+| [Beziworld/laravel-inpost](https://github.com/Beziworld/laravel-inpost) | 0 | InPost ShipX integration for Laravel: shipments, parcel lockers (Paczkomaty), la... |
+| [Beziworld/laravel-autopay](https://github.com/Beziworld/laravel-autopay) | 0 | Autopay (Blue Media) payment gateway for Laravel: transactions, ITN notification... |
+| [Beziworld/laravel-payu](https://github.com/Beziworld/laravel-payu) | 0 | PayU REST API integration for Laravel: orders, signed notifications, capture, re... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 292 | 2026-11-04 | A live database structure viewer for Laravel that renders yo... |
-| [prasanthkumarkb/formbuilder](https://github.com/prasanthkumarkb/formbuilder) | 0 | 2026-11-04 | A low-code Journey/Form Builder package for Laravel. |
-| [Pharaonic/laravel-likes](https://github.com/Pharaonic/laravel-likes) | 0 | 2026-11-04 | Polymorphic likes for Laravel Eloquent models: CanLike and H... |
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-11-04 | Magic Framework Laravel backend starter package. |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-04 | A developer-friendly package for creating advanced Wordpress... |
-| [microweber-packages/microweber-package-manager-client](https://github.com/microweber-packages/microweber-package-manager-client) | 0 | 2026-11-04 | Standalone Composer package manager client for Microweber an... |
-| [iz-ahmad/laravel-turbo-seeder](https://github.com/iz-ahmad/laravel-turbo-seeder) | 28 | 2026-11-04 | A package for laravel apps to enable High-performance bulk s... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-04 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 123 | 2026-11-04 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 164 | 2026-11-04 | Collect everything about sent mails in your Filament app. |
-| [backstagephp/laravel-users](https://github.com/backstagephp/laravel-users) | 0 | 2026-11-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-translations](https://github.com/backstagephp/laravel-translations) | 3 | 2026-11-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-11-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-permanent-cache](https://github.com/backstagephp/laravel-permanent-cache) | 6 | 2026-11-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [backstagephp/laravel-minify-html-middleware](https://github.com/backstagephp/laravel-minify-html-middleware) | 6 | 2026-11-04 | [READ ONLY] Subtree split of the Backstage CMS package - Min... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-11-04 | The Moox Project - Packages for Filament and Laravel |
-| [backstagephp/laravel-mails](https://github.com/backstagephp/laravel-mails) | 256 | 2026-11-04 | Collect everything about sent mails in your Laravel app |
-| [backstagephp/laravel-ai](https://github.com/backstagephp/laravel-ai) | 0 | 2026-11-04 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
-| [jeffersongoncalves/laravel-matomo](https://github.com/jeffersongoncalves/laravel-matomo) | 4 | 2026-11-04 | A Laravel package that integrates Matomo Analytics tracking ... |
-| [ITMOSOFT/laravel-promotions](https://github.com/ITMOSOFT/laravel-promotions) | 0 | 2026-11-04 | A reusable Laravel promotions package with coupons, discount... |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-04 | Laravel package to create administration dashboards |
+| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-04 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
+| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 15 | 2026-11-04 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-04 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [manoranjan2050/RestoPro-ERP-Web](https://github.com/manoranjan2050/RestoPro-ERP-Web) | 1 | 2026-11-04 | Open-source restaurant back-office (Laravel 12 + Livewire): ... |
+| [amarenkov/laravel-mutable-content](https://github.com/amarenkov/laravel-mutable-content) | 0 | 2026-11-04 | Custom fields for Laravel models: typed JSON fields added wi... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-04 | Filament plugin that allows to add dynamic, user-defined for... |
+| [pokertour/Deepsky](https://github.com/pokertour/Deepsky) | 0 | 2026-11-04 | Self-hosted astrophotography portfolio with a live sky obser... |
+| [artisan-toolbox/mosaicast](https://github.com/artisan-toolbox/mosaicast) | 0 | 2026-11-04 | Mosaicast is a Laravel event delivery package that intellige... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-04 | Daywatch Laravel package to integrate into collecting events... |
+| [asignua/filament-vat-id](https://github.com/asignua/filament-vat-id) | 1 | 2026-11-04 | Tax ID and VAT number validation for Filament 5: offline for... |
+| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-11-04 | ArtisanToolbox Maintainer provides automated validation, qua... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-11-04 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-11-04 | [READ ONLY] API Platform for Laravel |
+| [filagora/filagora-forums](https://github.com/filagora/filagora-forums) | 0 | 2026-11-04 | Filagora forums: forum groups, forums, threads and posts, vi... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-11-04 | The NativePHP website |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-11-04 | Sistema de gestão para centros espíritas: assistidos, agenda... |
+| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 145 | 2026-11-04 | Build nested menus in Filament and render them anywhere in y... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-04 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-04T18:26 | 37 | 1662 | 7860 |
 | 2026-11-04T12:28 | 15 | 1679 | 7823 |
 | 2026-11-04T06:32 | 5 | 1688 | 7808 |
 | 2026-11-04T00:40 | 3 | 1689 | 7803 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-03T00:41 | 4 | 1690 | 7756 |
 | 2026-11-02T18:26 | 10 | 1683 | 7752 |
 | 2026-11-02T12:29 | 5 | 1687 | 7742 |
-| 2026-11-02T06:40 | 3 | 1691 | 7737 |
 
 ---
 

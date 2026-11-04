@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7803  
-**Last updated:** 2026-11-04T00:40:37.915Z
+**Total packages tracked:** 7808  
+**Last updated:** 2026-11-04T06:32:19.601Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [imranbru99/ai-meeting-notes-meeting-intelligence-saas](https://github.com/imranbru99/ai-meeting-notes-meeting-intelligence-saas) | 0 | Open-source multi-tenant AI meeting intelligence SaaS platform. Automates in-bro... |
+| [imranbru99/cloud-accounting-erp](https://github.com/imranbru99/cloud-accounting-erp) | 0 | Multi-tenant Cloud Accounting & ERP SaaS built with Laravel 12 & Filament 3. Str... |
+| [Pharaonic/laravel-dynamic-config](https://github.com/Pharaonic/laravel-dynamic-config) | 0 | Store Laravel configuration values in the database, globally, per identifier or ... |
+| [WeBRTeu/stripe](https://github.com/WeBRTeu/stripe) | 0 | Laravel Stripe package from WeBRT.eu |
+| [SameOldNick/laravel-notification-preferences](https://github.com/SameOldNick/laravel-notification-preferences) | 0 | A Laravel package for managing user notification preferences by notification typ... |
 | [imranbru99/laravel-ai-sales-assistant](https://github.com/imranbru99/laravel-ai-sales-assistant) | 0 | Production-grade AI Sales Assistant. Automatically scores leads (0-100, A-D) and... |
 | [mattsplat/unscripted-ui-server](https://github.com/mattsplat/unscripted-ui-server) | 0 | unscripted/ui-server: the Laravel server side of @unscripted/ui. Split from unsc... |
 | [xchimx/laravel-gimmeproxy](https://github.com/xchimx/laravel-gimmeproxy) | 0 | Laravel package for easy integration with the GimmeProxy API. It allows you to u... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [microweber-packages/microweber-repository](https://github.com/microweber-packages/microweber-repository) | 0 | Reusable Laravel repository pattern package with caching, query filtering and mo... |
 | [microweber-packages/microweber-package-manager-client](https://github.com/microweber-packages/microweber-package-manager-client) | 0 | Standalone Composer package manager client for Microweber and Laravel apps: sear... |
 | [microweber-packages/microweber-notification](https://github.com/microweber-packages/microweber-notification) | 0 | Standalone Laravel package for database notifications, mail channel delivery, ad... |
-| [microweber-packages/microweber-media-thumbnail](https://github.com/microweber-packages/microweber-media-thumbnail) | 0 | Standalone Laravel package for media thumbnail caching and generation. Provides ... |
-| [microweber-packages/microweber-database](https://github.com/microweber-packages/microweber-database) | 0 | Reusable Laravel database manager package with caching, CRUD helpers, query filt... |
-| [microweber-packages/microweber-view](https://github.com/microweber-packages/microweber-view) | 0 | Reusable Microweber View package for Laravel: PHP file views, StringBlade render... |
-| [RedArchon/ledger-fox](https://github.com/RedArchon/ledger-fox) | 0 | Laravel package that publishes Cursor agent rules and configuration into an appl... |
-| [ultraviolettes/constellation-for-laravel](https://github.com/ultraviolettes/constellation-for-laravel) | 0 | Laravel package that collects and sends periodic maintenance snapshots to Conste... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 5 | 2026-11-04 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-04 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 472 | 2026-11-04 | Open Source Laravel CRM Package |
-| [aporat/laravel-appstore-purchases](https://github.com/aporat/laravel-appstore-purchases) | 5 | 2026-11-04 | Laravel package for handling App Store (Apple, iTunes, Amazo... |
+| [happenv-com/filament-enhanced-charts](https://github.com/happenv-com/filament-enhanced-charts) | 2 | 2026-11-04 | Apache ECharts for Filament panels - from sankeys to calenda... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-11-04 | A package to create datatables using alpinejs, tailwind, liv... |
+| [rajmundtoth0/hybrid-cache](https://github.com/rajmundtoth0/hybrid-cache) | 1 | 2026-11-04 | Laravel hybrid cache with local + distributed layers and sta... |
+| [Climactic/laravel-credits](https://github.com/Climactic/laravel-credits) | 331 | 2026-11-04 | A ledger-based Laravel package for managing credit-based sys... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-11-04 | Simple package for adding directives to show/hide content fr... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-04 | Laravel USPS Package to integrate USPS Address |
+| [tibor-src/xai-sdk-laravel](https://github.com/tibor-src/xai-sdk-laravel) | 0 | 2026-11-04 | Laravel package for the xAI PHP SDK |
+| [SameOldNick/laravel-notification-preferences](https://github.com/SameOldNick/laravel-notification-preferences) | 0 | 2026-11-04 | A Laravel package for managing user notification preferences... |
+| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 14 | 2026-11-04 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
+| [jeffersongoncalves/laravel-service-desk](https://github.com/jeffersongoncalves/laravel-service-desk) | 9 | 2026-11-04 | A complete, headless Service Desk package for Laravel featur... |
 | [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-04 | A Laravel-native integration & workflow automation package. |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-11-04 | Lightweight toolkit for modular development in Laravel, for ... |
-| [jeffersongoncalves/laravel-teams](https://github.com/jeffersongoncalves/laravel-teams) | 1 | 2026-11-04 | A Laravel package that adds Teams, memberships, and team inv... |
-| [liberusoftware/cms-laravel](https://github.com/liberusoftware/cms-laravel) | 123 | 2026-11-04 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [jeffersongoncalves/filament-plausible](https://github.com/jeffersongoncalves/filament-plausible) | 4 | 2026-11-04 | Filament plugin to integrate Plausible Analytics with a sett... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-04 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [filakitphp/basev5](https://github.com/filakitphp/basev5) | 2 | 2026-11-03 | Base starter kit built on Laravel 13.x and Filament 5.x with... |
-| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 17 | 2026-11-03 | A simple content page management system with a flexible cont... |
-| [imranbru99/laravel-ai-sales-assistant](https://github.com/imranbru99/laravel-ai-sales-assistant) | 0 | 2026-11-03 | Production-grade AI Sales Assistant. Automatically scores le... |
-| [ArtisanPack-UI/cms-framework](https://github.com/ArtisanPack-UI/cms-framework) | 1 | 2026-11-03 | The flexible backbone for your next CMS. This powerful frame... |
-| [jeffersongoncalves/filament-metrics-matomo](https://github.com/jeffersongoncalves/filament-metrics-matomo) | 3 | 2026-11-03 | Filament plugin for Matomo Analytics — Settings Page & Dashb... |
-| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-11-03 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
-| [NielsJanssen/laravel-discovery](https://github.com/NielsJanssen/laravel-discovery) | 3 | 2026-11-03 | Bring Tempest Discovery to Laravel |
-| [hosmelq/laravel-package-template](https://github.com/hosmelq/laravel-package-template) | 0 | 2026-11-03 |  |
-| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 0 | 2026-11-03 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jeffersongoncalves/laravel-metrics-posthog](https://github.com/jeffersongoncalves/laravel-metrics-posthog) | 1 | 2026-11-04 | PostHog web analytics metrics for Laravel via HogQL - visito... |
+| [Pharaonic/laravel-dynamic-config](https://github.com/Pharaonic/laravel-dynamic-config) | 0 | 2026-11-04 | Store Laravel configuration values in the database, globally... |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-04 | WELD's fleet scanner: every app answers present with its PHP... |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 292 | 2026-11-04 | A live database structure viewer for Laravel that renders yo... |
+| [jeffersongoncalves/laravel-settings-discord-logger](https://github.com/jeffersongoncalves/laravel-settings-discord-logger) | 1 | 2026-11-04 | Manage laravel-discord-logger from the database with spatie/... |
+| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 113 | 2026-11-04 | A package to easily make use of Lucide Icons in your Laravel... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-04 | Daywatch Laravel package to integrate into collecting events... |
+| [jeffersongoncalves/filament-saml2](https://github.com/jeffersongoncalves/filament-saml2) | 1 | 2026-11-04 | Filament plugin for SAML2 single sign-on with multi-tenant I... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-04T06:32 | 5 | 1688 | 7808 |
 | 2026-11-04T00:40 | 3 | 1689 | 7803 |
 | 2026-11-03T18:25 | 17 | 1676 | 7800 |
 | 2026-11-03T12:28 | 26 | 1667 | 7783 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-02T12:29 | 5 | 1687 | 7742 |
 | 2026-11-02T06:40 | 3 | 1691 | 7737 |
 | 2026-11-02T00:44 | 7 | 1687 | 7734 |
-| 2026-11-01T18:24 | 12 | 1683 | 7727 |
 
 ---
 

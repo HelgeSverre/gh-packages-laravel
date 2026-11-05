@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7896  
-**Last updated:** 2026-11-05T12:29:37.004Z
+**Total packages tracked:** 7914  
+**Last updated:** 2026-11-05T18:27:07.116Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [isap-ou/filament-firebase-auth](https://github.com/isap-ou/filament-firebase-auth) | 0 | Firebase Auth sign-in for Filament 5 panels through Laravel auth contracts |
+| [pdro-lucas/filament-ai-writer](https://github.com/pdro-lucas/filament-ai-writer) | 9 | AI writing for Filament forms with OpenAI, Anthropic, Gemini and OpenRouter, plu... |
+| [m77mdabdo/anas-fareed-photography](https://github.com/m77mdabdo/anas-fareed-photography) | 0 | Bilingual (English / Arabic RTL) commercial photography website and studio dashb... |
+| [liberusoftware/project-maintenance-laravel-filament](https://github.com/liberusoftware/project-maintenance-laravel-filament) | 71 | CMMS - Computerised maintenance management system application written in Laravel... |
+| [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | 193 | Full genealogy and family tree building application using Laravel 13, PHP 8.5, F... |
+| [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | 191 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filament 5 and Livewire 4... |
+| [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 123 | CMS application written in Laravel 13 /  PHP 8.5 using Filament 5 - WordPress or... |
+| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 171 | Accounting application written in Laravel 13 / PHP 8.5 using Filament 5. QuickBo... |
+| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 206 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerplate application with... |
+| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 39 | Automatic provisioning system written in Laravel 12 / PHP 8.5 using Filament 5 |
+| [levilabs-dev/laravel-nass](https://github.com/levilabs-dev/laravel-nass) | 0 | Modern Laravel SDK for NASS E-Payment Gateway (hosted card checkout) and Nass Wa... |
+| [levilabs-dev/laravel-otpiq](https://github.com/levilabs-dev/laravel-otpiq) | 0 | Modern Laravel SDK for OTPIQ — SMS, WhatsApp & Telegram OTP, smart fallback, del... |
+| [ichava/icon-sets-twemoji](https://github.com/ichava/icon-sets-twemoji) | 0 | 3,435 Twemoji emoji SVGs for Laravel, served through the Ichava icon engine. |
+| [packstub/account-switcher](https://github.com/packstub/account-switcher) | 3 | Switch between accounts in a Laravel app without signing out: impersonation, lin... |
+| [homedoctor-es/laravel-appsflyer](https://github.com/homedoctor-es/laravel-appsflyer) | 0 | Laravel 5.6 integration for the Jlorente Appsflyer package. |
+| [AesirCloud/laravel-actions](https://github.com/AesirCloud/laravel-actions) | 0 | A simple Actions package for Laravel. |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | Identity and access management for Laravel: installs the authentication, authori... |
+| [3assy2018/nationals](https://github.com/3assy2018/nationals) | 42 | a package for importing all countries and regions simply for laravel |
 | [pnscripts/filament-sheafgate-lite](https://github.com/pnscripts/filament-sheafgate-lite) | 0 | Free Filament 5 import action for XLSX, ODS and CSV files through Filament's own... |
 | [matteobreschig/ct_tools](https://github.com/matteobreschig/ct_tools) | 0 | Applicazione Laravel per monitorare prezzi e disponibilità di carte Pokémon su C... |
-| [Idrees-Saifuddin/blast-radius](https://github.com/Idrees-Saifuddin/blast-radius) | 0 | See what your Laravel code does and what a change can break, in your browser: co... |
-| [Pharaonic/laravel-follows](https://github.com/Pharaonic/laravel-follows) | 0 | Polymorphic follows for Laravel Eloquent models: CanFollow and HasFollowers trai... |
-| [navi-crwn/hop-auth](https://github.com/navi-crwn/hop-auth) | 0 | Laravel client for HOP ID, the single sign-on of the HOP family: the sign-in rou... |
-| [Fayne/laravel-notification](https://github.com/Fayne/laravel-notification) | 0 | Notification package for WeChat Work Robot and DingTalk Robot. |
-| [vrdvishwas/Mcube-Laravel](https://github.com/vrdvishwas/Mcube-Laravel) | 0 | MCube Calling Package |
-| [Fayne/laravel-shopping-cart](https://github.com/Fayne/laravel-shopping-cart) | 0 | This is a package for shopping cart in laravel project |
-| [Particle-Academy/fancy-compliance](https://github.com/Particle-Academy/fancy-compliance) | 0 | Consent for Laravel: host-defined categories, an append-only consent ledger per ... |
-| [ahmed-aliraqi/laravel-filterable](https://github.com/ahmed-aliraqi/laravel-filterable) | 0 | Filterable is a simple, flexible Laravel package that helps you build clean, reu... |
-| [ITMOSOFT/laravel-payments](https://github.com/ITMOSOFT/laravel-payments) | 0 | This will provide a payment-management layer that connects checkout, orders, inv... |
-| [ITMOSOFT/laravel-invoices](https://github.com/ITMOSOFT/laravel-invoices) | 0 | Package will manage invoice records and lifecycle independently of PDF generatio... |
-| [navi-crwn/hop-safety](https://github.com/navi-crwn/hop-safety) | 0 | URL and content safety rules for the HOP family as one Laravel package: destinat... |
-| [getodden/ui](https://github.com/getodden/ui) | 0 | Blade components, Livewire traits and Tailwind 4 theme tokens for accessible Lar... |
-| [tomatophp/filament](https://github.com/tomatophp/filament) | 10 | Full TomatoPHP packages for FilamentPHP with the last version of Laravel 11 |
-| [ITMOSOFT/laravel-refunds](https://github.com/ITMOSOFT/laravel-refunds) | 0 | Package will manage refund records and workflows independently of payment gatewa... |
-| [AmineZCS/klinica](https://github.com/AmineZCS/klinica) | 1 | Multi-tenant clinic management SaaS built with Laravel 13, Filament 5 & Livewire... |
-| [roberteinsle/erlebt](https://github.com/roberteinsle/erlebt) | 0 | Bewertungs-Assistent: Aus einem Google-Maps-Link und wenigen Fragen zum eigenen ... |
-| [ichava/icon-sets-extras](https://github.com/ichava/icon-sets-extras) | 0 | 43,561 SVG icons from 20 open-source sets for Laravel, served through the Ichava... |
-| [ichava/icon-sets-iconoir](https://github.com/ichava/icon-sets-iconoir) | 0 | 1,671 Iconoir SVG icons for Laravel, served through the Ichava icon engine. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-05 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [Idrees-Saifuddin/blast-radius](https://github.com/Idrees-Saifuddin/blast-radius) | 0 | 2026-11-05 | See what your Laravel code does and what a change can break,... |
-| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-11-05 | Scaffolds Ichava icon packages: one command, a token-substit... |
-| [webqamdev/activity-logger-for-laravel](https://github.com/webqamdev/activity-logger-for-laravel) | 2 | 2026-11-05 | The webqamdev/activity-logger package automatically log mode... |
-| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-11-05 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
-| [ichava/icon-sets-material-symbols](https://github.com/ichava/icon-sets-material-symbols) | 0 | 2026-11-05 | 23,640 Material Symbols SVGs for Laravel, served through the... |
-| [ichava/icon-sets-lucide](https://github.com/ichava/icon-sets-lucide) | 0 | 2026-11-05 | 2,313 Lucide SVG icons for Laravel, served through the Ichav... |
-| [aerni/statamic-livewire-forms](https://github.com/aerni/statamic-livewire-forms) | 29 | 2026-11-05 | Supercharge your Statamic forms with Livewire |
-| [ichava/icon-sets-simple-icons](https://github.com/ichava/icon-sets-simple-icons) | 0 | 2026-11-05 | 3,255 Simple Icons brand glyphs for Laravel, served through ... |
-| [ichava/icon-sets-remix](https://github.com/ichava/icon-sets-remix) | 0 | 2026-11-05 | 3,188 Remix Icon SVGs for Laravel, served through the Ichava... |
-| [ichava/icon-sets-openmoji](https://github.com/ichava/icon-sets-openmoji) | 0 | 2026-11-05 | OpenMoji emoji (CC-BY-SA-4.0) for the Ichava icon ecosystem. |
-| [ichava/icon-sets-octicons](https://github.com/ichava/icon-sets-octicons) | 0 | 2026-11-05 | 716 GitHub Octicons for Laravel, served through the Ichava i... |
-| [ichava/icon-sets-mdi](https://github.com/ichava/icon-sets-mdi) | 0 | 2026-11-05 | 7,447 Material Design Icons for Laravel, served through the ... |
-| [ichava/icon-sets-ionicons](https://github.com/ichava/icon-sets-ionicons) | 0 | 2026-11-05 | 1,357 Ionicons SVGs for Laravel, served through the Ichava i... |
-| [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-11-05 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
-| [ichava/icon-sets-phosphor](https://github.com/ichava/icon-sets-phosphor) | 0 | 2026-11-05 | 9,072 Phosphor SVG icons in six weights for Laravel, served ... |
-| [ichava/icon-sets-iconoir](https://github.com/ichava/icon-sets-iconoir) | 0 | 2026-11-05 | 1,671 Iconoir SVG icons for Laravel, served through the Icha... |
-| [ichava/icon-sets-heroicons](https://github.com/ichava/icon-sets-heroicons) | 0 | 2026-11-05 | 1,288 Heroicons for Laravel in outline, solid, mini and micr... |
-| [ichava/icon-sets-font-awesome-free](https://github.com/ichava/icon-sets-font-awesome-free) | 0 | 2026-11-05 | 2,883 Font Awesome Free SVG icons for Laravel, served throug... |
-| [ichava/icon-sets-fluent](https://github.com/ichava/icon-sets-fluent) | 0 | 2026-11-05 | 4,992 Fluent UI System SVG icons for Laravel, served through... |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-11-05 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [datalogix/laravel-sensible](https://github.com/datalogix/laravel-sensible) | 0 | 2026-11-05 | Laravel Sensible is a lightweight utility package for applyi... |
+| [datalogix/laravel-validation](https://github.com/datalogix/laravel-validation) | 3 | 2026-11-05 | Laravel Validation is a package the power of Respect Validat... |
+| [ArtisanPack-UI/security](https://github.com/ArtisanPack-UI/security) | 1 | 2026-11-05 | Core security utilities for Laravel — input sanitization, ou... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-05 | A Laravel-native integration & workflow automation package. |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-05 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-11-05 | Digitalización del trámite de incorporación de escuelas ante... |
+| [levilabs-dev/laravel-nass](https://github.com/levilabs-dev/laravel-nass) | 0 | 2026-11-05 | Modern Laravel SDK for NASS E-Payment Gateway (hosted card c... |
+| [navi-crwn/hop-safety](https://github.com/navi-crwn/hop-safety) | 0 | 2026-11-05 | URL and content safety rules for the HOP family as one Larav... |
+| [semitexa/laravel-ai-verify](https://github.com/semitexa/laravel-ai-verify) | 3 | 2026-11-05 | Stop Claude Code, Cursor & Codex from faking "done" in Larav... |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-05 | Laravel package to create administration dashboards |
+| [packstub/filament-session-replay](https://github.com/packstub/filament-session-replay) | 10 | 2026-11-05 | Session replay inside a Filament v5 panel, built on rrweb an... |
+| [packstub/session-replay](https://github.com/packstub/session-replay) | 51 | 2026-11-05 | Session replay for Laravel, built on rrweb: a recorder with ... |
+| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 13 | 2026-11-05 | An in-panel AI assistant and an MCP server for Filament v5 p... |
+| [backstagephp/laravel-redirects](https://github.com/backstagephp/laravel-redirects) | 2 | 2026-11-05 | [READ ONLY] Subtree split of the Backstage CMS package - Lar... |
+| [samuelterra22/filament-pwa](https://github.com/samuelterra22/filament-pwa) | 0 | 2026-11-05 | Progressive Web App (PWA) integration for FilamentPHP panels... |
+| [spatie/livewire-filepond](https://github.com/spatie/livewire-filepond) | 311 | 2026-11-05 | Upload files using Filepond in Livewire components |
+| [levilabs-dev/laravel-otpiq](https://github.com/levilabs-dev/laravel-otpiq) | 0 | 2026-11-05 | Modern Laravel SDK for OTPIQ — SMS, WhatsApp & Telegram OTP,... |
+| [aliqsm/laravel-authkit](https://github.com/aliqsm/laravel-authkit) | 0 | 2026-11-05 | laravel auth package |
+| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-05 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-05T18:27 | 18 | 1692 | 7914 |
 | 2026-11-05T12:29 | 13 | 1695 | 7896 |
 | 2026-11-05T06:32 | 3 | 1702 | 7884 |
 | 2026-11-05T00:41 | 21 | 1687 | 7881 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-04T00:40 | 3 | 1689 | 7803 |
 | 2026-11-03T18:25 | 17 | 1676 | 7800 |
 | 2026-11-03T12:28 | 26 | 1667 | 7783 |
-| 2026-11-03T06:32 | 1 | 1693 | 7757 |
 
 ---
 

@@ -2,13 +2,26 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7884  
-**Last updated:** 2026-11-05T06:32:34.888Z
+**Total packages tracked:** 7896  
+**Last updated:** 2026-11-05T12:29:37.004Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [pnscripts/filament-sheafgate-lite](https://github.com/pnscripts/filament-sheafgate-lite) | 0 | Free Filament 5 import action for XLSX, ODS and CSV files through Filament's own... |
+| [matteobreschig/ct_tools](https://github.com/matteobreschig/ct_tools) | 0 | Applicazione Laravel per monitorare prezzi e disponibilità di carte Pokémon su C... |
+| [Idrees-Saifuddin/blast-radius](https://github.com/Idrees-Saifuddin/blast-radius) | 0 | See what your Laravel code does and what a change can break, in your browser: co... |
+| [Pharaonic/laravel-follows](https://github.com/Pharaonic/laravel-follows) | 0 | Polymorphic follows for Laravel Eloquent models: CanFollow and HasFollowers trai... |
+| [navi-crwn/hop-auth](https://github.com/navi-crwn/hop-auth) | 0 | Laravel client for HOP ID, the single sign-on of the HOP family: the sign-in rou... |
+| [Fayne/laravel-notification](https://github.com/Fayne/laravel-notification) | 0 | Notification package for WeChat Work Robot and DingTalk Robot. |
+| [vrdvishwas/Mcube-Laravel](https://github.com/vrdvishwas/Mcube-Laravel) | 0 | MCube Calling Package |
+| [Fayne/laravel-shopping-cart](https://github.com/Fayne/laravel-shopping-cart) | 0 | This is a package for shopping cart in laravel project |
+| [Particle-Academy/fancy-compliance](https://github.com/Particle-Academy/fancy-compliance) | 0 | Consent for Laravel: host-defined categories, an append-only consent ledger per ... |
+| [ahmed-aliraqi/laravel-filterable](https://github.com/ahmed-aliraqi/laravel-filterable) | 0 | Filterable is a simple, flexible Laravel package that helps you build clean, reu... |
+| [ITMOSOFT/laravel-payments](https://github.com/ITMOSOFT/laravel-payments) | 0 | This will provide a payment-management layer that connects checkout, orders, inv... |
+| [ITMOSOFT/laravel-invoices](https://github.com/ITMOSOFT/laravel-invoices) | 0 | Package will manage invoice records and lifecycle independently of PDF generatio... |
+| [navi-crwn/hop-safety](https://github.com/navi-crwn/hop-safety) | 0 | URL and content safety rules for the HOP family as one Laravel package: destinat... |
 | [getodden/ui](https://github.com/getodden/ui) | 0 | Blade components, Livewire traits and Tailwind 4 theme tokens for accessible Lar... |
 | [tomatophp/filament](https://github.com/tomatophp/filament) | 10 | Full TomatoPHP packages for FilamentPHP with the last version of Laravel 11 |
 | [ITMOSOFT/laravel-refunds](https://github.com/ITMOSOFT/laravel-refunds) | 0 | Package will manage refund records and workflows independently of payment gatewa... |
@@ -16,19 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [roberteinsle/erlebt](https://github.com/roberteinsle/erlebt) | 0 | Bewertungs-Assistent: Aus einem Google-Maps-Link und wenigen Fragen zum eigenen ... |
 | [ichava/icon-sets-extras](https://github.com/ichava/icon-sets-extras) | 0 | 43,561 SVG icons from 20 open-source sets for Laravel, served through the Ichava... |
 | [ichava/icon-sets-iconoir](https://github.com/ichava/icon-sets-iconoir) | 0 | 1,671 Iconoir SVG icons for Laravel, served through the Ichava icon engine. |
-| [ichava/icon-sets-octicons](https://github.com/ichava/icon-sets-octicons) | 0 | 716 GitHub Octicons for Laravel, served through the Ichava icon engine. |
-| [ichava/icon-sets-carbon](https://github.com/ichava/icon-sets-carbon) | 0 | 2,841 Carbon Design System SVG icons for Laravel, served through the Ichava icon... |
-| [ichava/icon-sets-ionicons](https://github.com/ichava/icon-sets-ionicons) | 0 | 1,357 Ionicons SVGs for Laravel, served through the Ichava icon engine. |
-| [ichava/icon-sets-fluent](https://github.com/ichava/icon-sets-fluent) | 0 | 4,992 Fluent UI System SVG icons for Laravel, served through the Ichava icon eng... |
-| [ichava/icon-sets-material-symbols](https://github.com/ichava/icon-sets-material-symbols) | 0 | 23,640 Material Symbols SVGs for Laravel, served through the Ichava icon engine. |
-| [ichava/icon-sets-remix](https://github.com/ichava/icon-sets-remix) | 0 | 3,188 Remix Icon SVGs for Laravel, served through the Ichava icon engine. |
-| [ichava/icon-sets-font-awesome-free](https://github.com/ichava/icon-sets-font-awesome-free) | 0 | 2,883 Font Awesome Free SVG icons for Laravel, served through the Ichava icon en... |
-| [ichava/icon-sets-phosphor](https://github.com/ichava/icon-sets-phosphor) | 0 | 9,072 Phosphor SVG icons in six weights for Laravel, served through the Ichava i... |
-| [ichava/icon-sets-mdi](https://github.com/ichava/icon-sets-mdi) | 0 | 7,447 Material Design Icons for Laravel, served through the Ichava icon engine. |
-| [ichava/icon-sets-simple-icons](https://github.com/ichava/icon-sets-simple-icons) | 0 | 3,255 Simple Icons brand glyphs for Laravel, served through the Ichava icon engi... |
-| [ichava/icon-sets-bootstrap](https://github.com/ichava/icon-sets-bootstrap) | 0 | 2,078 Bootstrap SVG icons for Laravel, served through the Ichava icon engine. |
-| [ichava/icon-sets-heroicons](https://github.com/ichava/icon-sets-heroicons) | 0 | 1,288 Heroicons for Laravel in outline, solid, mini and micro, served through th... |
-| [ichava/icon-sets-lucide](https://github.com/ichava/icon-sets-lucide) | 0 | 2,313 Lucide SVG icons for Laravel, served through the Ichava icon engine. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -51,7 +51,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
 | [clickbar/laravel-magellan](https://github.com/clickbar/laravel-magellan) | 447 | A modern PostGIS toolbox for Laravel |
-| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 441 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
+| [Zakarialabib/myStockMaster](https://github.com/Zakarialabib/myStockMaster) | 442 | Your All-in-One Inventory and ERP Management with Laravel TALLSTACK |
 | [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 440 | A media picker plugin for Filament Panels. |
 | [coderflexx/laravel-ticket](https://github.com/coderflexx/laravel-ticket) | 439 | A full-featured support ticket system for Laravel with Eloquent models and a cle... |
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [ITMOSOFT/laravel-refunds](https://github.com/ITMOSOFT/laravel-refunds) | 0 | 2026-11-05 | Package will manage refund records and workflows independent... |
-| [foxws/laravel-shaka](https://github.com/foxws/laravel-shaka) | 2 | 2026-11-05 | A Laravel integration for Google's Shaka Packager, enabling ... |
-| [medigeneit/master-genesis](https://github.com/medigeneit/master-genesis) | 2 | 2026-11-05 | A Laravel package for genesis common api for master schedule... |
-| [aliqsm/laravel-authkit](https://github.com/aliqsm/laravel-authkit) | 0 | 2026-11-05 | laravel auth package |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-05 | Laravel USPS Package to integrate USPS Address |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-05 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [Idrees-Saifuddin/blast-radius](https://github.com/Idrees-Saifuddin/blast-radius) | 0 | 2026-11-05 | See what your Laravel code does and what a change can break,... |
+| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-11-05 | Scaffolds Ichava icon packages: one command, a token-substit... |
+| [webqamdev/activity-logger-for-laravel](https://github.com/webqamdev/activity-logger-for-laravel) | 2 | 2026-11-05 | The webqamdev/activity-logger package automatically log mode... |
+| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-11-05 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
+| [ichava/icon-sets-material-symbols](https://github.com/ichava/icon-sets-material-symbols) | 0 | 2026-11-05 | 23,640 Material Symbols SVGs for Laravel, served through the... |
+| [ichava/icon-sets-lucide](https://github.com/ichava/icon-sets-lucide) | 0 | 2026-11-05 | 2,313 Lucide SVG icons for Laravel, served through the Ichav... |
+| [aerni/statamic-livewire-forms](https://github.com/aerni/statamic-livewire-forms) | 29 | 2026-11-05 | Supercharge your Statamic forms with Livewire |
+| [ichava/icon-sets-simple-icons](https://github.com/ichava/icon-sets-simple-icons) | 0 | 2026-11-05 | 3,255 Simple Icons brand glyphs for Laravel, served through ... |
+| [ichava/icon-sets-remix](https://github.com/ichava/icon-sets-remix) | 0 | 2026-11-05 | 3,188 Remix Icon SVGs for Laravel, served through the Ichava... |
 | [ichava/icon-sets-openmoji](https://github.com/ichava/icon-sets-openmoji) | 0 | 2026-11-05 | OpenMoji emoji (CC-BY-SA-4.0) for the Ichava icon ecosystem. |
-| [ichava/icon-sets-emoji](https://github.com/ichava/icon-sets-emoji) | 0 | 2026-11-05 | Multi-source emoji bundle for Laravel: Twemoji v17, OpenMoji... |
-| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-05 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
+| [ichava/icon-sets-octicons](https://github.com/ichava/icon-sets-octicons) | 0 | 2026-11-05 | 716 GitHub Octicons for Laravel, served through the Ichava i... |
+| [ichava/icon-sets-mdi](https://github.com/ichava/icon-sets-mdi) | 0 | 2026-11-05 | 7,447 Material Design Icons for Laravel, served through the ... |
+| [ichava/icon-sets-ionicons](https://github.com/ichava/icon-sets-ionicons) | 0 | 2026-11-05 | 1,357 Ionicons SVGs for Laravel, served through the Ichava i... |
 | [ichava/icon-sets-flag](https://github.com/ichava/icon-sets-flag) | 0 | 2026-11-05 | 265 country-flag SVGs (4x3 + 1x1 ratios) for Laravel. Source... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-11-05 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [yahyakhalid/watsy-laravel](https://github.com/yahyakhalid/watsy-laravel) | 8 | 2026-11-05 | Official Laravel package for Watsy: OTP verification codes o... |
-| [madebyclowd/laravel-documentable](https://github.com/madebyclowd/laravel-documentable) | 2 | 2026-11-05 | Attach S3-compatible document storage to any Eloquent model ... |
-| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-11-05 | Odden CRM: modular, open-source CRM packages for Laravel and... |
-| [getodden/ui](https://github.com/getodden/ui) | 0 | 2026-11-05 | Blade components, Livewire traits and Tailwind 4 theme token... |
-| [mahbubhelal/record-api-request](https://github.com/mahbubhelal/record-api-request) | 0 | 2026-11-05 | Laravel package for recording API requests via middleware wi... |
-| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 113 | 2026-11-05 | A package to easily make use of Lucide Icons in your Laravel... |
-| [shadetheory/github-client](https://github.com/shadetheory/github-client) | 3 | 2026-11-05 | A Github client that plays nice with Laravel |
-| [Formbraid/laravel](https://github.com/Formbraid/laravel) | 0 | 2026-11-05 | Read-only Composer mirror of the Formbraid Laravel package. ... |
-| [shadetheory/laravel-say-logger](https://github.com/shadetheory/laravel-say-logger) | 0 | 2026-11-05 | 🎵 Laravel package that speaks your log messages using macOS... |
-| [Zairakai/PHP-Package_laravel_activity](https://github.com/Zairakai/PHP-Package_laravel_activity) | 0 | 2026-11-05 | Read-only mirror of gitlab.com/zairakai/php-packages/laravel... |
+| [ichava/icon-sets-phosphor](https://github.com/ichava/icon-sets-phosphor) | 0 | 2026-11-05 | 9,072 Phosphor SVG icons in six weights for Laravel, served ... |
+| [ichava/icon-sets-iconoir](https://github.com/ichava/icon-sets-iconoir) | 0 | 2026-11-05 | 1,671 Iconoir SVG icons for Laravel, served through the Icha... |
+| [ichava/icon-sets-heroicons](https://github.com/ichava/icon-sets-heroicons) | 0 | 2026-11-05 | 1,288 Heroicons for Laravel in outline, solid, mini and micr... |
+| [ichava/icon-sets-font-awesome-free](https://github.com/ichava/icon-sets-font-awesome-free) | 0 | 2026-11-05 | 2,883 Font Awesome Free SVG icons for Laravel, served throug... |
+| [ichava/icon-sets-fluent](https://github.com/ichava/icon-sets-fluent) | 0 | 2026-11-05 | 4,992 Fluent UI System SVG icons for Laravel, served through... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-05T12:29 | 13 | 1695 | 7896 |
 | 2026-11-05T06:32 | 3 | 1702 | 7884 |
 | 2026-11-05T00:41 | 21 | 1687 | 7881 |
 | 2026-11-04T18:26 | 37 | 1662 | 7860 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-03T18:25 | 17 | 1676 | 7800 |
 | 2026-11-03T12:28 | 26 | 1667 | 7783 |
 | 2026-11-03T06:32 | 1 | 1693 | 7757 |
-| 2026-11-03T00:41 | 4 | 1690 | 7756 |
 
 ---
 

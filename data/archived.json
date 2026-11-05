@@ -2242,5 +2242,27 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-10-31T06:28:45.321Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "postare/filament-model-ai": {
+    "name": "postare/filament-model-ai",
+    "url": "https://github.com/postare/filament-model-ai",
+    "description": "Integrate artificial intelligence into FilamentPHP, leveraging your Eloquent Model data as knowledge.",
+    "stars": 20,
+    "forks": 5,
+    "topics": [
+      "ai",
+      "filament-plugin",
+      "filamentphp",
+      "laravel-package",
+      "openai"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2023-11-16T09:28:40Z",
+    "updated_at": "2026-04-23T20:25:07Z",
+    "pushed_at": "2025-11-05T11:08:32Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-11-05T12:29:36.951Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

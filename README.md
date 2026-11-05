@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7860  
-**Last updated:** 2026-11-04T18:26:00.897Z
+**Total packages tracked:** 7881  
+**Last updated:** 2026-11-05T00:41:26.726Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [atiqpm/my-tasks](https://github.com/atiqpm/my-tasks) | 0 | Task-management app built with Laravel 12, Breeze authentication and Livewire — ... |
-| [manoranjan2050/RestoPro-ERP-Web](https://github.com/manoranjan2050/RestoPro-ERP-Web) | 1 | Open-source restaurant back-office (Laravel 12 + Livewire): daily sales, expense... |
-| [anzims/satura](https://github.com/anzims/satura) | 0 | Satura — дизайн-система для Laravel 13 и Livewire 4: токены, Blade-компоненты и ... |
-| [ayr77on/nexo-commerce](https://github.com/ayr77on/nexo-commerce) | 0 | A Laravel commerce dashboard with sales, CRM, inventory, and an interactive stat... |
-| [luaniban/crud-pessoa](https://github.com/luaniban/crud-pessoa) | 0 | Cadastro de pessoas com endereço e documentos e exportação em CSV, JSON e PDF. L... |
-| [luaniban/projeto-jogos](https://github.com/luaniban/projeto-jogos) | 0 | Coleções de jogos com dados da API FreeToGame. Laravel 11, Livewire 3 e TallStac... |
-| [luaniban/crud-livewire](https://github.com/luaniban/crud-livewire) | 0 | CRUDs de usuários, disciplinas e currículos com Laravel 11, Livewire 3 e TallSta... |
-| [luaniban/security-system](https://github.com/luaniban/security-system) | 0 | SecureShop: loja em Laravel 13 e Livewire 4 para estudar segurança web (OWASP), ... |
-| [luaniban/livewire-crud-messages](https://github.com/luaniban/livewire-crud-messages) | 0 | Mensagens em que administradores escolhem os destinatários e veem quem visualizo... |
-| [Beziworld/laravel-gls](https://github.com/Beziworld/laravel-gls) | 0 | GLS Poland (ADE-Plus WebAPI) client for Laravel: consignments, labels, pickup co... |
-| [Beziworld/laravel-ceidg](https://github.com/Beziworld/laravel-ceidg) | 0 | Laravel client for the official CEIDG API v3: look up Polish sole proprietorship... |
-| [Beziworld/laravel-twilio](https://github.com/Beziworld/laravel-twilio) | 0 | Lightweight Laravel integration for Twilio: SMS, WhatsApp templates, Verify, Loo... |
-| [ichava/icon-sets-openmoji](https://github.com/ichava/icon-sets-openmoji) | 0 | OpenMoji emoji (CC-BY-SA-4.0) for the Ichava icon ecosystem. |
-| [Beziworld/laravel-wfirma](https://github.com/Beziworld/laravel-wfirma) | 0 | wFirma API client for Laravel: invoices, contractors, goods, PDF download and e-... |
-| [Beziworld/laravel-infakt](https://github.com/Beziworld/laravel-infakt) | 0 | inFakt API v3 client for Laravel: asynchronous invoice creation, PDF, payments, ... |
-| [Beziworld/laravel-fakturownia](https://github.com/Beziworld/laravel-fakturownia) | 0 | Fakturownia API client for Laravel: invoices, PDF, e-mail, payments, clients, pr... |
-| [Beziworld/laravel-imoje](https://github.com/Beziworld/laravel-imoje) | 0 | imoje (ING Pay) payment gateway for Laravel: payment links, transactions, BLIK, ... |
-| [Beziworld/laravel-inpost](https://github.com/Beziworld/laravel-inpost) | 0 | InPost ShipX integration for Laravel: shipments, parcel lockers (Paczkomaty), la... |
-| [Beziworld/laravel-autopay](https://github.com/Beziworld/laravel-autopay) | 0 | Autopay (Blue Media) payment gateway for Laravel: transactions, ITN notification... |
-| [Beziworld/laravel-payu](https://github.com/Beziworld/laravel-payu) | 0 | PayU REST API integration for Laravel: orders, signed notifications, capture, re... |
+| [AmineZCS/klinica](https://github.com/AmineZCS/klinica) | 1 | Multi-tenant clinic management SaaS built with Laravel 13, Filament 5 & Livewire... |
+| [roberteinsle/erlebt](https://github.com/roberteinsle/erlebt) | 0 | Bewertungs-Assistent: Aus einem Google-Maps-Link und wenigen Fragen zum eigenen ... |
+| [ichava/icon-sets-extras](https://github.com/ichava/icon-sets-extras) | 0 | 43,561 SVG icons from 20 open-source sets for Laravel, served through the Ichava... |
+| [ichava/icon-sets-iconoir](https://github.com/ichava/icon-sets-iconoir) | 0 | 1,671 Iconoir SVG icons for Laravel, served through the Ichava icon engine. |
+| [ichava/icon-sets-octicons](https://github.com/ichava/icon-sets-octicons) | 0 | 716 GitHub Octicons for Laravel, served through the Ichava icon engine. |
+| [ichava/icon-sets-carbon](https://github.com/ichava/icon-sets-carbon) | 0 | 2,841 Carbon Design System SVG icons for Laravel, served through the Ichava icon... |
+| [ichava/icon-sets-ionicons](https://github.com/ichava/icon-sets-ionicons) | 0 | 1,357 Ionicons SVGs for Laravel, served through the Ichava icon engine. |
+| [ichava/icon-sets-fluent](https://github.com/ichava/icon-sets-fluent) | 0 | 4,992 Fluent UI System SVG icons for Laravel, served through the Ichava icon eng... |
+| [ichava/icon-sets-material-symbols](https://github.com/ichava/icon-sets-material-symbols) | 0 | 23,640 Material Symbols SVGs for Laravel, served through the Ichava icon engine. |
+| [ichava/icon-sets-remix](https://github.com/ichava/icon-sets-remix) | 0 | 3,188 Remix Icon SVGs for Laravel, served through the Ichava icon engine. |
+| [ichava/icon-sets-font-awesome-free](https://github.com/ichava/icon-sets-font-awesome-free) | 0 | 2,883 Font Awesome Free SVG icons for Laravel, served through the Ichava icon en... |
+| [ichava/icon-sets-phosphor](https://github.com/ichava/icon-sets-phosphor) | 0 | 9,072 Phosphor SVG icons in six weights for Laravel, served through the Ichava i... |
+| [ichava/icon-sets-mdi](https://github.com/ichava/icon-sets-mdi) | 0 | 7,447 Material Design Icons for Laravel, served through the Ichava icon engine. |
+| [ichava/icon-sets-simple-icons](https://github.com/ichava/icon-sets-simple-icons) | 0 | 3,255 Simple Icons brand glyphs for Laravel, served through the Ichava icon engi... |
+| [ichava/icon-sets-bootstrap](https://github.com/ichava/icon-sets-bootstrap) | 0 | 2,078 Bootstrap SVG icons for Laravel, served through the Ichava icon engine. |
+| [ichava/icon-sets-heroicons](https://github.com/ichava/icon-sets-heroicons) | 0 | 1,288 Heroicons for Laravel in outline, solid, mini and micro, served through th... |
+| [ichava/icon-sets-lucide](https://github.com/ichava/icon-sets-lucide) | 0 | 2,313 Lucide SVG icons for Laravel, served through the Ichava icon engine. |
+| [Beziworld/laravel-firmao](https://github.com/Beziworld/laravel-firmao) | 0 | Laravel client for the Firmao CRM/ERP REST API: customers, products with stock, ... |
+| [mainstaycms/mainstay](https://github.com/mainstaycms/mainstay) | 0 | A CMS for Laravel: content modelled in PHP, built in a Blade admin with a page b... |
+| [shadetheory/github-client](https://github.com/shadetheory/github-client) | 3 | A Github client that plays nice with Laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-04 | Laravel package to create administration dashboards |
-| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-04 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
-| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 15 | 2026-11-04 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-04 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [manoranjan2050/RestoPro-ERP-Web](https://github.com/manoranjan2050/RestoPro-ERP-Web) | 1 | 2026-11-04 | Open-source restaurant back-office (Laravel 12 + Livewire): ... |
-| [amarenkov/laravel-mutable-content](https://github.com/amarenkov/laravel-mutable-content) | 0 | 2026-11-04 | Custom fields for Laravel models: typed JSON fields added wi... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-04 | Filament plugin that allows to add dynamic, user-defined for... |
-| [pokertour/Deepsky](https://github.com/pokertour/Deepsky) | 0 | 2026-11-04 | Self-hosted astrophotography portfolio with a live sky obser... |
-| [artisan-toolbox/mosaicast](https://github.com/artisan-toolbox/mosaicast) | 0 | 2026-11-04 | Mosaicast is a Laravel event delivery package that intellige... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-04 | Daywatch Laravel package to integrate into collecting events... |
-| [asignua/filament-vat-id](https://github.com/asignua/filament-vat-id) | 1 | 2026-11-04 | Tax ID and VAT number validation for Filament 5: offline for... |
-| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-11-04 | ArtisanToolbox Maintainer provides automated validation, qua... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-04 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-11-04 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-11-04 | [READ ONLY] API Platform for Laravel |
-| [filagora/filagora-forums](https://github.com/filagora/filagora-forums) | 0 | 2026-11-04 | Filagora forums: forum groups, forums, threads and posts, vi... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-11-04 | The NativePHP website |
-| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-11-04 | Sistema de gestão para centros espíritas: assistidos, agenda... |
-| [datlechin/filament-menu-builder](https://github.com/datlechin/filament-menu-builder) | 145 | 2026-11-04 | Build nested menus in Filament and render them anywhere in y... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-04 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-05 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-05 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-11-05 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-05 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
+| [jeffersongoncalves/filament-page-visits](https://github.com/jeffersongoncalves/filament-page-visits) | 4 | 2026-11-05 | Filament admin resource for jeffersongoncalves/laravel-page-... |
+| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-11-05 | Scaffolds Ichava icon packages: one command, a token-substit... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-05 | Filament plugin that allows to add dynamic, user-defined for... |
+| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-11-05 | NativeKit starter kit built on Laravel 13.x, Filament 3.x an... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-05 | Automated code analysis for Laravel applications with 73 ope... |
+| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-11-05 | Somente leitura — espelho de packages/installer do monorepo ... |
+| [kelvindk9w/twstec-kit-webhooks](https://github.com/kelvindk9w/twstec-kit-webhooks) | 0 | 2026-11-05 | Somente leitura — espelho de packages/webhooks do monorepo k... |
+| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-11-05 | Somente leitura — espelho de packages/admin do monorepo kelv... |
+| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-11-05 | Somente leitura — espelho de packages/uploads do monorepo ke... |
+| [kelvindk9w/twstec-kit-accounts](https://github.com/kelvindk9w/twstec-kit-accounts) | 0 | 2026-11-05 | Somente leitura — espelho de packages/accounts do monorepo k... |
+| [kelvindk9w/twstec-kit-auth](https://github.com/kelvindk9w/twstec-kit-auth) | 0 | 2026-11-05 | Somente leitura — espelho de packages/auth do monorepo kelvi... |
+| [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | 2026-11-05 | Somente leitura — espelho de packages/foundation do monorepo... |
+| [ichava/icon-sets-extras](https://github.com/ichava/icon-sets-extras) | 0 | 2026-11-05 | 43,561 SVG icons from 20 open-source sets for Laravel, serve... |
+| [ichava/icon-sets-iconoir](https://github.com/ichava/icon-sets-iconoir) | 0 | 2026-11-04 | 1,671 Iconoir SVG icons for Laravel, served through the Icha... |
+| [ichava/icon-sets-octicons](https://github.com/ichava/icon-sets-octicons) | 0 | 2026-11-04 | 716 GitHub Octicons for Laravel, served through the Ichava i... |
+| [kaihempel/facebook-graph-api-laravel](https://github.com/kaihempel/facebook-graph-api-laravel) | 0 | 2026-11-04 | Meta Facebook Graph API as Laravel Package |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-05T00:41 | 21 | 1687 | 7881 |
 | 2026-11-04T18:26 | 37 | 1662 | 7860 |
 | 2026-11-04T12:28 | 15 | 1679 | 7823 |
 | 2026-11-04T06:32 | 5 | 1688 | 7808 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-03T06:32 | 1 | 1693 | 7757 |
 | 2026-11-03T00:41 | 4 | 1690 | 7756 |
 | 2026-11-02T18:26 | 10 | 1683 | 7752 |
-| 2026-11-02T12:29 | 5 | 1687 | 7742 |
 
 ---
 

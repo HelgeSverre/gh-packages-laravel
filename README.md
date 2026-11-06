@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7919  
-**Last updated:** 2026-11-06T06:32:49.039Z
+**Total packages tracked:** 7922  
+**Last updated:** 2026-11-06T12:29:03.790Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [filagora/filagora-ai](https://github.com/filagora/filagora-ai) | 0 | AI chat, usage records and provider plumbing for Filagora applications |
+| [HelgeSverre/laravel-prunekeeper](https://github.com/HelgeSverre/laravel-prunekeeper) | 2 | Your database's safety net. Archive Laravel model records before pruning. |
+| [OR81/pino-pay-integrations](https://github.com/OR81/pino-pay-integrations) | 0 | Laravel package and WooCommerce plugin for the Pino Pay payment gateway |
 | [foxnaim/telegram](https://github.com/foxnaim/telegram) | 0 | Канал отправки уведомлений через Telegram для Laravel · основа foxnaim под заказ |
 | [ibraheem-ghazi/laravel-ai-flow](https://github.com/ibraheem-ghazi/laravel-ai-flow) | 0 | Laravel package for controlled AI Flow, easier way to manage large flow integrat... |
 | [softok2/filament-starter-kit](https://github.com/softok2/filament-starter-kit) | 0 | A set of basic laravel packages to start with filament |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 39 | Automatic provisioning system written in Laravel 12 / PHP 8.5 using Filament 5 |
 | [levilabs-dev/laravel-nass](https://github.com/levilabs-dev/laravel-nass) | 0 | Modern Laravel SDK for NASS E-Payment Gateway (hosted card checkout) and Nass Wa... |
 | [levilabs-dev/laravel-otpiq](https://github.com/levilabs-dev/laravel-otpiq) | 0 | Modern Laravel SDK for OTPIQ — SMS, WhatsApp & Telegram OTP, smart fallback, del... |
-| [ichava/icon-sets-twemoji](https://github.com/ichava/icon-sets-twemoji) | 0 | 3,435 Twemoji emoji SVGs for Laravel, served through the Ichava icon engine. |
-| [packstub/account-switcher](https://github.com/packstub/account-switcher) | 4 | Switch between accounts in a Laravel app without signing out: impersonation, lin... |
-| [homedoctor-es/laravel-appsflyer](https://github.com/homedoctor-es/laravel-appsflyer) | 0 | Laravel 5.6 integration for the Jlorente Appsflyer package. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [amarenkov/laravel-mutable-content-tasks](https://github.com/amarenkov/laravel-mutable-content-tasks) | 0 | 2026-11-06 | Task domain for laravel-mutable-content: tasks, participants... |
-| [amarenkov/laravel-mutable-content-shop](https://github.com/amarenkov/laravel-mutable-content-shop) | 0 | 2026-11-06 | Shop domain for laravel-mutable-content: carts of users and ... |
-| [amarenkov/laravel-mutable-content-scramble](https://github.com/amarenkov/laravel-mutable-content-scramble) | 0 | 2026-11-06 | Scramble OpenAPI extension for laravel-mutable-content: fiel... |
-| [amarenkov/laravel-mutable-content-finance](https://github.com/amarenkov/laravel-mutable-content-finance) | 0 | 2026-11-06 | Personal finance domain for laravel-mutable-content: account... |
-| [amarenkov/laravel-mutable-content-filament](https://github.com/amarenkov/laravel-mutable-content-filament) | 0 | 2026-11-06 | Filament 5 admin panel for laravel-mutable-content: forms an... |
-| [amarenkov/laravel-mutable-content-daisyui](https://github.com/amarenkov/laravel-mutable-content-daisyui) | 0 | 2026-11-06 | Server-rendered Blade, Livewire and daisyUI screens for lara... |
-| [amarenkov/laravel-mutable-content-ai](https://github.com/amarenkov/laravel-mutable-content-ai) | 0 | 2026-11-06 | AI agents for laravel-mutable-content apps: long-term memory... |
-| [qiick-io/excubia-core](https://github.com/qiick-io/excubia-core) | 1 | 2026-11-06 | Excubia: health checks for Laravel apps (lockfiles, EOL, vul... |
-| [amarenkov/laravel-mutable-content](https://github.com/amarenkov/laravel-mutable-content) | 0 | 2026-11-06 | Custom fields for Laravel models: typed JSON fields added wi... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-11-06 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [ibraheem-ghazi/laravel-ai-flow](https://github.com/ibraheem-ghazi/laravel-ai-flow) | 0 | 2026-11-06 | Laravel package for controlled AI Flow, easier way to manage... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-06 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-06 | A lightweight, convention-driven modular architecture packag... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-06 | Laravel USPS Package to integrate USPS Address |
-| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-11-06 | Official Laravel package for VeliraPay crypto payments: a fa... |
-| [shadetheory/github-client](https://github.com/shadetheory/github-client) | 3 | 2026-11-06 | A Github client that plays nice with Laravel |
-| [Russelcruz28/filament-demo-mode](https://github.com/Russelcruz28/filament-demo-mode) | 3 | 2026-11-06 | Filament 4 & 5 plugin: present your panel on a persistent SQ... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-06 | Open-source Laravel-native CMS for structured, multi-site pu... |
 | [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-11-06 | Dedicated Instagram account attach, authenticated browser sc... |
-| [phattarachai/thaidate](https://github.com/phattarachai/thaidate) | 12 | 2026-11-06 | A Laravel and PHP package for thaidate() function |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-06 | Filament plugin that allows to add dynamic, user-defined for... |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-11-06 | [READ ONLY] API Platform for Laravel |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-11-06 | The Moox Project - Packages for Filament and Laravel |
+| [filagora/filagora-ai](https://github.com/filagora/filagora-ai) | 0 | 2026-11-06 | AI chat, usage records and provider plumbing for Filagora ap... |
+| [aliqsm/laravel-authkit](https://github.com/aliqsm/laravel-authkit) | 0 | 2026-11-06 | laravel auth package |
+| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 3 | 2026-11-06 | Open-source web hosting control panel for Ubuntu servers, wi... |
+| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 110 | 2026-11-06 | Laravel + Filament 5 CMS foundation: visual page builder, in... |
+| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-11-06 | Official Laravel package for seamless ProofAge API integrati... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 117 | 2026-11-06 | A Laravel package for versioned AI prompt management with va... |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-11-06 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-11-06 | Provides email verification on the go. |
+| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-11-06 | Filament package for easy attachment uploading and browsing. |
+| [HelgeSverre/laravel-prunekeeper](https://github.com/HelgeSverre/laravel-prunekeeper) | 2 | 2026-11-06 | Your database's safety net. Archive Laravel model records be... |
+| [VanOns/laravel-environment-importer](https://github.com/VanOns/laravel-environment-importer) | 0 | 2026-11-06 | A Laravel package for easy importing of a configured environ... |
+| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | 2026-11-06 | A Laravel library for attaching files to Eloquent models. |
+| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-11-06 | Privacy-first Matomo analytics for Laravel with cookieless t... |
+| [VanOns/laravel-translations-sync](https://github.com/VanOns/laravel-translations-sync) | 0 | 2026-11-06 | A package that synchronizes translations between your Larave... |
+| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-06 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
+| [skybleak333/hindsight-php](https://github.com/skybleak333/hindsight-php) | 0 | 2026-11-06 | PHP client for Hindsight agent memory: long-term memory for ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-06T12:29 | 3 | 1704 | 7922 |
 | 2026-11-06T06:32 | 4 | 1706 | 7919 |
 | 2026-11-06T00:41 | 1 | 1709 | 7915 |
 | 2026-11-05T18:27 | 18 | 1692 | 7914 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-04T18:26 | 37 | 1662 | 7860 |
 | 2026-11-04T12:28 | 15 | 1679 | 7823 |
 | 2026-11-04T06:32 | 5 | 1688 | 7808 |
-| 2026-11-04T00:40 | 3 | 1689 | 7803 |
 
 ---
 

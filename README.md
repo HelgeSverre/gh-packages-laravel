@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7915  
-**Last updated:** 2026-11-06T00:41:26.792Z
+**Total packages tracked:** 7919  
+**Last updated:** 2026-11-06T06:32:49.039Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [foxnaim/telegram](https://github.com/foxnaim/telegram) | 0 | Канал отправки уведомлений через Telegram для Laravel · основа foxnaim под заказ |
+| [ibraheem-ghazi/laravel-ai-flow](https://github.com/ibraheem-ghazi/laravel-ai-flow) | 0 | Laravel package for controlled AI Flow, easier way to manage large flow integrat... |
+| [softok2/filament-starter-kit](https://github.com/softok2/filament-starter-kit) | 0 | A set of basic laravel packages to start with filament |
+| [njdigitallab/larapermissions](https://github.com/njdigitallab/larapermissions) | 0 | A Laravel package that allows you to integrate permissions into your application... |
 | [foxnaim/laravel-ticket](https://github.com/foxnaim/laravel-ticket) | 0 | Система тикетов службы поддержки для Laravel с моделями Eloquent и чистым API · ... |
 | [isap-ou/filament-firebase-auth](https://github.com/isap-ou/filament-firebase-auth) | 0 | Firebase Auth sign-in for Filament 5 panels through Laravel auth contracts |
 | [pdro-lucas/filament-ai-writer](https://github.com/pdro-lucas/filament-ai-writer) | 9 | AI writing for Filament forms with OpenAI, Anthropic, Gemini and OpenRouter, plu... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ichava/icon-sets-twemoji](https://github.com/ichava/icon-sets-twemoji) | 0 | 3,435 Twemoji emoji SVGs for Laravel, served through the Ichava icon engine. |
 | [packstub/account-switcher](https://github.com/packstub/account-switcher) | 4 | Switch between accounts in a Laravel app without signing out: impersonation, lin... |
 | [homedoctor-es/laravel-appsflyer](https://github.com/homedoctor-es/laravel-appsflyer) | 0 | Laravel 5.6 integration for the Jlorente Appsflyer package. |
-| [AesirCloud/laravel-actions](https://github.com/AesirCloud/laravel-actions) | 0 | A simple Actions package for Laravel. |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | Identity and access management for Laravel: installs the authentication, authori... |
-| [3assy2018/nationals](https://github.com/3assy2018/nationals) | 42 | a package for importing all countries and regions simply for laravel |
-| [pnscripts/filament-sheafgate-lite](https://github.com/pnscripts/filament-sheafgate-lite) | 0 | Free Filament 5 import action for XLSX, ODS and CSV files through Filament's own... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-06 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-06 | Daywatch Laravel package to integrate into collecting events... |
-| [mattsplat/unscripted-ui-server](https://github.com/mattsplat/unscripted-ui-server) | 0 | 2026-11-06 | unscripted/ui-server: the Laravel server side of @unscripted... |
-| [foxnaim/laravel-ticket](https://github.com/foxnaim/laravel-ticket) | 0 | 2026-11-06 | Система тикетов службы поддержки для Laravel с моделями Eloq... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-11-06 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [ichava/icon-sets-twemoji](https://github.com/ichava/icon-sets-twemoji) | 0 | 2026-11-06 | 3,435 Twemoji emoji SVGs for Laravel, served through the Ich... |
-| [ichava/icon-sets-tabler](https://github.com/ichava/icon-sets-tabler) | 0 | 2026-11-06 | 6,146 Tabler SVG icons for Laravel, outline and filled, serv... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-11-06 | A package to create datatables using alpinejs, tailwind, liv... |
-| [ichava/icon-sets-simple-icons](https://github.com/ichava/icon-sets-simple-icons) | 0 | 2026-11-06 | 3,255 Simple Icons brand glyphs for Laravel, served through ... |
-| [ichava/icon-sets-remix](https://github.com/ichava/icon-sets-remix) | 0 | 2026-11-06 | 3,188 Remix Icon SVGs for Laravel, served through the Ichava... |
-| [ichava/icon-sets-phosphor](https://github.com/ichava/icon-sets-phosphor) | 0 | 2026-11-06 | 9,072 Phosphor SVG icons in six weights for Laravel, served ... |
-| [ichava/icon-sets-package-scaffolder](https://github.com/ichava/icon-sets-package-scaffolder) | 0 | 2026-11-06 | Scaffolds Ichava icon packages: one command, a token-substit... |
-| [ichava/icon-sets-openmoji](https://github.com/ichava/icon-sets-openmoji) | 0 | 2026-11-06 | OpenMoji emoji (CC-BY-SA-4.0) for the Ichava icon ecosystem. |
-| [ichava/icon-sets-octicons](https://github.com/ichava/icon-sets-octicons) | 0 | 2026-11-06 | 716 GitHub Octicons for Laravel, served through the Ichava i... |
-| [ichava/icon-sets-mdi](https://github.com/ichava/icon-sets-mdi) | 0 | 2026-11-06 | 7,447 Material Design Icons for Laravel, served through the ... |
-| [ichava/icon-sets-material-symbols](https://github.com/ichava/icon-sets-material-symbols) | 0 | 2026-11-06 | 23,640 Material Symbols SVGs for Laravel, served through the... |
-| [ichava/icon-sets-lucide](https://github.com/ichava/icon-sets-lucide) | 0 | 2026-11-06 | 2,313 Lucide SVG icons for Laravel, served through the Ichav... |
-| [ichava/icon-sets-ionicons](https://github.com/ichava/icon-sets-ionicons) | 0 | 2026-11-06 | 1,357 Ionicons SVGs for Laravel, served through the Ichava i... |
-| [ichava/icon-sets-iconoir](https://github.com/ichava/icon-sets-iconoir) | 0 | 2026-11-06 | 1,671 Iconoir SVG icons for Laravel, served through the Icha... |
-| [ichava/icon-sets-heroicons](https://github.com/ichava/icon-sets-heroicons) | 0 | 2026-11-06 | 1,288 Heroicons for Laravel in outline, solid, mini and micr... |
+| [amarenkov/laravel-mutable-content-tasks](https://github.com/amarenkov/laravel-mutable-content-tasks) | 0 | 2026-11-06 | Task domain for laravel-mutable-content: tasks, participants... |
+| [amarenkov/laravel-mutable-content-shop](https://github.com/amarenkov/laravel-mutable-content-shop) | 0 | 2026-11-06 | Shop domain for laravel-mutable-content: carts of users and ... |
+| [amarenkov/laravel-mutable-content-scramble](https://github.com/amarenkov/laravel-mutable-content-scramble) | 0 | 2026-11-06 | Scramble OpenAPI extension for laravel-mutable-content: fiel... |
+| [amarenkov/laravel-mutable-content-finance](https://github.com/amarenkov/laravel-mutable-content-finance) | 0 | 2026-11-06 | Personal finance domain for laravel-mutable-content: account... |
+| [amarenkov/laravel-mutable-content-filament](https://github.com/amarenkov/laravel-mutable-content-filament) | 0 | 2026-11-06 | Filament 5 admin panel for laravel-mutable-content: forms an... |
+| [amarenkov/laravel-mutable-content-daisyui](https://github.com/amarenkov/laravel-mutable-content-daisyui) | 0 | 2026-11-06 | Server-rendered Blade, Livewire and daisyUI screens for lara... |
+| [amarenkov/laravel-mutable-content-ai](https://github.com/amarenkov/laravel-mutable-content-ai) | 0 | 2026-11-06 | AI agents for laravel-mutable-content apps: long-term memory... |
+| [qiick-io/excubia-core](https://github.com/qiick-io/excubia-core) | 1 | 2026-11-06 | Excubia: health checks for Laravel apps (lockfiles, EOL, vul... |
+| [amarenkov/laravel-mutable-content](https://github.com/amarenkov/laravel-mutable-content) | 0 | 2026-11-06 | Custom fields for Laravel models: typed JSON fields added wi... |
+| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-11-06 | HWS Package: WordPress REST API connector (create posts, upl... |
+| [ibraheem-ghazi/laravel-ai-flow](https://github.com/ibraheem-ghazi/laravel-ai-flow) | 0 | 2026-11-06 | Laravel package for controlled AI Flow, easier way to manage... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-06 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-06 | A lightweight, convention-driven modular architecture packag... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-06 | Laravel USPS Package to integrate USPS Address |
+| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-11-06 | Official Laravel package for VeliraPay crypto payments: a fa... |
+| [shadetheory/github-client](https://github.com/shadetheory/github-client) | 3 | 2026-11-06 | A Github client that plays nice with Laravel |
+| [Russelcruz28/filament-demo-mode](https://github.com/Russelcruz28/filament-demo-mode) | 3 | 2026-11-06 | Filament 4 & 5 plugin: present your panel on a persistent SQ... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-06 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-11-06 | Dedicated Instagram account attach, authenticated browser sc... |
+| [phattarachai/thaidate](https://github.com/phattarachai/thaidate) | 12 | 2026-11-06 | A Laravel and PHP package for thaidate() function |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-06T06:32 | 4 | 1706 | 7919 |
 | 2026-11-06T00:41 | 1 | 1709 | 7915 |
 | 2026-11-05T18:27 | 18 | 1692 | 7914 |
 | 2026-11-05T12:29 | 13 | 1695 | 7896 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-04T12:28 | 15 | 1679 | 7823 |
 | 2026-11-04T06:32 | 5 | 1688 | 7808 |
 | 2026-11-04T00:40 | 3 | 1689 | 7803 |
-| 2026-11-03T18:25 | 17 | 1676 | 7800 |
 
 ---
 

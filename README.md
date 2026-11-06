@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7922  
-**Last updated:** 2026-11-06T12:29:03.790Z
+**Total packages tracked:** 7924  
+**Last updated:** 2026-11-06T18:26:41.279Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Abdulhady-Alkilani/bank_app_web](https://github.com/Abdulhady-Alkilani/bank_app_web) | 0 | Laravel 13 banking platform for transaction monitoring, alerts, fraud investigat... |
+| [Pharaonic/laravel-notification-dependencies](https://github.com/Pharaonic/laravel-notification-dependencies) | 0 | Delete Laravel database notifications automatically when any Eloquent model they... |
 | [filagora/filagora-ai](https://github.com/filagora/filagora-ai) | 0 | AI chat, usage records and provider plumbing for Filagora applications |
 | [HelgeSverre/laravel-prunekeeper](https://github.com/HelgeSverre/laravel-prunekeeper) | 2 | Your database's safety net. Archive Laravel model records before pruning. |
 | [OR81/pino-pay-integrations](https://github.com/OR81/pino-pay-integrations) | 0 | Laravel package and WooCommerce plugin for the Pino Pay payment gateway |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 171 | Accounting application written in Laravel 13 / PHP 8.5 using Filament 5. QuickBo... |
 | [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 206 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerplate application with... |
 | [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 39 | Automatic provisioning system written in Laravel 12 / PHP 8.5 using Filament 5 |
-| [levilabs-dev/laravel-nass](https://github.com/levilabs-dev/laravel-nass) | 0 | Modern Laravel SDK for NASS E-Payment Gateway (hosted card checkout) and Nass Wa... |
-| [levilabs-dev/laravel-otpiq](https://github.com/levilabs-dev/laravel-otpiq) | 0 | Modern Laravel SDK for OTPIQ — SMS, WhatsApp & Telegram OTP, smart fallback, del... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-11-06 | Dedicated Instagram account attach, authenticated browser sc... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-06 | Filament plugin that allows to add dynamic, user-defined for... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-11-06 | [READ ONLY] API Platform for Laravel |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-11-06 | The Moox Project - Packages for Filament and Laravel |
-| [filagora/filagora-ai](https://github.com/filagora/filagora-ai) | 0 | 2026-11-06 | AI chat, usage records and provider plumbing for Filagora ap... |
-| [aliqsm/laravel-authkit](https://github.com/aliqsm/laravel-authkit) | 0 | 2026-11-06 | laravel auth package |
+| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 206 | 2026-11-06 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [RobTrehy/LaravelUserPreferences](https://github.com/RobTrehy/LaravelUserPreferences) | 3 | 2026-11-06 | A package for Laravel to store user preferences for your pro... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-06 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-06 | Automated code analysis for Laravel applications with 73 ope... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-06 |  |
+| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-11-06 | Somente leitura — espelho de packages/installer do monorepo ... |
+| [graynb25/papyrus](https://github.com/graynb25/papyrus) | 0 | 2026-11-06 | A self-hosted web manga reader. Laravel 13, Livewire 4, Flux... |
+| [kelvindk9w/twstec-kit-webhooks](https://github.com/kelvindk9w/twstec-kit-webhooks) | 0 | 2026-11-06 | Somente leitura — espelho de packages/webhooks do monorepo k... |
+| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-11-06 | Somente leitura — espelho de packages/admin do monorepo kelv... |
+| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-11-06 | Somente leitura — espelho de packages/uploads do monorepo ke... |
+| [kelvindk9w/twstec-kit-accounts](https://github.com/kelvindk9w/twstec-kit-accounts) | 0 | 2026-11-06 | Somente leitura — espelho de packages/accounts do monorepo k... |
+| [kelvindk9w/twstec-kit-auth](https://github.com/kelvindk9w/twstec-kit-auth) | 0 | 2026-11-06 | Somente leitura — espelho de packages/auth do monorepo kelvi... |
+| [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | 2026-11-06 | Somente leitura — espelho de packages/foundation do monorepo... |
+| [Pharaonic/laravel-notification-dependencies](https://github.com/Pharaonic/laravel-notification-dependencies) | 0 | 2026-11-06 | Delete Laravel database notifications automatically when any... |
 | [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 3 | 2026-11-06 | Open-source web hosting control panel for Ubuntu servers, wi... |
-| [MiranSalehi/mksine](https://github.com/MiranSalehi/mksine) | 110 | 2026-11-06 | Laravel + Filament 5 CMS foundation: visual page builder, in... |
-| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-11-06 | Official Laravel package for seamless ProofAge API integrati... |
-| [promptphp/deck](https://github.com/promptphp/deck) | 117 | 2026-11-06 | A Laravel package for versioned AI prompt management with va... |
-| [ichava/core](https://github.com/ichava/core) | 0 | 2026-11-06 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-11-06 | Provides email verification on the go. |
-| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-11-06 | Filament package for easy attachment uploading and browsing. |
-| [HelgeSverre/laravel-prunekeeper](https://github.com/HelgeSverre/laravel-prunekeeper) | 2 | 2026-11-06 | Your database's safety net. Archive Laravel model records be... |
-| [VanOns/laravel-environment-importer](https://github.com/VanOns/laravel-environment-importer) | 0 | 2026-11-06 | A Laravel package for easy importing of a configured environ... |
-| [VanOns/laravel-attachment-library](https://github.com/VanOns/laravel-attachment-library) | 3 | 2026-11-06 | A Laravel library for attaching files to Eloquent models. |
-| [pushery/matomo-analytics-for-laravel](https://github.com/pushery/matomo-analytics-for-laravel) | 4 | 2026-11-06 | Privacy-first Matomo analytics for Laravel with cookieless t... |
-| [VanOns/laravel-translations-sync](https://github.com/VanOns/laravel-translations-sync) | 0 | 2026-11-06 | A package that synchronizes translations between your Larave... |
-| [ichava/icon-browser](https://github.com/ichava/icon-browser) | 0 | 2026-11-06 | HTTP layer for the Ichava Laravel icon ecosystem: REST API, ... |
-| [skybleak333/hindsight-php](https://github.com/skybleak333/hindsight-php) | 0 | 2026-11-06 | PHP client for Hindsight agent memory: long-term memory for ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-06 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-11-06 | NativeKit starter kit built on Laravel 13.x, Filament 5.x an... |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-11-06 | Sistema de gestão para centros espíritas: assistidos, agenda... |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-06 | A Laravel-native integration & workflow automation package. |
+| [Dilshan97/laravel-social-lite-demo](https://github.com/Dilshan97/laravel-social-lite-demo) | 0 | 2026-11-06 | This Repository discribe how to use Social authentication wi... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-06T18:26 | 2 | 1704 | 7924 |
 | 2026-11-06T12:29 | 3 | 1704 | 7922 |
 | 2026-11-06T06:32 | 4 | 1706 | 7919 |
 | 2026-11-06T00:41 | 1 | 1709 | 7915 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-05T00:41 | 21 | 1687 | 7881 |
 | 2026-11-04T18:26 | 37 | 1662 | 7860 |
 | 2026-11-04T12:28 | 15 | 1679 | 7823 |
-| 2026-11-04T06:32 | 5 | 1688 | 7808 |
 
 ---
 

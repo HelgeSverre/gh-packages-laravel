@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7930  
-**Last updated:** 2026-11-07T12:26:43.794Z
+**Total packages tracked:** 7947  
+**Last updated:** 2026-11-07T18:24:11.965Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [siberfx/wasabi-storage-fs3](https://github.com/siberfx/wasabi-storage-fs3) | 0 | Wasabi Hot Cloud Storage filesystem driver for Laravel 12 & 13 on Flysystem v3, ... |
+| [saucebase-dev/laravel-playwright](https://github.com/saucebase-dev/laravel-playwright) | 5 | Laravel and Playwright E2E testing library with model factories, Artisan command... |
+| [dakiquang/laravel-oauth-refresh-lock](https://github.com/dakiquang/laravel-oauth-refresh-lock) | 0 | Prevent the OAuth2 refresh token race condition in Laravel for QuickBooks, Xero ... |
+| [bernskiold/laravel-talentlms](https://github.com/bernskiold/laravel-talentlms) | 0 |  |
+| [bernskiold/laravel-form-architect](https://github.com/bernskiold/laravel-form-architect) | 0 |  |
+| [bernskiold/laravel-snowflake-sync](https://github.com/bernskiold/laravel-snowflake-sync) | 0 |  |
+| [bernskiold/laravel-record-merge](https://github.com/bernskiold/laravel-record-merge) | 0 |  |
+| [bernskiold/laravel-matomo](https://github.com/bernskiold/laravel-matomo) | 4 | Access and manage Matomo from Laravel. |
+| [bernskiold/laravel-import-engine](https://github.com/bernskiold/laravel-import-engine) | 0 | Import CSV and Excel files into Laravel. Map the columns, preview the result, ru... |
+| [bernskiold/laravel-campaign-monitor](https://github.com/bernskiold/laravel-campaign-monitor) | 0 |  |
+| [bernskiold/laravel-background-jobs](https://github.com/bernskiold/laravel-background-jobs) | 0 | Track queued work as background jobs: status, owner, logs and notifications, wit... |
+| [bernskiold/laravel-snowflake](https://github.com/bernskiold/laravel-snowflake) | 0 |  |
+| [bernskiold/laravel-export-engine](https://github.com/bernskiold/laravel-export-engine) | 0 | Make files from your data on the queue or in the request: spreadsheets, decks an... |
+| [bernskiold/laravel-collaboration](https://github.com/bernskiold/laravel-collaboration) | 0 | Share Eloquent records with other users. Permissions, events, notifications and ... |
+| [karim-Elmogy/Layan](https://github.com/karim-Elmogy/Layan) | 0 | Layan Package in Laravel Framework |
+| [fast-cmf/plugin-market-sdk](https://github.com/fast-cmf/plugin-market-sdk) | 0 | Ed25519 package signing, verification and revocation SDK for Laravel plugin mark... |
+| [Karacraft/laravel-logman](https://github.com/Karacraft/laravel-logman) | 0 | A simple Laravel event log package for easy model based logging. |
 | [masabqurban/Laravel-Blade-Template](https://github.com/masabqurban/Laravel-Blade-Template) | 1 | Production-ready Laravel 13 + Livewire 4 + Blade starter: Flux UI, role-based us... |
-| [mehedimi/static-vel](https://github.com/mehedimi/static-vel) | 0 |  |
+| [mehedimi/static-vel](https://github.com/mehedimi/static-vel) | 0 | Capture rendered responses once. Nginx serves cached files directly on repeat vi... |
 | [OctavioCaba/querylog-package](https://github.com/OctavioCaba/querylog-package) | 0 | Eloquent model trait that logs the SQL query built so far at any point of the bu... |
-| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | AI-assisted job search platform: one career profile, tailored CVs and cover lett... |
-| [ITMOSOFT/laravel-webhooks](https://github.com/ITMOSOFT/laravel-webhooks) | 0 | Package will handle outgoing webhooks from your Laravel applications to external... |
-| [siberfx/telegram-bot](https://github.com/siberfx/telegram-bot) | 0 | Clean, modern Telegram bot framework for Laravel 13 & PHP 8.4+: hears() patterns... |
-| [NyonCode/laravel-package-console](https://github.com/NyonCode/laravel-package-console) | 0 | Console for build laravel package. |
-| [Abdulhady-Alkilani/bank_app_web](https://github.com/Abdulhady-Alkilani/bank_app_web) | 0 | Laravel 13 banking platform for transaction monitoring, alerts, fraud investigat... |
-| [Pharaonic/laravel-notification-dependencies](https://github.com/Pharaonic/laravel-notification-dependencies) | 0 | Delete Laravel database notifications automatically when any Eloquent model they... |
-| [filagora/filagora-ai](https://github.com/filagora/filagora-ai) | 0 | AI chat, usage records and provider plumbing for Filagora applications |
-| [HelgeSverre/laravel-prunekeeper](https://github.com/HelgeSverre/laravel-prunekeeper) | 2 | Your database's safety net. Archive Laravel model records before pruning. |
-| [OR81/pino-pay-integrations](https://github.com/OR81/pino-pay-integrations) | 0 | Laravel package and WooCommerce plugin for the Pino Pay payment gateway |
-| [foxnaim/telegram](https://github.com/foxnaim/telegram) | 0 | Канал отправки уведомлений через Telegram для Laravel · основа foxnaim под заказ |
-| [ibraheem-ghazi/laravel-ai-flow](https://github.com/ibraheem-ghazi/laravel-ai-flow) | 0 | Laravel package for controlled AI Flow, easier way to manage large flow integrat... |
-| [softok2/filament-starter-kit](https://github.com/softok2/filament-starter-kit) | 0 | A set of basic laravel packages to start with filament |
-| [njdigitallab/larapermissions](https://github.com/njdigitallab/larapermissions) | 0 | A Laravel package that allows you to integrate permissions into your application... |
-| [foxnaim/laravel-ticket](https://github.com/foxnaim/laravel-ticket) | 0 | Система тикетов службы поддержки для Laravel с моделями Eloquent и чистым API · ... |
-| [isap-ou/filament-firebase-auth](https://github.com/isap-ou/filament-firebase-auth) | 0 | Firebase Auth sign-in for Filament 5 panels through Laravel auth contracts |
-| [pdro-lucas/filament-ai-writer](https://github.com/pdro-lucas/filament-ai-writer) | 9 | AI writing for Filament forms with OpenAI, Anthropic, Gemini and OpenRouter, plu... |
-| [m77mdabdo/anas-fareed-photography](https://github.com/m77mdabdo/anas-fareed-photography) | 0 | Bilingual (English / Arabic RTL) commercial photography website and studio dashb... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [cable8mm/Youtube](https://github.com/cable8mm/Youtube) | 1 | 2026-11-07 | Renewal Laravel PHP Facade/Wrapper for the Youtube Data API |
 | [jeffersongoncalves/website](https://github.com/jeffersongoncalves/website) | 2 | 2026-11-07 | Personal portfolio and developer site of Jefferson Goncalves... |
-| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 44 | 2026-11-07 | Laravel için Mutlucell SMS Kütüphanesi |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-07 | Filament plugin that allows to add dynamic, user-defined for... |
-| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-11-07 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
-| [nickdekruijk/leap-demo](https://github.com/nickdekruijk/leap-demo) | 1 | 2026-11-07 | Demo app for nickdekruijk/leap + leap-template — live at lea... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-07 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [OctavioCaba/querylog-package](https://github.com/OctavioCaba/querylog-package) | 0 | 2026-11-07 | Eloquent model trait that logs the SQL query built so far at... |
-| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-11-07 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 8 | 2026-11-07 | An event sourcing laravel package, complete with all the ess... |
-| [hibira-io/filament-collab](https://github.com/hibira-io/filament-collab) | 0 | 2026-11-07 | Collaborative rich text editing for Filament: several people... |
-| [hibira-io/filament-support](https://github.com/hibira-io/filament-support) | 1 | 2026-11-07 | AI live chat support for Filament: a website chat widget ans... |
-| [hibira-io/filament-approvals](https://github.com/hibira-io/filament-approvals) | 0 | 2026-11-07 | Live Filament inbox for Laravel AI tool approvals: your agen... |
-| [hibira-io/filament](https://github.com/hibira-io/filament) | 0 | 2026-11-07 | Live notifications for Filament panels on Hibira (Pusher-com... |
-| [hibira-io/laravel](https://github.com/hibira-io/laravel) | 4 | 2026-11-07 | Laravel broadcasting, push notifications and webhooks for Hi... |
-| [YasserElgammal/easy-wallet](https://github.com/YasserElgammal/easy-wallet) | 9 | 2026-11-07 | Laravel Easy Wallet Package lets you manage balances and tra... |
-| [masabqurban/Laravel-Blade-Template](https://github.com/masabqurban/Laravel-Blade-Template) | 1 | 2026-11-07 | Production-ready Laravel 13 + Livewire 4 + Blade starter: Fl... |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-07 | A developer-friendly package for creating advanced Wordpress... |
-| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-11-07 | Laravel package to handle requests are ensured sent |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-07 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [mehedimi/static-vel](https://github.com/mehedimi/static-vel) | 0 | 2026-11-07 |  |
+| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-07 | A Laravel-native integration & workflow automation package. |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-11-07 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-07 | Filament plugin that allows to add dynamic, user-defined for... |
+| [ismailkorkmaz6806/alsepete](https://github.com/ismailkorkmaz6806/alsepete) | 0 | 2026-11-07 | Laravel 12, Livewire 3 ve Gemini AI ile geliştirilen çok sat... |
+| [karim-Elmogy/Layan](https://github.com/karim-Elmogy/Layan) | 0 | 2026-11-07 | Layan Package in Laravel Framework |
+| [sasateguh/bayarkit-php](https://github.com/sasateguh/bayarkit-php) | 0 | 2026-11-07 | Read-only mirror of the bayarkit PHP/Laravel package for Pac... |
+| [mikeyperes/laravel-hexa-package-instagram](https://github.com/mikeyperes/laravel-hexa-package-instagram) | 0 | 2026-11-07 | Dedicated Instagram account attach, authenticated browser sc... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-07 | Automated code analysis for Laravel applications with 73 ope... |
+| [mehedimi/static-vel](https://github.com/mehedimi/static-vel) | 0 | 2026-11-07 | Capture rendered responses once. Nginx serves cached files d... |
+| [artryazanov/laravel-steam-apps-db](https://github.com/artryazanov/laravel-steam-apps-db) | 1 | 2026-11-07 | A Laravel package for managing Steam application data in you... |
+| [qiick-io/excubia-core](https://github.com/qiick-io/excubia-core) | 1 | 2026-11-07 | Excubia: health checks for Laravel apps (lockfiles, EOL, vul... |
+| [laravolt/camunda](https://github.com/laravolt/camunda) | 21 | 2026-11-07 | Convenience Laravel HTTP client wrapper to interact with Cam... |
+| [graynb25/papyrus](https://github.com/graynb25/papyrus) | 0 | 2026-11-07 | A self-hosted web manga reader. Laravel 13, Livewire 4, Flux... |
+| [lchristmann/nusszopf](https://github.com/lchristmann/nusszopf) | 0 | 2026-11-07 | Free, self-hostable revival of the historical Nusszopf proje... |
+| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 3 | 2026-11-07 | Open-source web hosting control panel for Ubuntu servers, wi... |
+| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 45 | 2026-11-07 | Laravel için Mutlucell SMS Kütüphanesi |
+| [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 3 | 2026-11-07 | Open-source, self-hosted deployment panel. Push to deploy La... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-07T18:24 | 17 | 1691 | 7947 |
 | 2026-11-07T12:26 | 3 | 1703 | 7930 |
 | 2026-11-07T06:29 | 2 | 1704 | 7927 |
 | 2026-11-07T00:40 | 2 | 1703 | 7925 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-06T00:41 | 1 | 1709 | 7915 |
 | 2026-11-05T18:27 | 18 | 1692 | 7914 |
 | 2026-11-05T12:29 | 13 | 1695 | 7896 |
-| 2026-11-05T06:32 | 3 | 1702 | 7884 |
 
 ---
 

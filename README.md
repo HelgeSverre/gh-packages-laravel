@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7927  
-**Last updated:** 2026-11-07T06:29:32.635Z
+**Total packages tracked:** 7930  
+**Last updated:** 2026-11-07T12:26:43.794Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [masabqurban/Laravel-Blade-Template](https://github.com/masabqurban/Laravel-Blade-Template) | 1 | Production-ready Laravel 13 + Livewire 4 + Blade starter: Flux UI, role-based us... |
+| [mehedimi/static-vel](https://github.com/mehedimi/static-vel) | 0 |  |
+| [OctavioCaba/querylog-package](https://github.com/OctavioCaba/querylog-package) | 0 | Eloquent model trait that logs the SQL query built so far at any point of the bu... |
 | [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | AI-assisted job search platform: one career profile, tailored CVs and cover lett... |
 | [ITMOSOFT/laravel-webhooks](https://github.com/ITMOSOFT/laravel-webhooks) | 0 | Package will handle outgoing webhooks from your Laravel applications to external... |
 | [siberfx/telegram-bot](https://github.com/siberfx/telegram-bot) | 0 | Clean, modern Telegram bot framework for Laravel 13 & PHP 8.4+: hears() patterns... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [isap-ou/filament-firebase-auth](https://github.com/isap-ou/filament-firebase-auth) | 0 | Firebase Auth sign-in for Filament 5 panels through Laravel auth contracts |
 | [pdro-lucas/filament-ai-writer](https://github.com/pdro-lucas/filament-ai-writer) | 9 | AI writing for Filament forms with OpenAI, Anthropic, Gemini and OpenRouter, plu... |
 | [m77mdabdo/anas-fareed-photography](https://github.com/m77mdabdo/anas-fareed-photography) | 0 | Bilingual (English / Arabic RTL) commercial photography website and studio dashb... |
-| [liberusoftware/project-maintenance-laravel-filament](https://github.com/liberusoftware/project-maintenance-laravel-filament) | 71 | CMMS - Computerised maintenance management system application written in Laravel... |
-| [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | 193 | Full genealogy and family tree building application using Laravel 13, PHP 8.5, F... |
-| [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | 191 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filament 5 and Livewire 4... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [liberusoftware/project-maintenance-laravel-filament](https://github.com/liberusoftware/project-maintenance-laravel-filament) | 71 | 2026-11-07 | CMMS - Computerised maintenance management system applicatio... |
-| [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | 193 | 2026-11-07 | Full genealogy and family tree building application using La... |
-| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 171 | 2026-11-07 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 39 | 2026-11-07 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
-| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | 2026-11-07 | AI-assisted job search platform: one career profile, tailore... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-07 | Automated code analysis for Laravel applications with 73 ope... |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 206 | 2026-11-07 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | 191 | 2026-11-07 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-07 | Laravel USPS Package to integrate USPS Address |
-| [amarenkov/laravel-mutable-content](https://github.com/amarenkov/laravel-mutable-content) | 0 | 2026-11-07 | Custom fields for Laravel models: typed JSON fields added wi... |
-| [kaziomarsh24/laravel-atomic-cache](https://github.com/kaziomarsh24/laravel-atomic-cache) | 5 | 2026-11-07 | Zero-headache, stampede-proof, and auto-invalidating caching... |
-| [atannex/matrix](https://github.com/atannex/matrix) | 1 | 2026-11-07 | The engagement matrix for Laravel: views, reading time, clic... |
-| [atannex/scopable](https://github.com/atannex/scopable) | 1 | 2026-11-07 | Declarative state and date scopes for Laravel Eloquent: publ... |
-| [haoyuqi/download-bing-wallpaper](https://github.com/haoyuqi/download-bing-wallpaper) | 0 | 2026-11-07 | Laravel 13 package that retrieves Bing wallpaper metadata by... |
+| [jeffersongoncalves/website](https://github.com/jeffersongoncalves/website) | 2 | 2026-11-07 | Personal portfolio and developer site of Jefferson Goncalves... |
+| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 44 | 2026-11-07 | Laravel için Mutlucell SMS Kütüphanesi |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-07 | Filament plugin that allows to add dynamic, user-defined for... |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-11-07 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
+| [nickdekruijk/leap-demo](https://github.com/nickdekruijk/leap-demo) | 1 | 2026-11-07 | Demo app for nickdekruijk/leap + leap-template — live at lea... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-07 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [OctavioCaba/querylog-package](https://github.com/OctavioCaba/querylog-package) | 0 | 2026-11-07 | Eloquent model trait that logs the SQL query built so far at... |
+| [laranail/toolkit](https://github.com/laranail/toolkit) | 0 | 2026-11-07 | A security-first Swiss-army toolkit for Laravel: utilities, ... |
+| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 8 | 2026-11-07 | An event sourcing laravel package, complete with all the ess... |
 | [hibira-io/filament-collab](https://github.com/hibira-io/filament-collab) | 0 | 2026-11-07 | Collaborative rich text editing for Filament: several people... |
 | [hibira-io/filament-support](https://github.com/hibira-io/filament-support) | 1 | 2026-11-07 | AI live chat support for Filament: a website chat widget ans... |
 | [hibira-io/filament-approvals](https://github.com/hibira-io/filament-approvals) | 0 | 2026-11-07 | Live Filament inbox for Laravel AI tool approvals: your agen... |
 | [hibira-io/filament](https://github.com/hibira-io/filament) | 0 | 2026-11-07 | Live notifications for Filament panels on Hibira (Pusher-com... |
 | [hibira-io/laravel](https://github.com/hibira-io/laravel) | 4 | 2026-11-07 | Laravel broadcasting, push notifications and webhooks for Hi... |
-| [Pharaonic/laravel-notification-dependencies](https://github.com/Pharaonic/laravel-notification-dependencies) | 0 | 2026-11-07 | Delete Laravel database notifications automatically when any... |
+| [YasserElgammal/easy-wallet](https://github.com/YasserElgammal/easy-wallet) | 9 | 2026-11-07 | Laravel Easy Wallet Package lets you manage balances and tra... |
+| [masabqurban/Laravel-Blade-Template](https://github.com/masabqurban/Laravel-Blade-Template) | 1 | 2026-11-07 | Production-ready Laravel 13 + Livewire 4 + Blade starter: Fl... |
+| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-07 | A developer-friendly package for creating advanced Wordpress... |
+| [cego/request-insurance](https://github.com/cego/request-insurance) | 1 | 2026-11-07 | Laravel package to handle requests are ensured sent |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-07 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [mehedimi/static-vel](https://github.com/mehedimi/static-vel) | 0 | 2026-11-07 |  |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-07T12:26 | 3 | 1703 | 7930 |
 | 2026-11-07T06:29 | 2 | 1704 | 7927 |
 | 2026-11-07T00:40 | 2 | 1703 | 7925 |
 | 2026-11-06T18:26 | 2 | 1704 | 7924 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-05T18:27 | 18 | 1692 | 7914 |
 | 2026-11-05T12:29 | 13 | 1695 | 7896 |
 | 2026-11-05T06:32 | 3 | 1702 | 7884 |
-| 2026-11-05T00:41 | 21 | 1687 | 7881 |
 
 ---
 

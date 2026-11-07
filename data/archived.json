@@ -2264,5 +2264,28 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-11-05T12:29:36.951Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "angelitosystems/filament-tenancy": {
+    "name": "angelitosystems/filament-tenancy",
+    "url": "https://github.com/angelitosystems/filament-tenancy",
+    "description": "Tenancy package for Filament - multi-database tenants + central support",
+    "stars": 8,
+    "forks": 0,
+    "topics": [
+      "filament",
+      "filament-plugin",
+      "filamentphp",
+      "multi-tenancy",
+      "saas",
+      "tenancy"
+    ],
+    "language": "PHP",
+    "license": "NOASSERTION",
+    "created_at": "2025-10-31T22:01:29Z",
+    "updated_at": "2025-12-16T21:09:47Z",
+    "pushed_at": "2025-11-07T00:31:40Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-11-07T00:40:24.610Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

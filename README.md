@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7924  
-**Last updated:** 2026-11-06T18:26:41.279Z
+**Total packages tracked:** 7925  
+**Last updated:** 2026-11-07T00:40:24.679Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [siberfx/telegram-bot](https://github.com/siberfx/telegram-bot) | 0 | Clean, modern Telegram bot framework for Laravel 13 & PHP 8.4+: hears() patterns... |
+| [NyonCode/laravel-package-console](https://github.com/NyonCode/laravel-package-console) | 0 | Console for build laravel package. |
 | [Abdulhady-Alkilani/bank_app_web](https://github.com/Abdulhady-Alkilani/bank_app_web) | 0 | Laravel 13 banking platform for transaction monitoring, alerts, fraud investigat... |
 | [Pharaonic/laravel-notification-dependencies](https://github.com/Pharaonic/laravel-notification-dependencies) | 0 | Delete Laravel database notifications automatically when any Eloquent model they... |
 | [filagora/filagora-ai](https://github.com/filagora/filagora-ai) | 0 | AI chat, usage records and provider plumbing for Filagora applications |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | 191 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filament 5 and Livewire 4... |
 | [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 123 | CMS application written in Laravel 13 /  PHP 8.5 using Filament 5 - WordPress or... |
 | [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 171 | Accounting application written in Laravel 13 / PHP 8.5 using Filament 5. QuickBo... |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 206 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerplate application with... |
-| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 39 | Automatic provisioning system written in Laravel 12 / PHP 8.5 using Filament 5 |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 206 | 2026-11-06 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [RobTrehy/LaravelUserPreferences](https://github.com/RobTrehy/LaravelUserPreferences) | 3 | 2026-11-06 | A package for Laravel to store user preferences for your pro... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-06 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-06 | Automated code analysis for Laravel applications with 73 ope... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-06 |  |
-| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-11-06 | Somente leitura — espelho de packages/installer do monorepo ... |
-| [graynb25/papyrus](https://github.com/graynb25/papyrus) | 0 | 2026-11-06 | A self-hosted web manga reader. Laravel 13, Livewire 4, Flux... |
-| [kelvindk9w/twstec-kit-webhooks](https://github.com/kelvindk9w/twstec-kit-webhooks) | 0 | 2026-11-06 | Somente leitura — espelho de packages/webhooks do monorepo k... |
-| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-11-06 | Somente leitura — espelho de packages/admin do monorepo kelv... |
-| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-11-06 | Somente leitura — espelho de packages/uploads do monorepo ke... |
-| [kelvindk9w/twstec-kit-accounts](https://github.com/kelvindk9w/twstec-kit-accounts) | 0 | 2026-11-06 | Somente leitura — espelho de packages/accounts do monorepo k... |
-| [kelvindk9w/twstec-kit-auth](https://github.com/kelvindk9w/twstec-kit-auth) | 0 | 2026-11-06 | Somente leitura — espelho de packages/auth do monorepo kelvi... |
-| [kelvindk9w/twstec-kit-foundation](https://github.com/kelvindk9w/twstec-kit-foundation) | 0 | 2026-11-06 | Somente leitura — espelho de packages/foundation do monorepo... |
-| [Pharaonic/laravel-notification-dependencies](https://github.com/Pharaonic/laravel-notification-dependencies) | 0 | 2026-11-06 | Delete Laravel database notifications automatically when any... |
-| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 3 | 2026-11-06 | Open-source web hosting control panel for Ubuntu servers, wi... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-06 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-11-06 | NativeKit starter kit built on Laravel 13.x, Filament 5.x an... |
-| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-11-06 | Sistema de gestão para centros espíritas: assistidos, agenda... |
-| [jhaskell13/laraflow](https://github.com/jhaskell13/laraflow) | 0 | 2026-11-06 | A Laravel-native integration & workflow automation package. |
-| [Dilshan97/laravel-social-lite-demo](https://github.com/Dilshan97/laravel-social-lite-demo) | 0 | 2026-11-06 | This Repository discribe how to use Social authentication wi... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-07 | Daywatch Laravel package to integrate into collecting events... |
+| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 12 | 2026-11-07 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 78 | 2026-11-07 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-07 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-07 | Automated code analysis for Laravel applications with 73 ope... |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-07 | WELD's fleet scanner: every app answers present with its PHP... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-07 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [andrecorugda/ai-openrouter-gateway](https://github.com/andrecorugda/ai-openrouter-gateway) | 4 | 2026-11-07 | Self-hostable, OpenRouter-backed AI gateway for Laravel — ve... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-07 | Identity and access management for Laravel: installs the aut... |
+| [andrecorugda/synapse-app-builder](https://github.com/andrecorugda/synapse-app-builder) | 12 | 2026-11-07 | Self-hosted, data-driven app builder for Laravel + Filament ... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-07 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | 2026-11-06 | Laravel mail transport for Groundmail. Keep Mail::to()->send... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-06 | Filament plugin that allows to add dynamic, user-defined for... |
+| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 421 | 2026-11-06 | Laravel Kanban boards with intelligent pagination, drag-and-... |
+| [NyonCode/wire-core](https://github.com/NyonCode/wire-core) | 0 | 2026-11-06 | Shared foundation for the Wire ecosystem – traits, actions, ... |
+| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | 2026-11-06 | AI tooling for the Wire ecosystem – an MCP server, AI guidel... |
+| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | 2026-11-06 | Standalone form system for the Wire ecosystem – fields, vali... |
+| [NyonCode/wire-sortable](https://github.com/NyonCode/wire-sortable) | 0 | 2026-11-06 | Drag & drop row reordering plugin for wire-table. — READ ONL... |
+| [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | 2026-11-06 | Enterprise-grade Livewire table system with inline editing, ... |
+| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-11-06 | WireStack — a Livewire admin framework for Laravel: core, fo... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-07T00:40 | 2 | 1703 | 7925 |
 | 2026-11-06T18:26 | 2 | 1704 | 7924 |
 | 2026-11-06T12:29 | 3 | 1704 | 7922 |
 | 2026-11-06T06:32 | 4 | 1706 | 7919 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-05T06:32 | 3 | 1702 | 7884 |
 | 2026-11-05T00:41 | 21 | 1687 | 7881 |
 | 2026-11-04T18:26 | 37 | 1662 | 7860 |
-| 2026-11-04T12:28 | 15 | 1679 | 7823 |
 
 ---
 

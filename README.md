@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7953  
-**Last updated:** 2026-11-08T06:30:07.899Z
+**Total packages tracked:** 7954  
+**Last updated:** 2026-11-08T12:26:20.167Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [GismatUL/laravel-support-chat](https://github.com/GismatUL/laravel-support-chat) | 0 | Live-chat widget for Laravel with Telegram integration: customers chat on your s... |
 | [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Build forms, tables an... |
 | [pushery/sanctum-hardening-for-laravel](https://github.com/pushery/sanctum-hardening-for-laravel) | 0 | Hardens Laravel Sanctum: token abilities without a wildcard, limits on minting, ... |
 | [md-mojahed/EduplusQRLaravel](https://github.com/md-mojahed/EduplusQRLaravel) | 0 | Eduplus QR code, Bar Code generator laravel package |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [bernskiold/laravel-background-jobs](https://github.com/bernskiold/laravel-background-jobs) | 0 | Track queued work as background jobs: status, owner, logs and notifications, wit... |
 | [bernskiold/laravel-snowflake](https://github.com/bernskiold/laravel-snowflake) | 0 |  |
 | [bernskiold/laravel-export-engine](https://github.com/bernskiold/laravel-export-engine) | 0 | Make files from your data on the queue or in the request: spreadsheets, decks an... |
-| [bernskiold/laravel-collaboration](https://github.com/bernskiold/laravel-collaboration) | 0 | Share Eloquent records with other users. Permissions, events, notifications and ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-11-08 | Magic Framework Laravel backend starter package. |
-| [md-mojahed/EduplusQRLaravel](https://github.com/md-mojahed/EduplusQRLaravel) | 0 | 2026-11-08 | Eduplus QR code, Bar Code generator laravel package |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-11-08 | Simple package for adding directives to show/hide content fr... |
-| [sopheaksem9999/sp-jwt-auth](https://github.com/sopheaksem9999/sp-jwt-auth) | 1 | 2026-11-08 | SP JWT Auth Package JWT Authentication Package for Laravel |
+| [foxws/laravel-podman](https://github.com/foxws/laravel-podman) | 1 | 2026-11-08 | Laravel Podman brings Podman Quadlet support to your Laravel... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [qiick-io/excubia-core](https://github.com/qiick-io/excubia-core) | 1 | 2026-11-08 | Excubia: health checks for Laravel apps (lockfiles, EOL, vul... |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 471 | 2026-11-08 | Open Source Laravel CRM Package |
+| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-08 | A developer-friendly package for creating advanced Wordpress... |
+| [jeffersongoncalves/filament-qrcode-field](https://github.com/jeffersongoncalves/filament-qrcode-field) | 20 | 2026-11-08 | A Laravel Filament package that provides QR Code field funct... |
 | [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-08 | WELD's fleet scanner: every app answers present with its PHP... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-08 | Laravel USPS Package to integrate USPS Address |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-08 | Daywatch Laravel package to integrate into collecting events... |
-| [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 2 | 2026-11-08 | Open-source, self-hosted deployment panel. Push to deploy La... |
-| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-11-08 | Odden CRM: modular, open-source CRM packages for Laravel and... |
-| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 2 | 2026-11-08 | A self-hosted ActivityPub server implementation for Laravel ... |
-| [getodden/ui](https://github.com/getodden/ui) | 0 | 2026-11-08 | Blade components, Livewire traits and Tailwind 4 theme token... |
-| [andriichuk/pushbox](https://github.com/andriichuk/pushbox) | 14 | 2026-11-08 | Preview and test Laravel push notifications. |
-| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-11-08 | Type-safe fluent validation rule builders for Laravel, plus ... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-11-08 | Runtime base library for building Laravel packages: fluent P... |
-| [navi-crwn/hop-safety](https://github.com/navi-crwn/hop-safety) | 0 | 2026-11-08 | URL and content safety rules for the HOP family as one Larav... |
-| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-11-08 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
-| [mdobes/filament-rich-editor-fullscreen](https://github.com/mdobes/filament-rich-editor-fullscreen) | 9 | 2026-11-08 | A Filament v4 & v5 plugin that adds fullscreen functionality... |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-08 | Identity and access management for Laravel: installs the aut... |
-| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-11-08 | Somente leitura — espelho de packages/installer do monorepo ... |
-| [kelvindk9w/twstec-kit-webhooks](https://github.com/kelvindk9w/twstec-kit-webhooks) | 0 | 2026-11-08 | Somente leitura — espelho de packages/webhooks do monorepo k... |
+| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | 2026-11-08 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Bu... |
+| [mdsazzad0002/SUBandL](https://github.com/mdsazzad0002/SUBandL) | 0 | 2026-11-08 | SUBandL — Software Update, Backup and License package for La... |
+| [mehedimi/static-vel](https://github.com/mehedimi/static-vel) | 0 | 2026-11-08 | Capture rendered responses once. Nginx serves cached files d... |
+| [maxkhim/laravel-storage-dedupler](https://github.com/maxkhim/laravel-storage-dedupler) | 54 | 2026-11-08 | Laravel Package Prevents File Duplication |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 78 | 2026-11-08 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-11-08 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-08 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-08 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-11-08 | ServiceDesk starter kit built on Laravel 13.x and Filament 3... |
+| [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | 2026-11-08 | Enterprise-grade Livewire table system with inline editing, ... |
+| [NyonCode/wire-core](https://github.com/NyonCode/wire-core) | 0 | 2026-11-08 | Shared foundation for the Wire ecosystem – traits, actions, ... |
+| [NyonCode/wire-sortable](https://github.com/NyonCode/wire-sortable) | 0 | 2026-11-08 | Drag & drop row reordering plugin for wire-table. — READ ONL... |
+| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | 2026-11-08 | AI tooling for the Wire ecosystem – an MCP server, AI guidel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-08T12:26 | 1 | 1720 | 7954 |
 | 2026-11-08T06:30 | 3 | 1717 | 7953 |
 | 2026-11-08T00:44 | 3 | 1716 | 7950 |
 | 2026-11-07T18:24 | 17 | 1691 | 7947 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-06T18:26 | 2 | 1704 | 7924 |
 | 2026-11-06T12:29 | 3 | 1704 | 7922 |
 | 2026-11-06T06:32 | 4 | 1706 | 7919 |
-| 2026-11-06T00:41 | 1 | 1709 | 7915 |
 
 ---
 

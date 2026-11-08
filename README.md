@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7950  
-**Last updated:** 2026-11-08T00:44:47.214Z
+**Total packages tracked:** 7953  
+**Last updated:** 2026-11-08T06:30:07.899Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Build forms, tables an... |
+| [pushery/sanctum-hardening-for-laravel](https://github.com/pushery/sanctum-hardening-for-laravel) | 0 | Hardens Laravel Sanctum: token abilities without a wildcard, limits on minting, ... |
+| [md-mojahed/EduplusQRLaravel](https://github.com/md-mojahed/EduplusQRLaravel) | 0 | Eduplus QR code, Bar Code generator laravel package |
 | [roundly-consulting/notifications-for-laravel](https://github.com/roundly-consulting/notifications-for-laravel) | 1 | Typed notifications for Laravel: an in-app inbox with collapsing and contexts, p... |
 | [Steadrun-App/laravel-monitor](https://github.com/Steadrun-App/laravel-monitor) | 0 | Steadrun (steadrun.ru) client for Laravel: ping helper for the Scheduler and fai... |
 | [imranbru99/salon-spa-booking-system-memberships](https://github.com/imranbru99/salon-spa-booking-system-memberships) | 0 | Salon and spa booking system with staff scheduling, packages, memberships, and P... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [bernskiold/laravel-snowflake](https://github.com/bernskiold/laravel-snowflake) | 0 |  |
 | [bernskiold/laravel-export-engine](https://github.com/bernskiold/laravel-export-engine) | 0 | Make files from your data on the queue or in the request: spreadsheets, decks an... |
 | [bernskiold/laravel-collaboration](https://github.com/bernskiold/laravel-collaboration) | 0 | Share Eloquent records with other users. Permissions, events, notifications and ... |
-| [karim-Elmogy/Layan](https://github.com/karim-Elmogy/Layan) | 0 | Layan Package in Laravel Framework |
-| [fast-cmf/plugin-market-sdk](https://github.com/fast-cmf/plugin-market-sdk) | 0 | Ed25519 package signing, verification and revocation SDK for Laravel plugin mark... |
-| [Karacraft/laravel-logman](https://github.com/Karacraft/laravel-logman) | 0 | A simple Laravel event log package for easy model based logging. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 7 | 2026-11-08 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 78 | 2026-11-08 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-11-08 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [EvanSchleret/laravel-user-presence](https://github.com/EvanSchleret/laravel-user-presence) | 0 | 2026-11-08 | This package allows you to track user presence in your Larav... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-08 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-08 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-07 | WELD's fleet scanner: every app answers present with its PHP... |
-| [graynb25/papyrus](https://github.com/graynb25/papyrus) | 0 | 2026-11-07 | A self-hosted web manga reader. Laravel 13, Livewire 4, Flux... |
-| [Stanislas-Poisson/French-Postal-Code-Package](https://github.com/Stanislas-Poisson/French-Postal-Code-Package) | 0 | 2026-11-07 | The regions, departments, communes and postal codes of Franc... |
-| [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 2 | 2026-11-07 | Open-source, self-hosted deployment panel. Push to deploy La... |
-| [jeffersongoncalves/filament-additional-information](https://github.com/jeffersongoncalves/filament-additional-information) | 1 | 2026-11-07 | Reusable created/updated timestamps section for Filament inf... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-11-07 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [dakiquang/laravel-oauth-refresh-lock](https://github.com/dakiquang/laravel-oauth-refresh-lock) | 0 | 2026-11-07 | Prevent the OAuth2 refresh token race condition in Laravel f... |
-| [roundly-consulting/notifications-for-laravel](https://github.com/roundly-consulting/notifications-for-laravel) | 1 | 2026-11-07 | Typed notifications for Laravel: an in-app inbox with collap... |
-| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | 2026-11-07 | A consumer-agent voting ledger for major package changes: a ... |
-| [kitloom/nova-starter](https://github.com/kitloom/nova-starter) | 0 | 2026-11-07 | Laravel starter kit: kitloom with the Laravel Nova admin. Th... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-07 | Automated code analysis for Laravel applications with 73 ope... |
-| [roundly-consulting/testing-for-laravel](https://github.com/roundly-consulting/testing-for-laravel) | 5 | 2026-11-07 | Dev-only test machinery for Laravel packages and apps: base ... |
-| [roundly-consulting/advertisements-for-laravel](https://github.com/roundly-consulting/advertisements-for-laravel) | 5 | 2026-11-07 | Manage advertisements, placements, and pricing for Laravel a... |
-| [roundly-consulting/google-places-for-laravel](https://github.com/roundly-consulting/google-places-for-laravel) | 5 | 2026-11-07 | Query the Google Places API — place details, autocomplete, r... |
+| [fluttersdk/magic-starter-laravel](https://github.com/fluttersdk/magic-starter-laravel) | 1 | 2026-11-08 | Magic Framework Laravel backend starter package. |
+| [md-mojahed/EduplusQRLaravel](https://github.com/md-mojahed/EduplusQRLaravel) | 0 | 2026-11-08 | Eduplus QR code, Bar Code generator laravel package |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-11-08 | Simple package for adding directives to show/hide content fr... |
+| [sopheaksem9999/sp-jwt-auth](https://github.com/sopheaksem9999/sp-jwt-auth) | 1 | 2026-11-08 | SP JWT Auth Package JWT Authentication Package for Laravel |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-08 | WELD's fleet scanner: every app answers present with its PHP... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-08 | Laravel USPS Package to integrate USPS Address |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-08 | Daywatch Laravel package to integrate into collecting events... |
+| [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 2 | 2026-11-08 | Open-source, self-hosted deployment panel. Push to deploy La... |
+| [getodden/crm](https://github.com/getodden/crm) | 0 | 2026-11-08 | Odden CRM: modular, open-source CRM packages for Laravel and... |
+| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 2 | 2026-11-08 | A self-hosted ActivityPub server implementation for Laravel ... |
+| [getodden/ui](https://github.com/getodden/ui) | 0 | 2026-11-08 | Blade components, Livewire traits and Tailwind 4 theme token... |
+| [andriichuk/pushbox](https://github.com/andriichuk/pushbox) | 14 | 2026-11-08 | Preview and test Laravel push notifications. |
+| [laranail/validation](https://github.com/laranail/validation) | 0 | 2026-11-08 | Type-safe fluent validation rule builders for Laravel, plus ... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-11-08 | Runtime base library for building Laravel packages: fluent P... |
+| [navi-crwn/hop-safety](https://github.com/navi-crwn/hop-safety) | 0 | 2026-11-08 | URL and content safety rules for the HOP family as one Larav... |
+| [rayzenai/project-management-app](https://github.com/rayzenai/project-management-app) | 0 | 2026-11-08 | Reference Laravel + Inertia + Svelte host app for the rayzen... |
+| [mdobes/filament-rich-editor-fullscreen](https://github.com/mdobes/filament-rich-editor-fullscreen) | 9 | 2026-11-08 | A Filament v4 & v5 plugin that adds fullscreen functionality... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-08 | Identity and access management for Laravel: installs the aut... |
+| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-11-08 | Somente leitura — espelho de packages/installer do monorepo ... |
+| [kelvindk9w/twstec-kit-webhooks](https://github.com/kelvindk9w/twstec-kit-webhooks) | 0 | 2026-11-08 | Somente leitura — espelho de packages/webhooks do monorepo k... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-08T06:30 | 3 | 1717 | 7953 |
 | 2026-11-08T00:44 | 3 | 1716 | 7950 |
 | 2026-11-07T18:24 | 17 | 1691 | 7947 |
 | 2026-11-07T12:26 | 3 | 1703 | 7930 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-06T12:29 | 3 | 1704 | 7922 |
 | 2026-11-06T06:32 | 4 | 1706 | 7919 |
 | 2026-11-06T00:41 | 1 | 1709 | 7915 |
-| 2026-11-05T18:27 | 18 | 1692 | 7914 |
 
 ---
 

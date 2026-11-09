@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7963  
-**Last updated:** 2026-11-08T18:23:57.015Z
+**Total packages tracked:** 7973  
+**Last updated:** 2026-11-09T00:44:52.707Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jeffersongoncalves/filament-centrifugo](https://github.com/jeffersongoncalves/filament-centrifugo) | 1 | Realtime Filament notifications over Centrifugo websockets: injects a Laravel Ec... |
+| [maxkhim/filament-dedupler-uploader](https://github.com/maxkhim/filament-dedupler-uploader) | 0 | Plugin for uploading and automatic deduplication files in Filament |
+| [roundly-consulting/workflows-for-laravel](https://github.com/roundly-consulting/workflows-for-laravel) | 1 | Durable, versioned workflows for Laravel: JSON graphs run step by step on queues... |
+| [gui1535/sql-to-eloquent](https://github.com/gui1535/sql-to-eloquent) | 0 | Gerador de código Laravel a partir de SQL |
+| [jeffersongoncalves/laravel-centrifugo](https://github.com/jeffersongoncalves/laravel-centrifugo) | 1 | Laravel broadcasting driver for Centrifugo: HTTP API publishing, expiring HS256 ... |
+| [roundly-consulting/webhooks-for-laravel](https://github.com/roundly-consulting/webhooks-for-laravel) | 1 | Receive and send signed webhooks in Laravel: verified per-sender endpoints with ... |
+| [pushery/http-api-for-laravel](https://github.com/pushery/http-api-for-laravel) | 1 | The IETF HTTP API standards for Laravel: Idempotency-Key replays that compare th... |
+| [pushery/ses-inbound-mail-for-laravel](https://github.com/pushery/ses-inbound-mail-for-laravel) | 1 | Receive mail through Amazon SES in Laravel: a verified SNS endpoint, takeover fr... |
+| [apartejs/laravel](https://github.com/apartejs/laravel) | 0 | An AI chat for Blade, Livewire and Filament pages, wired to the Laravel AI SDK. |
+| [Pvngu/laravel-chat](https://github.com/Pvngu/laravel-chat) | 0 | pvngu/laravel-chat: Laravel backend package for @pvngu/vue-chat |
 | [roundly-consulting/safe-fetch-for-laravel](https://github.com/roundly-consulting/safe-fetch-for-laravel) | 1 | SSRF protection for Laravel's HTTP client: strict URL canonicalising, private an... |
 | [roundly-consulting/imports-for-laravel](https://github.com/roundly-consulting/imports-for-laravel) | 1 | Import CSV and XLSX files into Eloquent models: templates, column mapping, valid... |
 | [AdilAzhariOmsan/laravel-trace](https://github.com/AdilAzhariOmsan/laravel-trace) | 1 | Application-level tracing for Laravel: request, database-query and queued-job sp... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [riders-agency/pulse-sdk-php](https://github.com/riders-agency/pulse-sdk-php) | 0 | Pulse SDK for PHP — Composer package with Laravel and Symfony integration |
 | [Jeroen-G/packager-skeleton](https://github.com/Jeroen-G/packager-skeleton) | 28 | Skeleton for creating Laravel packages with Laravel Packager |
 | [GismatUL/laravel-support-chat](https://github.com/GismatUL/laravel-support-chat) | 0 | Live-chat widget for Laravel with Telegram integration: customers chat on your s... |
-| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Build forms, tables an... |
-| [pushery/sanctum-hardening-for-laravel](https://github.com/pushery/sanctum-hardening-for-laravel) | 0 | Hardens Laravel Sanctum: token abilities without a wildcard, limits on minting, ... |
-| [md-mojahed/EduplusQRLaravel](https://github.com/md-mojahed/EduplusQRLaravel) | 0 | Eduplus QR code, Bar Code generator laravel package |
-| [roundly-consulting/notifications-for-laravel](https://github.com/roundly-consulting/notifications-for-laravel) | 1 | Typed notifications for Laravel: an in-app inbox with collapsing and contexts, p... |
-| [Steadrun-App/laravel-monitor](https://github.com/Steadrun-App/laravel-monitor) | 0 | Steadrun (steadrun.ru) client for Laravel: ping helper for the Scheduler and fai... |
-| [imranbru99/salon-spa-booking-system-memberships](https://github.com/imranbru99/salon-spa-booking-system-memberships) | 0 | Salon and spa booking system with staff scheduling, packages, memberships, and P... |
-| [siberfx/wasabi-storage-fs3](https://github.com/siberfx/wasabi-storage-fs3) | 0 | Wasabi Hot Cloud Storage filesystem driver for Laravel 12 & 13 on Flysystem v3, ... |
-| [saucebase-dev/laravel-playwright](https://github.com/saucebase-dev/laravel-playwright) | 5 | Laravel and Playwright E2E testing library with model factories, Artisan command... |
-| [dakiquang/laravel-oauth-refresh-lock](https://github.com/dakiquang/laravel-oauth-refresh-lock) | 0 | Prevent the OAuth2 refresh token race condition in Laravel for QuickBooks, Xero ... |
-| [bernskiold/laravel-talentlms](https://github.com/bernskiold/laravel-talentlms) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [pnscripts/laravel-sentfold-lite](https://github.com/pnscripts/laravel-sentfold-lite) | 0 | 2026-11-08 | Free archive of every e-mail your Laravel app sends, with se... |
-| [pnscripts/filament-broadquill-lite](https://github.com/pnscripts/filament-broadquill-lite) | 0 | 2026-11-08 | Bulk edit for Filament 4 and 5 tables: tick the fields, set ... |
-| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 3 | 2026-11-08 | A file-based CMS package for Laravel. Renders documentation,... |
-| [marcpope/cortendesk](https://github.com/marcpope/cortendesk) | 222 | 2026-11-08 | A web based, open-source console for managing the RustDesk O... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-08 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [LabskAI/shopmade-core](https://github.com/LabskAI/shopmade-core) | 3 | 2026-11-08 | Shopmade core: open source Laravel website system with conte... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-08 | Daywatch Laravel package to integrate into collecting events... |
-| [aliqsm/laravel-authkit](https://github.com/aliqsm/laravel-authkit) | 0 | 2026-11-08 | laravel auth package |
-| [pnscripts/filament-sheafgate-lite](https://github.com/pnscripts/filament-sheafgate-lite) | 0 | 2026-11-08 | Free Filament 5 import action for XLSX, ODS and CSV files th... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-11-08 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
-| [jeffersongoncalves/laravel-whatsapp-widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget) | 9 | 2026-11-08 | This Laravel package provides a simple yet customizable What... |
-| [jeffersongoncalves/servicedeskkitv4](https://github.com/jeffersongoncalves/servicedeskkitv4) | 2 | 2026-11-08 | ServiceDesk starter kit built on Laravel 13.x and Filament 4... |
-| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-08 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
-| [jeffersongoncalves/servicedeskkitv3](https://github.com/jeffersongoncalves/servicedeskkitv3) | 1 | 2026-11-08 | ServiceDesk starter kit built on Laravel 13.x and Filament 3... |
-| [jeffersongoncalves/filament-qrcode-field](https://github.com/jeffersongoncalves/filament-qrcode-field) | 20 | 2026-11-08 | A Laravel Filament package that provides QR Code field funct... |
-| [jeffersongoncalves/helpdeskkitv3](https://github.com/jeffersongoncalves/helpdeskkitv3) | 2 | 2026-11-08 | HelpDesk starter kit built on Laravel 13.x and Filament 3.x ... |
-| [jeffersongoncalves/teamkit](https://github.com/jeffersongoncalves/teamkit) | 4 | 2026-11-08 | TeamKit starter kit built on Laravel 13.x and Filament 3.x w... |
-| [jeffersongoncalves/servicedeskkitv5](https://github.com/jeffersongoncalves/servicedeskkitv5) | 11 | 2026-11-08 | ServiceDesk starter kit built on Laravel 13.x and Filament 5... |
-| [mikeyperes/laravel-hexa-package-wordpress](https://github.com/mikeyperes/laravel-hexa-package-wordpress) | 0 | 2026-11-08 | HWS Package: WordPress REST API connector (create posts, upl... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 78 | 2026-11-08 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-09 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [jeffersongoncalves/laravel-image-cache](https://github.com/jeffersongoncalves/laravel-image-cache) | 1 | 2026-11-09 | SSRF-safe remote image fetch-and-cache for Laravel: pinned r... |
+| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 1 | 2026-11-09 | Open-source, self-hosted IT documentation for MSPs — servers... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-09 | Daywatch Laravel package to integrate into collecting events... |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-11-09 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
+| [boldlygrow/okta-api-client](https://github.com/boldlygrow/okta-api-client) | 0 | 2026-11-09 | Composer package for Laravel applications for connecting to ... |
+| [albertoarena/filament-truss](https://github.com/albertoarena/filament-truss) | 2 | 2026-11-09 | Live ER diagram (ERD) of your real database inside a Filamen... |
+| [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 123 | 2026-11-09 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | 2026-11-09 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Bu... |
+| [Users-au/laravel-client](https://github.com/Users-au/laravel-client) | 1 | 2026-11-09 | This package is a Laravel client for Users.au Oauth. It prov... |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-11-09 | Laravel OTP is a Laravel package that enables developers to ... |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-09 | WELD's fleet scanner: every app answers present with its PHP... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-11-09 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [livetennisapi/livetennisapi-laravel](https://github.com/livetennisapi/livetennisapi-laravel) | 0 | 2026-11-09 | Laravel package for the Live Tennis API, with a facade, conf... |
+| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-11-09 | Detect language using Google Translation API |
+| [kitloom/nova-starter](https://github.com/kitloom/nova-starter) | 0 | 2026-11-09 | Laravel starter kit: kitloom with the Laravel Nova admin. Th... |
+| [lara-zeus/spatie-translatable](https://github.com/lara-zeus/spatie-translatable) | 37 | 2026-11-08 | Lara Zeus Translatable is Filament support for Spatie's Lara... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 15 | 2026-11-08 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 6 | 2026-11-08 | Visual feedback for Laravel and Livewire with client-side sc... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-11-08 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-09T00:44 | 10 | 1719 | 7973 |
 | 2026-11-08T18:23 | 9 | 1715 | 7963 |
 | 2026-11-08T12:26 | 1 | 1720 | 7954 |
 | 2026-11-08T06:30 | 3 | 1717 | 7953 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-07T06:29 | 2 | 1704 | 7927 |
 | 2026-11-07T00:40 | 2 | 1703 | 7925 |
 | 2026-11-06T18:26 | 2 | 1704 | 7924 |
-| 2026-11-06T12:29 | 3 | 1704 | 7922 |
 
 ---
 

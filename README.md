@@ -2,17 +2,24 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7975  
-**Last updated:** 2026-11-09T06:41:27.995Z
+**Total packages tracked:** 7982  
+**Last updated:** 2026-11-09T12:29:34.859Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [newtox/Toxbot](https://github.com/newtox/Toxbot) | 0 | Newtox's Discord Bot written in Dart using nyxx and nyxx_commands |
+| [FilipeF-Dev/ajude.me](https://github.com/FilipeF-Dev/ajude.me) | 1 | Plataforma de troca de favores: a habilidade vira moeda. Produto especificado an... |
+| [pokertour/NexoraIPAM](https://github.com/pokertour/NexoraIPAM) | 2 | Self-hosted IPAM: subnets, IPs and VLANs, ICMP discovery, live SNMP switch facep... |
+| [ikhbarnuridev/filament-mega-menu](https://github.com/ikhbarnuridev/filament-mega-menu) | 0 | Filament plugin that turns topbar navigation groups overflowing onto a second ro... |
+| [scify/laravel-health-endpoint](https://github.com/scify/laravel-health-endpoint) | 0 | A token-protected, rate-limited GET /health endpoint for Laravel apps |
+| [nazri-creator/ujian-aravel](https://github.com/nazri-creator/ujian-aravel) | 0 | UTS Framework Programming | Semester 3 |
+| [WazobiaMail/wazobiamail-laravel](https://github.com/WazobiaMail/wazobiamail-laravel) | 0 | Official WazobiaMail Laravel package with ServiceProvider, Facade, and custom Ma... |
 | [tobya/AnyModel](https://github.com/tobya/AnyModel) | 1 | Allows creation of a Laravel Entity Model for an arbitrary table |
 | [moztopia/moztopia-notifications](https://github.com/moztopia/moztopia-notifications) | 0 | Laravel push notifications with Android FCM and direct iOS APNs. Secure device r... |
-| [jeffersongoncalves/laravel-markdown-for-agents](https://github.com/jeffersongoncalves/laravel-markdown-for-agents) | 0 | Serve clean Markdown to AI agents in Laravel: Accept: text/markdown gets the pag... |
-| [jeffersongoncalves/filament-centrifugo](https://github.com/jeffersongoncalves/filament-centrifugo) | 1 | Realtime Filament notifications over Centrifugo websockets: injects a Laravel Ec... |
+| [jeffersongoncalves/laravel-markdown-for-agents](https://github.com/jeffersongoncalves/laravel-markdown-for-agents) | 1 | Serve clean Markdown to AI agents in Laravel: Accept: text/markdown gets the pag... |
+| [jeffersongoncalves/filament-centrifugo](https://github.com/jeffersongoncalves/filament-centrifugo) | 2 | Realtime Filament notifications over Centrifugo websockets: injects a Laravel Ec... |
 | [maxkhim/filament-dedupler-uploader](https://github.com/maxkhim/filament-dedupler-uploader) | 0 | Plugin for uploading and automatic deduplication files in Filament |
 | [roundly-consulting/workflows-for-laravel](https://github.com/roundly-consulting/workflows-for-laravel) | 1 | Durable, versioned workflows for Laravel: JSON graphs run step by step on queues... |
 | [gui1535/sql-to-eloquent](https://github.com/gui1535/sql-to-eloquent) | 0 | Gerador de código Laravel a partir de SQL |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [pushery/ses-inbound-mail-for-laravel](https://github.com/pushery/ses-inbound-mail-for-laravel) | 1 | Receive mail through Amazon SES in Laravel: a verified SNS endpoint, takeover fr... |
 | [apartejs/laravel](https://github.com/apartejs/laravel) | 0 | An AI chat for Blade, Livewire and Filament pages, wired to the Laravel AI SDK. |
 | [Pvngu/laravel-chat](https://github.com/Pvngu/laravel-chat) | 0 | pvngu/laravel-chat: Laravel backend package for @pvngu/vue-chat |
-| [roundly-consulting/safe-fetch-for-laravel](https://github.com/roundly-consulting/safe-fetch-for-laravel) | 1 | SSRF protection for Laravel's HTTP client: strict URL canonicalising, private an... |
-| [roundly-consulting/imports-for-laravel](https://github.com/roundly-consulting/imports-for-laravel) | 1 | Import CSV and XLSX files into Eloquent models: templates, column mapping, valid... |
-| [AdilAzhariOmsan/laravel-trace](https://github.com/AdilAzhariOmsan/laravel-trace) | 1 | Application-level tracing for Laravel: request, database-query and queued-job sp... |
-| [AdilAzhariOmsan/laravel-idempotency](https://github.com/AdilAzhariOmsan/laravel-idempotency) | 3 | Run Laravel HTTP requests and queued jobs once, however often they're retried: p... |
-| [goaop/goaop-laravel-bridge](https://github.com/goaop/goaop-laravel-bridge) | 93 | Integration bridge for Go! AOP framework and Laravel |
-| [uslanozan/laravel-cache-contract](https://github.com/uslanozan/laravel-cache-contract) | 1 | Central, reviewable cache definitions for Laravel: generated keys, duplicate det... |
-| [ctrlwebinc/laravel-site-portrait](https://github.com/ctrlwebinc/laravel-site-portrait) | 0 | ctrlweb Site Portrait - A Laravel package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [zeroit789/meetcita](https://github.com/zeroit789/meetcita) | 0 | 2026-11-09 | Reservas de citas autoalojadas para Laravel: calendario, cit... |
-| [jonangelo18gpca/laravel-gpca-networking](https://github.com/jonangelo18gpca/laravel-gpca-networking) | 1 | 2026-11-09 |  |
-| [pushery/production-preflight-for-laravel](https://github.com/pushery/production-preflight-for-laravel) | 2 | 2026-11-09 | Laravel production checks for what passes every test: unsafe... |
-| [tobya/AnyModel](https://github.com/tobya/AnyModel) | 1 | 2026-11-09 | Allows creation of a Laravel Entity Model for an arbitrary t... |
-| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-11-09 | A Laravel package that crawls websites to detect broken link... |
-| [crontinel/laravel](https://github.com/crontinel/laravel) | 0 | 2026-11-09 | Laravel package for Crontinel background job monitoring |
-| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | 2026-11-09 | Laravel package powered by LibreDWG for DWG thumbnail extrac... |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-11-09 | Laravel package scaffolder: generate complete, convention-re... |
-| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-11-09 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-11-09 | Runtime base library for building Laravel packages: fluent P... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-09 | Laravel USPS Package to integrate USPS Address |
-| [InterWorks/laravel-powerbi](https://github.com/InterWorks/laravel-powerbi) | 2 | 2026-11-09 | A comprehensive Laravel package for interacting with the Mic... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-11-09 | Martis — Laravel Admin Engine. A modern, override-first admi... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-09 | Daywatch Laravel package to integrate into collecting events... |
-| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 25 | 2026-11-09 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
-| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 8 | 2026-11-09 | Laravel Pesapal is a Laravel package designed to facilitate ... |
-| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-11-09 | A Laravel Package providing seamless integration for the wun... |
-| [LabskAI/shopmade-core](https://github.com/LabskAI/shopmade-core) | 3 | 2026-11-09 | Shopmade core: open source Laravel website system with conte... |
-| [jturazzi/laravel-status](https://github.com/jturazzi/laravel-status) | 0 | 2026-11-09 | Central dashboard monitoring Laravel applications through th... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-09 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [Grazulex/laravel-draftable](https://github.com/Grazulex/laravel-draftable) | 21 | 2026-11-09 | 📝 Add drafts, versioning, and publication workflow to any E... |
+| [Grazulex/laravel-turbomaker](https://github.com/Grazulex/laravel-turbomaker) | 64 | 2026-11-09 | ⚡ Laravel TurboMaker is a productivity-focused package desig... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-11-09 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [smart-dato/dpd-sdk](https://github.com/smart-dato/dpd-sdk) | 0 | 2026-11-09 | A Laravel package for integrating with the DPD shipping serv... |
+| [smart-dato/desk365-sdk](https://github.com/smart-dato/desk365-sdk) | 0 | 2026-11-09 | Desk365 Laravel SDK - A Laravel package to interact with the... |
+| [newtox/Toxbot](https://github.com/newtox/Toxbot) | 0 | 2026-11-09 | Newtox's Discord Bot written in Dart using nyxx and nyxx_com... |
 | [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-09 | WELD's fleet scanner: every app answers present with its PHP... |
+| [smart-dato/brt-tracking](https://github.com/smart-dato/brt-tracking) | 0 | 2026-11-09 | Laravel package for interfacing with the BRT VAS100 tracking... |
+| [ctrlwebinc/laravel-site-portrait](https://github.com/ctrlwebinc/laravel-site-portrait) | 0 | 2026-11-09 | ctrlweb Site Portrait - A Laravel package |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-09 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 0 | 2026-11-09 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
+| [ikhbarnuridev/filament-mega-menu](https://github.com/ikhbarnuridev/filament-mega-menu) | 0 | 2026-11-09 | Filament plugin that turns topbar navigation groups overflow... |
+| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-11-09 | A Laravel package as a backend administrating tool for Conte... |
+| [erlandmuchasaj/laravel-modules](https://github.com/erlandmuchasaj/laravel-modules) | 8 | 2026-11-09 | Yet another laravel modules package that is made with love, ... |
+| [ades4827/sprintflow](https://github.com/ades4827/sprintflow) | 1 | 2026-11-09 | Laravel Package for speed up your project development |
+| [dniccum/secret-stash-cli](https://github.com/dniccum/secret-stash-cli) | 1 | 2026-11-09 | A PHP-based Composer package to interact with the SecretStas... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-09 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [php-skir/server](https://github.com/php-skir/server) | 0 | 2026-11-09 | Laravel SkirRPC server package. |
+| [php-skir/client](https://github.com/php-skir/client) | 0 | 2026-11-09 | Laravel SkirRPC client package powered by Saloon. |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-09T12:29 | 7 | 1724 | 7982 |
 | 2026-11-09T06:41 | 3 | 1728 | 7975 |
 | 2026-11-09T00:44 | 10 | 1719 | 7973 |
 | 2026-11-08T18:23 | 9 | 1715 | 7963 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-07T18:24 | 17 | 1691 | 7947 |
 | 2026-11-07T12:26 | 3 | 1703 | 7930 |
 | 2026-11-07T06:29 | 2 | 1704 | 7927 |
-| 2026-11-07T00:40 | 2 | 1703 | 7925 |
 
 ---
 

@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7973  
-**Last updated:** 2026-11-09T00:44:52.707Z
+**Total packages tracked:** 7975  
+**Last updated:** 2026-11-09T06:41:27.995Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tobya/AnyModel](https://github.com/tobya/AnyModel) | 1 | Allows creation of a Laravel Entity Model for an arbitrary table |
+| [moztopia/moztopia-notifications](https://github.com/moztopia/moztopia-notifications) | 0 | Laravel push notifications with Android FCM and direct iOS APNs. Secure device r... |
+| [jeffersongoncalves/laravel-markdown-for-agents](https://github.com/jeffersongoncalves/laravel-markdown-for-agents) | 0 | Serve clean Markdown to AI agents in Laravel: Accept: text/markdown gets the pag... |
 | [jeffersongoncalves/filament-centrifugo](https://github.com/jeffersongoncalves/filament-centrifugo) | 1 | Realtime Filament notifications over Centrifugo websockets: injects a Laravel Ec... |
 | [maxkhim/filament-dedupler-uploader](https://github.com/maxkhim/filament-dedupler-uploader) | 0 | Plugin for uploading and automatic deduplication files in Filament |
 | [roundly-consulting/workflows-for-laravel](https://github.com/roundly-consulting/workflows-for-laravel) | 1 | Durable, versioned workflows for Laravel: JSON graphs run step by step on queues... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [goaop/goaop-laravel-bridge](https://github.com/goaop/goaop-laravel-bridge) | 93 | Integration bridge for Go! AOP framework and Laravel |
 | [uslanozan/laravel-cache-contract](https://github.com/uslanozan/laravel-cache-contract) | 1 | Central, reviewable cache definitions for Laravel: generated keys, duplicate det... |
 | [ctrlwebinc/laravel-site-portrait](https://github.com/ctrlwebinc/laravel-site-portrait) | 0 | ctrlweb Site Portrait - A Laravel package |
-| [riders-agency/pulse-sdk-php](https://github.com/riders-agency/pulse-sdk-php) | 0 | Pulse SDK for PHP — Composer package with Laravel and Symfony integration |
-| [Jeroen-G/packager-skeleton](https://github.com/Jeroen-G/packager-skeleton) | 28 | Skeleton for creating Laravel packages with Laravel Packager |
-| [GismatUL/laravel-support-chat](https://github.com/GismatUL/laravel-support-chat) | 0 | Live-chat widget for Laravel with Telegram integration: customers chat on your s... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,8 +40,8 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 472 | Open Source Laravel CRM Package |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 471 | Open Source Laravel CRM Package |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 465 | A simple package to help integrate Cloudflare Turnstile. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-09 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [jeffersongoncalves/laravel-image-cache](https://github.com/jeffersongoncalves/laravel-image-cache) | 1 | 2026-11-09 | SSRF-safe remote image fetch-and-cache for Laravel: pinned r... |
-| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 1 | 2026-11-09 | Open-source, self-hosted IT documentation for MSPs — servers... |
+| [zeroit789/meetcita](https://github.com/zeroit789/meetcita) | 0 | 2026-11-09 | Reservas de citas autoalojadas para Laravel: calendario, cit... |
+| [jonangelo18gpca/laravel-gpca-networking](https://github.com/jonangelo18gpca/laravel-gpca-networking) | 1 | 2026-11-09 |  |
+| [pushery/production-preflight-for-laravel](https://github.com/pushery/production-preflight-for-laravel) | 2 | 2026-11-09 | Laravel production checks for what passes every test: unsafe... |
+| [tobya/AnyModel](https://github.com/tobya/AnyModel) | 1 | 2026-11-09 | Allows creation of a Laravel Entity Model for an arbitrary t... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-11-09 | A Laravel package that crawls websites to detect broken link... |
+| [crontinel/laravel](https://github.com/crontinel/laravel) | 0 | 2026-11-09 | Laravel package for Crontinel background job monitoring |
+| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | 2026-11-09 | Laravel package powered by LibreDWG for DWG thumbnail extrac... |
+| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-11-09 | Laravel package scaffolder: generate complete, convention-re... |
+| [laranail/db-tools](https://github.com/laranail/db-tools) | 1 | 2026-11-09 | Standalone Laravel database utilities: UUID/ULID traits, sch... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-11-09 | Runtime base library for building Laravel packages: fluent P... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-09 | Laravel USPS Package to integrate USPS Address |
+| [InterWorks/laravel-powerbi](https://github.com/InterWorks/laravel-powerbi) | 2 | 2026-11-09 | A comprehensive Laravel package for interacting with the Mic... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-11-09 | Martis — Laravel Admin Engine. A modern, override-first admi... |
 | [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-09 | Daywatch Laravel package to integrate into collecting events... |
-| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-11-09 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
-| [boldlygrow/okta-api-client](https://github.com/boldlygrow/okta-api-client) | 0 | 2026-11-09 | Composer package for Laravel applications for connecting to ... |
-| [albertoarena/filament-truss](https://github.com/albertoarena/filament-truss) | 2 | 2026-11-09 | Live ER diagram (ERD) of your real database inside a Filamen... |
-| [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 123 | 2026-11-09 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | 2026-11-09 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Bu... |
-| [Users-au/laravel-client](https://github.com/Users-au/laravel-client) | 1 | 2026-11-09 | This package is a Laravel client for Users.au Oauth. It prov... |
-| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-11-09 | Laravel OTP is a Laravel package that enables developers to ... |
+| [Voxyfy/anadolupay](https://github.com/Voxyfy/anadolupay) | 25 | 2026-11-09 | Türk bankalarının sanal POS'ları için tek arayüzlü Laravel ö... |
+| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 8 | 2026-11-09 | Laravel Pesapal is a Laravel package designed to facilitate ... |
+| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-11-09 | A Laravel Package providing seamless integration for the wun... |
+| [LabskAI/shopmade-core](https://github.com/LabskAI/shopmade-core) | 3 | 2026-11-09 | Shopmade core: open source Laravel website system with conte... |
+| [jturazzi/laravel-status](https://github.com/jturazzi/laravel-status) | 0 | 2026-11-09 | Central dashboard monitoring Laravel applications through th... |
 | [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-09 | WELD's fleet scanner: every app answers present with its PHP... |
-| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-11-09 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
-| [livetennisapi/livetennisapi-laravel](https://github.com/livetennisapi/livetennisapi-laravel) | 0 | 2026-11-09 | Laravel package for the Live Tennis API, with a facade, conf... |
-| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-11-09 | Detect language using Google Translation API |
-| [kitloom/nova-starter](https://github.com/kitloom/nova-starter) | 0 | 2026-11-09 | Laravel starter kit: kitloom with the Laravel Nova admin. Th... |
-| [lara-zeus/spatie-translatable](https://github.com/lara-zeus/spatie-translatable) | 37 | 2026-11-08 | Lara Zeus Translatable is Filament support for Spatie's Lara... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 15 | 2026-11-08 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 6 | 2026-11-08 | Visual feedback for Laravel and Livewire with client-side sc... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-11-08 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-09T06:41 | 3 | 1728 | 7975 |
 | 2026-11-09T00:44 | 10 | 1719 | 7973 |
 | 2026-11-08T18:23 | 9 | 1715 | 7963 |
 | 2026-11-08T12:26 | 1 | 1720 | 7954 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-07T12:26 | 3 | 1703 | 7930 |
 | 2026-11-07T06:29 | 2 | 1704 | 7927 |
 | 2026-11-07T00:40 | 2 | 1703 | 7925 |
-| 2026-11-06T18:26 | 2 | 1704 | 7924 |
 
 ---
 

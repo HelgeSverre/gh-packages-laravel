@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 8004  
-**Last updated:** 2026-11-10T00:40:39.620Z
+**Last updated:** 2026-11-10T06:32:05.483Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-10 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [anjan011/rbac-package](https://github.com/anjan011/rbac-package) | 0 | 2026-11-10 | Roles and Permissions Manager Package for Laravel |
+| [Darkify19/filament-page-builder](https://github.com/Darkify19/filament-page-builder) | 18 | 2026-11-10 | A drag-and-drop visual page builder for Filament 3, 4 and 5 ... |
+| [Pharaonic/laravel-settings](https://github.com/Pharaonic/laravel-settings) | 7 | 2026-11-10 | Typed application settings for Laravel, stored through an El... |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-10 | WELD's fleet scanner: every app answers present with its PHP... |
 | [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | 2026-11-10 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Bu... |
-| [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | 193 | 2026-11-10 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-10 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [Zairakai/PHP-Package_laravel_dev_tools](https://github.com/Zairakai/PHP-Package_laravel_dev_tools) | 0 | 2026-11-10 | Read-only mirror of gitlab.com/zairakai/php-packages/laravel... |
-| [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 124 | 2026-11-10 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
-| [jeffersongoncalves/filament-knowledge-base](https://github.com/jeffersongoncalves/filament-knowledge-base) | 10 | 2026-11-10 | Filament plugin for Knowledge Base management with Admin, Us... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-10 | A Laravel package that provides flexible and extensible reso... |
+| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | 2026-11-10 | Laravel package powered by LibreDWG for DWG thumbnail extrac... |
 | [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-10 | A lightweight, convention-driven modular architecture packag... |
-| [jeffersongoncalves/laravel-knowledge-base](https://github.com/jeffersongoncalves/laravel-knowledge-base) | 5 | 2026-11-10 | A Laravel package for building knowledge bases with articles... |
-| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-10 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-10 | Automated code analysis for Laravel applications with 73 ope... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-10 | A Laravel package that provides flexible and extensible reso... |
+| [mainstaycms/mainstay](https://github.com/mainstaycms/mainstay) | 2 | 2026-11-10 | A CMS for Laravel: content modelled in PHP, built in a Blade... |
+| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-10 | Laravel USPS Package to integrate USPS Address |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-10 | Daywatch Laravel package to integrate into collecting events... |
+| [navi-crwn/hop-safety](https://github.com/navi-crwn/hop-safety) | 0 | 2026-11-10 | URL and content safety rules for the HOP family as one Larav... |
+| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-11-10 | A todo list app that's MCP-native, so AI agents can claim, c... |
+| [NikoAuso/tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker) | 0 | 2026-11-10 | Personal TV Time-style tracker for series, episodes and movi... |
+| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-11-10 | https://songrank.dev - Rank your favorite artists' tracks. |
 | [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-10 | Identity and access management for Laravel: installs the aut... |
+| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 42 | 2026-11-10 | This project collects the most commonly used Laravel extensi... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-10 | Automated code analysis for Laravel applications with 73 ope... |
 | [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-11-10 | A Laravel package to handle AWS SNS notifications, providing... |
-| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 378 | 2026-11-10 | The official Laravel Nightwatch package. |
-| [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 2 | 2026-11-10 | Open-source, self-hosted deployment panel. Push to deploy La... |
-| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-11-10 | Gremio Linhir |
-| [hibira-io/laravel](https://github.com/hibira-io/laravel) | 4 | 2026-11-10 | Laravel broadcasting, push notifications and webhooks for Hi... |
-| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 10 | 2026-11-10 | MFAKit starter kit built on Laravel 13.x and Filament 4.x wi... |
-| [pushery/ses-inbound-mail-for-laravel](https://github.com/pushery/ses-inbound-mail-for-laravel) | 1 | 2026-11-10 | Receive mail through Amazon SES in Laravel: a verified SNS e... |
+| [jeffersongoncalves/laravel-zero-package-scaffold](https://github.com/jeffersongoncalves/laravel-zero-package-scaffold) | 1 | 2026-11-10 | Shared file templates and namespace-casing resolution for pa... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-10T06:32 | 0 | 1730 | 8004 |
 | 2026-11-10T00:40 | 10 | 1721 | 8004 |
 | 2026-11-09T18:26 | 12 | 1719 | 7994 |
 | 2026-11-09T12:29 | 7 | 1724 | 7982 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-08T12:26 | 1 | 1720 | 7954 |
 | 2026-11-08T06:30 | 3 | 1717 | 7953 |
 | 2026-11-08T00:44 | 3 | 1716 | 7950 |
-| 2026-11-07T18:24 | 17 | 1691 | 7947 |
 
 ---
 

@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8004  
-**Last updated:** 2026-11-10T06:32:05.483Z
+**Total packages tracked:** 8007  
+**Last updated:** 2026-11-10T12:28:20.332Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Moelnabawy8/Shopi-master](https://github.com/Moelnabawy8/Shopi-master) | 0 | A Laravel and Livewire storefront with cart, checkout and invoices. |
+| [trianity/laravel-vpos](https://github.com/trianity/laravel-vpos) | 0 | K&H VPOS for Laravel 13+ |
+| [jintack81/laravel-date-scopes](https://github.com/jintack81/laravel-date-scopes) | 0 | A Laravel package for date-based Eloquent scopes. |
+| [imranbru99/travel-agency-management-system](https://github.com/imranbru99/travel-agency-management-system) | 0 | Travel Agency Management System — Travel Laravel Filament ERP/SaaS for Banglades... |
 | [apavliukov/laravel-starter](https://github.com/apavliukov/laravel-starter) | 0 | Template for new Laravel 13 projects: auth, role-based authorization, multi-tena... |
 | [cabocom/jg_filmmaker](https://github.com/cabocom/jg_filmmaker) | 0 | [Mirror from GitLab] Suite creativa audiovisual impulsada por IA para guionistas... |
 | [cabocom/jg_dashboard](https://github.com/cabocom/jg_dashboard) | 0 | [Mirror from GitLab] Plano de control, observabilidad, trazabilidad distribuida ... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [asignua/filament-notification-preferences](https://github.com/asignua/filament-notification-preferences) | 0 | Let every Filament 5 user choose which notifications they get and on which chann... |
 | [imsemoo/caniapply](https://github.com/imsemoo/caniapply) | 0 | "Remote" often doesn't include your country. Reads remote job posts and shows wh... |
 | [ArtisanPack-UI/ecommerce-paypal](https://github.com/ArtisanPack-UI/ecommerce-paypal) | 0 | PayPal payment gateway for the ArtisanPack UI ecommerce engine — PayPal Checkout... |
-| [Pod-Point/laravel-configcat](https://github.com/Pod-Point/laravel-configcat) | 2 | Feature flags with Laravel using ConfigCat. |
-| [9in-io/laravel](https://github.com/9in-io/laravel) | 3 | 9in for Laravel: OpenID Connect sign-in, an auth guard that verifies access toke... |
-| [conceptlz/adobe-sign-laravel](https://github.com/conceptlz/adobe-sign-laravel) | 1 | plugs the Acrobat Sign PHP SDK into Laravel. The core package, conceptlz/adobe-s... |
-| [tasdan/column-searchable](https://github.com/tasdan/column-searchable) | 0 | A package for searching in eloquent model's column, with relations in Laravel. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [anjan011/rbac-package](https://github.com/anjan011/rbac-package) | 0 | 2026-11-10 | Roles and Permissions Manager Package for Laravel |
-| [Darkify19/filament-page-builder](https://github.com/Darkify19/filament-page-builder) | 18 | 2026-11-10 | A drag-and-drop visual page builder for Filament 3, 4 and 5 ... |
-| [Pharaonic/laravel-settings](https://github.com/Pharaonic/laravel-settings) | 7 | 2026-11-10 | Typed application settings for Laravel, stored through an El... |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-10 | WELD's fleet scanner: every app answers present with its PHP... |
-| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | 2026-11-10 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Bu... |
-| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | 2026-11-10 | Laravel package powered by LibreDWG for DWG thumbnail extrac... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-10 | A lightweight, convention-driven modular architecture packag... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-10 | A Laravel package that provides flexible and extensible reso... |
+| [codewithathis/paperless-ngx](https://github.com/codewithathis/paperless-ngx) | 1 | 2026-11-10 | A Laravel package for managing Paperless-ngx via its API, pr... |
+| [karpovigorok/subkit](https://github.com/karpovigorok/subkit) | 37 | 2026-11-10 | Laravel subscription management with a Filament UI. Eliminat... |
+| [Webfresh-Uden/wfresourcebalance](https://github.com/Webfresh-Uden/wfresourcebalance) | 0 | 2026-11-10 | Webfresh Resource balance Package for Laravel |
+| [albertoarena/laravel-truss](https://github.com/albertoarena/laravel-truss) | 293 | 2026-11-10 | A live database structure viewer for Laravel that renders yo... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-11-10 | Provides email verification on the go. |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-10 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-11-10 | The Moox Project - Packages for Filament and Laravel |
+| [TappNetwork/filament-maillog](https://github.com/TappNetwork/filament-maillog) | 30 | 2026-11-10 | Log outgoing emails and view them in Filament admin panel |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-10 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [Grazulex/laravel-autobuilder](https://github.com/Grazulex/laravel-autobuilder) | 50 | 2026-11-10 | Visual automation builder for Laravel - Create workflows wit... |
+| [vizuh/clicktrail-laravel](https://github.com/vizuh/clicktrail-laravel) | 2 | 2026-11-10 | Carry observed acquisition context through Laravel capture m... |
+| [pdro-lucas/filament-ai-writer](https://github.com/pdro-lucas/filament-ai-writer) | 9 | 2026-11-10 | AI writing for Filament forms with OpenAI, Anthropic, Gemini... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 31 | 2026-11-10 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-11-10 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [Grazulex/laravel-draftable](https://github.com/Grazulex/laravel-draftable) | 21 | 2026-11-10 | 📝 Add drafts, versioning, and publication workflow to any E... |
 | [mainstaycms/mainstay](https://github.com/mainstaycms/mainstay) | 2 | 2026-11-10 | A CMS for Laravel: content modelled in PHP, built in a Blade... |
-| [johnpaulmedina/laravel-usps](https://github.com/johnpaulmedina/laravel-usps) | 37 | 2026-11-10 | Laravel USPS Package to integrate USPS Address |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-10 | Daywatch Laravel package to integrate into collecting events... |
-| [navi-crwn/hop-safety](https://github.com/navi-crwn/hop-safety) | 0 | 2026-11-10 | URL and content safety rules for the HOP family as one Larav... |
-| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-11-10 | A todo list app that's MCP-native, so AI agents can claim, c... |
-| [NikoAuso/tv-time-tracker](https://github.com/NikoAuso/tv-time-tracker) | 0 | 2026-11-10 | Personal TV Time-style tracker for series, episodes and movi... |
-| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-11-10 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-10 | Identity and access management for Laravel: installs the aut... |
-| [guanguans/laravel-skeleton](https://github.com/guanguans/laravel-skeleton) | 42 | 2026-11-10 | This project collects the most commonly used Laravel extensi... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-10 | Automated code analysis for Laravel applications with 73 ope... |
-| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-11-10 | A Laravel package to handle AWS SNS notifications, providing... |
-| [jeffersongoncalves/laravel-zero-package-scaffold](https://github.com/jeffersongoncalves/laravel-zero-package-scaffold) | 1 | 2026-11-10 | Shared file templates and namespace-casing resolution for pa... |
+| [TobyMaxham/laravel-properties](https://github.com/TobyMaxham/laravel-properties) | 0 | 2026-11-10 | Flexible JSON properties for Eloquent models: defaults, cast... |
+| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | 2026-11-10 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Bu... |
+| [typicms/core](https://github.com/typicms/core) | 8 | 2026-11-10 | The core package of TypiCMS, containing the base architectur... |
+| [Sunucode/laravel-afripay](https://github.com/Sunucode/laravel-afripay) | 0 | 2026-11-10 | Unified payment gateway for Africa — Wave, Orange Money, Pay... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-10T12:28 | 4 | 1727 | 8007 |
 | 2026-11-10T06:32 | 0 | 1730 | 8004 |
 | 2026-11-10T00:40 | 10 | 1721 | 8004 |
 | 2026-11-09T18:26 | 12 | 1719 | 7994 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-08T18:23 | 9 | 1715 | 7963 |
 | 2026-11-08T12:26 | 1 | 1720 | 7954 |
 | 2026-11-08T06:30 | 3 | 1717 | 7953 |
-| 2026-11-08T00:44 | 3 | 1716 | 7950 |
 
 ---
 

@@ -2308,5 +2308,27 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-11-09T06:41:27.944Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "lunarphp/livewire-starter-kit": {
+    "name": "lunarphp/livewire-starter-kit",
+    "url": "https://github.com/lunarphp/livewire-starter-kit",
+    "description": "Demonstration online store for Lunar",
+    "stars": 205,
+    "forks": 63,
+    "topics": [
+      "e-commerce",
+      "laravel",
+      "livewire",
+      "php",
+      "tailwindcss"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2022-01-04T11:01:31Z",
+    "updated_at": "2026-04-01T23:03:11Z",
+    "pushed_at": "2025-11-10T08:05:27Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-11-10T12:28:20.279Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

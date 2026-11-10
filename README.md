@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 7994  
-**Last updated:** 2026-11-09T18:26:52.167Z
+**Total packages tracked:** 8004  
+**Last updated:** 2026-11-10T00:40:39.620Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [apavliukov/laravel-starter](https://github.com/apavliukov/laravel-starter) | 0 | Template for new Laravel 13 projects: auth, role-based authorization, multi-tena... |
+| [cabocom/jg_filmmaker](https://github.com/cabocom/jg_filmmaker) | 0 | [Mirror from GitLab] Suite creativa audiovisual impulsada por IA para guionistas... |
+| [cabocom/jg_dashboard](https://github.com/cabocom/jg_dashboard) | 0 | [Mirror from GitLab] Plano de control, observabilidad, trazabilidad distribuida ... |
+| [apavliukov/laravel-authorization](https://github.com/apavliukov/laravel-authorization) | 0 | Reusable authorization layer for Laravel on spatie/laravel-permission: CRUD abil... |
+| [TobyMaxham/laravel-properties](https://github.com/TobyMaxham/laravel-properties) | 0 | Flexible JSON properties for Eloquent models: defaults, casts, enums, encryption... |
+| [Pharaonic/laravel-settings](https://github.com/Pharaonic/laravel-settings) | 7 | Typed application settings for Laravel, stored through an Eloquent Setting model... |
+| [marekmiklusek/laravel-slack-errors](https://github.com/marekmiklusek/laravel-slack-errors) | 2 | Send every reported exception from your Laravel app straight to a Slack channel. |
+| [TobyMaxham/laravel-hashid](https://github.com/TobyMaxham/laravel-hashid) | 1 | Hashed IDs for Laravel: hide your database IDs in URLs, route model binding, que... |
+| [imranbru99/packaging-carton-management](https://github.com/imranbru99/packaging-carton-management) | 0 | Packaging & Carton Management — Manufacturing Laravel Filament ERP/SaaS for Bang... |
+| [VeiligLanceren-nl/laravel-morph-categories](https://github.com/VeiligLanceren-nl/laravel-morph-categories) | 1 | A Laravel package to support polymorphic category relationships for any model. |
 | [asignua/filament-gdpr-requests](https://github.com/asignua/filament-gdpr-requests) | 0 | Track GDPR data-subject requests in Filament 5: all six request types with legal... |
 | [asignua/filament-scheduled-reports](https://github.com/asignua/filament-scheduled-reports) | 0 | Send any Filament 5 table as an .xlsx on a schedule: save the filters, search, s... |
 | [asignua/filament-security-scanner](https://github.com/asignua/filament-security-scanner) | 0 | Detects (does not prevent) intrusion traces in a Filament 5 app: web shells and ... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [9in-io/laravel](https://github.com/9in-io/laravel) | 3 | 9in for Laravel: OpenID Connect sign-in, an auth guard that verifies access toke... |
 | [conceptlz/adobe-sign-laravel](https://github.com/conceptlz/adobe-sign-laravel) | 1 | plugs the Acrobat Sign PHP SDK into Laravel. The core package, conceptlz/adobe-s... |
 | [tasdan/column-searchable](https://github.com/tasdan/column-searchable) | 0 | A package for searching in eloquent model's column, with relations in Laravel. |
-| [anjan011/rbac-package](https://github.com/anjan011/rbac-package) | 0 | Roles and Permissions Manager Package for Laravel |
-| [Pod-Point/laravel-javascript-lang](https://github.com/Pod-Point/laravel-javascript-lang) | 0 | Laravel package that exposes translations and routes to JavaScript |
-| [newtox/Toxbot](https://github.com/newtox/Toxbot) | 0 | Newtox's Discord Bot written in Dart using nyxx and nyxx_commands |
-| [FilipeF-Dev/ajude.me](https://github.com/FilipeF-Dev/ajude.me) | 1 | Plataforma de troca de favores: a habilidade vira moeda. Produto especificado an... |
-| [pokertour/NexoraIPAM](https://github.com/pokertour/NexoraIPAM) | 2 | Self-hosted IPAM: subnets, IPs and VLANs, ICMP discovery, live SNMP switch facep... |
-| [ikhbarnuridev/filament-mega-menu](https://github.com/ikhbarnuridev/filament-mega-menu) | 0 | Filament plugin that turns topbar navigation groups overflowing onto a second ro... |
-| [scify/laravel-health-endpoint](https://github.com/scify/laravel-health-endpoint) | 0 | A token-protected, rate-limited GET /health endpoint for Laravel apps |
-| [nazri-creator/ujian-aravel](https://github.com/nazri-creator/ujian-aravel) | 0 | UTS Framework Programming | Semester 3 |
-| [WazobiaMail/wazobiamail-laravel](https://github.com/WazobiaMail/wazobiamail-laravel) | 0 | Official WazobiaMail Laravel package with ServiceProvider, Facade, and custom Ma... |
-| [tobya/AnyModel](https://github.com/tobya/AnyModel) | 1 | Allows creation of a Laravel Entity Model for an arbitrary table |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,7 +40,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 472 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 473 | Open Source Laravel CRM Package |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [tursodatabase/turso-driver-laravel](https://github.com/tursodatabase/turso-driver-laravel) | 99 | 2026-11-09 | Turso Driver for Laravel with Native libSQL - Community SDK |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-09 | Automated code analysis for Laravel applications with 73 ope... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-11-09 | Main Webampp laravel package for GEOBOX 2.0 |
-| [loki495/dibs](https://github.com/loki495/dibs) | 0 | 2026-11-09 | A todo list app that's MCP-native, so AI agents can claim, c... |
-| [Jurager/teams](https://github.com/Jurager/teams) | 241 | 2026-11-09 | Laravel package for managing teams and user permissions. |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-09 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 13 | 2026-11-09 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [imsemoo/caniapply](https://github.com/imsemoo/caniapply) | 0 | 2026-11-09 | "Remote" often doesn't include your country. Reads remote jo... |
-| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-09 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
-| [ArtisanPack-UI/ecommerce-paypal](https://github.com/ArtisanPack-UI/ecommerce-paypal) | 0 | 2026-11-09 | PayPal payment gateway for the ArtisanPack UI ecommerce engi... |
-| [hibira-io/filament](https://github.com/hibira-io/filament) | 0 | 2026-11-09 | Live notifications for Filament panels on Hibira (Pusher-com... |
-| [hibira-io/laravel](https://github.com/hibira-io/laravel) | 4 | 2026-11-09 | Laravel broadcasting, push notifications and webhooks for Hi... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-11-09 | The NativePHP website |
-| [alimarchal/laravel-chart-of-accounts-package](https://github.com/alimarchal/laravel-chart-of-accounts-package) | 5 | 2026-11-09 | Laravel enterprise accounting package: chart of accounts, do... |
-| [hammadzafar05/filament-mobile-preset](https://github.com/hammadzafar05/filament-mobile-preset) | 5 | 2026-11-09 | Mobile-first defaults for Filament panels, bottom navigation... |
-| [marekmiklusek/laravel-package-skeleton](https://github.com/marekmiklusek/laravel-package-skeleton) | 1 | 2026-11-09 | Laravel package skeleton with Pest, PHPStan, Rector and Pint... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-09 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 3 | 2026-11-09 | A fast Gantt chart and resource timeline for Filament: any E... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-11-09 | Ptah — Laravel package that forges complete module structure... |
-| [ichava/icon-sets-simple-icons](https://github.com/ichava/icon-sets-simple-icons) | 0 | 2026-11-09 | 3,255 Simple Icons brand glyphs for Laravel, served through ... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-10 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | 2026-11-10 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Bu... |
+| [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | 193 | 2026-11-10 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-10 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [Zairakai/PHP-Package_laravel_dev_tools](https://github.com/Zairakai/PHP-Package_laravel_dev_tools) | 0 | 2026-11-10 | Read-only mirror of gitlab.com/zairakai/php-packages/laravel... |
+| [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 124 | 2026-11-10 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [jeffersongoncalves/filament-knowledge-base](https://github.com/jeffersongoncalves/filament-knowledge-base) | 10 | 2026-11-10 | Filament plugin for Knowledge Base management with Admin, Us... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-10 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-10 | A lightweight, convention-driven modular architecture packag... |
+| [jeffersongoncalves/laravel-knowledge-base](https://github.com/jeffersongoncalves/laravel-knowledge-base) | 5 | 2026-11-10 | A Laravel package for building knowledge bases with articles... |
+| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-10 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-10 | Automated code analysis for Laravel applications with 73 ope... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-10 | Identity and access management for Laravel: installs the aut... |
+| [sinemacula/laravel-aws-sns-listener](https://github.com/sinemacula/laravel-aws-sns-listener) | 1 | 2026-11-10 | A Laravel package to handle AWS SNS notifications, providing... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 378 | 2026-11-10 | The official Laravel Nightwatch package. |
+| [laravelify-cloud/laravelify](https://github.com/laravelify-cloud/laravelify) | 2 | 2026-11-10 | Open-source, self-hosted deployment panel. Push to deploy La... |
+| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-11-10 | Gremio Linhir |
+| [hibira-io/laravel](https://github.com/hibira-io/laravel) | 4 | 2026-11-10 | Laravel broadcasting, push notifications and webhooks for Hi... |
+| [jeffersongoncalves/mfakitv4](https://github.com/jeffersongoncalves/mfakitv4) | 10 | 2026-11-10 | MFAKit starter kit built on Laravel 13.x and Filament 4.x wi... |
+| [pushery/ses-inbound-mail-for-laravel](https://github.com/pushery/ses-inbound-mail-for-laravel) | 1 | 2026-11-10 | Receive mail through Amazon SES in Laravel: a verified SNS e... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-10T00:40 | 10 | 1721 | 8004 |
 | 2026-11-09T18:26 | 12 | 1719 | 7994 |
 | 2026-11-09T12:29 | 7 | 1724 | 7982 |
 | 2026-11-09T06:41 | 3 | 1728 | 7975 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-08T06:30 | 3 | 1717 | 7953 |
 | 2026-11-08T00:44 | 3 | 1716 | 7950 |
 | 2026-11-07T18:24 | 17 | 1691 | 7947 |
-| 2026-11-07T12:26 | 3 | 1703 | 7930 |
 
 ---
 

@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8012  
-**Last updated:** 2026-11-10T18:25:34.735Z
+**Total packages tracked:** 8016  
+**Last updated:** 2026-11-11T00:41:58.312Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jackbayliss/laravel-config-drift](https://github.com/jackbayliss/laravel-config-drift) | 1 |  Detect missing and outdated keys in your published Laravel config files after u... |
+| [meirdick/auto-search-chips](https://github.com/meirdick/auto-search-chips) | 0 | Natural-language search for Eloquent models, shown as filter chips the user can ... |
+| [Labyrinthe-Team/labyrinthe-connect-sdks](https://github.com/Labyrinthe-Team/labyrinthe-connect-sdks) | 0 | Official SDKs and integrations for the Labyrinthe Connect SMS & OTP API |
+| [onyedika-anagha/raveflow](https://github.com/onyedika-anagha/raveflow) | 1 | A Laravel package for seamless integration with Flutterwave Rave Payment Gateway |
 | [engsahaly/livewire_course](https://github.com/engsahaly/livewire_course) | 4 | Project files for Laravel Livewire course on Udemy |
 | [engsahaly/laravel_telescope_course](https://github.com/engsahaly/laravel_telescope_course) | 6 | Project files for Laravel Telescope course on Udemy |
 | [steadfast-it/SteadFast-Laravel-Package](https://github.com/steadfast-it/SteadFast-Laravel-Package) | 25 | A complete Laravel package for SteadFast Courier Limited |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [TobyMaxham/laravel-properties](https://github.com/TobyMaxham/laravel-properties) | 0 | Flexible JSON properties for Eloquent models: defaults, casts, enums, encryption... |
 | [Pharaonic/laravel-settings](https://github.com/Pharaonic/laravel-settings) | 7 | Typed application settings for Laravel, stored through an Eloquent Setting model... |
 | [marekmiklusek/laravel-slack-errors](https://github.com/marekmiklusek/laravel-slack-errors) | 2 | Send every reported exception from your Laravel app straight to a Slack channel. |
-| [TobyMaxham/laravel-hashid](https://github.com/TobyMaxham/laravel-hashid) | 1 | Hashed IDs for Laravel: hide your database IDs in URLs, route model binding, que... |
-| [imranbru99/packaging-carton-management](https://github.com/imranbru99/packaging-carton-management) | 0 | Packaging & Carton Management — Manufacturing Laravel Filament ERP/SaaS for Bang... |
-| [VeiligLanceren-nl/laravel-morph-categories](https://github.com/VeiligLanceren-nl/laravel-morph-categories) | 1 | A Laravel package to support polymorphic category relationships for any model. |
-| [asignua/filament-gdpr-requests](https://github.com/asignua/filament-gdpr-requests) | 0 | Track GDPR data-subject requests in Filament 5: all six request types with legal... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [asignua/filament-csp-nonce](https://github.com/asignua/filament-csp-nonce) | 0 | 2026-11-10 | Strict Content-Security-Policy for Filament 5 panels without... |
-| [asignua/filament-image-meta](https://github.com/asignua/filament-image-meta) | 3 | 2026-11-10 | Per-file alt text (per locale), a decorative flag, caption, ... |
-| [asignua/filament-record-lock](https://github.com/asignua/filament-record-lock) | 0 | 2026-11-10 | Pessimistic record locking for Filament 5: one editor per re... |
-| [asignua/filament-xlsx-import](https://github.com/asignua/filament-xlsx-import) | 0 | 2026-11-10 | Import .xlsx, .ods and .csv into any model from a Filament 5... |
-| [asignua/filament-xlsx-export](https://github.com/asignua/filament-xlsx-export) | 6 | 2026-11-10 | Download what is on the screen as a real Excel file: the Fil... |
-| [asignua/filament-gdpr-requests](https://github.com/asignua/filament-gdpr-requests) | 0 | 2026-11-10 | Track GDPR data-subject requests in Filament 5: all six requ... |
-| [asignua/filament-group-summaries](https://github.com/asignua/filament-group-summaries) | 2 | 2026-11-10 | Column summaries (Sum, Average, Count, Range, custom) in the... |
-| [asignua/filament-infinite-scroll](https://github.com/asignua/filament-infinite-scroll) | 1 | 2026-11-10 | Infinite scroll and a "Load more" button for Filament 5 tabl... |
-| [asignua/filament-security-scanner](https://github.com/asignua/filament-security-scanner) | 0 | 2026-11-10 | Detects (does not prevent) intrusion traces in a Filament 5 ... |
-| [asignua/filament-spreadsheet-grid](https://github.com/asignua/filament-spreadsheet-grid) | 4 | 2026-11-10 | Excel-style editing for Filament 5 tables: arrow-key navigat... |
-| [asignua/filament-json-yaml-editor](https://github.com/asignua/filament-json-yaml-editor) | 1 | 2026-11-10 | JSON and YAML editors for Filament 5: code view with highlig... |
-| [asignua/filament-scheduled-reports](https://github.com/asignua/filament-scheduled-reports) | 0 | 2026-11-10 | Send any Filament 5 table as an .xlsx on a schedule: save th... |
-| [asignua/filament-activity-log-plus](https://github.com/asignua/filament-activity-log-plus) | 0 | 2026-11-10 | Audit trail for Filament 5 on spatie/laravel-activitylog 5 t... |
-| [asignua/filament-image-annotations](https://github.com/asignua/filament-image-annotations) | 0 | 2026-11-10 | Non-destructive annotations for images in Filament 5: arrows... |
-| [asignua/filament-toggle-icon-column](https://github.com/asignua/filament-toggle-icon-column) | 0 | 2026-11-10 | A clickable icon column for Filament 5 tables and relation m... |
-| [asignua/filament-translatable-fields](https://github.com/asignua/filament-translatable-fields) | 0 | 2026-11-10 | Per-field language tabs for spatie/laravel-translatable in F... |
-| [asignua/filament-translation-manager](https://github.com/asignua/filament-translation-manager) | 0 | 2026-11-10 | Database-backed translation manager for Filament 5: edit, se... |
-| [asignua/filament-rich-editor-toolkit](https://github.com/asignua/filament-rich-editor-toolkit) | 1 | 2026-11-10 | Ten free plugins for the Filament 5 RichEditor: Word/Google ... |
-| [asignua/filament-relation-manager-tabs](https://github.com/asignua/filament-relation-manager-tabs) | 2 | 2026-11-10 | Render Filament 5 relation managers as ordinary tabs of the ... |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 208 | 2026-11-10 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-11 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [aliziodev/laravel-taxonomy](https://github.com/aliziodev/laravel-taxonomy) | 246 | 2026-11-11 | Laravel package for managing taxonomies, categories, tags, a... |
+| [jtylek/EpesiCRM](https://github.com/jtylek/EpesiCRM) | 43 | 2026-11-11 | Open-source CRM and a kickstarter for custom ERP systems bui... |
+| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | 2026-11-11 | Open-source, self-hosted video processing & delivery engine ... |
+| [WazobiaMail/wazobiamail-laravel](https://github.com/WazobiaMail/wazobiamail-laravel) | 0 | 2026-11-11 | Official WazobiaMail Laravel package with ServiceProvider, F... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-11 | Automated code analysis for Laravel applications with 73 ope... |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-11 | WELD's fleet scanner: every app answers present with its PHP... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 79 | 2026-11-11 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [jackbayliss/laravel-config-drift](https://github.com/jackbayliss/laravel-config-drift) | 1 | 2026-11-11 |  Detect missing and outdated keys in your published Laravel ... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-11-11 | Lightweight toolkit for modular development in Laravel, for ... |
+| [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 2026-11-11 | 🔐 Configurable security checks for Laravel applications. Ru... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-11 | Identity and access management for Laravel: installs the aut... |
+| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-11-10 | Gremio Linhir |
+| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | 2026-11-10 | A consumer-agent voting ledger for major package changes: a ... |
+| [Users-au/socialite-provider](https://github.com/Users-au/socialite-provider) | 0 | 2026-11-10 | Laravel Socialite OAuth2 provider for Users.au (driver 'user... |
+| [Users-au/laravel-client](https://github.com/Users-au/laravel-client) | 1 | 2026-11-10 | Laravel OAuth 2.0 / SSO client for Users.au: login, registra... |
+| [cboxdk/laravel-console-kit](https://github.com/cboxdk/laravel-console-kit) | 0 | 2026-11-10 | Extension hooks (nav, feature gates, UI slots, dashboard car... |
+| [pushery/sanctum-hardening-for-laravel](https://github.com/pushery/sanctum-hardening-for-laravel) | 1 | 2026-11-10 | Hardens Laravel Sanctum: token abilities without a wildcard,... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-10 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-11-10 | Martis — Laravel Admin Engine. A modern, override-first admi... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-11T00:41 | 4 | 1724 | 8016 |
 | 2026-11-10T18:25 | 5 | 1728 | 8012 |
 | 2026-11-10T12:28 | 4 | 1727 | 8007 |
 | 2026-11-10T06:32 | 0 | 1730 | 8004 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-09T06:41 | 3 | 1728 | 7975 |
 | 2026-11-09T00:44 | 10 | 1719 | 7973 |
 | 2026-11-08T18:23 | 9 | 1715 | 7963 |
-| 2026-11-08T12:26 | 1 | 1720 | 7954 |
 
 ---
 

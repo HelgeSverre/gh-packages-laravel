@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8018  
-**Last updated:** 2026-11-11T06:33:10.605Z
+**Total packages tracked:** 8022  
+**Last updated:** 2026-11-11T12:29:22.738Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [m2wlabs/heisenberg](https://github.com/m2wlabs/heisenberg) | 0 | Content + email engine for Laravel. Ships a Gutenberg-style block editor, media ... |
+| [ClickSolveMainTR/clickfix-laravel](https://github.com/ClickSolveMainTR/clickfix-laravel) | 0 | ClickFix Laravel package (clickfix/laravel, read-only mirror) |
+| [send-io/sendio-laravel](https://github.com/send-io/sendio-laravel) | 0 | The official Laravel package for the send.io email API. |
+| [indeximstudio/laravel-telegram-messages](https://github.com/indeximstudio/laravel-telegram-messages) | 0 | Test package |
 | [enriqueleondev/marcaje-app](https://github.com/enriqueleondev/marcaje-app) | 0 | Marcaje: pase de lista para escuelas con credenciales QR y NFC (Laravel 13 + Liv... |
 | [TobyMaxham/laravel-dkim](https://github.com/TobyMaxham/laravel-dkim) | 2 | A package can enable DKIM for your Laravel mails. |
 | [jackbayliss/laravel-config-drift](https://github.com/jackbayliss/laravel-config-drift) | 1 |  Detect missing and outdated keys in your published Laravel config files after u... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jintack81/laravel-date-scopes](https://github.com/jintack81/laravel-date-scopes) | 0 | A Laravel package for date-based Eloquent scopes. |
 | [imranbru99/travel-agency-management-system](https://github.com/imranbru99/travel-agency-management-system) | 0 | Travel Agency Management System — Travel Laravel Filament ERP/SaaS for Banglades... |
 | [apavliukov/laravel-starter](https://github.com/apavliukov/laravel-starter) | 0 | Template for new Laravel 13 projects: auth, role-based authorization, multi-tena... |
-| [cabocom/jg_filmmaker](https://github.com/cabocom/jg_filmmaker) | 0 | [Mirror from GitLab] Suite creativa audiovisual impulsada por IA para guionistas... |
-| [cabocom/jg_dashboard](https://github.com/cabocom/jg_dashboard) | 0 | [Mirror from GitLab] Plano de control, observabilidad, trazabilidad distribuida ... |
-| [apavliukov/laravel-authorization](https://github.com/apavliukov/laravel-authorization) | 0 | Reusable authorization layer for Laravel on spatie/laravel-permission: CRUD abil... |
-| [TobyMaxham/laravel-properties](https://github.com/TobyMaxham/laravel-properties) | 0 | Flexible JSON properties for Eloquent models: defaults, casts, enums, encryption... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-11 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [radumro/LaravelPackage](https://github.com/radumro/LaravelPackage) | 0 | 2026-11-11 | Laravel Package Skeleton |
-| [navi-crwn/hop-safety](https://github.com/navi-crwn/hop-safety) | 0 | 2026-11-11 | URL and content safety rules for the HOP family as one Larav... |
-| [navi-crwn/hop-auth](https://github.com/navi-crwn/hop-auth) | 0 | 2026-11-11 | Laravel client for HOP ID, the single sign-on of the HOP fam... |
-| [WazobiaMail/wazobiamail-laravel](https://github.com/WazobiaMail/wazobiamail-laravel) | 0 | 2026-11-11 | Official WazobiaMail Laravel package with ServiceProvider, F... |
-| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-11-11 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
-| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 3 | 2026-11-11 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
-| [cable8mm/laravel-portone](https://github.com/cable8mm/laravel-portone) | 0 | 2026-11-11 | 한국의 PG사 포트원(PortOne) V2 단건 결제를 위한 Laravel 패키지입니다. Laravel Ca... |
-| [jonangelo18gpca/laravel-gpca-networking](https://github.com/jonangelo18gpca/laravel-gpca-networking) | 1 | 2026-11-11 |  |
-| [farookhridoy/bizz-approval-matrix](https://github.com/farookhridoy/bizz-approval-matrix) | 1 | 2026-11-11 | Shared approval matrix engine + admin UI (Laravel package) f... |
-| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-11 | Daywatch Laravel package to integrate into collecting events... |
-| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 113 | 2026-11-11 | A package to easily make use of Lucide Icons in your Laravel... |
-| [enriqueleondev/marcaje-app](https://github.com/enriqueleondev/marcaje-app) | 0 | 2026-11-11 | Marcaje: pase de lista para escuelas con credenciales QR y N... |
-| [monooso/apposite](https://github.com/monooso/apposite) | 34 | 2026-11-11 | Conditionally apply Laravel validation rules, even when you ... |
-| [ubayedtanvir/laravel-tenancy](https://github.com/ubayedtanvir/laravel-tenancy) | 2 | 2026-11-11 | Single-database multi-tenancy for Laravel that fails closed—... |
-| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-11-11 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
-| [happenv-com/filament-enhanced-charts](https://github.com/happenv-com/filament-enhanced-charts) | 2 | 2026-11-11 | Apache ECharts for Filament panels - from sankeys to calenda... |
-| [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | 195 | 2026-11-11 | Full genealogy and family tree building application using La... |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-11 | Identity and access management for Laravel: installs the aut... |
-| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-11-11 | A collection of Dockerfile examples for various programming ... |
+| [Marin-Solutions/checkybot-laravel](https://github.com/Marin-Solutions/checkybot-laravel) | 0 | 2026-11-11 | Laravel package for CheckyBot monitoring integration |
+| [roundly-consulting/lifecycle-for-laravel](https://github.com/roundly-consulting/lifecycle-for-laravel) | 10 | 2026-11-11 | Status lifecycles for Eloquent models: guarded named transit... |
+| [Grazulex/laravel-devtoolbox](https://github.com/Grazulex/laravel-devtoolbox) | 155 | 2026-11-11 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debu... |
+| [Grazulex/laravel-configrypt](https://github.com/Grazulex/laravel-configrypt) | 6 | 2026-11-11 | 🔏 Laravel Configrypt lets you encrypt secrets directly in y... |
+| [hypertractor/laravel-eet](https://github.com/hypertractor/laravel-eet) | 2 | 2026-11-11 | Laravel package for Czech EET 2.0 electronic sales registrat... |
+| [MGeurts/genealogy](https://github.com/MGeurts/genealogy) | 373 | 2026-11-11 | Genealogy is a free and open-source family tree PHP applicat... |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-11-11 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [m77mdabdo/riyadat_al_jawhara](https://github.com/m77mdabdo/riyadat_al_jawhara) | 0 | 2026-11-11 | Bilingual (Arabic/English) website, stone catalogue, CRM and... |
+| [Enadabuzaid/laravel-action-logger](https://github.com/Enadabuzaid/laravel-action-logger) | 0 | 2026-11-11 | A clean, reusable Action Logger / Audit Log package for Lara... |
+| [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 27 | 2026-11-11 | Observability for AI and LLM calls in Laravel. Automatically... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-11 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [libin-k-k/permission](https://github.com/libin-k-k/permission) | 8 | 2026-11-11 | Production-grade Laravel authorization & permissions package... |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-11 | Laravel package to create administration dashboards |
+| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-11-11 | Package to manage medias within Laravel |
+| [milwad-dev/laravel-validate-filament](https://github.com/milwad-dev/laravel-validate-filament) | 1 | 2026-11-11 | The Laravel-Validate-Filament package brings Laravel-Validat... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-11 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 117 | 2026-11-11 | A Laravel package for versioned AI prompt management with va... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-11-11 | Provides email verification on the go. |
+| [packstub/session-replay](https://github.com/packstub/session-replay) | 52 | 2026-11-11 | Session replay for Laravel, built on rrweb: a recorder with ... |
+| [packstub/filament-session-replay](https://github.com/packstub/filament-session-replay) | 10 | 2026-11-11 | Session replay inside a Filament v5 panel, built on rrweb an... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-11T12:29 | 4 | 1721 | 8022 |
 | 2026-11-11T06:33 | 2 | 1725 | 8018 |
 | 2026-11-11T00:41 | 4 | 1724 | 8016 |
 | 2026-11-10T18:25 | 5 | 1728 | 8012 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-09T18:26 | 12 | 1719 | 7994 |
 | 2026-11-09T12:29 | 7 | 1724 | 7982 |
 | 2026-11-09T06:41 | 3 | 1728 | 7975 |
-| 2026-11-09T00:44 | 10 | 1719 | 7973 |
 
 ---
 

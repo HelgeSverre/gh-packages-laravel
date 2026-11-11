@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8016  
-**Last updated:** 2026-11-11T00:41:58.312Z
+**Total packages tracked:** 8018  
+**Last updated:** 2026-11-11T06:33:10.605Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [enriqueleondev/marcaje-app](https://github.com/enriqueleondev/marcaje-app) | 0 | Marcaje: pase de lista para escuelas con credenciales QR y NFC (Laravel 13 + Liv... |
+| [TobyMaxham/laravel-dkim](https://github.com/TobyMaxham/laravel-dkim) | 2 | A package can enable DKIM for your Laravel mails. |
 | [jackbayliss/laravel-config-drift](https://github.com/jackbayliss/laravel-config-drift) | 1 |  Detect missing and outdated keys in your published Laravel config files after u... |
 | [meirdick/auto-search-chips](https://github.com/meirdick/auto-search-chips) | 0 | Natural-language search for Eloquent models, shown as filter chips the user can ... |
 | [Labyrinthe-Team/labyrinthe-connect-sdks](https://github.com/Labyrinthe-Team/labyrinthe-connect-sdks) | 0 | Official SDKs and integrations for the Labyrinthe Connect SMS & OTP API |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cabocom/jg_dashboard](https://github.com/cabocom/jg_dashboard) | 0 | [Mirror from GitLab] Plano de control, observabilidad, trazabilidad distribuida ... |
 | [apavliukov/laravel-authorization](https://github.com/apavliukov/laravel-authorization) | 0 | Reusable authorization layer for Laravel on spatie/laravel-permission: CRUD abil... |
 | [TobyMaxham/laravel-properties](https://github.com/TobyMaxham/laravel-properties) | 0 | Flexible JSON properties for Eloquent models: defaults, casts, enums, encryption... |
-| [Pharaonic/laravel-settings](https://github.com/Pharaonic/laravel-settings) | 7 | Typed application settings for Laravel, stored through an Eloquent Setting model... |
-| [marekmiklusek/laravel-slack-errors](https://github.com/marekmiklusek/laravel-slack-errors) | 2 | Send every reported exception from your Laravel app straight to a Slack channel. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-11 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [aliziodev/laravel-taxonomy](https://github.com/aliziodev/laravel-taxonomy) | 246 | 2026-11-11 | Laravel package for managing taxonomies, categories, tags, a... |
-| [jtylek/EpesiCRM](https://github.com/jtylek/EpesiCRM) | 43 | 2026-11-11 | Open-source CRM and a kickstarter for custom ERP systems bui... |
-| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | 2026-11-11 | Open-source, self-hosted video processing & delivery engine ... |
+| [radumro/LaravelPackage](https://github.com/radumro/LaravelPackage) | 0 | 2026-11-11 | Laravel Package Skeleton |
+| [navi-crwn/hop-safety](https://github.com/navi-crwn/hop-safety) | 0 | 2026-11-11 | URL and content safety rules for the HOP family as one Larav... |
+| [navi-crwn/hop-auth](https://github.com/navi-crwn/hop-auth) | 0 | 2026-11-11 | Laravel client for HOP ID, the single sign-on of the HOP fam... |
 | [WazobiaMail/wazobiamail-laravel](https://github.com/WazobiaMail/wazobiamail-laravel) | 0 | 2026-11-11 | Official WazobiaMail Laravel package with ServiceProvider, F... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-11 | Automated code analysis for Laravel applications with 73 ope... |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-11 | WELD's fleet scanner: every app answers present with its PHP... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 79 | 2026-11-11 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [jackbayliss/laravel-config-drift](https://github.com/jackbayliss/laravel-config-drift) | 1 | 2026-11-11 |  Detect missing and outdated keys in your published Laravel ... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-11-11 | Lightweight toolkit for modular development in Laravel, for ... |
-| [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 2026-11-11 | 🔐 Configurable security checks for Laravel applications. Ru... |
+| [todperman/hybridssw](https://github.com/todperman/hybridssw) | 0 | 2026-11-11 | ระบบจองชั่วโมงเทรน Srisawan Hybrid Workout — Laravel 12 + Li... |
+| [hanzala-afzal-dev/laravel-dynamic-throttle](https://github.com/hanzala-afzal-dev/laravel-dynamic-throttle) | 3 | 2026-11-11 | Runtime-managed, identity-aware rate limiting for Laravel: c... |
+| [cable8mm/laravel-portone](https://github.com/cable8mm/laravel-portone) | 0 | 2026-11-11 | 한국의 PG사 포트원(PortOne) V2 단건 결제를 위한 Laravel 패키지입니다. Laravel Ca... |
+| [jonangelo18gpca/laravel-gpca-networking](https://github.com/jonangelo18gpca/laravel-gpca-networking) | 1 | 2026-11-11 |  |
+| [farookhridoy/bizz-approval-matrix](https://github.com/farookhridoy/bizz-approval-matrix) | 1 | 2026-11-11 | Shared approval matrix engine + admin UI (Laravel package) f... |
+| [SATI-Services/daywatch-agent](https://github.com/SATI-Services/daywatch-agent) | 0 | 2026-11-11 | Daywatch Laravel package to integrate into collecting events... |
+| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 113 | 2026-11-11 | A package to easily make use of Lucide Icons in your Laravel... |
+| [enriqueleondev/marcaje-app](https://github.com/enriqueleondev/marcaje-app) | 0 | 2026-11-11 | Marcaje: pase de lista para escuelas con credenciales QR y N... |
+| [monooso/apposite](https://github.com/monooso/apposite) | 34 | 2026-11-11 | Conditionally apply Laravel validation rules, even when you ... |
+| [ubayedtanvir/laravel-tenancy](https://github.com/ubayedtanvir/laravel-tenancy) | 2 | 2026-11-11 | Single-database multi-tenancy for Laravel that fails closed—... |
+| [mikeyperes/laravel-hexa-package-wptoolkit](https://github.com/mikeyperes/laravel-hexa-package-wptoolkit) | 0 | 2026-11-11 | HWS Package: cPanel WP Toolkit integration (WordPress instal... |
+| [happenv-com/filament-enhanced-charts](https://github.com/happenv-com/filament-enhanced-charts) | 2 | 2026-11-11 | Apache ECharts for Filament panels - from sankeys to calenda... |
+| [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | 195 | 2026-11-11 | Full genealogy and family tree building application using La... |
 | [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-11 | Identity and access management for Laravel: installs the aut... |
-| [kaizerenrique/SistemaGremioLinhir](https://github.com/kaizerenrique/SistemaGremioLinhir) | 0 | 2026-11-10 | Gremio Linhir |
-| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | 2026-11-10 | A consumer-agent voting ledger for major package changes: a ... |
-| [Users-au/socialite-provider](https://github.com/Users-au/socialite-provider) | 0 | 2026-11-10 | Laravel Socialite OAuth2 provider for Users.au (driver 'user... |
-| [Users-au/laravel-client](https://github.com/Users-au/laravel-client) | 1 | 2026-11-10 | Laravel OAuth 2.0 / SSO client for Users.au: login, registra... |
-| [cboxdk/laravel-console-kit](https://github.com/cboxdk/laravel-console-kit) | 0 | 2026-11-10 | Extension hooks (nav, feature gates, UI slots, dashboard car... |
-| [pushery/sanctum-hardening-for-laravel](https://github.com/pushery/sanctum-hardening-for-laravel) | 1 | 2026-11-10 | Hardens Laravel Sanctum: token abilities without a wildcard,... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-10 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [Real-Edge-FX/martis-package](https://github.com/Real-Edge-FX/martis-package) | 5 | 2026-11-10 | Martis — Laravel Admin Engine. A modern, override-first admi... |
+| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-11-11 | A collection of Dockerfile examples for various programming ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-11T06:33 | 2 | 1725 | 8018 |
 | 2026-11-11T00:41 | 4 | 1724 | 8016 |
 | 2026-11-10T18:25 | 5 | 1728 | 8012 |
 | 2026-11-10T12:28 | 4 | 1727 | 8007 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-09T12:29 | 7 | 1724 | 7982 |
 | 2026-11-09T06:41 | 3 | 1728 | 7975 |
 | 2026-11-09T00:44 | 10 | 1719 | 7973 |
-| 2026-11-08T18:23 | 9 | 1715 | 7963 |
 
 ---
 

@@ -2,15 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8051  
-**Last updated:** 2026-11-12T12:30:44.483Z
+**Total packages tracked:** 8056  
+**Last updated:** 2026-11-12T18:26:20.367Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [DarioDidonna/presto_dario_didonna](https://github.com/DarioDidonna/presto_dario_didonna) | 0 | Classifieds marketplace in Laravel 13 + Livewire with a local AI agent (Python, ... |
+| [christiaanschmid/daily-updates](https://github.com/christiaanschmid/daily-updates) | 0 | Log your workday and share it at the morning huddle |
+| [fermatacordis-create/draco-insomnis](https://github.com/fermatacordis-create/draco-insomnis) | 0 | Ab insomni custodita dracone. Open-source security by Notorius Vision for WordPr... |
+| [Pharaonic/laravel-favorites](https://github.com/Pharaonic/laravel-favorites) | 0 | Polymorphic favorites for Laravel Eloquent models: CanFavorite and HasFavorites ... |
+| [boldlinestudios/laravel-revenuecat-api](https://github.com/boldlinestudios/laravel-revenuecat-api) | 1 | A package for Laravel backends to integrate with RevenueCat API v2 via typed met... |
 | [solutionforest/laravel-recommender](https://github.com/solutionforest/laravel-recommender) | 3 | Simple recommendation engine for Laravel — self-hosted for-you feeds (collaborat... |
-| [Pharaonic/laravel-deep-replicate](https://github.com/Pharaonic/laravel-deep-replicate) | 0 | Deep replicate Eloquent models: copy a chosen relationship graph (has-one/many, ... |
+| [Pharaonic/laravel-deep-replicate](https://github.com/Pharaonic/laravel-deep-replicate) | 0 | Deep replicate and clone Laravel Eloquent models with their relationships, pivot... |
 | [bhekor/laravel-opay](https://github.com/bhekor/laravel-opay) | 0 | A Laravel package for integrating OPay Checkout payment APIs |
 | [Intermax-Cloudsourcing/blur](https://github.com/Intermax-Cloudsourcing/blur) | 1 | Package for Laravel to help obfuscate your database |
 | [vbushuev/laravel-mattermost](https://github.com/vbushuev/laravel-mattermost) | 0 | Laravel mattermost integration package |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [folkloreinc/eloquent-picturable](https://github.com/folkloreinc/eloquent-picturable) | 3 | Laravel 4 and 5 package to add pictures capabilities to Eloquent Models |
 | [folkloreinc/eloquent-localizable](https://github.com/folkloreinc/eloquent-localizable) | 5 | Laravel 4 and 5 package to add localization capabilities to Eloquent Models |
 | [folkloreinc/laravel-pages](https://github.com/folkloreinc/laravel-pages) | 5 | Laravel 4 and 5 package containing models dealing with pages and blocks content. |
-| [blemli/splitbutton-for-filament](https://github.com/blemli/splitbutton-for-filament) | 0 | The button that adapts to how you work. |
-| [atendwa/filament-feedback](https://github.com/atendwa/filament-feedback) | 0 | Feedback for Filament apps: a public form with anonymous or named submissions, a... |
-| [atendwa/filament-page-guide](https://github.com/atendwa/filament-page-guide) | 0 | A "Guide" button and modal for Filament pages, showing a Blade view that explain... |
-| [skillLeo/summit-uae](https://github.com/skillLeo/summit-uae) | 0 | Trilingual (English, Arabic RTL, Russian) website for Summit Legal Consultancy, ... |
-| [DarioDidonna/barbershop-booking](https://github.com/DarioDidonna/barbershop-booking) | 0 | Barbershop booking system in Laravel 13 and Livewire: no double bookings under c... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Pharaonic/laravel-deep-replicate](https://github.com/Pharaonic/laravel-deep-replicate) | 0 | 2026-11-12 | Deep replicate Eloquent models: copy a chosen relationship g... |
+| [filagora/filagora-core](https://github.com/filagora/filagora-core) | 0 | 2026-11-12 | Filagora core: module registry, settings and shared support ... |
 | [solutionforest/laravel-recommender](https://github.com/solutionforest/laravel-recommender) | 3 | 2026-11-12 | Simple recommendation engine for Laravel — self-hosted for-y... |
-| [RobTrehy/LaravelApplicationSettings](https://github.com/RobTrehy/LaravelApplicationSettings) | 0 | 2026-11-12 | A package for Laravel to store Application Settings |
-| [RobTrehy/LaravelUserPreferences](https://github.com/RobTrehy/LaravelUserPreferences) | 3 | 2026-11-12 | A package for Laravel to store user preferences for your pro... |
-| [mahbubhelal/sync-env](https://github.com/mahbubhelal/sync-env) | 0 | 2026-11-12 | A Laravel package to manage .env files and keep them in sync... |
-| [radumro/LaravelPackage](https://github.com/radumro/LaravelPackage) | 0 | 2026-11-12 | Laravel Package Skeleton |
+| [ichava/core](https://github.com/ichava/core) | 0 | 2026-11-12 | Core engine for the Ichava Laravel icon ecosystem. Services,... |
+| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-11-12 | Digitalización del trámite de incorporación de escuelas ante... |
+| [lyrixx/nativella-laravel](https://github.com/lyrixx/nativella-laravel) | 0 | 2026-11-12 | [READ-ONLY] Subtree split of packages/laravel (nativella/lar... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-12 | Identity and access management for Laravel: installs the aut... |
+| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 3 | 2026-11-12 | A fast Gantt chart and resource timeline for Filament: any E... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-12 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [christiaanschmid/daily-updates](https://github.com/christiaanschmid/daily-updates) | 0 | 2026-11-12 | Log your workday and share it at the morning huddle |
+| [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | 194 | 2026-11-12 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [kauffinger/livewire-chat](https://github.com/kauffinger/livewire-chat) | 54 | 2026-11-12 | Laravel Livewire Chat UI Starter Kit |
+| [fermatacordis-create/draco-insomnis](https://github.com/fermatacordis-create/draco-insomnis) | 0 | 2026-11-12 | Ab insomni custodita dracone. Open-source security by Notori... |
 | [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-11-12 | Main Webampp laravel package for GEOBOX 2.0 |
-| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-11-12 | Provides email verification on the go. |
-| [foxws/laravel-pwa](https://github.com/foxws/laravel-pwa) | 1 | 2026-11-12 | PWA manifest and Blade directives for Laravel. Make your app... |
+| [boldlinestudios/laravel-revenuecat-api](https://github.com/boldlinestudios/laravel-revenuecat-api) | 1 | 2026-11-12 | A package for Laravel backends to integrate with RevenueCat ... |
+| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 3 | 2026-11-12 | Open-source web hosting control panel for Ubuntu servers, wi... |
 | [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-12 | Concrete implementations of the 9 domain interfaces from nvo... |
-| [Grazulex/laravel-sharelink](https://github.com/Grazulex/laravel-sharelink) | 128 | 2026-11-12 | 🔐 Generate, manage, and secure temporary share links for fi... |
-| [khaledtarek54/threadwire-laravel](https://github.com/khaledtarek54/threadwire-laravel) | 0 | 2026-11-12 | Official Laravel package for Threadwire: send WhatsApp messa... |
-| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-11-12 | Official Laravel package for VeliraPay crypto payments: a fa... |
-| [mainstaycms/mainstay](https://github.com/mainstaycms/mainstay) | 2 | 2026-11-12 | A CMS for Laravel: content modelled in PHP, built in a Blade... |
-| [bhekor/laravel-opay](https://github.com/bhekor/laravel-opay) | 0 | 2026-11-12 | A Laravel package for integrating OPay Checkout payment APIs |
-| [Grazulex/laravel-snapshot](https://github.com/Grazulex/laravel-snapshot) | 10 | 2026-11-12 | 📸 Track, store and compare snapshots of your Eloquent model... |
-| [NyonCode/laravel-package-console](https://github.com/NyonCode/laravel-package-console) | 0 | 2026-11-12 | Console for build laravel package. |
-| [Grazulex/laravel-devtoolbox](https://github.com/Grazulex/laravel-devtoolbox) | 155 | 2026-11-12 | 🛠️ Swiss-army artisan CLI for Laravel — Scan, inspect, debu... |
-| [Grazulex/laravel-configrypt](https://github.com/Grazulex/laravel-configrypt) | 6 | 2026-11-12 | 🔏 Laravel Configrypt lets you encrypt secrets directly in y... |
+| [xalaad/laravel_modules](https://github.com/xalaad/laravel_modules) | 0 | 2026-11-12 | Laravel Modules Package, with more flexibility to manage str... |
+| [immachakata/ci4-facades](https://github.com/immachakata/ci4-facades) | 1 | 2026-11-12 | A lightweight PHP package for CodeIgniter 4 that brings clea... |
+| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-11-12 | Somente leitura — espelho de packages/installer do monorepo ... |
+| [kelvindk9w/twstec-kit-webhooks](https://github.com/kelvindk9w/twstec-kit-webhooks) | 0 | 2026-11-12 | Somente leitura — espelho de packages/webhooks do monorepo k... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-12T18:26 | 5 | 1714 | 8056 |
 | 2026-11-12T12:30 | 4 | 1719 | 8051 |
 | 2026-11-12T06:33 | 1 | 1722 | 8047 |
 | 2026-11-12T00:43 | 10 | 1713 | 8046 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-11T00:41 | 4 | 1724 | 8016 |
 | 2026-11-10T18:25 | 5 | 1728 | 8012 |
 | 2026-11-10T12:28 | 4 | 1727 | 8007 |
-| 2026-11-10T06:32 | 0 | 1730 | 8004 |
 
 ---
 

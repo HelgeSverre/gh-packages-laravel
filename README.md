@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8046  
-**Last updated:** 2026-11-12T00:43:21.512Z
+**Total packages tracked:** 8047  
+**Last updated:** 2026-11-12T06:33:35.800Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [vbushuev/laravel-mattermost](https://github.com/vbushuev/laravel-mattermost) | 0 | Laravel mattermost integration package |
 | [VeeCaprio/helpdesk](https://github.com/VeeCaprio/helpdesk) | 1 | HelpDesk — role-aware ticket management system built with Laravel 12 and Filamen... |
 | [ChrisAbner/Cordon-Modulith](https://github.com/ChrisAbner/Cordon-Modulith) | 3 | Cordon off your modules: verifiable boundaries between modules in Laravel applic... |
 | [NemanjaIlic/temporarily-deactivator](https://github.com/NemanjaIlic/temporarily-deactivator) | 0 | Laravel package to temporarily deactivate Eloquent models for a chosen amount of... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [hibira-io/pulse](https://github.com/hibira-io/pulse) | 0 | Laravel Pulse card for Hibira connections and usage |
 | [hibira-io/laravel-live-chat](https://github.com/hibira-io/laravel-live-chat) | 0 | Hibira Live Chat for Laravel: one Blade component, verified signed-in users |
 | [hibira-io/livewire](https://github.com/hibira-io/livewire) | 0 | Realtime Livewire components on Hibira: who's online, connection status, job pro... |
-| [laranail/waitlist-kit](https://github.com/laranail/waitlist-kit) | 0 | Waitlists, coming-soon and early-access pages for Laravel: lead capture and conv... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [rbmowatt/base](https://github.com/rbmowatt/base) | 1 | 2026-11-12 | Laravel 13 REST API scaffolding. Extend a Service, Model and... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 80 | 2026-11-12 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [leonardo-max/new-here](https://github.com/leonardo-max/new-here) | 1 | 2026-11-12 | Show each Filament user what's new right where it lives: pul... |
-| [spdotdev/scuttlemail-dev](https://github.com/spdotdev/scuttlemail-dev) | 0 | 2026-11-12 | Laravel site-package for scuttlemail.dev, mounted into sd-ad... |
-| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | 2026-11-12 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Bu... |
-| [laranail/waitlist-kit](https://github.com/laranail/waitlist-kit) | 0 | 2026-11-12 | Waitlists, coming-soon and early-access pages for Laravel: l... |
-| [ichava/icon-sets-extras](https://github.com/ichava/icon-sets-extras) | 0 | 2026-11-12 | 43,561 SVG icons from 20 open-source sets for Laravel, serve... |
+| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 99 | 2026-11-12 | A Filament package to manage adjacency lists (aka trees). |
+| [vbushuev/laravel-mattermost](https://github.com/vbushuev/laravel-mattermost) | 0 | 2026-11-12 | Laravel mattermost integration package |
+| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-11-12 | A Laravel package as a backend administrating tool for Conte... |
+| [moztopia/moztopia-notifications](https://github.com/moztopia/moztopia-notifications) | 0 | 2026-11-12 | Laravel push notifications with Android FCM and direct iOS A... |
+| [9in-io/laravel](https://github.com/9in-io/laravel) | 3 | 2026-11-12 | 9in for Laravel: OpenID Connect sign-in, an auth guard that ... |
+| [jintack81/laravel-date-scopes](https://github.com/jintack81/laravel-date-scopes) | 0 | 2026-11-12 | A Laravel package for date-based Eloquent scopes. |
+| [Pharaonic/laravel-notification-dependencies](https://github.com/Pharaonic/laravel-notification-dependencies) | 0 | 2026-11-12 | Delete Laravel database notifications automatically when any... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-12 | Identity and access management for Laravel: installs the aut... |
+| [shadetheory/github-client](https://github.com/shadetheory/github-client) | 3 | 2026-11-12 | A Github client that plays nice with Laravel |
+| [yahyakhalid/watsy-laravel](https://github.com/yahyakhalid/watsy-laravel) | 8 | 2026-11-12 | Official Laravel package for Watsy: OTP verification codes o... |
+| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-11-12 | A collection of Dockerfile examples for various programming ... |
+| [SameOldNick/laravel-notification-preferences](https://github.com/SameOldNick/laravel-notification-preferences) | 0 | 2026-11-12 | A Laravel package for managing user notification preferences... |
 | [skybleak333/hindsight-php](https://github.com/skybleak333/hindsight-php) | 0 | 2026-11-12 | PHP client for Hindsight agent memory: long-term memory for ... |
-| [NemanjaIlic/temporarily-deactivator](https://github.com/NemanjaIlic/temporarily-deactivator) | 0 | 2026-11-12 | Laravel package to temporarily deactivate Eloquent models fo... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 473 | 2026-11-11 | Open Source Laravel CRM Package |
-| [jeffersongoncalves/nativekit](https://github.com/jeffersongoncalves/nativekit) | 2 | 2026-11-11 | NativeKit starter kit built on Laravel 13.x, Filament 3.x an... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-11 | Automated code analysis for Laravel applications with 73 ope... |
-| [VeeCaprio/helpdesk](https://github.com/VeeCaprio/helpdesk) | 1 | 2026-11-11 | HelpDesk — role-aware ticket management system built with La... |
-| [maxkhim/laravel-storage-dedupler](https://github.com/maxkhim/laravel-storage-dedupler) | 54 | 2026-11-11 | Laravel package to prevent file duplications |
-| [jeffersongoncalves/filament-plugin-cli](https://github.com/jeffersongoncalves/filament-plugin-cli) | 1 | 2026-11-11 | Scaffold new open-source Filament plugins with multi-branch ... |
-| [Lomkit/laravel-osdd](https://github.com/Lomkit/laravel-osdd) | 10 | 2026-11-11 | Split your Laravel app into domain modules: one Composer pac... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-11 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [zipavlin/redline-laravel](https://github.com/zipavlin/redline-laravel) | 1 | 2026-11-11 | A Laravel package that adds a local, on-page bug-reporting t... |
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 168 | 2026-11-11 | Filament plugin that allows to add dynamic, user-defined for... |
-| [a4hmad1/artisan-pilot](https://github.com/a4hmad1/artisan-pilot) | 0 | 2026-11-11 | One modular CLI for Laravel Artisan, Sail, Pail and installe... |
+| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | 2026-11-12 | A consumer-agent voting ledger for major package changes: a ... |
+| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 113 | 2026-11-12 | A package to easily make use of Lucide Icons in your Laravel... |
+| [benhartwich/leihregal](https://github.com/benhartwich/leihregal) | 0 | 2026-11-12 | Medienbibliothek mit Ausleihe, Reservierung und KI-gestützte... |
+| [xalaad/laravel_modules](https://github.com/xalaad/laravel_modules) | 0 | 2026-11-12 | Laravel Modules Package, with more flexibility to manage str... |
+| [virtunus/frdb-notification](https://github.com/virtunus/frdb-notification) | 0 | 2026-11-12 | Laravel package for firebase realtime database notification |
+| [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | 2026-11-12 | Self-hosted, first-party analytics for Laravel: page views, ... |
+| [zvizvi/filament-column-filters](https://github.com/zvizvi/filament-column-filters) | 21 | 2026-11-12 | Bring familiar Excel-style filtering to your Filament tables... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-12T06:33 | 1 | 1722 | 8047 |
 | 2026-11-12T00:43 | 10 | 1713 | 8046 |
 | 2026-11-11T18:25 | 14 | 1709 | 8036 |
 | 2026-11-11T12:29 | 4 | 1721 | 8022 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-10T12:28 | 4 | 1727 | 8007 |
 | 2026-11-10T06:32 | 0 | 1730 | 8004 |
 | 2026-11-10T00:40 | 10 | 1721 | 8004 |
-| 2026-11-09T18:26 | 12 | 1719 | 7994 |
 
 ---
 

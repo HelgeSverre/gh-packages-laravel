@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8060  
-**Last updated:** 2026-11-13T06:32:46.801Z
+**Total packages tracked:** 8068  
+**Last updated:** 2026-11-13T12:29:08.935Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [DarioDidonna/presto-ai-marketplace](https://github.com/DarioDidonna/presto-ai-marketplace) | 0 | Classifieds marketplace in Laravel 13 + Livewire with a local AI agent (Python, ... |
+| [Pharaonic/laravel-bookmarks](https://github.com/Pharaonic/laravel-bookmarks) | 1 | Polymorphic bookmarks for Laravel Eloquent models, with JSON-object metadata: Ca... |
+| [initred/laravel-langfuse](https://github.com/initred/laravel-langfuse) | 0 | Langfuse PHP SDK for Laravel, built for the Laravel AI SDK |
+| [mohiodindev/citewidget-laravel](https://github.com/mohiodindev/citewidget-laravel) | 0 | Laravel package for the CiteWidget embeddable chat widget: Blade component, @cit... |
+| [Nuvori-B-V/aom-client](https://github.com/Nuvori-B-V/aom-client) | 0 | nuvori/aom-client: Laravel package that reports errors, health, versions and fee... |
+| [kkboranbay/backpack-export](https://github.com/kkboranbay/backpack-export) | 6 | A Laravel package to export data from Backpack admin panel list pages and send i... |
+| [tomaraoo/laravel-attachment](https://github.com/tomaraoo/laravel-attachment) | 0 | Single source of truth transactional file attachment package and Yii2-style atta... |
+| [anilcancakir/magic-starter-laravel](https://github.com/anilcancakir/magic-starter-laravel) | 1 | Magic Framework Laravel backend starter package. |
 | [tomatophp/filament-plugins](https://github.com/tomatophp/filament-plugins) | 66 | Manage your modules as a plugin system with plugin generator |
 | [Mastoor2002/leakwatch](https://github.com/Mastoor2002/leakwatch) | 0 | Security exposure monitor for Laravel sites — finds exposed .env/.git, debug mod... |
 | [djordjeveljkovic/gateway-login](https://github.com/djordjeveljkovic/gateway-login) | 0 | Laravel package: put an app behind the New Login gateway |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [boldlinestudios/laravel-revenuecat-api](https://github.com/boldlinestudios/laravel-revenuecat-api) | 1 | A package for Laravel backends to integrate with RevenueCat API v2 via typed met... |
 | [solutionforest/laravel-recommender](https://github.com/solutionforest/laravel-recommender) | 3 | Simple recommendation engine for Laravel — self-hosted for-you feeds (collaborat... |
 | [Pharaonic/laravel-deep-replicate](https://github.com/Pharaonic/laravel-deep-replicate) | 0 | Deep replicate and clone Laravel Eloquent models with their relationships, pivot... |
-| [bhekor/laravel-opay](https://github.com/bhekor/laravel-opay) | 0 | A Laravel package for integrating OPay Checkout payment APIs |
-| [Intermax-Cloudsourcing/blur](https://github.com/Intermax-Cloudsourcing/blur) | 1 | Package for Laravel to help obfuscate your database |
-| [vbushuev/laravel-mattermost](https://github.com/vbushuev/laravel-mattermost) | 0 | Laravel mattermost integration package |
-| [VeeCaprio/helpdesk](https://github.com/VeeCaprio/helpdesk) | 1 | HelpDesk — role-aware ticket management system built with Laravel 12 and Filamen... |
-| [ChrisAbner/Cordon-Modulith](https://github.com/ChrisAbner/Cordon-Modulith) | 3 | Cordon off your modules: verifiable boundaries between modules in Laravel applic... |
-| [NemanjaIlic/temporarily-deactivator](https://github.com/NemanjaIlic/temporarily-deactivator) | 0 | Laravel package to temporarily deactivate Eloquent models for a chosen amount of... |
-| [Lomkit/laravel-osdd](https://github.com/Lomkit/laravel-osdd) | 10 | Split your Laravel app into domain modules: one Composer package per domain, wit... |
-| [a4hmad1/artisan-pilot](https://github.com/a4hmad1/artisan-pilot) | 0 | One modular CLI for Laravel Artisan, Sail, Pail and installed package commands. ... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | 195 | 2026-11-13 | Full genealogy and family tree building application using La... |
+| [foxws/laravel-scout-builder](https://github.com/foxws/laravel-scout-builder) | 3 | 2026-11-13 | Easily build Scout queries from API requests |
+| [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 124 | 2026-11-13 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [promptphp/deck](https://github.com/promptphp/deck) | 116 | 2026-11-13 | A Laravel package for versioned AI prompt management with va... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 31 | 2026-11-13 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [jtylek/EpesiCRM](https://github.com/jtylek/EpesiCRM) | 43 | 2026-11-13 | Open-source CRM and a kickstarter for custom ERP systems bui... |
+| [WazobiaMail/wazobiamail-laravel](https://github.com/WazobiaMail/wazobiamail-laravel) | 0 | 2026-11-13 | Official WazobiaMail Laravel package with ServiceProvider, F... |
+| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 422 | 2026-11-13 | Laravel Kanban boards with intelligent pagination, drag-and-... |
+| [Baspa/laravel-timezones](https://github.com/Baspa/laravel-timezones) | 2 | 2026-11-13 | This package offers a convenient solution for Laravel develo... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-13 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 209 | 2026-11-13 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 41 | 2026-11-13 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
-| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 172 | 2026-11-13 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [liberusoftware/project-maintenance-laravel-filament](https://github.com/liberusoftware/project-maintenance-laravel-filament) | 73 | 2026-11-13 | CMMS - Computerised maintenance management system applicatio... |
-| [fermatacordis-create/draco-insomnis](https://github.com/fermatacordis-create/draco-insomnis) | 0 | 2026-11-13 | Ab insomni custodita dracone. Open-source security by Notori... |
-| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-11-13 | A Laravel package as a backend administrating tool for Conte... |
-| [crontinel/laravel](https://github.com/crontinel/laravel) | 0 | 2026-11-13 | Laravel package for Crontinel background job monitoring |
-| [cslant/github-project-php](https://github.com/cslant/github-project-php) | 7 | 2026-11-13 | Provides a simple and easy-to-use webhooks system to get the... |
-| [Mastoor2002/leakwatch](https://github.com/Mastoor2002/leakwatch) | 0 | 2026-11-13 | Security exposure monitor for Laravel sites — finds exposed ... |
-| [SachinPawaskarUNO/human-examinations](https://github.com/SachinPawaskarUNO/human-examinations) | 0 | 2026-11-13 | This package allows you to add human examinations & related ... |
-| [SameOldNick/laravel-notification-preferences](https://github.com/SameOldNick/laravel-notification-preferences) | 0 | 2026-11-13 | A Laravel package for managing user notification preferences... |
-| [solutionforest/laravel-recommender](https://github.com/solutionforest/laravel-recommender) | 3 | 2026-11-13 | Simple recommendation engine for Laravel — self-hosted for-y... |
-| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 112 | 2026-11-13 | A package to easily make use of Lucide Icons in your Laravel... |
-| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 45 | 2026-11-13 | Laravel için Mutlucell SMS Kütüphanesi |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-13 | Automated code analysis for Laravel applications with 73 ope... |
-| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-11-13 | Somente leitura — espelho de packages/installer do monorepo ... |
-| [kelvindk9w/twstec-kit-webhooks](https://github.com/kelvindk9w/twstec-kit-webhooks) | 0 | 2026-11-13 | Somente leitura — espelho de packages/webhooks do monorepo k... |
-| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-11-13 | Somente leitura — espelho de packages/admin do monorepo kelv... |
-| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-11-13 | Somente leitura — espelho de packages/uploads do monorepo ke... |
+| [tomatophp/filament-media-manager](https://github.com/tomatophp/filament-media-manager) | 148 | 2026-11-13 | Manage your media files using spatie media library with easy... |
+| [datalogix/laravel-sensible](https://github.com/datalogix/laravel-sensible) | 0 | 2026-11-13 | Laravel Sensible is a lightweight utility package for applyi... |
+| [datalogix/laravel-validation](https://github.com/datalogix/laravel-validation) | 3 | 2026-11-13 | Laravel Validation is a package the power of Respect Validat... |
+| [datalogix/laravel-utils](https://github.com/datalogix/laravel-utils) | 2 | 2026-11-13 | Laravel Utils is a package that configure simple things, whi... |
+| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 3 | 2026-11-13 | A fast Gantt chart and resource timeline for Filament: any E... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-13 | A Laravel package that provides flexible and extensible reso... |
+| [Grazulex/laravel-atlas](https://github.com/Grazulex/laravel-atlas) | 23 | 2026-11-13 | 🗺️ Laravel Atlas scans your Laravel project to generate a c... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-13 | Identity and access management for Laravel: installs the aut... |
+| [Grazulex/laravel-autobuilder](https://github.com/Grazulex/laravel-autobuilder) | 50 | 2026-11-13 | Visual automation builder for Laravel - Create workflows wit... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-13 | A lightweight, convention-driven modular architecture packag... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-13T12:29 | 8 | 1712 | 8068 |
 | 2026-11-13T06:32 | 3 | 1717 | 8060 |
 | 2026-11-13T00:42 | 2 | 1718 | 8057 |
 | 2026-11-12T18:26 | 5 | 1714 | 8056 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-11T18:25 | 14 | 1709 | 8036 |
 | 2026-11-11T12:29 | 4 | 1721 | 8022 |
 | 2026-11-11T06:33 | 2 | 1725 | 8018 |
-| 2026-11-11T00:41 | 4 | 1724 | 8016 |
 
 ---
 

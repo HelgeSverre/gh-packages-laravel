@@ -2330,5 +2330,28 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-11-10T12:28:20.279Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "andresfb/bookmarker": {
+    "name": "andresfb/bookmarker",
+    "url": "https://github.com/andresfb/bookmarker",
+    "description": "A Bookmark Management System",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "laravel",
+      "livewire",
+      "mysql",
+      "personal-project",
+      "php",
+      "tailwindcss"
+    ],
+    "language": "PHP",
+    "license": "AGPL-3.0",
+    "created_at": "2023-01-17T19:32:50Z",
+    "updated_at": "2025-11-12T19:32:10Z",
+    "pushed_at": "2025-11-12T19:31:57Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-11-13T00:42:54.203Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

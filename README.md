@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8057  
-**Last updated:** 2026-11-13T00:42:54.262Z
+**Total packages tracked:** 8060  
+**Last updated:** 2026-11-13T06:32:46.801Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tomatophp/filament-plugins](https://github.com/tomatophp/filament-plugins) | 66 | Manage your modules as a plugin system with plugin generator |
+| [Mastoor2002/leakwatch](https://github.com/Mastoor2002/leakwatch) | 0 | Security exposure monitor for Laravel sites — finds exposed .env/.git, debug mod... |
+| [djordjeveljkovic/gateway-login](https://github.com/djordjeveljkovic/gateway-login) | 0 | Laravel package: put an app behind the New Login gateway |
 | [web-media-group/borica](https://github.com/web-media-group/borica) | 0 | Borica AI Skill + Laravel Package |
 | [Flobbos/laravel-cm](https://github.com/Flobbos/laravel-cm) | 5 | A package for integrating campaign monitor API into your Laravel project. |
 | [DarioDidonna/presto_dario_didonna](https://github.com/DarioDidonna/presto_dario_didonna) | 0 | Classifieds marketplace in Laravel 13 + Livewire with a local AI agent (Python, ... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [NemanjaIlic/temporarily-deactivator](https://github.com/NemanjaIlic/temporarily-deactivator) | 0 | Laravel package to temporarily deactivate Eloquent models for a chosen amount of... |
 | [Lomkit/laravel-osdd](https://github.com/Lomkit/laravel-osdd) | 10 | Split your Laravel app into domain modules: one Composer package per domain, wit... |
 | [a4hmad1/artisan-pilot](https://github.com/a4hmad1/artisan-pilot) | 0 | One modular CLI for Laravel Artisan, Sail, Pail and installed package commands. ... |
-| [rydurham/Sentinel](https://github.com/rydurham/Sentinel) | 312 | A Sentry bridge package for Laravel |
-| [folkloreinc/eloquent-json-schema](https://github.com/folkloreinc/eloquent-json-schema) | 3 | Laravel package to add a new cast type to eloquent model so you can use JSON Sch... |
-| [folkloreinc/eloquent-picturable](https://github.com/folkloreinc/eloquent-picturable) | 3 | Laravel 4 and 5 package to add pictures capabilities to Eloquent Models |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [whilesmartphp/laravel-user-authentication](https://github.com/whilesmartphp/laravel-user-authentication) | 2 | 2026-11-13 | API-first user authentication for Laravel with support for O... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-13 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-13 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [relaticle/flowforge](https://github.com/relaticle/flowforge) | 422 | 2026-11-13 | Laravel Kanban boards with intelligent pagination, drag-and-... |
-| [ismailkorkmaz6806/alsepete](https://github.com/ismailkorkmaz6806/alsepete) | 0 | 2026-11-13 | Laravel 12, Livewire 3 ve Gemini AI ile geliştirilen çok sat... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-13 |  |
-| [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | 194 | 2026-11-13 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
-| [Team-Nifty-GmbH/forge-sdk](https://github.com/Team-Nifty-GmbH/forge-sdk) | 0 | 2026-11-13 | Laravel forge sdk using the saloon php package |
-| [P3D-Legacy/pokemon3d.net](https://github.com/P3D-Legacy/pokemon3d.net) | 15 | 2026-11-13 | Source code for the new pokemon3d.net website |
-| [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | 195 | 2026-11-12 | Full genealogy and family tree building application using La... |
-| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 41 | 2026-11-12 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
-| [199ocero/xelqun](https://github.com/199ocero/xelqun) | 0 | 2026-11-12 | A Filament-style stack for Laravel, Inertia.js and Vue 3. Bu... |
-| [HoceineEl/filament-keyboard-shortcuts](https://github.com/HoceineEl/filament-keyboard-shortcuts) | 5 | 2026-11-12 | Keyboard shortcuts for Filament panels: a ? cheat sheet, g-c... |
-| [mapo-89/laravel-homeassistant-api](https://github.com/mapo-89/laravel-homeassistant-api) | 1 | 2026-11-12 | Laravel package to work with the Home Assistant API. |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-11-12 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-11-12 | Official Laravel package for VeliraPay crypto payments: a fa... |
-| [sajusun/invoice](https://github.com/sajusun/invoice) | 0 | 2026-11-12 | Enterprise-ready Multi-Tenant Invoicing, Dynamic Stripe Subs... |
-| [SameOldNick/laravel-notification-preferences](https://github.com/SameOldNick/laravel-notification-preferences) | 0 | 2026-11-12 | A Laravel package for managing user notification preferences... |
-| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-12 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-12 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | 195 | 2026-11-13 | Full genealogy and family tree building application using La... |
+| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 209 | 2026-11-13 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 41 | 2026-11-13 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
+| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 172 | 2026-11-13 | Accounting application written in Laravel 13 / PHP 8.5 using... |
+| [liberusoftware/project-maintenance-laravel-filament](https://github.com/liberusoftware/project-maintenance-laravel-filament) | 73 | 2026-11-13 | CMMS - Computerised maintenance management system applicatio... |
+| [fermatacordis-create/draco-insomnis](https://github.com/fermatacordis-create/draco-insomnis) | 0 | 2026-11-13 | Ab insomni custodita dracone. Open-source security by Notori... |
+| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-11-13 | A Laravel package as a backend administrating tool for Conte... |
+| [crontinel/laravel](https://github.com/crontinel/laravel) | 0 | 2026-11-13 | Laravel package for Crontinel background job monitoring |
+| [cslant/github-project-php](https://github.com/cslant/github-project-php) | 7 | 2026-11-13 | Provides a simple and easy-to-use webhooks system to get the... |
+| [Mastoor2002/leakwatch](https://github.com/Mastoor2002/leakwatch) | 0 | 2026-11-13 | Security exposure monitor for Laravel sites — finds exposed ... |
+| [SachinPawaskarUNO/human-examinations](https://github.com/SachinPawaskarUNO/human-examinations) | 0 | 2026-11-13 | This package allows you to add human examinations & related ... |
+| [SameOldNick/laravel-notification-preferences](https://github.com/SameOldNick/laravel-notification-preferences) | 0 | 2026-11-13 | A Laravel package for managing user notification preferences... |
+| [solutionforest/laravel-recommender](https://github.com/solutionforest/laravel-recommender) | 3 | 2026-11-13 | Simple recommendation engine for Laravel — self-hosted for-y... |
+| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 112 | 2026-11-13 | A package to easily make use of Lucide Icons in your Laravel... |
+| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 45 | 2026-11-13 | Laravel için Mutlucell SMS Kütüphanesi |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-13 | Automated code analysis for Laravel applications with 73 ope... |
+| [kelvindk9w/twstec-kit-installer](https://github.com/kelvindk9w/twstec-kit-installer) | 0 | 2026-11-13 | Somente leitura — espelho de packages/installer do monorepo ... |
+| [kelvindk9w/twstec-kit-webhooks](https://github.com/kelvindk9w/twstec-kit-webhooks) | 0 | 2026-11-13 | Somente leitura — espelho de packages/webhooks do monorepo k... |
+| [kelvindk9w/twstec-kit-admin](https://github.com/kelvindk9w/twstec-kit-admin) | 0 | 2026-11-13 | Somente leitura — espelho de packages/admin do monorepo kelv... |
+| [kelvindk9w/twstec-kit-uploads](https://github.com/kelvindk9w/twstec-kit-uploads) | 0 | 2026-11-13 | Somente leitura — espelho de packages/uploads do monorepo ke... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-13T06:32 | 3 | 1717 | 8060 |
 | 2026-11-13T00:42 | 2 | 1718 | 8057 |
 | 2026-11-12T18:26 | 5 | 1714 | 8056 |
 | 2026-11-12T12:30 | 4 | 1719 | 8051 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-11T12:29 | 4 | 1721 | 8022 |
 | 2026-11-11T06:33 | 2 | 1725 | 8018 |
 | 2026-11-11T00:41 | 4 | 1724 | 8016 |
-| 2026-11-10T18:25 | 5 | 1728 | 8012 |
 
 ---
 

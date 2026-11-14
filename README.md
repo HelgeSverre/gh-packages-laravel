@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8088  
-**Last updated:** 2026-11-14T00:40:25.238Z
+**Total packages tracked:** 8090  
+**Last updated:** 2026-11-14T06:30:00.033Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [internetdata/sdk-php-laravel](https://github.com/internetdata/sdk-php-laravel) | 0 | Official Laravel middleware for the InternetData API. Attach each visitor's IP d... |
+| [muh-jamiu/telex-apm](https://github.com/muh-jamiu/telex-apm) | 0 | A simple APM package mainly for Laravel. |
 | [0-9g/laravel-ecommerce](https://github.com/0-9g/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
 | [Pharaonic/laravel-reacts](https://github.com/Pharaonic/laravel-reacts) | 0 | Polymorphic reactions for Laravel Eloquent models: CanReact and HasReactions tra... |
 | [phoenix1331/laravel-clorian](https://github.com/phoenix1331/laravel-clorian) | 0 | Confidence-aware typed decisions for Laravel models and input: let Jev make the ... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [MNONM-Software/Fiscal-Adapter](https://github.com/MNONM-Software/Fiscal-Adapter) | 0 | Laravel package to talk to fiscal authorities (ARCA, later SIFEN) behind a commo... |
 | [studio24/laravel-package-template](https://github.com/studio24/laravel-package-template) | 0 |  A repository template for Studio 24's open source Laravel packages |
 | [tomatophp/tomato-user-activities-module](https://github.com/tomatophp/tomato-user-activities-module) | 0 | Advanced logger is a laravel package used to automatically log every request mad... |
-| [tomatophp/laravel-package-generator](https://github.com/tomatophp/laravel-package-generator) | 8 | Generate your Laravel package with ease. |
-| [tomatophp/filament-notes-demo](https://github.com/tomatophp/filament-notes-demo) | 0 | Live Demo for Filament Sticky Note Package. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-14 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [solutionforest/laravel-recommender](https://github.com/solutionforest/laravel-recommender) | 3 | 2026-11-14 | Simple recommendation engine for Laravel — self-hosted for-y... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-14 | Identity and access management for Laravel: installs the aut... |
+| [Particle-Academy/fancy-compliance](https://github.com/Particle-Academy/fancy-compliance) | 0 | 2026-11-14 | Consent for Laravel: host-defined categories, an append-only... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-14 | A lightweight, convention-driven modular architecture packag... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-14 | A Laravel package that provides flexible and extensible reso... |
+| [kaziomarsh24/laravel-atomic-cache](https://github.com/kaziomarsh24/laravel-atomic-cache) | 5 | 2026-11-14 | Zero-headache, stampede-proof, and auto-invalidating caching... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-14 | Automated code analysis for Laravel applications with 73 ope... |
+| [Pharaonic/laravel-reacts](https://github.com/Pharaonic/laravel-reacts) | 0 | 2026-11-14 | Polymorphic reactions for Laravel Eloquent models: CanReact ... |
 | [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-14 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 12 | 2026-11-14 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
-| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 2 | 2026-11-14 | A self-hosted ActivityPub server implementation for Laravel ... |
-| [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 3 | 2026-11-14 | Filament admin resource for jeffersongoncalves/laravel-short... |
-| [Gallyan/md2spip](https://github.com/Gallyan/md2spip) | 0 | 2026-11-14 | Convertisseur Markdown vers SPIP en temps réel. Laravel 13 +... |
-| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 5 | 2026-11-14 | A Laravel package for creating and redirecting short URLs, w... |
-| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-14 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
-| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-11-14 | Sistema de gestão para centros espíritas: assistidos, agenda... |
-| [ali-hassan-dev/time-tracker](https://github.com/ali-hassan-dev/time-tracker) | 0 | 2026-11-14 | Laravel 13 + Livewire employee time tracker built for an Upw... |
+| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-14 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-14 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 6 | 2026-11-14 | Visual feedback for Laravel and Livewire with client-side sc... |
+| [gsferro/filament-starter-kit-easy](https://github.com/gsferro/filament-starter-kit-easy) | 4 | 2026-11-14 |  |
+| [ArtisanPack-UI/livewire-ui-components](https://github.com/ArtisanPack-UI/livewire-ui-components) | 1 | 2026-11-14 | Stop reinventing the wheel and start building dynamic Livewi... |
+| [navi-crwn/hop-auth](https://github.com/navi-crwn/hop-auth) | 0 | 2026-11-14 | Laravel client for HOP ID, the single sign-on of the HOP fam... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-14 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-14 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [creasico/laravel-package](https://github.com/creasico/laravel-package) | 1 | 2026-11-14 | Laravel Package Template |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 7 | 2026-11-14 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-11-13 | Official Laravel package for seamless ProofAge API integrati... |
-| [mainstaycms/mainstay](https://github.com/mainstaycms/mainstay) | 2 | 2026-11-13 | A CMS for Laravel: content modelled in PHP, built in a Blade... |
-| [hatemsweileh/planvio](https://github.com/hatemsweileh/planvio) | 10 | 2026-11-13 | Plan the work. Let AI run it. An open-source, self-hosted pr... |
-| [claudiodekker/laravel-guardrails](https://github.com/claudiodekker/laravel-guardrails) | 0 | 2026-11-13 | Deterministic checks for Laravel apps and packages that run ... |
-| [filagora/filagora-forums](https://github.com/filagora/filagora-forums) | 0 | 2026-11-13 | Filagora forums: forum groups, forums, threads and posts, vi... |
-| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 48 | 2026-11-13 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
-| [benjamincrozat/blog-v5](https://github.com/benjamincrozat/blog-v5) | 134 | 2026-11-13 | Source code for Benjamin Crozat's blog. |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-13 | WELD's fleet scanner: every app answers present with its PHP... |
+| [immachakata/ci4-facades](https://github.com/immachakata/ci4-facades) | 1 | 2026-11-14 | A lightweight PHP package for CodeIgniter 4 that brings clea... |
+| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-11-14 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-14T06:30 | 2 | 1730 | 8090 |
 | 2026-11-14T00:40 | 4 | 1729 | 8088 |
 | 2026-11-13T18:25 | 16 | 1716 | 8084 |
 | 2026-11-13T12:29 | 8 | 1712 | 8068 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-12T12:30 | 4 | 1719 | 8051 |
 | 2026-11-12T06:33 | 1 | 1722 | 8047 |
 | 2026-11-12T00:43 | 10 | 1713 | 8046 |
-| 2026-11-11T18:25 | 14 | 1709 | 8036 |
 
 ---
 

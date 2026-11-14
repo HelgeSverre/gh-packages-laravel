@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8084  
-**Last updated:** 2026-11-13T18:25:17.231Z
+**Total packages tracked:** 8088  
+**Last updated:** 2026-11-14T00:40:25.238Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [0-9g/laravel-ecommerce](https://github.com/0-9g/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
+| [Pharaonic/laravel-reacts](https://github.com/Pharaonic/laravel-reacts) | 0 | Polymorphic reactions for Laravel Eloquent models: CanReact and HasReactions tra... |
+| [phoenix1331/laravel-clorian](https://github.com/phoenix1331/laravel-clorian) | 0 | Confidence-aware typed decisions for Laravel models and input: let Jev make the ... |
+| [imarc/mailgate](https://github.com/imarc/mailgate) | 0 | Laravel package that whitelists outgoing mail recipients (To, Cc, Bcc) for non-p... |
 | [tomatophp/filament-types-module](https://github.com/tomatophp/filament-types-module) | 0 | Manage any type on your app in Database with easy to use Resource for FilamentPH... |
 | [tomatophp/filament-translations-demo](https://github.com/tomatophp/filament-translations-demo) | 0 | Filament Translation Manager Demo |
 | [tomatophp/filament-splade](https://github.com/tomatophp/filament-splade) | 8 | Integration of Splade Vue Components for Filament |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [tomatophp/tomato-user-activities-module](https://github.com/tomatophp/tomato-user-activities-module) | 0 | Advanced logger is a laravel package used to automatically log every request mad... |
 | [tomatophp/laravel-package-generator](https://github.com/tomatophp/laravel-package-generator) | 8 | Generate your Laravel package with ease. |
 | [tomatophp/filament-notes-demo](https://github.com/tomatophp/filament-notes-demo) | 0 | Live Demo for Filament Sticky Note Package. |
-| [DarioDidonna/presto-ai-marketplace](https://github.com/DarioDidonna/presto-ai-marketplace) | 0 | Classifieds marketplace in Laravel 13 + Livewire with a local AI agent (Python, ... |
-| [Pharaonic/laravel-bookmarks](https://github.com/Pharaonic/laravel-bookmarks) | 1 | Polymorphic bookmarks for Laravel Eloquent models, with JSON-object metadata: Ca... |
-| [initred/laravel-langfuse](https://github.com/initred/laravel-langfuse) | 0 | Langfuse PHP SDK for Laravel, built for the Laravel AI SDK |
-| [mohiodindev/citewidget-laravel](https://github.com/mohiodindev/citewidget-laravel) | 0 | Laravel package for the CiteWidget embeddable chat widget: Blade component, @cit... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [laranail/confetti](https://github.com/laranail/confetti) | 0 | 2026-11-13 | A fluent confetti builder for Laravel, with Blade, Livewire,... |
-| [atendwa/filament-feedback](https://github.com/atendwa/filament-feedback) | 0 | 2026-11-13 | Feedback for Filament apps: a public form with anonymous or ... |
-| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-11-13 | Package to manage medias within Laravel |
-| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 3 | 2026-11-13 | A fast Gantt chart and resource timeline for Filament: any E... |
-| [fermatacordis-create/draco-insomnis](https://github.com/fermatacordis-create/draco-insomnis) | 0 | 2026-11-13 | Ab insomni custodita dracone. Open-source security by Notori... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-13 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [dskripchenko/laravel-admin](https://github.com/dskripchenko/laravel-admin) | 1 | 2026-11-13 | Laravel admin panel constructor — Resource-first CRUD, Vue 3... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-13 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [laranail/artisan-ui](https://github.com/laranail/artisan-ui) | 0 | 2026-11-13 | A secure web panel for running Artisan commands: Gate-author... |
-| [atendwa/filament-page-guide](https://github.com/atendwa/filament-page-guide) | 0 | 2026-11-13 | A "Guide" button and modal for Filament pages, showing a Bla... |
-| [jeffersongoncalves/nativekitv5](https://github.com/jeffersongoncalves/nativekitv5) | 4 | 2026-11-13 | NativeKit starter kit built on Laravel 13.x, Filament 5.x an... |
-| [blemli/swissstreets-for-filament](https://github.com/blemli/swissstreets-for-filament) | 0 | 2026-11-13 | Every Swiss address. Offline. |
-| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-11-13 | Laravel package for integrating with Ranetrace – error track... |
-| [asignua/filament-seo-files](https://github.com/asignua/filament-seo-files) | 1 | 2026-11-13 | sitemap.xml, robots.txt, llms.txt and llms-full.txt for Fila... |
-| [Lomkit/laravel-osdd](https://github.com/Lomkit/laravel-osdd) | 10 | 2026-11-13 | Split your Laravel app into domain modules: one Composer pac... |
-| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 297 | 2026-11-13 | Laravel error reporting tool |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-13 | Resrv is a booking engine for Statamic. |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-13 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-13 | Laravel package to create administration dashboards |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-13 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-14 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
+| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 12 | 2026-11-14 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
+| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 2 | 2026-11-14 | A self-hosted ActivityPub server implementation for Laravel ... |
+| [jeffersongoncalves/filament-short-url](https://github.com/jeffersongoncalves/filament-short-url) | 3 | 2026-11-14 | Filament admin resource for jeffersongoncalves/laravel-short... |
+| [Gallyan/md2spip](https://github.com/Gallyan/md2spip) | 0 | 2026-11-14 | Convertisseur Markdown vers SPIP en temps réel. Laravel 13 +... |
+| [jeffersongoncalves/laravel-short-url](https://github.com/jeffersongoncalves/laravel-short-url) | 5 | 2026-11-14 | A Laravel package for creating and redirecting short URLs, w... |
+| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-14 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
+| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-11-14 | Sistema de gestão para centros espíritas: assistidos, agenda... |
+| [ali-hassan-dev/time-tracker](https://github.com/ali-hassan-dev/time-tracker) | 0 | 2026-11-14 | Laravel 13 + Livewire employee time tracker built for an Upw... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-14 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [creasico/laravel-package](https://github.com/creasico/laravel-package) | 1 | 2026-11-14 | Laravel Package Template |
+| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 7 | 2026-11-14 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
+| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-11-13 | Official Laravel package for seamless ProofAge API integrati... |
+| [mainstaycms/mainstay](https://github.com/mainstaycms/mainstay) | 2 | 2026-11-13 | A CMS for Laravel: content modelled in PHP, built in a Blade... |
+| [hatemsweileh/planvio](https://github.com/hatemsweileh/planvio) | 10 | 2026-11-13 | Plan the work. Let AI run it. An open-source, self-hosted pr... |
+| [claudiodekker/laravel-guardrails](https://github.com/claudiodekker/laravel-guardrails) | 0 | 2026-11-13 | Deterministic checks for Laravel apps and packages that run ... |
+| [filagora/filagora-forums](https://github.com/filagora/filagora-forums) | 0 | 2026-11-13 | Filagora forums: forum groups, forums, threads and posts, vi... |
+| [Ercogx/laravel-filament-starter-kit](https://github.com/Ercogx/laravel-filament-starter-kit) | 48 | 2026-11-13 | This is a Filament v5 Starter Kit for Laravel 13, designed t... |
+| [benjamincrozat/blog-v5](https://github.com/benjamincrozat/blog-v5) | 134 | 2026-11-13 | Source code for Benjamin Crozat's blog. |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-13 | WELD's fleet scanner: every app answers present with its PHP... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-14T00:40 | 4 | 1729 | 8088 |
 | 2026-11-13T18:25 | 16 | 1716 | 8084 |
 | 2026-11-13T12:29 | 8 | 1712 | 8068 |
 | 2026-11-13T06:32 | 3 | 1717 | 8060 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-12T06:33 | 1 | 1722 | 8047 |
 | 2026-11-12T00:43 | 10 | 1713 | 8046 |
 | 2026-11-11T18:25 | 14 | 1709 | 8036 |
-| 2026-11-11T12:29 | 4 | 1721 | 8022 |
 
 ---
 

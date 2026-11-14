@@ -2,17 +2,22 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8090  
-**Last updated:** 2026-11-14T06:30:00.033Z
+**Total packages tracked:** 8095  
+**Last updated:** 2026-11-14T12:26:32.729Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Lexar522/Zoogle](https://github.com/Lexar522/Zoogle) | 0 | 🐾 ZOOGLE — інтернет-магазин зоотоварів на Laravel 13 + Filament 5: каталог, ком... |
+| [mawena/maravel](https://github.com/mawena/maravel) | 3 | Bibliothèque Laravel pour bâtir vite des API REST : contrôleur CRUD générique, f... |
+| [marinailsapps/passorde-connect](https://github.com/marinailsapps/passorde-connect) | 0 | Passorde Connect : connecteurs de synchronisation pour Laravel. Passorde Connect... |
+| [dockcodes/a11y-checker-laravel](https://github.com/dockcodes/a11y-checker-laravel) | 0 | Laravel package for communicating with the accessibility audit API. |
+| [pitchayakit/laravel-buddhist-era](https://github.com/pitchayakit/laravel-buddhist-era) | 0 | Laravel package that makes Carbon's translatedFormat() show the Buddhist Era yea... |
 | [internetdata/sdk-php-laravel](https://github.com/internetdata/sdk-php-laravel) | 0 | Official Laravel middleware for the InternetData API. Attach each visitor's IP d... |
 | [muh-jamiu/telex-apm](https://github.com/muh-jamiu/telex-apm) | 0 | A simple APM package mainly for Laravel. |
 | [0-9g/laravel-ecommerce](https://github.com/0-9g/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
-| [Pharaonic/laravel-reacts](https://github.com/Pharaonic/laravel-reacts) | 0 | Polymorphic reactions for Laravel Eloquent models: CanReact and HasReactions tra... |
+| [Pharaonic/laravel-reacts](https://github.com/Pharaonic/laravel-reacts) | 0 | Polymorphic emoji reactions for Laravel Eloquent models, with registered types, ... |
 | [phoenix1331/laravel-clorian](https://github.com/phoenix1331/laravel-clorian) | 0 | Confidence-aware typed decisions for Laravel models and input: let Jev make the ... |
 | [imarc/mailgate](https://github.com/imarc/mailgate) | 0 | Laravel package that whitelists outgoing mail recipients (To, Cc, Bcc) for non-p... |
 | [tomatophp/filament-types-module](https://github.com/tomatophp/filament-types-module) | 0 | Manage any type on your app in Database with easy to use Resource for FilamentPH... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [tomatophp/filament-eddy](https://github.com/tomatophp/filament-eddy) | 0 | Eddy Server Manager & Tasks Runner for FilamentPHP |
 | [tomatophp/filament-developer-tools](https://github.com/tomatophp/filament-developer-tools) | 0 | Developer tools to manage and build apps on FilamentPHP |
 | [tomatophp/filament-blog](https://github.com/tomatophp/filament-blog) | 10 | Frontend for CMS Builder to build a blog and personal websites |
-| [raffaelefarro/Presto.it](https://github.com/raffaelefarro/Presto.it) | 0 | Sito di annunci in Laravel con revisione e analisi delle foto (Google Vision). P... |
-| [Pharaonic/laravel-ratings](https://github.com/Pharaonic/laravel-ratings) | 0 | Polymorphic ratings for Laravel Eloquent models: CanRate and HasRatings traits, ... |
-| [MNONM-Software/Fiscal-Adapter](https://github.com/MNONM-Software/Fiscal-Adapter) | 0 | Laravel package to talk to fiscal authorities (ARCA, later SIFEN) behind a commo... |
-| [studio24/laravel-package-template](https://github.com/studio24/laravel-package-template) | 0 |  A repository template for Studio 24's open source Laravel packages |
-| [tomatophp/tomato-user-activities-module](https://github.com/tomatophp/tomato-user-activities-module) | 0 | Advanced logger is a laravel package used to automatically log every request mad... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [jeffersongoncalves/website](https://github.com/jeffersongoncalves/website) | 2 | 2026-11-14 | Personal portfolio and developer site of Jefferson Goncalves... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-14 | EasyCo is a modular Laravel commerce platform. Rather than o... |
 | [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-14 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [apartejs/laravel](https://github.com/apartejs/laravel) | 0 | 2026-11-14 | An AI chat for Blade, Livewire and Filament pages, wired to ... |
+| [DarioDidonna/presto-ai-marketplace](https://github.com/DarioDidonna/presto-ai-marketplace) | 0 | 2026-11-14 | Classifieds marketplace in Laravel 13 + Livewire with a loca... |
+| [phoenix1331/laravel-clorian](https://github.com/phoenix1331/laravel-clorian) | 0 | 2026-11-14 | Confidence-aware typed decisions for Laravel models and inpu... |
 | [solutionforest/laravel-recommender](https://github.com/solutionforest/laravel-recommender) | 3 | 2026-11-14 | Simple recommendation engine for Laravel — self-hosted for-y... |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-14 | Identity and access management for Laravel: installs the aut... |
-| [Particle-Academy/fancy-compliance](https://github.com/Particle-Academy/fancy-compliance) | 0 | 2026-11-14 | Consent for Laravel: host-defined categories, an append-only... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-14 | A lightweight, convention-driven modular architecture packag... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-14 | A Laravel package that provides flexible and extensible reso... |
-| [kaziomarsh24/laravel-atomic-cache](https://github.com/kaziomarsh24/laravel-atomic-cache) | 5 | 2026-11-14 | Zero-headache, stampede-proof, and auto-invalidating caching... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-14 | Automated code analysis for Laravel applications with 73 ope... |
-| [Pharaonic/laravel-reacts](https://github.com/Pharaonic/laravel-reacts) | 0 | 2026-11-14 | Polymorphic reactions for Laravel Eloquent models: CanReact ... |
-| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-14 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
-| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-14 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-11-14 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-14 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [niels-numbers/laravel-localizer](https://github.com/niels-numbers/laravel-localizer) | 40 | 2026-11-14 | Detect users' language and serve localized routes in Laravel |
+| [dockcodes/a11y-checker-laravel](https://github.com/dockcodes/a11y-checker-laravel) | 0 | 2026-11-14 | Laravel package for communicating with the accessibility aud... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-11-14 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 32 | 2026-11-14 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [fermatacordis-create/draco-insomnis](https://github.com/fermatacordis-create/draco-insomnis) | 0 | 2026-11-14 | Ab insomni custodita dracone. Open-source security by Notori... |
+| [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 28 | 2026-11-14 | Observability for AI and LLM calls in Laravel. Automatically... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 87 | 2026-11-14 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [Grazulex/laravel-configrypt](https://github.com/Grazulex/laravel-configrypt) | 6 | 2026-11-14 | 🔏 Laravel Configrypt lets you encrypt secrets directly in y... |
+| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-11-14 | Official Laravel package for seamless ProofAge API integrati... |
+| [Grazulex/laravel-chronotrace](https://github.com/Grazulex/laravel-chronotrace) | 133 | 2026-11-14 | 🎥 Record and replay Laravel requests deterministically and ... |
 | [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-14 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 6 | 2026-11-14 | Visual feedback for Laravel and Livewire with client-side sc... |
-| [gsferro/filament-starter-kit-easy](https://github.com/gsferro/filament-starter-kit-easy) | 4 | 2026-11-14 |  |
-| [ArtisanPack-UI/livewire-ui-components](https://github.com/ArtisanPack-UI/livewire-ui-components) | 1 | 2026-11-14 | Stop reinventing the wheel and start building dynamic Livewi... |
-| [navi-crwn/hop-auth](https://github.com/navi-crwn/hop-auth) | 0 | 2026-11-14 | Laravel client for HOP ID, the single sign-on of the HOP fam... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-14 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-14 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [immachakata/ci4-facades](https://github.com/immachakata/ci4-facades) | 1 | 2026-11-14 | A lightweight PHP package for CodeIgniter 4 that brings clea... |
-| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-11-14 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-14T12:26 | 5 | 1729 | 8095 |
 | 2026-11-14T06:30 | 2 | 1730 | 8090 |
 | 2026-11-14T00:40 | 4 | 1729 | 8088 |
 | 2026-11-13T18:25 | 16 | 1716 | 8084 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-12T18:26 | 5 | 1714 | 8056 |
 | 2026-11-12T12:30 | 4 | 1719 | 8051 |
 | 2026-11-12T06:33 | 1 | 1722 | 8047 |
-| 2026-11-12T00:43 | 10 | 1713 | 8046 |
 
 ---
 

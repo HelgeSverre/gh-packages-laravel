@@ -1117,7 +1117,7 @@
     "license": "MIT",
     "created_at": "2025-07-30T18:42:38Z",
     "updated_at": "2026-11-09T12:21:49Z",
-    "pushed_at": "2026-11-09T12:25:28Z",
+    "pushed_at": "2026-11-15T03:08:31Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "tolery-dev/tolery-ai-cad-package": {
@@ -3636,7 +3636,7 @@
     "license": "MIT",
     "created_at": "2021-07-09T16:55:25Z",
     "updated_at": "2026-11-12T16:28:23Z",
-    "pushed_at": "2026-11-13T04:51:58Z",
+    "pushed_at": "2026-11-15T04:37:00Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "tzsk/sms": {
@@ -3993,7 +3993,7 @@
     "license": "MIT",
     "created_at": "2022-10-06T04:39:55Z",
     "updated_at": "2026-09-22T07:38:15Z",
-    "pushed_at": "2026-09-22T07:50:30Z",
+    "pushed_at": "2026-11-15T03:54:12Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "ryangjchandler/laravel-cloudflare-turnstile": {
@@ -6070,7 +6070,7 @@
     "name": "venturedrake/laravel-crm",
     "url": "https://github.com/venturedrake/laravel-crm",
     "description": "Open Source Laravel CRM Package",
-    "stars": 476,
+    "stars": 477,
     "forks": 197,
     "topics": [
       "contact-management",
@@ -6097,7 +6097,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2020-08-31T23:31:11Z",
-    "updated_at": "2026-11-14T22:19:53Z",
+    "updated_at": "2026-11-15T04:14:36Z",
     "pushed_at": "2026-11-14T09:30:23Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -6875,7 +6875,7 @@
     "license": "MIT",
     "created_at": "2025-11-07T00:01:09Z",
     "updated_at": "2026-11-12T00:31:16Z",
-    "pushed_at": "2026-11-14T21:52:24Z",
+    "pushed_at": "2026-11-15T04:29:11Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "yuges-code/laravel-ownable": {
@@ -11714,7 +11714,7 @@
     "license": "MIT",
     "created_at": "2023-08-20T22:04:00Z",
     "updated_at": "2026-11-10T19:17:32Z",
-    "pushed_at": "2026-11-01T06:22:50Z",
+    "pushed_at": "2026-11-15T06:22:30Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "step2dev/lazy-ui": {
@@ -13040,7 +13040,7 @@
     "license": "MIT",
     "created_at": "2025-05-03T17:33:31Z",
     "updated_at": "2026-11-01T02:09:32Z",
-    "pushed_at": "2026-11-01T02:09:35Z",
+    "pushed_at": "2026-11-15T02:06:11Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "cytech-services/laravel-postgres-vacuum-analyze": {
@@ -16981,7 +16981,7 @@
     "license": "MIT",
     "created_at": "2025-12-23T09:28:06Z",
     "updated_at": "2026-11-04T03:07:19Z",
-    "pushed_at": "2026-11-04T03:07:18Z",
+    "pushed_at": "2026-11-15T03:12:42Z",
     "discovered_at": "2026-01-31T00:21:25.706Z"
   },
   "mahertizeeni/laravel-api-responder": {
@@ -33021,7 +33021,7 @@
     "name": "jeffersongoncalves/filakitv5",
     "url": "https://github.com/jeffersongoncalves/filakitv5",
     "description": "FilaKit starter kit built on Laravel 13.x and Filament 5.x with multi-panel structure and multi-auth guard.",
-    "stars": 21,
+    "stars": 22,
     "forks": 2,
     "topics": [
       "filament",
@@ -33043,7 +33043,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-10-31T13:11:20Z",
-    "updated_at": "2026-11-14T18:33:59Z",
+    "updated_at": "2026-11-15T01:34:41Z",
     "pushed_at": "2026-11-13T12:00:28Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -41796,7 +41796,7 @@
     "license": "MIT",
     "created_at": "2026-03-01T18:44:59Z",
     "updated_at": "2026-11-08T02:26:12Z",
-    "pushed_at": "2026-11-15T00:24:06Z",
+    "pushed_at": "2026-11-15T01:05:13Z",
     "discovered_at": "2026-03-02T00:22:52.446Z"
   },
   "jeffersongoncalves/helpdeskkitv3": {
@@ -55793,7 +55793,7 @@
   "siberfx/turkiye-il-ilce-mahalle": {
     "name": "siberfx/turkiye-il-ilce-mahalle",
     "url": "https://github.com/siberfx/turkiye-il-ilce-mahalle",
-    "description": "Laravel 12+ Turkiye Package",
+    "description": "A Laravel 12+ package that ships the complete administrative address hierarchy of Türkiye",
     "stars": 4,
     "forks": 0,
     "topics": [
@@ -55806,7 +55806,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-07-14T02:31:27Z",
-    "updated_at": "2026-11-01T22:14:44Z",
+    "updated_at": "2026-11-15T02:41:51Z",
     "pushed_at": "2026-10-30T18:00:36Z",
     "discovered_at": "2026-03-29T00:27:35.587Z"
   },
@@ -61617,7 +61617,7 @@
     "license": "MIT",
     "created_at": "2024-11-02T06:02:22Z",
     "updated_at": "2026-11-12T14:31:42Z",
-    "pushed_at": "2026-11-12T13:31:38Z",
+    "pushed_at": "2026-11-15T05:15:27Z",
     "discovered_at": "2026-04-13T02:24:04.481Z"
   },
   "masterix21/laravel-licensing": {
@@ -64355,7 +64355,7 @@
     "license": "MIT",
     "created_at": "2022-08-02T12:01:15Z",
     "updated_at": "2026-11-09T12:42:46Z",
-    "pushed_at": "2026-11-09T12:42:50Z",
+    "pushed_at": "2026-11-15T06:15:47Z",
     "discovered_at": "2026-04-20T02:24:13.038Z"
   },
   "mapo-89/laravel-heizreport-api": {
@@ -64396,13 +64396,13 @@
     "name": "yasintqvi/laravel-postman",
     "url": "https://github.com/yasintqvi/laravel-postman",
     "description": "A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities.",
-    "stars": 328,
+    "stars": 329,
     "forks": 27,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-05-08T20:32:04Z",
-    "updated_at": "2026-10-18T11:07:40Z",
+    "updated_at": "2026-11-15T00:54:36Z",
     "pushed_at": "2026-11-13T15:53:43Z",
     "discovered_at": "2026-04-20T02:24:13.038Z"
   },
@@ -72074,7 +72074,7 @@
     "license": "MIT",
     "created_at": "2025-03-29T00:11:41Z",
     "updated_at": "2026-11-11T16:44:41Z",
-    "pushed_at": "2026-11-14T12:02:33Z",
+    "pushed_at": "2026-11-15T02:26:20Z",
     "discovered_at": "2026-05-12T14:13:10.506Z"
   },
   "anselmi-dev/sumsub": {
@@ -73321,7 +73321,7 @@
     "license": "MIT",
     "created_at": "2026-05-16T08:44:13Z",
     "updated_at": "2026-05-18T00:46:26Z",
-    "pushed_at": "2026-11-14T12:49:10Z",
+    "pushed_at": "2026-11-15T03:12:53Z",
     "discovered_at": "2026-05-16T13:14:37.329Z"
   },
   "tttptd/laravel-doctrine-odm": {
@@ -78987,7 +78987,7 @@
     "license": "MIT",
     "created_at": "2026-06-03T06:51:24Z",
     "updated_at": "2026-11-09T17:29:21Z",
-    "pushed_at": "2026-11-09T17:29:31Z",
+    "pushed_at": "2026-11-15T05:01:39Z",
     "discovered_at": "2026-06-03T07:43:38.838Z"
   },
   "vojt1kk/laravelpackages": {
@@ -80214,7 +80214,7 @@
     "license": null,
     "created_at": "2026-06-05T12:06:25Z",
     "updated_at": "2026-11-12T14:24:46Z",
-    "pushed_at": "2026-11-14T21:07:11Z",
+    "pushed_at": "2026-11-15T04:28:27Z",
     "discovered_at": "2026-06-06T12:28:50.782Z"
   },
   "babelqueue/laravel": {
@@ -94412,7 +94412,7 @@
     "license": "MIT",
     "created_at": "2026-07-11T11:11:40Z",
     "updated_at": "2026-11-12T17:25:50Z",
-    "pushed_at": "2026-11-15T00:40:48Z",
+    "pushed_at": "2026-11-15T06:21:08Z",
     "discovered_at": "2026-07-12T07:13:34.299Z"
   },
   "capell-app/navigation": {
@@ -98689,7 +98689,7 @@
     "license": null,
     "created_at": "2025-07-31T12:53:52Z",
     "updated_at": "2026-11-07T03:09:42Z",
-    "pushed_at": "2026-11-07T03:09:38Z",
+    "pushed_at": "2026-11-15T02:24:09Z",
     "discovered_at": "2026-07-23T12:52:48.900Z"
   },
   "fusic/seaaaaarch": {
@@ -115459,7 +115459,7 @@
     "license": "MIT",
     "created_at": "2026-09-05T16:06:17Z",
     "updated_at": "2026-11-07T20:38:48Z",
-    "pushed_at": "2026-11-14T21:14:01Z",
+    "pushed_at": "2026-11-15T02:30:36Z",
     "discovered_at": "2026-09-08T01:03:31.703Z"
   },
   "senaranya/laravel-slack": {
@@ -119092,7 +119092,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2024-04-08T06:03:12Z",
-    "updated_at": "2026-10-21T12:47:20Z",
+    "updated_at": "2026-11-15T01:08:05Z",
     "pushed_at": "2026-11-13T13:39:03Z",
     "discovered_at": "2026-09-15T11:53:23.156Z"
   },
@@ -119831,7 +119831,7 @@
     "license": "MIT",
     "created_at": "2025-07-18T14:50:55Z",
     "updated_at": "2026-11-07T06:49:04Z",
-    "pushed_at": "2026-11-09T04:21:40Z",
+    "pushed_at": "2026-11-15T03:05:00Z",
     "discovered_at": "2026-09-17T05:00:42.170Z"
   },
   "grazulex/laravel-devtoolbox": {
@@ -120363,7 +120363,7 @@
     "name": "albertoarena/filament-truss",
     "url": "https://github.com/albertoarena/filament-truss",
     "description": "Live ER diagram (ERD) of your real database inside a Filament panel, built on Laravel Truss. Structure only, never data.",
-    "stars": 2,
+    "stars": 3,
     "forks": 1,
     "topics": [
       "database",
@@ -120382,7 +120382,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-09-13T13:57:28Z",
-    "updated_at": "2026-10-28T12:03:50Z",
+    "updated_at": "2026-11-15T02:57:52Z",
     "pushed_at": "2026-11-09T00:28:13Z",
     "discovered_at": "2026-09-18T11:27:24.145Z"
   },
@@ -122385,7 +122385,7 @@
     "license": "MIT",
     "created_at": "2026-09-24T01:19:54Z",
     "updated_at": "2026-11-12T14:31:06Z",
-    "pushed_at": "2026-11-15T00:15:27Z",
+    "pushed_at": "2026-11-15T01:35:05Z",
     "discovered_at": "2026-09-24T05:02:23.681Z"
   },
   "ahmad-chebbo/laravel-media-generator": {
@@ -122747,7 +122747,7 @@
   "happenv-com/filament-translatable": {
     "name": "happenv-com/filament-translatable",
     "url": "https://github.com/happenv-com/filament-translatable",
-    "description": "ilament Translatable is a flexible package that provides a complete solution for managing multilingual content in Filament admin panels. It allows you to easily create translatable form fields with an intuitive tabbed interface, supporting multiple locales and translation packages.",
+    "description": "Filament Translatable is a flexible package that provides a complete solution for managing multilingual content in Filament admin panels. It allows you to easily create translatable form fields with an intuitive tabbed interface, supporting multiple locales and translation packages.",
     "stars": 11,
     "forks": 2,
     "topics": [
@@ -122763,7 +122763,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-22T19:08:22Z",
-    "updated_at": "2026-11-11T16:24:47Z",
+    "updated_at": "2026-11-15T03:32:15Z",
     "pushed_at": "2026-11-12T20:15:05Z",
     "discovered_at": "2026-09-24T18:35:42.957Z"
   },
@@ -129592,7 +129592,7 @@
     "license": "MIT",
     "created_at": "2026-10-02T11:46:55Z",
     "updated_at": "2026-11-10T21:31:49Z",
-    "pushed_at": "2026-11-13T18:01:59Z",
+    "pushed_at": "2026-11-15T05:44:35Z",
     "discovered_at": "2026-10-07T12:46:59.080Z"
   },
   "asignua/filament-redirects": {
@@ -130217,7 +130217,7 @@
     "name": "marcpope/cortendesk",
     "url": "https://github.com/marcpope/cortendesk",
     "description": "A web based, open-source console for managing the RustDesk OSS Server and Client.",
-    "stars": 237,
+    "stars": 238,
     "forks": 37,
     "topics": [
       "admin-dashboard",
@@ -130241,7 +130241,7 @@
     "language": "PHP",
     "license": "AGPL-3.0",
     "created_at": "2026-07-23T16:35:04Z",
-    "updated_at": "2026-11-13T21:08:25Z",
+    "updated_at": "2026-11-15T02:57:17Z",
     "pushed_at": "2026-11-14T14:24:54Z",
     "discovered_at": "2026-10-08T06:52:10.329Z"
   },
@@ -143216,7 +143216,7 @@
     "license": "MIT",
     "created_at": "2026-08-12T16:08:12Z",
     "updated_at": "2026-10-25T17:00:20Z",
-    "pushed_at": "2026-11-15T00:44:09Z",
+    "pushed_at": "2026-11-15T04:07:50Z",
     "discovered_at": "2026-10-25T18:34:04.373Z"
   },
   "katsugtgz/inventory-management": {
@@ -145774,7 +145774,7 @@
     "license": null,
     "created_at": "2026-03-20T19:10:59Z",
     "updated_at": "2026-11-01T20:23:38Z",
-    "pushed_at": "2026-11-14T21:52:44Z",
+    "pushed_at": "2026-11-15T01:32:57Z",
     "discovered_at": "2026-10-30T00:49:50.699Z"
   },
   "dojorob76/laravel-architect": {
@@ -147279,7 +147279,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-11-02T00:37:51Z",
     "updated_at": "2026-11-11T20:09:50Z",
-    "pushed_at": "2026-11-11T19:09:46Z",
+    "pushed_at": "2026-11-15T03:06:13Z",
     "discovered_at": "2026-11-02T00:44:07.466Z"
   },
   "ossycodes/nigeriabulksms": {
@@ -147817,7 +147817,7 @@
     "license": null,
     "created_at": "2026-08-28T04:36:56Z",
     "updated_at": "2026-11-02T18:51:38Z",
-    "pushed_at": "2026-11-14T01:16:23Z",
+    "pushed_at": "2026-11-15T04:37:21Z",
     "discovered_at": "2026-11-03T00:41:32.516Z"
   },
   "metagrenade/metaforge-discordbot": {
@@ -150633,7 +150633,7 @@
     "license": "Apache-2.0",
     "created_at": "2026-04-05T07:00:36Z",
     "updated_at": "2026-11-12T15:29:31Z",
-    "pushed_at": "2026-11-15T00:16:22Z",
+    "pushed_at": "2026-11-15T06:25:02Z",
     "discovered_at": "2026-11-05T18:27:07.059Z"
   },
   "3assy2018/nationals": {
@@ -153222,13 +153222,13 @@
     "name": "jackbayliss/laravel-config-drift",
     "url": "https://github.com/jackbayliss/laravel-config-drift",
     "description": " Detect missing and outdated keys in your published Laravel config files after upgrading packages or the framework.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-11-10T21:20:39Z",
-    "updated_at": "2026-11-11T00:57:32Z",
+    "updated_at": "2026-11-15T04:06:41Z",
     "pushed_at": "2026-11-11T00:21:56Z",
     "discovered_at": "2026-11-11T00:41:58.270Z"
   },
@@ -154017,7 +154017,7 @@
     "license": "GPL-2.0",
     "created_at": "2026-11-11T09:00:01Z",
     "updated_at": "2026-11-14T18:40:44Z",
-    "pushed_at": "2026-11-14T21:37:33Z",
+    "pushed_at": "2026-11-15T06:29:37Z",
     "discovered_at": "2026-11-12T18:26:20.275Z"
   },
   "pharaonic/laravel-favorites": {
@@ -154256,7 +154256,7 @@
     "license": "MIT",
     "created_at": "2026-02-23T14:43:51Z",
     "updated_at": "2026-11-13T10:55:03Z",
-    "pushed_at": "2026-11-09T21:26:05Z",
+    "pushed_at": "2026-11-15T02:09:58Z",
     "discovered_at": "2026-11-13T12:29:08.893Z"
   },
   "pharaonic/laravel-bookmarks": {
@@ -154875,7 +154875,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-11-14T08:31:51Z",
     "updated_at": "2026-11-14T09:18:25Z",
-    "pushed_at": "2026-11-14T09:17:55Z",
+    "pushed_at": "2026-11-15T05:32:24Z",
     "discovered_at": "2026-11-14T12:26:32.675Z"
   },
   "lexar522/zoogle": {
@@ -155065,7 +155065,7 @@
     "license": null,
     "created_at": "2026-11-14T02:57:16Z",
     "updated_at": "2026-11-14T21:54:23Z",
-    "pushed_at": "2026-11-14T02:59:21Z",
+    "pushed_at": "2026-11-15T04:43:05Z",
     "discovered_at": "2026-11-15T00:45:48.927Z"
   },
   "mortalkiller/filament-appearance": {
@@ -155110,5 +155110,26 @@
     "updated_at": "2026-11-14T21:37:35Z",
     "pushed_at": "2026-11-14T21:24:47Z",
     "discovered_at": "2026-11-15T00:45:48.930Z"
+  },
+  "yamadashy/laravel-blade-minify-directive": {
+    "name": "yamadashy/laravel-blade-minify-directive",
+    "url": "https://github.com/yamadashy/laravel-blade-minify-directive",
+    "description": "`@minify` directive to partially compress HTML.",
+    "stars": 7,
+    "forks": 3,
+    "topics": [
+      "blade",
+      "blade-directives",
+      "directives",
+      "laravel",
+      "laravel-package",
+      "php"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2021-12-11T15:09:40Z",
+    "updated_at": "2026-04-18T11:11:43Z",
+    "pushed_at": "2026-11-15T03:30:15Z",
+    "discovered_at": "2026-11-15T06:30:48.350Z"
   }
 }

@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8102  
-**Last updated:** 2026-11-14T18:24:41.050Z
+**Total packages tracked:** 8106  
+**Last updated:** 2026-11-15T00:45:48.966Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mortalkiller/filament-appearance](https://github.com/mortalkiller/filament-appearance) | 0 | Colour palettes, a palette picker and a phone-friendly panel shell for Filament. |
+| [Diddyy/Plumbline](https://github.com/Diddyy/Plumbline) | 1 | Precision-first security scanner for Laravel: SQL injection, IDOR, mass assignme... |
+| [Kwenziwa/build-assets](https://github.com/Kwenziwa/build-assets) | 0 | Package compiled frontend assets into a ZIP and deploy them with Laravel or plai... |
+| [schoolaid/assistant](https://github.com/schoolaid/assistant) | 0 | Panel assistant engine shared by SAID apps (Laravel package) |
 | [Apogee-Information-Systems/pagespeed-watcher](https://github.com/Apogee-Information-Systems/pagespeed-watcher) | 1 | Laravel PageSpeed Watcher |
 | [wit3/filament-relation-navigator](https://github.com/wit3/filament-relation-navigator) | 0 | A real page for every Filament relation manager (/customers/1/orders) and a sear... |
 | [filagora/filagora-newsletters](https://github.com/filagora/filagora-newsletters) | 0 | Filagora newsletters: newsletters, subscribers, sends and events (planned, not y... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [muh-jamiu/telex-apm](https://github.com/muh-jamiu/telex-apm) | 0 | A simple APM package mainly for Laravel. |
 | [0-9g/laravel-ecommerce](https://github.com/0-9g/laravel-ecommerce) | 0 | A feature-rich open-source e-commerce platform built with Laravel 13, Filament 5... |
 | [Pharaonic/laravel-reacts](https://github.com/Pharaonic/laravel-reacts) | 0 | Polymorphic emoji reactions for Laravel Eloquent models, with registered types, ... |
-| [phoenix1331/laravel-clorian](https://github.com/phoenix1331/laravel-clorian) | 0 | Confidence-aware typed decisions for Laravel models and input: let Jev make the ... |
-| [imarc/mailgate](https://github.com/imarc/mailgate) | 0 | Laravel package that whitelists outgoing mail recipients (To, Cc, Bcc) for non-p... |
-| [tomatophp/filament-types-module](https://github.com/tomatophp/filament-types-module) | 0 | Manage any type on your app in Database with easy to use Resource for FilamentPH... |
-| [tomatophp/filament-translations-demo](https://github.com/tomatophp/filament-translations-demo) | 0 | Filament Translation Manager Demo |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,7 +40,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 475 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 476 | Open Source Laravel CRM Package |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-14 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-14 | Automated code analysis for Laravel applications with 73 ope... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-14 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [guilhermepolicarpo/llumo](https://github.com/guilhermepolicarpo/llumo) | 0 | 2026-11-14 | Sistema de gestão para centros espíritas: assistidos, agenda... |
-| [Lomkit/laravel-access-control](https://github.com/Lomkit/laravel-access-control) | 5 | 2026-11-14 | One control per Eloquent model: its perimeters drive the pol... |
-| [joseignaciosegovia/sports-court-booking](https://github.com/joseignaciosegovia/sports-court-booking) | 0 | 2026-11-14 | Reserva de pistas deportivas con pagos Stripe, roles de usua... |
-| [wit3/filament-relation-navigator](https://github.com/wit3/filament-relation-navigator) | 0 | 2026-11-14 | A real page for every Filament relation manager (/customers/... |
-| [sloukapetr/moneta-laravel-package](https://github.com/sloukapetr/moneta-laravel-package) | 1 | 2026-11-14 | Lightweight Laravel package for Moneta Money Bank REST API i... |
-| [fermatacordis-create/draco-insomnis](https://github.com/fermatacordis-create/draco-insomnis) | 0 | 2026-11-14 | Ab insomni custodita dracone. Open-source security by Notori... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-14 | Resrv is a booking engine for Statamic. |
-| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | 2026-11-14 | Standalone form system for the Wire ecosystem – fields, vali... |
+| [gsferro/filament-starter-kit-easy](https://github.com/gsferro/filament-starter-kit-easy) | 4 | 2026-11-15 |  |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-15 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-15 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-11-15 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-15 | Identity and access management for Laravel: installs the aut... |
+| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-11-15 | Official Laravel package for VeliraPay crypto payments: a fa... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-15 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [NyonCode/wire-suite](https://github.com/NyonCode/wire-suite) | 0 | 2026-11-14 | The whole wire stack in one require, with an interactive ins... |
 | [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | 2026-11-14 | Enterprise-grade Livewire table system with inline editing, ... |
-| [NyonCode/wire-module-audit](https://github.com/NyonCode/wire-module-audit) | 0 | 2026-11-14 | Audit log administration for wire: the trail core already re... |
-| [NyonCode/wire-panels](https://github.com/NyonCode/wire-panels) | 0 | 2026-11-14 | Application owner layer for wire: resources and their pages.... |
-| [NyonCode/wire-module-media](https://github.com/NyonCode/wire-module-media) | 0 | 2026-11-14 | A media library for wire: uploads, a browsable list and a pi... |
-| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | 2026-11-14 | AI tooling for the Wire ecosystem – an MCP server, AI guidel... |
-| [NyonCode/wire-sortable](https://github.com/NyonCode/wire-sortable) | 0 | 2026-11-14 | Drag & drop row reordering plugin for wire-table. — READ ONL... |
-| [NyonCode/wire-module-notifications](https://github.com/NyonCode/wire-module-notifications) | 0 | 2026-11-14 | Stored notifications for wire: the history behind the bell, ... |
 | [NyonCode/wire-core](https://github.com/NyonCode/wire-core) | 0 | 2026-11-14 | Shared foundation for the Wire ecosystem – traits, actions, ... |
-| [NyonCode/wire-admin](https://github.com/NyonCode/wire-admin) | 0 | 2026-11-14 | The optional admin shell for wire: a layout and a sidebar ov... |
+| [NyonCode/wire-module-settings](https://github.com/NyonCode/wire-module-settings) | 0 | 2026-11-14 | Application settings for wire: typed key/value settings with... |
+| [NyonCode/wire-module-users](https://github.com/NyonCode/wire-module-users) | 0 | 2026-11-14 | User administration for wire: a ready-made module with its r... |
+| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | 2026-11-14 | AI tooling for the Wire ecosystem – an MCP server, AI guidel... |
+| [NyonCode/wire-module-auth](https://github.com/NyonCode/wire-module-auth) | 0 | 2026-11-14 | The signed-out screens for wire: login, password reset, emai... |
+| [NyonCode/wire-module-media](https://github.com/NyonCode/wire-module-media) | 0 | 2026-11-14 | A media library for wire: uploads, a browsable list and a pi... |
+| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | 2026-11-14 | Standalone form system for the Wire ecosystem – fields, vali... |
+| [NyonCode/wire-module-notifications](https://github.com/NyonCode/wire-module-notifications) | 0 | 2026-11-14 | Stored notifications for wire: the history behind the bell, ... |
+| [NyonCode/wire-module-audit](https://github.com/NyonCode/wire-module-audit) | 0 | 2026-11-14 | Audit log administration for wire: the trail core already re... |
+| [NyonCode/wire-sortable](https://github.com/NyonCode/wire-sortable) | 0 | 2026-11-14 | Drag & drop row reordering plugin for wire-table. — READ ONL... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-15T00:45 | 4 | 1731 | 8106 |
 | 2026-11-14T18:24 | 7 | 1728 | 8102 |
 | 2026-11-14T12:26 | 5 | 1729 | 8095 |
 | 2026-11-14T06:30 | 2 | 1730 | 8090 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-13T06:32 | 3 | 1717 | 8060 |
 | 2026-11-13T00:42 | 2 | 1718 | 8057 |
 | 2026-11-12T18:26 | 5 | 1714 | 8056 |
-| 2026-11-12T12:30 | 4 | 1719 | 8051 |
 
 ---
 

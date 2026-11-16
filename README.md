@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8113  
-**Last updated:** 2026-11-15T18:25:00.167Z
+**Total packages tracked:** 8119  
+**Last updated:** 2026-11-16T00:48:11.727Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [abitech-dev/abitech-antibot-laravel](https://github.com/abitech-dev/abitech-antibot-laravel) | 0 | Protege los formularios de Laravel contra bots con Cloudflare Turnstile o Google... |
+| [abitech-dev/abitech-payments-laravel](https://github.com/abitech-dev/abitech-payments-laravel) | 0 | Cobra, reembolsa, suscribe y recibe webhooks de Mercado Pago y Stripe en Laravel... |
+| [imranbru99/packflow-packaging-factory-erp](https://github.com/imranbru99/packflow-packaging-factory-erp) | 0 | Packaging factory ERP for corrugated boxes, flexible pouches, labels, and mono c... |
+| [imranbru99/laravel-sewing-thread-factory](https://github.com/imranbru99/laravel-sewing-thread-factory) | 0 | ERP for sewing-thread and industrial-thread mills. Digitizes spinning, carding, ... |
+| [imranbru99/laravel-garment-factory-erp](https://github.com/imranbru99/laravel-garment-factory-erp) | 0 | Garment factory ERP for trouser, apparel, and RMG mills. Full-package flow: tech... |
+| [Kyslik/laravel-filterable](https://github.com/Kyslik/laravel-filterable) | 115 | Laravel 5/6/7 package to handle filtering by query-string |
 | [HiteaFR/tirelire](https://github.com/HiteaFR/tirelire) | 0 | Self-hosted personal budget app: bank CSV import, rule-based categorisation, sub... |
 | [MuhammadSyahmi98/laravel-database-to-model](https://github.com/MuhammadSyahmi98/laravel-database-to-model) | 0 | Laravel package to generate models and migrations from existing database structu... |
 | [axvilab/wiretap](https://github.com/axvilab/wiretap) | 0 | Self-hosted inspector and monitoring for Laravel: Goserver + Laravel package |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Apogee-Information-Systems/pagespeed-watcher](https://github.com/Apogee-Information-Systems/pagespeed-watcher) | 1 | Laravel PageSpeed Watcher |
 | [wit3/filament-relation-navigator](https://github.com/wit3/filament-relation-navigator) | 1 | A real page for every Filament relation manager (/customers/1/orders) and a sear... |
 | [filagora/filagora-newsletters](https://github.com/filagora/filagora-newsletters) | 0 | Filagora newsletters: newsletters, subscribers, sends and events (planned, not y... |
-| [Dembalua/blog-cms](https://github.com/Dembalua/blog-cms) | 0 | Laravel and Filament blog CMS. Custom rich editor blocks, SEO-first content clus... |
-| [Lomkit/laravel-access-control](https://github.com/Lomkit/laravel-access-control) | 5 | One control per Eloquent model: its perimeters drive the policies, the query sco... |
-| [sneakyx/motis-php-client](https://github.com/sneakyx/motis-php-client) | 0 | A PHP Composer package for the MOTIS API, enabling multimodal routing, geocoding... |
-| [Mohab2Mamdouh/laravel-blueprint](https://github.com/Mohab2Mamdouh/laravel-blueprint) | 0 | A Laravel starter package that provides a complete foundation for rapid applicat... |
-| [Lexar522/Zoogle](https://github.com/Lexar522/Zoogle) | 0 | 🐾 ZOOGLE — інтернет-магазин зоотоварів на Laravel 13 + Filament 5: каталог, ком... |
-| [mawena/maravel](https://github.com/mawena/maravel) | 3 | Bibliothèque Laravel pour bâtir vite des API REST : contrôleur CRUD générique, f... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,7 +40,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 477 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 476 | Open Source Laravel CRM Package |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/filament-amplitude](https://github.com/jeffersongoncalves/filament-amplitude) | 1 | 2026-11-15 | Filament plugin for Amplitude analytics with settings page p... |
-| [jeffersongoncalves/filament-admin](https://github.com/jeffersongoncalves/filament-admin) | 2 | 2026-11-15 | Filament Admin model, AdminResource, status-aware Login page... |
-| [jeffersongoncalves/filament-additional-information](https://github.com/jeffersongoncalves/filament-additional-information) | 1 | 2026-11-15 | Reusable created/updated timestamps section for Filament inf... |
-| [jeffersongoncalves/filament-action-export](https://github.com/jeffersongoncalves/filament-action-export) | 8 | 2026-11-15 | Export Filament tables to CSV, XLSX and PDF with preview and... |
-| [jeffersongoncalves/filament-ace-editor-field](https://github.com/jeffersongoncalves/filament-ace-editor-field) | 4 | 2026-11-15 | A Laravel Filament field that integrates the Ace code editor... |
-| [jeffersongoncalves/filakitv5](https://github.com/jeffersongoncalves/filakitv5) | 23 | 2026-11-15 | FilaKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-11-15 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [jeffersongoncalves/filakit](https://github.com/jeffersongoncalves/filakit) | 10 | 2026-11-15 | FilaKit starter kit built on Laravel 13.x and Filament 3.x w... |
-| [jeffersongoncalves/filafluxkitv5](https://github.com/jeffersongoncalves/filafluxkitv5) | 13 | 2026-11-15 | FilaFluxKit — Laravel 13 + Filament v5 starter kit with mult... |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-11-15 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
-| [jeffersongoncalves/evolutionkitv4](https://github.com/jeffersongoncalves/evolutionkitv4) | 10 | 2026-11-15 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
-| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 3 | 2026-11-15 | A file-based CMS package for Laravel. Renders documentation,... |
-| [jeffersongoncalves/editorialthemev5](https://github.com/jeffersongoncalves/editorialthemev5) | 1 | 2026-11-15 | EditorialTheme starter kit built on Laravel 13.x and Filamen... |
-| [jeffersongoncalves/editorialthemev4](https://github.com/jeffersongoncalves/editorialthemev4) | 1 | 2026-11-15 | EditorialTheme starter kit built on Laravel 13.x and Filamen... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-15 |  |
-| [jeffersongoncalves/editorialthemev3](https://github.com/jeffersongoncalves/editorialthemev3) | 1 | 2026-11-15 | EditorialTheme starter kit built on Laravel 13.x and Filamen... |
-| [atendwa/filament-page-guide](https://github.com/atendwa/filament-page-guide) | 0 | 2026-11-15 | A "Guide" button and modal for Filament pages, showing a Bla... |
-| [atendwa/filament-feedback](https://github.com/atendwa/filament-feedback) | 0 | 2026-11-15 | Feedback for Filament apps: a public form with anonymous or ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-15 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-15 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-16 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [anilcancakir/magic-starter-laravel](https://github.com/anilcancakir/magic-starter-laravel) | 1 | 2026-11-16 | Magic Framework Laravel backend starter package. |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-11-16 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
+| [albertoarena/filament-truss](https://github.com/albertoarena/filament-truss) | 3 | 2026-11-16 | Live ER diagram (ERD) of your real database inside a Filamen... |
+| [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 124 | 2026-11-16 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [James-Lavina/Budget-App](https://github.com/James-Lavina/Budget-App) | 0 | 2026-11-16 |  |
+| [Particle-Academy/laravel-jobs](https://github.com/Particle-Academy/laravel-jobs) | 0 | 2026-11-16 | Laravel package for job boards - employer job postings, publ... |
+| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 12 | 2026-11-16 | Complete gamification package with optional UI |
+| [Particle-Academy/laravel-courses](https://github.com/Particle-Academy/laravel-courses) | 0 | 2026-11-16 | Laravel package for selling & serving curriculums, courses, ... |
+| [schoolaid/assistant](https://github.com/schoolaid/assistant) | 0 | 2026-11-16 | Panel assistant engine shared by SAID apps (Laravel package) |
+| [njoguamos/laravel-otp](https://github.com/njoguamos/laravel-otp) | 8 | 2026-11-16 | Laravel OTP is a Laravel package that enables developers to ... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-16 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [lara-zeus/spatie-translatable](https://github.com/lara-zeus/spatie-translatable) | 37 | 2026-11-15 | Lara Zeus Translatable is Filament support for Spatie's Lara... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-15 | Identity and access management for Laravel: installs the aut... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 15 | 2026-11-15 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [mattsplat/unscripted-ui-server](https://github.com/mattsplat/unscripted-ui-server) | 0 | 2026-11-15 | unscripted/ui-server: the Laravel server side of @unscripted... |
+| [Climactic/laravel-credits](https://github.com/Climactic/laravel-credits) | 330 | 2026-11-15 | A ledger-based Laravel package for managing credit-based sys... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-11-15 | Simple package for adding directives to show/hide content fr... |
+| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | 2026-11-15 | AI-assisted job search platform: one career profile, tailore... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 87 | 2026-11-15 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-16T00:48 | 6 | 1742 | 8119 |
 | 2026-11-15T18:25 | 3 | 1732 | 8113 |
 | 2026-11-15T12:27 | 3 | 1733 | 8110 |
 | 2026-11-15T06:30 | 1 | 1734 | 8107 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-14T06:30 | 2 | 1730 | 8090 |
 | 2026-11-14T00:40 | 4 | 1729 | 8088 |
 | 2026-11-13T18:25 | 16 | 1716 | 8084 |
-| 2026-11-13T12:29 | 8 | 1712 | 8068 |
 
 ---
 

@@ -2353,5 +2353,27 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-11-13T00:42:54.203Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "milenmk/laravel-simple-data-tables-and-forms": {
+    "name": "milenmk/laravel-simple-data-tables-and-forms",
+    "url": "https://github.com/milenmk/laravel-simple-data-tables-and-forms",
+    "description": "Simple Table component to create datatables for Livewire components",
+    "stars": 1,
+    "forks": 0,
+    "topics": [
+      "forms",
+      "laravel",
+      "laravel-package",
+      "livewire",
+      "tables"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-03-12T19:16:22Z",
+    "updated_at": "2025-11-16T07:15:46Z",
+    "pushed_at": "2025-11-16T07:21:35Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-11-16T12:38:06.643Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

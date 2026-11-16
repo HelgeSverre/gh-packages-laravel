@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8121  
-**Last updated:** 2026-11-16T06:50:17.299Z
+**Total packages tracked:** 8125  
+**Last updated:** 2026-11-16T12:38:06.685Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [mushtaq-ali20/CampusFlow](https://github.com/mushtaq-ali20/CampusFlow) | 0 | School management system for Pakistani schools: admissions, attendance, timetabl... |
+| [roshelpeter-cpu/RenovaHub](https://github.com/roshelpeter-cpu/RenovaHub) | 0 | Collaborative renovation project management platform connecting homeowners, desi... |
+| [mertaydin/laravel-queue-monitor](https://github.com/mertaydin/laravel-queue-monitor) | 1 | Laravel queue monitoring and management package |
+| [bramato/pact-laravel](https://github.com/bramato/pact-laravel) | 0 | Generated Composer package for pact-protocol/laravel |
+| [anjan011/2fa-support-package](https://github.com/anjan011/2fa-support-package) | 0 | 2FA support with TOTP for laravel |
 | [kasirphp/kasir](https://github.com/kasirphp/kasir) | 9 | Midtrans package for Laravel, in Laravel way. |
 | [technicalors/voc-laravel](https://github.com/technicalors/voc-laravel) | 0 | VOC integration protocol v1 host package for Laravel |
 | [abitech-dev/abitech-antibot-laravel](https://github.com/abitech-dev/abitech-antibot-laravel) | 0 | Protege los formularios de Laravel contra bots con Cloudflare Turnstile o Google... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jund-fauz/filament-kompact](https://github.com/jund-fauz/filament-kompact) | 0 | A set of helper functions and macros in building app using Filament in Laravel |
 | [aminmh/developer-assistant-otel-laravel](https://github.com/aminmh/developer-assistant-otel-laravel) | 0 | OpenTelemetry laravel package for Developer Intelligence Assistant |
 | [yamadashy/laravel-blade-minify-directive](https://github.com/yamadashy/laravel-blade-minify-directive) | 7 | `@minify` directive to partially compress HTML. |
-| [mortalkiller/filament-appearance](https://github.com/mortalkiller/filament-appearance) | 0 | Colour palettes, a palette picker and a phone-friendly panel shell for Filament. |
-| [Diddyy/Plumbline](https://github.com/Diddyy/Plumbline) | 1 | Precision-first security scanner for Laravel: SQL injection, IDOR, mass assignme... |
-| [Kwenziwa/build-assets](https://github.com/Kwenziwa/build-assets) | 0 | Package compiled frontend assets into a ZIP and deploy them with Laravel or plai... |
-| [schoolaid/assistant](https://github.com/schoolaid/assistant) | 0 | Panel assistant engine shared by SAID apps (Laravel package) |
-| [Apogee-Information-Systems/pagespeed-watcher](https://github.com/Apogee-Information-Systems/pagespeed-watcher) | 1 | Laravel PageSpeed Watcher |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [hieu92264/laravel-modules-package](https://github.com/hieu92264/laravel-modules-package) | 0 | 2026-11-16 | A Laravel package to generate custom module structures and s... |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-16 | Identity and access management for Laravel: installs the aut... |
+| [mertaydin/laravel-queue-monitor](https://github.com/mertaydin/laravel-queue-monitor) | 1 | 2026-11-16 | Laravel queue monitoring and management package |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-16 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | 2026-11-16 | AI-assisted job search platform: one career profile, tailore... |
+| [mushtaq-ali20/CampusFlow](https://github.com/mushtaq-ali20/CampusFlow) | 0 | 2026-11-16 | School management system for Pakistani schools: admissions, ... |
+| [motor-cms/motor-admin](https://github.com/motor-cms/motor-admin) | 0 | 2026-11-16 | motor-cms Laravel package for users, roles and permissions, ... |
+| [solutionforest/laravel-recommender](https://github.com/solutionforest/laravel-recommender) | 3 | 2026-11-16 | Simple recommendation engine for Laravel — self-hosted for-y... |
+| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-16 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-16 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [patchlevel/laravel-event-sourcing](https://github.com/patchlevel/laravel-event-sourcing) | 8 | 2026-11-16 | An event sourcing laravel package, complete with all the ess... |
-| [Dilshan97/laravel-social-lite-demo](https://github.com/Dilshan97/laravel-social-lite-demo) | 0 | 2026-11-16 | This Repository discribe how to use Social authentication wi... |
-| [roundly-consulting/approvals-for-laravel](https://github.com/roundly-consulting/approvals-for-laravel) | 6 | 2026-11-16 | Record polymorphic approvals between Eloquent models for Lar... |
-| [roundly-consulting/messages-for-laravel](https://github.com/roundly-consulting/messages-for-laravel) | 7 | 2026-11-16 | Realtime messages between entities using Laravel broadcastin... |
-| [atendwa/filament-page-guide](https://github.com/atendwa/filament-page-guide) | 0 | 2026-11-16 | A "Guide" button and modal for Filament pages, showing a Bla... |
-| [atendwa/filament-feedback](https://github.com/atendwa/filament-feedback) | 0 | 2026-11-16 | Feedback for Filament apps: a public form with anonymous or ... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-11-16 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [roundly-consulting/workflows-for-laravel](https://github.com/roundly-consulting/workflows-for-laravel) | 1 | 2026-11-16 | Durable, versioned workflows for Laravel: JSON graphs run st... |
-| [Sknadim6297/delta-support-laravel](https://github.com/Sknadim6297/delta-support-laravel) | 0 | 2026-11-16 | A Laravel 12-based tours and travel management platform feat... |
-| [roundly-consulting/jwt-for-laravel](https://github.com/roundly-consulting/jwt-for-laravel) | 5 | 2026-11-16 | Native RS256 user tokens + HS256 service tokens, guards, jti... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-16 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [roundly-consulting/credits-for-laravel](https://github.com/roundly-consulting/credits-for-laravel) | 5 | 2026-11-16 | Manage credits / wallet balance on entity. |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 476 | 2026-11-16 | Open Source Laravel CRM Package |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-16 |  |
-| [njoguamos/laravel-pesapal](https://github.com/njoguamos/laravel-pesapal) | 8 | 2026-11-16 | Laravel Pesapal is a Laravel package designed to facilitate ... |
-| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-11-16 | A Laravel Package providing seamless integration for the wun... |
-| [XgeniousLLC/xgenious-installer](https://github.com/XgeniousLLC/xgenious-installer) | 1 | 2026-11-16 | A Laravel package for installing xgenious script easily with... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-16 | Resrv is a booking engine for Statamic. |
+| [moessimple/package-skeleton-laravel](https://github.com/moessimple/package-skeleton-laravel) | 0 | 2026-11-16 | Laravel 12 and 13 package skeleton for PHP 8.4+ with the qua... |
+| [Grazulex/laravel-statecraft](https://github.com/Grazulex/laravel-statecraft) | 8 | 2026-11-16 | 🧩 Define entity workflows declaratively (YAML), and control... |
+| [Grazulex/laravel-snapshot](https://github.com/Grazulex/laravel-snapshot) | 10 | 2026-11-16 | 📸 Track, store and compare snapshots of your Eloquent model... |
+| [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 2026-11-16 | 🔐 Configurable security checks for Laravel applications. Ru... |
+| [foxws/laravel-essentials](https://github.com/foxws/laravel-essentials) | 1 | 2026-11-16 | Opt-in essentials for your Laravel application |
+| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-16 | WELD's fleet scanner: every app answers present with its PHP... |
+| [RedberryProducts/synapse](https://github.com/RedberryProducts/synapse) | 69 | 2026-11-16 | Synapse for Laravel is a development dashboard that lets you... |
+| [AHS12/laravel-setanjo](https://github.com/AHS12/laravel-setanjo) | 8 | 2026-11-16 | Laravel settings package for managing application configurat... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 31 | 2026-11-16 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-11-16 | Laravel package for integrating with Ranetrace – error track... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 87 | 2026-11-16 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-16T12:38 | 5 | 1744 | 8125 |
 | 2026-11-16T06:50 | 2 | 1747 | 8121 |
 | 2026-11-16T00:48 | 6 | 1742 | 8119 |
 | 2026-11-15T18:25 | 3 | 1732 | 8113 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-14T18:24 | 7 | 1728 | 8102 |
 | 2026-11-14T12:26 | 5 | 1729 | 8095 |
 | 2026-11-14T06:30 | 2 | 1730 | 8090 |
-| 2026-11-14T00:40 | 4 | 1729 | 8088 |
 
 ---
 

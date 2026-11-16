@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8125  
-**Last updated:** 2026-11-16T12:38:06.685Z
+**Total packages tracked:** 8129  
+**Last updated:** 2026-11-16T18:27:07.878Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [basel-kaffoura/earlier-projects](https://github.com/basel-kaffoura/earlier-projects) | 0 | Earlier full-stack projects: LMS, e-commerce, task management, real estate and s... |
+| [ichinya/lekalo-php-laravel](https://github.com/ichinya/lekalo-php-laravel) | 0 | Lekalo framework package for Laravel on top of the lekalo-php provider API (Lara... |
+| [i-Val/Siligram](https://github.com/i-Val/Siligram) | 0 | A Telegram bot integration package for laravel |
+| [barannmeisterr/ISP-Infrastructure-Availability-Check](https://github.com/barannmeisterr/ISP-Infrastructure-Availability-Check) | 0 | Address-based internet infrastructure lookup and ISP (ISS) package comparison fo... |
 | [mushtaq-ali20/CampusFlow](https://github.com/mushtaq-ali20/CampusFlow) | 0 | School management system for Pakistani schools: admissions, attendance, timetabl... |
 | [roshelpeter-cpu/RenovaHub](https://github.com/roshelpeter-cpu/RenovaHub) | 0 | Collaborative renovation project management platform connecting homeowners, desi... |
 | [mertaydin/laravel-queue-monitor](https://github.com/mertaydin/laravel-queue-monitor) | 1 | Laravel queue monitoring and management package |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [HiteaFR/tirelire](https://github.com/HiteaFR/tirelire) | 0 | Self-hosted personal budget app: bank CSV import, rule-based categorisation, sub... |
 | [MuhammadSyahmi98/laravel-database-to-model](https://github.com/MuhammadSyahmi98/laravel-database-to-model) | 0 | Laravel package to generate models and migrations from existing database structu... |
 | [axvilab/wiretap](https://github.com/axvilab/wiretap) | 0 | Self-hosted inspector and monitoring for Laravel: Goserver + Laravel package |
-| [jund-fauz/eloquent-kompact](https://github.com/jund-fauz/eloquent-kompact) | 0 | A set of automatic & helper tools to improve development experience and convenie... |
-| [jund-fauz/filament-kompact](https://github.com/jund-fauz/filament-kompact) | 0 | A set of helper functions and macros in building app using Filament in Laravel |
-| [aminmh/developer-assistant-otel-laravel](https://github.com/aminmh/developer-assistant-otel-laravel) | 0 | OpenTelemetry laravel package for Developer Intelligence Assistant |
-| [yamadashy/laravel-blade-minify-directive](https://github.com/yamadashy/laravel-blade-minify-directive) | 7 | `@minify` directive to partially compress HTML. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mertaydin/laravel-queue-monitor](https://github.com/mertaydin/laravel-queue-monitor) | 1 | 2026-11-16 | Laravel queue monitoring and management package |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-16 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | 2026-11-16 | AI-assisted job search platform: one career profile, tailore... |
-| [mushtaq-ali20/CampusFlow](https://github.com/mushtaq-ali20/CampusFlow) | 0 | 2026-11-16 | School management system for Pakistani schools: admissions, ... |
-| [motor-cms/motor-admin](https://github.com/motor-cms/motor-admin) | 0 | 2026-11-16 | motor-cms Laravel package for users, roles and permissions, ... |
-| [solutionforest/laravel-recommender](https://github.com/solutionforest/laravel-recommender) | 3 | 2026-11-16 | Simple recommendation engine for Laravel — self-hosted for-y... |
-| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-16 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-16 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-16 | Resrv is a booking engine for Statamic. |
-| [moessimple/package-skeleton-laravel](https://github.com/moessimple/package-skeleton-laravel) | 0 | 2026-11-16 | Laravel 12 and 13 package skeleton for PHP 8.4+ with the qua... |
-| [Grazulex/laravel-statecraft](https://github.com/Grazulex/laravel-statecraft) | 8 | 2026-11-16 | 🧩 Define entity workflows declaratively (YAML), and control... |
-| [Grazulex/laravel-snapshot](https://github.com/Grazulex/laravel-snapshot) | 10 | 2026-11-16 | 📸 Track, store and compare snapshots of your Eloquent model... |
-| [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 2026-11-16 | 🔐 Configurable security checks for Laravel applications. Ru... |
-| [foxws/laravel-essentials](https://github.com/foxws/laravel-essentials) | 1 | 2026-11-16 | Opt-in essentials for your Laravel application |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-16 | WELD's fleet scanner: every app answers present with its PHP... |
-| [RedberryProducts/synapse](https://github.com/RedberryProducts/synapse) | 69 | 2026-11-16 | Synapse for Laravel is a development dashboard that lets you... |
-| [AHS12/laravel-setanjo](https://github.com/AHS12/laravel-setanjo) | 8 | 2026-11-16 | Laravel settings package for managing application configurat... |
-| [Pollora/framework](https://github.com/Pollora/framework) | 31 | 2026-11-16 | The Laravel framework for WordPress: Blade, Laravel routing ... |
-| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-11-16 | Laravel package for integrating with Ranetrace – error track... |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 87 | 2026-11-16 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [awcodes/filament-versions](https://github.com/awcodes/filament-versions) | 44 | 2026-11-16 | A mostly useless package to display framework versions on Fi... |
+| [awcodes/typebar](https://github.com/awcodes/typebar) | 3 | 2026-11-16 | Mobile Markdown symbol row for the Filament Markdown editor. |
+| [awcodes/thermal](https://github.com/awcodes/thermal) | 3 | 2026-11-16 | Heatmap visualizations for Filament: calendar activity grids... |
+| [awcodes/filament-sticky-header](https://github.com/awcodes/filament-sticky-header) | 83 | 2026-11-16 | A Filament Panels plugin to make headers sticky when scrolli... |
+| [datalogix/laravel-validation](https://github.com/datalogix/laravel-validation) | 3 | 2026-11-16 | Laravel Validation is a package the power of Respect Validat... |
+| [awcodes/shout](https://github.com/awcodes/shout) | 71 | 2026-11-16 | A simple inline contextual notice for Filament forms and inf... |
+| [awcodes/richer-editor](https://github.com/awcodes/richer-editor) | 44 | 2026-11-16 | A collection of extensions and tools to enhance the Filament... |
+| [awcodes/recently](https://github.com/awcodes/recently) | 43 | 2026-11-16 | Easily track and access recently viewed records in your fila... |
+| [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create) | 250 | 2026-11-16 | Plugin for Filament Panels that adds a dropdown menu to the ... |
+| [awcodes/panelist](https://github.com/awcodes/panelist) | 24 | 2026-11-16 | A Filament plugin that turns a resource's list page into a m... |
+| [awcodes/palette](https://github.com/awcodes/palette) | 25 | 2026-11-16 | A color picker field for Filament Forms that uses preset col... |
+| [awcodes/overlook](https://github.com/awcodes/overlook) | 192 | 2026-11-16 | An app overview widget for Filament panels. |
+| [awcodes/Matinee](https://github.com/awcodes/Matinee) | 22 | 2026-11-16 | OEmbed field for Filament Panel and Form Builders. |
+| [awcodes/mason](https://github.com/awcodes/mason) | 249 | 2026-11-16 | A simple block based drag and drop page / document builder f... |
+| [awcodes/light-switch](https://github.com/awcodes/light-switch) | 48 | 2026-11-16 | Plugin to add theme switching (light/dark/system) to the aut... |
+| [awcodes/filament-gravatar](https://github.com/awcodes/filament-gravatar) | 32 | 2026-11-16 | Replace Filament's default avatar url provider with one for ... |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 440 | 2026-11-16 | A media picker plugin for Filament Panels. |
+| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 210 | 2026-11-16 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [awcodes/botly](https://github.com/awcodes/botly) | 6 | 2026-11-16 | Botly is a Filament plugin to manage your site's robots.txt ... |
+| [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) | 147 | 2026-11-16 | Display additional context as badges alongside your Filament... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-16T18:27 | 4 | 1759 | 8129 |
 | 2026-11-16T12:38 | 5 | 1744 | 8125 |
 | 2026-11-16T06:50 | 2 | 1747 | 8121 |
 | 2026-11-16T00:48 | 6 | 1742 | 8119 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-15T00:45 | 4 | 1731 | 8106 |
 | 2026-11-14T18:24 | 7 | 1728 | 8102 |
 | 2026-11-14T12:26 | 5 | 1729 | 8095 |
-| 2026-11-14T06:30 | 2 | 1730 | 8090 |
 
 ---
 

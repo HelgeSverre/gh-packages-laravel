@@ -2,13 +2,26 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8129  
-**Last updated:** 2026-11-16T18:27:07.878Z
+**Total packages tracked:** 8142  
+**Last updated:** 2026-11-17T00:43:06.287Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Gerenuk-LTD/filament-table-views](https://github.com/Gerenuk-LTD/filament-table-views) | 0 | Saved table views and column filters for your Filament panel. |
+| [jeffersongoncalves/filament-lgpd-audit-log](https://github.com/jeffersongoncalves/filament-lgpd-audit-log) | 0 | Filament plugin for laravel-lgpd-audit-log: browse who viewed, changed, exported... |
+| [jeffersongoncalves/filament-lgpd-records](https://github.com/jeffersongoncalves/filament-lgpd-records) | 0 | Filament plugin for laravel-lgpd-records: manage your LGPD records of processing... |
+| [jeffersongoncalves/filament-lgpd-incidents](https://github.com/jeffersongoncalves/filament-lgpd-incidents) | 0 | Filament plugin for laravel-lgpd-incidents: register LGPD security incidents, as... |
+| [jeffersongoncalves/filament-lgpd-retention](https://github.com/jeffersongoncalves/filament-lgpd-retention) | 1 | Filament plugin for laravel-lgpd-retention: preview and run LGPD data retention,... |
+| [jeffersongoncalves/filament-lgpd-consent](https://github.com/jeffersongoncalves/filament-lgpd-consent) | 1 | Filament plugin for laravel-lgpd-consent: browse the append-only LGPD consent le... |
+| [jeffersongoncalves/filament-lgpd-dsar](https://github.com/jeffersongoncalves/filament-lgpd-dsar) | 1 | Filament plugin to handle LGPD data subject requests (art. 18): verify, export, ... |
+| [jeffersongoncalves/filament-lgpd](https://github.com/jeffersongoncalves/filament-lgpd) | 1 | Filament plugin for laravel-lgpd: a personal data inventory page (LGPD) listing ... |
+| [Gerenuk-LTD/filament-pennant](https://github.com/Gerenuk-LTD/filament-pennant) | 0 | Manage Pennant feature flags in your Filament panel. |
+| [axvilab/laravel-maintenance](https://github.com/axvilab/laravel-maintenance) | 0 | Advanced maintenance mode for Laravel 12 and 13: IP whitelists, named bypass tok... |
+| [sloukapetr/eet-laravel-package](https://github.com/sloukapetr/eet-laravel-package) | 0 |  |
+| [flashpi1/flashpi-laravel](https://github.com/flashpi1/flashpi-laravel) | 0 | Official Laravel package for Flashpi, the electronic invoicing API for Ecuador's... |
+| [AndrewShak/webstat-filament-analytics](https://github.com/AndrewShak/webstat-filament-analytics) | 0 | Self-hosted web analytics package for Laravel 12 and Filament 5 |
 | [basel-kaffoura/earlier-projects](https://github.com/basel-kaffoura/earlier-projects) | 0 | Earlier full-stack projects: LMS, e-commerce, task management, real estate and s... |
 | [ichinya/lekalo-php-laravel](https://github.com/ichinya/lekalo-php-laravel) | 0 | Lekalo framework package for Laravel on top of the lekalo-php provider API (Lara... |
 | [i-Val/Siligram](https://github.com/i-Val/Siligram) | 0 | A Telegram bot integration package for laravel |
@@ -16,19 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [mushtaq-ali20/CampusFlow](https://github.com/mushtaq-ali20/CampusFlow) | 0 | School management system for Pakistani schools: admissions, attendance, timetabl... |
 | [roshelpeter-cpu/RenovaHub](https://github.com/roshelpeter-cpu/RenovaHub) | 0 | Collaborative renovation project management platform connecting homeowners, desi... |
 | [mertaydin/laravel-queue-monitor](https://github.com/mertaydin/laravel-queue-monitor) | 1 | Laravel queue monitoring and management package |
-| [bramato/pact-laravel](https://github.com/bramato/pact-laravel) | 0 | Generated Composer package for pact-protocol/laravel |
-| [anjan011/2fa-support-package](https://github.com/anjan011/2fa-support-package) | 0 | 2FA support with TOTP for laravel |
-| [kasirphp/kasir](https://github.com/kasirphp/kasir) | 9 | Midtrans package for Laravel, in Laravel way. |
-| [technicalors/voc-laravel](https://github.com/technicalors/voc-laravel) | 0 | VOC integration protocol v1 host package for Laravel |
-| [abitech-dev/abitech-antibot-laravel](https://github.com/abitech-dev/abitech-antibot-laravel) | 0 | Protege los formularios de Laravel contra bots con Cloudflare Turnstile o Google... |
-| [abitech-dev/abitech-payments-laravel](https://github.com/abitech-dev/abitech-payments-laravel) | 0 | Cobra, reembolsa, suscribe y recibe webhooks de Mercado Pago y Stripe en Laravel... |
-| [imranbru99/packflow-packaging-factory-erp](https://github.com/imranbru99/packflow-packaging-factory-erp) | 0 | Packaging factory ERP for corrugated boxes, flexible pouches, labels, and mono c... |
-| [imranbru99/laravel-sewing-thread-factory](https://github.com/imranbru99/laravel-sewing-thread-factory) | 0 | ERP for sewing-thread and industrial-thread mills. Digitizes spinning, carding, ... |
-| [imranbru99/laravel-garment-factory-erp](https://github.com/imranbru99/laravel-garment-factory-erp) | 0 | Garment factory ERP for trouser, apparel, and RMG mills. Full-package flow: tech... |
-| [Kyslik/laravel-filterable](https://github.com/Kyslik/laravel-filterable) | 115 | Laravel 5/6/7 package to handle filtering by query-string |
-| [HiteaFR/tirelire](https://github.com/HiteaFR/tirelire) | 0 | Self-hosted personal budget app: bank CSV import, rule-based categorisation, sub... |
-| [MuhammadSyahmi98/laravel-database-to-model](https://github.com/MuhammadSyahmi98/laravel-database-to-model) | 0 | Laravel package to generate models and migrations from existing database structu... |
-| [axvilab/wiretap](https://github.com/axvilab/wiretap) | 0 | Self-hosted inspector and monitoring for Laravel: Goserver + Laravel package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [awcodes/filament-versions](https://github.com/awcodes/filament-versions) | 44 | 2026-11-16 | A mostly useless package to display framework versions on Fi... |
-| [awcodes/typebar](https://github.com/awcodes/typebar) | 3 | 2026-11-16 | Mobile Markdown symbol row for the Filament Markdown editor. |
-| [awcodes/thermal](https://github.com/awcodes/thermal) | 3 | 2026-11-16 | Heatmap visualizations for Filament: calendar activity grids... |
-| [awcodes/filament-sticky-header](https://github.com/awcodes/filament-sticky-header) | 83 | 2026-11-16 | A Filament Panels plugin to make headers sticky when scrolli... |
-| [datalogix/laravel-validation](https://github.com/datalogix/laravel-validation) | 3 | 2026-11-16 | Laravel Validation is a package the power of Respect Validat... |
-| [awcodes/shout](https://github.com/awcodes/shout) | 71 | 2026-11-16 | A simple inline contextual notice for Filament forms and inf... |
-| [awcodes/richer-editor](https://github.com/awcodes/richer-editor) | 44 | 2026-11-16 | A collection of extensions and tools to enhance the Filament... |
-| [awcodes/recently](https://github.com/awcodes/recently) | 43 | 2026-11-16 | Easily track and access recently viewed records in your fila... |
-| [awcodes/filament-quick-create](https://github.com/awcodes/filament-quick-create) | 250 | 2026-11-16 | Plugin for Filament Panels that adds a dropdown menu to the ... |
-| [awcodes/panelist](https://github.com/awcodes/panelist) | 24 | 2026-11-16 | A Filament plugin that turns a resource's list page into a m... |
-| [awcodes/palette](https://github.com/awcodes/palette) | 25 | 2026-11-16 | A color picker field for Filament Forms that uses preset col... |
-| [awcodes/overlook](https://github.com/awcodes/overlook) | 192 | 2026-11-16 | An app overview widget for Filament panels. |
-| [awcodes/Matinee](https://github.com/awcodes/Matinee) | 22 | 2026-11-16 | OEmbed field for Filament Panel and Form Builders. |
-| [awcodes/mason](https://github.com/awcodes/mason) | 249 | 2026-11-16 | A simple block based drag and drop page / document builder f... |
-| [awcodes/light-switch](https://github.com/awcodes/light-switch) | 48 | 2026-11-16 | Plugin to add theme switching (light/dark/system) to the aut... |
-| [awcodes/filament-gravatar](https://github.com/awcodes/filament-gravatar) | 32 | 2026-11-16 | Replace Filament's default avatar url provider with one for ... |
-| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 440 | 2026-11-16 | A media picker plugin for Filament Panels. |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 210 | 2026-11-16 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [awcodes/botly](https://github.com/awcodes/botly) | 6 | 2026-11-16 | Botly is a Filament plugin to manage your site's robots.txt ... |
-| [awcodes/filament-badgeable-column](https://github.com/awcodes/filament-badgeable-column) | 147 | 2026-11-16 | Display additional context as badges alongside your Filament... |
+| [jeffersongoncalves/filament-lgpd-audit-log](https://github.com/jeffersongoncalves/filament-lgpd-audit-log) | 0 | 2026-11-17 | Filament plugin for laravel-lgpd-audit-log: browse who viewe... |
+| [jeffersongoncalves/filament-lgpd-records](https://github.com/jeffersongoncalves/filament-lgpd-records) | 0 | 2026-11-17 | Filament plugin for laravel-lgpd-records: manage your LGPD r... |
+| [jeffersongoncalves/filament-lgpd-retention](https://github.com/jeffersongoncalves/filament-lgpd-retention) | 1 | 2026-11-17 | Filament plugin for laravel-lgpd-retention: preview and run ... |
+| [jeffersongoncalves/filament-lgpd-incidents](https://github.com/jeffersongoncalves/filament-lgpd-incidents) | 0 | 2026-11-17 | Filament plugin for laravel-lgpd-incidents: register LGPD se... |
+| [jeffersongoncalves/filament-lgpd-consent](https://github.com/jeffersongoncalves/filament-lgpd-consent) | 1 | 2026-11-17 | Filament plugin for laravel-lgpd-consent: browse the append-... |
+| [jeffersongoncalves/filament-lgpd-dsar](https://github.com/jeffersongoncalves/filament-lgpd-dsar) | 1 | 2026-11-17 | Filament plugin to handle LGPD data subject requests (art. 1... |
+| [jeffersongoncalves/filament-lgpd](https://github.com/jeffersongoncalves/filament-lgpd) | 1 | 2026-11-17 | Filament plugin for laravel-lgpd: a personal data inventory ... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-17 | Identity and access management for Laravel: installs the aut... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-17 | A lightweight, convention-driven modular architecture packag... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-17 | A Laravel package that provides flexible and extensible reso... |
+| [cable8mm/laravel-portone](https://github.com/cable8mm/laravel-portone) | 0 | 2026-11-17 | 한국의 PG사 포트원(PortOne) V2 단건 결제를 위한 Laravel 패키지입니다. Laravel Ca... |
+| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-17 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
+| [iamkarsoft/movie-app](https://github.com/iamkarsoft/movie-app) | 1 | 2026-11-17 | Movie App to keep track of movies |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-11-17 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-11-16 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [jeffersongoncalves/laravel-help-desk](https://github.com/jeffersongoncalves/laravel-help-desk) | 13 | 2026-11-16 | A comprehensive help desk and ticket management system for L... |
+| [akaunting/laravel-apexcharts](https://github.com/akaunting/laravel-apexcharts) | 84 | 2026-11-16 | ApexCharts package for Laravel |
+| [luaniban/security-system](https://github.com/luaniban/security-system) | 0 | 2026-11-16 | SecureShop: loja em Laravel 13 e Livewire 4 para estudar seg... |
+| [Gerenuk-LTD/filament-pennant](https://github.com/Gerenuk-LTD/filament-pennant) | 0 | 2026-11-16 | Manage Pennant feature flags in your Filament panel. |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-16 | Automated code analysis for Laravel applications with 73 ope... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-17T00:43 | 13 | 1751 | 8142 |
 | 2026-11-16T18:27 | 4 | 1759 | 8129 |
 | 2026-11-16T12:38 | 5 | 1744 | 8125 |
 | 2026-11-16T06:50 | 2 | 1747 | 8121 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-15T06:30 | 1 | 1734 | 8107 |
 | 2026-11-15T00:45 | 4 | 1731 | 8106 |
 | 2026-11-14T18:24 | 7 | 1728 | 8102 |
-| 2026-11-14T12:26 | 5 | 1729 | 8095 |
 
 ---
 

@@ -2,16 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8142  
-**Last updated:** 2026-11-17T00:43:06.287Z
+**Total packages tracked:** 8146  
+**Last updated:** 2026-11-17T06:33:34.592Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [solutionforest/filament-drilldown-nav](https://github.com/solutionforest/filament-drilldown-nav) | 0 | Drill-down sidebar navigation for Filament v5 panels: one level at a time, a men... |
+| [jeffersongoncalves/filament-lgpd-vendors](https://github.com/jeffersongoncalves/filament-lgpd-vendors) | 0 | Filament plugin for laravel-lgpd-vendors: keep your LGPD vendor register in the ... |
+| [jeffersongoncalves/filament-lgpd-ripd](https://github.com/jeffersongoncalves/filament-lgpd-ripd) | 0 | Filament plugin for laravel-lgpd-ripd: write LGPD data protection impact assessm... |
+| [elegasoft/mailbox-router](https://github.com/elegasoft/mailbox-router) | 1 | This package extends beyondcode/laravel-mail by providing a simple syntax to reg... |
 | [Gerenuk-LTD/filament-table-views](https://github.com/Gerenuk-LTD/filament-table-views) | 0 | Saved table views and column filters for your Filament panel. |
-| [jeffersongoncalves/filament-lgpd-audit-log](https://github.com/jeffersongoncalves/filament-lgpd-audit-log) | 0 | Filament plugin for laravel-lgpd-audit-log: browse who viewed, changed, exported... |
-| [jeffersongoncalves/filament-lgpd-records](https://github.com/jeffersongoncalves/filament-lgpd-records) | 0 | Filament plugin for laravel-lgpd-records: manage your LGPD records of processing... |
+| [jeffersongoncalves/filament-lgpd-audit-log](https://github.com/jeffersongoncalves/filament-lgpd-audit-log) | 1 | Filament plugin for laravel-lgpd-audit-log: browse who viewed, changed, exported... |
+| [jeffersongoncalves/filament-lgpd-records](https://github.com/jeffersongoncalves/filament-lgpd-records) | 1 | Filament plugin for laravel-lgpd-records: manage your LGPD records of processing... |
 | [jeffersongoncalves/filament-lgpd-incidents](https://github.com/jeffersongoncalves/filament-lgpd-incidents) | 0 | Filament plugin for laravel-lgpd-incidents: register LGPD security incidents, as... |
 | [jeffersongoncalves/filament-lgpd-retention](https://github.com/jeffersongoncalves/filament-lgpd-retention) | 1 | Filament plugin for laravel-lgpd-retention: preview and run LGPD data retention,... |
 | [jeffersongoncalves/filament-lgpd-consent](https://github.com/jeffersongoncalves/filament-lgpd-consent) | 1 | Filament plugin for laravel-lgpd-consent: browse the append-only LGPD consent le... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [basel-kaffoura/earlier-projects](https://github.com/basel-kaffoura/earlier-projects) | 0 | Earlier full-stack projects: LMS, e-commerce, task management, real estate and s... |
 | [ichinya/lekalo-php-laravel](https://github.com/ichinya/lekalo-php-laravel) | 0 | Lekalo framework package for Laravel on top of the lekalo-php provider API (Lara... |
 | [i-Val/Siligram](https://github.com/i-Val/Siligram) | 0 | A Telegram bot integration package for laravel |
-| [barannmeisterr/ISP-Infrastructure-Availability-Check](https://github.com/barannmeisterr/ISP-Infrastructure-Availability-Check) | 0 | Address-based internet infrastructure lookup and ISP (ISS) package comparison fo... |
-| [mushtaq-ali20/CampusFlow](https://github.com/mushtaq-ali20/CampusFlow) | 0 | School management system for Pakistani schools: admissions, attendance, timetabl... |
-| [roshelpeter-cpu/RenovaHub](https://github.com/roshelpeter-cpu/RenovaHub) | 0 | Collaborative renovation project management platform connecting homeowners, desi... |
-| [mertaydin/laravel-queue-monitor](https://github.com/mertaydin/laravel-queue-monitor) | 1 | Laravel queue monitoring and management package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/filament-lgpd-audit-log](https://github.com/jeffersongoncalves/filament-lgpd-audit-log) | 0 | 2026-11-17 | Filament plugin for laravel-lgpd-audit-log: browse who viewe... |
-| [jeffersongoncalves/filament-lgpd-records](https://github.com/jeffersongoncalves/filament-lgpd-records) | 0 | 2026-11-17 | Filament plugin for laravel-lgpd-records: manage your LGPD r... |
-| [jeffersongoncalves/filament-lgpd-retention](https://github.com/jeffersongoncalves/filament-lgpd-retention) | 1 | 2026-11-17 | Filament plugin for laravel-lgpd-retention: preview and run ... |
-| [jeffersongoncalves/filament-lgpd-incidents](https://github.com/jeffersongoncalves/filament-lgpd-incidents) | 0 | 2026-11-17 | Filament plugin for laravel-lgpd-incidents: register LGPD se... |
-| [jeffersongoncalves/filament-lgpd-consent](https://github.com/jeffersongoncalves/filament-lgpd-consent) | 1 | 2026-11-17 | Filament plugin for laravel-lgpd-consent: browse the append-... |
-| [jeffersongoncalves/filament-lgpd-dsar](https://github.com/jeffersongoncalves/filament-lgpd-dsar) | 1 | 2026-11-17 | Filament plugin to handle LGPD data subject requests (art. 1... |
-| [jeffersongoncalves/filament-lgpd](https://github.com/jeffersongoncalves/filament-lgpd) | 1 | 2026-11-17 | Filament plugin for laravel-lgpd: a personal data inventory ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-11-17 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 112 | 2026-11-17 | A package to easily make use of Lucide Icons in your Laravel... |
+| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | 2026-11-17 | Laravel package powered by LibreDWG for DWG thumbnail extrac... |
+| [steadfast-it/SteadFast-Laravel-Package](https://github.com/steadfast-it/SteadFast-Laravel-Package) | 26 | 2026-11-17 | A complete Laravel package for SteadFast Courier Limited |
+| [solutionforest/filament-drilldown-nav](https://github.com/solutionforest/filament-drilldown-nav) | 0 | 2026-11-17 | Drill-down sidebar navigation for Filament v5 panels: one le... |
+| [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) | 236 | 2026-11-17 | A Sidecar function to run Browsershot on Lambda. |
+| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-11-17 | A Laravel package as a backend administrating tool for Conte... |
+| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 12 | 2026-11-17 | Complete gamification package with optional UI |
+| [Ardakilic/laravel-mutlucell-sms](https://github.com/Ardakilic/laravel-mutlucell-sms) | 45 | 2026-11-17 | Laravel için Mutlucell SMS Kütüphanesi |
+| [Particle-Academy/laravel-jobs](https://github.com/Particle-Academy/laravel-jobs) | 0 | 2026-11-17 | Laravel package for job boards - employer job postings, publ... |
+| [Particle-Academy/laravel-courses](https://github.com/Particle-Academy/laravel-courses) | 0 | 2026-11-17 | Laravel package for selling & serving curriculums, courses, ... |
+| [Particle-Academy/fancy-compliance](https://github.com/Particle-Academy/fancy-compliance) | 0 | 2026-11-17 | Consent for Laravel: host-defined categories, an append-only... |
+| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | 2026-11-17 | A consumer-agent voting ledger for major package changes: a ... |
 | [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-17 | Identity and access management for Laravel: installs the aut... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-17 | A lightweight, convention-driven modular architecture packag... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-17 | A Laravel package that provides flexible and extensible reso... |
-| [cable8mm/laravel-portone](https://github.com/cable8mm/laravel-portone) | 0 | 2026-11-17 | 한국의 PG사 포트원(PortOne) V2 단건 결제를 위한 Laravel 패키지입니다. Laravel Ca... |
-| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-17 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
-| [iamkarsoft/movie-app](https://github.com/iamkarsoft/movie-app) | 1 | 2026-11-17 | Movie App to keep track of movies |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-11-17 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-11-16 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [jeffersongoncalves/laravel-help-desk](https://github.com/jeffersongoncalves/laravel-help-desk) | 13 | 2026-11-16 | A comprehensive help desk and ticket management system for L... |
-| [akaunting/laravel-apexcharts](https://github.com/akaunting/laravel-apexcharts) | 84 | 2026-11-16 | ApexCharts package for Laravel |
-| [luaniban/security-system](https://github.com/luaniban/security-system) | 0 | 2026-11-16 | SecureShop: loja em Laravel 13 e Livewire 4 para estudar seg... |
-| [Gerenuk-LTD/filament-pennant](https://github.com/Gerenuk-LTD/filament-pennant) | 0 | 2026-11-16 | Manage Pennant feature flags in your Filament panel. |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-16 | Automated code analysis for Laravel applications with 73 ope... |
+| [diepxuan/laravel-support](https://github.com/diepxuan/laravel-support) | 1 | 2026-11-17 | This package provides additional support and utilities for L... |
+| [calebdw/phpstan-laravel](https://github.com/calebdw/phpstan-laravel) | 38 | 2026-11-17 | A PHPStan extension for analysis of Laravel applications and... |
+| [GrafiteInc/Forms](https://github.com/GrafiteInc/Forms) | 37 | 2026-11-17 | Form Classes for Laravel - letting you generate HTML forms f... |
+| [StarsNet-Internal/project-super_template-laravel-package_12_api](https://github.com/StarsNet-Internal/project-super_template-laravel-package_12_api) | 0 | 2026-11-17 |  |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-17 | Automated code analysis for Laravel applications with 73 ope... |
+| [openric/service](https://github.com/openric/service) | 0 | 2026-11-17 | Standalone OpenRiC API service: Laravel 12, extracted from H... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-17T06:33 | 4 | 1760 | 8146 |
 | 2026-11-17T00:43 | 13 | 1751 | 8142 |
 | 2026-11-16T18:27 | 4 | 1759 | 8129 |
 | 2026-11-16T12:38 | 5 | 1744 | 8125 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-15T12:27 | 3 | 1733 | 8110 |
 | 2026-11-15T06:30 | 1 | 1734 | 8107 |
 | 2026-11-15T00:45 | 4 | 1731 | 8106 |
-| 2026-11-14T18:24 | 7 | 1728 | 8102 |
 
 ---
 

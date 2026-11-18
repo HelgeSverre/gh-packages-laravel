@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8175  
-**Last updated:** 2026-11-17T18:26:57.143Z
+**Total packages tracked:** 8190  
+**Last updated:** 2026-11-18T00:43:48.932Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [jeffersongoncalves/filament-gdpr-children](https://github.com/jeffersongoncalves/filament-gdpr-children) | 0 | Filament plugin for laravel-gdpr-children: GDPR children's consent (Art. 8) in y... |
-| [jeffersongoncalves/filament-gdpr-dpia](https://github.com/jeffersongoncalves/filament-gdpr-dpia) | 0 | Filament plugin for laravel-gdpr-dpia: data protection impact assessments (Art. ... |
-| [jeffersongoncalves/filament-gdpr-vendors](https://github.com/jeffersongoncalves/filament-gdpr-vendors) | 0 | Filament plugin for laravel-gdpr-vendors: keep your GDPR vendor register in the ... |
-| [jeffersongoncalves/filament-gdpr-breaches](https://github.com/jeffersongoncalves/filament-gdpr-breaches) | 1 | Filament plugin for laravel-gdpr-breaches: your personal data breach register in... |
+| [HyanFerreira/shop-plus](https://github.com/HyanFerreira/shop-plus) | 0 | E-commerce acadêmico em Laravel e Livewire, com catálogo, estoque, pedidos e sim... |
+| [jeffersongoncalves/filament-ccpa](https://github.com/jeffersongoncalves/filament-ccpa) | 1 | Filament plugin for laravel-ccpa: your personal information inventory in the pan... |
+| [jeffersongoncalves/filament-ccpa-opt-out](https://github.com/jeffersongoncalves/filament-ccpa-opt-out) | 1 | Filament plugin for laravel-ccpa-opt-out: the CCPA opt-out ledger in your panel,... |
+| [jeffersongoncalves/filament-ccpa-requests](https://github.com/jeffersongoncalves/filament-ccpa-requests) | 1 | Filament plugin for laravel-ccpa-requests: handle CCPA consumer requests to know... |
+| [jeffersongoncalves/filament-ccpa-retention](https://github.com/jeffersongoncalves/filament-ccpa-retention) | 1 | Filament plugin for laravel-ccpa-retention: CCPA retention run from your panel: ... |
+| [jeffersongoncalves/filament-ccpa-audit-log](https://github.com/jeffersongoncalves/filament-ccpa-audit-log) | 1 | Filament plugin for laravel-ccpa-audit-log: the CCPA audit log in your panel, re... |
+| [jeffersongoncalves/filament-ccpa-notices](https://github.com/jeffersongoncalves/filament-ccpa-notices) | 1 | Filament plugin for laravel-ccpa-notices: maintain the processing activities beh... |
+| [jeffersongoncalves/filament-ccpa-vendors](https://github.com/jeffersongoncalves/filament-ccpa-vendors) | 1 | Filament plugin for laravel-ccpa-vendors: your CCPA service providers, contracto... |
+| [jeffersongoncalves/filament-ccpa-risk-assessments](https://github.com/jeffersongoncalves/filament-ccpa-risk-assessments) | 1 | Filament plugin for laravel-ccpa-risk-assessments: CCPA risk assessments in your... |
+| [jeffersongoncalves/filament-ccpa-breaches](https://github.com/jeffersongoncalves/filament-ccpa-breaches) | 1 | Filament plugin for laravel-ccpa-breaches: California data breaches in your pane... |
+| [jeffersongoncalves/filament-ccpa-minors](https://github.com/jeffersongoncalves/filament-ccpa-minors) | 1 | Filament plugin for laravel-ccpa-minors: age check results, parent or guardian l... |
+| [kefyusuf/surfacerelay](https://github.com/kefyusuf/surfacerelay) | 0 | Protocol-neutral action contract and reference runtimes for exposing stateful we... |
+| [jedymatt/laravel-sail-env](https://github.com/jedymatt/laravel-sail-env) | 6 | Configures .env file to match the laravel sail environment variable's requiremen... |
+| [Plytas/laravel-discord-interactions](https://github.com/Plytas/laravel-discord-interactions) | 1 | Build Discord bots in Laravel: slash commands, buttons, select menus and modals ... |
+| [jobtech-dev/laravel-chunky](https://github.com/jobtech-dev/laravel-chunky) | 44 | This package handles chunked files upload requests in order to safely save chunk... |
+| [jeffersongoncalves/filament-gdpr-children](https://github.com/jeffersongoncalves/filament-gdpr-children) | 2 | Filament plugin for laravel-gdpr-children: GDPR children's consent (Art. 8) in y... |
+| [jeffersongoncalves/filament-gdpr-dpia](https://github.com/jeffersongoncalves/filament-gdpr-dpia) | 1 | Filament plugin for laravel-gdpr-dpia: data protection impact assessments (Art. ... |
+| [jeffersongoncalves/filament-gdpr-vendors](https://github.com/jeffersongoncalves/filament-gdpr-vendors) | 1 | Filament plugin for laravel-gdpr-vendors: keep your GDPR vendor register in the ... |
+| [jeffersongoncalves/filament-gdpr-breaches](https://github.com/jeffersongoncalves/filament-gdpr-breaches) | 2 | Filament plugin for laravel-gdpr-breaches: your personal data breach register in... |
 | [jeffersongoncalves/filament-gdpr-retention](https://github.com/jeffersongoncalves/filament-gdpr-retention) | 1 | Filament plugin for laravel-gdpr-retention: GDPR storage limitation run from you... |
-| [jeffersongoncalves/filament-gdpr-records](https://github.com/jeffersongoncalves/filament-gdpr-records) | 0 | Filament plugin for laravel-gdpr-records: maintain your GDPR records of processi... |
-| [jeffersongoncalves/filament-gdpr-audit-log](https://github.com/jeffersongoncalves/filament-gdpr-audit-log) | 2 | Filament plugin for laravel-gdpr-audit-log: the GDPR accountability log in your ... |
-| [jeffersongoncalves/filament-gdpr-consent](https://github.com/jeffersongoncalves/filament-gdpr-consent) | 1 | Filament plugin for laravel-gdpr-consent: the GDPR consent ledger in your panel,... |
-| [jeffersongoncalves/filament-gdpr](https://github.com/jeffersongoncalves/filament-gdpr) | 1 | Filament plugin for laravel-gdpr: your personal data inventory in the panel, wit... |
-| [jeffersongoncalves/filament-gdpr-dsar](https://github.com/jeffersongoncalves/filament-gdpr-dsar) | 1 | Filament plugin for laravel-gdpr-dsar: handle GDPR data subject requests (Arts. ... |
-| [roberteinsle/filmlog](https://github.com/roberteinsle/filmlog) | 0 | Personal film diary & watchlist (Laravel 13, Livewire 4): TMDB search, viewings ... |
-| [GuNNeR42/laravel-eet-module](https://github.com/GuNNeR42/laravel-eet-module) | 0 | Laravel client for the Czech electronic registration of sales (EET 2.0) |
-| [vm-engine/synapse](https://github.com/vm-engine/synapse) | 0 | Laravel Modular Engine Package |
-| [Labyrinthe-Team/labyrinthe-pay-package-laravel](https://github.com/Labyrinthe-Team/labyrinthe-pay-package-laravel) | 0 |  |
-| [Hounddd/wn-data-plugin](https://github.com/Hounddd/wn-data-plugin) | 0 | Spatie laravel-data package wrapper for WinterCMS  |
-| [EvilFreelancer/easyrsa-php](https://github.com/EvilFreelancer/easyrsa-php) | 7 | EasyRSA wrapper for PHP |
-| [okarabudka/laravel-stellar](https://github.com/okarabudka/laravel-stellar) | 0 | Laravel repository with Simple News Package && Orchid admin panel |
-| [dowardev/glitchvy](https://github.com/dowardev/glitchvy) | 0 | Error reporter package (cliente + Laravel SDK). Minimal error reporting for Vue ... |
-| [netgsm1/netiys](https://github.com/netgsm1/netiys) | 0 | Netgsm Iys Composer Package (symfony & laravel entegration) |
-| [FBIS-Tech/google-chat-logger](https://github.com/FBIS-Tech/google-chat-logger) | 0 | Google Chat Logger  package for laravel |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-17 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-17 |  |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 210 | 2026-11-17 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [kitloom/nova-starter](https://github.com/kitloom/nova-starter) | 0 | 2026-11-17 | Laravel starter kit: kitloom with the Laravel Nova admin. Th... |
-| [tailcove/laravel](https://github.com/tailcove/laravel) | 0 | 2026-11-17 | Laravel logging for Tailcove: a Monolog handler and service ... |
-| [Labyrinthe-Team/labyrinthe-pay-package-laravel](https://github.com/Labyrinthe-Team/labyrinthe-pay-package-laravel) | 0 | 2026-11-17 |  |
-| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-11-17 | A standard suite of essentials for every Laravel app you bui... |
-| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | 2026-11-17 | AI-assisted job search platform: one career profile, tailore... |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 7 | 2026-11-17 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [Pollora/framework](https://github.com/Pollora/framework) | 31 | 2026-11-17 | The Laravel framework for WordPress: Blade, Laravel routing ... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-17 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-11-17 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-11-17 | Runtime base library for building Laravel packages: fluent P... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-17 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-17 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [EmilianoLedesma/Expendiente_Escuelas](https://github.com/EmilianoLedesma/Expendiente_Escuelas) | 0 | 2026-11-17 | Digitalización del trámite de incorporación de escuelas ante... |
-| [internetdata/sdk-php-laravel](https://github.com/internetdata/sdk-php-laravel) | 0 | 2026-11-17 | Official Laravel middleware for the InternetData API. Attach... |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 87 | 2026-11-17 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
-| [vpndetection-io/sdk-php-laravel](https://github.com/vpndetection-io/sdk-php-laravel) | 0 | 2026-11-17 | Official Laravel middleware for the VPNDetection API. Detect... |
-| [cable8mm/laravel-portone](https://github.com/cable8mm/laravel-portone) | 0 | 2026-11-17 | 한국의 PG사 포트원(PortOne) V2 단건 결제를 위한 Laravel 패키지입니다. Laravel Ca... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-18 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [laravel/nightwatch](https://github.com/laravel/nightwatch) | 380 | 2026-11-18 | The official Laravel Nightwatch package. |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-11-18 | A package to create datatables using alpinejs, tailwind, liv... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-18 |  |
+| [dowardev/glitchvy](https://github.com/dowardev/glitchvy) | 0 | 2026-11-18 | Error reporter package (cliente + Laravel SDK). Minimal erro... |
+| [James-Lavina/Budget-App](https://github.com/James-Lavina/Budget-App) | 0 | 2026-11-18 |  |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-18 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [jeffersongoncalves/filament-cookie-consent](https://github.com/jeffersongoncalves/filament-cookie-consent) | 9 | 2026-11-18 | Filament plugin for cookie consent with settings page - GDPR... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-11-18 | Lightweight toolkit for modular development in Laravel, for ... |
+| [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 125 | 2026-11-18 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [Quittio/quittio](https://github.com/Quittio/quittio) | 43 | 2026-11-18 | E-invoicing for PHP and Laravel (E-Rechnung): create, valida... |
+| [Quittio/laravel](https://github.com/Quittio/laravel) | 0 | 2026-11-18 | [READ ONLY] Quittio Laravel integration for e-invoicing: ZUG... |
+| [jeffersongoncalves/laravel-umami](https://github.com/jeffersongoncalves/laravel-umami) | 5 | 2026-11-18 | Laravel package to integrate Umami analytics into Blade temp... |
+| [jeffersongoncalves/laravel-goatcounter](https://github.com/jeffersongoncalves/laravel-goatcounter) | 1 | 2026-11-18 | GoatCounter for Laravel: inject the tracking script in your ... |
+| [jeffersongoncalves/laravel-pirsch](https://github.com/jeffersongoncalves/laravel-pirsch) | 1 | 2026-11-18 | Pirsch for Laravel: inject the tracking script in your Blade... |
+| [jeffersongoncalves/laravel-cloudflare-web-analytics](https://github.com/jeffersongoncalves/laravel-cloudflare-web-analytics) | 1 | 2026-11-18 | Cloudflare Web Analytics for Laravel: inject the tracking sc... |
+| [jeffersongoncalves/laravel-simple-analytics](https://github.com/jeffersongoncalves/laravel-simple-analytics) | 1 | 2026-11-18 | Simple Analytics for Laravel: inject the tracking script in ... |
+| [jeffersongoncalves/laravel-fathom](https://github.com/jeffersongoncalves/laravel-fathom) | 2 | 2026-11-18 | Laravel package to integrate Fathom Analytics with database-... |
+| [jeffersongoncalves/laravel-plausible](https://github.com/jeffersongoncalves/laravel-plausible) | 2 | 2026-11-18 | A lightweight Laravel package that integrates Plausible Anal... |
+| [jeffersongoncalves/laravel-tawk-to](https://github.com/jeffersongoncalves/laravel-tawk-to) | 1 | 2026-11-18 | Tawk.to for Laravel: render the live chat widget in your Bla... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-18T00:43 | 15 | 1752 | 8190 |
 | 2026-11-17T18:26 | 21 | 1743 | 8175 |
 | 2026-11-17T12:29 | 8 | 901 | 8154 |
 | 2026-11-17T06:33 | 4 | 1760 | 8146 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-16T06:50 | 2 | 1747 | 8121 |
 | 2026-11-16T00:48 | 6 | 1742 | 8119 |
 | 2026-11-15T18:25 | 3 | 1732 | 8113 |
-| 2026-11-15T12:27 | 3 | 1733 | 8110 |
 
 ---
 

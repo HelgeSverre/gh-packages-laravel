@@ -2,23 +2,26 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8212  
-**Last updated:** 2026-11-18T06:33:23.762Z
+**Total packages tracked:** 8215  
+**Last updated:** 2026-11-18T12:29:17.220Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
-| [jeffersongoncalves/filament-quebec-minors](https://github.com/jeffersongoncalves/filament-quebec-minors) | 0 | Filament admin for Quebec Law 25 minors: age checks and links to the person havi... |
-| [jeffersongoncalves/filament-quebec-pia](https://github.com/jeffersongoncalves/filament-quebec-pia) | 0 | Filament admin for Quebec Law 25 privacy impact assessments: projects (s. 3.3) a... |
-| [jeffersongoncalves/filament-quebec-vendors](https://github.com/jeffersongoncalves/filament-quebec-vendors) | 0 | Filament admin for Quebec Law 25 vendors: service providers under a written cont... |
-| [jeffersongoncalves/filament-quebec-governance](https://github.com/jeffersongoncalves/filament-quebec-governance) | 0 | Filament admin for Quebec Law 25 governance: processing activities, recipients a... |
-| [jeffersongoncalves/filament-quebec-incidents](https://github.com/jeffersongoncalves/filament-quebec-incidents) | 0 | Filament admin for Quebec Law 25 confidentiality incidents: the incident registe... |
-| [jeffersongoncalves/filament-quebec-audit-log](https://github.com/jeffersongoncalves/filament-quebec-audit-log) | 0 | Filament admin for the Quebec Law 25 audit log: who viewed, changed, exported or... |
-| [jeffersongoncalves/filament-quebec-retention](https://github.com/jeffersongoncalves/filament-quebec-retention) | 0 | Filament admin for Quebec Law 25 retention: tombstones of destroyed or anonymize... |
-| [jeffersongoncalves/filament-quebec-requests](https://github.com/jeffersongoncalves/filament-quebec-requests) | 0 | Filament admin for Quebec Law 25 requests: access, portability, rectification, d... |
-| [jeffersongoncalves/filament-quebec-consent](https://github.com/jeffersongoncalves/filament-quebec-consent) | 0 | Filament admin for Quebec Law 25 consent: the consent ledger per purpose, per us... |
-| [jeffersongoncalves/filament-quebec](https://github.com/jeffersongoncalves/filament-quebec) | 0 | Filament admin for Quebec Law 25: the personal information inventory declared on... |
+| [packstub/holler](https://github.com/packstub/holler) | 0 | Holler for Laravel: audio, video and screen-share calls between the users of a L... |
+| [shadrackjm/rampart](https://github.com/shadrackjm/rampart) | 0 | Roles & permissions for the Laravel Livewire starter kit. One command, Flux free... |
+| [roelofjan-elsinga/aloia-cms-gui](https://github.com/roelofjan-elsinga/aloia-cms-gui) | 6 | The GUI for the roelofjan-elsinga/aloia-cms package |
+| [jeffersongoncalves/filament-quebec-minors](https://github.com/jeffersongoncalves/filament-quebec-minors) | 1 | Filament admin for Quebec Law 25 minors: age checks and links to the person havi... |
+| [jeffersongoncalves/filament-quebec-pia](https://github.com/jeffersongoncalves/filament-quebec-pia) | 1 | Filament admin for Quebec Law 25 privacy impact assessments: projects (s. 3.3) a... |
+| [jeffersongoncalves/filament-quebec-vendors](https://github.com/jeffersongoncalves/filament-quebec-vendors) | 1 | Filament admin for Quebec Law 25 vendors: service providers under a written cont... |
+| [jeffersongoncalves/filament-quebec-governance](https://github.com/jeffersongoncalves/filament-quebec-governance) | 1 | Filament admin for Quebec Law 25 governance: processing activities, recipients a... |
+| [jeffersongoncalves/filament-quebec-incidents](https://github.com/jeffersongoncalves/filament-quebec-incidents) | 1 | Filament admin for Quebec Law 25 confidentiality incidents: the incident registe... |
+| [jeffersongoncalves/filament-quebec-audit-log](https://github.com/jeffersongoncalves/filament-quebec-audit-log) | 1 | Filament admin for the Quebec Law 25 audit log: who viewed, changed, exported or... |
+| [jeffersongoncalves/filament-quebec-retention](https://github.com/jeffersongoncalves/filament-quebec-retention) | 1 | Filament admin for Quebec Law 25 retention: tombstones of destroyed or anonymize... |
+| [jeffersongoncalves/filament-quebec-requests](https://github.com/jeffersongoncalves/filament-quebec-requests) | 1 | Filament admin for Quebec Law 25 requests: access, portability, rectification, d... |
+| [jeffersongoncalves/filament-quebec-consent](https://github.com/jeffersongoncalves/filament-quebec-consent) | 1 | Filament admin for Quebec Law 25 consent: the consent ledger per purpose, per us... |
+| [jeffersongoncalves/filament-quebec](https://github.com/jeffersongoncalves/filament-quebec) | 1 | Filament admin for Quebec Law 25: the personal information inventory declared on... |
 | [jeffersongoncalves/filament-us-privacy-minors](https://github.com/jeffersongoncalves/filament-us-privacy-minors) | 1 | Filament plugin for laravel-us-privacy-minors: age checks, parent or guardian li... |
 | [jeffersongoncalves/filament-us-privacy-vendors](https://github.com/jeffersongoncalves/filament-us-privacy-vendors) | 1 | Filament plugin for laravel-us-privacy-vendors: the processors and third parties... |
 | [jeffersongoncalves/filament-us-privacy-assessments](https://github.com/jeffersongoncalves/filament-us-privacy-assessments) | 1 | Filament plugin for laravel-us-privacy-assessments: data protection assessments ... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/filament-us-privacy-requests](https://github.com/jeffersongoncalves/filament-us-privacy-requests) | 1 | Filament plugin for laravel-us-privacy-requests: consumer requests under the US ... |
 | [jeffersongoncalves/filament-us-privacy-opt-out](https://github.com/jeffersongoncalves/filament-us-privacy-opt-out) | 1 | Filament plugin for laravel-us-privacy-opt-out: the US state privacy opt-out and... |
 | [jeffersongoncalves/filament-us-privacy](https://github.com/jeffersongoncalves/filament-us-privacy) | 1 | Filament plugin for laravel-us-privacy: the personal data inventory and the rule... |
-| [moztopia/moztopia-geolookup](https://github.com/moztopia/moztopia-geolookup) | 0 | GeoLookup: local administrative address search, postal-code lookup and reverse g... |
-| [devtical/nova-qrcode-field](https://github.com/devtical/nova-qrcode-field) | 46 | A Laravel Nova field to generate QR Code |
-| [ITMOSOFT/laravel-commerce-adapters](https://github.com/ITMOSOFT/laravel-commerce-adapters) | 0 | Optional integration adapters connecting independent ITMOSOFT Laravel commerce p... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,7 +40,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 476 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 477 | Open Source Laravel CRM Package |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-18 |  |
-| [ichinya/lekalo-php-laravel](https://github.com/ichinya/lekalo-php-laravel) | 0 | 2026-11-18 | Lekalo framework package for Laravel on top of the lekalo-ph... |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-18 | Identity and access management for Laravel: installs the aut... |
-| [ITMOSOFT/laravel-commerce-adapters](https://github.com/ITMOSOFT/laravel-commerce-adapters) | 0 | 2026-11-18 | Optional integration adapters connecting independent ITMOSOF... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-18 | Automated code analysis for Laravel applications with 73 ope... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-11-18 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [Climactic/laravel-credits](https://github.com/Climactic/laravel-credits) | 330 | 2026-11-18 | A ledger-based Laravel package for managing credit-based sys... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-11-18 | Simple package for adding directives to show/hide content fr... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-18 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-18 | A lightweight, convention-driven modular architecture packag... |
-| [jeffersongoncalves/filament-quebec-minors](https://github.com/jeffersongoncalves/filament-quebec-minors) | 0 | 2026-11-18 | Filament admin for Quebec Law 25 minors: age checks and link... |
-| [jeffersongoncalves/filament-quebec-pia](https://github.com/jeffersongoncalves/filament-quebec-pia) | 0 | 2026-11-18 | Filament admin for Quebec Law 25 privacy impact assessments:... |
-| [jeffersongoncalves/filament-quebec-vendors](https://github.com/jeffersongoncalves/filament-quebec-vendors) | 0 | 2026-11-18 | Filament admin for Quebec Law 25 vendors: service providers ... |
-| [moztopia/moztopia-geolookup](https://github.com/moztopia/moztopia-geolookup) | 0 | 2026-11-18 | GeoLookup: local administrative address search, postal-code ... |
-| [jeffersongoncalves/filament-quebec-governance](https://github.com/jeffersongoncalves/filament-quebec-governance) | 0 | 2026-11-18 | Filament admin for Quebec Law 25 governance: processing acti... |
-| [php-regex/regex-laravel](https://github.com/php-regex/regex-laravel) | 0 | 2026-11-18 | [READ-ONLY] Laravel integration for PHPRegex: the Regex serv... |
-| [jeffersongoncalves/filament-quebec-incidents](https://github.com/jeffersongoncalves/filament-quebec-incidents) | 0 | 2026-11-18 | Filament admin for Quebec Law 25 confidentiality incidents: ... |
-| [jeffersongoncalves/filament-quebec-audit-log](https://github.com/jeffersongoncalves/filament-quebec-audit-log) | 0 | 2026-11-18 | Filament admin for the Quebec Law 25 audit log: who viewed, ... |
-| [jeffersongoncalves/filament-quebec-retention](https://github.com/jeffersongoncalves/filament-quebec-retention) | 0 | 2026-11-18 | Filament admin for Quebec Law 25 retention: tombstones of de... |
-| [jeffersongoncalves/filament-quebec-requests](https://github.com/jeffersongoncalves/filament-quebec-requests) | 0 | 2026-11-18 | Filament admin for Quebec Law 25 requests: access, portabili... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-18 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-11-18 | A Laravel package as a backend administrating tool for Conte... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-18 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-18 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 31 | 2026-11-18 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-11-18 | Runtime base library for building Laravel packages: fluent P... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-18 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-18 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [apartejs/laravel](https://github.com/apartejs/laravel) | 0 | 2026-11-18 | An AI chat for Blade, Livewire and Filament pages, wired to ... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-18 | Resrv is a booking engine for Statamic. |
+| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-11-18 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
+| [utecca/ecourier-laravel](https://github.com/utecca/ecourier-laravel) | 0 | 2026-11-18 | Laravel client package for working with the eCourier API |
+| [Code-Sphere-Development/oauth](https://github.com/Code-Sphere-Development/oauth) | 0 | 2026-11-18 | Laravel package: OAuth2 client for CodeSphere Accounts SSO -... |
+| [Grazulex/laravel-apiroute](https://github.com/Grazulex/laravel-apiroute) | 112 | 2026-11-18 | Complete API versioning lifecycle management for Laravel |
+| [kakaprodo/presigned-action](https://github.com/kakaprodo/presigned-action) | 0 | 2026-11-18 | A Laravel package for securely presigning actions on any ent... |
+| [filagora/filagora-plugins](https://github.com/filagora/filagora-plugins) | 0 | 2026-11-18 | Filagora plugins: a plugin and release library with moderati... |
+| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-11-18 | Laravel package for integrating with Ranetrace – error track... |
+| [Grazulex/laravel-tddraft](https://github.com/Grazulex/laravel-tddraft) | 3 | 2026-11-18 | 🧪 Write, track, and promote exploratory TDD scenarios in La... |
+| [Grazulex/laravel-statecraft](https://github.com/Grazulex/laravel-statecraft) | 8 | 2026-11-18 | 🧩 Define entity workflows declaratively (YAML), and control... |
+| [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 2026-11-18 | 🔐 Configurable security checks for Laravel applications. Ru... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-18T12:29 | 3 | 1760 | 8215 |
 | 2026-11-18T06:33 | 22 | 1745 | 8212 |
 | 2026-11-18T00:43 | 15 | 1752 | 8190 |
 | 2026-11-17T18:26 | 21 | 1743 | 8175 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-16T18:27 | 4 | 1759 | 8129 |
 | 2026-11-16T12:38 | 5 | 1744 | 8125 |
 | 2026-11-16T06:50 | 2 | 1747 | 8121 |
-| 2026-11-16T00:48 | 6 | 1742 | 8119 |
 
 ---
 

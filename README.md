@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8215  
-**Last updated:** 2026-11-18T12:29:17.220Z
+**Total packages tracked:** 8225  
+**Last updated:** 2026-11-18T18:25:39.400Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [cholladay0816/Quizly](https://github.com/cholladay0816/Quizly) | 1 | Test-Driven Development exercise for a quiz-based application, which enables use... |
+| [himacode-company/workerless](https://github.com/himacode-company/workerless) | 0 | Laravel queues without cron, SSH or queue:work. Built for shared hosting. |
+| [alibori/laravel-watson](https://github.com/alibori/laravel-watson) | 0 | Laravel Watson watches your application's exceptions, uses the Laravel AI SDK to... |
+| [artisan-toolbox/permit](https://github.com/artisan-toolbox/permit) | 0 | Permit is a Laravel authorization package that builds on Gates and Policies to p... |
+| [bisual/bisual-monitor](https://github.com/bisual/bisual-monitor) | 0 | Laravel package to report scheduled command check-ins to Bisual status monitors |
+| [FBIS-Tech/laravel-rbac](https://github.com/FBIS-Tech/laravel-rbac) | 0 | Role based access control package |
+| [netgsm1/voipphone](https://github.com/netgsm1/voipphone) | 0 | Netgsm Voip Phone Composer Package (symfony & laravel entegration) |
+| [netgsm1/account](https://github.com/netgsm1/account) | 0 | Netgsm Account Composer Package (symfony & laravel entegration) |
+| [netgsm1/voicemail](https://github.com/netgsm1/voicemail) | 0 | Netgsm Voice Mail Composer Package (symfony & laravel entegration) |
+| [netgsm1/netsantral](https://github.com/netgsm1/netsantral) | 2 | Netgsm Netsantral Composer Package (symfony & laravel entegration) |
 | [packstub/holler](https://github.com/packstub/holler) | 0 | Holler for Laravel: audio, video and screen-share calls between the users of a L... |
 | [shadrackjm/rampart](https://github.com/shadrackjm/rampart) | 0 | Roles & permissions for the Laravel Livewire starter kit. One command, Flux free... |
 | [roelofjan-elsinga/aloia-cms-gui](https://github.com/roelofjan-elsinga/aloia-cms-gui) | 6 | The GUI for the roelofjan-elsinga/aloia-cms package |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jeffersongoncalves/filament-quebec-incidents](https://github.com/jeffersongoncalves/filament-quebec-incidents) | 1 | Filament admin for Quebec Law 25 confidentiality incidents: the incident registe... |
 | [jeffersongoncalves/filament-quebec-audit-log](https://github.com/jeffersongoncalves/filament-quebec-audit-log) | 1 | Filament admin for the Quebec Law 25 audit log: who viewed, changed, exported or... |
 | [jeffersongoncalves/filament-quebec-retention](https://github.com/jeffersongoncalves/filament-quebec-retention) | 1 | Filament admin for Quebec Law 25 retention: tombstones of destroyed or anonymize... |
-| [jeffersongoncalves/filament-quebec-requests](https://github.com/jeffersongoncalves/filament-quebec-requests) | 1 | Filament admin for Quebec Law 25 requests: access, portability, rectification, d... |
-| [jeffersongoncalves/filament-quebec-consent](https://github.com/jeffersongoncalves/filament-quebec-consent) | 1 | Filament admin for Quebec Law 25 consent: the consent ledger per purpose, per us... |
-| [jeffersongoncalves/filament-quebec](https://github.com/jeffersongoncalves/filament-quebec) | 1 | Filament admin for Quebec Law 25: the personal information inventory declared on... |
-| [jeffersongoncalves/filament-us-privacy-minors](https://github.com/jeffersongoncalves/filament-us-privacy-minors) | 1 | Filament plugin for laravel-us-privacy-minors: age checks, parent or guardian li... |
-| [jeffersongoncalves/filament-us-privacy-vendors](https://github.com/jeffersongoncalves/filament-us-privacy-vendors) | 1 | Filament plugin for laravel-us-privacy-vendors: the processors and third parties... |
-| [jeffersongoncalves/filament-us-privacy-assessments](https://github.com/jeffersongoncalves/filament-us-privacy-assessments) | 1 | Filament plugin for laravel-us-privacy-assessments: data protection assessments ... |
-| [jeffersongoncalves/filament-us-privacy-notices](https://github.com/jeffersongoncalves/filament-us-privacy-notices) | 1 | Filament plugin for laravel-us-privacy-notices: the processing activities behind... |
-| [jeffersongoncalves/filament-us-privacy-requests](https://github.com/jeffersongoncalves/filament-us-privacy-requests) | 1 | Filament plugin for laravel-us-privacy-requests: consumer requests under the US ... |
-| [jeffersongoncalves/filament-us-privacy-opt-out](https://github.com/jeffersongoncalves/filament-us-privacy-opt-out) | 1 | Filament plugin for laravel-us-privacy-opt-out: the US state privacy opt-out and... |
-| [jeffersongoncalves/filament-us-privacy](https://github.com/jeffersongoncalves/filament-us-privacy) | 1 | Filament plugin for laravel-us-privacy: the personal data inventory and the rule... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -60,25 +60,25 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-18 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-11-18 | A Laravel package as a backend administrating tool for Conte... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-18 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-18 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | 2026-11-18 | AI-assisted job search platform: one career profile, tailore... |
+| [awcodes/filament-curator](https://github.com/awcodes/filament-curator) | 440 | 2026-11-18 | A media picker plugin for Filament Panels. |
 | [Pollora/framework](https://github.com/Pollora/framework) | 31 | 2026-11-18 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-18 | Laravel package to create administration dashboards |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-18 | Resrv is a booking engine for Statamic. |
+| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-11-18 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [korridor/laravel-model-validation-rules](https://github.com/korridor/laravel-model-validation-rules) | 29 | 2026-11-18 | This package is an alternative to the Laravel built-in valid... |
 | [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-11-18 | Runtime base library for building Laravel packages: fluent P... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-18 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
 | [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-18 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
 | [apartejs/laravel](https://github.com/apartejs/laravel) | 0 | 2026-11-18 | An AI chat for Blade, Livewire and Filament pages, wired to ... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-18 | Resrv is a booking engine for Statamic. |
-| [filakitphp/basev4](https://github.com/filakitphp/basev4) | 4 | 2026-11-18 | Base starter kit built on Laravel 13.x and Filament 4.x with... |
-| [utecca/ecourier-laravel](https://github.com/utecca/ecourier-laravel) | 0 | 2026-11-18 | Laravel client package for working with the eCourier API |
-| [Code-Sphere-Development/oauth](https://github.com/Code-Sphere-Development/oauth) | 0 | 2026-11-18 | Laravel package: OAuth2 client for CodeSphere Accounts SSO -... |
-| [Grazulex/laravel-apiroute](https://github.com/Grazulex/laravel-apiroute) | 112 | 2026-11-18 | Complete API versioning lifecycle management for Laravel |
-| [kakaprodo/presigned-action](https://github.com/kakaprodo/presigned-action) | 0 | 2026-11-18 | A Laravel package for securely presigning actions on any ent... |
-| [filagora/filagora-plugins](https://github.com/filagora/filagora-plugins) | 0 | 2026-11-18 | Filagora plugins: a plugin and release library with moderati... |
-| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-11-18 | Laravel package for integrating with Ranetrace – error track... |
-| [Grazulex/laravel-tddraft](https://github.com/Grazulex/laravel-tddraft) | 3 | 2026-11-18 | 🧪 Write, track, and promote exploratory TDD scenarios in La... |
-| [Grazulex/laravel-statecraft](https://github.com/Grazulex/laravel-statecraft) | 8 | 2026-11-18 | 🧩 Define entity workflows declaratively (YAML), and control... |
-| [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 2026-11-18 | 🔐 Configurable security checks for Laravel applications. Ru... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-18 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-18 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-18 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-18 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [artisan-toolbox/permit](https://github.com/artisan-toolbox/permit) | 0 | 2026-11-18 | Permit is a Laravel authorization package that builds on Gat... |
+| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | 2026-11-18 | Laravel package for the eRecht24 API. Simple integration by ... |
+| [Pijler/laravel-tags](https://github.com/Pijler/laravel-tags) | 1 | 2026-11-18 | This package provides support for tag management. |
+| [Pijler/laravel-modules](https://github.com/Pijler/laravel-modules) | 4 | 2026-11-18 | Simple package for organizing Laravel projects using modules... |
+| [Pijler/laravel-common](https://github.com/Pijler/laravel-common) | 3 | 2026-11-18 | Simple package with several common features in Laravel appli... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-18T18:25 | 10 | 1753 | 8225 |
 | 2026-11-18T12:29 | 3 | 1760 | 8215 |
 | 2026-11-18T06:33 | 22 | 1745 | 8212 |
 | 2026-11-18T00:43 | 15 | 1752 | 8190 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-17T00:43 | 13 | 1751 | 8142 |
 | 2026-11-16T18:27 | 4 | 1759 | 8129 |
 | 2026-11-16T12:38 | 5 | 1744 | 8125 |
-| 2026-11-16T06:50 | 2 | 1747 | 8121 |
 
 ---
 

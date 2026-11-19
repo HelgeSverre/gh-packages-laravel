@@ -2,33 +2,33 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8233  
-**Last updated:** 2026-11-19T06:34:19.148Z
+**Total packages tracked:** 8250  
+**Last updated:** 2026-11-19T12:29:39.519Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [solutionforest/filament-import-wizard](https://github.com/solutionforest/filament-import-wizard) | 0 | Import & export CSV and Excel in Filament v5: upload → map → review → import wiz... |
+| [iamhammadahmad/shopnest-ai-demo](https://github.com/iamhammadahmad/shopnest-ai-demo) | 0 | AI support assistant built into a Laravel store: tool calling, RAG with cited so... |
+| [yuriyakishin/laravel-web-tools-core](https://github.com/yuriyakishin/laravel-web-tools-core) | 0 | Shared core for Laravel Livewire web tools: SSRF-safe page fetcher, TLS inspecto... |
+| [yuriyakishin/laravel-webmcp-analyzer](https://github.com/yuriyakishin/laravel-webmcp-analyzer) | 0 | Laravel Livewire tool that checks how ready a site is for AI agents: WebMCP tool... |
+| [yuriyakishin/laravel-seo-meta-analyzer](https://github.com/yuriyakishin/laravel-seo-meta-analyzer) | 0 | Laravel Livewire tool that checks a page's title and meta description, scores th... |
+| [yuriyakishin/laravel-security-check](https://github.com/yuriyakishin/laravel-security-check) | 0 | Laravel Livewire tool that checks a site's SSL certificate, HTTPS redirect and s... |
+| [yuriyakishin/laravel-schema-validator](https://github.com/yuriyakishin/laravel-schema-validator) | 0 | Laravel Livewire tool that validates Schema.org structured data (JSON-LD and mic... |
+| [yuriyakishin/laravel-page-speed](https://github.com/yuriyakishin/laravel-page-speed) | 0 | Laravel Livewire tool that checks page speed and Core Web Vitals on phone and de... |
+| [yuriyakishin/laravel-link-preview](https://github.com/yuriyakishin/laravel-link-preview) | 0 | Laravel Livewire tool that shows how a link looks in Telegram, Facebook, X, Link... |
+| [yuriyakishin/laravel-dns-check](https://github.com/yuriyakishin/laravel-dns-check) | 0 | Laravel Livewire tool that checks a domain's DNS and mail records: name servers,... |
+| [nikolai-vysotskyi/lookout](https://github.com/nikolai-vysotskyi/lookout) | 1 | Open-source, self-hosted alternative to Laravel Nightwatch: requests, jobs, quer... |
+| [Pharaonic/laravel-localization](https://github.com/Pharaonic/laravel-localization) | 4 | Localized routing for Laravel: static, cacheable locale-prefixed and translated ... |
+| [mertaydin/laravel-composer-monitor](https://github.com/mertaydin/laravel-composer-monitor) | 1 | A lightweight Laravel dashboard for monitoring Composer dependency health. Revie... |
+| [mertaydin/laravel-server-security-update-monitor](https://github.com/mertaydin/laravel-server-security-update-monitor) | 1 | A Laravel dashboard for Linux server package updates and security patches. It au... |
+| [raviroshanmehta/laravel-stripe-billing](https://github.com/raviroshanmehta/laravel-stripe-billing) | 0 | Laravel package for Stripe subscriptions: Checkout, signed and idempotent webhoo... |
+| [DenaSon/iran-location](https://github.com/DenaSon/iran-location) | 3 | Laravel package for managing Iran provinces and cities - Persian |
+| [somarkn99/laravel-telegram-gateway](https://github.com/somarkn99/laravel-telegram-gateway) | 35 | A Laravel package to send verification codes via Telegram using the Telegram Gat... |
 | [raphaelcangucu/crypto-address-validator-laravel](https://github.com/raphaelcangucu/crypto-address-validator-laravel) | 1 | Package to validate crypto address in PHP for Laravel Framework |
 | [AsteriaCreations/portico](https://github.com/AsteriaCreations/portico) | 2 | Member check-in & membership management for clubs — concurrent door check-in wit... |
 | [jantydlacka/laravel-shop](https://github.com/jantydlacka/laravel-shop) | 0 | Small Czech e-shop in Laravel 13, Livewire and Filament: guest checkout, stock l... |
-| [janczakb/media-studio](https://github.com/janczakb/media-studio) | 0 | Self-hosted media library for Laravel and Filament. Organize, preview, edit and ... |
-| [escalated-dev/escalated-laravel](https://github.com/escalated-dev/escalated-laravel) | 34 | Add a complete open-source helpdesk to Laravel. Support tickets, SLAs, agent inb... |
-| [formfeed-dev/formfeed-laravel](https://github.com/formfeed-dev/formfeed-laravel) | 0 | Laravel package for the Formfeed API (formfeed/laravel). Written by Formfeed's r... |
-| [prodbat/prodbat-php](https://github.com/prodbat/prodbat-php) | 0 | Prodbat for PHP and Laravel (read-only mirror of packages/php in prodbat/prodbat... |
-| [juaniquillo/laravel-package-template](https://github.com/juaniquillo/laravel-package-template) | 0 | An opinionated Laravel package, kept small, idiomatic, and easy to install, test... |
-| [cholladay0816/Quizly](https://github.com/cholladay0816/Quizly) | 1 | Test-Driven Development exercise for a quiz-based application, which enables use... |
-| [himacode-company/workerless](https://github.com/himacode-company/workerless) | 0 | Laravel queues without cron, SSH or queue:work. Built for shared hosting. |
-| [alibori/laravel-watson](https://github.com/alibori/laravel-watson) | 0 | Laravel Watson watches your application's exceptions, uses the Laravel AI SDK to... |
-| [artisan-toolbox/permit](https://github.com/artisan-toolbox/permit) | 0 | Permit is a Laravel authorization package that builds on Gates and Policies to p... |
-| [bisual/bisual-monitor](https://github.com/bisual/bisual-monitor) | 0 | Laravel package to report scheduled command check-ins to Bisual status monitors |
-| [FBIS-Tech/laravel-rbac](https://github.com/FBIS-Tech/laravel-rbac) | 0 | Role based access control package |
-| [netgsm1/voipphone](https://github.com/netgsm1/voipphone) | 0 | Netgsm Voip Phone Composer Package (symfony & laravel entegration) |
-| [netgsm1/account](https://github.com/netgsm1/account) | 0 | Netgsm Account Composer Package (symfony & laravel entegration) |
-| [netgsm1/voicemail](https://github.com/netgsm1/voicemail) | 0 | Netgsm Voice Mail Composer Package (symfony & laravel entegration) |
-| [netgsm1/netsantral](https://github.com/netgsm1/netsantral) | 2 | Netgsm Netsantral Composer Package (symfony & laravel entegration) |
-| [packstub/holler](https://github.com/packstub/holler) | 0 | Holler for Laravel: audio, video and screen-share calls between the users of a L... |
-| [shadrackjm/rampart](https://github.com/shadrackjm/rampart) | 0 | Roles & permissions for the Laravel Livewire starter kit. One command, Flux free... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-11-19 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-19 | Resrv is a booking engine for Statamic. |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-19 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-19 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [internetdata/sdk-php-laravel](https://github.com/internetdata/sdk-php-laravel) | 0 | 2026-11-19 | Official Laravel middleware for the InternetData API. Attach... |
-| [foxws/laravel-shaka](https://github.com/foxws/laravel-shaka) | 2 | 2026-11-19 | A Laravel integration for Google's Shaka Packager, enabling ... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-19 |  |
-| [Ikong217/sku-generator](https://github.com/Ikong217/sku-generator) | 0 | 2026-11-19 | A configurable SKU generation package for Laravel with custo... |
-| [yahyakhalid/watsy-laravel](https://github.com/yahyakhalid/watsy-laravel) | 8 | 2026-11-19 | Official Laravel package for Watsy: OTP verification codes o... |
-| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 14 | 2026-11-19 |  |
-| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 112 | 2026-11-19 | A package to easily make use of Lucide Icons in your Laravel... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-19 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [SachinPawaskarUNO/human-examinations](https://github.com/SachinPawaskarUNO/human-examinations) | 0 | 2026-11-19 | This package allows you to add human examinations & related ... |
-| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 4 | 2026-11-19 | A fast Gantt chart and resource timeline for Filament: any E... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-19 | Automated code analysis for Laravel applications with 73 ope... |
-| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-19 | ShieldCI Analyzers Core - Shared foundation for building sta... |
-| [jund-fauz/eloquent-kompact](https://github.com/jund-fauz/eloquent-kompact) | 0 | 2026-11-19 | A set of automatic & helper tools to improve development exp... |
-| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 87 | 2026-11-19 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [dowardev/glitchvy](https://github.com/dowardev/glitchvy) | 0 | 2026-11-19 | Error reporter package (cliente + Laravel SDK). Minimal erro... |
+| [hkyss/evocms-extras](https://github.com/hkyss/evocms-extras) | 0 | 2026-11-19 | Console extras manager for Evolution CMS 3 — catalog, instal... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-19 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 83 | 2026-11-19 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [Grazulex/laravel-turbomaker](https://github.com/Grazulex/laravel-turbomaker) | 64 | 2026-11-19 | ⚡ Laravel TurboMaker is a productivity-focused package desig... |
+| [Grazulex/laravel-apiroute](https://github.com/Grazulex/laravel-apiroute) | 112 | 2026-11-19 | Complete API versioning lifecycle management for Laravel |
+| [foxws/app](https://github.com/foxws/app) | 1 | 2026-11-19 | Source of foxws.nl, the documentation site for the Foxws Lar... |
+| [VanOns/filament-attachment-library](https://github.com/VanOns/filament-attachment-library) | 11 | 2026-11-19 | Filament package for easy attachment uploading and browsing. |
+| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-11-19 | A foundational package providing base classes and utilities ... |
+| [iquesters/user-management](https://github.com/iquesters/user-management) | 0 | 2026-11-19 | A modular and extendable Laravel package that provides user ... |
+| [gsferro/filament-starter-kit-easy](https://github.com/gsferro/filament-starter-kit-easy) | 4 | 2026-11-19 |  |
 | [mertaydin/laravel-queue-monitor](https://github.com/mertaydin/laravel-queue-monitor) | 1 | 2026-11-19 | Laravel queue monitoring and management package |
-| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 5 | 2026-11-19 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
-| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 12 | 2026-11-19 | Complete gamification package with optional UI |
+| [ably/laravel-broadcaster](https://github.com/ably/laravel-broadcaster) | 71 | 2026-11-19 | Official Laravel Ably Broadcaster |
+| [mertaydin/laravel-composer-monitor](https://github.com/mertaydin/laravel-composer-monitor) | 1 | 2026-11-19 | A lightweight Laravel dashboard for monitoring Composer depe... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 32 | 2026-11-19 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [mertaydin/laravel-server-security-update-monitor](https://github.com/mertaydin/laravel-server-security-update-monitor) | 1 | 2026-11-19 | A Laravel dashboard for Linux server package updates and sec... |
+| [Grazulex/laravel-tddraft](https://github.com/Grazulex/laravel-tddraft) | 3 | 2026-11-19 | 🧪 Write, track, and promote exploratory TDD scenarios in La... |
+| [Grazulex/laravel-statecraft](https://github.com/Grazulex/laravel-statecraft) | 8 | 2026-11-19 | 🧩 Define entity workflows declaratively (YAML), and control... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-19T12:29 | 17 | 1734 | 8250 |
 | 2026-11-19T06:34 | 1 | 1759 | 8233 |
 | 2026-11-19T00:43 | 7 | 1754 | 8232 |
 | 2026-11-18T18:25 | 10 | 1753 | 8225 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-17T18:26 | 21 | 1743 | 8175 |
 | 2026-11-17T12:29 | 8 | 901 | 8154 |
 | 2026-11-17T06:33 | 4 | 1760 | 8146 |
-| 2026-11-17T00:43 | 13 | 1751 | 8142 |
 
 ---
 

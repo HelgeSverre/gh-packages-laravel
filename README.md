@@ -2,13 +2,14 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8232  
-**Last updated:** 2026-11-19T00:43:13.035Z
+**Total packages tracked:** 8233  
+**Last updated:** 2026-11-19T06:34:19.148Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [raphaelcangucu/crypto-address-validator-laravel](https://github.com/raphaelcangucu/crypto-address-validator-laravel) | 1 | Package to validate crypto address in PHP for Laravel Framework |
 | [AsteriaCreations/portico](https://github.com/AsteriaCreations/portico) | 2 | Member check-in & membership management for clubs — concurrent door check-in wit... |
 | [jantydlacka/laravel-shop](https://github.com/jantydlacka/laravel-shop) | 0 | Small Czech e-shop in Laravel 13, Livewire and Filament: guest checkout, stock l... |
 | [janczakb/media-studio](https://github.com/janczakb/media-studio) | 0 | Self-hosted media library for Laravel and Filament. Organize, preview, edit and ... |
@@ -28,7 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [netgsm1/netsantral](https://github.com/netgsm1/netsantral) | 2 | Netgsm Netsantral Composer Package (symfony & laravel entegration) |
 | [packstub/holler](https://github.com/packstub/holler) | 0 | Holler for Laravel: audio, video and screen-share calls between the users of a L... |
 | [shadrackjm/rampart](https://github.com/shadrackjm/rampart) | 0 | Roles & permissions for the Laravel Livewire starter kit. One command, Flux free... |
-| [roelofjan-elsinga/aloia-cms-gui](https://github.com/roelofjan-elsinga/aloia-cms-gui) | 6 | The GUI for the roelofjan-elsinga/aloia-cms package |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [artisan-toolbox/permit](https://github.com/artisan-toolbox/permit) | 0 | 2026-11-19 | Permit is a Laravel authorization package that builds on Gat... |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-19 | A developer-friendly package for creating advanced Wordpress... |
-| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-19 | ShieldCI Analyzers Core - Shared foundation for building sta... |
-| [artisan-toolbox/mosaicast](https://github.com/artisan-toolbox/mosaicast) | 0 | 2026-11-19 | Mosaicast is a Laravel event delivery package that intellige... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-19 | Automated code analysis for Laravel applications with 73 ope... |
-| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-11-19 | ArtisanToolbox Maintainer provides automated validation, qua... |
-| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | 2026-11-19 | Laravel package for the eRecht24 API. Simple integration by ... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-19 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-19 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-19 | A lightweight, convention-driven modular architecture packag... |
-| [wg-vn/spatie-laravel-settings-ui](https://github.com/wg-vn/spatie-laravel-settings-ui) | 0 | 2026-11-19 | UI for the  spatie/laravel-settings package |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-19 | Identity and access management for Laravel: installs the aut... |
-| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 5 | 2026-11-19 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
-| [AsteriaCreations/portico](https://github.com/AsteriaCreations/portico) | 2 | 2026-11-19 | Member check-in & membership management for clubs — concurre... |
-| [juaniquillo/laravel-package-template](https://github.com/juaniquillo/laravel-package-template) | 0 | 2026-11-19 | An opinionated Laravel package, kept small, idiomatic, and e... |
+| [Mohammed-Alama/php-arazzo](https://github.com/Mohammed-Alama/php-arazzo) | 0 | 2026-11-19 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-19 | Extensible Laravel CMS built on Filament, with multi-site an... |
 | [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-19 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [Sunucode/laravel-afripay](https://github.com/Sunucode/laravel-afripay) | 0 | 2026-11-19 | Unified payment gateway for Africa — Wave, Orange Money, Pay... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-18 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 83 | 2026-11-18 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [cativo23/tcg-vault](https://github.com/cativo23/tcg-vault) | 0 | 2026-11-18 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [internetdata/sdk-php-laravel](https://github.com/internetdata/sdk-php-laravel) | 0 | 2026-11-19 | Official Laravel middleware for the InternetData API. Attach... |
+| [foxws/laravel-shaka](https://github.com/foxws/laravel-shaka) | 2 | 2026-11-19 | A Laravel integration for Google's Shaka Packager, enabling ... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-19 |  |
+| [Ikong217/sku-generator](https://github.com/Ikong217/sku-generator) | 0 | 2026-11-19 | A configurable SKU generation package for Laravel with custo... |
+| [yahyakhalid/watsy-laravel](https://github.com/yahyakhalid/watsy-laravel) | 8 | 2026-11-19 | Official Laravel package for Watsy: OTP verification codes o... |
+| [LastDragon-ru/php-packages](https://github.com/LastDragon-ru/php-packages) | 14 | 2026-11-19 |  |
+| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 112 | 2026-11-19 | A package to easily make use of Lucide Icons in your Laravel... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-19 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [SachinPawaskarUNO/human-examinations](https://github.com/SachinPawaskarUNO/human-examinations) | 0 | 2026-11-19 | This package allows you to add human examinations & related ... |
+| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 4 | 2026-11-19 | A fast Gantt chart and resource timeline for Filament: any E... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-19 | Automated code analysis for Laravel applications with 73 ope... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-19 | ShieldCI Analyzers Core - Shared foundation for building sta... |
+| [jund-fauz/eloquent-kompact](https://github.com/jund-fauz/eloquent-kompact) | 0 | 2026-11-19 | A set of automatic & helper tools to improve development exp... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 87 | 2026-11-19 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [mertaydin/laravel-queue-monitor](https://github.com/mertaydin/laravel-queue-monitor) | 1 | 2026-11-19 | Laravel queue monitoring and management package |
+| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 5 | 2026-11-19 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
+| [Particle-Academy/laravel-fun-lab](https://github.com/Particle-Academy/laravel-fun-lab) | 12 | 2026-11-19 | Complete gamification package with optional UI |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-19T06:34 | 1 | 1759 | 8233 |
 | 2026-11-19T00:43 | 7 | 1754 | 8232 |
 | 2026-11-18T18:25 | 10 | 1753 | 8225 |
 | 2026-11-18T12:29 | 3 | 1760 | 8215 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-17T12:29 | 8 | 901 | 8154 |
 | 2026-11-17T06:33 | 4 | 1760 | 8146 |
 | 2026-11-17T00:43 | 13 | 1751 | 8142 |
-| 2026-11-16T18:27 | 4 | 1759 | 8129 |
 
 ---
 

@@ -2,18 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8267  
-**Last updated:** 2026-11-20T12:30:20.997Z
+**Total packages tracked:** 8268  
+**Last updated:** 2026-11-20T18:27:30.100Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [net-os-com/laravel-netos-debug](https://github.com/net-os-com/laravel-netos-debug) | 0 | Laravel package that sends the full Debugbar payload of every request to the deb... |
 | [Cipta-Grafika/absensicipta](https://github.com/Cipta-Grafika/absensicipta) | 2 | HRIS Cipta Grafika adalah platform terpadu untuk pengelolaan sumber daya manusia... |
 | [prazzolgautam62/laravel-security-features](https://github.com/prazzolgautam62/laravel-security-features) | 0 | This package enhances Laravel applications with advanced security features inclu... |
 | [saberLiou/Whetstone](https://github.com/saberLiou/Whetstone) | 4 | A Laravel package with console commands like `php artisan make` for generating s... |
 | [tibor-src/a2a-laravel](https://github.com/tibor-src/a2a-laravel) | 0 | Laravel package for the Agent2Agent (A2A) protocol with Laravel AI SDK integrati... |
-| [hydina/defina-moon](https://github.com/hydina/defina-moon) | 0 | A full-featured PHP engine for creating dynamic web interfaces using Yii |
+| [hydina/defina-moon](https://github.com/hydina/defina-moon) | 6 | A full-featured PHP engine for creating dynamic web interfaces using Yii |
 | [sbine/bdgt](https://github.com/sbine/bdgt) | 197 | Big finance tools in a small package |
 | [GraystackIT/laravel-pingen-api](https://github.com/GraystackIT/laravel-pingen-api) | 0 | Laravel package to consume pingen api |
 | [Ikong217/laravel-rest-api](https://github.com/Ikong217/laravel-rest-api) | 0 | A lightweight Laravel package that simplifies REST API requests and effortlessly... |
@@ -27,8 +28,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [Larsln/dinnertime](https://github.com/Larsln/dinnertime) | 0 | Self-hosted recipes, meal plan and shopping list for one household: imports from... |
 | [Mello21century/symposer](https://github.com/Mello21century/symposer) | 2 | pnpm-style package store for PHP Composer: every package version stored once, li... |
 | [brew-apps/intelipost](https://github.com/brew-apps/intelipost) | 0 | Laravel Intelipost package |
-| [solutionforest/filament-import-wizard](https://github.com/solutionforest/filament-import-wizard) | 1 | Import & export CSV and Excel in Filament v5: upload → map → review → import wiz... |
-| [iamhammadahmad/shopnest-ai-demo](https://github.com/iamhammadahmad/shopnest-ai-demo) | 0 | AI support assistant built into a Laravel store: tool calling, RAG with cited so... |
+| [solutionforest/filament-import-wizard](https://github.com/solutionforest/filament-import-wizard) | 2 | Import & export CSV and Excel in Filament v5: upload → map → review → import wiz... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-11-20 | A foundational package providing base classes and utilities ... |
-| [Grazulex/laravel-draftable](https://github.com/Grazulex/laravel-draftable) | 21 | 2026-11-20 | 📝 Add drafts, versioning, and publication workflow to any E... |
-| [RedberryProducts/synapse](https://github.com/RedberryProducts/synapse) | 69 | 2026-11-20 | Synapse for Laravel is a development dashboard that lets you... |
-| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-11-20 | [READ ONLY] API Platform for Laravel |
-| [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 31 | 2026-11-20 | Observability for AI and LLM calls in Laravel. Automatically... |
-| [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | 2026-11-20 | Self-hosted, first-party analytics for Laravel: page views, ... |
-| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | 2026-11-20 | Laravel package for the eRecht24 API. Simple integration by ... |
-| [syscage/laravel-plugin](https://github.com/syscage/laravel-plugin) | 3 | 2026-11-20 | Laravel plugin framework for modular, self-contained applica... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-11-20 | The NativePHP website |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-20 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-11-20 | A package to create datatables using alpinejs, tailwind, liv... |
-| [matteobreschig/ct_tools](https://github.com/matteobreschig/ct_tools) | 0 | 2026-11-20 | Applicazione Laravel per monitorare prezzi e disponibilità d... |
-| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-20 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
-| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 11 | 2026-11-20 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-20 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [asignua/filament-seo-files](https://github.com/asignua/filament-seo-files) | 1 | 2026-11-20 | sitemap.xml, robots.txt, llms.txt and llms-full.txt for Fila... |
-| [asignua/filament-activity-log-plus](https://github.com/asignua/filament-activity-log-plus) | 0 | 2026-11-20 | Audit trail for Filament 5 on spatie/laravel-activitylog 5 t... |
-| [asignua/filament-spreadsheet-grid](https://github.com/asignua/filament-spreadsheet-grid) | 4 | 2026-11-20 | Excel-style editing for Filament 5 tables: arrow-key navigat... |
-| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 4 | 2026-11-20 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
-| [asignua/filament-rich-editor-toolkit](https://github.com/asignua/filament-rich-editor-toolkit) | 1 | 2026-11-20 | Ten free plugins for the Filament 5 RichEditor: Word/Google ... |
+| [filagora/filagora-cms](https://github.com/filagora/filagora-cms) | 0 | 2026-11-20 | Pages, blocks, menus, media and a draft, version, schedule a... |
+| [packstub/holler](https://github.com/packstub/holler) | 2 | 2026-11-20 | Holler for Laravel: audio, video and screen-share calls betw... |
+| [packstub/filament-session-replay](https://github.com/packstub/filament-session-replay) | 10 | 2026-11-20 | Session replay inside a Filament v5 panel, built on rrweb an... |
+| [packstub/session-replay](https://github.com/packstub/session-replay) | 80 | 2026-11-20 | Session replay for Laravel, built on rrweb: a recorder with ... |
+| [wyxos/laravel-mail-provision](https://github.com/wyxos/laravel-mail-provision) | 0 | 2026-11-20 | Laravel package to provision SparkPost sending/tracking doma... |
+| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 40 | 2026-11-20 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
+| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-11-20 | ArtisanToolbox Maintainer provides automated validation, qua... |
+| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-20 | Resrv is a booking engine for Statamic. |
+| [liberusoftware/module-liberu-platform-orchestration](https://github.com/liberusoftware/module-liberu-platform-orchestration) | 0 | 2026-11-20 | This package is the authoritative, provider-neutral implemen... |
+| [liberusoftware/module-liberu-executive-insights](https://github.com/liberusoftware/module-liberu-executive-insights) | 0 | 2026-11-20 | This package is the authoritative, provider-neutral implemen... |
+| [liberusoftware/module-liberu-business-workflow-reconciliation](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation) | 0 | 2026-11-20 | This package is the authoritative, provider-neutral implemen... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-20 | Identity and access management for Laravel: installs the aut... |
+| [nickdekruijk/leap-demo](https://github.com/nickdekruijk/leap-demo) | 1 | 2026-11-20 | Demo app for nickdekruijk/leap + leap-template — live at lea... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-20 | Automated code analysis for Laravel applications with 73 ope... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-20 | ShieldCI Analyzers Core - Shared foundation for building sta... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-20 |  |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-20 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 14 | 2026-11-20 | An in-panel AI assistant and an MCP server for Filament v5 p... |
+| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-20 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
+| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-11-20 | Read-only mirror of gitlab.com/zairakai/php-packages/laravel... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-20T18:27 | 1 | 1744 | 8268 |
 | 2026-11-20T12:30 | 4 | 1744 | 8267 |
 | 2026-11-20T06:34 | 4 | 1746 | 8263 |
 | 2026-11-20T00:41 | 5 | 1746 | 8259 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-19T00:43 | 7 | 1754 | 8232 |
 | 2026-11-18T18:25 | 10 | 1753 | 8225 |
 | 2026-11-18T12:29 | 3 | 1760 | 8215 |
-| 2026-11-18T06:33 | 22 | 1745 | 8212 |
 
 ---
 

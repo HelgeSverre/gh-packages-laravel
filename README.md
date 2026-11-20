@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8263  
-**Last updated:** 2026-11-20T06:34:00.315Z
+**Total packages tracked:** 8267  
+**Last updated:** 2026-11-20T12:30:20.997Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [Cipta-Grafika/absensicipta](https://github.com/Cipta-Grafika/absensicipta) | 2 | HRIS Cipta Grafika adalah platform terpadu untuk pengelolaan sumber daya manusia... |
+| [prazzolgautam62/laravel-security-features](https://github.com/prazzolgautam62/laravel-security-features) | 0 | This package enhances Laravel applications with advanced security features inclu... |
+| [saberLiou/Whetstone](https://github.com/saberLiou/Whetstone) | 4 | A Laravel package with console commands like `php artisan make` for generating s... |
+| [tibor-src/a2a-laravel](https://github.com/tibor-src/a2a-laravel) | 0 | Laravel package for the Agent2Agent (A2A) protocol with Laravel AI SDK integrati... |
 | [hydina/defina-moon](https://github.com/hydina/defina-moon) | 0 | A full-featured PHP engine for creating dynamic web interfaces using Yii |
 | [sbine/bdgt](https://github.com/sbine/bdgt) | 197 | Big finance tools in a small package |
 | [GraystackIT/laravel-pingen-api](https://github.com/GraystackIT/laravel-pingen-api) | 0 | Laravel package to consume pingen api |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [brew-apps/intelipost](https://github.com/brew-apps/intelipost) | 0 | Laravel Intelipost package |
 | [solutionforest/filament-import-wizard](https://github.com/solutionforest/filament-import-wizard) | 1 | Import & export CSV and Excel in Filament v5: upload → map → review → import wiz... |
 | [iamhammadahmad/shopnest-ai-demo](https://github.com/iamhammadahmad/shopnest-ai-demo) | 0 | AI support assistant built into a Laravel store: tool calling, RAG with cited so... |
-| [yuriyakishin/laravel-web-tools-core](https://github.com/yuriyakishin/laravel-web-tools-core) | 0 | Shared core for Laravel Livewire web tools: SSRF-safe page fetcher, TLS inspecto... |
-| [yuriyakishin/laravel-webmcp-analyzer](https://github.com/yuriyakishin/laravel-webmcp-analyzer) | 0 | Laravel Livewire tool that checks how ready a site is for AI agents: WebMCP tool... |
-| [yuriyakishin/laravel-seo-meta-analyzer](https://github.com/yuriyakishin/laravel-seo-meta-analyzer) | 0 | Laravel Livewire tool that checks a page's title and meta description, scores th... |
-| [yuriyakishin/laravel-security-check](https://github.com/yuriyakishin/laravel-security-check) | 0 | Laravel Livewire tool that checks a site's SSL certificate, HTTPS redirect and s... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [internetdata/sdk-php-laravel](https://github.com/internetdata/sdk-php-laravel) | 0 | 2026-11-20 | Official Laravel middleware for the InternetData API. Attach... |
+| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-11-20 | A foundational package providing base classes and utilities ... |
+| [Grazulex/laravel-draftable](https://github.com/Grazulex/laravel-draftable) | 21 | 2026-11-20 | 📝 Add drafts, versioning, and publication workflow to any E... |
+| [RedberryProducts/synapse](https://github.com/RedberryProducts/synapse) | 69 | 2026-11-20 | Synapse for Laravel is a development dashboard that lets you... |
+| [api-platform/laravel](https://github.com/api-platform/laravel) | 58 | 2026-11-20 | [READ ONLY] API Platform for Laravel |
+| [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 31 | 2026-11-20 | Observability for AI and LLM calls in Laravel. Automatically... |
 | [FojleRabbiRabib/laravel-spa-analytics](https://github.com/FojleRabbiRabib/laravel-spa-analytics) | 0 | 2026-11-20 | Self-hosted, first-party analytics for Laravel: page views, ... |
+| [kaihempel/erecht24-laravel](https://github.com/kaihempel/erecht24-laravel) | 0 | 2026-11-20 | Laravel package for the eRecht24 API. Simple integration by ... |
+| [syscage/laravel-plugin](https://github.com/syscage/laravel-plugin) | 3 | 2026-11-20 | Laravel plugin framework for modular, self-contained applica... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-11-20 | The NativePHP website |
 | [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-20 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-20 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-20 | Automated code analysis for Laravel applications with 73 ope... |
-| [joserick/laravel-livewire-discover](https://github.com/joserick/laravel-livewire-discover) | 27 | 2026-11-20 | Automatically discover and load/register multiple/different ... |
-| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-20 | ShieldCI Analyzers Core - Shared foundation for building sta... |
-| [pushery/http-api-for-laravel](https://github.com/pushery/http-api-for-laravel) | 1 | 2026-11-20 | The IETF HTTP API standards for Laravel: Idempotency-Key rep... |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-11-20 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [CallTech-App/Serfex](https://github.com/CallTech-App/Serfex) | 4 | 2026-11-20 | Open-source web hosting control panel for Ubuntu servers, wi... |
-| [sbine/bdgt](https://github.com/sbine/bdgt) | 197 | 2026-11-20 | Big finance tools in a small package |
-| [tibor-src/xai-sdk-laravel](https://github.com/tibor-src/xai-sdk-laravel) | 0 | 2026-11-20 | Laravel package for the xAI PHP SDK |
-| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-11-20 | ArtisanToolbox Maintainer provides automated validation, qua... |
-| [artisan-toolbox/permit](https://github.com/artisan-toolbox/permit) | 0 | 2026-11-20 | Permit is a Laravel authorization package that builds on Gat... |
-| [GraystackIT/laravel-pingen-api](https://github.com/GraystackIT/laravel-pingen-api) | 0 | 2026-11-20 | Laravel package to consume pingen api |
-| [James-Lavina/Budget-App](https://github.com/James-Lavina/Budget-App) | 0 | 2026-11-20 |  |
-| [Particle-Academy/laravel-jobs](https://github.com/Particle-Academy/laravel-jobs) | 0 | 2026-11-20 | Laravel package for job boards - employer job postings, publ... |
-| [pushery/ai-content-marking-for-laravel](https://github.com/pushery/ai-content-marking-for-laravel) | 2 | 2026-11-20 | Marks AI-generated content in Laravel: machine-readable mark... |
-| [pushery/fortify-hardening-for-laravel](https://github.com/pushery/fortify-hardening-for-laravel) | 2 | 2026-11-20 | Prevent account enumeration in Laravel Fortify with neutral ... |
-| [pushery/ses-inbound-mail-for-laravel](https://github.com/pushery/ses-inbound-mail-for-laravel) | 2 | 2026-11-20 | Receive mail through Amazon SES in Laravel: a verified SNS e... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-11-20 | A package to create datatables using alpinejs, tailwind, liv... |
+| [matteobreschig/ct_tools](https://github.com/matteobreschig/ct_tools) | 0 | 2026-11-20 | Applicazione Laravel per monitorare prezzi e disponibilità d... |
+| [Banditov/XII-TKJ-3_PL_Kelompok-8](https://github.com/Banditov/XII-TKJ-3_PL_Kelompok-8) | 0 | 2026-11-20 | Logimm adalah sebuah website yang dibuat untuk mengorganisir... |
+| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 11 | 2026-11-20 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-20 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [asignua/filament-seo-files](https://github.com/asignua/filament-seo-files) | 1 | 2026-11-20 | sitemap.xml, robots.txt, llms.txt and llms-full.txt for Fila... |
+| [asignua/filament-activity-log-plus](https://github.com/asignua/filament-activity-log-plus) | 0 | 2026-11-20 | Audit trail for Filament 5 on spatie/laravel-activitylog 5 t... |
+| [asignua/filament-spreadsheet-grid](https://github.com/asignua/filament-spreadsheet-grid) | 4 | 2026-11-20 | Excel-style editing for Filament 5 tables: arrow-key navigat... |
+| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 4 | 2026-11-20 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
+| [asignua/filament-rich-editor-toolkit](https://github.com/asignua/filament-rich-editor-toolkit) | 1 | 2026-11-20 | Ten free plugins for the Filament 5 RichEditor: Word/Google ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-20T12:30 | 4 | 1744 | 8267 |
 | 2026-11-20T06:34 | 4 | 1746 | 8263 |
 | 2026-11-20T00:41 | 5 | 1746 | 8259 |
 | 2026-11-19T18:27 | 5 | 1745 | 8254 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-18T18:25 | 10 | 1753 | 8225 |
 | 2026-11-18T12:29 | 3 | 1760 | 8215 |
 | 2026-11-18T06:33 | 22 | 1745 | 8212 |
-| 2026-11-18T00:43 | 15 | 1752 | 8190 |
 
 ---
 

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8277  
-**Last updated:** 2026-11-21T06:31:58.519Z
+**Total packages tracked:** 8282  
+**Last updated:** 2026-11-21T12:27:42.983Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [tohawk89/laravel-sso-client](https://github.com/tohawk89/laravel-sso-client) | 0 | Plug-and-play Single Sign-On client for Laravel: OAuth 2.0 + PKCE login, user sy... |
+| [NyonCode/laravel-pwa](https://github.com/NyonCode/laravel-pwa) | 0 | Production-grade PWA for Laravel 12/13: offline-first service worker with per-us... |
+| [selcom-developers/laravel-selcom](https://github.com/selcom-developers/laravel-selcom) | 2 | Community Laravel package for the Selcom API gateway: signing, checkout, payouts... |
+| [amirsafaridevs/finget-laravel](https://github.com/amirsafaridevs/finget-laravel) | 0 | Official Laravel package for Finget (passwordless login & notifications) |
+| [login512/login512-laravel](https://github.com/login512/login512-laravel) | 0 | Laravel package for Login512: face login and passkeys with ML-DSA-65 signed toke... |
 | [moztopia/moztopia-cloudflare](https://github.com/moztopia/moztopia-cloudflare) | 0 | Credential-free Cloudflare visitor location and request context for Laravel appl... |
 | [pushery/sovereign-ai-for-laravel](https://github.com/pushery/sovereign-ai-for-laravel) | 2 | IONOS AI Model Hub and OVHcloud AI Endpoints as providers for the Laravel AI SDK... |
 | [pushery/tax-audit-export-for-laravel](https://github.com/pushery/tax-audit-export-for-laravel) | 2 | Writes the index.xml, DTD and CSV files of a tax audit data export (GoBD, GDPdU,... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [saberLiou/Whetstone](https://github.com/saberLiou/Whetstone) | 4 | A Laravel package with console commands like `php artisan make` for generating s... |
 | [tibor-src/a2a-laravel](https://github.com/tibor-src/a2a-laravel) | 1 | Laravel package for the Agent2Agent (A2A) protocol with Laravel AI SDK integrati... |
 | [hydina/defina-moon](https://github.com/hydina/defina-moon) | 6 | A full-featured PHP engine for creating dynamic web interfaces using Yii |
-| [sbine/bdgt](https://github.com/sbine/bdgt) | 197 | Big finance tools in a small package |
-| [GraystackIT/laravel-pingen-api](https://github.com/GraystackIT/laravel-pingen-api) | 0 | Laravel package to consume pingen api |
-| [Ikong217/laravel-rest-api](https://github.com/Ikong217/laravel-rest-api) | 0 | A lightweight Laravel package that simplifies REST API requests and effortlessly... |
-| [amralakwaa/vibecleanpro](https://github.com/amralakwaa/vibecleanpro) | 1 | الموقع الرسمي لفايب كلين برو: شركة تنظيف بالرياض، منازل وفلل وواجهات ومكاتب | La... |
-| [Pharaonic/laravel-translatable](https://github.com/Pharaonic/laravel-translatable) | 5 | Translated fields for Laravel Eloquent models in three storage strategies behind... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [dowardev/glitchvy](https://github.com/dowardev/glitchvy) | 0 | 2026-11-21 | Error reporter package (cliente + Laravel SDK). Minimal erro... |
-| [pushery/production-preflight-for-laravel](https://github.com/pushery/production-preflight-for-laravel) | 2 | 2026-11-21 | Laravel production checks for what passes every test: unsafe... |
-| [marinailsapps/passorde-connect](https://github.com/marinailsapps/passorde-connect) | 0 | 2026-11-21 | Passorde Connect : connecteurs de synchronisation pour Larav... |
-| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-21 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [James-Lavina/Budget-App](https://github.com/James-Lavina/Budget-App) | 0 | 2026-11-21 |  |
-| [yannelli/attempt](https://github.com/yannelli/attempt) | 25 | 2026-11-21 | Attempt is a Laravel package provides a fluent, composable r... |
-| [ebbbang/laravel-mailroom](https://github.com/ebbbang/laravel-mailroom) | 13 | 2026-11-21 | A Laravel mail driver that stores outgoing mail in your data... |
-| [moztopia/moztopia-cloudflare](https://github.com/moztopia/moztopia-cloudflare) | 0 | 2026-11-21 | Credential-free Cloudflare visitor location and request cont... |
+| [jeffersongoncalves/website](https://github.com/jeffersongoncalves/website) | 2 | 2026-11-21 | Personal portfolio and developer site of Jefferson Goncalves... |
+| [apartejs/laravel](https://github.com/apartejs/laravel) | 0 | 2026-11-21 | An AI chat for Blade, Livewire and Filament pages, wired to ... |
+| [VTech9NL/filament-polder-theme](https://github.com/VTech9NL/filament-polder-theme) | 0 | 2026-11-21 | Polder: an inset-layout theme for Filament 5 panels, with li... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 32 | 2026-11-21 | The Laravel framework for WordPress: Blade, Laravel routing ... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-21 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [waynestate/rollcall](https://github.com/waynestate/rollcall) | 0 | 2026-11-21 | WELD's fleet scanner: every app answers present with its PHP... |
-| [jund-fauz/eloquent-kompact](https://github.com/jund-fauz/eloquent-kompact) | 0 | 2026-11-21 | A set of automatic & helper tools to improve development exp... |
+| [NyonCode/laravel-pwa](https://github.com/NyonCode/laravel-pwa) | 0 | 2026-11-21 | Production-grade PWA for Laravel 12/13: offline-first servic... |
+| [tohawk89/laravel-sso-client](https://github.com/tohawk89/laravel-sso-client) | 0 | 2026-11-21 | Plug-and-play Single Sign-On client for Laravel: OAuth 2.0 +... |
+| [zhoorta/magnetite](https://github.com/zhoorta/magnetite) | 0 | 2026-11-21 | Self-hosted music player with loudness meters (LUFS, true pe... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-11-21 | Provides email verification on the go. |
+| [serhii-f8/filament-studio](https://github.com/serhii-f8/filament-studio) | 58 | 2026-11-21 | Dynamic data model manager for Filament — EAV storage, 33 fi... |
 | [Grazulex/laravel-arc](https://github.com/Grazulex/laravel-arc) | 9 | 2026-11-21 | 🧬 Generate clean, typed DTO classes from YAML definitions i... |
-| [Grazulex/laravel-turbomaker](https://github.com/Grazulex/laravel-turbomaker) | 64 | 2026-11-21 | ⚡ Laravel TurboMaker is a productivity-focused package desig... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-21 | Automated code analysis for Laravel applications with 73 ope... |
-| [mooxphp/moox](https://github.com/mooxphp/moox) | 156 | 2026-11-21 | The Moox Project - Packages for Filament and Laravel |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-21 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-11-21 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-21 | ShieldCI Analyzers Core - Shared foundation for building sta... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 83 | 2026-11-21 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [Lunixi-Payment/lunixi-laravel](https://github.com/Lunixi-Payment/lunixi-laravel) | 0 | 2026-11-21 | Lunixi for Laravel: config, facade, webhook route with queue... |
+| [ivanwilliammd/satusehat-integration](https://github.com/ivanwilliammd/satusehat-integration) | 87 | 2026-11-21 | SATUSEHAT Integration Library - easy way to create FHIR R4 r... |
+| [Lomkit/laravel-access-control](https://github.com/Lomkit/laravel-access-control) | 5 | 2026-11-21 | One control per Eloquent model: its perimeters drive the pol... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-21 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-21 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [selcom-developers/laravel-selcom](https://github.com/selcom-developers/laravel-selcom) | 2 | 2026-11-21 | Community Laravel package for the Selcom API gateway: signin... |
+| [roundly-consulting/tags-for-laravel](https://github.com/roundly-consulting/tags-for-laravel) | 1 | 2026-11-21 | Typed taxonomies for any Eloquent model: flat or nested, sin... |
+| [amirsafaridevs/finget-laravel](https://github.com/amirsafaridevs/finget-laravel) | 0 | 2026-11-21 | Official Laravel package for Finget (passwordless login & no... |
+| [Grazulex/laravel-modelschema](https://github.com/Grazulex/laravel-modelschema) | 8 | 2026-11-21 | 📐 Laravel ModelSchema is a foundational package for definin... |
+| [Grazulex/laravel-draftable](https://github.com/Grazulex/laravel-draftable) | 21 | 2026-11-21 | 📝 Add drafts, versioning, and publication workflow to any E... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-21T12:27 | 5 | 1735 | 8282 |
 | 2026-11-21T06:31 | 1 | 1743 | 8277 |
 | 2026-11-21T00:42 | 8 | 1736 | 8276 |
 | 2026-11-20T18:27 | 1 | 1744 | 8268 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-19T18:27 | 5 | 1745 | 8254 |
 | 2026-11-19T12:29 | 17 | 1734 | 8250 |
 | 2026-11-19T06:34 | 1 | 1759 | 8233 |
-| 2026-11-19T00:43 | 7 | 1754 | 8232 |
 
 ---
 

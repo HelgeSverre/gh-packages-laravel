@@ -1008,7 +1008,7 @@
     "license": "MIT",
     "created_at": "2022-04-21T10:37:51Z",
     "updated_at": "2026-11-06T12:39:46Z",
-    "pushed_at": "2026-11-20T19:05:09Z",
+    "pushed_at": "2026-11-21T02:28:30Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "thingstelemetry/laravel-traccar": {
@@ -1117,7 +1117,7 @@
     "license": "MIT",
     "created_at": "2025-07-30T18:42:38Z",
     "updated_at": "2026-11-09T12:21:49Z",
-    "pushed_at": "2026-11-20T11:31:30Z",
+    "pushed_at": "2026-11-21T03:05:29Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "tolery-dev/tolery-ai-cad-package": {
@@ -5579,7 +5579,7 @@
     "name": "yannelli/attempt",
     "url": "https://github.com/yannelli/attempt",
     "description": "Attempt is a Laravel package provides a fluent, composable retry/fallback system for Laravel applications. It treats error handling as a first-class pipeline concern, supporting closures, invokable classes, class pipelines, and seamless integration with Laravel’s native Pipeline.",
-    "stars": 27,
+    "stars": 25,
     "forks": 0,
     "topics": [
       "backoff",
@@ -5601,8 +5601,8 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-01-19T19:44:59Z",
-    "updated_at": "2026-10-22T10:10:50Z",
-    "pushed_at": "2026-10-05T05:54:22Z",
+    "updated_at": "2026-11-21T05:05:03Z",
+    "pushed_at": "2026-11-21T05:25:02Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "shaqilabs/laravel-reversekit": {
@@ -6875,7 +6875,7 @@
     "license": "MIT",
     "created_at": "2025-11-07T00:01:09Z",
     "updated_at": "2026-11-12T00:31:16Z",
-    "pushed_at": "2026-11-20T22:41:42Z",
+    "pushed_at": "2026-11-21T02:45:04Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "yuges-code/laravel-ownable": {
@@ -7589,7 +7589,7 @@
     "license": "MIT",
     "created_at": "2025-11-05T16:29:34Z",
     "updated_at": "2026-11-11T04:07:00Z",
-    "pushed_at": "2026-11-20T21:26:18Z",
+    "pushed_at": "2026-11-21T01:53:55Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "usmonaliyev99/redium": {
@@ -32875,7 +32875,7 @@
     "name": "jeffersongoncalves/filakit",
     "url": "https://github.com/jeffersongoncalves/filakit",
     "description": "FilaKit starter kit built on Laravel 13.x and Filament 3.x with multi-panel structure and multi-auth guard.",
-    "stars": 11,
+    "stars": 10,
     "forks": 2,
     "topics": [
       "alpinejs",
@@ -32898,7 +32898,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-03-20T14:18:04Z",
-    "updated_at": "2026-11-20T05:40:36Z",
+    "updated_at": "2026-11-21T04:25:22Z",
     "pushed_at": "2026-11-19T21:26:07Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
@@ -56188,7 +56188,7 @@
     "url": "https://github.com/NativePHP/nativephp.com",
     "description": "The NativePHP website",
     "stars": 343,
-    "forks": 134,
+    "forks": 135,
     "topics": [
       "laravel",
       "laravel-package",
@@ -65352,7 +65352,7 @@
     "license": "AGPL-3.0",
     "created_at": "2026-02-08T19:27:13Z",
     "updated_at": "2026-11-14T10:46:23Z",
-    "pushed_at": "2026-11-20T14:03:00Z",
+    "pushed_at": "2026-11-21T01:42:36Z",
     "discovered_at": "2026-04-22T12:23:22.917Z"
   },
   "doobert-team/aws-secrets-manager": {
@@ -72036,7 +72036,7 @@
     "license": "MIT",
     "created_at": "2025-03-29T00:11:41Z",
     "updated_at": "2026-11-11T16:44:41Z",
-    "pushed_at": "2026-11-20T15:13:20Z",
+    "pushed_at": "2026-11-21T01:56:30Z",
     "discovered_at": "2026-05-12T14:13:10.506Z"
   },
   "anselmi-dev/sumsub": {
@@ -94380,7 +94380,7 @@
     "license": "MIT",
     "created_at": "2026-07-11T11:11:40Z",
     "updated_at": "2026-11-12T17:25:50Z",
-    "pushed_at": "2026-11-21T00:41:08Z",
+    "pushed_at": "2026-11-21T04:15:04Z",
     "discovered_at": "2026-07-12T07:13:34.299Z"
   },
   "capell-app/navigation": {
@@ -104736,7 +104736,7 @@
     "license": "MIT",
     "created_at": "2026-07-30T10:19:04Z",
     "updated_at": "2026-10-31T07:04:16Z",
-    "pushed_at": "2026-11-17T03:07:47Z",
+    "pushed_at": "2026-11-21T04:33:02Z",
     "discovered_at": "2026-08-11T00:37:41.214Z"
   },
   "richnessagency/rich-payments": {
@@ -119891,7 +119891,7 @@
     "license": "MIT",
     "created_at": "2025-07-07T22:25:29Z",
     "updated_at": "2026-11-04T03:11:27Z",
-    "pushed_at": "2026-11-16T03:05:16Z",
+    "pushed_at": "2026-11-21T03:09:12Z",
     "discovered_at": "2026-09-17T05:00:42.172Z"
   },
   "rafidalridwan/laravel-pdf-charts": {
@@ -123555,7 +123555,7 @@
     "license": "MIT",
     "created_at": "2026-09-25T14:48:02Z",
     "updated_at": "2026-11-11T14:59:26Z",
-    "pushed_at": "2026-11-20T14:10:23Z",
+    "pushed_at": "2026-11-21T01:58:18Z",
     "discovered_at": "2026-09-25T18:34:21.905Z"
   },
   "yassine-khachlek/laravel-package-example": {
@@ -130183,7 +130183,7 @@
     "name": "marcpope/cortendesk",
     "url": "https://github.com/marcpope/cortendesk",
     "description": "A web based, open-source console for managing the RustDesk OSS Server and Client.",
-    "stars": 264,
+    "stars": 269,
     "forks": 39,
     "topics": [
       "admin-dashboard",
@@ -130207,7 +130207,7 @@
     "language": "PHP",
     "license": "AGPL-3.0",
     "created_at": "2026-07-23T16:35:04Z",
-    "updated_at": "2026-11-20T08:13:19Z",
+    "updated_at": "2026-11-21T06:21:04Z",
     "pushed_at": "2026-11-14T14:24:54Z",
     "discovered_at": "2026-10-08T06:52:10.329Z"
   },
@@ -138051,7 +138051,7 @@
     "license": null,
     "created_at": "2025-09-17T10:32:08Z",
     "updated_at": "2026-10-25T15:30:22Z",
-    "pushed_at": "2026-10-25T15:30:18Z",
+    "pushed_at": "2026-11-21T00:17:41Z",
     "discovered_at": "2026-10-18T01:05:23.933Z"
   },
   "mohmmedashraf/tally-laravel": {
@@ -138861,7 +138861,7 @@
     "license": null,
     "created_at": "2026-06-08T14:51:15Z",
     "updated_at": "2026-11-09T03:39:49Z",
-    "pushed_at": "2026-11-20T23:25:11Z",
+    "pushed_at": "2026-11-21T05:34:25Z",
     "discovered_at": "2026-10-19T01:05:59.563Z"
   },
   "ionflux84/wake": {
@@ -143253,7 +143253,7 @@
     "license": "MIT",
     "created_at": "2026-10-25T14:04:00Z",
     "updated_at": "2026-11-01T21:22:57Z",
-    "pushed_at": "2026-11-01T21:22:53Z",
+    "pushed_at": "2026-11-21T01:32:43Z",
     "discovered_at": "2026-10-26T01:05:23.307Z"
   },
   "bernskiold/laravel-postmark": {
@@ -143738,13 +143738,13 @@
     "name": "ggoitea/laravel-argid-reader",
     "url": "https://github.com/ggoitea/laravel-argid-reader",
     "description": "Laravel package to read Argentine DNI cards from front/back images or PDFs using PDF417/QR barcodes, TD1 MRZ OCR and address extraction.",
-    "stars": 1,
+    "stars": 2,
     "forks": 0,
     "topics": [],
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-10-26T16:53:48Z",
-    "updated_at": "2026-11-08T01:04:21Z",
+    "updated_at": "2026-11-21T00:51:43Z",
     "pushed_at": "2026-11-02T13:16:58Z",
     "discovered_at": "2026-10-26T18:46:41.195Z"
   },
@@ -143915,7 +143915,7 @@
     "license": "MIT",
     "created_at": "2026-09-18T14:43:36Z",
     "updated_at": "2026-11-08T19:25:45Z",
-    "pushed_at": "2026-11-20T21:54:14Z",
+    "pushed_at": "2026-11-21T00:50:48Z",
     "discovered_at": "2026-10-26T18:46:41.199Z"
   },
   "stayuptimistic/uptimistic-laravel": {
@@ -145250,7 +145250,7 @@
     "license": "MIT",
     "created_at": "2026-10-29T01:03:23Z",
     "updated_at": "2026-11-11T12:00:52Z",
-    "pushed_at": "2026-11-20T03:15:47Z",
+    "pushed_at": "2026-11-21T03:43:14Z",
     "discovered_at": "2026-10-29T18:29:30.009Z"
   },
   "padosoft/product_image_discovery_admin": {
@@ -146328,7 +146328,7 @@
     "license": "MIT",
     "created_at": "2026-10-30T15:05:52Z",
     "updated_at": "2026-11-11T19:07:27Z",
-    "pushed_at": "2026-11-20T06:35:36Z",
+    "pushed_at": "2026-11-21T06:19:28Z",
     "discovered_at": "2026-10-31T00:41:06.260Z"
   },
   "janainarque/passa-desafio": {
@@ -154841,7 +154841,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-11-14T08:31:51Z",
     "updated_at": "2026-11-14T09:18:25Z",
-    "pushed_at": "2026-11-15T20:42:43Z",
+    "pushed_at": "2026-11-21T06:12:05Z",
     "discovered_at": "2026-11-14T12:26:32.675Z"
   },
   "lexar522/zoogle": {
@@ -154948,7 +154948,7 @@
     "name": "wit3/filament-relation-navigator",
     "url": "https://github.com/wit3/filament-relation-navigator",
     "description": "A real page for every Filament relation manager (/customers/1/orders) and a searchable menu in the breadcrumb to switch between them. Filament v4 & v5.",
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "topics": [
       "breadcrumbs",
@@ -154962,7 +154962,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-11-14T15:53:55Z",
-    "updated_at": "2026-11-17T16:36:49Z",
+    "updated_at": "2026-11-21T01:56:57Z",
     "pushed_at": "2026-11-15T18:04:47Z",
     "discovered_at": "2026-11-14T18:24:40.901Z"
   },
@@ -155130,7 +155130,7 @@
     "license": "MIT",
     "created_at": "2026-10-22T22:32:35Z",
     "updated_at": "2026-11-15T07:08:38Z",
-    "pushed_at": "2026-11-20T09:19:05Z",
+    "pushed_at": "2026-11-21T03:30:56Z",
     "discovered_at": "2026-11-15T12:27:20.349Z"
   },
   "jund-fauz/filament-kompact": {
@@ -156184,7 +156184,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-11-17T11:10:14Z",
     "updated_at": "2026-11-17T12:12:48Z",
-    "pushed_at": "2026-11-19T23:35:14Z",
+    "pushed_at": "2026-11-21T06:21:58Z",
     "discovered_at": "2026-11-17T18:26:57.086Z"
   },
   "netgsm1/netiys": {
@@ -158245,7 +158245,7 @@
     "license": "MIT",
     "created_at": "2026-07-14T02:23:12Z",
     "updated_at": "2026-11-19T13:35:13Z",
-    "pushed_at": "2026-11-20T23:07:15Z",
+    "pushed_at": "2026-11-21T05:52:25Z",
     "discovered_at": "2026-11-19T18:27:52.308Z"
   },
   "inengine/skeleton": {
@@ -158608,7 +158608,7 @@
     "name": "pushery/sovereign-ai-for-laravel",
     "url": "https://github.com/pushery/sovereign-ai-for-laravel",
     "description": "IONOS AI Model Hub and OVHcloud AI Endpoints as providers for the Laravel AI SDK, held to endpoints in the EU, with a model catalog and token usage.",
-    "stars": 0,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "ai-sdk",
@@ -158628,7 +158628,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-11-20T13:04:32Z",
-    "updated_at": "2026-11-21T00:35:06Z",
+    "updated_at": "2026-11-21T00:46:01Z",
     "pushed_at": "2026-11-21T00:35:05Z",
     "discovered_at": "2026-11-21T00:42:00.755Z"
   },
@@ -158636,7 +158636,7 @@
     "name": "pushery/tax-audit-export-for-laravel",
     "url": "https://github.com/pushery/tax-audit-export-for-laravel",
     "description": "Writes the index.xml, DTD and CSV files of a tax audit data export (GoBD, GDPdU, DSFinV-K) from table definitions, with a reader and a test helper.",
-    "stars": 0,
+    "stars": 2,
     "forks": 0,
     "topics": [
       "audit",
@@ -158654,7 +158654,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-11-20T13:04:46Z",
-    "updated_at": "2026-11-21T00:34:09Z",
+    "updated_at": "2026-11-21T00:45:58Z",
     "pushed_at": "2026-11-21T00:34:08Z",
     "discovered_at": "2026-11-21T00:42:00.755Z"
   },
@@ -158682,5 +158682,35 @@
     "updated_at": "2026-11-20T19:17:23Z",
     "pushed_at": "2026-11-20T21:51:19Z",
     "discovered_at": "2026-11-21T00:42:00.755Z"
+  },
+  "moztopia/moztopia-cloudflare": {
+    "name": "moztopia/moztopia-cloudflare",
+    "url": "https://github.com/moztopia/moztopia-cloudflare",
+    "description": "Credential-free Cloudflare visitor location and request context for Laravel applications and Blade. No API tokens or outbound requests. by-dolly",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "blade",
+      "cdn",
+      "cloudflare",
+      "composer-package",
+      "credential-free",
+      "geolocation",
+      "ip-geolocation",
+      "laravel",
+      "laravel-octane",
+      "laravel-package",
+      "moztopia",
+      "php",
+      "request-context",
+      "sdk",
+      "visitor-context"
+    ],
+    "language": "PHP",
+    "license": "Apache-2.0",
+    "created_at": "2026-11-20T02:29:35Z",
+    "updated_at": "2026-11-21T03:30:49Z",
+    "pushed_at": "2026-11-21T04:22:02Z",
+    "discovered_at": "2026-11-21T06:31:58.464Z"
   }
 }

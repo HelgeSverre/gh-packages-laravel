@@ -2,18 +2,26 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8268  
-**Last updated:** 2026-11-20T18:27:30.100Z
+**Total packages tracked:** 8276  
+**Last updated:** 2026-11-21T00:42:00.810Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [pushery/sovereign-ai-for-laravel](https://github.com/pushery/sovereign-ai-for-laravel) | 0 | IONOS AI Model Hub and OVHcloud AI Endpoints as providers for the Laravel AI SDK... |
+| [pushery/tax-audit-export-for-laravel](https://github.com/pushery/tax-audit-export-for-laravel) | 0 | Writes the index.xml, DTD and CSV files of a tax audit data export (GoBD, GDPdU,... |
+| [aristonis/filament-shortcut-keys](https://github.com/aristonis/filament-shortcut-keys) | 0 | Keyboard shortcuts for Filament 5 panels, assigned automatically from resources,... |
+| [generalsystemsvehicle/industrialist](https://github.com/generalsystemsvehicle/industrialist) | 0 | 🏢 A SAML2 Service Provider package for Laravel |
+| [Mane-Olawale/laravel-termii](https://github.com/Mane-Olawale/laravel-termii) | 9 | Laravel package for Termii SMS.  |
+| [otten-it/version-report](https://github.com/otten-it/version-report) | 0 | Lets a monitoring dashboard read which Laravel, PHP and package versions a Larav... |
+| [AesirCloud/laravel-domains](https://github.com/AesirCloud/laravel-domains) | 0 | A Laravel package to scaffold Domain-Driven Design (DDD) structures in your Lara... |
+| [tohidplus/laravel-vue-translation](https://github.com/tohidplus/laravel-vue-translation) | 39 | A package to have laravel translation in VueJS |
 | [net-os-com/laravel-netos-debug](https://github.com/net-os-com/laravel-netos-debug) | 0 | Laravel package that sends the full Debugbar payload of every request to the deb... |
 | [Cipta-Grafika/absensicipta](https://github.com/Cipta-Grafika/absensicipta) | 2 | HRIS Cipta Grafika adalah platform terpadu untuk pengelolaan sumber daya manusia... |
 | [prazzolgautam62/laravel-security-features](https://github.com/prazzolgautam62/laravel-security-features) | 0 | This package enhances Laravel applications with advanced security features inclu... |
 | [saberLiou/Whetstone](https://github.com/saberLiou/Whetstone) | 4 | A Laravel package with console commands like `php artisan make` for generating s... |
-| [tibor-src/a2a-laravel](https://github.com/tibor-src/a2a-laravel) | 0 | Laravel package for the Agent2Agent (A2A) protocol with Laravel AI SDK integrati... |
+| [tibor-src/a2a-laravel](https://github.com/tibor-src/a2a-laravel) | 1 | Laravel package for the Agent2Agent (A2A) protocol with Laravel AI SDK integrati... |
 | [hydina/defina-moon](https://github.com/hydina/defina-moon) | 6 | A full-featured PHP engine for creating dynamic web interfaces using Yii |
 | [sbine/bdgt](https://github.com/sbine/bdgt) | 197 | Big finance tools in a small package |
 | [GraystackIT/laravel-pingen-api](https://github.com/GraystackIT/laravel-pingen-api) | 0 | Laravel package to consume pingen api |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [amralakwaa/vibecleanpro](https://github.com/amralakwaa/vibecleanpro) | 1 | الموقع الرسمي لفايب كلين برو: شركة تنظيف بالرياض، منازل وفلل وواجهات ومكاتب | La... |
 | [Pharaonic/laravel-translatable](https://github.com/Pharaonic/laravel-translatable) | 5 | Translated fields for Laravel Eloquent models in three storage strategies behind... |
 | [hmzisb/laravel-country-currency-language-timezone-seeders-data-migrations-models](https://github.com/hmzisb/laravel-country-currency-language-timezone-seeders-data-migrations-models) | 0 | 🌍 Ready-to-use country, currency, language and timezone data for Laravel. For f... |
-| [Gerenuk-LTD/nudge-for-laravel](https://github.com/Gerenuk-LTD/nudge-for-laravel) | 0 | Send contacts and events to Nudge from your Laravel app. |
-| [InEngine/Skeleton](https://github.com/InEngine/Skeleton) | 0 | GitHub template for InEngine Modulus feature modules (forked from spatie/package... |
-| [yuriyakishin/laravel-similar-words](https://github.com/yuriyakishin/laravel-similar-words) | 0 | Laravel Livewire tool that finds words and phrases with the closest embedding ve... |
-| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | The native Arazzo workflow engine for PHP and Laravel. Parse, validate, and exec... |
-| [Larsln/dinnertime](https://github.com/Larsln/dinnertime) | 0 | Self-hosted recipes, meal plan and shopping list for one household: imports from... |
-| [Mello21century/symposer](https://github.com/Mello21century/symposer) | 2 | pnpm-style package store for PHP Composer: every package version stored once, li... |
-| [brew-apps/intelipost](https://github.com/brew-apps/intelipost) | 0 | Laravel Intelipost package |
-| [solutionforest/filament-import-wizard](https://github.com/solutionforest/filament-import-wizard) | 2 | Import & export CSV and Excel in Filament v5: upload → map → review → import wiz... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [filagora/filagora-cms](https://github.com/filagora/filagora-cms) | 0 | 2026-11-20 | Pages, blocks, menus, media and a draft, version, schedule a... |
-| [packstub/holler](https://github.com/packstub/holler) | 2 | 2026-11-20 | Holler for Laravel: audio, video and screen-share calls betw... |
-| [packstub/filament-session-replay](https://github.com/packstub/filament-session-replay) | 10 | 2026-11-20 | Session replay inside a Filament v5 panel, built on rrweb an... |
-| [packstub/session-replay](https://github.com/packstub/session-replay) | 80 | 2026-11-20 | Session replay for Laravel, built on rrweb: a recorder with ... |
-| [wyxos/laravel-mail-provision](https://github.com/wyxos/laravel-mail-provision) | 0 | 2026-11-20 | Laravel package to provision SparkPost sending/tracking doma... |
-| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 40 | 2026-11-20 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
-| [artisan-toolbox/maintainer](https://github.com/artisan-toolbox/maintainer) | 0 | 2026-11-20 | ArtisanToolbox Maintainer provides automated validation, qua... |
-| [reachweb/statamic-resrv](https://github.com/reachweb/statamic-resrv) | 15 | 2026-11-20 | Resrv is a booking engine for Statamic. |
-| [liberusoftware/module-liberu-platform-orchestration](https://github.com/liberusoftware/module-liberu-platform-orchestration) | 0 | 2026-11-20 | This package is the authoritative, provider-neutral implemen... |
-| [liberusoftware/module-liberu-executive-insights](https://github.com/liberusoftware/module-liberu-executive-insights) | 0 | 2026-11-20 | This package is the authoritative, provider-neutral implemen... |
-| [liberusoftware/module-liberu-business-workflow-reconciliation](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation) | 0 | 2026-11-20 | This package is the authoritative, provider-neutral implemen... |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-20 | Identity and access management for Laravel: installs the aut... |
-| [nickdekruijk/leap-demo](https://github.com/nickdekruijk/leap-demo) | 1 | 2026-11-20 | Demo app for nickdekruijk/leap + leap-template — live at lea... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-20 | Automated code analysis for Laravel applications with 73 ope... |
-| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-20 | ShieldCI Analyzers Core - Shared foundation for building sta... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-20 |  |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-21 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [pushery/sovereign-ai-for-laravel](https://github.com/pushery/sovereign-ai-for-laravel) | 0 | 2026-11-21 | IONOS AI Model Hub and OVHcloud AI Endpoints as providers fo... |
+| [pushery/tax-audit-export-for-laravel](https://github.com/pushery/tax-audit-export-for-laravel) | 0 | 2026-11-21 | Writes the index.xml, DTD and CSV files of a tax audit data ... |
+| [alphaolomi/laravel-azampay](https://github.com/alphaolomi/laravel-azampay) | 31 | 2026-11-21 | Laravel Azampay |
+| [ProofAge/laravel-client](https://github.com/ProofAge/laravel-client) | 0 | 2026-11-21 | Official Laravel package for seamless ProofAge API integrati... |
+| [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) | 499 | 2026-11-20 | A full-featured Laravel package for aiding in Shopify App de... |
 | [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-20 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 14 | 2026-11-20 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-20 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
-| [Zairakai/PHP-Package_laravel_twitch](https://github.com/Zairakai/PHP-Package_laravel_twitch) | 0 | 2026-11-20 | Read-only mirror of gitlab.com/zairakai/php-packages/laravel... |
+| [artisan-toolbox/mosaicast](https://github.com/artisan-toolbox/mosaicast) | 0 | 2026-11-20 | Mosaicast is a Laravel event delivery package that intellige... |
+| [artisan-toolbox/permit](https://github.com/artisan-toolbox/permit) | 0 | 2026-11-20 | Permit is a Laravel authorization package that builds on Gat... |
+| [James-Lavina/Budget-App](https://github.com/James-Lavina/Budget-App) | 0 | 2026-11-20 |  |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-20 |  |
+| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-20 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [NyonCode/wire-module-audit](https://github.com/NyonCode/wire-module-audit) | 0 | 2026-11-20 | Audit log administration for wire: the trail core already re... |
+| [NyonCode/wire-module-tenants](https://github.com/NyonCode/wire-module-tenants) | 0 | 2026-11-20 | Companies for wire: register a company, keep its profile, an... |
+| [NyonCode/wire-module-settings](https://github.com/NyonCode/wire-module-settings) | 0 | 2026-11-20 | Application settings for wire: typed key/value settings with... |
+| [NyonCode/wire-module-notifications](https://github.com/NyonCode/wire-module-notifications) | 0 | 2026-11-20 | Stored notifications for wire: the history behind the bell, ... |
+| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | 2026-11-20 | AI tooling for the Wire ecosystem – an MCP server, AI guidel... |
+| [NyonCode/wire-sortable](https://github.com/NyonCode/wire-sortable) | 0 | 2026-11-20 | Drag & drop row reordering plugin for wire-table. — READ ONL... |
+| [NyonCode/wire-suite](https://github.com/NyonCode/wire-suite) | 0 | 2026-11-20 | The whole wire stack in one require, with an interactive ins... |
+| [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | 2026-11-20 | Enterprise-grade Livewire table system with inline editing, ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-21T00:42 | 8 | 1736 | 8276 |
 | 2026-11-20T18:27 | 1 | 1744 | 8268 |
 | 2026-11-20T12:30 | 4 | 1744 | 8267 |
 | 2026-11-20T06:34 | 4 | 1746 | 8263 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-19T06:34 | 1 | 1759 | 8233 |
 | 2026-11-19T00:43 | 7 | 1754 | 8232 |
 | 2026-11-18T18:25 | 10 | 1753 | 8225 |
-| 2026-11-18T12:29 | 3 | 1760 | 8215 |
 
 ---
 

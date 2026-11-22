@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 8291  
-**Last updated:** 2026-11-22T00:45:24.331Z
+**Last updated:** 2026-11-22T06:31:50.908Z
 
 ## 📦 Recently Discovered
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [iquesters/user-management](https://github.com/iquesters/user-management) | 0 | 2026-11-22 | A modular and extendable Laravel package that provides user ... |
-| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-22 | ShieldCI Analyzers Core - Shared foundation for building sta... |
-| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 175 | 2026-11-22 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 210 | 2026-11-22 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | 117 | 2026-11-22 | Real Estate / Estate Agent, solution for your Property Agenc... |
-| [kitloom/nova-starter](https://github.com/kitloom/nova-starter) | 0 | 2026-11-22 | Laravel starter kit: kitloom with the Laravel Nova admin. Th... |
-| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-11-22 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
-| [EscuelaIt/laravel-api-kit](https://github.com/EscuelaIt/laravel-api-kit) | 1 | 2026-11-22 | Utilities to create consistent APIs in Laravel. |
-| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-11-22 | Laravel package for integrating with Ranetrace – error track... |
-| [ranetrace/lemme](https://github.com/ranetrace/lemme) | 3 | 2026-11-22 | Generate a beautiful, fast, searchable documentation site fr... |
-| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 391 | 2026-11-22 | Worldwide postal code validation for Laravel |
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-22 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [saade/filament-autograph](https://github.com/saade/filament-autograph) | 80 | 2026-11-22 | A Filament package to collect signatures. |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-11-22 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-11-22 | Simple package for adding directives to show/hide content fr... |
 | [dowardev/glitchvy](https://github.com/dowardev/glitchvy) | 0 | 2026-11-22 | Error reporter package (cliente + Laravel SDK). Minimal erro... |
-| [cipi-sh/agent](https://github.com/cipi-sh/agent) | 8 | 2026-11-21 | Cipi Agent for Laravel applications |
-| [hampel/paypal-api-laravel](https://github.com/hampel/paypal-api-laravel) | 0 | 2026-11-21 | Laravel service provider, manager and facade for the PayPal ... |
-| [IonFlux84/wake](https://github.com/IonFlux84/wake) | 2 | 2026-11-21 | The flat-file CMS that speaks MCP. Markdown files, no databa... |
-| [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | 2026-11-21 | Laravel package for AI Bridge — unified streaming interface ... |
-| [NyonCode/laravel-pwa](https://github.com/NyonCode/laravel-pwa) | 0 | 2026-11-21 | Production-grade PWA for Laravel 12/13: offline-first servic... |
-| [abolaradev/action-rate-limiter](https://github.com/abolaradev/action-rate-limiter) | 0 | 2026-11-21 | A lightweight Laravel package for rate-limiting application ... |
-| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-21 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-21 | Automated code analysis for Laravel applications with 73 ope... |
+| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 175 | 2026-11-22 | Accounting application written in Laravel 13 / PHP 8.5 using... |
+| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-22 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 210 | 2026-11-22 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-22 | Automated code analysis for Laravel applications with 73 ope... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-22 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [mikeyperes/laravel-hexa-package-zerogpt](https://github.com/mikeyperes/laravel-hexa-package-zerogpt) | 0 | 2026-11-22 | ZeroGPT — AI content detection for Hexa Web Systems |
+| [abordage/laravel-html-min](https://github.com/abordage/laravel-html-min) | 25 | 2026-11-22 | HtmlMin is very simple (and very fast) html compression pack... |
+| [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | 117 | 2026-11-22 | Real Estate / Estate Agent, solution for your Property Agenc... |
+| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-11-22 | [PACKAGE] Build a free e-commerce website system for busines... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 83 | 2026-11-22 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [hachchadi/CmiPayment](https://github.com/hachchadi/CmiPayment) | 1 | 2026-11-22 | A Laravel package for CMI payment integration |
+| [AsteriaCreations/portico](https://github.com/AsteriaCreations/portico) | 2 | 2026-11-22 | Member check-in & membership management for clubs — concurre... |
+| [moztopia/moztopia-cloudflare](https://github.com/moztopia/moztopia-cloudflare) | 0 | 2026-11-22 | Credential-free Cloudflare visitor location and request cont... |
+| [HoceineEl/filament-sidebar-editor](https://github.com/HoceineEl/filament-sidebar-editor) | 4 | 2026-11-22 | Sidebar editor for Filament: hide, show and reorder navigati... |
+| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-22 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-22T06:31 | 0 | 1737 | 8291 |
 | 2026-11-22T00:45 | 5 | 1732 | 8291 |
 | 2026-11-21T18:25 | 4 | 1734 | 8286 |
 | 2026-11-21T12:27 | 5 | 1735 | 8282 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-20T12:30 | 4 | 1744 | 8267 |
 | 2026-11-20T06:34 | 4 | 1746 | 8263 |
 | 2026-11-20T00:41 | 5 | 1746 | 8259 |
-| 2026-11-19T18:27 | 5 | 1745 | 8254 |
 
 ---
 

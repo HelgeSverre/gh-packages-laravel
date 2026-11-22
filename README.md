@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8286  
-**Last updated:** 2026-11-21T18:25:06.680Z
+**Total packages tracked:** 8291  
+**Last updated:** 2026-11-22T00:45:24.331Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [IrvinSegura/IRSO-BLOG](https://github.com/IrvinSegura/IRSO-BLOG) | 0 | Blog con panel de administración, roles y login social (Google, Microsoft, Faceb... |
+| [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | 117 | Real Estate / Estate Agent, solution for your Property Agency. Application writt... |
+| [hampel/paypal-api-laravel](https://github.com/hampel/paypal-api-laravel) | 0 | Laravel service provider, manager and facade for the PayPal REST API client, wit... |
+| [abolaradev/action-rate-limiter](https://github.com/abolaradev/action-rate-limiter) | 0 | A lightweight Laravel package for rate-limiting application actions using Larave... |
+| [sorge-it/http-server](https://github.com/sorge-it/http-server) | 0 | In-process HTTP/1.1 server for Pest and PHPUnit browser tests, built for coding ... |
 | [wao1ook/beem](https://github.com/wao1ook/beem) | 6 | Laravel package for the Beem Africa SMS, Two-Way SMS, OTP and Multicountry SMS A... |
 | [dziulatex/shareglint-laravel](https://github.com/dziulatex/shareglint-laravel) | 0 | Laravel package for Shareglint: signed og:image URLs and Blade helpers |
 | [Pharaonic/laravel-modulator](https://github.com/Pharaonic/laravel-modulator) | 8 | Laravel-native modules: convention-based discovery, nested submodules, package-p... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [aristonis/filament-shortcut-keys](https://github.com/aristonis/filament-shortcut-keys) | 0 | Keyboard shortcuts for Filament 5 panels, assigned automatically from resources,... |
 | [generalsystemsvehicle/industrialist](https://github.com/generalsystemsvehicle/industrialist) | 0 | 🏢 A SAML2 Service Provider package for Laravel |
 | [Mane-Olawale/laravel-termii](https://github.com/Mane-Olawale/laravel-termii) | 9 | Laravel package for Termii SMS.  |
-| [otten-it/version-report](https://github.com/otten-it/version-report) | 0 | Lets a monitoring dashboard read which Laravel, PHP and package versions a Larav... |
-| [AesirCloud/laravel-domains](https://github.com/AesirCloud/laravel-domains) | 0 | A Laravel package to scaffold Domain-Driven Design (DDD) structures in your Lara... |
-| [tohidplus/laravel-vue-translation](https://github.com/tohidplus/laravel-vue-translation) | 39 | A package to have laravel translation in VueJS |
-| [net-os-com/laravel-netos-debug](https://github.com/net-os-com/laravel-netos-debug) | 0 | Laravel package that sends the full Debugbar payload of every request to the deb... |
-| [Cipta-Grafika/absensicipta](https://github.com/Cipta-Grafika/absensicipta) | 2 | HRIS Cipta Grafika adalah platform terpadu untuk pengelolaan sumber daya manusia... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Pharaonic/laravel-modulator](https://github.com/Pharaonic/laravel-modulator) | 8 | 2026-11-21 | Laravel-native modules: convention-based discovery, nested s... |
-| [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) | 297 | 2026-11-21 | Laravel error reporting tool |
-| [creasico/laravel-dusk-browserstack](https://github.com/creasico/laravel-dusk-browserstack) | 2 | 2026-11-21 | Additional BrowserStack support for Laravel Dusk |
-| [alsuhaibi96/laravel-saudi-payment-gateways](https://github.com/alsuhaibi96/laravel-saudi-payment-gateways) | 0 | 2026-11-21 | Laravel package: Moyasar, PayTabs, Tabby, Tamara and MISpay ... |
-| [creasico/laravel-package](https://github.com/creasico/laravel-package) | 1 | 2026-11-21 | Laravel Package Template |
-| [creasico/laravel-nusa](https://github.com/creasico/laravel-nusa) | 101 | 2026-11-21 | Complete, ready-to-use Indonesian administrative region data... |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-21 | Identity and access management for Laravel: installs the aut... |
-| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-11-21 | A foundational package providing base classes and utilities ... |
-| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 4 | 2026-11-21 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
-| [iquesters/user-management](https://github.com/iquesters/user-management) | 0 | 2026-11-21 | A modular and extendable Laravel package that provides user ... |
-| [iquesters/organisation](https://github.com/iquesters/organisation) | 0 | 2026-11-21 | The Organisation Package provides a structured way to manage... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-21 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [emmanuelgautier/awesome-dockerfiles](https://github.com/emmanuelgautier/awesome-dockerfiles) | 15 | 2026-11-21 | A collection of Dockerfile examples for various programming ... |
+| [iquesters/user-management](https://github.com/iquesters/user-management) | 0 | 2026-11-22 | A modular and extendable Laravel package that provides user ... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-22 | ShieldCI Analyzers Core - Shared foundation for building sta... |
+| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 175 | 2026-11-22 | Accounting application written in Laravel 13 / PHP 8.5 using... |
+| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 210 | 2026-11-22 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | 117 | 2026-11-22 | Real Estate / Estate Agent, solution for your Property Agenc... |
+| [kitloom/nova-starter](https://github.com/kitloom/nova-starter) | 0 | 2026-11-22 | Laravel starter kit: kitloom with the Laravel Nova admin. Th... |
+| [jeffersongoncalves/helpdeskkitv5](https://github.com/jeffersongoncalves/helpdeskkitv5) | 5 | 2026-11-22 | HelpDesk starter kit built on Laravel 13.x and Filament 5.x ... |
+| [EscuelaIt/laravel-api-kit](https://github.com/EscuelaIt/laravel-api-kit) | 1 | 2026-11-22 | Utilities to create consistent APIs in Laravel. |
+| [ranetrace/ranetrace-laravel](https://github.com/ranetrace/ranetrace-laravel) | 2 | 2026-11-22 | Laravel package for integrating with Ranetrace – error track... |
+| [ranetrace/lemme](https://github.com/ranetrace/lemme) | 3 | 2026-11-22 | Generate a beautiful, fast, searchable documentation site fr... |
+| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 391 | 2026-11-22 | Worldwide postal code validation for Laravel |
+| [dowardev/glitchvy](https://github.com/dowardev/glitchvy) | 0 | 2026-11-22 | Error reporter package (cliente + Laravel SDK). Minimal erro... |
+| [cipi-sh/agent](https://github.com/cipi-sh/agent) | 8 | 2026-11-21 | Cipi Agent for Laravel applications |
+| [hampel/paypal-api-laravel](https://github.com/hampel/paypal-api-laravel) | 0 | 2026-11-21 | Laravel service provider, manager and facade for the PayPal ... |
+| [IonFlux84/wake](https://github.com/IonFlux84/wake) | 2 | 2026-11-21 | The flat-file CMS that speaks MCP. Markdown files, no databa... |
+| [tetrixdev/laravel-ai-bridge](https://github.com/tetrixdev/laravel-ai-bridge) | 0 | 2026-11-21 | Laravel package for AI Bridge — unified streaming interface ... |
 | [NyonCode/laravel-pwa](https://github.com/NyonCode/laravel-pwa) | 0 | 2026-11-21 | Production-grade PWA for Laravel 12/13: offline-first servic... |
-| [jeffersongoncalves/laravel-page-visits](https://github.com/jeffersongoncalves/laravel-page-visits) | 2 | 2026-11-21 | Track page-view visits on any Laravel app's public routes, w... |
-| [aristonis/filament-shortcut-keys](https://github.com/aristonis/filament-shortcut-keys) | 0 | 2026-11-21 | Keyboard shortcuts for Filament 5 panels, assigned automatic... |
-| [lchristmann/nusszopf](https://github.com/lchristmann/nusszopf) | 0 | 2026-11-21 | Free, self-hostable revival of the historical Nusszopf proje... |
-| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-11-21 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
-| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 2 | 2026-11-21 | Open-source, self-hosted IT documentation for MSPs — servers... |
-| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-21 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [abolaradev/action-rate-limiter](https://github.com/abolaradev/action-rate-limiter) | 0 | 2026-11-21 | A lightweight Laravel package for rate-limiting application ... |
+| [hosmelq/php-coding-standard](https://github.com/hosmelq/php-coding-standard) | 1 | 2026-11-21 | Opinionated ECS, Rector, and PHPStan presets for PHP and Lar... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-21 | Automated code analysis for Laravel applications with 73 ope... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-22T00:45 | 5 | 1732 | 8291 |
 | 2026-11-21T18:25 | 4 | 1734 | 8286 |
 | 2026-11-21T12:27 | 5 | 1735 | 8282 |
 | 2026-11-21T06:31 | 1 | 1743 | 8277 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-20T06:34 | 4 | 1746 | 8263 |
 | 2026-11-20T00:41 | 5 | 1746 | 8259 |
 | 2026-11-19T18:27 | 5 | 1745 | 8254 |
-| 2026-11-19T12:29 | 17 | 1734 | 8250 |
 
 ---
 

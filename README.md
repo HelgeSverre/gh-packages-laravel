@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8291  
-**Last updated:** 2026-11-22T06:31:50.908Z
+**Total packages tracked:** 8294  
+**Last updated:** 2026-11-22T12:27:33.092Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [nccirtu/Open-FM](https://github.com/nccirtu/Open-FM) | 0 | Selbst gehostete Open-Source-Plattform für Gebäudemanagement, Betreiberverantwor... |
+| [trongio/storewire-lite](https://github.com/trongio/storewire-lite) | 0 | Free read-only storefront MCP server for Laravel: let AI assistants search your ... |
+| [contractlayer/econtract-laravel](https://github.com/contractlayer/econtract-laravel) | 0 | Laravel package for eContract e-signatures: SignatureProvider interface, webhook... |
 | [IrvinSegura/IRSO-BLOG](https://github.com/IrvinSegura/IRSO-BLOG) | 0 | Blog con panel de administración, roles y login social (Google, Microsoft, Faceb... |
 | [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | 117 | Real Estate / Estate Agent, solution for your Property Agency. Application writt... |
 | [hampel/paypal-api-laravel](https://github.com/hampel/paypal-api-laravel) | 0 | Laravel service provider, manager and facade for the PayPal REST API client, wit... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [moztopia/moztopia-cloudflare](https://github.com/moztopia/moztopia-cloudflare) | 0 | Credential-free Cloudflare visitor location and request context for Laravel appl... |
 | [pushery/sovereign-ai-for-laravel](https://github.com/pushery/sovereign-ai-for-laravel) | 2 | IONOS AI Model Hub and OVHcloud AI Endpoints as providers for the Laravel AI SDK... |
 | [pushery/tax-audit-export-for-laravel](https://github.com/pushery/tax-audit-export-for-laravel) | 2 | Writes the index.xml, DTD and CSV files of a tax audit data export (GoBD, GDPdU,... |
-| [aristonis/filament-shortcut-keys](https://github.com/aristonis/filament-shortcut-keys) | 0 | Keyboard shortcuts for Filament 5 panels, assigned automatically from resources,... |
-| [generalsystemsvehicle/industrialist](https://github.com/generalsystemsvehicle/industrialist) | 0 | 🏢 A SAML2 Service Provider package for Laravel |
-| [Mane-Olawale/laravel-termii](https://github.com/Mane-Olawale/laravel-termii) | 9 | Laravel package for Termii SMS.  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,7 +40,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 476 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 475 | Open Source Laravel CRM Package |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-22 | Concrete implementations of the 9 domain interfaces from nvo... |
-| [saade/filament-autograph](https://github.com/saade/filament-autograph) | 80 | 2026-11-22 | A Filament package to collect signatures. |
-| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-11-22 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
-| [vlados/laravel-blade-crawler-detect](https://github.com/vlados/laravel-blade-crawler-detect) | 0 | 2026-11-22 | Simple package for adding directives to show/hide content fr... |
-| [dowardev/glitchvy](https://github.com/dowardev/glitchvy) | 0 | 2026-11-22 | Error reporter package (cliente + Laravel SDK). Minimal erro... |
-| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 175 | 2026-11-22 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-22 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 210 | 2026-11-22 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-22 | Automated code analysis for Laravel applications with 73 ope... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-22 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [mikeyperes/laravel-hexa-package-zerogpt](https://github.com/mikeyperes/laravel-hexa-package-zerogpt) | 0 | 2026-11-22 | ZeroGPT — AI content detection for Hexa Web Systems |
-| [abordage/laravel-html-min](https://github.com/abordage/laravel-html-min) | 25 | 2026-11-22 | HtmlMin is very simple (and very fast) html compression pack... |
-| [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | 117 | 2026-11-22 | Real Estate / Estate Agent, solution for your Property Agenc... |
-| [gp247net/shop](https://github.com/gp247net/shop) | 0 | 2026-11-22 | [PACKAGE] Build a free e-commerce website system for busines... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 83 | 2026-11-22 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [hachchadi/CmiPayment](https://github.com/hachchadi/CmiPayment) | 1 | 2026-11-22 | A Laravel package for CMI payment integration |
-| [AsteriaCreations/portico](https://github.com/AsteriaCreations/portico) | 2 | 2026-11-22 | Member check-in & membership management for clubs — concurre... |
-| [moztopia/moztopia-cloudflare](https://github.com/moztopia/moztopia-cloudflare) | 0 | 2026-11-22 | Credential-free Cloudflare visitor location and request cont... |
-| [HoceineEl/filament-sidebar-editor](https://github.com/HoceineEl/filament-sidebar-editor) | 4 | 2026-11-22 | Sidebar editor for Filament: hide, show and reorder navigati... |
+| [trongio/storewire-lite](https://github.com/trongio/storewire-lite) | 0 | 2026-11-22 | Free read-only storefront MCP server for Laravel: let AI ass... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-22 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [nccirtu/Open-FM](https://github.com/nccirtu/Open-FM) | 0 | 2026-11-22 | Selbst gehostete Open-Source-Plattform für Gebäudemanagement... |
+| [aman00323/email-checker](https://github.com/aman00323/email-checker) | 162 | 2026-11-22 | Provides email verification on the go. |
+| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-11-22 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
+| [jeffersongoncalves/filament-qrcode-field](https://github.com/jeffersongoncalves/filament-qrcode-field) | 20 | 2026-11-22 | A Laravel Filament package that provides QR Code field funct... |
+| [sorge-it/http-server](https://github.com/sorge-it/http-server) | 0 | 2026-11-22 | In-process HTTP/1.1 server for Pest and PHPUnit browser test... |
+| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 40 | 2026-11-22 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
 | [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-22 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
+| [ellaisys/aws-cognito](https://github.com/ellaisys/aws-cognito) | 122 | 2026-11-22 | AWS Cognito package (with MFA, SRP and Passkeys Feature) for... |
+| [liberusoftware/module-liberu-platform-orchestration-api](https://github.com/liberusoftware/module-liberu-platform-orchestration-api) | 0 | 2026-11-22 | This optional API package presents exactly one new Liberu cr... |
+| [liberusoftware/module-liberu-executive-insights-api](https://github.com/liberusoftware/module-liberu-executive-insights-api) | 0 | 2026-11-22 | This optional API package presents exactly one new Liberu cr... |
+| [liberusoftware/module-liberu-business-workflow-reconciliation-api](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation-api) | 0 | 2026-11-22 | This optional API package presents exactly one new Liberu cr... |
+| [Kovah/laravel-html-meta](https://github.com/Kovah/laravel-html-meta) | 8 | 2026-11-22 | A simple helper to retrieve the HTML meta tags of a website. |
+| [Grazulex/laravel-atlas](https://github.com/Grazulex/laravel-atlas) | 24 | 2026-11-22 | 🗺️ Laravel Atlas scans your Laravel project to generate a c... |
+| [NyonCode/laravel-pwa](https://github.com/NyonCode/laravel-pwa) | 0 | 2026-11-22 | Production-grade PWA for Laravel 12/13: offline-first servic... |
+| [HiteaFR/tirelire](https://github.com/HiteaFR/tirelire) | 0 | 2026-11-22 | Self-hosted personal budget app: bank CSV import, rule-based... |
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-22 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [SimplePark-BV/laravel-invoices](https://github.com/SimplePark-BV/laravel-invoices) | 2 | 2026-11-22 | A modern Laravel package for creating, customizing, and expo... |
+| [Grazulex/laravel-modelschema](https://github.com/Grazulex/laravel-modelschema) | 8 | 2026-11-22 | 📐 Laravel ModelSchema is a foundational package for definin... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-22T12:27 | 3 | 1735 | 8294 |
 | 2026-11-22T06:31 | 0 | 1737 | 8291 |
 | 2026-11-22T00:45 | 5 | 1732 | 8291 |
 | 2026-11-21T18:25 | 4 | 1734 | 8286 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-20T18:27 | 1 | 1744 | 8268 |
 | 2026-11-20T12:30 | 4 | 1744 | 8267 |
 | 2026-11-20T06:34 | 4 | 1746 | 8263 |
-| 2026-11-20T00:41 | 5 | 1746 | 8259 |
 
 ---
 

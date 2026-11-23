@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8307  
-**Last updated:** 2026-11-23T00:46:07.775Z
+**Total packages tracked:** 8309  
+**Last updated:** 2026-11-23T06:44:14.872Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [laravolt/laravolt](https://github.com/laravolt/laravolt) | 63 | AI-ready Laravel application platform: Thunderclap CRUD scaffolding, admin UI on... |
+| [ITMOSOFT/laravel-money](https://github.com/ITMOSOFT/laravel-money) | 0 | Shared monetary value, precision and rounding services for ITMOSOFT Laravel pack... |
 | [algmaal/laravel-url-to-pdf](https://github.com/algmaal/laravel-url-to-pdf) | 0 | A high-fidelity URL to PDF converter package for Laravel powered by Headless Chr... |
 | [MohamedAbdallah-MA/notification-lab](https://github.com/MohamedAbdallah-MA/notification-lab) | 0 | notification lab is a laravel dev package  to test the firebase push notificatio... |
 | [FirasArafah/laronclad](https://github.com/FirasArafah/laronclad) | 0 | Runtime security sensor for Laravel. Detects suspicious SQL queries and outbound... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [contractlayer/econtract-laravel](https://github.com/contractlayer/econtract-laravel) | 0 | Laravel package for eContract e-signatures: SignatureProvider interface, webhook... |
 | [IrvinSegura/IRSO-BLOG](https://github.com/IrvinSegura/IRSO-BLOG) | 0 | Blog con panel de administración, roles y login social (Google, Microsoft, Faceb... |
 | [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | 117 | Real Estate / Estate Agent, solution for your Property Agency. Application writt... |
-| [hampel/paypal-api-laravel](https://github.com/hampel/paypal-api-laravel) | 0 | Laravel service provider, manager and facade for the PayPal REST API client, wit... |
-| [abolaradev/action-rate-limiter](https://github.com/abolaradev/action-rate-limiter) | 0 | A lightweight Laravel package for rate-limiting application actions using Larave... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [nikolai-vysotskyi/lookout](https://github.com/nikolai-vysotskyi/lookout) | 5 | 2026-11-23 | Open-source, self-hosted alternative to Laravel Nightwatch: ... |
+| [Omnia-Global/visns-packages](https://github.com/Omnia-Global/visns-packages) | 0 | 2026-11-23 | PHP / Laravel packages used by Visns Studio |
+| [zeroit789/meetcita](https://github.com/zeroit789/meetcita) | 0 | 2026-11-23 | Reservas de citas autoalojadas para Laravel: calendario, cit... |
+| [Accredifysg/SingPass-Login](https://github.com/Accredifysg/SingPass-Login) | 2 | 2026-11-23 | A Laravel Package for integrating Singpass Login, Myinfo, an... |
+| [nafiur/laravel-web-analytics](https://github.com/nafiur/laravel-web-analytics) | 5 | 2026-11-23 | A modern, fast, and self-hosted Web Traffic & Visitor Analyt... |
+| [cleaniquecoders/kickoff](https://github.com/cleaniquecoders/kickoff) | 14 | 2026-11-23 | Allow configure new Laravel project with all required packag... |
+| [GraystackIT/laravel-ship24-api](https://github.com/GraystackIT/laravel-ship24-api) | 0 | 2026-11-23 | Laravel package to consume Ship24 API |
+| [openric/service](https://github.com/openric/service) | 0 | 2026-11-23 | Standalone OpenRiC API service: Laravel 12, extracted from H... |
+| [laranail/package-tools](https://github.com/laranail/package-tools) | 0 | 2026-11-23 | Runtime base library for building Laravel packages: fluent P... |
+| [JBSommeling/scannr](https://github.com/JBSommeling/scannr) | 0 | 2026-11-23 | A Laravel package that crawls websites to detect broken link... |
+| [ITMOSOFT/laravel-money](https://github.com/ITMOSOFT/laravel-money) | 0 | 2026-11-23 | Shared monetary value, precision and rounding services for I... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-23 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-23 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
-| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 2 | 2026-11-23 | Open-source, self-hosted IT documentation for MSPs — servers... |
-| [MohamedAbdallah-MA/notification-lab](https://github.com/MohamedAbdallah-MA/notification-lab) | 0 | 2026-11-23 | notification lab is a laravel dev package  to test the fireb... |
-| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 16 | 2026-11-23 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-22 |  |
-| [ArtisanPack-UI/ecommerce-storefront-livewire](https://github.com/ArtisanPack-UI/ecommerce-storefront-livewire) | 0 | 2026-11-22 | Livewire storefront for the ArtisanPack UI ecommerce engine ... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 83 | 2026-11-22 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-22 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [cleaniquecoders/kickoff](https://github.com/cleaniquecoders/kickoff) | 14 | 2026-11-22 | Allow configure new Laravel project with all required packag... |
-| [gp247net/core](https://github.com/gp247net/core) | 4 | 2026-11-22 | [PACKAGE] Core of GP247, an open-source ecosystem on Laravel... |
-| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | 2026-11-22 | AI tooling for the Wire ecosystem – an MCP server, AI guidel... |
-| [NyonCode/wire-module-users](https://github.com/NyonCode/wire-module-users) | 0 | 2026-11-22 | User administration for wire: a ready-made module with its r... |
-| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | 2026-11-22 | Standalone form system for the Wire ecosystem – fields, vali... |
-| [NyonCode/wire-module-audit](https://github.com/NyonCode/wire-module-audit) | 0 | 2026-11-22 | Audit log administration for wire: the trail core already re... |
-| [NyonCode/wire-module-settings](https://github.com/NyonCode/wire-module-settings) | 0 | 2026-11-22 | Application settings for wire: typed key/value settings with... |
-| [NyonCode/wire-suite](https://github.com/NyonCode/wire-suite) | 0 | 2026-11-22 | The whole wire stack in one require, with an interactive ins... |
-| [NyonCode/wire-module-notifications](https://github.com/NyonCode/wire-module-notifications) | 0 | 2026-11-22 | Stored notifications for wire: the history behind the bell, ... |
-| [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | 2026-11-22 | Enterprise-grade Livewire table system with inline editing, ... |
+| [jund-fauz/eloquent-kompact](https://github.com/jund-fauz/eloquent-kompact) | 0 | 2026-11-23 | A set of automatic & helper tools to improve development exp... |
+| [InterWorks/laravel-powerbi](https://github.com/InterWorks/laravel-powerbi) | 2 | 2026-11-23 | A comprehensive Laravel package for interacting with the Mic... |
+| [Particle-Academy/change-council](https://github.com/Particle-Academy/change-council) | 0 | 2026-11-23 | A consumer-agent voting ledger for major package changes: a ... |
+| [GraystackIT/laravel-helpspace-api](https://github.com/GraystackIT/laravel-helpspace-api) | 0 | 2026-11-23 | Laravel package to consume Helpspace API |
+| [M-Araujo/LifeAtlas](https://github.com/M-Araujo/LifeAtlas) | 0 | 2026-11-23 | Local-first personal development and journaling application ... |
+| [wundii/data-mapper-laravel-package](https://github.com/wundii/data-mapper-laravel-package) | 1 | 2026-11-23 | A Laravel Package providing seamless integration for the wun... |
+| [ITMOSOFT/laravel-commerce-adapters](https://github.com/ITMOSOFT/laravel-commerce-adapters) | 0 | 2026-11-23 | Optional integration adapters connecting independent ITMOSOF... |
+| [GraystackIT/laravel-brave-api](https://github.com/GraystackIT/laravel-brave-api) | 0 | 2026-11-23 | Laravel package to consume Brave search API |
+| [janczakb/media-studio](https://github.com/janczakb/media-studio) | 0 | 2026-11-23 | Self-hosted media library for Laravel and Filament. Organize... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-23T06:44 | 2 | 1735 | 8309 |
 | 2026-11-23T00:46 | 2 | 1737 | 8307 |
 | 2026-11-22T18:25 | 11 | 1729 | 8305 |
 | 2026-11-22T12:27 | 3 | 1735 | 8294 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-21T12:27 | 5 | 1735 | 8282 |
 | 2026-11-21T06:31 | 1 | 1743 | 8277 |
 | 2026-11-21T00:42 | 8 | 1736 | 8276 |
-| 2026-11-20T18:27 | 1 | 1744 | 8268 |
 
 ---
 

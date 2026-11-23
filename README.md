@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8313  
-**Last updated:** 2026-11-23T12:31:18.192Z
+**Total packages tracked:** 8323  
+**Last updated:** 2026-11-23T18:26:47.558Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [4lbert4rgolo/alpdesk](https://github.com/4lbert4rgolo/alpdesk) | 0 | Portal interno de suporte de TI: chamados com prioridade e autorização, avisos p... |
+| [BrendonPietro/home-game-manager](https://github.com/BrendonPietro/home-game-manager) | 0 | Sistema de gestão de home game de poker presencial: torneios, cash games, caixa,... |
+| [Pharaonic/laravel-api-versioning](https://github.com/Pharaonic/laravel-api-versioning) | 0 | Laravel-native API versioning: version groups and constraints on Route, header, ... |
+| [soaraid/laravel-debugger](https://github.com/soaraid/laravel-debugger) | 0 | A log viewer and the ops pages every Laravel app ends up needing, on one page at... |
+| [rashed50702/laravel-bangla-pdf](https://github.com/rashed50702/laravel-bangla-pdf) | 0 | Generate Bangla + English PDFs in Laravel with mPDF: correct conjuncts, auto fon... |
+| [mertaydin/laravel-backup-manager](https://github.com/mertaydin/laravel-backup-manager) | 1 | A Laravel package for database and application file backups, compression, encryp... |
+| [Hydrat-Agency/laravel-2fa](https://github.com/Hydrat-Agency/laravel-2fa) | 16 | This package allow you to enable simple two-factor authentication in your Larave... |
+| [ideal-postcodes/laravel](https://github.com/ideal-postcodes/laravel) | 0 | Laravel package for the Ideal Postcodes PHP SDK |
+| [Ashraam/laravel-simple-cart](https://github.com/Ashraam/laravel-simple-cart) | 0 | A simple session-based shopping cart implementation for Laravel 12. This package... |
+| [martin-lechene/bytez-laravel](https://github.com/martin-lechene/bytez-laravel) | 1 | Unofficial Laravel package for the Bytez API: use 175k+ AI models (chat, image, ... |
 | [phoenix1331/laravel-system-one-fc](https://github.com/phoenix1331/laravel-system-one-fc) | 0 | A Cymru football management game in Laravel 13 where you take on a local System ... |
 | [MSumon89/laravel-tenancy](https://github.com/MSumon89/laravel-tenancy) | 0 | Lightweight multi-tenancy for Laravel: shared database by default, and upgrade a... |
 | [MSumon89/laravel-tenant-permission](https://github.com/MSumon89/laravel-tenant-permission) | 0 | Roles & permissions for Laravel: works as simple RBAC or tenant-scoped RBAC for ... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [MohamedAbdallah-MA/notification-lab](https://github.com/MohamedAbdallah-MA/notification-lab) | 0 | notification lab is a laravel dev package  to test the firebase push notificatio... |
 | [FirasArafah/laronclad](https://github.com/FirasArafah/laronclad) | 0 | Runtime security sensor for Laravel. Detects suspicious SQL queries and outbound... |
 | [heureka-agency/sellissimo-core](https://github.com/heureka-agency/sellissimo-core) | 0 | eCommerce addon for Statamic. |
-| [CodeNyra/precognition-plus](https://github.com/CodeNyra/precognition-plus) | 0 | Laravel Precognition with common rules checked in the browser |
-| [heureka-agency/sellissimo-szamlazz-hu-invoicing](https://github.com/heureka-agency/sellissimo-szamlazz-hu-invoicing) | 0 | Számlázz.hu invoicing for Sellissimo.  |
-| [heureka-agency/sellissimo-shipping-flat-rate](https://github.com/heureka-agency/sellissimo-shipping-flat-rate) | 0 | Flat-rate shipping for Sellissimo on Statamic |
-| [heureka-agency/sellissimo-mollie](https://github.com/heureka-agency/sellissimo-mollie) | 0 | Mollie payments for Sellissimo on Statamic |
-| [heureka-agency/sellissimo-stripe](https://github.com/heureka-agency/sellissimo-stripe) | 0 | Stripe payments for Sellissimo on Statamic |
-| [abolfazlrastegar/laravel-excel-exporter](https://github.com/abolfazlrastegar/laravel-excel-exporter) | 1 | A lightweight Laravel package for exporting Eloquent models, Query Builder resul... |
-| [rakibhossainporosh/laravel-codepulse](https://github.com/rakibhossainporosh/laravel-codepulse) | 0 | Laravel code review package create |
-| [gp247net/core](https://github.com/gp247net/core) | 4 | [PACKAGE] Core of GP247, an open-source ecosystem on Laravel for building busine... |
-| [ahmaruff/laravel-htmx-table](https://github.com/ahmaruff/laravel-htmx-table) | 0 | A DataTables-inspired table package for Laravel, featuring server-side search, s... |
-| [nccirtu/Open-FM](https://github.com/nccirtu/Open-FM) | 0 | Selbst gehostete Open-Source-Plattform für Gebäudemanagement, Betreiberverantwor... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
+| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-11-23 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
+| [mertaydin/laravel-backup-manager](https://github.com/mertaydin/laravel-backup-manager) | 1 | 2026-11-23 | A Laravel package for database and application file backups,... |
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-23 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-23 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
 | [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-23 | A developer-friendly package for creating advanced Wordpress... |
-| [Sknadim6297/delta-support-laravel](https://github.com/Sknadim6297/delta-support-laravel) | 0 | 2026-11-23 | A Laravel 12-based tours and travel management platform feat... |
-| [Nuvori-B-V/aom-client](https://github.com/Nuvori-B-V/aom-client) | 0 | 2026-11-23 | nuvori/aom-client: Laravel package that reports errors, heal... |
-| [waysnx/business-framework-laravel](https://github.com/waysnx/business-framework-laravel) | 1 | 2026-11-23 | Laravel 13 implementation of the WaysNX Business Framework (... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-23 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [Baspa/laravel-timezones](https://github.com/Baspa/laravel-timezones) | 2 | 2026-11-23 | This package offers a convenient solution for Laravel develo... |
-| [Pollora/framework](https://github.com/Pollora/framework) | 32 | 2026-11-23 | The Laravel framework for WordPress: Blade, Laravel routing ... |
-| [openric/service](https://github.com/openric/service) | 0 | 2026-11-23 | Standalone OpenRiC API service: Laravel 12, extracted from H... |
-| [spectra-php/laravel-spectra](https://github.com/spectra-php/laravel-spectra) | 31 | 2026-11-23 | Observability for AI and LLM calls in Laravel. Automatically... |
-| [OR81/pino-pay-integrations](https://github.com/OR81/pino-pay-integrations) | 0 | 2026-11-23 | Laravel package and WooCommerce plugin for the Pino Pay paym... |
-| [Grazulex/laravel-apiroute](https://github.com/Grazulex/laravel-apiroute) | 112 | 2026-11-23 | Complete API versioning lifecycle management for Laravel |
-| [Grazulex/laravel-safeguard](https://github.com/Grazulex/laravel-safeguard) | 12 | 2026-11-23 | 🔐 Configurable security checks for Laravel applications. Ru... |
-| [Grazulex/laravel-modelschema](https://github.com/Grazulex/laravel-modelschema) | 8 | 2026-11-23 | 📐 Laravel ModelSchema is a foundational package for definin... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-23 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [MSumon89/laravel-tenancy](https://github.com/MSumon89/laravel-tenancy) | 0 | 2026-11-23 | Lightweight multi-tenancy for Laravel: shared database by de... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-23 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [InterWorks/laravel-powerbi](https://github.com/InterWorks/laravel-powerbi) | 2 | 2026-11-23 | A comprehensive Laravel package for interacting with the Mic... |
+| [sorge-it/phpunit-pest-html-assertions](https://github.com/sorge-it/phpunit-pest-html-assertions) | 0 | 2026-11-23 | HTML assertions for PHPUnit and Pest: check rendered HTML wi... |
+| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 7 | 2026-11-23 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
 | [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-23 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [skybleak333/hindsight-php](https://github.com/skybleak333/hindsight-php) | 0 | 2026-11-23 | PHP client for Hindsight agent memory: long-term memory for ... |
-| [HamzaHassanM/laravel-social-auto-post](https://github.com/HamzaHassanM/laravel-social-auto-post) | 16 | 2026-11-23 | A Laravel package for automatic social media posting across ... |
-| [webmappsrl/wm-package](https://github.com/webmappsrl/wm-package) | 0 | 2026-11-23 | Main Webampp laravel package for GEOBOX 2.0 |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-23 |  |
+| [sorge-it/http-server](https://github.com/sorge-it/http-server) | 0 | 2026-11-23 | In-process HTTP/1.1 server for Pest and PHPUnit browser test... |
+| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 2 | 2026-11-23 | Open-source, self-hosted IT documentation for MSPs — servers... |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-23 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | 2026-11-23 | Open-source, self-hosted video processing & delivery engine ... |
+| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-23 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-11-23 | Ptah — Laravel package that forges complete module structure... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-23 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [RobertBoes/blade-selfhst-icons](https://github.com/RobertBoes/blade-selfhst-icons) | 0 | 2026-11-23 | A package to easily make use of selfh.st Icons in your Larav... |
+| [jeffersongoncalves/laravel-package-cli](https://github.com/jeffersongoncalves/laravel-package-cli) | 1 | 2026-11-23 | Scaffold new open-source Laravel packages with git already c... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-23 | Automated code analysis for Laravel applications with 73 ope... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-23T18:26 | 10 | 1726 | 8323 |
 | 2026-11-23T12:31 | 4 | 1732 | 8313 |
 | 2026-11-23T06:44 | 2 | 1735 | 8309 |
 | 2026-11-23T00:46 | 2 | 1737 | 8307 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-22T00:45 | 5 | 1732 | 8291 |
 | 2026-11-21T18:25 | 4 | 1734 | 8286 |
 | 2026-11-21T12:27 | 5 | 1735 | 8282 |
-| 2026-11-21T06:31 | 1 | 1743 | 8277 |
 
 ---
 

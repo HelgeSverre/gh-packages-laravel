@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8305  
-**Last updated:** 2026-11-22T18:25:32.061Z
+**Total packages tracked:** 8307  
+**Last updated:** 2026-11-23T00:46:07.775Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [algmaal/laravel-url-to-pdf](https://github.com/algmaal/laravel-url-to-pdf) | 0 | A high-fidelity URL to PDF converter package for Laravel powered by Headless Chr... |
+| [MohamedAbdallah-MA/notification-lab](https://github.com/MohamedAbdallah-MA/notification-lab) | 0 | notification lab is a laravel dev package  to test the firebase push notificatio... |
 | [FirasArafah/laronclad](https://github.com/FirasArafah/laronclad) | 0 | Runtime security sensor for Laravel. Detects suspicious SQL queries and outbound... |
 | [heureka-agency/sellissimo-core](https://github.com/heureka-agency/sellissimo-core) | 0 | eCommerce addon for Statamic. |
 | [CodeNyra/precognition-plus](https://github.com/CodeNyra/precognition-plus) | 0 | Laravel Precognition with common rules checked in the browser |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | 117 | Real Estate / Estate Agent, solution for your Property Agency. Application writt... |
 | [hampel/paypal-api-laravel](https://github.com/hampel/paypal-api-laravel) | 0 | Laravel service provider, manager and facade for the PayPal REST API client, wit... |
 | [abolaradev/action-rate-limiter](https://github.com/abolaradev/action-rate-limiter) | 0 | A lightweight Laravel package for rate-limiting application actions using Larave... |
-| [sorge-it/http-server](https://github.com/sorge-it/http-server) | 0 | In-process HTTP/1.1 server for Pest and PHPUnit browser tests, built for coding ... |
-| [wao1ook/beem](https://github.com/wao1ook/beem) | 6 | Laravel package for the Beem Africa SMS, Two-Way SMS, OTP and Multicountry SMS A... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [rokde/laravel-pergament](https://github.com/rokde/laravel-pergament) | 3 | 2026-11-22 | A file-based CMS package for Laravel. Renders documentation,... |
-| [FirasArafah/laronclad](https://github.com/FirasArafah/laronclad) | 0 | 2026-11-22 | Runtime security sensor for Laravel. Detects suspicious SQL ... |
-| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-22 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [nikolai-vysotskyi/lookout](https://github.com/nikolai-vysotskyi/lookout) | 5 | 2026-11-23 | Open-source, self-hosted alternative to Laravel Nightwatch: ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-23 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [STAFE-GROUP-AB/nonox](https://github.com/STAFE-GROUP-AB/nonox) | 0 | 2026-11-23 | Bokföring med öppen källkod för svenska företag: bokföring, ... |
+| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 2 | 2026-11-23 | Open-source, self-hosted IT documentation for MSPs — servers... |
+| [MohamedAbdallah-MA/notification-lab](https://github.com/MohamedAbdallah-MA/notification-lab) | 0 | 2026-11-23 | notification lab is a laravel dev package  to test the fireb... |
+| [jeffersongoncalves/teamkitv5](https://github.com/jeffersongoncalves/teamkitv5) | 16 | 2026-11-23 | TeamKit starter kit built on Laravel 13.x and Filament 5.x w... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-22 |  |
+| [ArtisanPack-UI/ecommerce-storefront-livewire](https://github.com/ArtisanPack-UI/ecommerce-storefront-livewire) | 0 | 2026-11-22 | Livewire storefront for the ArtisanPack UI ecommerce engine ... |
 | [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 83 | 2026-11-22 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [danielpetrica/ActivityPub-for-Laravel](https://github.com/danielpetrica/ActivityPub-for-Laravel) | 2 | 2026-11-22 | A self-hosted ActivityPub server implementation for Laravel ... |
-| [Grazulex/laravel-atlas](https://github.com/Grazulex/laravel-atlas) | 24 | 2026-11-22 | 🗺️ Laravel Atlas scans your Laravel project to generate a c... |
-| [Grazulex/laravel-modelschema](https://github.com/Grazulex/laravel-modelschema) | 8 | 2026-11-22 | 📐 Laravel ModelSchema is a foundational package for definin... |
-| [cholladay0816/American-Dad-Speedruns](https://github.com/cholladay0816/American-Dad-Speedruns) | 1 | 2026-11-22 | A website I built for americandadspeedruns.com, designed to ... |
-| [filagora/filagora-cms](https://github.com/filagora/filagora-cms) | 0 | 2026-11-22 | Pages, blocks, menus, media and a draft, version, schedule a... |
-| [abolfazlrastegar/laravel-excel-exporter](https://github.com/abolfazlrastegar/laravel-excel-exporter) | 1 | 2026-11-22 | A lightweight Laravel package for exporting Eloquent models,... |
-| [heureka-agency/sellissimo-core](https://github.com/heureka-agency/sellissimo-core) | 0 | 2026-11-22 | eCommerce addon for Statamic. |
-| [jeffersongoncalves/evolutionkitv5](https://github.com/jeffersongoncalves/evolutionkitv5) | 5 | 2026-11-22 | EvolutionKit starter kit built on Laravel 13.x and Filament ... |
-| [jeffersongoncalves/laravel-whatsapp-widget](https://github.com/jeffersongoncalves/laravel-whatsapp-widget) | 9 | 2026-11-22 | This Laravel package provides a simple yet customizable What... |
-| [foxws/laravel-media](https://github.com/foxws/laravel-media) | 1 | 2026-11-22 | Probe, encode, package and stream media in Laravel with ffmp... |
-| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 243 | 2026-11-22 | form builder for your users, with so many use cases |
-| [lara-zeus/spatie-translatable](https://github.com/lara-zeus/spatie-translatable) | 37 | 2026-11-22 | Lara Zeus Translatable is Filament support for Spatie's Lara... |
-| [foxws/laravel-essentials](https://github.com/foxws/laravel-essentials) | 1 | 2026-11-22 | Opt-in essentials for your Laravel application |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-22 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [AsteriaCreations/portico](https://github.com/AsteriaCreations/portico) | 2 | 2026-11-22 | Member check-in & membership management for clubs — concurre... |
-| [miguilimzero/laravel-singlestore-backup](https://github.com/miguilimzero/laravel-singlestore-backup) | 29 | 2026-11-22 | A package that makes it easy to make backups of your SingleS... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-22 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [cleaniquecoders/kickoff](https://github.com/cleaniquecoders/kickoff) | 14 | 2026-11-22 | Allow configure new Laravel project with all required packag... |
+| [gp247net/core](https://github.com/gp247net/core) | 4 | 2026-11-22 | [PACKAGE] Core of GP247, an open-source ecosystem on Laravel... |
+| [NyonCode/wire-boost](https://github.com/NyonCode/wire-boost) | 0 | 2026-11-22 | AI tooling for the Wire ecosystem – an MCP server, AI guidel... |
+| [NyonCode/wire-module-users](https://github.com/NyonCode/wire-module-users) | 0 | 2026-11-22 | User administration for wire: a ready-made module with its r... |
+| [NyonCode/wire-forms](https://github.com/NyonCode/wire-forms) | 0 | 2026-11-22 | Standalone form system for the Wire ecosystem – fields, vali... |
+| [NyonCode/wire-module-audit](https://github.com/NyonCode/wire-module-audit) | 0 | 2026-11-22 | Audit log administration for wire: the trail core already re... |
+| [NyonCode/wire-module-settings](https://github.com/NyonCode/wire-module-settings) | 0 | 2026-11-22 | Application settings for wire: typed key/value settings with... |
+| [NyonCode/wire-suite](https://github.com/NyonCode/wire-suite) | 0 | 2026-11-22 | The whole wire stack in one require, with an interactive ins... |
+| [NyonCode/wire-module-notifications](https://github.com/NyonCode/wire-module-notifications) | 0 | 2026-11-22 | Stored notifications for wire: the history behind the bell, ... |
+| [NyonCode/wire-table](https://github.com/NyonCode/wire-table) | 0 | 2026-11-22 | Enterprise-grade Livewire table system with inline editing, ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-23T00:46 | 2 | 1737 | 8307 |
 | 2026-11-22T18:25 | 11 | 1729 | 8305 |
 | 2026-11-22T12:27 | 3 | 1735 | 8294 |
 | 2026-11-22T06:31 | 0 | 1737 | 8291 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-21T06:31 | 1 | 1743 | 8277 |
 | 2026-11-21T00:42 | 8 | 1736 | 8276 |
 | 2026-11-20T18:27 | 1 | 1744 | 8268 |
-| 2026-11-20T12:30 | 4 | 1744 | 8267 |
 
 ---
 

@@ -3,7 +3,7 @@
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 **Total packages tracked:** 8329  
-**Last updated:** 2026-11-24T00:39:41.304Z
+**Last updated:** 2026-11-24T06:35:02.576Z
 
 ## 📦 Recently Discovered
 
@@ -17,7 +17,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [gp247-dev/core](https://github.com/gp247-dev/core) | 4 | [PACKAGE] Core of GP247, an open-source ecosystem on Laravel for building busine... |
 | [4lbert4rgolo/alpdesk](https://github.com/4lbert4rgolo/alpdesk) | 0 | Portal interno de suporte de TI: chamados com prioridade e autorização, avisos p... |
 | [BrendonPietro/home-game-manager](https://github.com/BrendonPietro/home-game-manager) | 0 | Sistema de gestão de home game de poker presencial: torneios, cash games, caixa,... |
-| [Pharaonic/laravel-api-versioning](https://github.com/Pharaonic/laravel-api-versioning) | 0 | Laravel-native API versioning: version groups and constraints on Route, header, ... |
+| [Pharaonic/laravel-api-versioning](https://github.com/Pharaonic/laravel-api-versioning) | 1 | Laravel-native API versioning: version groups and constraints on Route, header, ... |
 | [soaraid/laravel-debugger](https://github.com/soaraid/laravel-debugger) | 0 | A log viewer and the ops pages every Laravel app ends up needing, on one page at... |
 | [rashed50702/laravel-bangla-pdf](https://github.com/rashed50702/laravel-bangla-pdf) | 0 | Generate Bangla + English PDFs in Laravel with mPDF: correct conjuncts, auto fon... |
 | [mertaydin/laravel-backup-manager](https://github.com/mertaydin/laravel-backup-manager) | 1 | A Laravel package for database and application file backups, compression, encryp... |
@@ -40,7 +40,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 475 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 476 | Open Source Laravel CRM Package |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [BrendonPietro/home-game-manager](https://github.com/BrendonPietro/home-game-manager) | 0 | 2026-11-24 | Sistema de gestão de home game de poker presencial: torneios... |
-| [jeffersongoncalves/laravel-page-visits](https://github.com/jeffersongoncalves/laravel-page-visits) | 5 | 2026-11-24 | Track page-view visits on any Laravel app's public routes, w... |
-| [oe2i/groy-schema](https://github.com/oe2i/groy-schema) | 0 | 2026-11-24 | Groy Schema — An opinionated Laravel 13 package for database... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-24 |  |
-| [ArtisanPack-UI/ecommerce-kanban-livewire](https://github.com/ArtisanPack-UI/ecommerce-kanban-livewire) | 0 | 2026-11-24 | Livewire order kanban board for the ArtisanPack UI ecommerce... |
-| [RedArchon/ledger-fox](https://github.com/RedArchon/ledger-fox) | 0 | 2026-11-24 | Laravel package that publishes Cursor agent rules and config... |
-| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-11-24 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 4 | 2026-11-24 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-24 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-24 | A lightweight, convention-driven modular architecture packag... |
-| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-11-24 | Detect language using Google Translation API |
-| [jeffersongoncalves/laravel-ssrf-guard](https://github.com/jeffersongoncalves/laravel-ssrf-guard) | 2 | 2026-11-24 | SSRF-safe outbound HTTP — public-IP validation, DNS-rebind p... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-11-24 | Lightweight toolkit for modular development in Laravel, for ... |
-| [artisan-toolbox/permit](https://github.com/artisan-toolbox/permit) | 0 | 2026-11-24 | Permit is a Laravel authorization package that builds on Gat... |
-| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-11-23 | A standard suite of essentials for every Laravel app you bui... |
-| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-23 | Activity feeds for Laravel, aligned with the W3C Activity St... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-23 | Automated code analysis for Laravel applications with 73 ope... |
-| [flashpi1/flashpi-laravel](https://github.com/flashpi1/flashpi-laravel) | 0 | 2026-11-23 | Official Laravel package for Flashpi, the electronic invoici... |
-| [christiaanschmid/daily-updates](https://github.com/christiaanschmid/daily-updates) | 0 | 2026-11-23 | Log your workday and share it at the morning huddle |
-| [niels-numbers/laravel-localizer](https://github.com/niels-numbers/laravel-localizer) | 41 | 2026-11-23 | Detect users' language and serve localized routes in Laravel |
+| [jeffersongoncalves/filament-lgpd-records](https://github.com/jeffersongoncalves/filament-lgpd-records) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd-records: manage your LGPD r... |
+| [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) | 236 | 2026-11-24 | A Sidecar function to run Browsershot on Lambda. |
+| [jeffersongoncalves/filament-lgpd-minors](https://github.com/jeffersongoncalves/filament-lgpd-minors) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd-minors: ECA Digital in the ... |
+| [jeffersongoncalves/filament-lgpd-incidents](https://github.com/jeffersongoncalves/filament-lgpd-incidents) | 2 | 2026-11-24 | Filament plugin for laravel-lgpd-incidents: register LGPD se... |
+| [jeffersongoncalves/filament-lgpd-dsar](https://github.com/jeffersongoncalves/filament-lgpd-dsar) | 1 | 2026-11-24 | Filament plugin to handle LGPD data subject requests (art. 1... |
+| [jeffersongoncalves/filament-lgpd-consent](https://github.com/jeffersongoncalves/filament-lgpd-consent) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd-consent: browse the append-... |
+| [jeffersongoncalves/filament-lgpd-audit-log](https://github.com/jeffersongoncalves/filament-lgpd-audit-log) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd-audit-log: browse who viewe... |
+| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 14 | 2026-11-24 | An in-panel AI assistant and an MCP server for Filament v5 p... |
+| [jeffersongoncalves/filament-lgpd](https://github.com/jeffersongoncalves/filament-lgpd) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd: a personal data inventory ... |
+| [jeffersongoncalves/filament-knowledge-base](https://github.com/jeffersongoncalves/filament-knowledge-base) | 10 | 2026-11-24 | Filament plugin for Knowledge Base management with Admin, Us... |
+| [jeffersongoncalves/filament-keyable](https://github.com/jeffersongoncalves/filament-keyable) | 5 | 2026-11-24 | This is a Laravel Filament package that provides API Key man... |
+| [jeffersongoncalves/filament-kanban](https://github.com/jeffersongoncalves/filament-kanban) | 1 | 2026-11-24 | Add kanban boards to your Filament pages |
+| [jeffersongoncalves/filament-hotjar](https://github.com/jeffersongoncalves/filament-hotjar) | 1 | 2026-11-24 | Filament plugin for Hotjar with settings page powered by Spa... |
+| [jeffersongoncalves/filament-hidden-action](https://github.com/jeffersongoncalves/filament-hidden-action) | 9 | 2026-11-24 | This package provides a HiddenAction for Filament, allowing ... |
+| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 17 | 2026-11-24 | Filament plugin for Help Desk ticket management — User, Oper... |
+| [jeffersongoncalves/filament-gtm](https://github.com/jeffersongoncalves/filament-gtm) | 4 | 2026-11-24 | Filament plugin for Google Tag Manager with settings page po... |
+| [jeffersongoncalves/filament-gtag](https://github.com/jeffersongoncalves/filament-gtag) | 5 | 2026-11-24 | Filament plugin for managing Google Analytics (Gtag) setting... |
+| [jeffersongoncalves/filament-goatcounter](https://github.com/jeffersongoncalves/filament-goatcounter) | 1 | 2026-11-24 | Filament plugin for GoatCounter: injects the tracking script... |
+| [jeffersongoncalves/filament-gdpr-vendors](https://github.com/jeffersongoncalves/filament-gdpr-vendors) | 1 | 2026-11-24 | Filament plugin for laravel-gdpr-vendors: keep your GDPR ven... |
+| [packstub/session-replay](https://github.com/packstub/session-replay) | 93 | 2026-11-24 | Session replay for Laravel, built on rrweb: a recorder with ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-24T06:35 | 0 | 1739 | 8329 |
 | 2026-11-24T00:39 | 6 | 1731 | 8329 |
 | 2026-11-23T18:26 | 10 | 1726 | 8323 |
 | 2026-11-23T12:31 | 4 | 1732 | 8313 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-22T12:27 | 3 | 1735 | 8294 |
 | 2026-11-22T06:31 | 0 | 1737 | 8291 |
 | 2026-11-22T00:45 | 5 | 1732 | 8291 |
-| 2026-11-21T18:25 | 4 | 1734 | 8286 |
 
 ---
 

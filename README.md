@@ -2,13 +2,23 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8335  
-**Last updated:** 2026-11-24T12:31:21.310Z
+**Total packages tracked:** 8345  
+**Last updated:** 2026-11-24T18:26:37.957Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [solutionforest/filament-collaboration](https://github.com/solutionforest/filament-collaboration) | 0 | Google Docs-style collaborative editing for Filament 5: live fields, presence, c... |
+| [acip/a2ui-livewire](https://github.com/acip/a2ui-livewire) | 0 | A2UI v1.0 renderer for Laravel Livewire: render agent-generated UIs (Google's A2... |
+| [rylacdang/formcast](https://github.com/rylacdang/formcast) | 1 | Cast your Laravel FormRequest rules to typed Zod schemas, TypeScript types, and ... |
+| [gosdrkht/whatsapp-cloud-laravel](https://github.com/gosdrkht/whatsapp-cloud-laravel) | 0 | Production-ready WhatsApp Business Cloud API SDK for Laravel 11, 12 & 13 — Messa... |
+| [caravelpay/caravel-laravel](https://github.com/caravelpay/caravel-laravel) | 0 | Laravel package for Caravel Pay: hosted card checkouts paid out in USDC on Polyg... |
+| [schauinsland/laravel-splunk-logger](https://github.com/schauinsland/laravel-splunk-logger) | 3 | A simple Splunk Logger package for Laravel that integrates seamlessly with Splun... |
+| [radestsam/laravel-sql-logger](https://github.com/radestsam/laravel-sql-logger) | 2 | A lightweight package to log SQL queries in your Laravel application |
+| [radestsam/laravel-flashlight](https://github.com/radestsam/laravel-flashlight) | 14 | A Highly Customizable Laravel Package to Log Requests |
+| [radestsam/laravel-api-debugger](https://github.com/radestsam/laravel-api-debugger) | 20 | A Laravel package to ease the process of debugging JSON APIs |
+| [dkvadratu/dashboard-core](https://github.com/dkvadratu/dashboard-core) | 1 | Package for Laravel + Filament dashboard core functions |
 | [laraxot/laravelpizza.com](https://github.com/laraxot/laravelpizza.com) | 30 | Open-source Laravel 12 + Filament 5 + Livewire 4 starter for running Laravel mee... |
 | [ErfanVahabpour/Bale-Safir-SDK](https://github.com/ErfanVahabpour/Bale-Safir-SDK) | 0 | Unofficial PHP SDK for the Bale Safir messaging API, with file uploads and Larav... |
 | [lucacermenati/laravel-simple-csv-import](https://github.com/lucacermenati/laravel-simple-csv-import) | 0 | Validate a CSV upload in the request, import it in chunks on the queue, and reco... |
@@ -19,16 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [jerfarias-dev/minesweeper-laravel](https://github.com/jerfarias-dev/minesweeper-laravel) | 0 | Buscaminas clásico con Laravel 13, Livewire 4 y PHP 8.5. Lógica validada en serv... |
 | [awcodes/vitals](https://github.com/awcodes/vitals) | 4 | Website uptime, certificate and incident monitoring for Filament panels. |
 | [Pharaonic/laravel-api-idempotency](https://github.com/Pharaonic/laravel-api-idempotency) | 0 | Opt-in HTTP idempotency for Laravel APIs: Route::post(...)->idempotent() validat... |
-| [oe2i/groy-schema](https://github.com/oe2i/groy-schema) | 0 | Groy Schema — An opinionated Laravel 13 package for database schema definitions ... |
-| [abolaradev/visitor-insight](https://github.com/abolaradev/visitor-insight) | 0 | A Laravel package that provides comprehensive visitor information, including use... |
-| [gp247-dev/core](https://github.com/gp247-dev/core) | 4 | [PACKAGE] Core of GP247, an open-source ecosystem on Laravel for building busine... |
-| [4lbert4rgolo/alpdesk](https://github.com/4lbert4rgolo/alpdesk) | 0 | Portal interno de suporte de TI: chamados com prioridade e autorização, avisos p... |
-| [BrendonPietro/home-game-manager](https://github.com/BrendonPietro/home-game-manager) | 0 | Sistema de gestão de home game de poker presencial: torneios, cash games, caixa,... |
-| [Pharaonic/laravel-api-versioning](https://github.com/Pharaonic/laravel-api-versioning) | 1 | Laravel-native API versioning: version groups and constraints on Route, header, ... |
-| [soaraid/laravel-debugger](https://github.com/soaraid/laravel-debugger) | 0 | A log viewer and the ops pages every Laravel app ends up needing, on one page at... |
-| [rashed50702/laravel-bangla-pdf](https://github.com/rashed50702/laravel-bangla-pdf) | 0 | Generate Bangla + English PDFs in Laravel with mPDF: correct conjuncts, auto fon... |
-| [mertaydin/laravel-backup-manager](https://github.com/mertaydin/laravel-backup-manager) | 1 | A Laravel package for database and application file backups, compression, encryp... |
-| [Hydrat-Agency/laravel-2fa](https://github.com/Hydrat-Agency/laravel-2fa) | 16 | This package allow you to enable simple two-factor authentication in your Larave... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mertaydin/laravel-backup-manager](https://github.com/mertaydin/laravel-backup-manager) | 1 | 2026-11-24 | A Laravel package for database and application file backups,... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-24 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [Sknadim6297/delta-support-laravel](https://github.com/Sknadim6297/delta-support-laravel) | 0 | 2026-11-24 | A Laravel 12-based tours and travel management platform feat... |
-| [Pollora/framework](https://github.com/Pollora/framework) | 32 | 2026-11-24 | The Laravel framework for WordPress: Blade, Laravel routing ... |
-| [pushery/fortify-hardening-for-laravel](https://github.com/pushery/fortify-hardening-for-laravel) | 2 | 2026-11-24 | Prevent account enumeration in Laravel Fortify with neutral ... |
-| [packstub/holler](https://github.com/packstub/holler) | 2 | 2026-11-24 | Holler for Laravel: audio, video and screen-share calls betw... |
-| [packstub/filament-nitpick](https://github.com/packstub/filament-nitpick) | 4 | 2026-11-24 | Themes for Filament panels: designed looks, an open registry... |
-| [packstub/filament-form-builder](https://github.com/packstub/filament-form-builder) | 11 | 2026-11-24 | Form builder for Filament panels: build forms in the admin, ... |
-| [packstub/filament-features](https://github.com/packstub/filament-features) | 2 | 2026-11-24 | Feature flags and entitlements for Filament tenants — plan-b... |
-| [packstub/filament-teams](https://github.com/packstub/filament-teams) | 2 | 2026-11-24 | Teams, invitations and seat limits for Filament tenants — em... |
-| [packstub/filament-agents](https://github.com/packstub/filament-agents) | 14 | 2026-11-24 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [packstub/filament-account-switcher](https://github.com/packstub/filament-account-switcher) | 47 | 2026-11-24 | Switch between accounts in Filament: impersonate users, link... |
-| [packstub/filament-session-replay](https://github.com/packstub/filament-session-replay) | 10 | 2026-11-24 | Session replay inside a Filament v5 panel, built on rrweb an... |
-| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 4 | 2026-11-24 | A fast Gantt chart and resource timeline for Filament: any E... |
-| [packstub/filament-flow](https://github.com/packstub/filament-flow) | 25 | 2026-11-24 | Visual workflow automation for Filament panels: triggers, co... |
-| [packstub/account-switcher](https://github.com/packstub/account-switcher) | 4 | 2026-11-24 | Switch between accounts in a Laravel app without signing out... |
-| [packstub/partisan](https://github.com/packstub/partisan) | 8 | 2026-11-24 | Artisan for Laravel packages — make: generators that write i... |
-| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-24 | Concrete implementations of the 9 domain interfaces from nvo... |
-| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 43 | 2026-11-24 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
-| [packstub/session-replay](https://github.com/packstub/session-replay) | 94 | 2026-11-24 | Session replay for Laravel, built on rrweb: a recorder with ... |
+| [rylacdang/formcast](https://github.com/rylacdang/formcast) | 1 | 2026-11-24 | Cast your Laravel FormRequest rules to typed Zod schemas, Ty... |
+| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 211 | 2026-11-24 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 5 | 2026-11-24 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
+| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-11-24 | A standard suite of essentials for every Laravel app you bui... |
+| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | 2026-11-24 | Laravel mail transport for Groundmail. Keep Mail::to()->send... |
+| [schauinsland/laravel-splunk-logger](https://github.com/schauinsland/laravel-splunk-logger) | 3 | 2026-11-24 | A simple Splunk Logger package for Laravel that integrates s... |
+| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-24 | Laravel package to create administration dashboards |
+| [solutionforest/filament-collaboration](https://github.com/solutionforest/filament-collaboration) | 0 | 2026-11-24 | Google Docs-style collaborative editing for Filament 5: live... |
+| [togrul614/laravel-db-translations](https://github.com/togrul614/laravel-db-translations) | 3 | 2026-11-24 | Package for laravel db translation |
+| [rse-sa/delivra](https://github.com/rse-sa/delivra) | 0 | 2026-11-24 | multichannel Laravel notification package |
+| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-24 | EasyCo is a modular Laravel commerce platform. Rather than o... |
+| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | 2026-11-24 | Open-source, self-hosted video processing & delivery engine ... |
+| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-24 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-24 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-24 |  |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-24 | Automated code analysis for Laravel applications with 73 ope... |
+| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-11-24 | The NativePHP website |
+| [laraxot/laravelpizza.com](https://github.com/laraxot/laravelpizza.com) | 30 | 2026-11-24 | Open-source Laravel 12 + Filament 5 + Livewire 4 starter for... |
+| [Jurager/teams](https://github.com/Jurager/teams) | 243 | 2026-11-24 | Laravel package for managing teams and user permissions. |
+| [caravelpay/caravel-laravel](https://github.com/caravelpay/caravel-laravel) | 0 | 2026-11-24 | Laravel package for Caravel Pay: hosted card checkouts paid ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-24T18:26 | 10 | 1703 | 8345 |
 | 2026-11-24T12:31 | 7 | 1711 | 8335 |
 | 2026-11-24T06:35 | 0 | 1739 | 8329 |
 | 2026-11-24T00:39 | 6 | 1731 | 8329 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-23T00:46 | 2 | 1737 | 8307 |
 | 2026-11-22T18:25 | 11 | 1729 | 8305 |
 | 2026-11-22T12:27 | 3 | 1735 | 8294 |
-| 2026-11-22T06:31 | 0 | 1737 | 8291 |
 
 ---
 

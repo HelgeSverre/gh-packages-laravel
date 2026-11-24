@@ -2,13 +2,20 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8329  
-**Last updated:** 2026-11-24T06:35:02.576Z
+**Total packages tracked:** 8335  
+**Last updated:** 2026-11-24T12:31:21.310Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [laraxot/laravelpizza.com](https://github.com/laraxot/laravelpizza.com) | 30 | Open-source Laravel 12 + Filament 5 + Livewire 4 starter for running Laravel mee... |
+| [ErfanVahabpour/Bale-Safir-SDK](https://github.com/ErfanVahabpour/Bale-Safir-SDK) | 0 | Unofficial PHP SDK for the Bale Safir messaging API, with file uploads and Larav... |
+| [lucacermenati/laravel-simple-csv-import](https://github.com/lucacermenati/laravel-simple-csv-import) | 0 | Validate a CSV upload in the request, import it in chunks on the queue, and reco... |
+| [lucacermenati/laravel-common-traits](https://github.com/lucacermenati/laravel-common-traits) | 0 | Reusable Eloquent traits for Laravel: search across columns and relationships, r... |
+| [lucacermenati/laravel-nova-settings](https://github.com/lucacermenati/laravel-nova-settings) | 0 | Tab-grouped, database-backed settings for Laravel Nova 5. Define settings in cod... |
+| [lucacermenati/laravel-nova-global-filters](https://github.com/lucacermenati/laravel-nova-global-filters) | 0 | Session-backed global filters for Laravel Nova 5 dashboards: define filters in P... |
+| [Luke-Johnstone/laravel-au](https://github.com/Luke-Johnstone/laravel-au) | 0 | Australian business and address helpers for Laravel and Filament: ABN/ACN valida... |
 | [jerfarias-dev/minesweeper-laravel](https://github.com/jerfarias-dev/minesweeper-laravel) | 0 | Buscaminas clásico con Laravel 13, Livewire 4 y PHP 8.5. Lógica validada en serv... |
 | [awcodes/vitals](https://github.com/awcodes/vitals) | 4 | Website uptime, certificate and incident monitoring for Filament panels. |
 | [Pharaonic/laravel-api-idempotency](https://github.com/Pharaonic/laravel-api-idempotency) | 0 | Opt-in HTTP idempotency for Laravel APIs: Route::post(...)->idempotent() validat... |
@@ -22,13 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rashed50702/laravel-bangla-pdf](https://github.com/rashed50702/laravel-bangla-pdf) | 0 | Generate Bangla + English PDFs in Laravel with mPDF: correct conjuncts, auto fon... |
 | [mertaydin/laravel-backup-manager](https://github.com/mertaydin/laravel-backup-manager) | 1 | A Laravel package for database and application file backups, compression, encryp... |
 | [Hydrat-Agency/laravel-2fa](https://github.com/Hydrat-Agency/laravel-2fa) | 16 | This package allow you to enable simple two-factor authentication in your Larave... |
-| [ideal-postcodes/laravel](https://github.com/ideal-postcodes/laravel) | 0 | Laravel package for the Ideal Postcodes PHP SDK |
-| [Ashraam/laravel-simple-cart](https://github.com/Ashraam/laravel-simple-cart) | 0 | A simple session-based shopping cart implementation for Laravel 12. This package... |
-| [martin-lechene/bytez-laravel](https://github.com/martin-lechene/bytez-laravel) | 1 | Unofficial Laravel package for the Bytez API: use 175k+ AI models (chat, image, ... |
-| [phoenix1331/laravel-system-one-fc](https://github.com/phoenix1331/laravel-system-one-fc) | 0 | A Cymru football management game in Laravel 13 where you take on a local System ... |
-| [MSumon89/laravel-tenancy](https://github.com/MSumon89/laravel-tenancy) | 0 | Lightweight multi-tenancy for Laravel: shared database by default, and upgrade a... |
-| [MSumon89/laravel-tenant-permission](https://github.com/MSumon89/laravel-tenant-permission) | 0 | Roles & permissions for Laravel: works as simple RBAC or tenant-scoped RBAC for ... |
-| [mattmy/laravel-attribute-mapper](https://github.com/mattmy/laravel-attribute-mapper) | 0 | Built exclusively for Laravel. Map validated Form Request fields to fillable Elo... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/filament-lgpd-records](https://github.com/jeffersongoncalves/filament-lgpd-records) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd-records: manage your LGPD r... |
-| [stefanzweifel/sidecar-browsershot](https://github.com/stefanzweifel/sidecar-browsershot) | 236 | 2026-11-24 | A Sidecar function to run Browsershot on Lambda. |
-| [jeffersongoncalves/filament-lgpd-minors](https://github.com/jeffersongoncalves/filament-lgpd-minors) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd-minors: ECA Digital in the ... |
-| [jeffersongoncalves/filament-lgpd-incidents](https://github.com/jeffersongoncalves/filament-lgpd-incidents) | 2 | 2026-11-24 | Filament plugin for laravel-lgpd-incidents: register LGPD se... |
-| [jeffersongoncalves/filament-lgpd-dsar](https://github.com/jeffersongoncalves/filament-lgpd-dsar) | 1 | 2026-11-24 | Filament plugin to handle LGPD data subject requests (art. 1... |
-| [jeffersongoncalves/filament-lgpd-consent](https://github.com/jeffersongoncalves/filament-lgpd-consent) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd-consent: browse the append-... |
-| [jeffersongoncalves/filament-lgpd-audit-log](https://github.com/jeffersongoncalves/filament-lgpd-audit-log) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd-audit-log: browse who viewe... |
+| [mertaydin/laravel-backup-manager](https://github.com/mertaydin/laravel-backup-manager) | 1 | 2026-11-24 | A Laravel package for database and application file backups,... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-24 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [Sknadim6297/delta-support-laravel](https://github.com/Sknadim6297/delta-support-laravel) | 0 | 2026-11-24 | A Laravel 12-based tours and travel management platform feat... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 32 | 2026-11-24 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [pushery/fortify-hardening-for-laravel](https://github.com/pushery/fortify-hardening-for-laravel) | 2 | 2026-11-24 | Prevent account enumeration in Laravel Fortify with neutral ... |
+| [packstub/holler](https://github.com/packstub/holler) | 2 | 2026-11-24 | Holler for Laravel: audio, video and screen-share calls betw... |
+| [packstub/filament-nitpick](https://github.com/packstub/filament-nitpick) | 4 | 2026-11-24 | Themes for Filament panels: designed looks, an open registry... |
+| [packstub/filament-form-builder](https://github.com/packstub/filament-form-builder) | 11 | 2026-11-24 | Form builder for Filament panels: build forms in the admin, ... |
+| [packstub/filament-features](https://github.com/packstub/filament-features) | 2 | 2026-11-24 | Feature flags and entitlements for Filament tenants — plan-b... |
+| [packstub/filament-teams](https://github.com/packstub/filament-teams) | 2 | 2026-11-24 | Teams, invitations and seat limits for Filament tenants — em... |
 | [packstub/filament-agents](https://github.com/packstub/filament-agents) | 14 | 2026-11-24 | An in-panel AI assistant and an MCP server for Filament v5 p... |
-| [jeffersongoncalves/filament-lgpd](https://github.com/jeffersongoncalves/filament-lgpd) | 1 | 2026-11-24 | Filament plugin for laravel-lgpd: a personal data inventory ... |
-| [jeffersongoncalves/filament-knowledge-base](https://github.com/jeffersongoncalves/filament-knowledge-base) | 10 | 2026-11-24 | Filament plugin for Knowledge Base management with Admin, Us... |
-| [jeffersongoncalves/filament-keyable](https://github.com/jeffersongoncalves/filament-keyable) | 5 | 2026-11-24 | This is a Laravel Filament package that provides API Key man... |
-| [jeffersongoncalves/filament-kanban](https://github.com/jeffersongoncalves/filament-kanban) | 1 | 2026-11-24 | Add kanban boards to your Filament pages |
-| [jeffersongoncalves/filament-hotjar](https://github.com/jeffersongoncalves/filament-hotjar) | 1 | 2026-11-24 | Filament plugin for Hotjar with settings page powered by Spa... |
-| [jeffersongoncalves/filament-hidden-action](https://github.com/jeffersongoncalves/filament-hidden-action) | 9 | 2026-11-24 | This package provides a HiddenAction for Filament, allowing ... |
-| [jeffersongoncalves/filament-help-desk](https://github.com/jeffersongoncalves/filament-help-desk) | 17 | 2026-11-24 | Filament plugin for Help Desk ticket management — User, Oper... |
-| [jeffersongoncalves/filament-gtm](https://github.com/jeffersongoncalves/filament-gtm) | 4 | 2026-11-24 | Filament plugin for Google Tag Manager with settings page po... |
-| [jeffersongoncalves/filament-gtag](https://github.com/jeffersongoncalves/filament-gtag) | 5 | 2026-11-24 | Filament plugin for managing Google Analytics (Gtag) setting... |
-| [jeffersongoncalves/filament-goatcounter](https://github.com/jeffersongoncalves/filament-goatcounter) | 1 | 2026-11-24 | Filament plugin for GoatCounter: injects the tracking script... |
-| [jeffersongoncalves/filament-gdpr-vendors](https://github.com/jeffersongoncalves/filament-gdpr-vendors) | 1 | 2026-11-24 | Filament plugin for laravel-gdpr-vendors: keep your GDPR ven... |
-| [packstub/session-replay](https://github.com/packstub/session-replay) | 93 | 2026-11-24 | Session replay for Laravel, built on rrweb: a recorder with ... |
+| [packstub/filament-account-switcher](https://github.com/packstub/filament-account-switcher) | 47 | 2026-11-24 | Switch between accounts in Filament: impersonate users, link... |
+| [packstub/filament-session-replay](https://github.com/packstub/filament-session-replay) | 10 | 2026-11-24 | Session replay inside a Filament v5 panel, built on rrweb an... |
+| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 4 | 2026-11-24 | A fast Gantt chart and resource timeline for Filament: any E... |
+| [packstub/filament-flow](https://github.com/packstub/filament-flow) | 25 | 2026-11-24 | Visual workflow automation for Filament panels: triggers, co... |
+| [packstub/account-switcher](https://github.com/packstub/account-switcher) | 4 | 2026-11-24 | Switch between accounts in a Laravel app without signing out... |
+| [packstub/partisan](https://github.com/packstub/partisan) | 8 | 2026-11-24 | Artisan for Laravel packages — make: generators that write i... |
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-24 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [mohammedelkarsh/laravel-tenant-kit](https://github.com/mohammedelkarsh/laravel-tenant-kit) | 43 | 2026-11-24 | Production-ready Laravel multi-tenant SaaS starter with Stri... |
+| [packstub/session-replay](https://github.com/packstub/session-replay) | 94 | 2026-11-24 | Session replay for Laravel, built on rrweb: a recorder with ... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-24T12:31 | 7 | 1711 | 8335 |
 | 2026-11-24T06:35 | 0 | 1739 | 8329 |
 | 2026-11-24T00:39 | 6 | 1731 | 8329 |
 | 2026-11-23T18:26 | 10 | 1726 | 8323 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-22T18:25 | 11 | 1729 | 8305 |
 | 2026-11-22T12:27 | 3 | 1735 | 8294 |
 | 2026-11-22T06:31 | 0 | 1737 | 8291 |
-| 2026-11-22T00:45 | 5 | 1732 | 8291 |
 
 ---
 

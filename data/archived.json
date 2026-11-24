@@ -2395,5 +2395,27 @@
     "discovered_at": "2026-02-19T00:44:48.867Z",
     "archived_at": "2026-11-19T18:27:52.310Z",
     "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
+  },
+  "stevan06v/cuckoo": {
+    "name": "stevan06v/cuckoo",
+    "url": "https://github.com/stevan06v/cuckoo",
+    "description": "time-tracking and contract management software for webhoch.com",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "filamentphp",
+      "laravel",
+      "livewire",
+      "mysql",
+      "php"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2024-06-08T15:40:00Z",
+    "updated_at": "2025-11-24T11:59:55Z",
+    "pushed_at": "2025-11-24T11:59:51Z",
+    "discovered_at": "2026-02-19T00:44:48.867Z",
+    "archived_at": "2026-11-24T12:31:21.252Z",
+    "archive_reason": "Stale: not seen in search results and last pushed 365 days ago"
   }
 }

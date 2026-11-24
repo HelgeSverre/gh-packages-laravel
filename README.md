@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8323  
-**Last updated:** 2026-11-23T18:26:47.558Z
+**Total packages tracked:** 8329  
+**Last updated:** 2026-11-24T00:39:41.304Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [jerfarias-dev/minesweeper-laravel](https://github.com/jerfarias-dev/minesweeper-laravel) | 0 | Buscaminas clásico con Laravel 13, Livewire 4 y PHP 8.5. Lógica validada en serv... |
+| [awcodes/vitals](https://github.com/awcodes/vitals) | 4 | Website uptime, certificate and incident monitoring for Filament panels. |
+| [Pharaonic/laravel-api-idempotency](https://github.com/Pharaonic/laravel-api-idempotency) | 0 | Opt-in HTTP idempotency for Laravel APIs: Route::post(...)->idempotent() validat... |
+| [oe2i/groy-schema](https://github.com/oe2i/groy-schema) | 0 | Groy Schema — An opinionated Laravel 13 package for database schema definitions ... |
+| [abolaradev/visitor-insight](https://github.com/abolaradev/visitor-insight) | 0 | A Laravel package that provides comprehensive visitor information, including use... |
+| [gp247-dev/core](https://github.com/gp247-dev/core) | 4 | [PACKAGE] Core of GP247, an open-source ecosystem on Laravel for building busine... |
 | [4lbert4rgolo/alpdesk](https://github.com/4lbert4rgolo/alpdesk) | 0 | Portal interno de suporte de TI: chamados com prioridade e autorização, avisos p... |
 | [BrendonPietro/home-game-manager](https://github.com/BrendonPietro/home-game-manager) | 0 | Sistema de gestão de home game de poker presencial: torneios, cash games, caixa,... |
 | [Pharaonic/laravel-api-versioning](https://github.com/Pharaonic/laravel-api-versioning) | 0 | Laravel-native API versioning: version groups and constraints on Route, header, ... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [MSumon89/laravel-tenancy](https://github.com/MSumon89/laravel-tenancy) | 0 | Lightweight multi-tenancy for Laravel: shared database by default, and upgrade a... |
 | [MSumon89/laravel-tenant-permission](https://github.com/MSumon89/laravel-tenant-permission) | 0 | Roles & permissions for Laravel: works as simple RBAC or tenant-scoped RBAC for ... |
 | [mattmy/laravel-attribute-mapper](https://github.com/mattmy/laravel-attribute-mapper) | 0 | Built exclusively for Laravel. Map validated Form Request fields to fillable Elo... |
-| [laravolt/laravolt](https://github.com/laravolt/laravolt) | 63 | AI-ready Laravel application platform: Thunderclap CRUD scaffolding, admin UI on... |
-| [ITMOSOFT/laravel-money](https://github.com/ITMOSOFT/laravel-money) | 0 | Shared monetary value, precision and rounding services for ITMOSOFT Laravel pack... |
-| [algmaal/laravel-url-to-pdf](https://github.com/algmaal/laravel-url-to-pdf) | 0 | A high-fidelity URL to PDF converter package for Laravel powered by Headless Chr... |
-| [MohamedAbdallah-MA/notification-lab](https://github.com/MohamedAbdallah-MA/notification-lab) | 0 | notification lab is a laravel dev package  to test the firebase push notificatio... |
-| [FirasArafah/laronclad](https://github.com/FirasArafah/laronclad) | 0 | Runtime security sensor for Laravel. Detects suspicious SQL queries and outbound... |
-| [heureka-agency/sellissimo-core](https://github.com/heureka-agency/sellissimo-core) | 0 | eCommerce addon for Statamic. |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [jeffersongoncalves/filakitv4](https://github.com/jeffersongoncalves/filakitv4) | 10 | 2026-11-23 | FilaKit starter kit built on Laravel 13.x and Filament 4.x w... |
-| [mertaydin/laravel-backup-manager](https://github.com/mertaydin/laravel-backup-manager) | 1 | 2026-11-23 | A Laravel package for database and application file backups,... |
-| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-23 | Concrete implementations of the 9 domain interfaces from nvo... |
-| [HolgerHatGarKeineNode/twenty-one-esports](https://github.com/HolgerHatGarKeineNode/twenty-one-esports) | 1 | 2026-11-23 | TWENTY ONE Esports — a ladder platform for Bitcoiners by the... |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-23 | A developer-friendly package for creating advanced Wordpress... |
-| [InterWorks/laravel-powerbi](https://github.com/InterWorks/laravel-powerbi) | 2 | 2026-11-23 | A comprehensive Laravel package for interacting with the Mic... |
-| [sorge-it/phpunit-pest-html-assertions](https://github.com/sorge-it/phpunit-pest-html-assertions) | 0 | 2026-11-23 | HTML assertions for PHPUnit and Pest: check rendered HTML wi... |
-| [HolgerHatGarKeineNode/einundzwanzig-portal](https://github.com/HolgerHatGarKeineNode/einundzwanzig-portal) | 7 | 2026-11-23 | Code base for the Einundzwanzig Portal — Bitcoin meetups, co... |
-| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-23 | Open-source Laravel-native CMS for structured, multi-site pu... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-23 |  |
-| [sorge-it/http-server](https://github.com/sorge-it/http-server) | 0 | 2026-11-23 | In-process HTTP/1.1 server for Pest and PHPUnit browser test... |
-| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 2 | 2026-11-23 | Open-source, self-hosted IT documentation for MSPs — servers... |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-23 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | 2026-11-23 | Open-source, self-hosted video processing & delivery engine ... |
-| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-23 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-11-23 | Ptah — Laravel package that forges complete module structure... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-23 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [RobertBoes/blade-selfhst-icons](https://github.com/RobertBoes/blade-selfhst-icons) | 0 | 2026-11-23 | A package to easily make use of selfh.st Icons in your Larav... |
-| [jeffersongoncalves/laravel-package-cli](https://github.com/jeffersongoncalves/laravel-package-cli) | 1 | 2026-11-23 | Scaffold new open-source Laravel packages with git already c... |
+| [BrendonPietro/home-game-manager](https://github.com/BrendonPietro/home-game-manager) | 0 | 2026-11-24 | Sistema de gestão de home game de poker presencial: torneios... |
+| [jeffersongoncalves/laravel-page-visits](https://github.com/jeffersongoncalves/laravel-page-visits) | 5 | 2026-11-24 | Track page-view visits on any Laravel app's public routes, w... |
+| [oe2i/groy-schema](https://github.com/oe2i/groy-schema) | 0 | 2026-11-24 | Groy Schema — An opinionated Laravel 13 package for database... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-24 |  |
+| [ArtisanPack-UI/ecommerce-kanban-livewire](https://github.com/ArtisanPack-UI/ecommerce-kanban-livewire) | 0 | 2026-11-24 | Livewire order kanban board for the ArtisanPack UI ecommerce... |
+| [RedArchon/ledger-fox](https://github.com/RedArchon/ledger-fox) | 0 | 2026-11-24 | Laravel package that publishes Cursor agent rules and config... |
+| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 2 | 2026-11-24 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 4 | 2026-11-24 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-24 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-24 | A lightweight, convention-driven modular architecture packag... |
+| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-11-24 | Detect language using Google Translation API |
+| [jeffersongoncalves/laravel-ssrf-guard](https://github.com/jeffersongoncalves/laravel-ssrf-guard) | 2 | 2026-11-24 | SSRF-safe outbound HTTP — public-IP validation, DNS-rebind p... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-11-24 | Lightweight toolkit for modular development in Laravel, for ... |
+| [artisan-toolbox/permit](https://github.com/artisan-toolbox/permit) | 0 | 2026-11-24 | Permit is a Laravel authorization package that builds on Gat... |
+| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-11-23 | A standard suite of essentials for every Laravel app you bui... |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-23 | Activity feeds for Laravel, aligned with the W3C Activity St... |
 | [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-23 | Automated code analysis for Laravel applications with 73 ope... |
+| [flashpi1/flashpi-laravel](https://github.com/flashpi1/flashpi-laravel) | 0 | 2026-11-23 | Official Laravel package for Flashpi, the electronic invoici... |
+| [christiaanschmid/daily-updates](https://github.com/christiaanschmid/daily-updates) | 0 | 2026-11-23 | Log your workday and share it at the morning huddle |
+| [niels-numbers/laravel-localizer](https://github.com/niels-numbers/laravel-localizer) | 41 | 2026-11-23 | Detect users' language and serve localized routes in Laravel |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-24T00:39 | 6 | 1731 | 8329 |
 | 2026-11-23T18:26 | 10 | 1726 | 8323 |
 | 2026-11-23T12:31 | 4 | 1732 | 8313 |
 | 2026-11-23T06:44 | 2 | 1735 | 8309 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-22T06:31 | 0 | 1737 | 8291 |
 | 2026-11-22T00:45 | 5 | 1732 | 8291 |
 | 2026-11-21T18:25 | 4 | 1734 | 8286 |
-| 2026-11-21T12:27 | 5 | 1735 | 8282 |
 
 ---
 

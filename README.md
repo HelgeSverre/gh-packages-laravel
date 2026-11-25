@@ -2,13 +2,16 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8345  
-**Last updated:** 2026-11-24T18:26:37.957Z
+**Total packages tracked:** 8348  
+**Last updated:** 2026-11-25T00:44:20.042Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [abolaradev/geo-guard](https://github.com/abolaradev/geo-guard) | 0 | GeoGuard is a Laravel package for IP geolocation, visitor profiling, and geograp... |
+| [danielCristeaa/laravel-simple-surveys](https://github.com/danielCristeaa/laravel-simple-surveys) | 0 | A lightweight, code-first Laravel package for running targeted in-app surveys wi... |
+| [LJPc-solutions/laravel-cloudns-library](https://github.com/LJPc-solutions/laravel-cloudns-library) | 1 | Laravel package for the ClouDNS API: DNS zones and records, GeoDNS, failover, mo... |
 | [solutionforest/filament-collaboration](https://github.com/solutionforest/filament-collaboration) | 0 | Google Docs-style collaborative editing for Filament 5: live fields, presence, c... |
 | [acip/a2ui-livewire](https://github.com/acip/a2ui-livewire) | 0 | A2UI v1.0 renderer for Laravel Livewire: render agent-generated UIs (Google's A2... |
 | [rylacdang/formcast](https://github.com/rylacdang/formcast) | 1 | Cast your Laravel FormRequest rules to typed Zod schemas, TypeScript types, and ... |
@@ -26,9 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [lucacermenati/laravel-nova-settings](https://github.com/lucacermenati/laravel-nova-settings) | 0 | Tab-grouped, database-backed settings for Laravel Nova 5. Define settings in cod... |
 | [lucacermenati/laravel-nova-global-filters](https://github.com/lucacermenati/laravel-nova-global-filters) | 0 | Session-backed global filters for Laravel Nova 5 dashboards: define filters in P... |
 | [Luke-Johnstone/laravel-au](https://github.com/Luke-Johnstone/laravel-au) | 0 | Australian business and address helpers for Laravel and Filament: ABN/ACN valida... |
-| [jerfarias-dev/minesweeper-laravel](https://github.com/jerfarias-dev/minesweeper-laravel) | 0 | Buscaminas clásico con Laravel 13, Livewire 4 y PHP 8.5. Lógica validada en serv... |
-| [awcodes/vitals](https://github.com/awcodes/vitals) | 4 | Website uptime, certificate and incident monitoring for Filament panels. |
-| [Pharaonic/laravel-api-idempotency](https://github.com/Pharaonic/laravel-api-idempotency) | 0 | Opt-in HTTP idempotency for Laravel APIs: Route::post(...)->idempotent() validat... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [rylacdang/formcast](https://github.com/rylacdang/formcast) | 1 | 2026-11-24 | Cast your Laravel FormRequest rules to typed Zod schemas, Ty... |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 211 | 2026-11-24 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 5 | 2026-11-24 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
-| [teylabs/concierge](https://github.com/teylabs/concierge) | 0 | 2026-11-24 | A standard suite of essentials for every Laravel app you bui... |
-| [Groundmail/groundmail-laravel](https://github.com/Groundmail/groundmail-laravel) | 0 | 2026-11-24 | Laravel mail transport for Groundmail. Keep Mail::to()->send... |
-| [schauinsland/laravel-splunk-logger](https://github.com/schauinsland/laravel-splunk-logger) | 3 | 2026-11-24 | A simple Splunk Logger package for Laravel that integrates s... |
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-24 | Laravel package to create administration dashboards |
-| [solutionforest/filament-collaboration](https://github.com/solutionforest/filament-collaboration) | 0 | 2026-11-24 | Google Docs-style collaborative editing for Filament 5: live... |
-| [togrul614/laravel-db-translations](https://github.com/togrul614/laravel-db-translations) | 3 | 2026-11-24 | Package for laravel db translation |
-| [rse-sa/delivra](https://github.com/rse-sa/delivra) | 0 | 2026-11-24 | multichannel Laravel notification package |
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-24 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | 2026-11-24 | Open-source, self-hosted video processing & delivery engine ... |
-| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-24 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-24 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 169 | 2026-11-25 | Filament plugin that allows to add dynamic, user-defined for... |
+| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-11-25 | https://songrank.dev - Rank your favorite artists' tracks. |
+| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-25 | A Laravel package that provides flexible and extensible reso... |
+| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-25 | A lightweight, convention-driven modular architecture packag... |
+| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-25 | Identity and access management for Laravel: installs the aut... |
+| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-11-25 | Lightweight toolkit for modular development in Laravel, for ... |
+| [nosleepman1/arch-cli](https://github.com/nosleepman1/arch-cli) | 3 | 2026-11-25 | Laravel Architecture CLI Package — scaffolding tool for Doma... |
+| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-24 | A developer-friendly package for creating advanced Wordpress... |
+| [InteractionDesignFoundation/coding-standard](https://github.com/InteractionDesignFoundation/coding-standard) | 7 | 2026-11-24 | 🪷 PHPCS coding-standard for Laravel applications and packag... |
+| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 17 | 2026-11-24 | A simple content page management system with a flexible cont... |
+| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 25 | 2026-11-24 | Laritor is a Laravel-native observability platform that help... |
+| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-24 | ShieldCI Analyzers Core - Shared foundation for building sta... |
+| [jobmetric/laravel-post](https://github.com/jobmetric/laravel-post) | 2 | 2026-11-24 | This is a post and article management package in Laravel tha... |
 | [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-24 |  |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-24 | Automated code analysis for Laravel applications with 73 ope... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-11-24 | The NativePHP website |
-| [laraxot/laravelpizza.com](https://github.com/laraxot/laravelpizza.com) | 30 | 2026-11-24 | Open-source Laravel 12 + Filament 5 + Livewire 4 starter for... |
-| [Jurager/teams](https://github.com/Jurager/teams) | 243 | 2026-11-24 | Laravel package for managing teams and user permissions. |
-| [caravelpay/caravel-laravel](https://github.com/caravelpay/caravel-laravel) | 0 | 2026-11-24 | Laravel package for Caravel Pay: hosted card checkouts paid ... |
+| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | 2026-11-24 | Open-source, self-hosted video processing & delivery engine ... |
+| [oe2i/groy-schema](https://github.com/oe2i/groy-schema) | 0 | 2026-11-24 | Groy Schema — An opinionated Laravel 13 package for database... |
+| [laraditz/my-invois](https://github.com/laraditz/my-invois) | 2 | 2026-11-24 | Laravel package for interacting with MyInvois API. |
+| [InEngine/Skeleton](https://github.com/InEngine/Skeleton) | 0 | 2026-11-24 | GitHub template for InEngine Modulus feature modules (forked... |
+| [kommthom/t-benninghaus](https://github.com/kommthom/t-benninghaus) | 0 | 2026-11-24 | Ein einfacher Blog, um die kleinen und großen Dinge in meine... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-24 | Laravel package for haddowg/json-api: idiomatic routing, con... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-25T00:44 | 3 | 1708 | 8348 |
 | 2026-11-24T18:26 | 10 | 1703 | 8345 |
 | 2026-11-24T12:31 | 7 | 1711 | 8335 |
 | 2026-11-24T06:35 | 0 | 1739 | 8329 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-23T06:44 | 2 | 1735 | 8309 |
 | 2026-11-23T00:46 | 2 | 1737 | 8307 |
 | 2026-11-22T18:25 | 11 | 1729 | 8305 |
-| 2026-11-22T12:27 | 3 | 1735 | 8294 |
 
 ---
 

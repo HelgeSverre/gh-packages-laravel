@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8348  
-**Last updated:** 2026-11-25T00:44:20.042Z
+**Total packages tracked:** 8354  
+**Last updated:** 2026-11-25T06:35:28.309Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [okarabudka/laravel-blog](https://github.com/okarabudka/laravel-blog) | 0 | Blog on Laravel 13 with a Filament admin, Livewire comments and votes, policies,... |
+| [OryandaSaputra/SistemAntrianSamsat](https://github.com/OryandaSaputra/SistemAntrianSamsat) | 0 | SANRAS (E-Riau SAMSAT) — Sistem manajemen antrian digital berbasis Laravel untuk... |
+| [Laravel-Lang/mona](https://github.com/Laravel-Lang/mona) | 0 | Easily connect the necessary language packs to the application |
+| [team-proflujo/proflujo-laravel-analytics](https://github.com/team-proflujo/proflujo-laravel-analytics) | 0 | Lightweight, self-contained, explicit application-event analytics for Laravel ap... |
+| [Edydeyemi/laravel-paystack](https://github.com/Edydeyemi/laravel-paystack) | 0 | A modern, fluent PHP/Laravel 13 package for integrating Paystack payments, subsc... |
+| [oe2i/groy-package](https://github.com/oe2i/groy-package) | 0 | Groy Package — An opinionated starter kit for Laravel 13 package development. |
 | [abolaradev/geo-guard](https://github.com/abolaradev/geo-guard) | 0 | GeoGuard is a Laravel package for IP geolocation, visitor profiling, and geograp... |
 | [danielCristeaa/laravel-simple-surveys](https://github.com/danielCristeaa/laravel-simple-surveys) | 0 | A lightweight, code-first Laravel package for running targeted in-app surveys wi... |
 | [LJPc-solutions/laravel-cloudns-library](https://github.com/LJPc-solutions/laravel-cloudns-library) | 1 | Laravel package for the ClouDNS API: DNS zones and records, GeoDNS, failover, mo... |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [radestsam/laravel-api-debugger](https://github.com/radestsam/laravel-api-debugger) | 20 | A Laravel package to ease the process of debugging JSON APIs |
 | [dkvadratu/dashboard-core](https://github.com/dkvadratu/dashboard-core) | 1 | Package for Laravel + Filament dashboard core functions |
 | [laraxot/laravelpizza.com](https://github.com/laraxot/laravelpizza.com) | 30 | Open-source Laravel 12 + Filament 5 + Livewire 4 starter for running Laravel mee... |
-| [ErfanVahabpour/Bale-Safir-SDK](https://github.com/ErfanVahabpour/Bale-Safir-SDK) | 0 | Unofficial PHP SDK for the Bale Safir messaging API, with file uploads and Larav... |
-| [lucacermenati/laravel-simple-csv-import](https://github.com/lucacermenati/laravel-simple-csv-import) | 0 | Validate a CSV upload in the request, import it in chunks on the queue, and reco... |
-| [lucacermenati/laravel-common-traits](https://github.com/lucacermenati/laravel-common-traits) | 0 | Reusable Eloquent traits for Laravel: search across columns and relationships, r... |
-| [lucacermenati/laravel-nova-settings](https://github.com/lucacermenati/laravel-nova-settings) | 0 | Tab-grouped, database-backed settings for Laravel Nova 5. Define settings in cod... |
-| [lucacermenati/laravel-nova-global-filters](https://github.com/lucacermenati/laravel-nova-global-filters) | 0 | Session-backed global filters for Laravel Nova 5 dashboards: define filters in P... |
-| [Luke-Johnstone/laravel-au](https://github.com/Luke-Johnstone/laravel-au) | 0 | Australian business and address helpers for Laravel and Filament: ABN/ACN valida... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [relaticle/custom-fields](https://github.com/relaticle/custom-fields) | 169 | 2026-11-25 | Filament plugin that allows to add dynamic, user-defined for... |
-| [kyledoesdev/songrank.dev](https://github.com/kyledoesdev/songrank.dev) | 9 | 2026-11-25 | https://songrank.dev - Rank your favorite artists' tracks. |
-| [sinemacula/laravel-resource-exporter](https://github.com/sinemacula/laravel-resource-exporter) | 0 | 2026-11-25 | A Laravel package that provides flexible and extensible reso... |
-| [sinemacula/laravel-modules](https://github.com/sinemacula/laravel-modules) | 0 | 2026-11-25 | A lightweight, convention-driven modular architecture packag... |
-| [sinemacula/laravel-iam](https://github.com/sinemacula/laravel-iam) | 0 | 2026-11-25 | Identity and access management for Laravel: installs the aut... |
-| [teylabs/mod](https://github.com/teylabs/mod) | 0 | 2026-11-25 | Lightweight toolkit for modular development in Laravel, for ... |
-| [nosleepman1/arch-cli](https://github.com/nosleepman1/arch-cli) | 3 | 2026-11-25 | Laravel Architecture CLI Package — scaffolding tool for Doma... |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-24 | A developer-friendly package for creating advanced Wordpress... |
-| [InteractionDesignFoundation/coding-standard](https://github.com/InteractionDesignFoundation/coding-standard) | 7 | 2026-11-24 | 🪷 PHPCS coding-standard for Laravel applications and packag... |
-| [statikbe/laravel-filament-flexible-content-block-pages](https://github.com/statikbe/laravel-filament-flexible-content-block-pages) | 17 | 2026-11-24 | A simple content page management system with a flexible cont... |
-| [binarybuilds/laritor-client](https://github.com/binarybuilds/laritor-client) | 25 | 2026-11-24 | Laritor is a Laravel-native observability platform that help... |
-| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-24 | ShieldCI Analyzers Core - Shared foundation for building sta... |
-| [jobmetric/laravel-post](https://github.com/jobmetric/laravel-post) | 2 | 2026-11-24 | This is a post and article management package in Laravel tha... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-24 |  |
-| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | 2026-11-24 | Open-source, self-hosted video processing & delivery engine ... |
-| [oe2i/groy-schema](https://github.com/oe2i/groy-schema) | 0 | 2026-11-24 | Groy Schema — An opinionated Laravel 13 package for database... |
-| [laraditz/my-invois](https://github.com/laraditz/my-invois) | 2 | 2026-11-24 | Laravel package for interacting with MyInvois API. |
-| [InEngine/Skeleton](https://github.com/InEngine/Skeleton) | 0 | 2026-11-24 | GitHub template for InEngine Modulus feature modules (forked... |
-| [kommthom/t-benninghaus](https://github.com/kommthom/t-benninghaus) | 0 | 2026-11-24 | Ein einfacher Blog, um die kleinen und großen Dinge in meine... |
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-24 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [foxws/laravel-installer](https://github.com/foxws/laravel-installer) | 1 | 2026-11-25 | A one-time installer for Laravel apps in containers: run it,... |
+| [Laravel-Lang/mona](https://github.com/Laravel-Lang/mona) | 0 | 2026-11-25 | Easily connect the necessary language packs to the applicati... |
+| [iquesters/foundation](https://github.com/iquesters/foundation) | 0 | 2026-11-25 | A foundational package providing base classes and utilities ... |
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-25 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [saberLiou/Whetstone](https://github.com/saberLiou/Whetstone) | 4 | 2026-11-25 | A Laravel package with console commands like `php artisan ma... |
+| [dowardev/glitchvy](https://github.com/dowardev/glitchvy) | 0 | 2026-11-25 | Error reporter package (cliente + Laravel SDK). Minimal erro... |
+| [okarabudka/laravel-blog](https://github.com/okarabudka/laravel-blog) | 0 | 2026-11-25 | Blog on Laravel 13 with a Filament admin, Livewire comments ... |
+| [Pharaonic/laravel-api-idempotency](https://github.com/Pharaonic/laravel-api-idempotency) | 0 | 2026-11-25 | Opt-in HTTP idempotency for Laravel APIs: Route::post(...)->... |
+| [Pharaonic/laravel-api-versioning](https://github.com/Pharaonic/laravel-api-versioning) | 1 | 2026-11-25 | Laravel-native API versioning: version groups and constraint... |
+| [rapltech/laravel-sms](https://github.com/rapltech/laravel-sms) | 3 | 2026-11-25 | Linkstreet laravel sms package |
+| [dehnavi/filaforge-studio](https://github.com/dehnavi/filaforge-studio) | 2 | 2026-11-25 | A visual page builder for Laravel and Filament 5, with Persi... |
+| [scherhak/uplinkr](https://github.com/scherhak/uplinkr) | 3 | 2026-11-25 | CLI-first monitoring for Laravel. Monitor websites and APIs ... |
+| [mranonyms022/laravel-zetca](https://github.com/mranonyms022/laravel-zetca) | 0 | 2026-11-25 | Zetca Phase 2 Einvoicing package |
+| [openric/service](https://github.com/openric/service) | 0 | 2026-11-25 | Standalone OpenRiC API service: Laravel 12, extracted from H... |
+| [team-proflujo/proflujo-laravel-analytics](https://github.com/team-proflujo/proflujo-laravel-analytics) | 0 | 2026-11-25 | Lightweight, self-contained, explicit application-event anal... |
+| [OryandaSaputra/SistemAntrianSamsat](https://github.com/OryandaSaputra/SistemAntrianSamsat) | 0 | 2026-11-25 | SANRAS (E-Riau SAMSAT) — Sistem manajemen antrian digital be... |
+| [iquesters/user-management](https://github.com/iquesters/user-management) | 0 | 2026-11-25 | A modular and extendable Laravel package that provides user ... |
+| [ziming/laravel-myinfo-sg](https://github.com/ziming/laravel-myinfo-sg) | 16 | 2026-11-25 | PHP Laravel Singpass MyInfo (Singapore) Package / Library |
+| [ITMOSOFT/laravel-tax](https://github.com/ITMOSOFT/laravel-tax) | 0 | 2026-11-25 | A reusable Laravel tax package with tax classes, rates, loca... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-25 | Open-source Laravel-native CMS for structured, multi-site pu... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-25T06:35 | 6 | 1704 | 8354 |
 | 2026-11-25T00:44 | 3 | 1708 | 8348 |
 | 2026-11-24T18:26 | 10 | 1703 | 8345 |
 | 2026-11-24T12:31 | 7 | 1711 | 8335 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-23T12:31 | 4 | 1732 | 8313 |
 | 2026-11-23T06:44 | 2 | 1735 | 8309 |
 | 2026-11-23T00:46 | 2 | 1737 | 8307 |
-| 2026-11-22T18:25 | 11 | 1729 | 8305 |
 
 ---
 

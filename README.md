@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8372  
-**Last updated:** 2026-11-26T06:35:23.885Z
+**Total packages tracked:** 8376  
+**Last updated:** 2026-11-26T12:31:23.450Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [amornnan19/laravel-tcg-store](https://github.com/amornnan19/laravel-tcg-store) | 0 | Demo Thai trading-card shop built with Laravel 13, Livewire 4 and Filament 5: ca... |
+| [bluecraank/open-signage](https://github.com/bluecraank/open-signage) | 13 | Self-hosted open-source digital signage: upload PDFs or MP4 videos and show them... |
+| [tracewick/laravel](https://github.com/tracewick/laravel) | 1 | Laravel integration for Tracewick sampling profiler (Excimer → spool / Pyroscope... |
+| [arslanaamir/laravel-dev-mail-redirect](https://github.com/arslanaamir/laravel-dev-mail-redirect) | 0 | laravel-dev-mail-redirect laravel package |
 | [m-jared/turfz](https://github.com/m-jared/turfz) | 0 | AI-powered football turf booking platform for Nairobi – Laravel 12, conflict-fre... |
 | [cativo23/amigo-tcg](https://github.com/cativo23/amigo-tcg) | 0 | Personal Pokémon TCG collection tracker with daily-synced market pricing (tcgdex... |
 | [mixiii0006/E-Commerce-Mixxie](https://github.com/mixiii0006/E-Commerce-Mixxie) | 1 | MixxStore: online store with full checkout flow and admin panel for products and... |
@@ -24,11 +28,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [dimmihq/dimmi-laravel](https://github.com/dimmihq/dimmi-laravel) | 0 | Laravel package for dimmi. Read-only mirror: generated from github.com/dimmihq/d... |
 | [aliemami-coder/laravel-n-plus-one-scanner](https://github.com/aliemami-coder/laravel-n-plus-one-scanner) | 1 | Static AST analyzer package for Laravel to scan an entire project and detect N+1... |
 | [shankar123411/Master-clothes](https://github.com/shankar123411/Master-clothes) | 0 | Enterprise B2B Wholesale Apparel Admin & Order Management Portal built with Lara... |
-| [Pharaonic/laravel-api-response](https://github.com/Pharaonic/laravel-api-response) | 0 | Consistent Laravel API responses: one JSON envelope for data, errors, resources ... |
-| [webmavens/laravel-debug](https://github.com/webmavens/laravel-debug) | 0 | The package will help define sql queries, some business logics, and use laravel ... |
-| [cable8mm/laravel-cloudflared](https://github.com/cable8mm/laravel-cloudflared) | 0 | A simple package to create and manage Cloudflare Tunnels for your Laravel projec... |
-| [okarabudka/laravel-blog](https://github.com/okarabudka/laravel-blog) | 0 | Blog on Laravel 13 with a Filament admin, Livewire comments and votes, policies,... |
-| [OryandaSaputra/SistemAntrianSamsat](https://github.com/OryandaSaputra/SistemAntrianSamsat) | 0 | SANRAS (E-Riau SAMSAT) — Sistem manajemen antrian digital berbasis Laravel untuk... |
+| [Pharaonic/laravel-api-response](https://github.com/Pharaonic/laravel-api-response) | 0 | Consistent Laravel API responses: Response::success() and Response::error() buil... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 99 | 2026-11-26 | A Filament package to manage adjacency lists (aka trees). |
-| [PHP-Arazzo/laravel-arazzo](https://github.com/PHP-Arazzo/laravel-arazzo) | 0 | 2026-11-26 | Laravel Integration for PHP-Arazzo Core package |
-| [AthenaNetworks/acma-senderid](https://github.com/AthenaNetworks/acma-senderid) | 0 | 2026-11-26 | Composer/Laravel package for the ACMA Sender ID Register API |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-26 |  |
-| [tibor-src/xai-sdk-php](https://github.com/tibor-src/xai-sdk-php) | 0 | 2026-11-26 | PHP port of the official xAI TypeScript SDK, plus a Laravel ... |
-| [m-jared/turfz](https://github.com/m-jared/turfz) | 0 | 2026-11-26 | AI-powered football turf booking platform for Nairobi – Lara... |
-| [cativo23/amigo-tcg](https://github.com/cativo23/amigo-tcg) | 0 | 2026-11-26 | Personal Pokémon TCG collection tracker with daily-synced ma... |
-| [mixiii0006/E-Commerce-Mixxie](https://github.com/mixiii0006/E-Commerce-Mixxie) | 1 | 2026-11-26 | MixxStore: online store with full checkout flow and admin pa... |
-| [pushery/production-preflight-for-laravel](https://github.com/pushery/production-preflight-for-laravel) | 2 | 2026-11-26 | Laravel production checks for what passes every test: unsafe... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-26 | Automated code analysis for Laravel applications with 73 ope... |
+| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 2 | 2026-11-26 | Open-source, self-hosted IT documentation for MSPs — servers... |
+| [EnzoMoulin/diretorio-contatos-v3](https://github.com/EnzoMoulin/diretorio-contatos-v3) | 1 | 2026-11-26 | Diretório de contatos em Laravel 13 + TALL: o mapa como tela... |
+| [foxws/laravel-ab-av1](https://github.com/foxws/laravel-ab-av1) | 1 | 2026-11-26 | A Laravel package for encoding videos to AV1 format using ab... |
+| [danielCristeaa/laravel-simple-surveys](https://github.com/danielCristeaa/laravel-simple-surveys) | 0 | 2026-11-26 | A lightweight, code-first Laravel package for running target... |
+| [foxws/laravel-media](https://github.com/foxws/laravel-media) | 1 | 2026-11-26 | Probe, encode, package and stream media in Laravel with ffmp... |
 | [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-26 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-26 | A multi-purpose content and application platform for Laravel... |
-| [escalated-dev/escalated-laravel](https://github.com/escalated-dev/escalated-laravel) | 34 | 2026-11-26 | Add a complete open-source helpdesk to Laravel. Support tick... |
-| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 4 | 2026-11-26 | A fast Gantt chart and resource timeline for Filament: any E... |
-| [schoolaid/assistant](https://github.com/schoolaid/assistant) | 0 | 2026-11-26 | Panel assistant engine shared by SAID apps (Laravel package) |
-| [AthenaNetworks/abr](https://github.com/AthenaNetworks/abr) | 0 | 2026-11-26 | Composer/Laravel package for ABR (Australian Business Regist... |
-| [lara-zeus/spatie-translatable](https://github.com/lara-zeus/spatie-translatable) | 37 | 2026-11-26 | Lara Zeus Translatable is Filament support for Spatie's Lara... |
-| [gsferro/filament-starter-kit-easy](https://github.com/gsferro/filament-starter-kit-easy) | 4 | 2026-11-26 |  |
+| [openric/service](https://github.com/openric/service) | 0 | 2026-11-26 | Standalone OpenRiC API service: Laravel 12, extracted from H... |
 | [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-26 | Concrete implementations of the 9 domain interfaces from nvo... |
-| [lara-zeus/echoo](https://github.com/lara-zeus/echoo) | 3 | 2026-11-26 | Echoo is filamentphp form component to record audio from you... |
+| [Pharaonic/laravel-api-response](https://github.com/Pharaonic/laravel-api-response) | 0 | 2026-11-26 | Consistent Laravel API responses: Response::success() and Re... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-26 | A multi-purpose content and application platform for Laravel... |
+| [fklavyenet/webblocks-cms](https://github.com/fklavyenet/webblocks-cms) | 8 | 2026-11-26 | Open-source Laravel-native CMS for structured, multi-site pu... |
+| [Grazulex/laravel-autobuilder](https://github.com/Grazulex/laravel-autobuilder) | 52 | 2026-11-26 | Visual automation builder for Laravel - Create workflows wit... |
+| [iazaran/smart-cache](https://github.com/iazaran/smart-cache) | 215 | 2026-11-26 | Laravel SmartCache - Optimize Caching for Large Data |
+| [Pollora/framework](https://github.com/Pollora/framework) | 32 | 2026-11-26 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-26 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-26 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [lara-zeus/dynamic-dashboard](https://github.com/lara-zeus/dynamic-dashboard) | 15 | 2026-11-26 | simple way to manage widgets and layout for your website lan... |
+| [formfeed-dev/formfeed-laravel](https://github.com/formfeed-dev/formfeed-laravel) | 0 | 2026-11-26 | Laravel package for the Formfeed API (formfeed/laravel). Wri... |
+| [amornnan19/laravel-tcg-store](https://github.com/amornnan19/laravel-tcg-store) | 0 | 2026-11-26 | Demo Thai trading-card shop built with Laravel 13, Livewire ... |
+| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-26 | A developer-friendly package for creating advanced Wordpress... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-26T12:31 | 4 | 1706 | 8376 |
 | 2026-11-26T06:35 | 6 | 1701 | 8372 |
 | 2026-11-26T00:43 | 5 | 1701 | 8366 |
 | 2026-11-25T18:26 | 3 | 1705 | 8361 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-24T18:26 | 10 | 1703 | 8345 |
 | 2026-11-24T12:31 | 7 | 1711 | 8335 |
 | 2026-11-24T06:35 | 0 | 1739 | 8329 |
-| 2026-11-24T00:39 | 6 | 1731 | 8329 |
 
 ---
 

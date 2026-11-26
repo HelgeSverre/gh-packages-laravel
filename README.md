@@ -2,13 +2,19 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8366  
-**Last updated:** 2026-11-26T00:43:04.061Z
+**Total packages tracked:** 8372  
+**Last updated:** 2026-11-26T06:35:23.885Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [m-jared/turfz](https://github.com/m-jared/turfz) | 0 | AI-powered football turf booking platform for Nairobi – Laravel 12, conflict-fre... |
+| [cativo23/amigo-tcg](https://github.com/cativo23/amigo-tcg) | 0 | Personal Pokémon TCG collection tracker with daily-synced market pricing (tcgdex... |
+| [mixiii0006/E-Commerce-Mixxie](https://github.com/mixiii0006/E-Commerce-Mixxie) | 1 | MixxStore: online store with full checkout flow and admin panel for products and... |
+| [AthenaNetworks/abr](https://github.com/AthenaNetworks/abr) | 0 | Composer/Laravel package for ABR (Australian Business Register) API |
+| [PHP-Arazzo/laravel-arazzo](https://github.com/PHP-Arazzo/laravel-arazzo) | 0 | Laravel Integration for PHP-Arazzo Core package |
+| [AthenaNetworks/acma-senderid](https://github.com/AthenaNetworks/acma-senderid) | 0 | Composer/Laravel package for the ACMA Sender ID Register API |
 | [EnzoMoulin/diretorio-contatos-v3](https://github.com/EnzoMoulin/diretorio-contatos-v3) | 1 | Diretório de contatos em Laravel 13 + TALL: o mapa como tela principal, Postgres... |
 | [codeWithDevMA/LaravelEpassPackage](https://github.com/codeWithDevMA/LaravelEpassPackage) | 0 |  |
 | [DropInBlog/laravel-rendered](https://github.com/DropInBlog/laravel-rendered) | 4 | DropInBlog official Laravel package |
@@ -23,12 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [cable8mm/laravel-cloudflared](https://github.com/cable8mm/laravel-cloudflared) | 0 | A simple package to create and manage Cloudflare Tunnels for your Laravel projec... |
 | [okarabudka/laravel-blog](https://github.com/okarabudka/laravel-blog) | 0 | Blog on Laravel 13 with a Filament admin, Livewire comments and votes, policies,... |
 | [OryandaSaputra/SistemAntrianSamsat](https://github.com/OryandaSaputra/SistemAntrianSamsat) | 0 | SANRAS (E-Riau SAMSAT) — Sistem manajemen antrian digital berbasis Laravel untuk... |
-| [Laravel-Lang/mona](https://github.com/Laravel-Lang/mona) | 0 | Easily connect the necessary language packs to the application |
-| [team-proflujo/proflujo-laravel-analytics](https://github.com/team-proflujo/proflujo-laravel-analytics) | 0 | Lightweight, self-contained, explicit application-event analytics for Laravel ap... |
-| [Edydeyemi/laravel-paystack](https://github.com/Edydeyemi/laravel-paystack) | 0 | A modern, fluent PHP/Laravel 13 package for integrating Paystack payments, subsc... |
-| [oe2i/groy-package](https://github.com/oe2i/groy-package) | 0 | Groy Package — An opinionated starter kit for Laravel 13 package development. |
-| [abolaradev/geo-guard](https://github.com/abolaradev/geo-guard) | 0 | GeoGuard is a Laravel package for IP geolocation, visitor profiling, and geograp... |
-| [danielCristeaa/laravel-simple-surveys](https://github.com/danielCristeaa/laravel-simple-surveys) | 0 | A lightweight, code-first Laravel package for running targeted in-app surveys wi... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [skillLeo/summit-uae](https://github.com/skillLeo/summit-uae) | 0 | 2026-11-26 | Trilingual (English, Arabic RTL, Russian) website for Summit... |
-| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 2 | 2026-11-26 | Visual Capell page composition with reusable widgets, named ... |
-| [capell-app/widget-youtube](https://github.com/capell-app/widget-youtube) | 0 | 2026-11-26 | Privacy-gated YouTube embeds with local posters for Capell. |
-| [capell-app/widget-slideshow](https://github.com/capell-app/widget-slideshow) | 0 | 2026-11-26 | Accessible, theme-neutral slideshow widget for Capell. |
-| [capell-app/widget-location-map](https://github.com/capell-app/widget-location-map) | 0 | 2026-11-26 | Privacy-gated OpenStreetMap location widget for Capell. |
-| [capell-app/widget-live-poll](https://github.com/capell-app/widget-live-poll) | 0 | 2026-11-26 | Transactional privacy-conscious live poll widget for Capell. |
-| [capell-app/widget-hotspots](https://github.com/capell-app/widget-hotspots) | 0 | 2026-11-26 | Accessible image hotspots with ordered placement and secure ... |
-| [capell-app/widget-data-chart](https://github.com/capell-app/widget-data-chart) | 0 | 2026-11-26 | Accessible server-rendered data chart widget for Capell. |
-| [capell-app/widget-countdown](https://github.com/capell-app/widget-countdown) | 0 | 2026-11-26 | Timezone-aware countdown widget with UTC targets and accessi... |
-| [capell-app/widget-content-reveal](https://github.com/capell-app/widget-content-reveal) | 0 | 2026-11-26 | Secure nested content reveal widget for Capell. |
-| [capell-app/widget-before-after](https://github.com/capell-app/widget-before-after) | 0 | 2026-11-26 | Accessible, keyboard- and touch-friendly before-and-after im... |
-| [capell-app/widget-audio-playlist](https://github.com/capell-app/widget-audio-playlist) | 0 | 2026-11-26 | Accessible uploaded audio playlist widget for Capell. |
+| [saade/filament-adjacency-list](https://github.com/saade/filament-adjacency-list) | 99 | 2026-11-26 | A Filament package to manage adjacency lists (aka trees). |
+| [PHP-Arazzo/laravel-arazzo](https://github.com/PHP-Arazzo/laravel-arazzo) | 0 | 2026-11-26 | Laravel Integration for PHP-Arazzo Core package |
+| [AthenaNetworks/acma-senderid](https://github.com/AthenaNetworks/acma-senderid) | 0 | 2026-11-26 | Composer/Laravel package for the ACMA Sender ID Register API |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-26 |  |
+| [tibor-src/xai-sdk-php](https://github.com/tibor-src/xai-sdk-php) | 0 | 2026-11-26 | PHP port of the official xAI TypeScript SDK, plus a Laravel ... |
+| [m-jared/turfz](https://github.com/m-jared/turfz) | 0 | 2026-11-26 | AI-powered football turf booking platform for Nairobi – Lara... |
+| [cativo23/amigo-tcg](https://github.com/cativo23/amigo-tcg) | 0 | 2026-11-26 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [mixiii0006/E-Commerce-Mixxie](https://github.com/mixiii0006/E-Commerce-Mixxie) | 1 | 2026-11-26 | MixxStore: online store with full checkout flow and admin pa... |
+| [pushery/production-preflight-for-laravel](https://github.com/pushery/production-preflight-for-laravel) | 2 | 2026-11-26 | Laravel production checks for what passes every test: unsafe... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-26 | Automated code analysis for Laravel applications with 73 ope... |
+| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-26 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-26 | A multi-purpose content and application platform for Laravel... |
-| [vimatech-io/laravel-document-numbering](https://github.com/vimatech-io/laravel-document-numbering) | 0 | 2026-11-26 | Sequential, gap-free, concurrency-safe document numbers for ... |
-| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-11-26 | Extension discovery, account linking, install authorization,... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-26 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-11-26 | Guided browser installer for bootstrapping new Capell CMS ap... |
-| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-11-26 | Public routing, rendering, caching boundaries, and theme int... |
-| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-11-26 | Filament admin panel, editor workflows, settings, and extens... |
-| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-11-26 | Shared content models, services, contracts, and extension fo... |
+| [escalated-dev/escalated-laravel](https://github.com/escalated-dev/escalated-laravel) | 34 | 2026-11-26 | Add a complete open-source helpdesk to Laravel. Support tick... |
+| [packstub/filament-gantt](https://github.com/packstub/filament-gantt) | 4 | 2026-11-26 | A fast Gantt chart and resource timeline for Filament: any E... |
+| [schoolaid/assistant](https://github.com/schoolaid/assistant) | 0 | 2026-11-26 | Panel assistant engine shared by SAID apps (Laravel package) |
+| [AthenaNetworks/abr](https://github.com/AthenaNetworks/abr) | 0 | 2026-11-26 | Composer/Laravel package for ABR (Australian Business Regist... |
+| [lara-zeus/spatie-translatable](https://github.com/lara-zeus/spatie-translatable) | 37 | 2026-11-26 | Lara Zeus Translatable is Filament support for Spatie's Lara... |
+| [gsferro/filament-starter-kit-easy](https://github.com/gsferro/filament-starter-kit-easy) | 4 | 2026-11-26 |  |
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 0 | 2026-11-26 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [lara-zeus/echoo](https://github.com/lara-zeus/echoo) | 3 | 2026-11-26 | Echoo is filamentphp form component to record audio from you... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-26T06:35 | 6 | 1701 | 8372 |
 | 2026-11-26T00:43 | 5 | 1701 | 8366 |
 | 2026-11-25T18:26 | 3 | 1705 | 8361 |
 | 2026-11-25T12:31 | 4 | 1708 | 8358 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-24T12:31 | 7 | 1711 | 8335 |
 | 2026-11-24T06:35 | 0 | 1739 | 8329 |
 | 2026-11-24T00:39 | 6 | 1731 | 8329 |
-| 2026-11-23T18:26 | 10 | 1726 | 8323 |
 
 ---
 

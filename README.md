@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8361  
-**Last updated:** 2026-11-25T18:26:24.864Z
+**Total packages tracked:** 8366  
+**Last updated:** 2026-11-26T00:43:04.061Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [EnzoMoulin/diretorio-contatos-v3](https://github.com/EnzoMoulin/diretorio-contatos-v3) | 1 | Diretório de contatos em Laravel 13 + TALL: o mapa como tela principal, Postgres... |
+| [codeWithDevMA/LaravelEpassPackage](https://github.com/codeWithDevMA/LaravelEpassPackage) | 0 |  |
+| [DropInBlog/laravel-rendered](https://github.com/DropInBlog/laravel-rendered) | 4 | DropInBlog official Laravel package |
+| [slavaWins/authsms](https://github.com/slavaWins/authsms) | 0 | Laravel package |
+| [L4ZARIN3/hyperf-enter](https://github.com/L4ZARIN3/hyperf-enter) | 0 | Laravel-inspired abstract authentication package for Hyperf with first-class Htt... |
 | [philmareu/green](https://github.com/philmareu/green) | 0 | Self-hosted finance viewer for people who keep more than one set of books. Group... |
 | [dimmihq/dimmi-laravel](https://github.com/dimmihq/dimmi-laravel) | 0 | Laravel package for dimmi. Read-only mirror: generated from github.com/dimmihq/d... |
 | [aliemami-coder/laravel-n-plus-one-scanner](https://github.com/aliemami-coder/laravel-n-plus-one-scanner) | 1 | Static AST analyzer package for Laravel to scan an entire project and detect N+1... |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [oe2i/groy-package](https://github.com/oe2i/groy-package) | 0 | Groy Package — An opinionated starter kit for Laravel 13 package development. |
 | [abolaradev/geo-guard](https://github.com/abolaradev/geo-guard) | 0 | GeoGuard is a Laravel package for IP geolocation, visitor profiling, and geograp... |
 | [danielCristeaa/laravel-simple-surveys](https://github.com/danielCristeaa/laravel-simple-surveys) | 0 | A lightweight, code-first Laravel package for running targeted in-app surveys wi... |
-| [LJPc-solutions/laravel-cloudns-library](https://github.com/LJPc-solutions/laravel-cloudns-library) | 1 | Laravel package for the ClouDNS API: DNS zones and records, GeoDNS, failover, mo... |
-| [solutionforest/filament-collaboration](https://github.com/solutionforest/filament-collaboration) | 1 | Google Docs-style collaborative editing for Filament 5: live fields, presence, c... |
-| [acip/a2ui-livewire](https://github.com/acip/a2ui-livewire) | 0 | A2UI v1.0 renderer for Laravel Livewire: render agent-generated UIs (Google's A2... |
-| [rylacdang/formcast](https://github.com/rylacdang/formcast) | 1 | Cast your Laravel FormRequest rules to typed Zod schemas, TypeScript types, and ... |
-| [gosdrkht/whatsapp-cloud-laravel](https://github.com/gosdrkht/whatsapp-cloud-laravel) | 0 | Production-ready WhatsApp Business Cloud API SDK for Laravel 11, 12 & 13 — Messa... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -46,7 +46,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
 | [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile) | 465 | A simple package to help integrate Cloudflare Turnstile. |
 | [mokhosh/filament-kanban](https://github.com/mokhosh/filament-kanban) | 465 | Add kanban boards to your Filament pages |
-| [jeremykenedy/laravel-users](https://github.com/jeremykenedy/laravel-users) | 455 | Laravel user management with Bootstrap 4 and 5, roles and permissions, account s... |
+| [jeremykenedy/laravel-users](https://github.com/jeremykenedy/laravel-users) | 456 | Laravel user management with Bootstrap 4 and 5, roles and permissions, account s... |
 | [chinleung/laravel-multilingual-routes](https://github.com/chinleung/laravel-multilingual-routes) | 448 | A package to handle multilingual routes in your Laravel application. |
 | [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) | 448 | Eloquent Filter is a package for filter data of models by the query strings. Eas... |
 | [conedevelopment/bazar](https://github.com/conedevelopment/bazar) | 447 | Bazar is an e-commerce package for Laravel applications. |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [philmareu/green](https://github.com/philmareu/green) | 0 | 2026-11-25 | Self-hosted finance viewer for people who keep more than one... |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 211 | 2026-11-25 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 175 | 2026-11-25 | Accounting application written in Laravel 13 / PHP 8.5 using... |
-| [jeffersongoncalves/filament-scanner-guard](https://github.com/jeffersongoncalves/filament-scanner-guard) | 10 | 2026-11-25 | Filament UI for jeffersongoncalves/laravel-scanner-guard: li... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-25 | A multi-purpose content and application platform for Laravel... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 84 | 2026-11-25 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [MNONM-Software/Fiscal-Adapter](https://github.com/MNONM-Software/Fiscal-Adapter) | 0 | 2026-11-25 | Laravel package to talk to fiscal authorities (ARCA, later S... |
-| [ShieldCI/analyzers-core](https://github.com/ShieldCI/analyzers-core) | 1 | 2026-11-25 | ShieldCI Analyzers Core - Shared foundation for building sta... |
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-25 | Laravel package to create administration dashboards |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-25 | A developer-friendly package for creating advanced Wordpress... |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 12 | 2026-11-25 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
-| [openric/service](https://github.com/openric/service) | 0 | 2026-11-25 | Standalone OpenRiC API service: Laravel 12, extracted from H... |
-| [rydurham/Sentinel](https://github.com/rydurham/Sentinel) | 312 | 2026-11-25 | A Sentry bridge package for Laravel |
-| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 9 | 2026-11-25 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
-| [NativePHP/nativephp.com](https://github.com/NativePHP/nativephp.com) | 343 | 2026-11-25 | The NativePHP website |
-| [James-Lavina/Budget-App](https://github.com/James-Lavina/Budget-App) | 0 | 2026-11-25 |  |
-| [solutionforest/filament-collaboration](https://github.com/solutionforest/filament-collaboration) | 1 | 2026-11-25 | Google Docs-style collaborative editing for Filament 5: live... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-25 | Automated code analysis for Laravel applications with 73 ope... |
-| [laranail/waitlist-kit](https://github.com/laranail/waitlist-kit) | 0 | 2026-11-25 | Waitlists, coming-soon and early-access pages for Laravel: l... |
-| [laranail/package-scaffolder](https://github.com/laranail/package-scaffolder) | 0 | 2026-11-25 | Laravel package scaffolder: generate complete, convention-re... |
+| [skillLeo/summit-uae](https://github.com/skillLeo/summit-uae) | 0 | 2026-11-26 | Trilingual (English, Arabic RTL, Russian) website for Summit... |
+| [capell-app/layout-builder](https://github.com/capell-app/layout-builder) | 2 | 2026-11-26 | Visual Capell page composition with reusable widgets, named ... |
+| [capell-app/widget-youtube](https://github.com/capell-app/widget-youtube) | 0 | 2026-11-26 | Privacy-gated YouTube embeds with local posters for Capell. |
+| [capell-app/widget-slideshow](https://github.com/capell-app/widget-slideshow) | 0 | 2026-11-26 | Accessible, theme-neutral slideshow widget for Capell. |
+| [capell-app/widget-location-map](https://github.com/capell-app/widget-location-map) | 0 | 2026-11-26 | Privacy-gated OpenStreetMap location widget for Capell. |
+| [capell-app/widget-live-poll](https://github.com/capell-app/widget-live-poll) | 0 | 2026-11-26 | Transactional privacy-conscious live poll widget for Capell. |
+| [capell-app/widget-hotspots](https://github.com/capell-app/widget-hotspots) | 0 | 2026-11-26 | Accessible image hotspots with ordered placement and secure ... |
+| [capell-app/widget-data-chart](https://github.com/capell-app/widget-data-chart) | 0 | 2026-11-26 | Accessible server-rendered data chart widget for Capell. |
+| [capell-app/widget-countdown](https://github.com/capell-app/widget-countdown) | 0 | 2026-11-26 | Timezone-aware countdown widget with UTC targets and accessi... |
+| [capell-app/widget-content-reveal](https://github.com/capell-app/widget-content-reveal) | 0 | 2026-11-26 | Secure nested content reveal widget for Capell. |
+| [capell-app/widget-before-after](https://github.com/capell-app/widget-before-after) | 0 | 2026-11-26 | Accessible, keyboard- and touch-friendly before-and-after im... |
+| [capell-app/widget-audio-playlist](https://github.com/capell-app/widget-audio-playlist) | 0 | 2026-11-26 | Accessible uploaded audio playlist widget for Capell. |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-26 | A multi-purpose content and application platform for Laravel... |
+| [vimatech-io/laravel-document-numbering](https://github.com/vimatech-io/laravel-document-numbering) | 0 | 2026-11-26 | Sequential, gap-free, concurrency-safe document numbers for ... |
+| [capell-app/marketplace](https://github.com/capell-app/marketplace) | 0 | 2026-11-26 | Extension discovery, account linking, install authorization,... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-26 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [capell-app/installer](https://github.com/capell-app/installer) | 0 | 2026-11-26 | Guided browser installer for bootstrapping new Capell CMS ap... |
+| [capell-app/frontend](https://github.com/capell-app/frontend) | 0 | 2026-11-26 | Public routing, rendering, caching boundaries, and theme int... |
+| [capell-app/admin](https://github.com/capell-app/admin) | 0 | 2026-11-26 | Filament admin panel, editor workflows, settings, and extens... |
+| [capell-app/core](https://github.com/capell-app/core) | 0 | 2026-11-26 | Shared content models, services, contracts, and extension fo... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-26T00:43 | 5 | 1701 | 8366 |
 | 2026-11-25T18:26 | 3 | 1705 | 8361 |
 | 2026-11-25T12:31 | 4 | 1708 | 8358 |
 | 2026-11-25T06:35 | 6 | 1704 | 8354 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-24T06:35 | 0 | 1739 | 8329 |
 | 2026-11-24T00:39 | 6 | 1731 | 8329 |
 | 2026-11-23T18:26 | 10 | 1726 | 8323 |
-| 2026-11-23T12:31 | 4 | 1732 | 8313 |
 
 ---
 

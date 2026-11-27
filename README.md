@@ -2,13 +2,17 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8389  
-**Last updated:** 2026-11-27T06:35:14.024Z
+**Total packages tracked:** 8393  
+**Last updated:** 2026-11-27T12:30:52.775Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [LaravelPlus/subscribe](https://github.com/LaravelPlus/subscribe) | 0 | Email subscriptions and newsletters for Laravel: Brevo, Mailchimp, HubSpot, Conv... |
+| [plan-parts/vin-oem-parts-catalog](https://github.com/plan-parts/vin-oem-parts-catalog) | 0 | Laravel package for the plan.parts OEM parts catalog: identify a vehicle by VIN,... |
+| [brand-boosters/laravel-local-media-proxy](https://github.com/brand-boosters/laravel-local-media-proxy) | 0 | Laravel package for Local Media Proxy (dev-only): read production assets through... |
+| [aderitodebarros/pulse-laravel](https://github.com/aderitodebarros/pulse-laravel) | 0 | Automatic Pulse feedback widget and error monitoring for Laravel. Composer packa... |
 | [teknik-github/opendash](https://github.com/teknik-github/opendash) | 0 | Web dashboard for OpenVPN Community Edition + Easy-RSA 3 (Laravel 13, Livewire 4... |
 | [ilhamuket/tripay](https://github.com/ilhamuket/tripay) | 0 | Tripay SDK untuk PHP, Laravel, Node.js, TypeScript & NestJS: library payment gat... |
 | [MuhammadRidhaRezeki/wifi-provider-management](https://github.com/MuhammadRidhaRezeki/wifi-provider-management) | 0 | WiFi provider management system built with Laravel: customers, service packages,... |
@@ -25,10 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [amornnan19/laravel-tcg-store](https://github.com/amornnan19/laravel-tcg-store) | 0 | Demo Thai trading-card shop built with Laravel 13, Livewire 4 and Filament 5: ca... |
 | [bluecraank/open-signage](https://github.com/bluecraank/open-signage) | 13 | Self-hosted open-source digital signage: upload PDFs or MP4 videos and show them... |
 | [tracewick/laravel](https://github.com/tracewick/laravel) | 1 | Laravel integration for Tracewick sampling profiler (Excimer → spool / Pyroscope... |
-| [arslanaamir/laravel-dev-mail-redirect](https://github.com/arslanaamir/laravel-dev-mail-redirect) | 0 | laravel-dev-mail-redirect laravel package |
-| [m-jared/turfz](https://github.com/m-jared/turfz) | 0 | AI-powered football turf booking platform for Nairobi – Laravel 12, conflict-fre... |
-| [cativo23/amigo-tcg](https://github.com/cativo23/amigo-tcg) | 0 | Personal Pokémon TCG collection tracker with daily-synced market pricing (tcgdex... |
-| [mixiii0006/E-Commerce-Mixxie](https://github.com/mixiii0006/E-Commerce-Mixxie) | 1 | MixxStore: online store with full checkout flow and admin panel for products and... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -40,7 +40,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [ash-jc-allen/laravel-exchange-rates](https://github.com/ash-jc-allen/laravel-exchange-rates) | 489 | A Laravel wrapper package for interacting with the exchangeratesapi.io API. |
 | [mikebronner/laravel-sign-in-with-apple](https://github.com/mikebronner/laravel-sign-in-with-apple) | 480 | Provide "Sign In With Apple" functionality to your Laravel app. |
 | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) | 480 | This package allows you to easily work with UUIDs in your Laravel models |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 477 | Open Source Laravel CRM Package |
+| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 478 | Open Source Laravel CRM Package |
 | [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) | 472 | A Qiniu Storage filesystem for Laravel |
 | [cloudstudio/ollama-laravel](https://github.com/cloudstudio/ollama-laravel) | 468 | Ollama-Laravel is a Laravel package providing seamless integration with the Olla... |
 | [rinvex/laravel-categories](https://github.com/rinvex/laravel-categories) | 466 | Rinvex Categorizable is a polymorphic Laravel package, for category management. ... |
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [mattmy/laravel-dwg-converter](https://github.com/mattmy/laravel-dwg-converter) | 0 | 2026-11-27 | Laravel package powered by LibreDWG for DWG thumbnail extrac... |
-| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 113 | 2026-11-27 | A package to easily make use of Lucide Icons in your Laravel... |
-| [MarkColeMukisa/nevela-laravel](https://github.com/MarkColeMukisa/nevela-laravel) | 1 | 2026-11-27 | Nevela for Laravel. Read-only copy of packages/laravel from ... |
-| [laricekl/ProximaJob-livrable](https://github.com/laricekl/ProximaJob-livrable) | 0 | 2026-11-27 | Laravel livrable package for deployment |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-27 | A multi-purpose content and application platform for Laravel... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-27 | Automated code analysis for Laravel applications with 73 ope... |
-| [ONyklicek/WireStack](https://github.com/ONyklicek/WireStack) | 0 | 2026-11-27 | WireStack — a Livewire admin framework for Laravel: core, fo... |
-| [openric/service](https://github.com/openric/service) | 0 | 2026-11-27 | Standalone OpenRiC API service: Laravel 12, extracted from H... |
-| [Sknadim6297/delta-support-laravel](https://github.com/Sknadim6297/delta-support-laravel) | 0 | 2026-11-27 | A Laravel 12-based tours and travel management platform feat... |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 212 | 2026-11-27 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-27 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [LaravelPlus/subscribe](https://github.com/LaravelPlus/subscribe) | 0 | 2026-11-27 | Email subscriptions and newsletters for Laravel: Brevo, Mail... |
+| [CodeNyra/precognition-plus](https://github.com/CodeNyra/precognition-plus) | 0 | 2026-11-27 | Laravel Precognition with common rules checked in the browse... |
+| [Larsln/dinnertime](https://github.com/Larsln/dinnertime) | 0 | 2026-11-27 | Self-hosted recipes, meal plan and shopping list for one hou... |
+| [Pollora/framework](https://github.com/Pollora/framework) | 32 | 2026-11-27 | The Laravel framework for WordPress: Blade, Laravel routing ... |
+| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 5 | 2026-11-27 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
+| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 6 | 2026-11-27 | Visual feedback for Laravel and Livewire with client-side sc... |
+| [typicms/core](https://github.com/typicms/core) | 8 | 2026-11-27 | The core package of TypiCMS, containing the base architectur... |
+| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-11-27 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
+| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 4 | 2026-11-27 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
+| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 9 | 2026-11-27 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
+| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | 2026-11-27 | AI-assisted job search platform: one career profile, tailore... |
 | [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-27 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [venturedrake/laravel-crm](https://github.com/venturedrake/laravel-crm) | 477 | 2026-11-27 | Open Source Laravel CRM Package |
-| [innoboxrr/larapack-generator](https://github.com/innoboxrr/larapack-generator) | 2 | 2026-11-27 | Scaffold a production-ready Laravel package in seconds - str... |
-| [sajusun/invoice](https://github.com/sajusun/invoice) | 0 | 2026-11-27 | Enterprise-ready Multi-Tenant Invoicing, Dynamic Stripe Subs... |
-| [Md-Foisal/job-board](https://github.com/Md-Foisal/job-board) | 1 | 2026-11-27 | A job board where a company's silence shows. Laravel, Livewi... |
-| [xdelirio/nukevideo](https://github.com/xdelirio/nukevideo) | 0 | 2026-11-27 | Open-source, self-hosted video processing & delivery engine ... |
-| [tibor-src/a2a-laravel](https://github.com/tibor-src/a2a-laravel) | 4 | 2026-11-27 | Laravel package for the Agent2Agent (A2A) protocol with Lara... |
-| [escalated-dev/escalated-laravel](https://github.com/escalated-dev/escalated-laravel) | 34 | 2026-11-27 | Add a complete open-source helpdesk to Laravel. Support tick... |
-| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 243 | 2026-11-27 | form builder for your users, with so many use cases |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-27 | A multi-purpose content and application platform for Laravel... |
+| [Grazulex/laravel-autobuilder](https://github.com/Grazulex/laravel-autobuilder) | 52 | 2026-11-27 | Visual automation builder for Laravel - Create workflows wit... |
 | [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-27 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [aderitodebarros/pulse-laravel](https://github.com/aderitodebarros/pulse-laravel) | 0 | 2026-11-27 | Automatic Pulse feedback widget and error monitoring for Lar... |
+| [backstagephp/mails](https://github.com/backstagephp/mails) | 163 | 2026-11-27 | Collect everything about sent mails in your Filament app. |
+| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-11-27 | Detect language using Google Translation API |
+| [ru5iru/api-mock-service](https://github.com/ru5iru/api-mock-service) | 0 | 2026-11-27 | Self-hosted API mocking with Laravel and Livewire. Import cU... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-27T12:30 | 4 | 1706 | 8393 |
 | 2026-11-27T06:35 | 3 | 1708 | 8389 |
 | 2026-11-27T00:43 | 2 | 1708 | 8386 |
 | 2026-11-26T18:27 | 8 | 1705 | 8384 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-25T18:26 | 3 | 1705 | 8361 |
 | 2026-11-25T12:31 | 4 | 1708 | 8358 |
 | 2026-11-25T06:35 | 6 | 1704 | 8354 |
-| 2026-11-25T00:44 | 3 | 1708 | 8348 |
 
 ---
 

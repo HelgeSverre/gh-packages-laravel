@@ -2,13 +2,15 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8384  
-**Last updated:** 2026-11-26T18:27:32.550Z
+**Total packages tracked:** 8386  
+**Last updated:** 2026-11-27T00:43:23.058Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [amornnan19/laravel-personal-blog](https://github.com/amornnan19/laravel-personal-blog) | 0 | Asa Note 朝: a Thai morning news blog written by AI bots through a Laravel 13 API... |
+| [omarRaafat/package-paymob-payouts](https://github.com/omarRaafat/package-paymob-payouts) | 1 | A PHP 7.4+ client for the E-WALLET Payouts API that works in any framework, plus... |
 | [AringoldX/tallstack-employees](https://github.com/AringoldX/tallstack-employees) | 2 | TALL-Stack (Tailwind CSS, Alpine.js, Laravel, and Livewire) employee manage |
 | [lazean214/PHP-Package-Test](https://github.com/lazean214/PHP-Package-Test) | 0 | Laravel Package Boilerplate scaffold (lazean214/ecommerce): facade, service prov... |
 | [hinditutorpoint/store-doc](https://github.com/hinditutorpoint/store-doc) | 0 | A Laravel package that provides a custom filesystem driver for Store-Doc S3-comp... |
@@ -27,8 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [AthenaNetworks/abr](https://github.com/AthenaNetworks/abr) | 0 | Composer/Laravel package for ABR (Australian Business Register) API |
 | [PHP-Arazzo/laravel-arazzo](https://github.com/PHP-Arazzo/laravel-arazzo) | 0 | Laravel Integration for PHP-Arazzo Core package |
 | [AthenaNetworks/acma-senderid](https://github.com/AthenaNetworks/acma-senderid) | 0 | Composer/Laravel package for the ACMA Sender ID Register API |
-| [EnzoMoulin/diretorio-contatos-v3](https://github.com/EnzoMoulin/diretorio-contatos-v3) | 1 | Diretório de contatos em Laravel 13 + TALL: o mapa como tela principal, Postgres... |
-| [codeWithDevMA/LaravelEpassPackage](https://github.com/codeWithDevMA/LaravelEpassPackage) | 0 |  |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [emoop/easyco](https://github.com/emoop/easyco) | 0 | 2026-11-26 | EasyCo is a modular Laravel commerce platform. Rather than o... |
-| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 212 | 2026-11-26 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
-| [PDERAS/laravel-shambles](https://github.com/PDERAS/laravel-shambles) | 0 | 2026-11-26 | A hashing package that adds hashes to your laravel models |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-26 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [luinuxscl/lnx](https://github.com/luinuxscl/lnx) | 0 | 2026-11-26 | Kit de desarrollo Laravel + Livewire (MIT) de LikePlatform: ... |
-| [folkloreinc/laravel-panneau](https://github.com/folkloreinc/laravel-panneau) | 2 | 2026-11-26 | Laravel package to create administration dashboards |
-| [folkloreinc/laravel-mediatheque](https://github.com/folkloreinc/laravel-mediatheque) | 2 | 2026-11-26 | Package to manage medias within Laravel |
-| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 1 | 2026-11-26 | Concrete implementations of the 9 domain interfaces from nvo... |
-| [PhilippKuhlmann/dokuvault](https://github.com/PhilippKuhlmann/dokuvault) | 2 | 2026-11-26 | Open-source, self-hosted IT documentation for MSPs — servers... |
-| [escalated-dev/escalated-laravel](https://github.com/escalated-dev/escalated-laravel) | 34 | 2026-11-26 | Add a complete open-source helpdesk to Laravel. Support tick... |
-| [danielCristeaa/laravel-simple-surveys](https://github.com/danielCristeaa/laravel-simple-surveys) | 0 | 2026-11-26 | A lightweight, code-first Laravel package for running target... |
-| [emaia/laravel-hotwire-turbo](https://github.com/emaia/laravel-hotwire-turbo) | 1 | 2026-11-26 | Laravel package to integrate Hotwire Turbo |
-| [mirror-and-mountain/meros-framework](https://github.com/mirror-and-mountain/meros-framework) | 1 | 2026-11-26 | A developer-friendly package for creating advanced Wordpress... |
-| [iquesters/organisation](https://github.com/iquesters/organisation) | 0 | 2026-11-26 | The Organisation Package provides a structured way to manage... |
-| [fuzzyfox/lucide-for-laravel](https://github.com/fuzzyfox/lucide-for-laravel) | 1 | 2026-11-26 | An always-current Lucide icon set and PHP enum for Laravel a... |
-| [caravelpay/caravel-laravel](https://github.com/caravelpay/caravel-laravel) | 0 | 2026-11-26 | Laravel package for Caravel Pay: cards, Apple Pay & Google P... |
-| [iquesters/user-management](https://github.com/iquesters/user-management) | 0 | 2026-11-26 | A modular and extendable Laravel package that provides user ... |
-| [skybleak333/hindsight-php](https://github.com/skybleak333/hindsight-php) | 0 | 2026-11-26 | PHP client for Hindsight agent memory: long-term memory for ... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-26 | A multi-purpose content and application platform for Laravel... |
-| [hibira-io/filament](https://github.com/hibira-io/filament) | 0 | 2026-11-26 | Live notifications for Filament panels on Hibira (Pusher-com... |
+| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-27 | A multi-purpose content and application platform for Laravel... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-27 | Automated code analysis for Laravel applications with 73 ope... |
+| [liberusoftware/project-accounting-erp-laravel-filament](https://github.com/liberusoftware/project-accounting-erp-laravel-filament) | 175 | 2026-11-27 | Accounting application written in Laravel 13 / PHP 8.5 using... |
+| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-27 | Extensible Laravel CMS built on Filament, with multi-site an... |
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 1 | 2026-11-27 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [liberusoftware/module-liberu-platform-orchestration](https://github.com/liberusoftware/module-liberu-platform-orchestration) | 0 | 2026-11-27 | This package is the authoritative, provider-neutral implemen... |
+| [liberusoftware/module-liberu-executive-insights](https://github.com/liberusoftware/module-liberu-executive-insights) | 0 | 2026-11-27 | This package is the authoritative, provider-neutral implemen... |
+| [liberusoftware/module-liberu-business-workflow-reconciliation](https://github.com/liberusoftware/module-liberu-business-workflow-reconciliation) | 0 | 2026-11-27 | This package is the authoritative, provider-neutral implemen... |
+| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | 2026-11-27 | AI-assisted job search platform: one career profile, tailore... |
+| [gsferro/filament-starter-kit-easy](https://github.com/gsferro/filament-starter-kit-easy) | 4 | 2026-11-27 |  |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 84 | 2026-11-27 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [liberusoftware/project-boilerplate-laravel-filament](https://github.com/liberusoftware/project-boilerplate-laravel-filament) | 212 | 2026-11-27 | Laravel 13, PHP 8.5, Filament 5 and Livewire 4 SaaS boilerpl... |
+| [liberusoftware/project-maintenance-laravel-filament](https://github.com/liberusoftware/project-maintenance-laravel-filament) | 75 | 2026-11-27 | CMMS - Computerised maintenance management system applicatio... |
+| [liberusoftware/project-real-estate-laravel-filament](https://github.com/liberusoftware/project-real-estate-laravel-filament) | 117 | 2026-11-27 | Real Estate / Estate Agent, solution for your Property Agenc... |
+| [liberusoftware/project-genealogy-laravel-filament](https://github.com/liberusoftware/project-genealogy-laravel-filament) | 195 | 2026-11-27 | Full genealogy and family tree building application using La... |
+| [laricekl/ProximaJob-livrable](https://github.com/laricekl/ProximaJob-livrable) | 0 | 2026-11-27 | Laravel livrable package for deployment |
+| [liberusoftware/project-automation-laravel-filament](https://github.com/liberusoftware/project-automation-laravel-filament) | 40 | 2026-11-27 | Automatic provisioning system written in Laravel 12 / PHP 8.... |
+| [liberusoftware/project-cms-laravel-filament](https://github.com/liberusoftware/project-cms-laravel-filament) | 125 | 2026-11-27 | CMS application written in Laravel 13 /  PHP 8.5 using Filam... |
+| [liberusoftware/project-ecommerce-laravel-filament](https://github.com/liberusoftware/project-ecommerce-laravel-filament) | 193 | 2026-11-27 | Ecommerce system written in Laravel 13 / PHP 8.5 using Filam... |
+| [axlon/laravel-postal-code-validation](https://github.com/axlon/laravel-postal-code-validation) | 391 | 2026-11-26 | Worldwide postal code validation for Laravel |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-27T00:43 | 2 | 1708 | 8386 |
 | 2026-11-26T18:27 | 8 | 1705 | 8384 |
 | 2026-11-26T12:31 | 4 | 1706 | 8376 |
 | 2026-11-26T06:35 | 6 | 1701 | 8372 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-25T06:35 | 6 | 1704 | 8354 |
 | 2026-11-25T00:44 | 3 | 1708 | 8348 |
 | 2026-11-24T18:26 | 10 | 1703 | 8345 |
-| 2026-11-24T12:31 | 7 | 1711 | 8335 |
 
 ---
 

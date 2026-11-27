@@ -2,13 +2,21 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8393  
-**Last updated:** 2026-11-27T12:30:52.775Z
+**Total packages tracked:** 8401  
+**Last updated:** 2026-11-27T18:26:50.156Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [assetfeed/filament-ai-detector](https://github.com/assetfeed/filament-ai-detector) | 0 | Filament infolist entry that checks a text attribute for AI-written passages and... |
+| [Azharmaulanadzakki/smart-feeding](https://github.com/Azharmaulanadzakki/smart-feeding) | 0 | Smart Feeding — Intelligent Aquaculture Management System (Laravel 13 + Livewire... |
+| [wire-up-dev/wire-up](https://github.com/wire-up-dev/wire-up) | 3 | Wire Up CMS: an open-source, self-hosted Laravel CMS that updates itself, with a... |
+| [xofactory/loggerxo](https://github.com/xofactory/loggerxo) | 1 | Open source error tracking, log search and performance monitoring for Laravel an... |
+| [xofactory/loggerxo-laravel](https://github.com/xofactory/loggerxo-laravel) | 1 | Laravel SDK for Loggerxo: exceptions, log channel, breadcrumbs and performance t... |
+| [abitech-dev/abitech-sso-laravel](https://github.com/abitech-dev/abitech-sso-laravel) | 0 | Conecta apps Laravel con una central en Laravel Passport para el inicio de sesió... |
+| [LaravelPlus/global-settings](https://github.com/LaravelPlus/global-settings) | 0 | Global settings management for Laravel with admin panel support. |
+| [LaravelPlus/content-security](https://github.com/LaravelPlus/content-security) | 0 | Defense-in-depth content security for Laravel: malware scanning, MIME/magic-byte... |
 | [LaravelPlus/subscribe](https://github.com/LaravelPlus/subscribe) | 0 | Email subscriptions and newsletters for Laravel: Brevo, Mailchimp, HubSpot, Conv... |
 | [plan-parts/vin-oem-parts-catalog](https://github.com/plan-parts/vin-oem-parts-catalog) | 0 | Laravel package for the plan.parts OEM parts catalog: identify a vehicle by VIN,... |
 | [brand-boosters/laravel-local-media-proxy](https://github.com/brand-boosters/laravel-local-media-proxy) | 0 | Laravel package for Local Media Proxy (dev-only): read production assets through... |
@@ -21,14 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [AringoldX/tallstack-employees](https://github.com/AringoldX/tallstack-employees) | 2 | TALL-Stack (Tailwind CSS, Alpine.js, Laravel, and Livewire) employee manage |
 | [lazean214/PHP-Package-Test](https://github.com/lazean214/PHP-Package-Test) | 0 | Laravel Package Boilerplate scaffold (lazean214/ecommerce): facade, service prov... |
 | [hinditutorpoint/store-doc](https://github.com/hinditutorpoint/store-doc) | 0 | A Laravel package that provides a custom filesystem driver for Store-Doc S3-comp... |
-| [LaveroAdmin/LaveroAdmin](https://github.com/LaveroAdmin/LaveroAdmin) | 0 | Independent Laravel administration panel based on Open Admin, featuring a flexib... |
-| [entrolytics/laravel](https://github.com/entrolytics/laravel) | 0 | Laravel package for Entrolytics - First-party growth analytics for the edge |
-| [commisoft-dev/filament-comms](https://github.com/commisoft-dev/filament-comms) | 0 | Reusable Filament v4 communications package for Laravel — email campaigns, templ... |
-| [silverspoonmedia/cored-backend](https://github.com/silverspoonmedia/cored-backend) | 0 | Cored backend: product-free Laravel boilerplate on the silverspoonmedia core pac... |
-| [PDERAS/laravel-shambles](https://github.com/PDERAS/laravel-shambles) | 0 | A hashing package that adds hashes to your laravel models |
-| [amornnan19/laravel-tcg-store](https://github.com/amornnan19/laravel-tcg-store) | 0 | Demo Thai trading-card shop built with Laravel 13, Livewire 4 and Filament 5: ca... |
-| [bluecraank/open-signage](https://github.com/bluecraank/open-signage) | 13 | Self-hosted open-source digital signage: upload PDFs or MP4 videos and show them... |
-| [tracewick/laravel](https://github.com/tracewick/laravel) | 1 | Laravel integration for Tracewick sampling profiler (Excimer → spool / Pyroscope... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-27 | Laravel package for haddowg/json-api: idiomatic routing, con... |
-| [LaravelPlus/subscribe](https://github.com/LaravelPlus/subscribe) | 0 | 2026-11-27 | Email subscriptions and newsletters for Laravel: Brevo, Mail... |
-| [CodeNyra/precognition-plus](https://github.com/CodeNyra/precognition-plus) | 0 | 2026-11-27 | Laravel Precognition with common rules checked in the browse... |
-| [Larsln/dinnertime](https://github.com/Larsln/dinnertime) | 0 | 2026-11-27 | Self-hosted recipes, meal plan and shopping list for one hou... |
+| [cativo23/amigo-tcg](https://github.com/cativo23/amigo-tcg) | 0 | 2026-11-27 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [cabocom/jg_filmmaker](https://github.com/cabocom/jg_filmmaker) | 0 | 2026-11-27 | [Mirror from GitLab] Suite creativa audiovisual impulsada po... |
 | [Pollora/framework](https://github.com/Pollora/framework) | 32 | 2026-11-27 | The Laravel framework for WordPress: Blade, Laravel routing ... |
-| [pushery/webhooks-for-laravel](https://github.com/pushery/webhooks-for-laravel) | 5 | 2026-11-27 | An all-in-one, config-gated Laravel toolkit for signed inbou... |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 6 | 2026-11-27 | Visual feedback for Laravel and Livewire with client-side sc... |
+| [tsitsishvili/documentator](https://github.com/tsitsishvili/documentator) | 17 | 2026-11-27 | Zero-config interactive API docs for Laravel — auto-inferred... |
+| [assetfeed/filament-ai-detector](https://github.com/assetfeed/filament-ai-detector) | 0 | 2026-11-27 | Filament infolist entry that checks a text attribute for AI-... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 84 | 2026-11-27 | Open-source AI agent orchestration platform — self-hosted mi... |
+| [silverspoonmedia/cored-backend](https://github.com/silverspoonmedia/cored-backend) | 0 | 2026-11-27 | Cored backend: product-free Laravel boilerplate on the silve... |
+| [Azharmaulanadzakki/smart-feeding](https://github.com/Azharmaulanadzakki/smart-feeding) | 0 | 2026-11-27 | Smart Feeding — Intelligent Aquaculture Management System (L... |
+| [abitech-dev/abitech-payments-laravel](https://github.com/abitech-dev/abitech-payments-laravel) | 0 | 2026-11-27 | Cobra, reembolsa, suscribe y recibe webhooks de Mercado Pago... |
+| [jonytonet/ptah](https://github.com/jonytonet/ptah) | 2 | 2026-11-27 | Ptah — Laravel package that forges complete module structure... |
 | [typicms/core](https://github.com/typicms/core) | 8 | 2026-11-27 | The core package of TypiCMS, containing the base architectur... |
-| [roberteinsle/openwehr](https://github.com/roberteinsle/openwehr) | 1 | 2026-11-27 | Selbst gehostete Open-Source-Web-App für Freiwillige Feuerwe... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 4 | 2026-11-27 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [jeffersongoncalves/laravel-scanner-guard](https://github.com/jeffersongoncalves/laravel-scanner-guard) | 9 | 2026-11-27 | Detect and ban vulnerability-scanner traffic on Laravel apps... |
-| [abdullahrather/career-craft](https://github.com/abdullahrather/career-craft) | 0 | 2026-11-27 | AI-assisted job search platform: one career profile, tailore... |
-| [PHP-Arazzo/php-arazzo](https://github.com/PHP-Arazzo/php-arazzo) | 0 | 2026-11-27 | The native Arazzo workflow engine for PHP and Laravel. Parse... |
-| [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-27 | A multi-purpose content and application platform for Laravel... |
-| [Grazulex/laravel-autobuilder](https://github.com/Grazulex/laravel-autobuilder) | 52 | 2026-11-27 | Visual automation builder for Laravel - Create workflows wit... |
-| [capell-app/capell](https://github.com/capell-app/capell) | 6 | 2026-11-27 | Extensible Laravel CMS built on Filament, with multi-site an... |
-| [aderitodebarros/pulse-laravel](https://github.com/aderitodebarros/pulse-laravel) | 0 | 2026-11-27 | Automatic Pulse feedback widget and error monitoring for Lar... |
-| [backstagephp/mails](https://github.com/backstagephp/mails) | 163 | 2026-11-27 | Collect everything about sent mails in your Filament app. |
-| [virtunus/translator](https://github.com/virtunus/translator) | 0 | 2026-11-27 | Detect language using Google Translation API |
-| [ru5iru/api-mock-service](https://github.com/ru5iru/api-mock-service) | 0 | 2026-11-27 | Self-hosted API mocking with Laravel and Livewire. Import cU... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-27 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [Team-Nifty-GmbH/tall-datatables](https://github.com/Team-Nifty-GmbH/tall-datatables) | 14 | 2026-11-27 | A package to create datatables using alpinejs, tailwind, liv... |
+| [balismatz/filament-prevent-outdated-record-update](https://github.com/balismatz/filament-prevent-outdated-record-update) | 10 | 2026-11-27 | A Filament plugin that prevents users from updating outdated... |
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 1 | 2026-11-27 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-27 | Automated code analysis for Laravel applications with 73 ope... |
+| [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-27 | Laravel integration for Custd (read-only mirror of custd-sdk... |
+| [fuzzyfox/lucide-for-laravel](https://github.com/fuzzyfox/lucide-for-laravel) | 1 | 2026-11-27 | An always-current Lucide icon set and PHP enum for Laravel a... |
+| [codemonster-ru/ssr-bridge](https://github.com/codemonster-ru/ssr-bridge) | 0 | 2026-11-27 | PHP bridge to Node.js server-side renderers over a local pro... |
+| [foxws/app](https://github.com/foxws/app) | 1 | 2026-11-27 | Source of foxws.nl, the documentation site for the Foxws Lar... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-27T18:26 | 8 | 1704 | 8401 |
 | 2026-11-27T12:30 | 4 | 1706 | 8393 |
 | 2026-11-27T06:35 | 3 | 1708 | 8389 |
 | 2026-11-27T00:43 | 2 | 1708 | 8386 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-26T00:43 | 5 | 1701 | 8366 |
 | 2026-11-25T18:26 | 3 | 1705 | 8361 |
 | 2026-11-25T12:31 | 4 | 1708 | 8358 |
-| 2026-11-25T06:35 | 6 | 1704 | 8354 |
 
 ---
 

@@ -1008,7 +1008,7 @@
     "license": "MIT",
     "created_at": "2022-04-21T10:37:51Z",
     "updated_at": "2026-11-06T12:39:46Z",
-    "pushed_at": "2026-11-27T09:40:45Z",
+    "pushed_at": "2026-11-28T02:29:40Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "thingstelemetry/laravel-traccar": {
@@ -1324,7 +1324,7 @@
     "license": "MIT",
     "created_at": "2025-11-22T11:26:29Z",
     "updated_at": "2026-10-24T07:39:20Z",
-    "pushed_at": "2026-10-24T07:41:28Z",
+    "pushed_at": "2026-11-28T02:44:15Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "guanguans/laravel-skeleton": {
@@ -3636,7 +3636,7 @@
     "license": "MIT",
     "created_at": "2021-07-09T16:55:25Z",
     "updated_at": "2026-11-22T13:15:03Z",
-    "pushed_at": "2026-11-27T06:29:51Z",
+    "pushed_at": "2026-11-28T06:04:55Z",
     "discovered_at": "2026-01-29T01:22:25.333Z"
   },
   "tzsk/sms": {
@@ -7589,7 +7589,7 @@
     "license": "MIT",
     "created_at": "2025-11-05T16:29:34Z",
     "updated_at": "2026-11-11T04:07:00Z",
-    "pushed_at": "2026-11-26T02:58:00Z",
+    "pushed_at": "2026-11-28T02:28:16Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
   "usmonaliyev99/redium": {
@@ -14826,7 +14826,7 @@
     "name": "Grazulex/laravel-autobuilder",
     "url": "https://github.com/Grazulex/laravel-autobuilder",
     "description": "Visual automation builder for Laravel - Create workflows with a drag-and-drop interface",
-    "stars": 67,
+    "stars": 74,
     "forks": 5,
     "topics": [
       "laravel",
@@ -14835,7 +14835,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2025-12-31T07:08:50Z",
-    "updated_at": "2026-11-27T22:50:38Z",
+    "updated_at": "2026-11-28T06:21:14Z",
     "pushed_at": "2026-11-27T12:00:59Z",
     "discovered_at": "2026-01-29T01:22:25.334Z"
   },
@@ -25240,7 +25240,7 @@
     "license": "MIT",
     "created_at": "2021-08-13T22:32:26Z",
     "updated_at": "2026-11-12T16:43:53Z",
-    "pushed_at": "2026-11-27T15:26:56Z",
+    "pushed_at": "2026-11-28T05:52:42Z",
     "discovered_at": "2026-02-19T00:44:48.866Z"
   },
   "exolnet/laravel-backup-database": {
@@ -32616,7 +32616,7 @@
     "license": null,
     "created_at": "2025-07-11T19:59:58Z",
     "updated_at": "2026-11-25T17:35:17Z",
-    "pushed_at": "2026-11-27T21:33:53Z",
+    "pushed_at": "2026-11-28T01:01:00Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "f-codex/apexio": {
@@ -34154,7 +34154,7 @@
     "license": "NOASSERTION",
     "created_at": "2016-07-18T18:05:09Z",
     "updated_at": "2026-09-22T19:16:35Z",
-    "pushed_at": "2026-11-25T16:21:19Z",
+    "pushed_at": "2026-11-28T04:15:21Z",
     "discovered_at": "2026-02-19T00:44:48.867Z"
   },
   "mujahidabbas/planforge": {
@@ -54819,7 +54819,7 @@
     "license": "MIT",
     "created_at": "2014-07-31T11:00:50Z",
     "updated_at": "2026-11-12T09:29:18Z",
-    "pushed_at": "2026-11-27T23:21:30Z",
+    "pushed_at": "2026-11-28T04:54:34Z",
     "discovered_at": "2026-03-27T12:16:16.808Z"
   },
   "ecaresolutions/ecaresms-laravel-library": {
@@ -57542,7 +57542,7 @@
     "license": "MIT",
     "created_at": "2026-02-24T20:39:35Z",
     "updated_at": "2026-11-12T05:10:33Z",
-    "pushed_at": "2026-11-27T23:46:45Z",
+    "pushed_at": "2026-11-28T06:18:40Z",
     "discovered_at": "2026-04-01T18:20:12.670Z"
   },
   "waadmawlood/filament-media": {
@@ -65321,7 +65321,7 @@
     "url": "https://github.com/escapeboy/agent-fleet-o",
     "description": "Open-source AI agent orchestration platform — self-hosted mission control for autonomous multi-agent systems. Visual DAG workflows, 670+ MCP tools, human-in-the-loop approvals. Works with Claude, GPT-4o, Gemini, Ollama, Codex.",
     "stars": 84,
-    "forks": 13,
+    "forks": 14,
     "topics": [
       "agent-orchestration",
       "agentic-ai",
@@ -65348,7 +65348,7 @@
     "license": "AGPL-3.0",
     "created_at": "2026-02-08T19:27:13Z",
     "updated_at": "2026-11-23T19:59:35Z",
-    "pushed_at": "2026-11-27T23:28:47Z",
+    "pushed_at": "2026-11-28T05:20:39Z",
     "discovered_at": "2026-04-22T12:23:22.917Z"
   },
   "doobert-team/aws-secrets-manager": {
@@ -79252,7 +79252,7 @@
     "license": "MIT",
     "created_at": "2025-09-23T11:53:50Z",
     "updated_at": "2026-11-27T01:52:32Z",
-    "pushed_at": "2026-11-27T17:30:27Z",
+    "pushed_at": "2026-11-28T03:23:16Z",
     "discovered_at": "2026-06-03T19:21:16.131Z"
   },
   "sbtsdev/laravel-clickup-error-reporting": {
@@ -80183,7 +80183,7 @@
     "license": null,
     "created_at": "2026-06-05T12:06:25Z",
     "updated_at": "2026-11-26T15:45:49Z",
-    "pushed_at": "2026-11-28T00:34:58Z",
+    "pushed_at": "2026-11-28T05:43:32Z",
     "discovered_at": "2026-06-06T12:28:50.782Z"
   },
   "babelqueue/laravel": {
@@ -83775,7 +83775,7 @@
     "license": null,
     "created_at": "2026-06-16T18:07:02Z",
     "updated_at": "2026-10-16T18:30:11Z",
-    "pushed_at": "2026-11-28T00:22:55Z",
+    "pushed_at": "2026-11-28T05:09:27Z",
     "discovered_at": "2026-06-17T00:50:24.091Z"
   },
   "rajurayhan/laravel-eloquent-order-manager": {
@@ -91923,7 +91923,7 @@
     "license": "MIT",
     "created_at": "2026-07-04T00:14:38Z",
     "updated_at": "2026-11-12T16:22:38Z",
-    "pushed_at": "2026-11-27T20:25:51Z",
+    "pushed_at": "2026-11-28T06:06:37Z",
     "discovered_at": "2026-07-04T12:46:56.724Z"
   },
   "siko001/atx-ticket-event-laravel": {
@@ -95725,7 +95725,7 @@
     "license": "MIT",
     "created_at": "2026-07-15T12:31:47Z",
     "updated_at": "2026-11-24T11:00:02Z",
-    "pushed_at": "2026-11-27T23:14:58Z",
+    "pushed_at": "2026-11-28T03:25:43Z",
     "discovered_at": "2026-07-16T12:54:21.585Z"
   },
   "yoosuf/barcode": {
@@ -99717,7 +99717,7 @@
     "license": "MIT",
     "created_at": "2026-07-25T03:17:11Z",
     "updated_at": "2026-11-11T04:50:53Z",
-    "pushed_at": "2026-11-11T03:50:50Z",
+    "pushed_at": "2026-11-28T05:57:17Z",
     "discovered_at": "2026-07-26T07:14:58.585Z"
   },
   "ehsan1992-71/ai-seo-laravel": {
@@ -109516,7 +109516,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-08-06T06:58:22Z",
     "updated_at": "2026-11-02T16:49:02Z",
-    "pushed_at": "2026-11-27T00:35:54Z",
+    "pushed_at": "2026-11-28T02:31:36Z",
     "discovered_at": "2026-08-24T18:34:02.829Z"
   },
   "liberusoftware/module-liberu-platform-orchestration": {
@@ -109536,7 +109536,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-08-06T06:58:31Z",
     "updated_at": "2026-11-02T16:49:17Z",
-    "pushed_at": "2026-11-27T00:36:00Z",
+    "pushed_at": "2026-11-28T02:31:40Z",
     "discovered_at": "2026-08-24T18:34:02.829Z"
   },
   "liberusoftware/module-liberu-business-workflow-reconciliation": {
@@ -109556,7 +109556,7 @@
     "license": "NOASSERTION",
     "created_at": "2026-08-06T06:58:12Z",
     "updated_at": "2026-11-02T16:48:45Z",
-    "pushed_at": "2026-11-27T00:35:49Z",
+    "pushed_at": "2026-11-28T02:31:33Z",
     "discovered_at": "2026-08-24T18:34:02.829Z"
   },
   "liberusoftware/module-liberu-platform-orchestration-livewire": {
@@ -114610,7 +114610,7 @@
     "license": "MIT",
     "created_at": "2023-01-30T04:47:34Z",
     "updated_at": "2026-09-20T01:42:36Z",
-    "pushed_at": "2026-11-28T00:40:10Z",
+    "pushed_at": "2026-11-28T02:12:07Z",
     "discovered_at": "2026-09-07T18:33:15.223Z"
   },
   "ja-sangha/riwaaq": {
@@ -114751,7 +114751,7 @@
     "license": "MPL-2.0",
     "created_at": "2026-09-07T15:17:15Z",
     "updated_at": "2026-10-31T13:02:36Z",
-    "pushed_at": "2026-11-28T00:33:27Z",
+    "pushed_at": "2026-11-28T06:24:34Z",
     "discovered_at": "2026-09-07T18:33:15.226Z"
   },
   "isaidgitmenow/laravel-errors": {
@@ -118202,7 +118202,7 @@
     "license": "MIT",
     "created_at": "2026-09-13T01:36:19Z",
     "updated_at": "2026-11-22T14:09:30Z",
-    "pushed_at": "2026-11-27T18:49:57Z",
+    "pushed_at": "2026-11-28T01:44:15Z",
     "discovered_at": "2026-09-13T04:57:33.035Z"
   },
   "sineld/voyager": {
@@ -118272,7 +118272,7 @@
     "license": "MIT",
     "created_at": "2026-09-13T02:53:53Z",
     "updated_at": "2026-11-22T22:54:01Z",
-    "pushed_at": "2026-11-27T18:54:26Z",
+    "pushed_at": "2026-11-28T01:44:55Z",
     "discovered_at": "2026-09-13T04:57:33.037Z"
   },
   "innoboxrr/wirecomments": {
@@ -119285,8 +119285,8 @@
     "name": "packstub/filament-flow",
     "url": "https://github.com/packstub/filament-flow",
     "description": "Visual workflow automation for Filament panels: triggers, conditions and actions drawn on a canvas, run by your queue.",
-    "stars": 28,
-    "forks": 7,
+    "stars": 29,
+    "forks": 8,
     "topics": [
       "automation",
       "automations",
@@ -119304,7 +119304,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-09-02T15:43:21Z",
-    "updated_at": "2026-11-28T00:13:34Z",
+    "updated_at": "2026-11-28T01:26:53Z",
     "pushed_at": "2026-11-25T16:26:28Z",
     "discovered_at": "2026-09-15T17:07:34.279Z"
   },
@@ -122363,7 +122363,7 @@
     "license": "MIT",
     "created_at": "2026-09-24T01:19:54Z",
     "updated_at": "2026-11-12T14:31:06Z",
-    "pushed_at": "2026-11-28T00:40:44Z",
+    "pushed_at": "2026-11-28T00:42:21Z",
     "discovered_at": "2026-09-24T05:02:23.681Z"
   },
   "ahmad-chebbo/laravel-media-generator": {
@@ -126222,7 +126222,7 @@
     "license": "MIT",
     "created_at": "2026-08-10T16:20:31Z",
     "updated_at": "2026-10-29T22:31:25Z",
-    "pushed_at": "2026-11-26T22:57:11Z",
+    "pushed_at": "2026-11-28T05:44:34Z",
     "discovered_at": "2026-10-02T18:38:09.119Z"
   },
   "smit-backend/laravel-backup-vault": {
@@ -130194,7 +130194,7 @@
     "url": "https://github.com/marcpope/cortendesk",
     "description": "A web based, open-source console for managing the RustDesk OSS Server and Client.",
     "stars": 285,
-    "forks": 44,
+    "forks": 43,
     "topics": [
       "admin-dashboard",
       "anydesk",
@@ -150955,7 +150955,7 @@
     "license": "MIT",
     "created_at": "2024-02-04T14:44:58Z",
     "updated_at": "2026-11-21T19:39:21Z",
-    "pushed_at": "2026-11-27T01:44:20Z",
+    "pushed_at": "2026-11-28T02:50:18Z",
     "discovered_at": "2026-11-05T18:27:07.062Z"
   },
   "liberusoftware/project-boilerplate-laravel-filament": {
@@ -154993,7 +154993,7 @@
     "license": "MIT",
     "created_at": "2026-10-09T21:21:54Z",
     "updated_at": "2026-11-14T13:16:34Z",
-    "pushed_at": "2026-11-27T13:44:41Z",
+    "pushed_at": "2026-11-28T00:57:29Z",
     "discovered_at": "2026-11-14T18:24:40.901Z"
   },
   "dembalua/blog-cms": {
@@ -155140,7 +155140,7 @@
     "license": "MIT",
     "created_at": "2026-10-22T22:32:35Z",
     "updated_at": "2026-11-15T07:08:38Z",
-    "pushed_at": "2026-11-27T10:50:10Z",
+    "pushed_at": "2026-11-28T02:18:12Z",
     "discovered_at": "2026-11-15T12:27:20.349Z"
   },
   "jund-fauz/filament-kompact": {
@@ -155160,7 +155160,7 @@
     "license": "MIT",
     "created_at": "2026-11-07T02:18:48Z",
     "updated_at": "2026-11-15T07:08:38Z",
-    "pushed_at": "2026-11-27T10:04:26Z",
+    "pushed_at": "2026-11-28T03:03:25Z",
     "discovered_at": "2026-11-15T12:27:20.349Z"
   },
   "muhammadsyahmi98/laravel-database-to-model": {
@@ -157516,8 +157516,8 @@
     "name": "himacode-company/workerless",
     "url": "https://github.com/himacode-company/workerless",
     "description": "Laravel queues without cron, SSH or queue:work. Built for shared hosting.",
-    "stars": 9,
-    "forks": 0,
+    "stars": 10,
+    "forks": 1,
     "topics": [
       "background-jobs",
       "laravel",
@@ -157530,7 +157530,7 @@
     "language": "PHP",
     "license": "MIT",
     "created_at": "2026-11-18T15:02:37Z",
-    "updated_at": "2026-11-24T20:59:19Z",
+    "updated_at": "2026-11-28T03:33:57Z",
     "pushed_at": "2026-11-18T17:04:54Z",
     "discovered_at": "2026-11-18T18:25:39.345Z"
   },
@@ -157680,7 +157680,7 @@
     "license": "MIT",
     "created_at": "2026-02-07T03:44:30Z",
     "updated_at": "2026-11-18T22:39:23Z",
-    "pushed_at": "2026-11-27T06:49:11Z",
+    "pushed_at": "2026-11-28T03:46:47Z",
     "discovered_at": "2026-11-19T00:43:12.981Z"
   },
   "asteriacreations/portico": {
@@ -157704,7 +157704,7 @@
     "license": "AGPL-3.0",
     "created_at": "2026-09-03T03:22:47Z",
     "updated_at": "2026-11-18T23:45:57Z",
-    "pushed_at": "2026-11-28T00:35:40Z",
+    "pushed_at": "2026-11-28T06:32:00Z",
     "discovered_at": "2026-11-19T00:43:12.982Z"
   },
   "jantydlacka/laravel-shop": {
@@ -160721,7 +160721,7 @@
     "license": "MIT",
     "created_at": "2026-09-16T17:18:37Z",
     "updated_at": "2026-11-26T05:13:45Z",
-    "pushed_at": "2026-11-27T20:12:09Z",
+    "pushed_at": "2026-11-28T06:00:41Z",
     "discovered_at": "2026-11-26T06:35:23.840Z"
   },
   "mixiii0006/e-commerce-mixxie": {
@@ -160952,7 +160952,7 @@
     "license": null,
     "created_at": "2026-11-24T11:13:31Z",
     "updated_at": "2026-11-26T12:47:44Z",
-    "pushed_at": "2026-11-27T18:16:43Z",
+    "pushed_at": "2026-11-28T02:39:45Z",
     "discovered_at": "2026-11-26T18:27:32.507Z"
   },
   "aringoldx/tallstack-employees": {
@@ -161509,5 +161509,89 @@
     "updated_at": "2026-11-27T21:00:31Z",
     "pushed_at": "2026-11-27T21:28:09Z",
     "discovered_at": "2026-11-28T00:42:03.040Z"
+  },
+  "droplopay/droplopay-laravel": {
+    "name": "droplopay/droplopay-laravel",
+    "url": "https://github.com/droplopay/droplopay-laravel",
+    "description": "Official Laravel package for DroploPay — accept bKash, Nagad, Rocket & bank payments with a simple Facade.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-11-28T06:03:02Z",
+    "updated_at": "2026-11-28T06:04:15Z",
+    "pushed_at": "2026-11-28T06:10:00Z",
+    "discovered_at": "2026-11-28T06:32:21.599Z"
+  },
+  "eubourne/laravel-queue-throttle": {
+    "name": "eubourne/laravel-queue-throttle",
+    "url": "https://github.com/eubourne/laravel-queue-throttle",
+    "description": "A Laravel package to manage and throttle queue job processing with customizable rate limits and shared controls.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2024-11-22T22:23:41Z",
+    "updated_at": "2025-08-21T20:55:57Z",
+    "pushed_at": "2026-11-28T04:55:43Z",
+    "discovered_at": "2026-11-28T06:32:21.599Z"
+  },
+  "gp247-official/core": {
+    "name": "gp247-official/core",
+    "url": "https://github.com/gp247-official/core",
+    "description": "[PACKAGE] Core of GP247, an open-source ecosystem on Laravel for building business web applications: admin, permissions, extensions",
+    "stars": 4,
+    "forks": 0,
+    "topics": [
+      "core-admin",
+      "gp247",
+      "laravel-admin",
+      "laravel-system"
+    ],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2025-01-16T22:24:32Z",
+    "updated_at": "2026-11-28T02:14:09Z",
+    "pushed_at": "2026-11-28T03:59:48Z",
+    "discovered_at": "2026-11-28T06:32:21.599Z"
+  },
+  "dev-3bdulrahman/fanzly-whatsapp": {
+    "name": "Dev-3bdulrahman/fanzly-whatsapp",
+    "url": "https://github.com/Dev-3bdulrahman/fanzly-whatsapp",
+    "description": "Professional PHP & Laravel package for Fanzly.net WhatsApp Messaging, Campaigns, and OTP Verification API with a bilingual single-page UI and registration shortcodes.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [],
+    "language": "PHP",
+    "license": "MIT",
+    "created_at": "2026-11-28T03:14:09Z",
+    "updated_at": "2026-11-28T03:14:38Z",
+    "pushed_at": "2026-11-28T03:14:36Z",
+    "discovered_at": "2026-11-28T06:32:21.599Z"
+  },
+  "daniel-leiva/astrogames-laravel": {
+    "name": "daniel-leiva/astrogames-laravel",
+    "url": "https://github.com/daniel-leiva/astrogames-laravel",
+    "description": "Portal web y foro de videojuegos AstroGames con noticias, reseñas, guías, eventos, catálogo y comentarios, desarrollado con Laravel.",
+    "stars": 0,
+    "forks": 0,
+    "topics": [
+      "gaming",
+      "jetstream",
+      "laravel",
+      "livewire",
+      "mysql",
+      "php",
+      "tailwindcss",
+      "vite"
+    ],
+    "language": "PHP",
+    "license": null,
+    "created_at": "2026-11-25T03:47:57Z",
+    "updated_at": "2026-11-28T02:36:09Z",
+    "pushed_at": "2026-11-28T02:35:54Z",
+    "discovered_at": "2026-11-28T06:32:21.602Z"
   }
 }

@@ -2,13 +2,18 @@
 
 Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
-**Total packages tracked:** 8409  
-**Last updated:** 2026-11-28T00:42:03.094Z
+**Total packages tracked:** 8414  
+**Last updated:** 2026-11-28T06:32:21.640Z
 
 ## 📦 Recently Discovered
 
 | Package | ⭐ | Description |
 |---------|-----|-------------|
+| [daniel-leiva/astrogames-laravel](https://github.com/daniel-leiva/astrogames-laravel) | 0 | Portal web y foro de videojuegos AstroGames con noticias, reseñas, guías, evento... |
+| [droplopay/droplopay-laravel](https://github.com/droplopay/droplopay-laravel) | 0 | Official Laravel package for DroploPay — accept bKash, Nagad, Rocket & bank paym... |
+| [eubourne/laravel-queue-throttle](https://github.com/eubourne/laravel-queue-throttle) | 0 | A Laravel package to manage and throttle queue job processing with customizable ... |
+| [gp247-official/core](https://github.com/gp247-official/core) | 4 | [PACKAGE] Core of GP247, an open-source ecosystem on Laravel for building busine... |
+| [Dev-3bdulrahman/fanzly-whatsapp](https://github.com/Dev-3bdulrahman/fanzly-whatsapp) | 0 | Professional PHP & Laravel package for Fanzly.net WhatsApp Messaging, Campaigns,... |
 | [Voyanara/avito-laravel-client](https://github.com/Voyanara/avito-laravel-client) | 6 | ⚡ Typed Laravel SDK for the Avito API (Авито): messenger, webhooks, account bala... |
 | [siberfx/ploi-laravel](https://github.com/siberfx/ploi-laravel) | 0 | The Ploi.io PHP SDK made for Laravel 12/13 on PHP 8.3+: multiple accounts, Larav... |
 | [signdeck/kinetic](https://github.com/signdeck/kinetic) | 91 | A package that adds view-composer like feature to Inertia.js Laravel adapter. |
@@ -24,11 +29,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | [xofactory/loggerxo-laravel](https://github.com/xofactory/loggerxo-laravel) | 1 | Laravel SDK for Loggerxo: exceptions, log channel, breadcrumbs and performance t... |
 | [abitech-dev/abitech-sso-laravel](https://github.com/abitech-dev/abitech-sso-laravel) | 0 | Conecta apps Laravel con una central en Laravel Passport para el inicio de sesió... |
 | [LaravelPlus/global-settings](https://github.com/LaravelPlus/global-settings) | 0 | Global settings management for Laravel with admin panel support. |
-| [LaravelPlus/content-security](https://github.com/LaravelPlus/content-security) | 0 | Defense-in-depth content security for Laravel: malware scanning, MIME/magic-byte... |
-| [LaravelPlus/subscribe](https://github.com/LaravelPlus/subscribe) | 0 | Email subscriptions and newsletters for Laravel: Brevo, Mailchimp, HubSpot, Conv... |
-| [plan-parts/vin-oem-parts-catalog](https://github.com/plan-parts/vin-oem-parts-catalog) | 0 | Laravel package for the plan.parts OEM parts catalog: identify a vehicle by VIN,... |
-| [brand-boosters/laravel-local-media-proxy](https://github.com/brand-boosters/laravel-local-media-proxy) | 0 | Laravel package for Local Media Proxy (dev-only): read production assets through... |
-| [aderitodebarros/pulse-laravel](https://github.com/aderitodebarros/pulse-laravel) | 0 | Automatic Pulse feedback widget and error monitoring for Laravel. Composer packa... |
 
 ## 🌟 Top Starred (Under 500)
 
@@ -59,26 +59,26 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Package | ⭐ | Last Push | Description |
 |---------|-----|-----------|-------------|
-| [Voyanara/avito-laravel-client](https://github.com/Voyanara/avito-laravel-client) | 6 | 2026-11-28 | ⚡ Typed Laravel SDK for the Avito API (Авито): messenger, we... |
-| [VeliraPay/velirapay-laravel](https://github.com/VeliraPay/velirapay-laravel) | 0 | 2026-11-28 | Official Laravel package for VeliraPay crypto payments: a fa... |
-| [innoboxrr/larapack-generator](https://github.com/innoboxrr/larapack-generator) | 2 | 2026-11-28 | Scaffold a production-ready Laravel package in seconds - str... |
 | [AsteriaCreations/portico](https://github.com/AsteriaCreations/portico) | 2 | 2026-11-28 | Member check-in & membership management for clubs — concurre... |
-| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 1 | 2026-11-28 | Concrete implementations of the 9 domain interfaces from nvo... |
 | [adamgreenwell/kitsune](https://github.com/adamgreenwell/kitsune) | 0 | 2026-11-28 | A multi-purpose content and application platform for Laravel... |
-| [Kisame76/filament-advanced-rich-editor](https://github.com/Kisame76/filament-advanced-rich-editor) | 12 | 2026-11-28 | A drop-in Filament v5 RichEditor with a configurable toolbar... |
-| [signdeck/kinetic](https://github.com/signdeck/kinetic) | 91 | 2026-11-28 | A package that adds view-composer like feature to Inertia.js... |
+| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-28 |  |
+| [droplopay/droplopay-laravel](https://github.com/droplopay/droplopay-laravel) | 0 | 2026-11-28 | Official Laravel package for DroploPay — accept bKash, Nagad... |
+| [haddowg/json-api-laravel](https://github.com/haddowg/json-api-laravel) | 0 | 2026-11-28 | Laravel package for haddowg/json-api: idiomatic routing, con... |
+| [mallardduck/blade-lucide-icons](https://github.com/mallardduck/blade-lucide-icons) | 113 | 2026-11-28 | A package to easily make use of Lucide Icons in your Laravel... |
+| [cativo23/amigo-tcg](https://github.com/cativo23/amigo-tcg) | 0 | 2026-11-28 | Personal Pokémon TCG collection tracker with daily-synced ma... |
+| [ubayedtanvir/laravel-tenancy](https://github.com/ubayedtanvir/laravel-tenancy) | 2 | 2026-11-28 | Single-database multi-tenancy for Laravel that fails closed—... |
+| [lara-zeus/bolt](https://github.com/lara-zeus/bolt) | 243 | 2026-11-28 | form builder for your users, with so many use cases |
+| [storyfeed/storyfeed](https://github.com/storyfeed/storyfeed) | 1 | 2026-11-28 | Activity feeds for Laravel, aligned with the W3C Activity St... |
+| [nvdigitalsolutions/nvoos-laravel-adapter](https://github.com/nvdigitalsolutions/nvoos-laravel-adapter) | 1 | 2026-11-28 | Concrete implementations of the 9 domain interfaces from nvo... |
+| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 84 | 2026-11-28 | Open-source AI agent orchestration platform — self-hosted mi... |
 | [haakco/custd-sdk-laravel](https://github.com/haakco/custd-sdk-laravel) | 0 | 2026-11-28 | Laravel integration for Custd (read-only mirror of custd-sdk... |
-| [delgont/armor](https://github.com/delgont/armor) | 0 | 2026-11-28 | Armor is a powerful, flexible, and cache-friendly permission... |
-| [ShieldCI/laravel](https://github.com/ShieldCI/laravel) | 4 | 2026-11-28 | Automated code analysis for Laravel applications with 73 ope... |
-| [pushery/sqlens-for-laravel](https://github.com/pushery/sqlens-for-laravel) | 11 | 2026-11-28 | Database safety for Laravel on PostgreSQL and MySQL. SQLens ... |
-| [pushery/legal-consent-for-laravel](https://github.com/pushery/legal-consent-for-laravel) | 4 | 2026-11-28 | Built to support GDPR/DSGVO-compliant legal consent workflow... |
-| [assetfeed/filament-ai-detector](https://github.com/assetfeed/filament-ai-detector) | 0 | 2026-11-28 | Filament infolist entry that checks a text attribute for AI-... |
-| [pushery/visual-feedback-for-laravel](https://github.com/pushery/visual-feedback-for-laravel) | 7 | 2026-11-28 | Visual feedback for Laravel and Livewire with client-side sc... |
-| [techenby/sunny](https://github.com/techenby/sunny) | 2 | 2026-11-27 |  |
-| [spokospace/filament-ops-notify](https://github.com/spokospace/filament-ops-notify) | 2 | 2026-11-27 | Ops notifications (inquiries, errors, builds) for Laravel + ... |
-| [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) | 84 | 2026-11-27 | Open-source AI agent orchestration platform — self-hosted mi... |
-| [yumaitau/laravel-random-token](https://github.com/yumaitau/laravel-random-token) | 0 | 2026-11-27 | A simple package to generate random tokens (but safe) tokens... |
-| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-11-27 | A Laravel package as a backend administrating tool for Conte... |
+| [eubourne/laravel-queue-throttle](https://github.com/eubourne/laravel-queue-throttle) | 0 | 2026-11-28 | A Laravel package to manage and throttle queue job processin... |
+| [redooor/redminportal](https://github.com/redooor/redminportal) | 43 | 2026-11-28 | A Laravel package as a backend administrating tool for Conte... |
+| [GrafiteInc/Forms](https://github.com/GrafiteInc/Forms) | 37 | 2026-11-28 | Form Classes for Laravel - letting you generate HTML forms f... |
+| [gp247-official/core](https://github.com/gp247-official/core) | 4 | 2026-11-28 | [PACKAGE] Core of GP247, an open-source ecosystem on Laravel... |
+| [escalated-dev/escalated-laravel](https://github.com/escalated-dev/escalated-laravel) | 34 | 2026-11-28 | Add a complete open-source helpdesk to Laravel. Support tick... |
+| [pushery/billing-for-laravel](https://github.com/pushery/billing-for-laravel) | 3 | 2026-11-28 | An all-in-one Laravel billing toolkit for subscriptions, inv... |
+| [codemonster-ru/ssr-bridge](https://github.com/codemonster-ru/ssr-bridge) | 0 | 2026-11-28 | PHP bridge to Node.js server-side renderers over a local pro... |
 
 ---
 
@@ -86,6 +86,7 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 
 | Run | New | Updated | Total |
 |-----|-----|---------|-------|
+| 2026-11-28T06:32 | 5 | 1710 | 8414 |
 | 2026-11-28T00:42 | 8 | 1706 | 8409 |
 | 2026-11-27T18:26 | 8 | 1704 | 8401 |
 | 2026-11-27T12:30 | 4 | 1706 | 8393 |
@@ -95,7 +96,6 @@ Auto-discovered Laravel packages from GitHub, updated every 6 hours.
 | 2026-11-26T12:31 | 4 | 1706 | 8376 |
 | 2026-11-26T06:35 | 6 | 1701 | 8372 |
 | 2026-11-26T00:43 | 5 | 1701 | 8366 |
-| 2026-11-25T18:26 | 3 | 1705 | 8361 |
 
 ---
 
